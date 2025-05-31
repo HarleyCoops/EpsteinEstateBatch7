@@ -1,0 +1,9 @@
+1. This repo has an existing set of code that will process images and extract text. 
+2. We are going to make a different version of this model within the folder/StoryTranslator.
+3. Story translator will have an input folder and an output folder.
+4. The input folder will have a set of images that we want to translate.
+5. The output folder will have a set of text files that are the translated text from the images but the twist is the source document will be handwrittten and in german. 
+6. Therefore we might have two output: each handwritten image will be extract into the original text german first. 
+7. From that markdown file in german, the model will translate it into english. 
+8. The final output will be a markdown file in english. 
+
