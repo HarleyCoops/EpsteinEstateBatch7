@@ -26,7 +26,7 @@ ENGLISH_OUTPUT_DIR = os.path.join(BASE_DIR, 'english_output')
 # Model and generation settings
 MODEL_NAME = "gemini-2.5-pro-preview-05-06"
 EXTRACTION_TEMPERATURE = 0.3  # Lower temperature for accurate OCR
-TRANSLATION_TEMPERATURE = 0.5  # Balance accuracy and fluency for translation
+TRANSLATION_TEMPERATURE = 0.7  # Balance accuracy and fluency for translation
 
 PROMPT_IMAGE_EXTRACTION = (
     "This is a single page image of a handwritten German document.\n"
@@ -83,8 +83,11 @@ def extract_german_text(image_path, client):
             config=generate_content_config,
         ):
             chunk_count += 1
-            output += chunk.text
-            print(f"  Received chunk {chunk_count} ({len(chunk.text)} chars)")
+            if chunk.text:
+                output += chunk.text
+                print(f"  Received chunk {chunk_count} ({len(chunk.text)} chars)")
+            else:
+                print(f"  Received empty chunk {chunk_count}")
         
         print(f"  Generation complete! Took {time.time() - generation_start:.2f} seconds")
         print(f"  Total output length: {len(output)} characters")
@@ -132,8 +135,11 @@ def translate_to_english(german_text, client):
             config=generate_content_config,
         ):
             chunk_count += 1
-            output += chunk.text
-            print(f"  Translation chunk {chunk_count} ({len(chunk.text)} chars)")
+            if chunk.text:
+                output += chunk.text
+                print(f"  Translation chunk {chunk_count} ({len(chunk.text)} chars)")
+            else:
+                print(f"  Received empty translation chunk {chunk_count}")
         
         print(f"  Translation complete! Took {time.time() - start_time:.2f} seconds")
         print(f"  Translation output length: {len(output)} characters")
