@@ -24,19 +24,19 @@ GERMAN_OUTPUT_DIR = os.path.join(BASE_DIR, 'german_output')
 ENGLISH_OUTPUT_DIR = os.path.join(BASE_DIR, 'english_output')
 
 # Model and generation settings
-MODEL_NAME = "gemini-2.5-pro-preview-05-20"
+MODEL_NAME = "gemini-2.5-pro-preview-05-06"
 EXTRACTION_TEMPERATURE = 0.3  # Lower temperature for accurate OCR
-TRANSLATION_TEMPERATURE = 0.7  # Balance accuracy and fluency for translation
+TRANSLATION_TEMPERATURE = 0.5  # Balance accuracy and fluency for translation
 
 PROMPT_IMAGE_EXTRACTION = (
     "This is a single page image of a handwritten German document.\n"
     "Extract the handwritten German text exactly as it appears, preserving line breaks.\n"
-    "Return the result in markdown format."
+    "Return the result in plain text format."
 )
 
 PROMPT_TRANSLATION_TEMPLATE = (
-    "Translate the following markdown content from German to English, preserving markdown formatting:\n\n"
-    "```\n{german_content}\n```"
+    "Translate the following German text to English, preserving line breaks and structure:\n\n"
+    "{german_content}"
 )
 
 def extract_german_text(image_path, client):
@@ -178,8 +178,8 @@ def main():
         print(f"[{i}/{len(images)}] Processing: {image_file}")
         
         stem, _ = os.path.splitext(image_file)
-        german_file = f"{stem}_german.md"
-        english_file = f"{stem}_english.md"
+        german_file = f"{stem}_german.txt"
+        english_file = f"{stem}_english.txt"
         german_path = os.path.join(GERMAN_OUTPUT_DIR, german_file)
         english_path = os.path.join(ENGLISH_OUTPUT_DIR, english_file)
 
