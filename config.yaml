@@ -1,4 +1,4 @@
-"""config.yaml - pipeline configuration"""
+# config.yaml - pipeline configuration
 
 # Input settings
 input:
