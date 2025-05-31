@@ -1,0 +1,73 @@
+"""config.yaml - pipeline configuration"""
+
+# Input settings
+input:
+  # Supported input file formats
+  formats: ["pdf", "jpg", "png", "tiff"]
+  # Directory or file path to process
+  path: "input"
+
+# OCR settings
+ocr:
+  # OCR engine: "tesseract" or others
+  engine: "tesseract"
+  # Languages for Tesseract (e.g., "deu", "fra", etc.)
+  languages: ["deu"]
+
+# Translation settings
+translation:
+  # Use "auto" to detect source language from extraction step.
+  source_language: "auto"
+  # Always translate to English
+  target_language: "en"
+  # Translation provider: "openai", "local", etc.
+  provider: "openai"
+  # Model name for the translation API (TODO: update to current model names)
+  model: "gpt-4"
+
+# Output settings
+output:
+  # Directory to save extraction and translation outputs
+  path: "output"
+  # Output file format: "md", "txt", or "json"
+  format: "md"
+  # Page break marker in Markdown output
+  page_break: "---"
+
+# Parallelization / performance
+performance:
+  # Enable parallel processing of pages
+  parallel: false
+  # Number of worker processes if parallel is true
+  max_workers: 4
+
+# Logging settings
+logging:
+  # Logging level: DEBUG, INFO, WARNING, ERROR
+  level: "INFO"
+  # Log file path
+  file: "translator.log"
+
+# Agent settings for character intelligence building
+agent:
+  # Enable or disable the OpenAI agent monitoring loop
+  enabled: true
+  # Model name for the agent (TODO: update to current model IDs)
+  model: "gpt-4"
+  # Directory to watch for translated English output files
+  watch_path: "english_output"
+  # Filename pattern for translated files
+  watch_pattern: "*_english.txt"
+  # Folder to store per-character intelligence JSON files
+  characters_path: "characters"
+  # Polling interval (seconds) to check for new translations
+  poll_interval: 10
+  # Instructions for the agent to extract and update character intelligence
+  task_instruction: |
+    You are a character intelligence agent. For each translated page of text,
+    identify all characters mentioned and extract their names, aliases, dates,
+    relationships, events, and precise locations (down to meter-level if available).
+    For each character, create or update a JSON file in the characters folder
+    named {name}.json. Merge newly found information into existing records
+    when present. Always maintain valid JSON structure describing the
+    character's profile, connections, and citations of source pages.
