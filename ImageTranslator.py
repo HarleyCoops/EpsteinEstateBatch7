@@ -29,6 +29,7 @@ EXTRACTION_TEMPERATURE = 0.4  # Lower temperature for accurate OCR
 TRANSLATION_TEMPERATURE = 0.8  # Balance accuracy and fluency for translation
 ANALYSIS_TEMPERATURE = 0.75 # For nuanced and insightful interpretations
 LATEX_GENERATION_TEMPERATURE = 0.2 # Lower temperature for precise LaTeX code
+GDOC_FORMAT_TEMPERATURE = 0.1 # Low temperature for minimal alteration, just cleanup.
 
 PROMPT_IMAGE_EXTRACTION = (
     "This is a single page image of a handwritten German document.\\n"
@@ -76,6 +77,19 @@ PROMPT_ENGLISH_TO_LATEX_TEMPLATE = (
     "--- BEGIN ENGLISH TEXT ---\\n"
     "{english_letter_content}\\n"
     "--- END ENGLISH TEXT ---"
+)
+
+PROMPT_FORMAT_FOR_GDOC_TEMPLATE = (
+    "You are an expert text formatter. The following text is a compilation of several English letters, "
+    "separated by a Markdown thematic break ('---'). Your task is to ensure this text is presented as clean, "
+    "readable Markdown, suitable for pasting directly into a Google Doc. "
+    "Preserve all existing paragraph breaks (typically indicated by blank lines). "
+    "Ensure that the thematic breaks ('---') used to separate individual letters are correctly formatted as standalone Markdown thematic breaks. "
+    "Do not add any new content, titles, or commentary. Simply ensure the provided text is well-formed Markdown. "
+    "The text is:\\n\\n"
+    "--- BEGIN TEXT ---\\n"
+    "{combined_english_text}\\n"
+    "--- END TEXT ---"
 )
 
 def extract_german_text(image_path, client):
@@ -297,6 +311,61 @@ def generate_latex_from_english(english_text, client):
         print(f"  Full traceback: {traceback.format_exc()}")
         raise
 
+def format_english_for_gdoc(combined_english_text, client):
+    """
+    Formats the combined English text as clean Markdown for Google Docs pasting.
+    Returns the formatted Markdown text.
+    """
+    print(f"  Formatting {len(combined_english_text)} characters of English text for Google Docs (Markdown)...")
+    start_time = time.time()
+    
+    try:
+        prompt = PROMPT_FORMAT_FOR_GDOC_TEMPLATE.format(combined_english_text=combined_english_text)
+        # print(f"  GDoc Formatting prompt length: {len(prompt)} characters") # Can be verbose
+        
+        contents = [
+            types.Content(
+                role="user",
+                parts=[
+                    types.Part.from_text(text=prompt),
+                ],
+            ),
+        ]
+        
+        generate_content_config = types.GenerateContentConfig(
+            temperature=GDOC_FORMAT_TEMPERATURE,
+            response_mime_type="text/plain",
+        )
+        
+        print(f"  Starting GDoc Markdown formatting with model: {MODEL_NAME}")
+        
+        output = ""
+        # Using generate_content directly as the input/output should not be excessively large here
+        # and streaming might be overkill for a simple formatting pass.
+        # However, to be consistent with other calls and handle potential edge cases of long texts:
+        for chunk in client.models.generate_content_stream(
+            model=MODEL_NAME,
+            contents=contents,
+            config=generate_content_config,
+        ):
+            if chunk.text:
+                output += chunk.text
+        
+        print(f"  GDoc Markdown formatting complete! Took {time.time() - start_time:.2f} seconds")
+        # print(f"  Formatted Markdown output length: {len(output)} characters")
+        
+        # The LLM might sometimes wrap the output in ```markdown ... ```, remove if present.
+        if output.startswith("```markdown"):
+            output = output.split("\n", 1)[1] if "\n" in output else ""
+        if output.endswith("```"):
+            output = output.rsplit("\n", 1)[0] if "\n" in output else ""
+        return output.strip()
+        
+    except Exception as e:
+        print(f"  ERROR in format_english_for_gdoc: {str(e)}")
+        print(f"  Full traceback: {traceback.format_exc()}")
+        raise
+
 def main():
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
@@ -500,8 +569,93 @@ def main():
             print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
             # Optionally exit or decide how to proceed
 
-    print(f"\n--- All Processing Complete ---")
+    print(f"\n--- Phase 4 Complete: LaTeX Generation ---")
     print(f"Final LaTeX document (if generated) is in: {latex_output_path}")
+
+    # --- Phase 5: Generate Formatted Markdown for Google Docs from English Text ---
+    print("\n--- Phase 5: Generating Markdown for Google Docs ---")
+    
+    gdoc_markdown_filename = "combined_english_for_google_docs.md"
+    gdoc_markdown_path = os.path.join(BASE_DIR, gdoc_markdown_filename)
+
+    if os.path.exists(gdoc_markdown_path):
+        print(f"  Skipping GDoc Markdown generation (file exists): {gdoc_markdown_filename}")
+    else:
+        if not os.path.exists(english_output_path):
+            print(f"  ERROR: Combined English translation file not found at {english_output_path}. Cannot proceed with GDoc Markdown generation.", file=sys.stderr)
+            sys.exit(1)
+            
+        print(f"  Reading combined English text from: {english_output_path} for GDoc Markdown generation")
+        try:
+            with open(english_output_path, 'r', encoding='utf-8') as f:
+                raw_combined_translation_content = f.read()
+
+            if not raw_combined_translation_content.strip():
+                print(f"  ERROR: Combined English text file is empty. Cannot proceed with GDoc Markdown generation.", file=sys.stderr)
+                sys.exit(1)
+
+            # Parse to get only English parts
+            english_letter_parts = []
+            # Split by the main separator that introduces an English block
+            # Each part will start with something like "IMG_XXXX_german.txt ---\n[English Text]---"
+            # The first part of this split might be unwanted intro text from the file if it exists before the first separator
+            split_on_end_doc = raw_combined_translation_content.split("--- End of Document from ")
+            
+            for i, part in enumerate(split_on_end_doc):
+                if i == 0: # Skip potential text before the first proper document block
+                    # Check if the very first content IS an English block if no explicit German intro
+                    if "--- End of Document from " not in raw_combined_translation_content and not part.strip().startswith("**") and "--- " not in part.split("\n")[0]:
+                         # This heuristic might be needed if the first block is English without a preceding German block marker
+                         # For now, the logic assumes English follows the specific marker
+                         pass # Current logic: skip if it doesn't contain the german.txt marker explicitly
+                    else:
+                        # Check if the first chunk itself contains an English part after a filename
+                        # This is for the case where the file STARTS with "--- End of Document from ..."
+                        if "_german.txt ---" in part:
+                            actual_text_start = part.split("_german.txt ---\\n", 1)
+                            if len(actual_text_start) > 1:
+                                english_segment = actual_text_start[1].split("\\n---\\n")[0] # Split by separator for NEXT block
+                                english_letter_parts.append(english_segment.strip())
+                        continue # Generally skip the part before the *first* "--- End of Document from " found
+
+                # For other parts, they start with e.g. "IMG_XXXX_german.txt ---\n[English Text]---"
+                if "_german.txt ---" in part:
+                    # Content after "_german.txt ---\n"
+                    actual_text_start = part.split("_german.txt ---\\n", 1)
+                    if len(actual_text_start) > 1:
+                        # The English text is before the next standalone "---"
+                        english_segment = actual_text_start[1].split("\\n---\\n")[0]
+                        english_letter_parts.append(english_segment.strip())
+                # If a part doesn't contain the _german.txt --- marker, it might be malformed or the last part of text
+                # The split by "\n---\n" should handle the termination of the last English block correctly.
+
+            if not english_letter_parts:
+                print("  ERROR: No English letter parts could be extracted. Check file format.", file=sys.stderr)
+                sys.exit(1)
+
+            print(f"  Successfully extracted {len(english_letter_parts)} English letter segments.")
+            # Join with Markdown thematic break
+            all_english_content_for_gdoc = "\\n\\n---\\n\\n".join(english_letter_parts)
+
+            print(f"  Starting GDoc Markdown formatting for the combined English text...")
+            gdoc_format_start_time = time.time()
+            
+            # LLM call to ensure clean Markdown (optional, could just save all_english_content_for_gdoc)
+            # For now, let's use the LLM as requested to ensure clean output
+            final_markdown_for_gdoc = format_english_for_gdoc(all_english_content_for_gdoc, client)
+            
+            print(f"  Saving GDoc-formatted Markdown to: {gdoc_markdown_path}")
+            with open(gdoc_markdown_path, 'w', encoding='utf-8') as f:
+                f.write(final_markdown_for_gdoc)
+            
+            print(f"  GDoc-formatted Markdown saved successfully. Took {time.time() - gdoc_format_start_time:.2f} seconds.")
+
+        except Exception as e:
+            print(f"  ERROR during GDoc Markdown generation phase: {str(e)}", file=sys.stderr)
+            print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
+
+    print(f"\n--- All Processing Complete ---")
+    print(f"Final Markdown for Google Docs (if generated) is in: {gdoc_markdown_path}")
 
 
 if __name__ == "__main__":
