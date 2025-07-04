@@ -24,7 +24,7 @@ GERMAN_OUTPUT_DIR = os.path.join(BASE_DIR, 'german_output')
 ENGLISH_OUTPUT_DIR = os.path.join(BASE_DIR, 'english_output')
 
 # Model and generation settings
-MODEL_NAME = "gemini-2.5-pro-preview-05-06"
+MODEL_NAME = "gemini-2.5-pro"
 EXTRACTION_TEMPERATURE = 0.4  # Lower temperature for accurate OCR
 TRANSLATION_TEMPERATURE = 0.8  # Balance accuracy and fluency for translation
 ANALYSIS_TEMPERATURE = 0.75 # For nuanced and insightful interpretations

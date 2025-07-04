@@ -4,50 +4,61 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Architecture Overview
 
-DorleStories is a handwritten German text OCR and translation system using Google's Gemini AI. The workflow consists of two sequential AI operations:
+DorleStories is a multi-phase AI pipeline for digitizing historical German handwritten letters. It uses Google Gemini for OCR/translation and optionally OpenAI for character intelligence extraction.
 
-1. **OCR Extraction**: Processes handwritten German document images through Gemini's vision model to extract text
-2. **Translation**: Translates the extracted German markdown to English using Gemini's text model
+### Processing Pipeline
+
+1. **Phase 1 - OCR**: Extract German text from handwritten images using Gemini vision model
+2. **Phase 2 - Translation**: Translate German to English using Gemini
+3. **Phase 3 - Analysis**: Generate PhD-level socio-historical analysis
+4. **Phase 4 - LaTeX**: Format for academic presentation
+5. **Phase 5 - Markdown**: Convert for Google Docs
 
 ### Core Components
 
-- `StoryTranslator.py`: Main processing script with OCR and translation functions
-- `download_test_images.py`: Utility to download sample German handwritten documents for testing
-- `input/`: Directory containing source images (JPG, JPEG, PNG)
-- `german_output/`: Extracted German text saved as `.txt` files 
-- `english_output/`: Final English translations saved as `.txt` files
+- `ImageTranslator.py`: Main 5-phase processing pipeline
+- `config.yaml`: Central configuration for all settings
+- `agent_monitor.py`: Character intelligence extraction (watches for new translations)
+- `input/`: Source images directory
+- `german_output/`: OCR results
+- `english_output/`: Translations
+- `analysis_output/`: Historical analysis
+- `characters/`: Character profiles (JSON)
 
-### Key Configuration
+### Key Configuration (config.yaml)
 
-- Model: `gemini-2.5-pro-preview-05-20`
-- OCR Temperature: 0.3 (for accuracy)
-- Translation Temperature: 0.7 (balance of accuracy and fluency)
-- Requires `GEMINI_API_KEY` environment variable in `.env` file
+- **Model**: `gemini-2.5-pro-preview-05-06`
+- **OCR Temperature**: 0.4 (accuracy)
+- **Translation Temperature**: 0.8 (fluency)
+- **Analysis Temperature**: 0.75 (nuanced)
+- **Environment**: Requires `GEMINI_API_KEY` in `.env` or environment
 
-## Development Commands
+### Development Commands
 
-### Setup
 ```bash
-pip install google-generativeai python-dotenv requests
-```
+# Setup
+pip install -r requirements.txt
 
-### Running the translator
-```bash
-python StoryTranslator.py
-```
+# Run main pipeline
+python ImageTranslator.py
 
-### Download test images
-```bash
+# Test character agent
+python test_agent.py
+
+# Download sample images
 python download_test_images.py
 ```
 
-## Processing Workflow
+### Processing Notes
 
-The system processes each image independently:
-1. Upload image to Gemini API
-2. Extract German text using vision model with streaming response
-3. Save extracted text to `german_output/`
-4. Translate German text to English using text model
-5. Save translation to `english_output/`
+- Files are processed in numeric order (IMG_3762, IMG_3763, etc.)
+- Already processed files are skipped (resumable)
+- Combined output files are created after individual processing
+- Agent monitor runs independently to extract character data
 
-Files are skipped if output already exists, allowing for resumable processing.
+### Important Patterns
+
+- All Gemini API calls use streaming for large responses
+- Error handling includes retry logic for API failures
+- Output files use source filename as base (e.g., IMG_3762.jpg → IMG_3762_german.txt)
+- Combined files aggregate all translations in order
