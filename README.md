@@ -12,7 +12,7 @@ Our process, orchestrated by the `ImageTranslator.py` script, takes each letter 
 2.  **AI-Powered OCR:** A Generative AI model carefully "reads" the handwriting and extracts the original German text.
 3.  **German to English Translation:** The extracted German text is then translated into English by the AI, making the content accessible.
 4.  **Deep Narrative Analysis:** The combined English translations are analyzed by AI to produce a rich, PhD-level socio-historical understanding of the letters' content, characters, and context.
-5.  **LaTeX Formatting:** Finally, the English translations are also converted into a formal LaTeX document, ready for elegant presentation or archiving.
+5.  **LaTeX Formatting:** Finally, both the original German text and the English translations are converted into formal LaTeX documents, ready for elegant presentation or archiving. Each segment within the documents is marked with its source filename for easy traceability.
 
 ## Translation Demo: A Glimpse into the Letters
 
@@ -51,11 +51,12 @@ This snippet offers a small window into the correspondence, mentioning everyday 
 *   **`input/`**: This directory is where you place the scanned images of the handwritten letters (e.g., `.jpg`, `.png`).
 *   **`german_output/`**: Contains the extracted German text from each image, saved as individual `.txt` files.
 *   **`english_output/`**: Contains `combined_english_translation.txt`, which holds all the English translations concatenated together.
+*   **`combined_german_letter.txt`**: A single text file containing the concatenated content from all extracted German letters.
 *   **`narrative_analysis_of_letters.txt`**: An AI-generated socio-historical analysis of the combined letters.
-*   **`combined_english_letter.tex`**: A LaTeX document of the combined English translations.
+*   **`combined_german_letter.tex`**: A LaTeX document of the combined German letters, with source traceability.
+*   **`combined_english_letter.tex`**: A LaTeX document of the combined English translations, with source traceability.
 *   **`ImageTranslator.py`**: The main Python script that orchestrates the entire workflow.
 *   **`requirements.txt`**: Lists the necessary Python packages to run the script.
-*   **`config.yaml`** (if used by the script for API keys or other settings - *developer note: check if this is actively used and update description*).
 *   **`GOOGLEDRIVELINK.txt`**: Contains the link to the Google Drive folder with original images.
 
 ## How to Run
