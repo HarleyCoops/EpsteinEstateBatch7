@@ -1,73 +1,122 @@
-# Dorle's Stories: Bringing Handwritten History to Life
+# Dorle's Stories: AI-Powered Historical Letter Digitization
 
-Welcome to **Dorle's Stories**, a project dedicated to preserving and understanding a collection of handwritten German letters from the past. Using the power of AI, we transform these precious documents into accessible English translations, uncover the narratives they hold, and even prepare them for formal presentation.
+A sophisticated multi-phase pipeline for digitizing, translating, and analyzing historical German handwritten letters using Google Gemini AI.
 
-This project is more than just translation; it's about connecting with personal histories and gaining a glimpse into the daily lives, thoughts, and experiences of individuals from a different era.
+## Overview
 
-## The Journey of a Letter
+This project transforms handwritten German letters into accessible English translations with comprehensive historical analysis. It employs a 5-phase processing pipeline that combines OCR, translation, socio-historical analysis, and academic formatting.
 
-Our process, orchestrated by the `ImageTranslator.py` script, takes each letter on a fascinating journey:
+## Processing Pipeline
 
-1.  **From Image to Text:** We start with a scanned image of a handwritten German letter.
-2.  **AI-Powered OCR:** A Generative AI model carefully "reads" the handwriting and extracts the original German text.
-3.  **German to English Translation:** The extracted German text is then translated into English by the AI, making the content accessible.
-4.  **Deep Narrative Analysis:** The combined English translations are analyzed by AI to produce a rich, PhD-level socio-historical understanding of the letters' content, characters, and context.
-5.  **LaTeX Formatting:** Finally, the English translations are also converted into a formal LaTeX document, ready for elegant presentation or archiving.
+The `ImageTranslator.py` script orchestrates a comprehensive 5-phase workflow:
 
-## Translation Demo: A Glimpse into the Letters
+### Input → Output Flow
 
-The original letter images can be viewed in this Google Drive folder: [View Original Letter Scans](https://drive.google.com/drive/folders/1cENU2bUHmNftyPIvsNaEoNaGSY0HfxZS?usp=sharing)
+**INPUT:**
+- **Source:** `input/` folder
+- **Files:** All `.jpeg`, `.jpg`, or `.png` files
+- **Processing order:** Sorted numerically (extracts numbers from filename)
 
-Let's take a look at an example from one of the first letters in the collection, `IMG_3762.jpg`:
+**OUTPUTS (5 phases):**
 
-**Original Image (IMG_3762.jpg):**
-*(A handwritten letter, likely on aged paper. You can view the actual image via the Google Drive link above.)*
+1. **Phase 1 - OCR:** Each image → individual German text file
+   - `input/image.jpeg` → `german_output/image_german.txt`
+   - Temperature: 0.4 (optimized for accuracy)
 
-**English Translation:**
-```text
+2. **Phase 2 - Translation:** ALL German texts combined → single English file
+   - All `german_output/*_german.txt` → `english_output/combined_english_translation.txt`
+   - Temperature: 0.8 (balanced for fluency)
+
+3. **Phase 3 - Analysis:** Combined English → narrative analysis
+   - `english_output/combined_english_translation.txt` → `narrative_analysis_of_letters.txt` (root folder)
+   - Temperature: 0.75 (nuanced interpretation)
+
+4. **Phase 4 - LaTeX:** Combined English → LaTeX document
+   - `english_output/combined_english_translation.txt` → `combined_english_letter.tex` (root folder)
+   - Temperature: 0.2 (precise formatting)
+
+5. **Phase 5 - Markdown:** Combined English → clean Markdown
+   - `english_output/combined_english_translation.txt` → `combined_english_for_google_docs.md` (root folder)
+   - Temperature: 0.1 (minimal alteration)
+
+## Project Structure
+
+```
+DorleStories/
+├── input/                  # Source images (JPEG handwritten letters)
+├── german_output/          # OCR results (German text files)
+├── english_output/         # Translation results
+├── analysis_output/        # Historical analysis outputs
+├── characters/            # Character intelligence profiles (future)
+├── ImageTranslator.py     # Main 5-phase pipeline
+├── PDFTranslator.py       # PDF processing variant
+├── agent_monitor.py       # Character intelligence extraction
+├── config.yaml           # Configuration (currently unused by main pipeline)
+├── requirements.txt      # Dependencies
+└── CLAUDE.md            # Project instructions for Claude AI
+
+```
+
+## Requirements
+
+- Python 3.8+
+- Google Gemini API key (set as `GEMINI_API_KEY` environment variable)
+- Dependencies: `google-genai`, `python-dotenv`, `Pillow`
+
+## Installation
+
+```bash
+# Install dependencies
+pip install google-genai python-dotenv Pillow
+
+# Set up environment variable
+export GEMINI_API_KEY="your-api-key-here"
+# Or create a .env file with: GEMINI_API_KEY=your-api-key-here
+```
+
+## Usage
+
+```bash
+# Run the main pipeline
+python ImageTranslator.py
+
+# Process PDF files (for bulk documents)
+python PDFTranslator.py
+
+# Run character intelligence agent (optional)
+python agent_monitor.py
+```
+
+## Key Features
+
+- **Resumable Processing**: Already processed files are automatically skipped
+- **Ordered Processing**: Files are processed in numerical order
+- **Streaming API**: Handles large responses efficiently
+- **Error Handling**: Includes retry logic and detailed error reporting
+- **Modular Design**: Each phase can be run independently
+
+## Sample Output
+
+Original letter images: [Google Drive Folder](https://drive.google.com/drive/folders/1cENU2bUHmNftyPIvsNaEoNaGSY0HfxZS?usp=sharing)
+
+Example translation (from handwritten German):
+```
 Hofheim, November 22nd
 
 Dear Mech!
 
-Many thanks for your
-letter. When are you finally going to send me
-the pictures from
-Säntis? I've been waiting
-half a year for them already. Can you
-write me your Christmas wishes?
-Preferably before the
-1st of Advent. Because I'll be doing
-a big shopping trip in Frankfurt
-then. What are you all giving
-the various rela-
-tives? Are Liesel and Mr.
-Geser gone already? Where are they actual-
+Many thanks for your letter. When are you finally going to send me
+the pictures from Säntis? I've been waiting half a year for them already...
 ```
 
-This snippet offers a small window into the correspondence, mentioning everyday concerns, upcoming events like Christmas shopping, and questions about mutual acquaintances.
+## Configuration Notes
 
-## Project Components
+- Model: Gemini 2.5 Pro (specified as "gemini-2.5-pro" in code)
+- The `config.yaml` file exists but is not currently used by the main pipeline
+- All settings are hardcoded in `ImageTranslator.py` for simplicity
 
-*   **`input/`**: This directory is where you place the scanned images of the handwritten letters (e.g., `.jpg`, `.png`).
-*   **`german_output/`**: Contains the extracted German text from each image, saved as individual `.txt` files.
-*   **`english_output/`**: Contains `combined_english_translation.txt`, which holds all the English translations concatenated together.
-*   **`narrative_analysis_of_letters.txt`**: An AI-generated socio-historical analysis of the combined letters.
-*   **`combined_english_letter.tex`**: A LaTeX document of the combined English translations.
-*   **`ImageTranslator.py`**: The main Python script that orchestrates the entire workflow.
-*   **`requirements.txt`**: Lists the necessary Python packages to run the script.
-*   **`config.yaml`** (if used by the script for API keys or other settings - *developer note: check if this is actively used and update description*).
-*   **`GOOGLEDRIVELINK.txt`**: Contains the link to the Google Drive folder with original images.
+## Development Status
 
-## How to Run
-
-1.  Ensure you have Python installed.
-2.  Set up your Google Gemini API Key as an environment variable (e.g., `GEMINI_API_KEY`).
-3.  Place your letter images into the `input/` directory.
-4.  Install the required packages: `pip install -r requirements.txt`
-5.  Run the script: `python ImageTranslator.py`
-
-The script will process the images and generate the various output files.
-
----
-
-This README aims to provide a clear and engaging overview of the Dorle's Stories project. We hope it inspires an appreciation for the personal histories held within these letters! 
+✅ Phase 1-5: Fully functional pipeline
+⚠️ Character intelligence agent: In development
+📝 Config integration: Planned enhancement 
