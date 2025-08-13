@@ -125,3 +125,95 @@ the pictures from Säntis? I've been waiting half a year for them already...
 ✅ Phase 1-6: Fully functional pipeline with German/English LaTeX generation
 ⚠️ Character intelligence agent: In development
 📝 Config integration: Planned enhancement
+
+## Codex CLI and MCP Translation Workflow (OpenAI)
+
+This repository also includes an OpenAI-based translation path under `codex/` that converts each OCR’d German text into an English Markdown file, one-to-one. It is designed for local agent workflows (Codex CLI), optional MCP-style service integration, and a modern OpenAI Responses API fallback so batches complete reliably.
+
+- Location: `codex/`
+  - `translator.py` — orchestrates discovery and translation
+  - `cli.py` — batch CLI entry point
+  - `direct_openai.py` — modern OpenAI Python SDK v1.x client (Responses API; no legacy Completions)
+  - `outputs/` — English Markdown (one file per input image base)
+  - `translations.log` — audit log (timestamps, successes/skips)
+
+### What the Codex CLI is
+OpenAI Codex CLI is a local coding agent that can read/write files and propose or run commands with approval controls.
+- Install: `npm install -g @openai/codex`
+- Start: `codex` (Suggest mode by default)
+- Approval modes:
+  - Suggest: proposes edits/commands; you approve before execution
+  - Auto Edit: edits files automatically; still asks before shell commands
+  - Full Auto: reads/writes and executes commands autonomously in a sandbox
+- Models: defaults to a fast reasoning model; you can select any Responses API model (e.g., `-m gpt-5`)
+- Windows: experimental; WSL recommended
+
+Refer to “OpenAI Codex CLI – Getting Started” and https://github.com/openai/codex for details.
+
+### How MCP fits here
+We support an optional, minimal HTTP contract that aligns with MCP-style tool exposure. The translator can send German text to a service that calls an LLM and returns Markdown.
+
+- Expected endpoint: `POST {mcp-endpoint}/translate`
+- Request JSON:
+  ```json
+  {
+    "source_text": "<german text>",
+    "format": "markdown",
+    "mode": "german_to_english"
+  }
+  ```
+- Response JSON:
+  ```json
+  { "translation": "<english markdown>" }
+  ```
+
+You can implement this behind a proper MCP server or a simple web service that calls the OpenAI Responses API. The translator prefers MCP when you pass `--use-mcp`.
+
+### End-to-end file flow (Codex workflow)
+1) Discover pairs
+   - For each `input/<base>.(jpeg|jpg|png)`, locate `german_output/<base>_german.txt`.
+2) Translate (preference order)
+   - If `--use-mcp` provided: POST to `{mcp-endpoint}/translate` (your service calls the LLM and returns Markdown).
+   - Else attempt Codex CLI (if installed) for a local agent call.
+   - Fallback (default-enabled): call OpenAI Responses API directly via the modern Python SDK v1.x (`client.responses.create(...)`) with translation instructions and the German text as input.
+3) Write outputs
+   - Save to `codex/outputs/<base>.md`.
+4) Log
+   - Append to `codex/translations.log` with timestamps and success/skip counts.
+
+### Where the LLM is actually called
+- MCP path: inside your MCP-compatible service (or thin HTTP service) that receives the German text and calls the OpenAI model (e.g., `gpt-5` or `gpt-4.1`) via the Responses API, then returns Markdown.
+- Codex CLI path: the `codex` agent runs locally; for batch translation we call it non-interactively if present.
+- Fallback path (built-in): within `direct_openai.py`, using `OpenAI().responses.create(model=..., input=..., instructions=...)` (SDK v1.x). This avoids all legacy Completion/ChatCompletion calls.
+
+### How to expose the MCP to other users
+1) Implement a small web service (e.g., FastAPI) that exposes `/translate` and calls OpenAI’s Responses API under your organization’s policies.
+2) Package & deploy (containerize, secure with TLS and auth).
+3) Share the endpoint (e.g., `https://your-mcp.example.com`). Other users run:
+   ```bash
+   python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --use-mcp --mcp-endpoint https://your-mcp.example.com
+   ```
+4) Optional advanced path: register a true remote MCP tool and integrate with agent frameworks that understand MCP, enabling richer multi-tool workflows.
+
+### Running the Codex workflow locally
+Environment:
+- Set `OPENAI_API_KEY` (e.g., via `.env` in repo root)
+- Optional: `CODEX_OPENAI_MODEL` (e.g., `gpt-5`, defaults to `gpt-4.1`)
+- Optional: `--use-mcp --mcp-endpoint http://localhost:8000` if you host a service
+
+Examples:
+```bash
+# Dry run (no writes)
+python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --dry-run
+
+# Prefer MCP (if you have a service running)
+python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --use-mcp --mcp-endpoint http://localhost:8000
+
+# Rely on built-in OpenAI Responses API fallback (no MCP, no Codex CLI)
+python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --verbose
+```
+
+Troubleshooting:
+- “Failed to run Codex CLI wrapper: [WinError 2]”: Codex CLI is not installed or not on PATH; fallback will still translate via Responses API.
+- “OPENAI_API_KEY not configured”: set it in your environment or `.env`.
+- Windows: prefer WSL for Codex CLI agent usage.

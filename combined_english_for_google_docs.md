@@ -1,0 +1,532 @@
+This is a translation of a collection of German documents, primarily personal letters and reports from the mid-20th century. The documents appear to be from various sources and are presented as individual fragments.
+
+---
+**Translation of FCDDE3CA-6A98-4E2E-A058-A6380FA5A2DD_1_105_c_german.txt**
+
+Hopsten, 27 February 1950
+
+Dear Geisslers? [Translator's note: "Geis?" is likely a familiar address for a surname like Geissler.]
+
+How are you all? Do you have
+someone [new] now? You could write
+Käthy's address for us sometime. It
+seems she didn't write to us
+first after all. Have you actually
+finished the day's work? Are you finished
+with both? And have you sown that
+in advance? We still have 3 weeks
+of hard work to do in the plowed field. Furthermore, we have
+[unclear: Diodenfrühen], raspberries, red ones
+of the "Preussen" variety. When we—
+the assistant, the son, and I—are on it
+alone, we can [do the] currants.
+There are many black ones,
+also red ones. In my opinion, they are
+
+---
+**Translation of 0E3AFA2B-CD87-45C7-AA85-5D7FAE9770C6_1_105_c_german.txt**
+
+...here from Oestlau [?] not yet as
+advanced as we are at Lake Constance,
+although Mr. Bezel's is one of the most advanced
+farms. Mowing is
+also done on Sundays. But the pears, for example,
+we have not "gebratzt" [Translator's note: "gebratzt" is an unknown, possibly dialectal or misspelled word, likely meaning pruned or treated in some way], they have
+been "gebratzt" every year! With the currants,
+much more small growth is left standing,
+above all, a lot of older wood. All
+the young shoots should be removed, but if
+an old branch is withered, it is
+taken out. When I told him
+that we take out the old wood,
+Mr. Bezel said he wouldn't shy away from it.
+Or yesterday, with branches as thick as an arm.
+They would certainly have something to say about that. Yes, who
+knows how often! There is one sweet cherry
+tree there, but as many cherries as...
+
+---
+**Translation of 0E3AFA2B-CD87-45C7-AA85-5D7FAE9770C6_1_105_c_german.txt**
+
+2.
+
+Chacra San José de la Florida
+Estacion Bellavista
+Ramal de Pirque
+
+[Translator's note: This is an an address in Chile.]
+
+...from back home, are in no way compatible with the local views on the social standing of a domestic employee. For God's sake, one should not harbor any illusions about that.
+
+To come back to fruit cultivation once more: we here always get our entire wisdom in this field from California, whose climate and conditions regarding the cultivability of individual fruit varieties roughly correspond to ours, but who are far, far ahead of us in technical terms, because the possibilities and the demands on the quality of the products are naturally different in a country of 120 million inhabitants than in a country of 5 million inhabitants, as old Chile has.
+
+If I am to give you a piece of advice, and if you absolutely want to stick your 19-year-old nose abroad, then try California. You can learn a heck of a lot there, many young women work in such agricultural enterprises, as we can see in the pictures of American trade journals, and usually even very pretty girls (or perhaps only those get into the newspaper). When you have learned a good deal in California, then take your time for the journey home, and travel back via South America. That is then absolutely worthwhile, because you can see many interesting things and, above all, scenic beauties that you will not forget for the rest of your life. I can promise you that with a clear conscience. But, for God's sake, do not come here to work in your profession, and certainly not to earn good money.
+
+Unfortunately, I cannot tell you from here how a German can now get to the U.S.A. from Germany. It probably won't be easy, but it wouldn't be easy to get to Chile either.
+
+---
+**Translation of 7E7DEEB9-040F-4BF3-8B8C-8ED7D8F2AA25_1_105_c_german.txt**
+
+...wrote. The skin on the cheek-
+cheeks gives me a smoky [?]
+feeling in my eyes.
+A lot of work gets
+done there. So, are we supposed to become machines
+sometime? Or should I rather
+ask the people if I can also once
+with the police [?]
+found a suitable manager. We with
+Did you actually
+buy Packl Carnot or Greys brand?
+[Translator's note: This passage is very garbled, likely due to poor handwriting and OCR. The translation is a literal interpretation of the recognizable words.]
+
+Best regards, Dorli
+To be continued
+on the next sheet!
+
+Your Hofmeister
+
+---
+**Translation of 2A310CC-A74A-4DA3-80D7-F795ED9DFA24_1_105_c_german.txt**
+
+Flyer in the Oliver Hospital.
+It has already become apparent today
+that I have forgotten many words.
+Tomorrow evening I am going to a
+singing group, also for the 1st time.
+
+Best regards!
+Dorle
+
+---
+**Translation of A03215AD-5DE4-4051-8BEC-453614FFEFF0_1_105_c_german.txt**
+
+Poverty.
+Your
+Karl Schumann
+
+---
+**Translation of 450111BB-700E-40F8-AE4D-E0B4FF3A0B7D_1_105_c_german.txt (Page 2 of report)**
+
+This is my report
+
+In the spring of 1952, I was eager to get out, and I found work in Beamsville in a large garden business that exported rose bushes all over the world, yes, even to Holland! Many immigrants worked there, most of whom had committed themselves for two years as repayment for the arrangement. The owners knew why they earned 35 cents an hour, the men 50 cents. The craftsmen, for their part, started building in Niagara-on-the-Lake in the spring. Motels and theaters were built by us, where the Shaw Festival then took place.
+
+My debts for the crossing were now paid off, and so I bought a car, a 1940 Ford, for which I paid $500.00. But first I had to get my driver's license. I rented a room in a farmhouse for $4.00 a week. An acquaintance brought the newly acquired car there. Now I drove back and forth on the farm, forwards and backwards, in first and second and in reverse gear. After a week I was ready to take the driving test. An acquaintance drove with me to a neighboring town where the test took place. I had arranged it so that it was shortly before closing time, and the driving test was on a traffic road. [Translator's note: The meaning is unclear, possibly that the test was short or on an empty road]. It went well, including the parking, but I had never driven on a traffic road before. I got the driver's license. But now I had to drive home alone in the dark, and you can say that it was a slow drive. In the summer I changed my job and moved from Beamsville to St. Catherines. There I worked in a canning factory, I harvested fruit, and ended up in the kitchen in the fall. There I quickly learned everything about dietetics.
+
+In 1953 I moved with bag and baggage to Toronto and worked at the Toronto General Hospital as an "Assistant Dietitian". I lived with my girlfriend on Sherbourne Street, just a few houses from Dr. Goegginger's church. So it didn't take long until we ended up at the church service. Afterwards, there was discussion on the street about what one could do on Sunday. Since I had a car, it didn't take long until I had passengers for an outing. That was the beginning of a happy time in the youth group of the Goegginger congregation. We were mostly single young people, and together we were a family. I moved to Vancouver in 1958, but the memories and the few years with the friends of the youth group will remain forever.
+
+Page 2
+
+---
+**Translation of EB67B5A1-ED48-48EA-9032-7FAFE5E076D5_1_105_c_german.txt**
+
+0561
+
+---
+**Translation of BB1D303B-A96E-46C7-987D-69871DED1AF8_1_105_c_german.txt**
+
+Apple prices are rising!
+There is a lot of talk that
+apples will become expensive in the spring.
+There are also no foreign apples on
+the market. We have little produce in the ground here.
+A lot is being shipped from here, hopefully
+it will be readily bought.
+Here in the nursery, they are looking for a
+gardener and also a
+girl for the household and
+farm. I have now
+written for more detailed conditions.
+Also, I recently gave Roslia an address.
+
+---
+**Translation of E25277DC-5DD7-4161-B62E-8AFBBE74448F_1_105_c_german.txt**
+
+[Top right]
+Hofheim, 3 May 1930.
+
+[Left margin, vertical]
+9551
+
+[Right column]
+Dear Mother,
+
+I congratulate you warmly on your birthday and wish you all the best.
+Thank you also very much for the packages you sent me again, and also many thanks for the 10 Marks that were inside. I have now bought myself a pair of new shoes, and a new hat too. Next Sunday, on your birthday, that will be. I will really keep it, too.
+[Unclear sentence]. It was only on the 2nd of May. So in the evening at 11 o'clock I unpacked the packages from Friedel, Grandma [Großmama] and Grandmother [Großmutter]. They had sent me a book, the souvenir box, Grandmother a long letter. But also cake, Grandmother a torte.
+Last Sunday I was in Frankfurt, from Ullau on the Feldberg. But I was not back until 11 o'clock. We drove from here, in 3 hours I was at the top. Then I actually had to go back almost right away, hitchhiking to the summit. It was very beautiful. The Feldberg is 880 m high. The highest mountain in the
+
+[Left column]
+I thank you very much for the sandals and the book. I was very happy about them, as well as about the kindness of your gifts, because although the house is very well supplied with cake, it won't last forever. There wasn't so much in the house on my birthday. the most expensive [?] mountain in the
+Taunus.
+
+---
+**Translation of DC3728E9-6D09-4ED0-A70B-0B72A249F0EE_1_105_c_german.txt**
+
+Dear Bärbel! How are you? How is your report card
+from school? Have you improved? Will you be promoted to the next grade at
+Easter? Here, the children in elementary school
+don't have to do any homework, but in return they also have
+school in the afternoon. I am often alone with the 2 boys, you should
+see the things they get up to! If I could speak more
+English, I would tell them stories or read
+to them. But I hardly think that would be such a pleasure
+for them. We then play football in the midst of silver
+and crystal and chandeliers. I really break a sweat doing that.
+The children have a cold and have to stay
+in the house. The other day, 6-year-old Teddy got a hold of his mother's
+nail polish and painted the radiator, the
+floor, and his toenails. I had a few hours of work after that,
+because Mrs. Duggan visits her mother at this time.
+[The next lines are garbled and untranslatable]
+Advent was not celebrated here at all, and they don't
+know St. Nicholas either. I haven't heard anyone
+singing Christmas carols. But the children know
+"Silent Night" and "God Rest Ye Merry, Gentlemen." [Translator's note: "Gott froh den Herrn" is a literal translation, the intended carol is likely "O Come, All Ye Faithful" or similar.] In Niagara Falls there are 3 cheap days for
+shopping. The shop windows are decorated, but only with artificial
+things, a lot of electrical stuff, but they do have Christmas
+trees here, and also holly branches.
+Bibbie plays "Oh du lieber Augustin" on the piano.
+Have a wonderful Christmas. This year you have
+plenty of space! Many greetings from Dorli.
+
+---
+**Translation of 4F39B717-4809-4266-A9DF-F9821CECEEED_1_105_c_german.txt**
+
+...for exchange. We for 100 m (not 500, as
+was said at first, the greedy white one doesn't [unclear]
+that either).
+For the festival we are also provided for again.
+The baked apple is now on the tray over at the
+baker, it's going very slowly, they
+only know the wishes for sure [unclear].
+They are not cut smooth. [Unclear: Bohren will Elster sind schon gesät]. Peas are already sown. Tomorrow we want to
+plant potatoes. Pre-blossom [spraying]
+we did do on the apples after all, with
+copper. Mr. Wetzel has only
+just found out that the beets are also hanging on the head [?].
+That bees die when they have stung,
+I also knew once. What color the [unclear: Rennicken] are, after they
+[unclear], I also know. I haven't
+smelled the cabbage yet, because for that I need
+a full day. Mostly it is apparently not
+enough. I wrote to the Müllers
+in a hurry. Just now
+almost the entire blossom has frozen.
+that our [unclear: gerauchte Kirschen / smoked cherries?] are
+now destroyed. 4° C. And right on the
+trees. Hopefully it is not so bad.
+Best regards.
+Dora.
+[Translator's note: This letter is extremely garbled and difficult to translate accurately.]
+
+---
+**Translation of 7E0B8726-0322-4EE4-821D-1A2CCBA9ADA4_1_105_c_german.txt**
+
+How is she, actually? Is the
+new manager here yet?
+How is Ulla? How long
+is she staying? Does she have
+a position yet?
+Was it nice with M.M.?
+Do you have an address from England yet?
+Today with Geverdag [?] before
+or on Sunday we played records.
+That would be something
+for you. I'm knitting a
+sweater for myself,
+white. I am very
+pleased with it. Yesterday
+I was completely exhausted. I wanted
+to [attend] an English discussion...
+
+---
+**Translation of 79871C3A-9BC2-4D6C-AF00-D794F193FD4A_1_105_c_german.txt (Page 1 of report)**
+
+This is my report on how I came to emigrate to Canada and, by a roundabout way, ended up in the youth group:
+
+In the summer of 1951, I felt the desire to do something new. At that time, I was working in a fruit-growing business in Hofheim near Frankfurt. I was 20 years old and wanted to experience something. So I wrote to the consulates of England and France and was told that I could work abroad for a few years and learn languages. By profession, I was a state-certified fruit grower, a profession I had not chosen voluntarily but was forced into by the death of my father, having to say goodbye to the one-year school and help at home, where I was then offered a position in a nursery, which also came with a visa offer. Shortly before my departure, a letter arrived from the Canadian consulate with a visa offer. England had to do without me, and after a visit to the consulate in Karlsruhe, I had my ticket and visa in my pocket. The official asked me where in Canada I wanted to go. I hadn't thought about it at all, so he suggested, how about Niagara Falls. I had heard something about Niagara Falls in geography class at some point; that was about all I knew about Canada. The journey from Frankfurt to Niagara Falls cost $165.00, and the Canadian government loaned me the sum without me having to feel obligated in any way. I had three weeks to say goodbye at home, to buy and pack two large suitcases, and to write my name and departure date on the outside of the suitcases in black oil paint: M.S. Fairsea, October 29, 1951.
+
+The train to Bremerhaven was an emigrant train that picked up emigrants from major cities starting in Munich. It was a colorful mix of people who wanted to return to Canada and emigrants. In Bremerhaven, everyone was sent to a barracks camp, where we had to stay for 8 days. I don't know why, maybe for delousing? or some other quarantine. Finally, we went to the ship. The M.S. Fairsea brought Canadian troops to Germany and took emigrants back to Canada on the return trip. The ship was accordingly primitive. I was in a dormitory with 99 other women and their small children. There were no portholes, as we were in the stern, two decks down. The ship's propeller was right next to us, which made a tremendous noise, especially when it came out of the water in high seas. There were about 400 women and children and 800 men on board. For the 400 women, there were 4 toilets, all of which stopped working after the first day. In general, the 1200 passengers were in a confined space. There were no seats available. For a group of us young people, our spot was on the floor around the chimney, warm and in the fresh air. We were informed that we were only allowed to land in Canada with $10.00. All remaining money was confiscated; however, we were not allowed to buy anything with the money. There was nothing useful to be had, so I bought a beret that I never wore afterwards. I believe that this confiscation of money was not initiated by the Canadian government, but by the crew of the ship, which sailed under the Panama flag and had an Italian crew. On the crossing, we had a heavy storm, and 90% of my 99 dormitory companions were seasick, with screaming children next to them. We also could not land in Halifax, but had to go to Quebec City. There, another special train was waiting, and after a two-day train ride, we arrived in Niagara Falls. $10.00 in my pocket and no acquaintances, except for the five others from the ship who also got off here. For three days we stayed in a cheap hotel, as it was Remembrance Day weekend. With $2.00 in my pocket, I went to the employment office. There, several employers were waiting for us immigrants, cheap labor. The others couldn't speak English, so I had to translate for them. And I knew no English at all, as in school I preferred Caesar and little nightingales [?]. A female doctor snapped me up right away to work in her household. I was glad to have found work and accommodation. $45.00 a month salary. The doctor had his practice in the house, so from the beginning, I had to answer the telephone when the children were alone. The wife helped me a lot with the language and reading. It didn't take two months before I noticed that I no longer translated into English when I was reading.
+
+Page 1
+
+---
+**Translation of C85DCA0B-8151-4624-BD41-43D47A1DCEE6_1_105_c_german.txt**
+
+O. Hofmann
+[unclear: Kettenstifte / Chain pins]
+Hofheim/Ts. [am Taunus]
+Hauptstr. 27
+
+Lake Constance [Bodensee]
+Steffen/Wiesberg,
+
+Mrs. C. Hofmann
+
+Hofmann
+
+1950
+
+---
+**Translation of 2E3AFCDC-79AA-4159-9C79-59B827A7046A_1_105_c_german.txt**
+
+Jack Hofmann
+244 Havelock St.
+Toronto Ont.
+
+---
+**Translation of 55838034-6D7E-4FEB-8B90-BF1B2F4C261B_1_105_c_german.txt**
+
+Dear Mother, I just got
+your letter, and your
+leave. It is very nice
+that Claus got his beach holiday
+approved. He is leaving on the 1st
+is gone for 12 [days?]. Then
+we can see each other again, which
+is very pleasing.
+Every penny would do him good, we have to
+watch our money, that's how it is for us too.
+
+Now on 3.12. the [unclear: Boutfiert]
+will be big. Then I need under-
+wear, pajamas. Then I want
+to buy a dress for
+Sundays. I think that's
+cheaper than having it made.
+Then I still need 1 or 2
+pairs of work pants, a smock apron,
+and a good fabric jacket.
+because Ullstein has [unclear]
+the one I am knitting. For the bed
+sweater, but he wants a [unclear]
+[Translator's note: This letter is very fragmented and garbled.]
+
+---
+**Translation of E066DD1B-A162-4A5E-A280-E6765338E5F0_1_105_c_german.txt**
+
+Dear Mother!
+How are you? I just want to
+briefly write you the apple prices
+at the wholesale market in
+Frankfurt. We sold Cox
+for 48 and 50 Pfennig per pound
+to small retailers, and
+we are already all sold out.
+The large grade is, however, very
+nice. Golden Pearmain are selling
+sluggishly. 25 Pf, but very
+[unclear] bad as A [grade?]. There are also some
+for 32 Pf. Boskoop cost
+20 to 25 Pf, but they are not
+particularly nice. We are not selling
+any Boskoop yet. In the shop [?]
+they are selling Cox in grades
+for 70 Pf.
+[Translator's note: "Im Bauch" (in the stomach) is likely a typo for "Im Laden" (in the shop) or similar.]
+
+---
+**Translation of D99A214E-4298-4A6F-BAD3-BD01524E46E5_1_105_c_german.txt**
+
+and here it would most likely be much more difficult, especially for a foreigner who will naturally not have a perfect command of the language. And small fruit farms, which are worked by the owner or lessee himself, would hardly be in a position to pay you a salary that could even begin to satisfy the most basic needs of a European woman, not to mention housing and other opportunities. You kindly give me a vote of confidence by saying you would be willing to come to us; but our years here in old Florida are already numbered, because the capital, Santiago, near which we live, has grown so much in recent years that we neighboring rural communities will be swallowed up by the city in a few years, and as a result, we already have considerable difficulties due to excessively high property taxes, due to the incitement of workers by people who, due to the proximity to the city, already work in Santiago's industry, etc. We are therefore forced, sooner or later, to sell here and perhaps buy land further south in the country, where the land is still cheaper, but where intensive fruit cultivation is not feasible due to the greater distance from the corresponding, relatively few, sales centers for high-quality fruit.
+
+And with domestic work, you can't get anywhere here just like that either. Certainly, Santiago has over a million inhabitants, but the positions for a foreigner that one could recommend with a clear conscience are more than scarce, and are likely to be amply filled by the oversupply resulting from Jewish immigration before the war and refugee immigration after the war, especially since many families have no interest in hiring foreign personnel, as experience has shown that the demands of the newly arrived, due to
+
+---
+**Translation of AE16CE58-5808-4839-9497-0BBEBCA559A2_1_105_c_german.txt**
+
+Hofheim, 19 July 1951.
+
+Dear Mother!
+
+Now the whole England matter is off. Yesterday, I received a message from the Canadian immigration office in Karlsruhe. I am getting a visa and have to go to Karlsruhe for the examination on the afternoon of August 17th. They wrote to me that German girls are in great demand over there, and they will give me letters of recommendation here so that I can get a position right away. Just the day before yesterday, our local newspaper had an article about how warmly Germans are received over there. You don't have anything against it, do you?
+You see, I didn't believe in it anymore, that's why I went ahead with the England thing. If you need me in a few years, I will certainly be happy to come back over. For the medical examination on August 17th, I have to bring an X-ray, a valid passport, and references from three people testifying to my good character and honesty. Mr. Betzel can write one for me, but who else should I ask? And then I also need another declaration from you for a passport to Canada. Please send it to me as soon as possible. I'm sorry that I always have to bother you with this, but next year I'll be 21.
+
+---
+**Translation of 7E54A91E-5998-4AEE-A863-179FB231A6E1_1_105_c_german.txt**
+
+Hofheim, 22.11.
+
+Dear Ulechi!
+Thank you very much for your
+letter. When will you finally
+send us your pictures of the
+Säntis? [Translator's note: "Biloter oder Säntis" is likely a typo for "Bilder vom Säntis" (Pictures of the Säntis mountain)]. I have been waiting for
+half a year. We
+came back yesterday
+from our
+first Easter trip [?]. I was in
+Frankfurt for that, doing major
+shopping. What are you giving
+your various relatives?
+Are Giesel and Mr.
+Jeser gone yet? Where are they go-
+
+---
+**Translation of 181689E3-F916-4304-ADF3-5E71E98BCA67_1_105_c_german.txt**
+
+Dayton, Ohio, 6 Nov. 1951
+
+Dear Dorle,
+
+I've been in the U.S.A. for about two weeks now and have settled in to some extent. In Washington, we first had introductory lectures, and now each of us has a travel program. I am traveling with an Austrian woman, with whom I get along very well. From here we go to Chicago and then for a month to the state of Utah to the Mormons, which I am particularly excited about.
+
+Now I would very much like to know what news you have from Canada. It's not so easy to get used to a foreign language. I am often astonished at how much I still miss when people speak quickly, although I had imagined that I could speak English. I also wanted to write you the address of Elly Graeffe's aunt in Canada, which I have now found out. Elly is staying with her until the beginning of December because she has to recover from an illness. So if you feel like writing to her, the address would be:
+
+Mrs. Elly Graeffe
+c/o Mr. Bob Ellis
+305 Lee Ave
+Toronto Ontario
+Canada
+
+My own address is:
+Woman's Bureau 1338
+Department of Labour
+Washington
+U.S.A.
+
+Very best wishes to you all and a Merry Christmas.
+Your Erni.
+
+---
+**Translation of 3235806A-098E-475D-9E84-39ABACE228D1_1_105_c_german.txt**
+
+Dora Hofmann
+Stetten, Unteruhlding
+Lake Constance
+
+Stetten, 17 Feb. 1949.
+
+Dear Mr. Betzel,
+
+In response to your advertisement in today's Basel supplement,
+as well as in the Lake Geneva press, I am applying
+for the advertised position. I have previously worked
+in my parents' business, where I also completed my
+3-year apprenticeship, with excellent performance. I
+have now successfully attended the cooperative vocational school.
+I am enclosing the examination certificates
+preliminarily with 3 [references?] or before. I am in a
+position from which I have given notice, but would like to
+broaden my knowledge in another business.
+
+Respectfully yours,
+Dora Hofmann
+
+Enclosures: Personal data sheet
+Photos
+Copies of certificates
+
+---
+**Translation of 9BA4B1C9-6493-4FB1-89C8-25D37386AA93_1_105_c_german.txt**
+
+Is Arlette there now?
+Our assistant, who has been here for 3 days, is nothing
+special. Almost no idea about fruit growing.
+The girl is very nice and capable. But she isn't
+staying, because she wants to go to an American. There
+she earns 150 DM in addition to room and board. Does Ursel not have a position yet? On the one hand,
+it's good if she is still there. It's really a pity
+that Dagmar had such bad luck.
+Has Erdmute ever written to you? I'm writing
+her a birthday letter later. Rüthe also has
+a birthday next week. She would surely
+be happy if Uschi or someone else
+wrote to her. We are now starting with the
+Morello cherries, we have quite
+a lot of them. I've only been swimming once.
+
+Best regards.
+dorle.
+
+Uschi also seems to be very busy,
+she hasn't written to me in ages.
+
+---
+**Translation of 1AFC4466-0041-4037-AD3F-557639DC741A_1_105_c_german.txt**
+
+...knitting. You can get things
+in France all
+much cheaper than over there where you are.
+It's clear to you that I'm still
+mourning the books. That
+mountains, clouds and with it
+peace, am I giving you a little
+too little of that for the first time? And whether
+it would be a photo, you
+know yourself, without having to
+[crossed out: look at photo] again.
+[Translator's note: This passage is garbled and the meaning is obscure.]
+
+But what great thing should I
+start writing about?
+
+Best regards,
+Dorli
+
+---
+**Translation of 7817FC16-24E9-4E81-BB3F-333923D68073_1_105_c_german.txt**
+
+...so sweet. Also apricots and cherries,
+peaches. The oldest trees are
+20 years old. We have very
+lordly/imperious [?] ladders [?] here. In the middle a little house
+and the rungs on it. Yesterday
+I wanted to go to Wiesbaden, but it
+shone and rained all day.
+On Saturday evening I was at a
+slide lecture about Angola (Portuguese
+West Africa). It was very interesting.
+The group also wrote that
+Uncle Hans wants to go there too. Here
+there is also an America House. Therefore
+films, English language courses, lectures,
+all sorts of things for free. In addition, there is an
+adult education association, which also
+holds exhibitions. During the week at
+the library I got myself books.
+[Translator's note: Some parts are garbled. "herrische Seitern" is untranslatable. "bei cher ei" is likely a typo for "Bücherei" (library).]
+
+Best regards, Dorl.
+
+---
+**Translation of 13732641-D2C7-49CA-9813-A347C32125F9_1_105_c_german.txt**
+
+Mrs. Dora Hofmann
+Stetten [?] near
+Meersburg [?]
+Germany
+[Translator's note: The place names "Shellen" and "Teersburg" are likely misspellings of "Stetten" and "Meersburg," which are located near Lake Constance, fitting the context of other letters.]
+
+---
+**Translation of 31271063-5924-44D4-86A1-72A09FEC2B76_1_105_c_german.txt**
+
+Dear Christel!
+How are you? Have you grown a bit taller and
+gotten fatter? When I come back, you'll surely
+take me in your arms. I'm not getting any
+taller or fatter, because it seems one gets thinner
+in this climate. Here the women are all as slim as
+fir trees. Though if they all eat as much
+as we do here, I'm not surprised. Nothing at all in the morning, for lunch we eat soup
+and toast, or eggs with ham and always
+dessert. In the evening, so far there has always been mashed
+potatoes, and everyone eats at most a
+tablespoonful of it. Then some can of vegetables or
+frozen vegetables is opened and seasoned, and then
+there is meat in rich quantities. A huge
+lump of butter goes into everything. For dessert, there is
+very often ice cream. You can buy most things here in cans,
+but they don't all taste of the same
+spice! You couldn't cook any better this way. The fine
+vegetable soups, chicken with rice, green peas,
+canned fruit, spaghetti with tomatoes, etc. What is thrown
+away here in terms of food, leftovers, and buttered bread,
+you could feed a family of four
+and 2 fat pigs with it. The only thing that is
+carefully saved is the mashed potatoes, because
+you have to peel potatoes.
+Best regards and a Happy New
+Year! Dork [likely Dorli]
