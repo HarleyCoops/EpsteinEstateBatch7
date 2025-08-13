@@ -64,19 +64,36 @@ PROMPT_NARRATIVE_ANALYSIS_TEMPLATE = (
 
 PROMPT_ENGLISH_TO_LATEX_TEMPLATE = (
     "You are an expert in LaTeX document formatting. You have been provided with the combined text of several translated English letters. "
-    "These letters are concatenated, with separators like '--- End of Document from [filename] ---' marking the transition between original documents.\\n"
-    "Your task is to convert this entire text into a single, well-formatted, and compilable LaTeX document. "
-    "Use the standard 'article' class. Include necessary packages like 'inputenc' (for utf-8, use \\usepackage[utf8]{inputenc}) and 'geometry' for reasonable margins (e.g., \\usepackage{geometry}\\geometry{a4paper, margin=1in}).\\n"
-    "The English text should flow as a continuous document. "
-    "Replace the '--- End of Document from ... ---' separators with a visual break, such as \\bigskip\\hrule\\bigskip, to indicate the end of one letter segment and the beginning of the next.\\n"
-    "Preserve all other paragraph breaks as observed in the input text (typically a blank line between paragraphs in the input should translate to a new paragraph in LaTeX).\\n"
-    "Handle special LaTeX characters (like $, %, &, #, _, {, }) in the input text by escaping them appropriately (e.g., \\$, \\%, \\&, \\#, \\_, \\{, \\}).\\n"
-    "Do not add any commentary or text that is not part of the original letters themselves. "
-    "The output must be ONLY the valid LaTeX code, starting with \\documentclass{article} and ending with \\end{document}. Ensure the document is self-contained and ready to compile.\\n\\n"
+    "The text is concatenated, with separators like '--- End of Document from [filename] ---' marking the transition between original documents.\\n"
+    "Your task is to convert this entire text into a single, well-formatted, and compilable LaTeX 'article' class document.\\n\\n"
+    "**Formatting Rules:**\\n"
+    "1.  **Document Class & Packages:** Use `\\documentclass{article}`. Include `\\usepackage[utf8]{inputenc}` for UTF-8 support and `\\usepackage{geometry}` with `\\geometry{a4paper, margin=1in}` for margins.\\n"
+    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{Source: IMG_1234.jpg}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
+    "3.  **Separators:** Do NOT render the '--- End of Document from...' separators in the output. Their only purpose is to provide the source filename for the `\\subsection*` command.\\n"
+    "4.  **Paragraphs:** Preserve all paragraph breaks from the input text. A blank line in the input signifies a new paragraph in the LaTeX output.\\n"
+    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {, }) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{`, `\\}`).\\n"
+    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{article}` and ending with `\\end{document}`. Do not add any commentary.\\n\\n"
     "Here is the English text to convert:\\n\\n"
     "--- BEGIN ENGLISH TEXT ---\\n"
     "{english_letter_content}\\n"
     "--- END ENGLISH TEXT ---"
+)
+
+PROMPT_GERMAN_TO_LATEX_TEMPLATE = (
+    "You are an expert in LaTeX document formatting. You have been provided with the combined text of several German letters. "
+    "The text is concatenated, with separators like '--- End of Document from [filename] ---' marking the transition between original documents.\\n"
+    "Your task is to convert this entire text into a single, well-formatted, and compilable LaTeX 'article' class document suitable for German text.\\n\\n"
+    "**Formatting Rules:**\\n"
+    "1.  **Document Class & Packages:** Use `\\documentclass{article}`. For proper German typesetting, include `\\usepackage[utf8]{inputenc}` and `\\usepackage[T1]{fontenc}`. Also include `\\usepackage{geometry}` with `\\geometry{a4paper, margin=1in}`.\\n"
+    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{Quelle: IMG_1234.jpg}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
+    "3.  **Separators:** Do NOT render the '--- End of Document from...' separators in the output. Their only purpose is to provide the source filename for the `\\subsection*` command.\\n"
+    "4.  **Paragraphs:** Preserve all paragraph breaks from the input text. A blank line in the input signifies a new paragraph in the LaTeX output.\\n"
+    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {, }) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{`, `\\}`).\\n"
+    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{article}` and ending with `\\end{document}`. Do not add any commentary.\\n\\n"
+    "Here is the German text to convert:\\n\\n"
+    "--- BEGIN GERMAN TEXT ---\\n"
+    "{german_letter_content}\\n"
+    "--- END GERMAN TEXT ---"
 )
 
 PROMPT_FORMAT_FOR_GDOC_TEMPLATE = (
@@ -311,6 +328,59 @@ def generate_latex_from_english(english_text, client):
         print(f"  Full traceback: {traceback.format_exc()}")
         raise
 
+def generate_latex_from_german(german_text, client):
+    """
+    Converts combined German text to a LaTeX document using Gemini AI.
+    Returns the LaTeX code as a string.
+    """
+    print(f"  Generating LaTeX for {len(german_text)} characters of German text")
+    start_time = time.time()
+
+    try:
+        prompt = PROMPT_GERMAN_TO_LATEX_TEMPLATE.format(german_letter_content=german_text)
+        print(f"  German LaTeX generation prompt length: {len(prompt)} characters")
+
+        contents = [
+            types.Content(
+                role="user",
+                parts=[
+                    types.Part.from_text(text=prompt),
+                ],
+            ),
+        ]
+
+        generate_content_config = types.GenerateContentConfig(
+            temperature=LATEX_GENERATION_TEMPERATURE,
+            response_mime_type="text/plain", # Expecting raw LaTeX code
+        )
+
+        print(f"  Starting German LaTeX generation with model: {MODEL_NAME}")
+
+        output = ""
+        chunk_count = 0
+        for chunk in client.models.generate_content_stream(
+            model=MODEL_NAME,
+            contents=contents,
+            config=generate_content_config,
+        ):
+            chunk_count += 1
+            if chunk.text:
+                output += chunk.text
+                if chunk_count % 10 == 0 or len(chunk.text) > 100:
+                    print(f"  Received German LaTeX chunk {chunk_count} (length {len(chunk.text)} chars)")
+            else:
+                print(f"  Received empty German LaTeX chunk {chunk_count}")
+
+        print(f"  German LaTeX generation complete! Took {time.time() - start_time:.2f} seconds")
+        print(f"  Generated German LaTeX output length: {len(output)} characters")
+
+        return output
+
+    except Exception as e:
+        print(f"  ERROR in generate_latex_from_german: {str(e)}")
+        print(f"  Full traceback: {traceback.format_exc()}")
+        raise
+
 def format_english_for_gdoc(combined_english_text, client):
     """
     Formats the combined English text as clean Markdown for Google Docs pasting.
@@ -445,36 +515,47 @@ def main():
     # Phase 2: Combine German texts and translate to English
     print("\n--- Phase 2: Combining German Texts and Translating to English ---")
     
-    combined_german_text = ""
+    combined_german_raw_text = ""
     for german_path in german_texts_paths:
         if os.path.exists(german_path):
             try:
                 with open(german_path, 'r', encoding='utf-8') as f:
                     german_text_content = f.read()
                     if german_text_content.strip(): # Add separator only if content exists
-                        combined_german_text += german_text_content + "\n\n--- End of Document from " + os.path.basename(german_path) + " ---\n\n"
+                        # We derive the original image name to be more robust
+                        base_german_name = os.path.basename(german_path)
+                        original_image_name = base_german_name.replace('_german.txt', '.jpg') # Assume jpg, might need to be more robust
+                        combined_german_raw_text += german_text_content + "\n\n--- End of Document from " + original_image_name + " ---\n\n"
                     else:
                         print(f"  WARNING: German text file {german_path} is empty.")
             except Exception as e:
                 print(f"  ERROR reading {german_path}: {e}", file=sys.stderr)
-                # Potentially skip this file's content or handle error
         else:
             print(f"  WARNING: Expected German text file {german_path} not found. It might have failed during extraction.")
 
-    if not combined_german_text.strip():
+    if not combined_german_raw_text.strip():
         print("No German text was extracted or combined. Skipping translation.", file=sys.stderr)
         sys.exit(1)
+
+    # Save the combined German raw text to a file
+    combined_german_filename = "combined_german_letter.txt"
+    combined_german_path = os.path.join(BASE_DIR, combined_german_filename)
+    print(f"  Saving combined German text to: {combined_german_path}")
+    with open(combined_german_path, 'w', encoding='utf-8') as f:
+        f.write(combined_german_raw_text)
 
     english_output_filename = "combined_english_translation.txt"
     english_output_path = os.path.join(ENGLISH_OUTPUT_DIR, english_output_filename)
 
     if os.path.exists(english_output_path):
         print(f"  Skipping translation (combined English file exists): {english_output_filename}")
+        with open(english_output_path, 'r', encoding='utf-8') as f:
+            english_text = f.read()
     else:
         print(f"  Starting combined English translation...")
         try:
             overall_start = time.time()
-            english_text = translate_to_english(combined_german_text, client)
+            english_text = translate_to_english(combined_german_raw_text, client)
             
             print(f"  Saving combined English translation to: {english_output_path}")
             with open(english_output_path, 'w', encoding='utf-8') as f:
@@ -485,8 +566,7 @@ def main():
         except Exception as e:
             print(f"  ERROR translating combined German text: {e}", file=sys.stderr)
             print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
-            # Handle error, perhaps save partial or indicate failure
-            sys.exit(1) # Exit if combined translation fails, as analysis depends on it
+            sys.exit(1)
 
     print(f"\nProcessing complete for German extraction and English translation.")
     print(f"Individual German texts in {GERMAN_OUTPUT_DIR}, Combined English translation in {english_output_path}.")
@@ -532,48 +612,69 @@ def main():
     print(f"\n--- Phase 3 Complete: Narrative Analysis ---")
     print(f"Narrative analysis (if generated) is in: {analysis_output_path}")
 
-    # --- Phase 4: Generate LaTeX from Combined English Text ---
-    print("\n--- Phase 4: Generating LaTeX Document from English Text ---")
+    # --- Phase 4: Generate English LaTeX from Combined English Text ---
+    print("\n--- Phase 4: Generating English LaTeX Document from English Text ---")
     
-    latex_output_filename = "combined_english_letter.tex"
-    latex_output_path = os.path.join(BASE_DIR, latex_output_filename)
+    english_latex_output_filename = "combined_english_letter.tex"
+    english_latex_output_path = os.path.join(BASE_DIR, english_latex_output_filename)
 
-    if os.path.exists(latex_output_path):
-        print(f"  Skipping LaTeX generation (file exists): {latex_output_filename}")
+    if os.path.exists(english_latex_output_path):
+        print(f"  Skipping English LaTeX generation (file exists): {english_latex_output_filename}")
     else:
-        if not os.path.exists(english_output_path):
-            print(f"  ERROR: Combined English translation file not found at {english_output_path}. Cannot proceed with LaTeX generation.", file=sys.stderr)
-            sys.exit(1) # Critical dependency missing
-            
-        print(f"  Reading combined English text from: {english_output_path} for LaTeX generation")
-        try:
-            with open(english_output_path, 'r', encoding='utf-8') as f:
-                combined_english_letters_for_latex = f.read()
-            
-            if not combined_english_letters_for_latex.strip():
-                print(f"  ERROR: Combined English text file is empty. Cannot proceed with LaTeX generation.", file=sys.stderr)
-                sys.exit(1) # Critical dependency empty
+        # We use the 'english_text' variable which was either read or generated above.
+        if not english_text.strip():
+            print(f"  ERROR: English text is empty. Cannot proceed with LaTeX generation.", file=sys.stderr)
+        else:
+            print(f"  Starting English LaTeX document generation...")
+            try:
+                latex_gen_start_time = time.time()
+                english_latex_document = generate_latex_from_english(english_text, client)
 
-            print(f"  Starting LaTeX document generation...")
-            latex_gen_start_time = time.time()
-            latex_document = generate_latex_from_english(combined_english_letters_for_latex, client)
-            
-            print(f"  Saving LaTeX document to: {latex_output_path}")
-            with open(latex_output_path, 'w', encoding='utf-8') as f:
-                f.write(latex_document)
-            
-            print(f"  LaTeX document saved successfully. Took {time.time() - latex_gen_start_time:.2f} seconds.")
+                print(f"  Saving English LaTeX document to: {english_latex_output_path}")
+                with open(english_latex_output_path, 'w', encoding='utf-8') as f:
+                    f.write(english_latex_document)
 
-        except Exception as e:
-            print(f"  ERROR during LaTeX generation phase: {str(e)}", file=sys.stderr)
-            print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
-            # Optionally exit or decide how to proceed
+                print(f"  English LaTeX document saved successfully. Took {time.time() - latex_gen_start_time:.2f} seconds.")
 
-    print(f"\n--- Phase 4 Complete: LaTeX Generation ---")
-    print(f"Final LaTeX document (if generated) is in: {latex_output_path}")
+            except Exception as e:
+                print(f"  ERROR during English LaTeX generation phase: {str(e)}", file=sys.stderr)
+                print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
 
-    # --- Phase 5: Generate Formatted Markdown for Google Docs from English Text ---
-    print("\n--- Phase 5: Generating Markdown for Google Docs ---")
+    print(f"\n--- Phase 4 Complete: English LaTeX Generation ---")
+    print(f"Final English LaTeX document (if generated) is in: {english_latex_output_path}")
+
+    # --- Phase 5: Generate German LaTeX from Combined German Text ---
+    print("\n--- Phase 5: Generating German LaTeX Document from German Text ---")
+
+    german_latex_output_filename = "combined_german_letter.tex"
+    german_latex_output_path = os.path.join(BASE_DIR, german_latex_output_filename)
+
+    if os.path.exists(german_latex_output_path):
+        print(f"  Skipping German LaTeX generation (file exists): {german_latex_output_filename}")
+    else:
+        if not combined_german_raw_text.strip():
+            print(f"  ERROR: German text is empty. Cannot proceed with LaTeX generation.", file=sys.stderr)
+        else:
+            print(f"  Starting German LaTeX document generation...")
+            try:
+                latex_gen_start_time = time.time()
+                german_latex_document = generate_latex_from_german(combined_german_raw_text, client)
+
+                print(f"  Saving German LaTeX document to: {german_latex_output_path}")
+                with open(german_latex_output_path, 'w', encoding='utf-8') as f:
+                    f.write(german_latex_document)
+
+                print(f"  German LaTeX document saved successfully. Took {time.time() - latex_gen_start_time:.2f} seconds.")
+
+            except Exception as e:
+                print(f"  ERROR during German LaTeX generation phase: {str(e)}", file=sys.stderr)
+                print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
+
+    print(f"\n--- Phase 5 Complete: German LaTeX Generation ---")
+    print(f"Final German LaTeX document (if generated) is in: {german_latex_output_path}")
+
+    # --- Phase 6: Generate Formatted Markdown for Google Docs from English Text ---
+    print("\n--- Phase 6: Generating Markdown for Google Docs ---")
     
     gdoc_markdown_filename = "combined_english_for_google_docs.md"
     gdoc_markdown_path = os.path.join(BASE_DIR, gdoc_markdown_filename)
@@ -581,78 +682,29 @@ def main():
     if os.path.exists(gdoc_markdown_path):
         print(f"  Skipping GDoc Markdown generation (file exists): {gdoc_markdown_filename}")
     else:
-        if not os.path.exists(english_output_path):
-            print(f"  ERROR: Combined English translation file not found at {english_output_path}. Cannot proceed with GDoc Markdown generation.", file=sys.stderr)
-            sys.exit(1)
-            
-        print(f"  Reading combined English text from: {english_output_path} for GDoc Markdown generation")
-        try:
-            with open(english_output_path, 'r', encoding='utf-8') as f:
-                raw_combined_translation_content = f.read()
-
-            if not raw_combined_translation_content.strip():
-                print(f"  ERROR: Combined English text file is empty. Cannot proceed with GDoc Markdown generation.", file=sys.stderr)
-                sys.exit(1)
-
-            # Parse to get only English parts
-            english_letter_parts = []
-            # Split by the main separator that introduces an English block
-            # Each part will start with something like "IMG_XXXX_german.txt ---\n[English Text]---"
-            # The first part of this split might be unwanted intro text from the file if it exists before the first separator
-            split_on_end_doc = raw_combined_translation_content.split("--- End of Document from ")
-            
-            for i, part in enumerate(split_on_end_doc):
-                if i == 0: # Skip potential text before the first proper document block
-                    # Check if the very first content IS an English block if no explicit German intro
-                    if "--- End of Document from " not in raw_combined_translation_content and not part.strip().startswith("**") and "--- " not in part.split("\n")[0]:
-                         # This heuristic might be needed if the first block is English without a preceding German block marker
-                         # For now, the logic assumes English follows the specific marker
-                         pass # Current logic: skip if it doesn't contain the german.txt marker explicitly
-                    else:
-                        # Check if the first chunk itself contains an English part after a filename
-                        # This is for the case where the file STARTS with "--- End of Document from ..."
-                        if "_german.txt ---" in part:
-                            actual_text_start = part.split("_german.txt ---\\n", 1)
-                            if len(actual_text_start) > 1:
-                                english_segment = actual_text_start[1].split("\\n---\\n")[0] # Split by separator for NEXT block
-                                english_letter_parts.append(english_segment.strip())
-                        continue # Generally skip the part before the *first* "--- End of Document from " found
-
-                # For other parts, they start with e.g. "IMG_XXXX_german.txt ---\n[English Text]---"
-                if "_german.txt ---" in part:
-                    # Content after "_german.txt ---\n"
-                    actual_text_start = part.split("_german.txt ---\\n", 1)
-                    if len(actual_text_start) > 1:
-                        # The English text is before the next standalone "---"
-                        english_segment = actual_text_start[1].split("\\n---\\n")[0]
-                        english_letter_parts.append(english_segment.strip())
-                # If a part doesn't contain the _german.txt --- marker, it might be malformed or the last part of text
-                # The split by "\n---\n" should handle the termination of the last English block correctly.
-
-            if not english_letter_parts:
-                print("  ERROR: No English letter parts could be extracted. Check file format.", file=sys.stderr)
-                sys.exit(1)
-
-            print(f"  Successfully extracted {len(english_letter_parts)} English letter segments.")
-            # Join with Markdown thematic break
-            all_english_content_for_gdoc = "\\n\\n---\\n\\n".join(english_letter_parts)
-
+        if not english_text.strip():
+            print(f"  ERROR: English text is empty. Cannot proceed with GDoc Markdown generation.", file=sys.stderr)
+        else:
             print(f"  Starting GDoc Markdown formatting for the combined English text...")
-            gdoc_format_start_time = time.time()
-            
-            # LLM call to ensure clean Markdown (optional, could just save all_english_content_for_gdoc)
-            # For now, let's use the LLM as requested to ensure clean output
-            final_markdown_for_gdoc = format_english_for_gdoc(all_english_content_for_gdoc, client)
-            
-            print(f"  Saving GDoc-formatted Markdown to: {gdoc_markdown_path}")
-            with open(gdoc_markdown_path, 'w', encoding='utf-8') as f:
-                f.write(final_markdown_for_gdoc)
-            
-            print(f"  GDoc-formatted Markdown saved successfully. Took {time.time() - gdoc_format_start_time:.2f} seconds.")
+            try:
+                gdoc_format_start_time = time.time()
 
-        except Exception as e:
-            print(f"  ERROR during GDoc Markdown generation phase: {str(e)}", file=sys.stderr)
-            print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
+                # The LLM call to format for GDoc can be simplified if the input is already clean.
+                # Here we will re-use the `english_text` which contains the separators.
+                # We can update the prompt to handle this or clean it up here.
+                # Let's update the prompt to be more robust.
+
+                final_markdown_for_gdoc = format_english_for_gdoc(english_text, client)
+
+                print(f"  Saving GDoc-formatted Markdown to: {gdoc_markdown_path}")
+                with open(gdoc_markdown_path, 'w', encoding='utf-8') as f:
+                    f.write(final_markdown_for_gdoc)
+
+                print(f"  GDoc-formatted Markdown saved successfully. Took {time.time() - gdoc_format_start_time:.2f} seconds.")
+
+            except Exception as e:
+                print(f"  ERROR during GDoc Markdown generation phase: {str(e)}", file=sys.stderr)
+                print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
 
     print(f"\n--- All Processing Complete ---")
     print(f"Final Markdown for Google Docs (if generated) is in: {gdoc_markdown_path}")

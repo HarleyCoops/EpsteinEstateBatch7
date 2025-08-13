@@ -4,11 +4,11 @@ A sophisticated multi-phase pipeline for digitizing, translating, and analyzing 
 
 ## Overview
 
-This project transforms handwritten German letters into accessible English translations with comprehensive historical analysis. It employs a 5-phase processing pipeline that combines OCR, translation, socio-historical analysis, and academic formatting.
+This project transforms handwritten German letters into accessible English translations with comprehensive historical analysis. It employs a 6-phase processing pipeline that combines OCR, translation, socio-historical analysis, and academic formatting.
 
 ## Processing Pipeline
 
-The `ImageTranslator.py` script orchestrates a comprehensive 5-phase workflow:
+The `ImageTranslator.py` script orchestrates a comprehensive 6-phase workflow:
 
 ### Input → Output Flow
 
@@ -17,7 +17,7 @@ The `ImageTranslator.py` script orchestrates a comprehensive 5-phase workflow:
 - **Files:** All `.jpeg`, `.jpg`, or `.png` files
 - **Processing order:** Sorted numerically (extracts numbers from filename)
 
-**OUTPUTS (5 phases):**
+**OUTPUTS (6 phases):**
 
 1. **Phase 1 - OCR:** Each image → individual German text file
    - `input/image.jpeg` → `german_output/image_german.txt`
@@ -25,17 +25,22 @@ The `ImageTranslator.py` script orchestrates a comprehensive 5-phase workflow:
 
 2. **Phase 2 - Translation:** ALL German texts combined → single English file
    - All `german_output/*_german.txt` → `english_output/combined_english_translation.txt`
+   - Also saves: `combined_german_letter.txt` (root folder)
    - Temperature: 0.8 (balanced for fluency)
 
 3. **Phase 3 - Analysis:** Combined English → narrative analysis
    - `english_output/combined_english_translation.txt` → `narrative_analysis_of_letters.txt` (root folder)
    - Temperature: 0.75 (nuanced interpretation)
 
-4. **Phase 4 - LaTeX:** Combined English → LaTeX document
+4. **Phase 4 - English LaTeX:** Combined English → LaTeX document with source traceability
    - `english_output/combined_english_translation.txt` → `combined_english_letter.tex` (root folder)
    - Temperature: 0.2 (precise formatting)
 
-5. **Phase 5 - Markdown:** Combined English → clean Markdown
+5. **Phase 5 - German LaTeX:** Combined German → LaTeX document with source traceability
+   - `combined_german_letter.txt` → `combined_german_letter.tex` (root folder)
+   - Temperature: 0.2 (precise formatting)
+
+6. **Phase 6 - Markdown:** Combined English → clean Markdown for Google Docs
    - `english_output/combined_english_translation.txt` → `combined_english_for_google_docs.md` (root folder)
    - Temperature: 0.1 (minimal alteration)
 
@@ -48,13 +53,12 @@ DorleStories/
 ├── english_output/         # Translation results
 ├── analysis_output/        # Historical analysis outputs
 ├── characters/            # Character intelligence profiles (future)
-├── ImageTranslator.py     # Main 5-phase pipeline
+├── ImageTranslator.py     # Main 6-phase pipeline
 ├── PDFTranslator.py       # PDF processing variant
 ├── agent_monitor.py       # Character intelligence extraction
 ├── config.yaml           # Configuration (currently unused by main pipeline)
 ├── requirements.txt      # Dependencies
 └── CLAUDE.md            # Project instructions for Claude AI
-
 ```
 
 ## Requirements
@@ -91,6 +95,7 @@ python agent_monitor.py
 
 - **Resumable Processing**: Already processed files are automatically skipped
 - **Ordered Processing**: Files are processed in numerical order
+- **Source Traceability**: LaTeX documents include source filename for each segment
 - **Streaming API**: Handles large responses efficiently
 - **Error Handling**: Includes retry logic and detailed error reporting
 - **Modular Design**: Each phase can be run independently
@@ -117,6 +122,6 @@ the pictures from Säntis? I've been waiting half a year for them already...
 
 ## Development Status
 
-✅ Phase 1-5: Fully functional pipeline
+✅ Phase 1-6: Fully functional pipeline with German/English LaTeX generation
 ⚠️ Character intelligence agent: In development
-📝 Config integration: Planned enhancement 
+📝 Config integration: Planned enhancement
