@@ -1,10 +1,10 @@
 # Dorle's Stories: AI-Powered Historical Letter Digitization
 
-A sophisticated multi-phase pipeline for digitizing, translating, and analyzing historical German handwritten letters using Google Gemini AI.
+An academic-grade pipeline for reconstructing decades of family correspondence into bilingual, typeset narratives using modern LLMs.
 
-## Overview
+## Vision & Context
 
-This project transforms handwritten German letters into accessible English translations with comprehensive historical analysis. It employs a 6-phase processing pipeline that combines OCR, translation, socio-historical analysis, and academic formatting.
+DorleStories is a digital humanities effort that turns fragile handwritten pages into a searchable corpus spanning generations. Beyond simple OCR, the goal is to produce coherent stories that can be read either in their original German or in a faithful English translation. Each step preserves provenance so historians can trace every sentence back to the source image.
 
 ## Processing Pipeline
 
@@ -125,6 +125,12 @@ the pictures from Säntis? I've been waiting half a year for them already...
 ✅ Phase 1-6: Fully functional pipeline with German/English LaTeX generation
 ⚠️ Character intelligence agent: In development
 📝 Config integration: Planned enhancement
+
+## Research Roadmap
+
+- **Letter aggregation**: detect and merge multi-page letters to preserve narrative flow across decades.
+- **Bilingual typesetting**: parallel German/English LaTeX with cross-references and page provenance.
+- **Narrative corpus building**: compile outputs into a chronological archive that enables long-term cultural or familial analysis.
 
 ## Codex CLI and MCP Translation Workflow (OpenAI)
 
