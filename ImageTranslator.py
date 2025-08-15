@@ -9,6 +9,7 @@ import os
 import sys
 import time
 import traceback
+import argparse
 from dotenv import load_dotenv
 
 # Use the same Google GenAI imports as the working Alberta/BC scripts
@@ -17,11 +18,33 @@ from google.genai import types
 
 load_dotenv()
 
+# Parse command-line arguments
+parser = argparse.ArgumentParser(description='Process handwritten German documents through OCR, translation, and analysis pipeline.')
+parser.add_argument('--input-dir', type=str, help='Input directory containing images (default: ./input)')
+parser.add_argument('--output-base', type=str, help='Base directory for all outputs (default: current directory)')
+parser.add_argument('--german-output-dir', type=str, help='German OCR output directory (default: {output-base}/german_output)')
+parser.add_argument('--english-output-dir', type=str, help='English translation output directory (default: {output-base}/english_output)')
+args = parser.parse_args()
+
 # Directory paths
 BASE_DIR = os.path.dirname(__file__)
-INPUT_DIR = os.path.join(BASE_DIR, 'input')
-GERMAN_OUTPUT_DIR = os.path.join(BASE_DIR, 'german_output')
-ENGLISH_OUTPUT_DIR = os.path.join(BASE_DIR, 'english_output')
+
+# Determine directories based on arguments
+if args.output_base:
+    OUTPUT_BASE = args.output_base
+    # For DorleLettersE/F/G, the input is in a subdirectory with the same name
+    base_name = os.path.basename(OUTPUT_BASE)
+    INPUT_DIR = args.input_dir if args.input_dir else os.path.join(OUTPUT_BASE, base_name)
+    GERMAN_OUTPUT_DIR = args.german_output_dir if args.german_output_dir else os.path.join(OUTPUT_BASE, 'german_output')
+    ENGLISH_OUTPUT_DIR = args.english_output_dir if args.english_output_dir else os.path.join(OUTPUT_BASE, 'english_output')
+    # For combined outputs, use output_base instead of BASE_DIR
+    COMBINED_OUTPUT_DIR = OUTPUT_BASE
+else:
+    INPUT_DIR = args.input_dir if args.input_dir else os.path.join(BASE_DIR, 'input')
+    GERMAN_OUTPUT_DIR = args.german_output_dir if args.german_output_dir else os.path.join(BASE_DIR, 'german_output')
+    ENGLISH_OUTPUT_DIR = args.english_output_dir if args.english_output_dir else os.path.join(BASE_DIR, 'english_output')
+    # For default mode, combined outputs go to BASE_DIR
+    COMBINED_OUTPUT_DIR = BASE_DIR
 
 # Model and generation settings
 MODEL_NAME = "gemini-2.5-flash"
@@ -38,7 +61,10 @@ PROMPT_IMAGE_EXTRACTION = (
 )
 
 PROMPT_TRANSLATION_TEMPLATE = (
-    "Translate the following German text to English, :\\n\\n"
+    "Translate the following German text to English. "
+    "Return ONLY the translation itself with no preamble, introduction, or explanatory text. "
+    "Do not include phrases like 'Here is the translation' or 'The English translation is'. "
+    "Output only the translated text:\\n\\n"
     "{german_content}"
 )
 
@@ -67,12 +93,12 @@ PROMPT_ENGLISH_TO_LATEX_TEMPLATE = (
     "The text is concatenated, with separators like '--- End of Document from [filename] ---' marking the transition between original documents.\\n"
     "Your task is to convert this entire text into a single, well-formatted, and compilable LaTeX 'article' class document.\\n\\n"
     "**Formatting Rules:**\\n"
-    "1.  **Document Class & Packages:** Use `\\documentclass{article}`. Include `\\usepackage[utf8]{inputenc}` for UTF-8 support and `\\usepackage{geometry}` with `\\geometry{a4paper, margin=1in}` for margins.\\n"
-    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{Source: IMG_1234.jpg}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
+    "1.  **Document Class & Packages:** Use `\\documentclass{{article}}`. Include `\\usepackage[utf8]{{inputenc}}` for UTF-8 support and `\\usepackage{{geometry}}` with `\\geometry{{a4paper, margin=1in}}` for margins.\\n"
+    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{{Source: IMG_1234.jpg}}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
     "3.  **Separators:** Do NOT render the '--- End of Document from...' separators in the output. Their only purpose is to provide the source filename for the `\\subsection*` command.\\n"
     "4.  **Paragraphs:** Preserve all paragraph breaks from the input text. A blank line in the input signifies a new paragraph in the LaTeX output.\\n"
-    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {, }) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{`, `\\}`).\\n"
-    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{article}` and ending with `\\end{document}`. Do not add any commentary.\\n\\n"
+    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {{, }}) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{{`, `\\}}`)..\\n"
+    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{{article}}` and ending with `\\end{{document}}`. Do not add any commentary.\\n\\n"
     "Here is the English text to convert:\\n\\n"
     "--- BEGIN ENGLISH TEXT ---\\n"
     "{english_letter_content}\\n"
@@ -84,12 +110,12 @@ PROMPT_GERMAN_TO_LATEX_TEMPLATE = (
     "The text is concatenated, with separators like '--- End of Document from [filename] ---' marking the transition between original documents.\\n"
     "Your task is to convert this entire text into a single, well-formatted, and compilable LaTeX 'article' class document suitable for German text.\\n\\n"
     "**Formatting Rules:**\\n"
-    "1.  **Document Class & Packages:** Use `\\documentclass{article}`. For proper German typesetting, include `\\usepackage[utf8]{inputenc}` and `\\usepackage[T1]{fontenc}`. Also include `\\usepackage{geometry}` with `\\geometry{a4paper, margin=1in}`.\\n"
-    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{Quelle: IMG_1234.jpg}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
+    "1.  **Document Class & Packages:** Use `\\documentclass{{article}}`. For proper German typesetting, include `\\usepackage[utf8]{{inputenc}}` and `\\usepackage[T1]{{fontenc}}`. Also include `\\usepackage{{geometry}}` with `\\geometry{{a4paper, margin=1in}}`.\\n"
+    "2.  **Traceability:** For each segment, you MUST add a header to indicate its source. Before the text from a file like '--- End of Document from IMG_1234_german.txt ---', you must insert a subsection command like: `\\subsection*{{Quelle: IMG_1234.jpg}}`. Extract the original filename (e.g., 'IMG_1234.jpg') from the separator string.\\n"
     "3.  **Separators:** Do NOT render the '--- End of Document from...' separators in the output. Their only purpose is to provide the source filename for the `\\subsection*` command.\\n"
     "4.  **Paragraphs:** Preserve all paragraph breaks from the input text. A blank line in the input signifies a new paragraph in the LaTeX output.\\n"
-    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {, }) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{`, `\\}`).\\n"
-    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{article}` and ending with `\\end{document}`. Do not add any commentary.\\n\\n"
+    "5.  **Special Characters:** Handle special LaTeX characters (e.g., $, %, &, #, _, {{, }}) by escaping them correctly (e.g., `\\$`, `\\%`, `\\&`, `\\#`, `\\_`, `\\{{`, `\\}}`).\\n"
+    "6.  **Output:** The output must be ONLY the valid, self-contained LaTeX code, starting with `\\documentclass{{article}}` and ending with `\\end{{document}}`. Do not add any commentary.\\n\\n"
     "Here is the German text to convert:\\n\\n"
     "--- BEGIN GERMAN TEXT ---\\n"
     "{german_letter_content}\\n"
@@ -177,49 +203,76 @@ def translate_to_english(german_text, client):
     print(f"  Translating {len(german_text)} characters of German text")
     start_time = time.time()
     
-    try:
-        prompt = PROMPT_TRANSLATION_TEMPLATE.format(german_content=german_text)
-        print(f"  Translation prompt length: {len(prompt)} characters")
-        
-        contents = [
-            types.Content(
-                role="user",
-                parts=[
-                    types.Part.from_text(text=prompt),
-                ],
-            ),
-        ]
-        
-        generate_content_config = types.GenerateContentConfig(
-            temperature=TRANSLATION_TEMPERATURE,
-            response_mime_type="text/plain",
-        )
-        
-        print(f"  Starting translation with model: {MODEL_NAME}")
-        
-        output = ""
-        chunk_count = 0
-        for chunk in client.models.generate_content_stream(
-            model=MODEL_NAME,
-            contents=contents,
-            config=generate_content_config,
-        ):
-            chunk_count += 1
-            if chunk.text:
-                output += chunk.text
-                print(f"  Translation chunk {chunk_count} ({len(chunk.text)} chars)")
-            else:
-                print(f"  Received empty translation chunk {chunk_count}")
-        
-        print(f"  Translation complete! Took {time.time() - start_time:.2f} seconds")
-        print(f"  Translation output length: {len(output)} characters")
-        
-        return output
-        
-    except Exception as e:
-        print(f"  ERROR in translate_to_english: {str(e)}")
-        print(f"  Full traceback: {traceback.format_exc()}")
-        raise
+    # Add retry logic for connection errors
+    max_retries = 3
+    retry_delay = 10  # Start with 10 seconds delay
+    
+    for attempt in range(max_retries):
+        try:
+            # For very large texts (>30k chars), warn and proceed
+            if len(german_text) > 30000:
+                print(f"  WARNING: Large text ({len(german_text)} chars). This may take longer...")
+            
+            prompt = PROMPT_TRANSLATION_TEMPLATE.format(german_content=german_text)
+            print(f"  Translation prompt length: {len(prompt)} characters")
+            
+            contents = [
+                types.Content(
+                    role="user",
+                    parts=[
+                        types.Part.from_text(text=prompt),
+                    ],
+                ),
+            ]
+            
+            generate_content_config = types.GenerateContentConfig(
+                temperature=TRANSLATION_TEMPERATURE,
+                response_mime_type="text/plain",
+            )
+            
+            print(f"  Starting translation with model: {MODEL_NAME} (attempt {attempt + 1}/{max_retries})")
+            
+            output = ""
+            chunk_count = 0
+            last_chunk_time = time.time()
+            
+            for chunk in client.models.generate_content_stream(
+                model=MODEL_NAME,
+                contents=contents,
+                config=generate_content_config,
+            ):
+                chunk_count += 1
+                current_time = time.time()
+                
+                if chunk.text:
+                    output += chunk.text
+                    # Only print every 5th chunk to reduce output noise
+                    if chunk_count % 5 == 0:
+                        print(f"  Translation chunk {chunk_count} ({len(output)} total chars, {current_time - last_chunk_time:.1f}s since last)")
+                    last_chunk_time = current_time
+                else:
+                    print(f"  Received empty translation chunk {chunk_count}")
+            
+            print(f"  Translation complete! Took {time.time() - start_time:.2f} seconds")
+            print(f"  Translation output length: {len(output)} characters")
+            
+            return output
+            
+        except Exception as e:
+            error_msg = str(e)
+            print(f"  ERROR in translate_to_english (attempt {attempt + 1}/{max_retries}): {error_msg}")
+            
+            # Check if it's a connection error that we should retry
+            if "disconnected" in error_msg.lower() or "timeout" in error_msg.lower():
+                if attempt < max_retries - 1:
+                    print(f"  Connection error detected. Retrying in {retry_delay} seconds...")
+                    time.sleep(retry_delay)
+                    retry_delay *= 1.5  # Exponential backoff
+                    continue
+            
+            # If not a connection error or last attempt, print full trace and raise
+            print(f"  Full traceback: {traceback.format_exc()}")
+            raise
 
 def analyze_letters(english_text, client):
     """
@@ -512,71 +565,119 @@ def main():
         
     print("\n--- German Text Extraction Phase Complete ---")
 
-    # Phase 2: Combine German texts and translate to English
-    print("\n--- Phase 2: Combining German Texts and Translating to English ---")
+    # Phase 2: Translate each German text to English individually
+    print("\n--- Phase 2: Translating German Texts to English (One-to-One) ---")
     
+    english_texts_paths = []  # Store paths for English files
+    
+    for i, (image_file, german_path) in enumerate(zip(images, german_texts_paths), 1):
+        if os.path.exists(german_path):
+            # Derive English file path
+            stem = os.path.splitext(image_file)[0]
+            english_file_name = f"{stem}_english.txt"
+            english_path = os.path.join(ENGLISH_OUTPUT_DIR, english_file_name)
+            english_texts_paths.append(english_path)
+            
+            print(f"[{i}/{len(images)}] Processing translation: {os.path.basename(german_path)} → {english_file_name}")
+            
+            # Check if English translation already exists
+            if os.path.exists(english_path):
+                print(f"  Skipping translation (exists): {english_file_name}")
+            else:
+                try:
+                    # Read German text
+                    with open(german_path, 'r', encoding='utf-8') as f:
+                        german_text = f.read()
+                    
+                    if not german_text.strip():
+                        print(f"  WARNING: German text file {german_path} is empty. Skipping translation.")
+                        continue
+                    
+                    # Translate to English
+                    print(f"  Starting English translation...")
+                    translation_start = time.time()
+                    english_text_single = translate_to_english(german_text, client)
+                    
+                    # Save English translation
+                    print(f"  Saving English text to: {english_path}")
+                    with open(english_path, 'w', encoding='utf-8') as f:
+                        f.write(english_text_single)
+                    
+                    print(f"  Translation completed in {time.time() - translation_start:.2f} seconds\n")
+                    
+                except Exception as e:
+                    print(f"  ERROR translating {os.path.basename(german_path)}: {e}", file=sys.stderr)
+                    print(f"  Continuing with next file...", file=sys.stderr)
+                    continue
+        else:
+            print(f"  WARNING: German file not found: {german_path}")
+    
+    print("\n--- Individual Translation Phase Complete ---")
+    
+    # Phase 2b: Combine all texts for later analysis phases
+    print("\n--- Phase 2b: Creating Combined Files for Analysis ---")
+    
+    # Combine German texts with separators
     combined_german_raw_text = ""
     for german_path in german_texts_paths:
         if os.path.exists(german_path):
             try:
                 with open(german_path, 'r', encoding='utf-8') as f:
                     german_text_content = f.read()
-                    if german_text_content.strip(): # Add separator only if content exists
-                        # We derive the original image name to be more robust
+                    if german_text_content.strip():
                         base_german_name = os.path.basename(german_path)
-                        original_image_name = base_german_name.replace('_german.txt', '.jpg') # Assume jpg, might need to be more robust
+                        original_image_name = base_german_name.replace('_german.txt', '.jpg')
                         combined_german_raw_text += german_text_content + "\n\n--- End of Document from " + original_image_name + " ---\n\n"
-                    else:
-                        print(f"  WARNING: German text file {german_path} is empty.")
             except Exception as e:
                 print(f"  ERROR reading {german_path}: {e}", file=sys.stderr)
-        else:
-            print(f"  WARNING: Expected German text file {german_path} not found. It might have failed during extraction.")
-
-    if not combined_german_raw_text.strip():
-        print("No German text was extracted or combined. Skipping translation.", file=sys.stderr)
-        sys.exit(1)
-
-    # Save the combined German raw text to a file
-    combined_german_filename = "combined_german_letter.txt"
-    combined_german_path = os.path.join(BASE_DIR, combined_german_filename)
-    print(f"  Saving combined German text to: {combined_german_path}")
-    with open(combined_german_path, 'w', encoding='utf-8') as f:
-        f.write(combined_german_raw_text)
-
-    english_output_filename = "combined_english_translation.txt"
-    english_output_path = os.path.join(ENGLISH_OUTPUT_DIR, english_output_filename)
-
-    if os.path.exists(english_output_path):
-        print(f"  Skipping translation (combined English file exists): {english_output_filename}")
-        with open(english_output_path, 'r', encoding='utf-8') as f:
-            english_text = f.read()
+    
+    # Save combined German text
+    if combined_german_raw_text.strip():
+        combined_german_filename = "combined_german_letter.txt"
+        combined_german_path = os.path.join(COMBINED_OUTPUT_DIR, combined_german_filename)
+        print(f"  Saving combined German text to: {combined_german_path}")
+        with open(combined_german_path, 'w', encoding='utf-8') as f:
+            f.write(combined_german_raw_text)
+    
+    # Combine English texts with separators
+    english_text = ""  # This will be used by later phases
+    for english_path in english_texts_paths:
+        if os.path.exists(english_path):
+            try:
+                with open(english_path, 'r', encoding='utf-8') as f:
+                    english_text_content = f.read()
+                    if english_text_content.strip():
+                        base_english_name = os.path.basename(english_path)
+                        original_image_name = base_english_name.replace('_english.txt', '.jpg')
+                        english_text += english_text_content + "\n\n--- End of Document from " + original_image_name + " ---\n\n"
+            except Exception as e:
+                print(f"  ERROR reading {english_path}: {e}", file=sys.stderr)
+    
+    # Save combined English text
+    combined_english_filename = "combined_english_translation.txt"
+    combined_english_path = os.path.join(ENGLISH_OUTPUT_DIR, combined_english_filename)
+    
+    if english_text.strip():
+        print(f"  Saving combined English text to: {combined_english_path}")
+        with open(combined_english_path, 'w', encoding='utf-8') as f:
+            f.write(english_text)
     else:
-        print(f"  Starting combined English translation...")
-        try:
-            overall_start = time.time()
-            english_text = translate_to_english(combined_german_raw_text, client)
-            
-            print(f"  Saving combined English translation to: {english_output_path}")
-            with open(english_output_path, 'w', encoding='utf-8') as f:
-                f.write(english_text)
-            
-            print(f"  Combined translation completed in {time.time() - overall_start:.2f} seconds")
-            
-        except Exception as e:
-            print(f"  ERROR translating combined German text: {e}", file=sys.stderr)
-            print(f"  Full traceback: {traceback.format_exc()}", file=sys.stderr)
-            sys.exit(1)
+        print("No English text was translated. Skipping analysis phases.", file=sys.stderr)
+        sys.exit(1)
+    
+    # Set this for later phases to use
+    english_output_path = combined_english_path
 
     print(f"\nProcessing complete for German extraction and English translation.")
-    print(f"Individual German texts in {GERMAN_OUTPUT_DIR}, Combined English translation in {english_output_path}.")
+    print(f"Individual German texts in {GERMAN_OUTPUT_DIR}, Individual English texts in {ENGLISH_OUTPUT_DIR}.")
+    print(f"Combined files saved in {COMBINED_OUTPUT_DIR}.")
 
     # --- Phase 3: Narrative Analysis of Combined English Text ---
     print("\n--- Phase 3: Generating Narrative Analysis ---")
     
     analysis_output_filename = "narrative_analysis_of_letters.txt"
-    # Save in the base directory as discussed
-    analysis_output_path = os.path.join(BASE_DIR, analysis_output_filename) 
+    # Save in the combined output directory
+    analysis_output_path = os.path.join(COMBINED_OUTPUT_DIR, analysis_output_filename) 
 
     if os.path.exists(analysis_output_path):
         print(f"  Skipping narrative analysis (analysis file exists): {analysis_output_filename}")
@@ -616,7 +717,7 @@ def main():
     print("\n--- Phase 4: Generating English LaTeX Document from English Text ---")
     
     english_latex_output_filename = "combined_english_letter.tex"
-    english_latex_output_path = os.path.join(BASE_DIR, english_latex_output_filename)
+    english_latex_output_path = os.path.join(COMBINED_OUTPUT_DIR, english_latex_output_filename)
 
     if os.path.exists(english_latex_output_path):
         print(f"  Skipping English LaTeX generation (file exists): {english_latex_output_filename}")
@@ -647,7 +748,7 @@ def main():
     print("\n--- Phase 5: Generating German LaTeX Document from German Text ---")
 
     german_latex_output_filename = "combined_german_letter.tex"
-    german_latex_output_path = os.path.join(BASE_DIR, german_latex_output_filename)
+    german_latex_output_path = os.path.join(COMBINED_OUTPUT_DIR, german_latex_output_filename)
 
     if os.path.exists(german_latex_output_path):
         print(f"  Skipping German LaTeX generation (file exists): {german_latex_output_filename}")
@@ -677,7 +778,7 @@ def main():
     print("\n--- Phase 6: Generating Markdown for Google Docs ---")
     
     gdoc_markdown_filename = "combined_english_for_google_docs.md"
-    gdoc_markdown_path = os.path.join(BASE_DIR, gdoc_markdown_filename)
+    gdoc_markdown_path = os.path.join(COMBINED_OUTPUT_DIR, gdoc_markdown_filename)
 
     if os.path.exists(gdoc_markdown_path):
         print(f"  Skipping GDoc Markdown generation (file exists): {gdoc_markdown_filename}")

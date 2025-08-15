@@ -5,14 +5,32 @@ from typing import Dict, List, Optional
 import json
 from datetime import datetime
 from dotenv import load_dotenv
+import argparse
 
 # Load environment variables from .env file
 load_dotenv()
 
+# Parse command-line arguments
+parser = argparse.ArgumentParser(description='Analyze cultural shifts in translated German letters.')
+parser.add_argument('--output-base', type=str, help='Base directory containing the english_output folder and where analysis_output will be created')
+parser.add_argument('--input-file', type=str, help='Path to combined English translation file (default: english_output/combined_english_translation.txt)')
+parser.add_argument('--output-dir', type=str, help='Output directory for analysis results (default: analysis_output)')
+args = parser.parse_args()
+
+# Determine paths based on arguments
+if args.output_base:
+    # When using --output-base, look for input in that folder's english_output
+    base_input_file = os.path.join(args.output_base, "english_output", "combined_english_translation.txt")
+    base_output_dir = os.path.join(args.output_base, "analysis_output")
+else:
+    # Default paths
+    base_input_file = "english_output/combined_english_translation.txt"
+    base_output_dir = "analysis_output"
+
 # Configuration
 CONFIG = {
-    "input_file": "english_output/combined_english_translation.txt",
-    "output_dir": "analysis_output",
+    "input_file": args.input_file if args.input_file else base_input_file,
+    "output_dir": args.output_dir if args.output_dir else base_output_dir,
     "gemini_model": "gemini-1.5-flash",
     "temperature": 0.7,
     "top_p": 0.95,

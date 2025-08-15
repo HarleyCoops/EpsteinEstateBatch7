@@ -51,9 +51,10 @@ DorleStories/
 ├── input/                  # Source images (JPEG handwritten letters)
 ├── german_output/          # OCR results (German text files)
 ├── english_output/         # Translation results
-├── analysis_output/        # Historical analysis outputs
+├── analysis_output/        # Cultural analysis outputs
 ├── characters/            # Character intelligence profiles (future)
-├── ImageTranslator.py     # Main 6-phase pipeline
+├── ImageTranslator.py     # Main 6-phase pipeline (OCR → Translation → Analysis → LaTeX)
+├── culturalshifts.py      # Cultural analysis focusing on post-war German shifts
 ├── PDFTranslator.py       # PDF processing variant
 ├── agent_monitor.py       # Character intelligence extraction
 ├── config.yaml           # Configuration (currently unused by main pipeline)
@@ -80,10 +81,33 @@ export GEMINI_API_KEY="your-api-key-here"
 
 ## Usage
 
+### Core Processing Scripts
+
+**ImageTranslator.py** - Main 6-phase pipeline for OCR, translation, and document generation:
 ```bash
-# Run the main pipeline
+# Run the main pipeline (default directories)
 python ImageTranslator.py
 
+# Process specific letter collections with custom output locations
+python ImageTranslator.py --output-base DorleLettersE
+python ImageTranslator.py --output-base DorleLettersF
+python ImageTranslator.py --output-base DorleLettersG
+```
+
+**culturalshifts.py** - Specialized cultural analysis of translated letters:
+```bash
+# Run cultural analysis (default directories)
+python culturalshifts.py
+
+# Analyze specific letter collection
+python culturalshifts.py --output-base DorleLettersE
+python culturalshifts.py --output-base DorleLettersF
+python culturalshifts.py --output-base DorleLettersG
+```
+
+### Additional Tools
+
+```bash
 # Process PDF files (for bulk documents)
 python PDFTranslator.py
 
