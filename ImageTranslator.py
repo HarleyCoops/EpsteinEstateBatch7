@@ -47,7 +47,7 @@ else:
     COMBINED_OUTPUT_DIR = BASE_DIR
 
 # Model and generation settings
-MODEL_NAME = "gemini-2.5-flash"
+MODEL_NAME = "gemini-2.5-pro"
 EXTRACTION_TEMPERATURE = 0.4  # Lower temperature for accurate OCR
 TRANSLATION_TEMPERATURE = 0.8  # Balance accuracy and fluency for translation
 ANALYSIS_TEMPERATURE = 0.75 # For nuanced and insightful interpretations
@@ -61,10 +61,9 @@ PROMPT_IMAGE_EXTRACTION = (
 )
 
 PROMPT_TRANSLATION_TEMPLATE = (
-    "Translate the following German text to English. "
-    "Return ONLY the translation itself with no preamble, introduction, or explanatory text. "
-    "Do not include phrases like 'Here is the translation' or 'The English translation is'. "
-    "Output only the translated text:\\n\\n"
+    "You are a careful literary translator. Translate the following mid-20th-century German letter into natural, idiomatic English as if written by a native speaker, while preserving meaning, factual details, dates, names, and measurement units. "
+    "Guidelines: Resolve line-wrap hyphenations and hard line breaks inside paragraphs; keep paragraph breaks from the original; prefer fluent phrasing over literal calques; split or join sentences for readability when appropriate; do not add explanations or commentary, and do not omit content. "
+    "Output only the translated text, with no preamble or labels.\\n\\n"
     "{german_content}"
 )
 
@@ -135,6 +134,19 @@ PROMPT_FORMAT_FOR_GDOC_TEMPLATE = (
     "--- END TEXT ---"
 )
 
+def normalize_german_text(text: str) -> str:
+    """
+    Normalize OCR German text before translation:
+    - De-hyphenate across line breaks (e.g., 'Osterge-\\nschenk' -> 'Ostergeschenk')
+    - Merge hard-wrapped lines within paragraphs, preserving paragraph breaks
+    """
+    # Join hyphenated line breaks
+    joined = text.replace("-\n", "")
+    # Preserve paragraph breaks (double newlines), merge single newlines within paragraphs
+    paragraphs = [p.strip() for p in joined.split("\n\n")]
+    normalized_paragraphs = [" ".join(p.splitlines()) for p in paragraphs]
+    return "\n\n".join(normalized_paragraphs).strip()
+
 def extract_german_text(image_path, client):
     """
     Uses Gemini AI to perform OCR on a handwritten German image.
@@ -166,6 +178,8 @@ def extract_german_text(image_path, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=EXTRACTION_TEMPERATURE,
             response_mime_type="text/plain",
+            max_output_tokens=4096,
+            thinking_config=types.ThinkingConfig(thinking_budget=512),
         )
         
         print(f"  Starting content generation with model: {MODEL_NAME}")
@@ -213,7 +227,8 @@ def translate_to_english(german_text, client):
             if len(german_text) > 30000:
                 print(f"  WARNING: Large text ({len(german_text)} chars). This may take longer...")
             
-            prompt = PROMPT_TRANSLATION_TEMPLATE.format(german_content=german_text)
+            normalized_text = normalize_german_text(german_text)
+            prompt = PROMPT_TRANSLATION_TEMPLATE.format(german_content=normalized_text)
             print(f"  Translation prompt length: {len(prompt)} characters")
             
             contents = [
@@ -226,8 +241,11 @@ def translate_to_english(german_text, client):
             ]
             
             generate_content_config = types.GenerateContentConfig(
-                temperature=TRANSLATION_TEMPERATURE,
+                temperature=0.6,
+                top_p=0.8,
                 response_mime_type="text/plain",
+                max_output_tokens=8192,
+                thinking_config=types.ThinkingConfig(thinking_budget=2048),
             )
             
             print(f"  Starting translation with model: {MODEL_NAME} (attempt {attempt + 1}/{max_retries})")
@@ -298,6 +316,8 @@ def analyze_letters(english_text, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=ANALYSIS_TEMPERATURE, # Using the new temperature setting
             response_mime_type="text/plain",
+            max_output_tokens=16384,
+            thinking_config=types.ThinkingConfig(thinking_budget=-1),  # dynamic thinking
         )
         
         print(f"  Starting narrative analysis with model: {MODEL_NAME}")
@@ -351,6 +371,8 @@ def generate_latex_from_english(english_text, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=LATEX_GENERATION_TEMPERATURE,
             response_mime_type="text/plain", # Expecting raw LaTeX code
+            max_output_tokens=16384,
+            thinking_config=types.ThinkingConfig(thinking_budget=256),
         )
         
         print(f"  Starting LaTeX generation with model: {MODEL_NAME}")
@@ -405,6 +427,8 @@ def generate_latex_from_german(german_text, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=LATEX_GENERATION_TEMPERATURE,
             response_mime_type="text/plain", # Expecting raw LaTeX code
+            max_output_tokens=16384,
+            thinking_config=types.ThinkingConfig(thinking_budget=256),
         )
 
         print(f"  Starting German LaTeX generation with model: {MODEL_NAME}")
@@ -458,6 +482,8 @@ def format_english_for_gdoc(combined_english_text, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=GDOC_FORMAT_TEMPERATURE,
             response_mime_type="text/plain",
+            max_output_tokens=8192,
+            thinking_config=types.ThinkingConfig(thinking_budget=128),
         )
         
         print(f"  Starting GDoc Markdown formatting with model: {MODEL_NAME}")

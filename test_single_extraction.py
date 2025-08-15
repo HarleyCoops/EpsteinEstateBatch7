@@ -58,10 +58,11 @@ def test_extract(image_path):
             config = types.GenerateContentConfig(
                 temperature=0.4,
                 response_mime_type="text/plain",
+                thinking_config=types.ThinkingConfig(thinking_budget=512),
             )
             
             response = client.models.generate_content(
-                model="gemini-2.0-flash-exp",
+                model="gemini-2.5-pro",
                 contents=contents,
                 config=config,
             )

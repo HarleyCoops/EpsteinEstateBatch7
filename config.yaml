@@ -20,10 +20,10 @@ translation:
   source_language: "auto"
   # Always translate to English
   target_language: "en"
-  # Translation provider: "openai", "local", etc.
-  provider: "openai"
-  # Model name for the translation API (TODO: update to current model names)
-  model: "gpt-4"
+  # Translation provider: "google", "local", etc.
+  provider: "google"
+  # Model name for the translation API (updated to current model)
+  model: "gemini-2.5-pro"
 
 # Output settings
 output:

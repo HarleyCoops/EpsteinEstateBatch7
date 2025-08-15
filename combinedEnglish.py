@@ -24,7 +24,7 @@ GERMAN_OUTPUT_DIR = os.path.join(BASE_DIR, 'german_output')
 COMBINED_ENGLISH_OUTPUT_FILE = os.path.join(BASE_DIR, 'translation_from_all_german_files.txt')
 
 # Model and generation settings
-MODEL_NAME = "gemini-2.5-pro-preview-05-06" # Using the same model as ImageTranslator
+MODEL_NAME = "gemini-2.5-pro" # Using the same model as ImageTranslator
 TRANSLATION_TEMPERATURE = 0.8 # Consistent with ImageTranslator
 
 PROMPT_TRANSLATION_TEMPLATE = (
@@ -78,6 +78,8 @@ def translate_combined_german_to_english(german_text, client):
         generate_content_config = types.GenerateContentConfig(
             temperature=TRANSLATION_TEMPERATURE,
             response_mime_type="text/plain",
+            max_output_tokens=16384,
+            thinking_config=types.ThinkingConfig(thinking_budget=1024),
         )
         
         print(f"  Starting translation with model: {MODEL_NAME}")
@@ -173,4 +175,4 @@ def main():
     print("\nCombined English Translation Process Complete.")
 
 if __name__ == "__main__":
-    main() 
+    main()
