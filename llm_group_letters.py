@@ -151,6 +151,12 @@ def assemble_letters(groups: dict, items_by_filename: Dict[str, Dict[str, str]],
     # Create per-letter folders and emit de.txt without any added markers
     os.makedirs(output_dir, exist_ok=True)
     letters = groups.get("letters", [])
+
+    # Also index by prefix before first underscore (handles UUID-only refs)
+    items_by_prefix: Dict[str, Dict[str, str]] = {}
+    for k, v in items_by_filename.items():
+        pref = k.split("_", 1)[0]
+        items_by_prefix[pref] = v
     for i, letter in enumerate(letters, 1):
         lid = letter.get("id") or f"L{i:04d}"
         ldir = os.path.join(output_dir, lid)
@@ -163,8 +169,11 @@ def assemble_letters(groups: dict, items_by_filename: Dict[str, Dict[str, str]],
         texts: List[str] = []
         for fn in letter.get("pages", []):
             item = items_by_filename.get(fn)
+            if not item:
+                # try matching by UUID prefix (model may omit suffix like _1_105_c)
+                item = items_by_prefix.get(fn.split("_", 1)[0])
             if item:
-                texts.append(item["german"])  # do not modify or add markers
+                texts.append(item.get("german", ""))  # do not modify or add markers
         de_text = "".join(texts)
         with open(os.path.join(ldir, "de.txt"), "w", encoding="utf-8") as f:
             f.write(de_text)
@@ -179,6 +188,7 @@ def main() -> None:
     ap.add_argument("--output-dir", default="letters")
     ap.add_argument("--assemble", action="store_true", help="Write de.txt per letter using grouped pages")
     ap.add_argument("--save-input", action="store_true", help="Save the constructed listing file for audit")
+    ap.add_argument("--reuse-json", action="store_true", help="Reuse existing llm_grouping.json in output-dir instead of calling LLM")
     ap.add_argument("--run-ocr", action="store_true", help="Run OCR for missing german pages using Gemini 2.5 Pro")
     args = ap.parse_args()
 
@@ -247,15 +257,19 @@ def main() -> None:
         with open(os.path.join(args.output_dir, "llm_grouping_input.txt"), "w", encoding="utf-8") as f:
             f.write(listing)
 
-    # Call LLM for grouping
-    print(f"Submitting {len(items)} pages to Gemini for grouping…")
-    raw = call_llm_grouping(client, PROMPT_TASK, listing)
-
-    # Persist JSON
     out_json_path = os.path.join(args.output_dir, "llm_grouping.json")
-    with open(out_json_path, "w", encoding="utf-8") as f:
-        f.write(raw)
-    print(f"Saved grouping JSON to: {out_json_path}")
+    if args.reuse_json and os.path.exists(out_json_path):
+        with open(out_json_path, "r", encoding="utf-8") as f:
+            raw = f.read()
+        print(f"Reusing existing grouping JSON: {out_json_path}")
+    else:
+        # Call LLM for grouping
+        print(f"Submitting {len(items)} pages to Gemini for grouping…")
+        raw = call_llm_grouping(client, PROMPT_TASK, listing)
+        # Persist JSON
+        with open(out_json_path, "w", encoding="utf-8") as f:
+            f.write(raw)
+        print(f"Saved grouping JSON to: {out_json_path}")
 
     # Parse and optionally assemble
     try:

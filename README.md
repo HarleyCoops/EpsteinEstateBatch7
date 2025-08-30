@@ -137,19 +137,19 @@ python llm_group_letters.py --german-dir german_output --output-dir letters --sa
 python translate_letters.py --letters-dir letters --latex
 ```
 
-**ImageTranslator.py** - Legacy 6-phase pipeline for OCR, translation, and document generation:
+**ImageTranslator.py** (moved to helperPython) - Legacy 6-phase pipeline for OCR, translation, and document generation:
 ```bash
-python ImageTranslator.py
-python ImageTranslator.py --output-base DorleLettersE
-python ImageTranslator.py --output-base DorleLettersF
-python ImageTranslator.py --output-base DorleLettersG
+python helperPython/ImageTranslator.py
+python helperPython/ImageTranslator.py --output-base DorleLettersE
+python helperPython/ImageTranslator.py --output-base DorleLettersF
+python helperPython/ImageTranslator.py --output-base DorleLettersG
 ```
 
 ### Additional Tools
 
 ```bash
 # Process PDF files (for bulk documents)
-python PDFTranslator.py
+python helperPython/PDFTranslator.py
 ```
 
 ## Key Features
@@ -197,7 +197,7 @@ the pictures from Säntis? I've been waiting half a year for them already...
 
 This repository also includes an OpenAI-based translation path under `codex/` that converts each OCR’d German text into an English Markdown file, one-to-one. It is designed for local agent workflows (Codex CLI), optional MCP-style service integration, and a modern OpenAI Responses API fallback so batches complete reliably.
 
-- Location: `codex/`
+- Location: `helperPython/codex/`
   - `translator.py` — orchestrates discovery and translation
   - `cli.py` — batch CLI entry point
   - `direct_openai.py` — modern OpenAI Python SDK v1.x client (Responses API; no legacy Completions)
