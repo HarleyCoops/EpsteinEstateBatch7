@@ -1,290 +1,85 @@
-# Dorle's Stories: AI-Powered Historical Letter Digitization
+# Dorle's Stories: A Digital Assistant for Historical Letters
 
-An academic-grade pipeline for reconstructing decades of family correspondence into bilingual, typeset documents. A strict mode is provided to avoid any narrative interpretation and to preserve exact provenance.
+## Part 1: What is This Project? (A Simple Introduction)
 
-## Vision & Context
+This project is a tool designed to read, understand, and organize old, handwritten family letters. Imagine you have a box full of old photos of handwritten letters from a relative named Dorle. They are written in German, the pages are all mixed up, and the handwriting is hard to read.
 
-DorleStories is a digital humanities effort that turns fragile handwritten pages into a searchable corpus spanning generations. Beyond simple OCR, the goal is to produce coherent stories that can be read either in their original German or in a faithful English translation. Each step preserves provenance so historians can trace every sentence back to the source image.
+The Dorle's Stories project acts like a helpful digital assistant. You give it the photos of the letters, and it carefully:
 
-## Processing Pipelines
+1.  **Reads the handwriting** and turns it into digital text.
+2.  **Sorts the mixed-up pages** into complete, individual letters.
+3.  **Translates** each letter from German into English.
+4.  **Produces clean, typed documents** for you to read, share, or print.
 
-Two entry points are available:
+The final result is a perfectly organized digital library of your family's history, preserving the original stories for future generations.
 
-- LLM grouping (recommended): `llm_group_letters.py` — Uses Gemini 2.5 Pro to group pages into letters by contextual continuity from the German OCR. Produces grouping JSON and optional per-letter de.txt with no added markers.
-- Strict heuristic (optional): `pipeline_strict.py` — OCR → heuristic grouping → LaTeX → optional translation. Deprecated for production grouping.
+## Part 2: How It Works (From Photo to Story)
 
-### Input → Output Flow
+The process works in a series of intelligent steps, much like a puzzle being put together.
 
-**INPUT:**
-- **Source:** `input/` folder
-- **Files:** All `.jpeg`, `.jpg`, or `.png` files
-- **Processing order:** Sorted numerically (extracts numbers from filename)
+**Step 1: Reading the Handwriting (OCR)**
+First, we show the computer's "eyes"—a technology called Optical Character Recognition (OCR)—each photo. The AI is trained to read historical German script, so it carefully transcribes the handwriting from the image into a plain text file. We do this for every single page.
 
-### Strict Pipeline Outputs
+**Step 2: Sorting the Pages into Letters (Semantic Grouping)**
+This is the most important step. After Step 1, we have a collection of digital text files, but they are still out of order.
 
-Per letter (under `letters/` by default):
-- `Lxxxx/meta.json`: Image list, timestamps, and paths.
-- `Lxxxx/de.txt`: Concatenated German text with page markers.
-- `Lxxxx/de.tex`: Deterministic LaTeX (German).
-- `Lxxxx/en.txt`: English translation (if `--translate`).
-- `Lxxxx/en.tex`: Deterministic LaTeX (English, if `--translate --latex`).
+To solve this, we give all of the transcribed text to a powerful AI (Google's Gemini model). The AI reads through the content of all the pages at once. By understanding the topics, names, and events mentioned, it intelligently figures out which pages belong together to form a complete letter. It looks for the start of a story, how it continues, and where it ends. This is called "semantic grouping" because it groups the pages based on the *meaning* of the words, not just unreliable file dates.
 
-Grouping uses only EXIF/file timestamps and adjacent-page lexical similarity — no envelope or narrative inference.
+**Step 3: Translation and Final Document Creation**
+Once the pages are correctly grouped into letters, the AI assistant takes each complete German letter and translates it into English. Finally, it saves both the German and English versions as clean text files. It can also create professional-looking documents (using a system called LaTeX) that are ready to be turned into PDFs.
 
-### Legacy Pipeline Outputs (deprecated)
+## Part 3: Why It Works This Way (The "Special Sauce")
 
-1. **Phase 1 - OCR:** Each image → individual German text file
-   - `input/image.jpeg` → `german_output/image_german.txt`
-   - Temperature: 0.4 (optimized for accuracy)
+You might wonder why we use a complex AI to sort the pages instead of just looking at the date on the photos.
 
-2. **Phase 2 - Translation:** ALL German texts combined → single English file
-   - All `german_output/*_german.txt` → `english_output/combined_english_translation.txt`
-   - Also saves: `combined_german_letter.txt` (root folder)
-   - Temperature: 0.8 (balanced for fluency)
+The reason is that **metadata like file dates is often wrong**. Photos can be scanned out of order, or the camera might have had the wrong date set. If we relied on that information, we could easily mix up the pages and break a single letter into confusing, incomplete pieces.
 
-3. Narrative/analysis phases are deprecated in strict mode and disabled by default.
-   - Temperature: 0.75 (nuanced interpretation)
+This project's method is more reliable because it **reads the story, just like a human would**. By understanding the context, it can tell that the page talking about a "trip to the mountains" should come after the page that "plans the trip," regardless of the photo's timestamp.
 
-4. **Phase 4 - English LaTeX:** Combined English → LaTeX document with source traceability
-   - `english_output/combined_english_translation.txt` → `combined_english_letter.tex` (root folder)
-   - Temperature: 0.2 (precise formatting)
+This focus on the content ensures that the final, reconstructed letters are accurate and that the original narrative is preserved exactly as it was written.
 
-5. **Phase 5 - German LaTeX:** Combined German → LaTeX document with source traceability
-   - `combined_german_letter.txt` → `combined_german_letter.tex` (root folder)
-   - Temperature: 0.2 (precise formatting)
+## Part 4: Technical Overview
 
-6. **Phase 6 - Markdown:** Combined English → clean Markdown for Google Docs
-   - `english_output/combined_english_translation.txt` → `combined_english_for_google_docs.md` (root folder)
-   - Temperature: 0.1 (minimal alteration)
+This section provides the necessary technical details to run the pipeline.
 
-## Project Structure
+### Prerequisites
 
+-   Python 3.10 or newer.
+-   All required Python packages, which can be installed by running: `pip install -r requirements.txt`.
+-   A Google Gemini API key. This key must be made available to the scripts as an environment variable named `GEMINI_API_KEY`.
+
+**Setting the API Key in PowerShell:**
+```powershell
+# This command sets the key for your current terminal session
+$env:GEMINI_API_KEY="your-api-key-here"
 ```
-DorleStories/
-├── input/                  # Source images (JPEG handwritten letters)
-├── german_output/          # OCR results (German text files)
-├── english_output/         # Translation results
-├── analysis_output/        # Cultural analysis outputs
-├── characters/            # Character intelligence profiles (future)
-├── ImageTranslator.py     # Main 6-phase pipeline (OCR → Translation → Analysis → LaTeX)
-├── culturalshifts.py      # Cultural analysis focusing on post-war German shifts
-├── PDFTranslator.py       # PDF processing variant
-├── agent_monitor.py       # Character intelligence extraction
-├── config.yaml           # Configuration (currently unused by main pipeline)
-├── requirements.txt      # Dependencies
-└── CLAUDE.md            # Project instructions for Claude AI
-```
+Alternatively, you can create a file named `.env` in the project's root directory and place your key inside it like this: `GEMINI_API_KEY=your-api-key-here`.
 
-## Requirements
+### How to Run the Pipeline
 
-- Python 3.8+
-- Google Gemini API key (set as `GEMINI_API_KEY` environment variable)
-- Dependencies: `google-genai`, `python-dotenv`, `Pillow`
+The easiest way to process a collection of letters is to use the main wrapper script. This single command runs all the necessary steps in the correct order.
 
-## Installation
-
+**Example Command:**
+To process all the letters in the `DorleLettersF` folder, open your terminal and run:
 ```bash
-# Install dependencies
-pip install google-genai python-dotenv Pillow
-
-# Set up environment variable
-export GEMINI_API_KEY="your-api-key-here"
-# Or create a .env file with: GEMINI_API_KEY=your-api-key-here
+python run_letters_pipeline.py --base DorleLettersF
 ```
 
-## Usage
+This command will automatically find the images, run the OCR, group the pages into letters, and translate them into English.
 
-### Recommended Workflow (LLM Grouping + Translation)
+**Useful Options:**
+-   `--no-latex`: Use this if you only want the plain text (`.txt`) English translation and do not need the formatted LaTeX (`.tex`) files.
+-   `--force-translate`: Use this to re-run the translation step, even on letters that have already been translated.
 
-- Requirements: Python 3.10+, `pip install -r requirements.txt`, and environment variable `GEMINI_API_KEY`.
-- Scope: Works on any image collection directory. Example uses `DorleLettersE/DorleLettersE`.
+### Understanding the Output Files
 
-1) OCR (German) per page
-- If you already have `german_output/<base>_german.txt` files, skip this step.
-- With Gemini OCR in one pass during grouping:
-  - PowerShell: `$env:GEMINI_API_KEY="YOUR_KEY"`
-  - `python llm_group_letters.py --images-dir DorleLettersE/DorleLettersE --german-dir DorleLettersE/german_output --output-dir DorleLettersE/letters --run-ocr --save-input`
+After the process runs, you will find the results in a `letters` sub-folder (e.g., `DorleLettersF/letters/`). Here is what the key files mean:
 
-2) Group pages into letters via LLM (context-only)
-- If OCR is done, assemble pure German letters with no added markers:
-  - `python llm_group_letters.py --german-dir DorleLettersE/german_output --output-dir DorleLettersE/letters --save-input --assemble`
-- Outputs:
-  - `DorleLettersE/letters/llm_grouping_input.txt` — the exact input listing sent to the LLM.
-  - `DorleLettersE/letters/llm_grouping.json` — strict JSON with letter groups, page order, confidence, reason.
-  - `DorleLettersE/letters/L0001/de.txt`, `L0002/de.txt`, … — pure German letters (no inserted markers/headers).
+-   `llm_grouping.json`: This is an important manifest file. It contains the AI's decisions about how the pages were grouped. For each letter, it lists the exact source image files that belong to it, which provides a clear record of the process.
+-   `L0001/de.txt`: The full, combined German text for the first letter.
+-   `L0001/en.txt`: The English translation of the first letter.
+-   `L0001/en.tex`: The formatted LaTeX version of the English translation, ready for creating a PDF.
 
-3) Translate grouped letters to English
-- Letter-by-letter, plain text only; optional LaTeX rendering:
-  - `python translate_letters.py --letters-dir DorleLettersE/letters --latex`
-- Outputs per letter:
-  - `en.txt` — English translation
-  - `en.tex` — deterministic LaTeX (no LLM formatting)
+### Appendix: Legacy and Advanced Information
 
-4) Optional: build PDFs from LaTeX
-- Run your LaTeX toolchain in each `Lxxxx/` folder (e.g., `pdflatex en.tex`).
-
-### Core Processing Scripts
-
-**llm_group_letters.py** - Group pages into letters via LLM (no added text):
-```bash
-# 1) Ensure OCR exists (run ImageTranslator.py or your OCR step first)
-# 2) Group via LLM and assemble letters (German only, no markers)
-python llm_group_letters.py --german-dir german_output --output-dir letters --save-input --assemble
-```
-
-**translate_letters.py** - Translate LLM-grouped German letters to English (plain text + optional LaTeX):
-```bash
-python translate_letters.py --letters-dir letters --latex
-```
-
-**ImageTranslator.py** (moved to helperPython) - Legacy 6-phase pipeline for OCR, translation, and document generation:
-```bash
-python helperPython/ImageTranslator.py
-python helperPython/ImageTranslator.py --output-base DorleLettersE
-python helperPython/ImageTranslator.py --output-base DorleLettersF
-python helperPython/ImageTranslator.py --output-base DorleLettersG
-```
-
-### Additional Tools
-
-```bash
-# Process PDF files (for bulk documents)
-python helperPython/PDFTranslator.py
-```
-
-## Key Features
-
-- **Resumable Processing**: Already processed files are automatically skipped
-- **Ordered Processing**: Strict mode groups pages by capture time and lexical similarity
-- **Source Traceability**: LaTeX documents include source filename for each segment
-- **Streaming API**: Handles large responses efficiently
-- **Error Handling**: Includes retry logic and detailed error reporting
-- **Modular Design**: Each phase can be run independently
-
-## Sample Output
-
-Original letter images: [Google Drive Folder](https://drive.google.com/drive/folders/1cENU2bUHmNftyPIvsNaEoNaGSY0HfxZS?usp=sharing)
-
-Example translation (from handwritten German):
-```
-Hofheim, November 22nd
-
-Dear Mech!
-
-Many thanks for your letter. When are you finally going to send me
-the pictures from Säntis? I've been waiting half a year for them already...
-```
-
-## Configuration Notes
-
-- Model: Gemini 2.5 Pro (specified as "gemini-2.5-pro" in code)
-- The `config.yaml` file exists but is not currently used by the main pipeline
-- All settings are hardcoded in `ImageTranslator.py` for simplicity
-
-## Development Status
-
-✅ Phase 1-6: Fully functional pipeline with German/English LaTeX generation
-⚠️ Character intelligence agent: In development
-📝 Config integration: Planned enhancement
-
-## Research Roadmap
-
-- **Letter aggregation**: detect and merge multi-page letters to preserve narrative flow across decades.
-- **Bilingual typesetting**: parallel German/English LaTeX with cross-references and page provenance.
-- **Narrative corpus building**: compile outputs into a chronological archive that enables long-term cultural or familial analysis.
-
-## Codex CLI and MCP Translation Workflow (OpenAI)
-
-This repository also includes an OpenAI-based translation path under `codex/` that converts each OCR’d German text into an English Markdown file, one-to-one. It is designed for local agent workflows (Codex CLI), optional MCP-style service integration, and a modern OpenAI Responses API fallback so batches complete reliably.
-
-- Location: `helperPython/codex/`
-  - `translator.py` — orchestrates discovery and translation
-  - `cli.py` — batch CLI entry point
-  - `direct_openai.py` — modern OpenAI Python SDK v1.x client (Responses API; no legacy Completions)
-  - `outputs/` — English Markdown (one file per input image base)
-  - `translations.log` — audit log (timestamps, successes/skips)
-
-### What the Codex CLI is
-OpenAI Codex CLI is a local coding agent that can read/write files and propose or run commands with approval controls.
-- Install: `npm install -g @openai/codex`
-- Start: `codex` (Suggest mode by default)
-- Approval modes:
-  - Suggest: proposes edits/commands; you approve before execution
-  - Auto Edit: edits files automatically; still asks before shell commands
-  - Full Auto: reads/writes and executes commands autonomously in a sandbox
-- Models: defaults to a fast reasoning model; you can select any Responses API model (e.g., `-m gpt-5`)
-- Windows: experimental; WSL recommended
-
-Refer to “OpenAI Codex CLI – Getting Started” and https://github.com/openai/codex for details.
-
-### How MCP fits here
-We support an optional, minimal HTTP contract that aligns with MCP-style tool exposure. The translator can send German text to a service that calls an LLM and returns Markdown.
-
-- Expected endpoint: `POST {mcp-endpoint}/translate`
-- Request JSON:
-  ```json
-  {
-    "source_text": "<german text>",
-    "format": "markdown",
-    "mode": "german_to_english"
-  }
-  ```
-- Response JSON:
-  ```json
-  { "translation": "<english markdown>" }
-  ```
-
-You can implement this behind a proper MCP server or a simple web service that calls the OpenAI Responses API. The translator prefers MCP when you pass `--use-mcp`.
-
-### End-to-end file flow (Codex workflow)
-1) Discover pairs
-   - For each `input/<base>.(jpeg|jpg|png)`, locate `german_output/<base>_german.txt`.
-2) Translate (preference order)
-   - If `--use-mcp` provided: POST to `{mcp-endpoint}/translate` (your service calls the LLM and returns Markdown).
-   - Else attempt Codex CLI (if installed) for a local agent call.
-   - Fallback (default-enabled): call OpenAI Responses API directly via the modern Python SDK v1.x (`client.responses.create(...)`) with translation instructions and the German text as input.
-3) Write outputs
-   - Save to `codex/outputs/<base>.md`.
-4) Log
-   - Append to `codex/translations.log` with timestamps and success/skip counts.
-
-### Where the LLM is actually called
-- MCP path: inside your MCP-compatible service (or thin HTTP service) that receives the German text and calls the OpenAI model (e.g., `gpt-5` or `gpt-4.1`) via the Responses API, then returns Markdown.
-- Codex CLI path: the `codex` agent runs locally; for batch translation we call it non-interactively if present.
-- Fallback path (built-in): within `direct_openai.py`, using `OpenAI().responses.create(model=..., input=..., instructions=...)` (SDK v1.x). This avoids all legacy Completion/ChatCompletion calls.
-
-### How to expose the MCP to other users
-1) Implement a small web service (e.g., FastAPI) that exposes `/translate` and calls OpenAI’s Responses API under your organization’s policies.
-2) Package & deploy (containerize, secure with TLS and auth).
-3) Share the endpoint (e.g., `https://your-mcp.example.com`). Other users run:
-   ```bash
-   python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --use-mcp --mcp-endpoint https://your-mcp.example.com
-   ```
-4) Optional advanced path: register a true remote MCP tool and integrate with agent frameworks that understand MCP, enabling richer multi-tool workflows.
-
-### Running the Codex workflow locally
-Environment:
-- Set `OPENAI_API_KEY` (e.g., via `.env` in repo root)
-- Optional: `CODEX_OPENAI_MODEL` (e.g., `gpt-5`, defaults to `gpt-4.1`)
-- Optional: `--use-mcp --mcp-endpoint http://localhost:8000` if you host a service
-
-Examples:
-```bash
-# Dry run (no writes)
-python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --dry-run
-
-# Prefer MCP (if you have a service running)
-python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --use-mcp --mcp-endpoint http://localhost:8000
-
-# Rely on built-in OpenAI Responses API fallback (no MCP, no Codex CLI)
-python -m codex.cli --input-dir input --german-dir german_output --output-dir codex/outputs --verbose
-```
-
-Troubleshooting:
-- “Failed to run Codex CLI wrapper: [WinError 2]”: Codex CLI is not installed or not on PATH; fallback will still translate via Responses API.
-- “OPENAI_API_KEY not configured”: set it in your environment or `.env`.
-- Windows: prefer WSL for Codex CLI agent usage.
-
-## Deprecated/Disabled Components
-- Narrative analysis (`narrative_analysis_of_letters.txt`) is deprecated for strict mode.
-- Character/agent workflows are disabled by default. See `config.yaml` if needed.
+For advanced users or for historical context, this repository also contains older scripts (`helperPython/ImageTranslator.py`) and alternative workflows (`helperPython/codex/`). These are not part of the main, recommended pipeline and can be disregarded for standard use. Advanced users can also run the individual pipeline scripts (`llm_group_letters.py`, `translate_letters.py`) manually if they need more granular control over each step.
