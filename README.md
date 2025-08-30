@@ -80,6 +80,25 @@ After the process runs, you will find the results in a `letters` sub-folder (e.g
 -   `L0001/en.txt`: The English translation of the first letter.
 -   `L0001/en.tex`: The formatted LaTeX version of the English translation, ready for creating a PDF.
 
+### Build PDFs from LaTeX
+
+You can compile every `en.tex` into a PDF named like the letter folder (e.g., `DorleLettersE L0001.pdf`) using the helper script `build_pdfs.py`.
+
+Prerequisites
+- Install a LaTeX engine. Options:
+  - Tectonic (recommended): `winget install Tectonic.Tectonic` or `choco install tectonic`
+  - MiKTeX (pdflatex/xelatex) also works if already on PATH.
+
+Usage
+- All sets A–M with cleanup: `python build_pdfs.py --glob "DorleLetters[A-M]" --engine pdflatex --cleanup`
+- Better Unicode support: `python build_pdfs.py --glob "DorleLetters[A-M]" --engine xelatex --cleanup`
+- Auto-detect engine: `python build_pdfs.py --glob "DorleLetters[A-M]"`
+- Dry run: `python build_pdfs.py --glob "DorleLetters[A-M]" --dry-run`
+
+Details
+- The script scans `DorleLetters*/letters/*/en.tex`, compiles in each folder, then renames `en.pdf` to `<folder>.pdf` beside the `.tex`.
+- If you encounter a LaTeX Unicode error (e.g., block-drawing characters) with `pdflatex`, use `--engine xelatex`.
+
 ### Appendix: Legacy and Advanced Information
 
 For advanced users or for historical context, this repository also contains older scripts (`helperPython/ImageTranslator.py`) and alternative workflows (`helperPython/codex/`). These are not part of the main, recommended pipeline and can be disregarded for standard use. Advanced users can also run the individual pipeline scripts (`llm_group_letters.py`, `translate_letters.py`) manually if they need more granular control over each step.
