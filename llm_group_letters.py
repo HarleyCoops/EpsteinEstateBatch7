@@ -157,9 +157,14 @@ def assemble_letters(groups: dict, items_by_filename: Dict[str, Dict[str, str]],
     for k, v in items_by_filename.items():
         pref = k.split("_", 1)[0]
         items_by_prefix[pref] = v
+    # Determine collection name (parent of output_dir), e.g., DorleLettersE
+    parent = os.path.basename(os.path.normpath(os.path.dirname(output_dir)))
+    collection_prefix = parent if parent and parent.lower() != "" and parent.lower() != "." else ""
+
     for i, letter in enumerate(letters, 1):
         lid = letter.get("id") or f"L{i:04d}"
-        ldir = os.path.join(output_dir, lid)
+        folder_name = f"{collection_prefix} {lid}".strip() if collection_prefix else lid
+        ldir = os.path.join(output_dir, folder_name)
         os.makedirs(ldir, exist_ok=True)
         # Save JSON snippet per letter for provenance
         with open(os.path.join(ldir, "meta.json"), "w", encoding="utf-8") as f:

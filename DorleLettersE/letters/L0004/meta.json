@@ -1,14 +1,10 @@
 {
   "id": "L0004",
   "pages": [
-    "C362477B-1DBB-47B4-AED8-F4A5FD0189BB_1_105_c",
-    "14ED5AD3-F4EF-4090-BFDB-0A454E494C60_1_105_c",
-    "8068D011-0E32-4577-87CF-8B85D5A8595F_1_105_c",
-    "0CF69970-07F4-4F17-B009-DFEAD2DC3E29_1_105_c",
-    "9C378423-7A50-4EC1-B993-7B50CC6975B9_1_105_c",
-    "2202DE8A-E2B2-4E4D-B6B0-415638B24E31_1_105_c",
-    "802B2E3C-BB43-47D0-8348-225DF619EC52_1_105_c"
+    "C362477B-1DBB-47B4-AED8-F4A5FD0189BB",
+    "73543016-6D46-4258-AA8D-1BC579353AD0",
+    "A2527E89-0520-4702-8DC2-C3F254E80448"
   ],
-  "confidence": 0.9,
-  "reason": "This letter, starting with a date of Dec 17, 1955, is almost entirely focused on the performance of a Christmas play ('Krippenspiel'). It discusses the performance, rehearsals, specific scenes (Herodes, Wirtsscene), characters, costumes, and the positive reception. The final page, signed 'Dork', mentions future performances, solidifying the connection between the pages."
+  "confidence": 1.0,
+  "reason": "A letter starting with 'Monti, 17.12.55' and 'Liebe Tante!'. It discusses Christmas plans and a Christmas play ('Krippenspiel'). The second page continues this topic and gives detailed instructions for a coffee maker, which are concluded on the third page, followed by Christmas greetings."
 }

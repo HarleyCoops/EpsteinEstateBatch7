@@ -1,8 +1,9 @@
 {
   "id": "L0009",
   "pages": [
-    "888E3F1D-5DBF-4E46-B0F1-28A8CCAFFED1_1_105_c"
+    "F2FEC3D0-858C-4E82-AD20-BEC1FB81011D",
+    "2C59B68D-F839-4D92-BD04-8CF060A9D2B4"
   ],
-  "confidence": 1,
-  "reason": "This is a complete postcard dated July 31, 1955, from Vancouver, signed by 'Grete'. It is a self-contained greeting."
+  "confidence": 0.9,
+  "reason": "The first page discusses Inge and Klaus, their wedding, and a club meeting. The second page continues with news about Inge and Klaus, mentions Christmas wishes (Anorak), and ends with a Christmas and New Year's greeting, forming a coherent letter."
 }

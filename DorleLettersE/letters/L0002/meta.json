@@ -1,12 +1,10 @@
 {
   "id": "L0002",
   "pages": [
-    "827C8FD5-EC38-4557-93F0-742016ACEF38_1_105_c",
-    "EA93F742-3BBE-4588-8D0F-D2B687E803C9_1_105_c",
-    "EED86E5E-FB5B-406B-BD3B-6BF870AB0BC3_1_105_c",
-    "F2FEC3D0-858C-4E82-AD20-BEC1FB81011D_1_105_c",
-    "2C59B68D-F839-4D92-BD04-8CF060A9D2B4_1_105_c"
+    "827C8FD5-EC38-4557-93F0-742016ACEF38",
+    "EA93F742-3BBE-4588-8D0F-D2B687E803C9",
+    "EED86E5E-FB5B-406B-BD3B-6BF870AB0BC3"
   ],
-  "confidence": 1,
-  "reason": "This letter, signed by 'Dork', chronicles events from September to October 1955. It begins with a request for the 'gotteskind' play script (Sept 19), details receiving it and casting roles (Oct 10), discusses rehearsals and other activities, and concludes with an update on personal life and Christmas wishes. The pages are linked by the consistent topic of organizing the play and the chronological flow of events."
+  "confidence": 1.0,
+  "reason": "This letter, signed by 'Dork', discusses organizing a Christmas play ('gotteskind'). The first page ('Sept. 19, 55') requests the script. The second page ('10.10.55') confirms its arrival and lists the cast. The third page continues the topic of rehearsals and evening school, and mentions a potential job with 'Onkel Max'."
 }

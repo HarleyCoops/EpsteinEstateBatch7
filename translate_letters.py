@@ -39,10 +39,13 @@ PROMPT_TRANSLATE = (
 def list_letter_dirs(letters_dir: str) -> List[str]:
     if not os.path.isdir(letters_dir):
         return []
-    dirs = []
+    dirs: List[str] = []
     for name in os.listdir(letters_dir):
         path = os.path.join(letters_dir, name)
-        if os.path.isdir(path) and name.upper().startswith("L"):
+        if not os.path.isdir(path):
+            continue
+        # Accept both legacy "L0001" and new "<Collection> L0001" directories
+        if os.path.isfile(os.path.join(path, "de.txt")):
             dirs.append(path)
     dirs.sort()
     return dirs
@@ -158,4 +161,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-

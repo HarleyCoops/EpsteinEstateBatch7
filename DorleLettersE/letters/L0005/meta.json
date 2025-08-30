@@ -1,9 +1,11 @@
 {
   "id": "L0005",
   "pages": [
-    "73543016-6D46-4258-AA8D-1BC579353AD0_1_105_c",
-    "A2527E89-0520-4702-8DC2-C3F254E80448_1_105_c"
+    "986F5036-072A-4697-A89A-6AB607A2AE66",
+    "CCB5AF43-EE21-4DE8-B4D3-A23945667023",
+    "78DA7650-517E-4149-9A40-A76063732C52",
+    "FE3885B3-6200-428A-AFFE-54BCC38E87C3"
   ],
-  "confidence": 1,
-  "reason": "These two pages form a complete letter. The first page discusses a coffee maker gift and provides detailed instructions on how to use it. The second page continues these instructions and concludes with Christmas and New Year wishes, signed 'Drk'. The content is highly specific and flows directly from one page to the next."
+  "confidence": 0.9,
+  "reason": "This letter begins with 'Toronto, 26.12.55' and 'Liebe Mutti!', thanking her for Christmas gifts, including an anorak. The second page describes Christmas Eve celebrations. The third and fourth pages discuss school systems in Canada and again mention writing to 'Onkel Max', connecting the themes. The final page ends with a closing."
 }

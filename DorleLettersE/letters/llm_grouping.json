@@ -3,102 +3,111 @@
     {
       "id": "L0001",
       "pages": [
-        "7F6DD828-69E2-401C-B7C7-76ECEDDD901F_1_105_c",
-        "20FAB697-E70B-43B3-8CE3-F393651858E4_1_105_c",
-        "C18F0088-7034-4C79-B371-DC5F90238988_1_105_c",
-        "0B8C252D-B36E-4501-907F-5B51FF04A75F_1_105_c"
+        "7F6DD828-69E2-401C-B7C7-76ECEDDD901F",
+        "20FAB697-E70B-43B3-8CE3-F393651858E4",
+        "C18F0088-7034-4C79-B371-DC5F90238988",
+        "0B8C252D-B36E-4501-907F-5B51FF04A75F"
       ],
-      "confidence": 1,
-      "reason": "This letter, dated July 12, 1955, from Mont Laurier, describes a road trip. The pages follow a clear geographical and narrative progression: starting the trip from Montreal to Quebec, driving through the mountains, visiting Laurentide Park, and then the Laurentians and Santa Claus Village. The content flows seamlessly from one page to the next."
+      "confidence": 1.0,
+      "reason": "This is a continuous travelogue from a trip in Canada, starting with the date 'Juli 12, 55' and salutation 'Liebe Luti!'. The pages describe a journey from Montreal to Quebec, through the Laurentians, mentioning specific places like St. Simeon, Laurentide Park, and Santa Claus Village, creating a clear narrative sequence."
     },
     {
       "id": "L0002",
       "pages": [
-        "827C8FD5-EC38-4557-93F0-742016ACEF38_1_105_c",
-        "EA93F742-3BBE-4588-8D0F-D2B687E803C9_1_105_c",
-        "EED86E5E-FB5B-406B-BD3B-6BF870AB0BC3_1_105_c",
-        "F2FEC3D0-858C-4E82-AD20-BEC1FB81011D_1_105_c",
-        "2C59B68D-F839-4D92-BD04-8CF060A9D2B4_1_105_c"
+        "827C8FD5-EC38-4557-93F0-742016ACEF38",
+        "EA93F742-3BBE-4588-8D0F-D2B687E803C9",
+        "EED86E5E-FB5B-406B-BD3B-6BF870AB0BC3"
       ],
-      "confidence": 1,
-      "reason": "This letter, signed by 'Dork', chronicles events from September to October 1955. It begins with a request for the 'gotteskind' play script (Sept 19), details receiving it and casting roles (Oct 10), discusses rehearsals and other activities, and concludes with an update on personal life and Christmas wishes. The pages are linked by the consistent topic of organizing the play and the chronological flow of events."
+      "confidence": 1.0,
+      "reason": "This letter, signed by 'Dork', discusses organizing a Christmas play ('gotteskind'). The first page ('Sept. 19, 55') requests the script. The second page ('10.10.55') confirms its arrival and lists the cast. The third page continues the topic of rehearsals and evening school, and mentions a potential job with 'Onkel Max'."
     },
     {
       "id": "L0003",
       "pages": [
-        "2D7B2CAE-846A-446A-8965-AD6BB7610F7B_1_105_c",
-        "0FCFEB7A-1BF4-44DF-BDF4-CA4C296F0DE8_1_105_c",
-        "14126989-478F-4FA7-A253-9DCE700BD615_1_105_c",
-        "637BEC8E-B339-40D4-B5A5-EDFF30FCB1D5_1_105_c",
-        "A8FE6959-3E4E-490B-974C-70AE6A11EE7E_1_105_c"
+        "2D7B2CAE-846A-446A-8965-AD6BB7610F7B",
+        "0FCFEB7A-1BF4-44DF-BDF4-CA4C296F0DE8",
+        "14126989-478F-4FA7-A253-9DCE700BD615",
+        "A8FE6959-3E4E-490B-974C-70AE6A11EE7E"
       ],
-      "confidence": 0.9,
-      "reason": "This letter starts with a date of Nov 19, 1955, from Toronto. The pages discuss evening school, a 'National Health Week' performance, Canadian healthcare (dentists), nutrition, winter weather, and high dental costs for newcomers. The final page is signed 'Dorle'. The topics are consistent with a single, multi-faceted letter describing life in Canada."
+      "confidence": 0.95,
+      "reason": "This letter starts with 'Toronto, den 19.11.55' and 'Liebe Mutti'. It discusses evening school, a performance for 'National Health Week', which connects to the next pages about health, vitamins, and dental care in Canada. The final page concludes the health topic and is signed 'Dorle'."
     },
     {
       "id": "L0004",
       "pages": [
-        "C362477B-1DBB-47B4-AED8-F4A5FD0189BB_1_105_c",
-        "14ED5AD3-F4EF-4090-BFDB-0A454E494C60_1_105_c",
-        "8068D011-0E32-4577-87CF-8B85D5A8595F_1_105_c",
-        "0CF69970-07F4-4F17-B009-DFEAD2DC3E29_1_105_c",
-        "9C378423-7A50-4EC1-B993-7B50CC6975B9_1_105_c",
-        "2202DE8A-E2B2-4E4D-B6B0-415638B24E31_1_105_c",
-        "802B2E3C-BB43-47D0-8348-225DF619EC52_1_105_c"
+        "C362477B-1DBB-47B4-AED8-F4A5FD0189BB",
+        "73543016-6D46-4258-AA8D-1BC579353AD0",
+        "A2527E89-0520-4702-8DC2-C3F254E80448"
       ],
-      "confidence": 0.9,
-      "reason": "This letter, starting with a date of Dec 17, 1955, is almost entirely focused on the performance of a Christmas play ('Krippenspiel'). It discusses the performance, rehearsals, specific scenes (Herodes, Wirtsscene), characters, costumes, and the positive reception. The final page, signed 'Dork', mentions future performances, solidifying the connection between the pages."
+      "confidence": 1.0,
+      "reason": "A letter starting with 'Monti, 17.12.55' and 'Liebe Tante!'. It discusses Christmas plans and a Christmas play ('Krippenspiel'). The second page continues this topic and gives detailed instructions for a coffee maker, which are concluded on the third page, followed by Christmas greetings."
     },
     {
       "id": "L0005",
       "pages": [
-        "73543016-6D46-4258-AA8D-1BC579353AD0_1_105_c",
-        "A2527E89-0520-4702-8DC2-C3F254E80448_1_105_c"
+        "986F5036-072A-4697-A89A-6AB607A2AE66",
+        "CCB5AF43-EE21-4DE8-B4D3-A23945667023",
+        "78DA7650-517E-4149-9A40-A76063732C52",
+        "FE3885B3-6200-428A-AFFE-54BCC38E87C3"
       ],
-      "confidence": 1,
-      "reason": "These two pages form a complete letter. The first page discusses a coffee maker gift and provides detailed instructions on how to use it. The second page continues these instructions and concludes with Christmas and New Year wishes, signed 'Drk'. The content is highly specific and flows directly from one page to the next."
+      "confidence": 0.9,
+      "reason": "This letter begins with 'Toronto, 26.12.55' and 'Liebe Mutti!', thanking her for Christmas gifts, including an anorak. The second page describes Christmas Eve celebrations. The third and fourth pages discuss school systems in Canada and again mention writing to 'Onkel Max', connecting the themes. The final page ends with a closing."
     },
     {
       "id": "L0006",
       "pages": [
-        "986F5036-072A-4697-A89A-6AB607A2AE66_1_105_c",
-        "CCB5AF43-EE21-4DE8-B4D3-A23945667023_1_105_c",
-        "78DA7650-517E-4149-9A40-A76063732C52_1_105_c",
-        "FE3885B3-6200-428A-AFFE-54BCC38E87C3_1_105_c"
+        "AF30FE3E-86DB-4D4E-B9A9-BD84926C0F6F"
       ],
-      "confidence": 0.95,
-      "reason": "This letter begins with a date of Dec 26, 1955. It thanks the recipient for a Christmas package (Anorak), describes Christmas Eve celebrations, and discusses plans for New Year's and the resumption of evening school on Jan 4. The final page continues the school topic and ends with a closing and signature. The chronological flow and consistent themes of post-Christmas life tie these pages together."
+      "confidence": 1.0,
+      "reason": "A complete, single-page letter dated 'Toronto, den 3. 1. 1956' addressed to 'Lieber Onkel Max' and signed by 'Dein Dorle'. The content is a self-contained job application."
     },
     {
       "id": "L0007",
       "pages": [
-        "AF30FE3E-86DB-4D4E-B9A9-BD84926C0F6F_1_105_c"
+        "6A6307A9-091E-4886-8D62-656C40CF256F"
       ],
-      "confidence": 1,
-      "reason": "This is a complete, single-page letter dated Jan 3, 1956, from 'Dorle' to 'Onkel Max'. It is a formal job application for a secretarial position, making it a self-contained document."
+      "confidence": 1.0,
+      "reason": "A complete, single-page letter dated 'Donnerstag 22. Sept. 66.' addressed to 'Liebe Mutter' and signed by 'Dein Sohn Walter'. The content is self-contained."
     },
     {
       "id": "L0008",
       "pages": [
-        "6A6307A9-091E-4886-8D62-656C40CF256F_1_105_c"
+        "888E3F1D-5DBF-4E46-B0F1-28A8CCAFFED1"
       ],
-      "confidence": 1,
-      "reason": "This is a complete, single-page letter dated May 22, 1966, addressed to 'Liebe Mutter'. It discusses job prospects for secretaries and compares salaries. It is a self-contained document."
+      "confidence": 1.0,
+      "reason": "A complete, single-page letter (postcard style) dated 'Vancouver, 31. Juli, 55' addressed to 'Liebe Gretl und Mucki!' and signed by 'Eure Gretl'."
     },
     {
       "id": "L0009",
       "pages": [
-        "888E3F1D-5DBF-4E46-B0F1-28A8CCAFFED1_1_105_c"
+        "F2FEC3D0-858C-4E82-AD20-BEC1FB81011D",
+        "2C59B68D-F839-4D92-BD04-8CF060A9D2B4"
       ],
-      "confidence": 1,
-      "reason": "This is a complete postcard dated July 31, 1955, from Vancouver, signed by 'Grete'. It is a self-contained greeting."
+      "confidence": 0.9,
+      "reason": "The first page discusses Inge and Klaus, their wedding, and a club meeting. The second page continues with news about Inge and Klaus, mentions Christmas wishes (Anorak), and ends with a Christmas and New Year's greeting, forming a coherent letter."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "637BEC8E-B339-40D4-B5A5-EDFF30FCB1D5",
+        "14126989-478F-4FA7-A253-9DCE700BD615",
+        "A8FE6959-3E4E-490B-974C-70AE6A11EE7E"
+      ],
+      "confidence": 0.7,
+      "reason": "This group seems to be a single letter, but the pages were also assigned to other letters with higher confidence. The theme of health, diet (vitamins), and dental care connects these pages. The first page mentions bad teeth in Canada, the second discusses the local diet, and the third continues on vitamins and is signed 'Dorle'. It's possible these are fragments from one letter, but the other groupings are stronger."
     }
   ],
   "unassigned_pages": [
-    "D138AC8E-5BD5-42FD-924A-30627CC75A88_1_105_c",
-    "8DF74E2B-A1C5-4465-81A4-07112F27C684_1_105_c",
-    "FF4B809C-7C0C-48C2-858F-61E8957C319F_1_105_c",
-    "D3B4CE53-5E9E-4ED1-B75D-54B317CECCB9_1_105_c",
-    "D05BFCB8-1383-4C2C-AA52-05B492BC6549_1_105_c"
+    "0CF69970-07F4-4F17-B009-DFEAD2DC3E29",
+    "14ED5AD3-F4EF-4090-BFDB-0A454E494C60",
+    "2202DE8A-E2B2-4E4D-B6B0-415638B24E31",
+    "802B2E3C-BB43-47D0-8348-225DF619EC52",
+    "8068D011-0E32-4577-87CF-8B85D5A8595F",
+    "8DF74E2B-A1C5-4465-81A4-07112F27C684",
+    "9C378423-7A50-4EC1-B993-7B50CC6975B9",
+    "D05BFCB8-1383-4C2C-AA52-05B492BC6549",
+    "D138AC8E-5BD5-42FD-924A-30627CC75A88",
+    "D3B4CE53-5E9E-4ED1-B75D-54B317CECCB9",
+    "FF4B809C-7C0C-48C2-858F-61E8957C319F"
   ]
 }

@@ -1,11 +1,11 @@
 {
   "id": "L0001",
   "pages": [
-    "7F6DD828-69E2-401C-B7C7-76ECEDDD901F_1_105_c",
-    "20FAB697-E70B-43B3-8CE3-F393651858E4_1_105_c",
-    "C18F0088-7034-4C79-B371-DC5F90238988_1_105_c",
-    "0B8C252D-B36E-4501-907F-5B51FF04A75F_1_105_c"
+    "7F6DD828-69E2-401C-B7C7-76ECEDDD901F",
+    "20FAB697-E70B-43B3-8CE3-F393651858E4",
+    "C18F0088-7034-4C79-B371-DC5F90238988",
+    "0B8C252D-B36E-4501-907F-5B51FF04A75F"
   ],
-  "confidence": 1,
-  "reason": "This letter, dated July 12, 1955, from Mont Laurier, describes a road trip. The pages follow a clear geographical and narrative progression: starting the trip from Montreal to Quebec, driving through the mountains, visiting Laurentide Park, and then the Laurentians and Santa Claus Village. The content flows seamlessly from one page to the next."
+  "confidence": 1.0,
+  "reason": "This is a continuous travelogue from a trip in Canada, starting with the date 'Juli 12, 55' and salutation 'Liebe Luti!'. The pages describe a journey from Montreal to Quebec, through the Laurentians, mentioning specific places like St. Simeon, Laurentide Park, and Santa Claus Village, creating a clear narrative sequence."
 }
