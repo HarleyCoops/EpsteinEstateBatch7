@@ -50,8 +50,8 @@ logging:
 
 # Agent settings for character intelligence building
 agent:
-  # Enable or disable the OpenAI agent monitoring loop
-  enabled: true
+  # Enable or disable the OpenAI agent monitoring loop (disabled in strict mode)
+  enabled: false
   # Model name for the agent (TODO: update to current model IDs)
   model: "gpt-4"
   # Directory to watch for translated English output files

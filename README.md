@@ -1,14 +1,17 @@
 # Dorle's Stories: AI-Powered Historical Letter Digitization
 
-An academic-grade pipeline for reconstructing decades of family correspondence into bilingual, typeset narratives using modern LLMs.
+An academic-grade pipeline for reconstructing decades of family correspondence into bilingual, typeset documents. A strict mode is provided to avoid any narrative interpretation and to preserve exact provenance.
 
 ## Vision & Context
 
 DorleStories is a digital humanities effort that turns fragile handwritten pages into a searchable corpus spanning generations. Beyond simple OCR, the goal is to produce coherent stories that can be read either in their original German or in a faithful English translation. Each step preserves provenance so historians can trace every sentence back to the source image.
 
-## Processing Pipeline
+## Processing Pipelines
 
-The `ImageTranslator.py` script orchestrates a comprehensive 6-phase workflow:
+Two entry points are available:
+
+- LLM grouping (recommended): `llm_group_letters.py` — Uses Gemini 2.5 Pro to group pages into letters by contextual continuity from the German OCR. Produces grouping JSON and optional per-letter de.txt with no added markers.
+- Strict heuristic (optional): `pipeline_strict.py` — OCR → heuristic grouping → LaTeX → optional translation. Deprecated for production grouping.
 
 ### Input → Output Flow
 
@@ -17,7 +20,18 @@ The `ImageTranslator.py` script orchestrates a comprehensive 6-phase workflow:
 - **Files:** All `.jpeg`, `.jpg`, or `.png` files
 - **Processing order:** Sorted numerically (extracts numbers from filename)
 
-**OUTPUTS (6 phases):**
+### Strict Pipeline Outputs
+
+Per letter (under `letters/` by default):
+- `Lxxxx/meta.json`: Image list, timestamps, and paths.
+- `Lxxxx/de.txt`: Concatenated German text with page markers.
+- `Lxxxx/de.tex`: Deterministic LaTeX (German).
+- `Lxxxx/en.txt`: English translation (if `--translate`).
+- `Lxxxx/en.tex`: Deterministic LaTeX (English, if `--translate --latex`).
+
+Grouping uses only EXIF/file timestamps and adjacent-page lexical similarity — no envelope or narrative inference.
+
+### Legacy Pipeline Outputs (deprecated)
 
 1. **Phase 1 - OCR:** Each image → individual German text file
    - `input/image.jpeg` → `german_output/image_german.txt`
@@ -28,8 +42,7 @@ The `ImageTranslator.py` script orchestrates a comprehensive 6-phase workflow:
    - Also saves: `combined_german_letter.txt` (root folder)
    - Temperature: 0.8 (balanced for fluency)
 
-3. **Phase 3 - Analysis:** Combined English → narrative analysis
-   - `english_output/combined_english_translation.txt` → `narrative_analysis_of_letters.txt` (root folder)
+3. Narrative/analysis phases are deprecated in strict mode and disabled by default.
    - Temperature: 0.75 (nuanced interpretation)
 
 4. **Phase 4 - English LaTeX:** Combined English → LaTeX document with source traceability
@@ -81,28 +94,55 @@ export GEMINI_API_KEY="your-api-key-here"
 
 ## Usage
 
+### Recommended Workflow (LLM Grouping + Translation)
+
+- Requirements: Python 3.10+, `pip install -r requirements.txt`, and environment variable `GEMINI_API_KEY`.
+- Scope: Works on any image collection directory. Example uses `DorleLettersE/DorleLettersE`.
+
+1) OCR (German) per page
+- If you already have `german_output/<base>_german.txt` files, skip this step.
+- With Gemini OCR in one pass during grouping:
+  - PowerShell: `$env:GEMINI_API_KEY="YOUR_KEY"`
+  - `python llm_group_letters.py --images-dir DorleLettersE/DorleLettersE --german-dir DorleLettersE/german_output --output-dir DorleLettersE/letters --run-ocr --save-input`
+
+2) Group pages into letters via LLM (context-only)
+- If OCR is done, assemble pure German letters with no added markers:
+  - `python llm_group_letters.py --german-dir DorleLettersE/german_output --output-dir DorleLettersE/letters --save-input --assemble`
+- Outputs:
+  - `DorleLettersE/letters/llm_grouping_input.txt` — the exact input listing sent to the LLM.
+  - `DorleLettersE/letters/llm_grouping.json` — strict JSON with letter groups, page order, confidence, reason.
+  - `DorleLettersE/letters/L0001/de.txt`, `L0002/de.txt`, … — pure German letters (no inserted markers/headers).
+
+3) Translate grouped letters to English
+- Letter-by-letter, plain text only; optional LaTeX rendering:
+  - `python translate_letters.py --letters-dir DorleLettersE/letters --latex`
+- Outputs per letter:
+  - `en.txt` — English translation
+  - `en.tex` — deterministic LaTeX (no LLM formatting)
+
+4) Optional: build PDFs from LaTeX
+- Run your LaTeX toolchain in each `Lxxxx/` folder (e.g., `pdflatex en.tex`).
+
 ### Core Processing Scripts
 
-**ImageTranslator.py** - Main 6-phase pipeline for OCR, translation, and document generation:
+**llm_group_letters.py** - Group pages into letters via LLM (no added text):
 ```bash
-# Run the main pipeline (default directories)
-python ImageTranslator.py
+# 1) Ensure OCR exists (run ImageTranslator.py or your OCR step first)
+# 2) Group via LLM and assemble letters (German only, no markers)
+python llm_group_letters.py --german-dir german_output --output-dir letters --save-input --assemble
+```
 
-# Process specific letter collections with custom output locations
+**translate_letters.py** - Translate LLM-grouped German letters to English (plain text + optional LaTeX):
+```bash
+python translate_letters.py --letters-dir letters --latex
+```
+
+**ImageTranslator.py** - Legacy 6-phase pipeline for OCR, translation, and document generation:
+```bash
+python ImageTranslator.py
 python ImageTranslator.py --output-base DorleLettersE
 python ImageTranslator.py --output-base DorleLettersF
 python ImageTranslator.py --output-base DorleLettersG
-```
-
-**culturalshifts.py** - Specialized cultural analysis of translated letters:
-```bash
-# Run cultural analysis (default directories)
-python culturalshifts.py
-
-# Analyze specific letter collection
-python culturalshifts.py --output-base DorleLettersE
-python culturalshifts.py --output-base DorleLettersF
-python culturalshifts.py --output-base DorleLettersG
 ```
 
 ### Additional Tools
@@ -110,15 +150,12 @@ python culturalshifts.py --output-base DorleLettersG
 ```bash
 # Process PDF files (for bulk documents)
 python PDFTranslator.py
-
-# Run character intelligence agent (optional)
-python agent_monitor.py
 ```
 
 ## Key Features
 
 - **Resumable Processing**: Already processed files are automatically skipped
-- **Ordered Processing**: Files are processed in numerical order
+- **Ordered Processing**: Strict mode groups pages by capture time and lexical similarity
 - **Source Traceability**: LaTeX documents include source filename for each segment
 - **Streaming API**: Handles large responses efficiently
 - **Error Handling**: Includes retry logic and detailed error reporting
@@ -247,3 +284,7 @@ Troubleshooting:
 - “Failed to run Codex CLI wrapper: [WinError 2]”: Codex CLI is not installed or not on PATH; fallback will still translate via Responses API.
 - “OPENAI_API_KEY not configured”: set it in your environment or `.env`.
 - Windows: prefer WSL for Codex CLI agent usage.
+
+## Deprecated/Disabled Components
+- Narrative analysis (`narrative_analysis_of_letters.txt`) is deprecated for strict mode.
+- Character/agent workflows are disabled by default. See `config.yaml` if needed.
