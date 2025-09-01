@@ -5,10 +5,11 @@
       "pages": [
         "3803294D-0A1A-456D-AA41-D1F142FF2551",
         "64F1168E-CF0C-4E33-A281-82D23245E5FA",
-        "097477A7-3869-4636-BD9B-E34BB9DE5E34"
+        "097477A7-3869-4636-BD9B-E34BB9DE5E34",
+        "B63C7EC4-AEB7-4E89-8785-49C56368701E"
       ],
       "confidence": 1.0,
-      "reason": "This letter, dated January 13, 1955, is a direct and emotional response to a letter from the mother. The author expresses hurt over the mother's perception, which seems influenced by 'Mechi'. The pages flow logically from the initial reaction to the mother's letter, to a discussion of the difficult relationship with Mechi, and finally to a plea for understanding regarding Mechi's behavior."
+      "reason": "This letter starts with the date '13.1.55.' and a salutation to 'Liebe Mutter!'. The content is a very emotional and consistent complaint about a letter from the mother, influenced by 'Mechi'. The pages flow logically, discussing the writer's feelings of being misunderstood, her relationship with Mechi, and practical issues like Mechi driving the car. The tone is consistent throughout."
     },
     {
       "id": "L0002",
@@ -17,11 +18,11 @@
         "7301FD92-DABA-4CAE-88D0-4F66C5DFA623",
         "4EF57FB8-DF3A-4008-8951-B4E6BD5FFA82",
         "9300E839-6C03-47B3-9A1D-8DB3552EB07C",
-        "95A466ED-85C4-4ACA-8FA4-6557EF7A4C1A",
+        "95A466ED-85C4-4ACA-8FA4-6557EF7A4003",
         "B35CD4D7-7D33-4A3E-B5B9-21E72558E37D"
       ],
-      "confidence": 1.0,
-      "reason": "This letter starts with an apology dated Feb. 24, 1955. The author discusses Mechi's adjustment, a ski trip, Mechi's finances, future plans with the youth group (Uli's birthday on March 3rd), cultural events like concerts and films, and ends with an update on their pottery hobby and a closing signature 'Dorli'."
+      "confidence": 0.95,
+      "reason": "This letter starts with 'Toronto, Feb. 24, 55' and 'Liebe Mutti!'. The content flows from an apology for a previous letter to discussions about Mechi's adjustment, a ski trip, photography, upcoming social events (Uli's birthday), and activities like pottery and swimming. The final page concludes with a closing 'gruß. Dorli.'."
     },
     {
       "id": "L0003",
@@ -32,7 +33,7 @@
         "1F399661-940E-40CF-A7DB-B8C5C2221E05"
       ],
       "confidence": 1.0,
-      "reason": "This letter begins with birthday wishes to the mother, dated May 2, 1955. The author thanks her for a sleeping bag and describes birthday gifts, including opera tickets for 'Carmen' and 'Madame Butterfly'. The subsequent pages describe a visit from Inge and Hilde's parents, a trip to Niagara Falls with them, news about Hilde returning to Germany, and a final closing with birthday wishes and the signature 'Doris'."
+      "reason": "This letter starts with 'Toronto, Mai 2, 55' and 'Liebe Mutter!'. It is a birthday letter to the mother, discussing birthday gifts received by the author (schlafsack, opera tickets). The narrative continues with a visit from Inge and Hilde's parents to Niagara Falls and news about Hilde returning to Germany. The letter ends with birthday wishes and the signature 'Doris'."
     },
     {
       "id": "L0004",
@@ -44,8 +45,8 @@
         "33B7F6BE-4FFD-4254-9AAC-D2991F4CE1C1",
         "BF7D3D2A-0BB8-4DB9-B007-B33DF70D286D"
       ],
-      "confidence": 0.95,
-      "reason": "This letter starts on May 30th, 1955, discussing relationship dynamics with 'Dorle' and 'Inge'. It continues with news about Uli, a Catholic high school graduation ceremony the author photographed for Miss O'Connor (marked 'II'), and her positive relationship with her boss (marked 'III'). The letter concludes with an update dated June 19th about upcoming plans and a final greeting from 'Dirk'."
+      "confidence": 0.9,
+      "reason": "This letter starts with 'Toronto, May 30th, 55.' and 'Liebe Mutter!'. It discusses relationship dynamics with Dorle and Inge, a club event, and attending a Catholic high school graduation. The pages are linked by the graduation event, which is described across multiple pages (marked II and III). The final page has a postscript dated 'Juni 19.' and ends with 'Herzliche Grüße von Dirk', which is likely a typo for Doris/Dorli."
     },
     {
       "id": "L0005",
@@ -58,32 +59,31 @@
         "CFA8AC1B-F262-4EBE-814D-AD2A67F75038",
         "277BA536-CC27-410C-B421-2407422E5119"
       ],
-      "confidence": 1.0,
-      "reason": "This letter starts on June 2, 1955, mentioning opera visits ('Madame Butterfly', 'Carmen') and a recent trip to Deer Lake. The following pages provide a detailed, multi-page account of this trip, which took place over the Queen Victoria's birthday long weekend. The narrative flows from the arrival, the 'Wasserschlacht' (water fight), mosquito bites, and the late drive home. The final page discusses the aftermath of the mosquito bites and other recent activities."
+      "confidence": 0.85,
+      "reason": "This letter starts with 'Toronto, den 2. Juni 55' and 'Liebe Mutter und Geschwister!'. It begins by discussing music and opera, then transitions to a detailed account of a 'long weekend' trip to Deer Lake with the youth group. Several pages describe this trip, including a 'Wasserschlacht' (water fight). The page marked 'IV' and 'V' clearly belong to this narrative. The final page discusses the aftermath of mosquito bites from the trip and other recent activities. The connection between the first page (opera/music) and the rest (lake trip) is slightly disjointed but plausible as a multi-topic letter."
     },
     {
       "id": "L0006",
-      "pages": [
-        "9AB0A9EE-A86F-4974-89FD-4A57A105E531",
-        "7E016B35-2AD5-40F3-8B13-4E50C1257BDD",
-        "4E30AACA-8ACA-4CC5-A6F7-109F0C0210B9"
-      ],
-      "confidence": 0.9,
-      "reason": "These pages form a coherent letter discussing recent events. It starts by mentioning mosquito problems on a trip, discusses German films showing locally, then details Mechi's travel plans to B.C. and a job offer she declined. The final page continues the discussion about Hilde and Inge's situations, creating a logical flow of topics."
-    },
-    {
-      "id": "L0007",
       "pages": [
         "5D0358D2-A5FC-4A64-B945-A7FC5E8F1CEE",
         "4FC824A8-715A-45B9-B34F-420DABC7CE56"
       ],
       "confidence": 0.8,
-      "reason": "The first page, dated May 31st, discusses finances ('P 60'), a failed color film, and ski trips. The second page continues the theme of failed films ('schwarz-weiß-Umkehrfilme'), mentions a working alarm clock, a broken watch, a pending dentist visit, and photography equipment. The thematic overlap of photography and finances suggests they belong to the same letter."
+      "reason": "The first page is dated 'Way 31st. mayen' (likely May 31st) and discusses sending money, a ski trip, and problems with color film. The second page continues the topic of photography (color film, enlarger) and mentions a broken watch and a dentist appointment. The topics are consistent with a personal update letter, and the flow seems logical, though there is no explicit salutation or closing signature."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "9AB0A9EE-A86F-4974-89FD-4A57A105E531",
+        "7E016B35-2AD5-40F3-8B13-4E50C1257BDD",
+        "4E30AACA-8ACA-4CC5-A6F7-109F0C0210B9"
+      ],
+      "confidence": 0.8,
+      "reason": "These pages form a coherent narrative. The first page describes a trip to a lake with mosquitos and mentions two German films. The second page continues the discussion of films ('East of Eden') and then talks about Mechi's upcoming trip to B.C. and a job offer she declined. The third page continues discussing Mechi's travel plans and compares Hilde's and Inge's situations. The flow of topics is logical, but there is no date, salutation, or signature."
     }
   ],
   "unassigned_pages": [
     "2DD310A6-C243-455B-AD33-B211DF825D83",
-    "B63C7EC4-AEB7-4E89-8785-49C56368701E",
     "A1019E9A-D48A-4317-A9A4-01F765FC9094"
   ]
 }

@@ -1,0 +1,118 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "EB67B5A1-ED48-48EA-9032-7FAFE5E076D5",
+        "FFCE0EFF-4C5C-4B86-9B94-425E6AA27F96",
+        "D99A214E-4298-4A6F-BAD3-BD01524E46E5",
+        "A03215AD-5DE4-4051-8BEC-453614FFEFF0"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a multi-page letter from Chile dated 20. Juli 1950, addressed to 'Fraeulein Hofmann'. The pages are linked by consistent letterhead ('Chacra San José de la Florida...'), date, and a continuous, formal discussion advising against immigrating to South America for work in agriculture. The content flows logically across the pages."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "79871C3A-9BC2-4D6C-AF00-D794F193FD4A",
+        "450111BB-700E-40F8-AE4D-E0B4FF3A0B7D"
+      ],
+      "confidence": 1.0,
+      "reason": "These two pages form a cohesive autobiographical report about immigrating to Canada. Page one is explicitly marked 'Page 1' and describes the journey in 1951. Page two is marked 'Page 2' and continues the narrative from 1952 onwards. The content, style, and explicit page numbering confirm they belong together in this order."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "FCDDE3CA-6A98-4E2E-A058-A6380FA5A2DD",
+        "0E3AFA2B-CD87-45C7-AA85-5D7FAE9770C6"
+      ],
+      "confidence": 0.9,
+      "reason": "Letter starts with 'Hofheim, den 27.2.50. Liebe Leut!'. The first page ends with 'Meiner Meinung nach sind'. The second page starts with 'die hier von Oestlau noch nicht so fort- schrittlich', which continues the topic of agricultural practices mentioned on the first page (cutting berries). The content about Herr Betzel's farm connects the two pages."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "AE16CE58-5808-4839-9497-0BBEBCA559A2",
+        "9BA4B1C9-6493-4FB1-89C8-25D37386AA93"
+      ],
+      "confidence": 0.8,
+      "reason": "The first page is a letter to 'Liebe Mutter!' from Hofheim, dated 19. Juli 51, discussing plans to go to Canada. The second page, signed by 'Dorle', discusses farm helpers and mentions names (Ursel, Erdmuthe) that fit the family context. The tone and likely sender connect these pages, although the content transition isn't seamless."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "7E54A91E-5998-4AEE-A863-179FB231A6E1",
+        "7E0B8726-0322-4EE4-821D-1A2CCBA9ADA4",
+        "1AFC4466-0041-4037-AD3F-557639DC741A"
+      ],
+      "confidence": 0.7,
+      "reason": "A multi-page letter likely from 'Dorli'. The first page starts 'Hofheim, den 22.11. Liebes Ulechi!'. The second page is a fragment asking questions that fit the context of a personal letter. The third page ends with the signature 'Dorli' and discusses gifts, which connects to the first page's mention of the Christmas market."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "E066DD1B-A162-4A5E-A280-E6765338E5F0",
+        "BB1D303B-A96E-46C7-987D-69871DED1AF8",
+        "7E7DEEB9-040F-4BF3-8B8C-8ED7D8F2AA25"
+      ],
+      "confidence": 0.6,
+      "reason": "This appears to be a multi-page letter to 'Liebe Mutter!' from 'Dorli'. The first page discusses apple prices in Frankfurt. The second page continues this topic and then mentions looking for work in Frankfurt. The third page, signed by 'Dorli', mentions a 'Fortsetzung nächstes Blatt!', indicating it's part of a longer letter. The common themes of apples, Frankfurt, and the signature link these pages, though the exact order is inferred."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "181689E3-F916-4304-ADF3-5E71E98BCA67"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Dayton, Ohio, 6.11.51', starting with 'Lieber Onkel,' and ending with 'Deine Erni.' It contains a full message and addresses."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "31271063-5924-44D4-86A1-72A09FEC2B76"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter to 'Liebe Christel!' signed by 'Dorle.' It describes life and food in a new country and contains a full, coherent message."
+    },
+    {
+      "id": "L0009",
+      "pages": [
+        "DC3728E9-6D09-4ED0-A70B-0B72A249F0EE"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter to 'Liebe Bärbel!' signed by 'Dorli.' It discusses children and Christmas traditions in a new country (likely North America, mentioning Niagara Falls)."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "3235806A-098E-475D-9E84-39ABACE228D1"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, formal letter of application dated 'Hessen, den 17.2.49.' addressed to 'Sehr geehrter Herr Bezel!' and signed 'Dora Hofmann'."
+    },
+    {
+      "id": "L0011",
+      "pages": [
+        "E25277DC-5DD7-4161-B62E-8AFBBE74448F"
+      ],
+      "confidence": 1.0,
+      "reason": "A complete, albeit slightly repetitive, single-page letter to 'Liebe Mutter,' dated 'Hofheim, den 3.5.80.', wishing her a happy birthday."
+    },
+    {
+      "id": "L0012",
+      "pages": [
+        "4F39B717-4809-4266-A9DF-F9821CECEEED"
+      ],
+      "confidence": 1.0,
+      "reason": "A complete single-page letter discussing farm work (planting potatoes, spraying apples) and mentioning 'Herr Wetzel'. It ends with 'Herzlichen Gruß. Dora.'"
+    }
+  ],
+  "unassigned_pages": [
+    "13732641-D2C7-49CA-9813-A347C32125F9",
+    "2A31A0CC-A74A-4DA3-80D7-F795ED9DFA24",
+    "2E3AFCDC-79AA-4159-9C79-59B827A7046A",
+    "55838034-6D7E-4FEB-8B90-BF1B2F4C261B",
+    "7817FC16-24E9-4E81-BB3F-333923D68073",
+    "C85DCA0B-8151-4624-BD41-43D47A1DCEE6"
+  ]
+}

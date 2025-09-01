@@ -1,10 +1,9 @@
 {
   "id": "L0003",
   "pages": [
-    "49310721-7114-403B-B4D9-049668301F1E_1_105_c",
-    "A2C7CB5C-860B-4E4C-BB53-A59B03277170_1_105_c",
-    "3409BD22-9140-4174-9839-128D92F7DE32_1_105_c"
+    "49310721-7114-403B-B4D9-049668301F1E",
+    "A2C7CB5C-860B-4E4C-BB53-A59B03277170"
   ],
-  "confidence": 0.85,
-  "reason": "These pages form a letter from a trip to Quebec. The first page is dated July 5, 1955, from Trois-Rivières, addressed to 'Tante L.'. The second page continues the description of the trip to Montreal and ends with 'Herzlichen Gruß Euer'. The third page, addressed to 'Mutter und Geschwister', also mentions the 'zweiter Urlaubstag' and the 'Josef Oratorium in Montreal', strongly linking it to the second page. It likely serves as a postscript or continuation for the rest of the family."
+  "confidence": 1,
+  "reason": "A two-page letter to 'Tante L' dated July 5, 1955. The first page starts the letter, and the second page continues the narrative about a trip with 'Inge' to Montreal, concluding with a closing formula. The content flows seamlessly from the first page to the second."
 }

@@ -1,16 +1,11 @@
 {
   "id": "L0003",
   "pages": [
-    "C362477B-1DBB-47B4-AED8-F4A5FD0189BB",
-    "0CF69970-07F4-4F17-B009-DFEAD2DC3E29",
-    "9C378423-7A50-4EC1-B993-7B50CC6975B9",
-    "2202DE8A-E2B2-4E4D-B6B0-415638B24E31",
-    "14ED5AD3-F4EF-4090-BFDB-0A454E494C60",
-    "8068D011-0E32-4577-87CF-8B85D5A8595F",
-    "8DF74E2B-A1C5-4465-81A4-07112F27C684",
-    "73543016-6D46-4258-AA8D-1BC579353AD0",
-    "A2527E89-0520-4702-8DC2-C3F254E80448"
+    "EA93F742-3BBE-4588-8D0F-D2B687E803C9_1_105_c",
+    "EED86E5E-FB5B-406B-BD3B-6BF870AB0BC3_1_105_c",
+    "F2FEC3D0-858C-4E82-AD20-BEC1FB81011D_1_105_c",
+    "2C59B68D-F839-4D92-BD04-8CF060A9D2B4_1_105_c"
   ],
-  "confidence": 0.9,
-  "reason": "This letter, dated Dec 17, 55, is a detailed account of a Christmas play ('Krippenspiel'). Page 1 (C362477B...) starts the letter, mentioning the successful performance. The following pages (0CF69970..., 9C378423..., 2202DE8A..., 14ED5AD3..., 8068D011..., 8DF74E2B...) all provide specific details about the play's scenes, costumes, actors, and rehearsals, forming a cohesive narrative. The final two pages (73543016..., A2527E89...) shift to Christmas gifts, specifically instructions for a coffee maker, and end with Christmas greetings and a signature, which is a logical conclusion to a pre-Christmas letter."
+  "confidence": 1.0,
+  "reason": "The letter starts with 'Toronto, den 10.10.55' and 'Liebe Mutter!'. It discusses the arrival of the 'gotteskind' script (requested in L0002) and the casting for the play. The following pages continue the narrative, discussing evening classes, a Sunday hike, the wedding of 'Inge und Klaus', and finally asking for Christmas gifts. The content is consistent and flows logically across the four pages."
 }

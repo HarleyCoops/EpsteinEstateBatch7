@@ -1,11 +1,11 @@
 {
   "id": "L0001",
   "pages": [
-    "7F6DD828-69E2-401C-B7C7-76ECEDDD901F",
-    "20FAB697-E70B-43B3-8CE3-F393651858E4",
-    "C18F0088-7034-4C79-B371-DC5F90238988",
-    "0B8C252D-B36E-4501-907F-5B51FF04A75F"
+    "7F6DD828-69E2-401C-B7C7-76ECEDDD901F_1_105_c",
+    "20FAB697-E70B-43B3-8CE3-F393651858E4_1_105_c",
+    "C18F0088-7034-4C79-B371-DC5F90238988_1_105_c",
+    "0B8C252D-B36E-4501-907F-5B51FF04A75F_1_105_c"
   ],
   "confidence": 1.0,
-  "reason": "This letter describes a road trip. Page 1 (7F6DD828...) starts in Mont Laurier on July 12, 55, mentioning Quebec and the St. Lawrence River. Page 2 (20FAB697...) continues the travelogue, describing steep roads, a lake in St. Simeon, and getting locked out of the car. Page 3 (C18F0088...) describes seeing a bear, Chicoutimi, and the Laurentide Park. Page 4 (0B8C252D...) continues the description of the park and a visit to 'Santa Claus Village'. The flow of the travel narrative is clear and consistent across these pages."
+  "reason": "The letter starts with a date and location 'Mont Laurier, Juli 12, 55' and a salutation 'Liebe Luti!'. The pages form a continuous travelogue describing a road trip through Quebec (Quebec City, St. Lawrence River, Laurentians, Chicoutimi, Shawinigan Falls), mentioning sleeping in the car with 'Inge'. The content flows logically from one page to the next, detailing different stages of the journey."
 }

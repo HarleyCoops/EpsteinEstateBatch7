@@ -1,0 +1,120 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "13AE0211-2DED-4CD9-BF2D-F483D7A87597",
+        "A0BF0343-62C0-4E1D-B56E-9B31051A934A",
+        "1C8B2FF5-6037-43E9-946D-3A99C0D32E6C",
+        "827D4BBB-B8CD-4D81-833E-3FD8E5480DB7",
+        "13808B30-1867-4CDB-96B3-B3ACF0E0931E"
+      ],
+      "confidence": 0.9,
+      "reason": "This letter, dated Dec. 14, 54, discusses the writer's relationship with 'mechi' who has recently arrived in Canada. The pages flow logically, starting with a Christmas greeting, moving to the difficulties of living together, mentioning 'mechi' finding a job at the hospital, and discussing plans for a Christmas party for single people. The handwriting and topics are consistent. The last page is somewhat fragmented but fits the context of Christmas preparations and social gatherings with Inge and Hilde."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "CD62E06F-D35A-415E-9CA1-B74ACBBA3D03",
+        "D6743C08-E25E-4BD9-9FD6-6F36B70B21E0",
+        "79CCF94F-F8B7-4FAE-B7F5-33BA952C54F5",
+        "0EE2B7DF-E98B-47BB-BE02-DD3E11CB79E2",
+        "20983975-D335-44D0-ADE8-D008A7C8B5F1"
+      ],
+      "confidence": 1,
+      "reason": "This letter from 'Dorle' is dated Dec. 27. It forms a coherent narrative starting with thanks for Christmas gifts, listing books received, mentioning 'mecki's' account of Christmas, discussing a performance of 'Messias', and then reflecting on a lost camera and past hardships. The closing 'Herzlichen Gruß Dorle' on the final page confirms the sender. The content flows logically from one page to the next."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "C32C8541-5A7F-4066-A2F9-032AF3254263",
+        "1BFDA197-B28E-4651-B535-C196CC60CB85",
+        "968F8F33-A204-447C-BBCA-6337E87B2F46",
+        "E040A2E7-0265-4F45-8455-031DBF3E3A30",
+        "851B7608-EF30-41A0-ADB2-8158CF98559B"
+      ],
+      "confidence": 0.95,
+      "reason": "This letter from 'Mech' is dated Dec. 9th and 15th, 54. It's a long letter detailing her experiences. It starts with Christmas wishes, describes homesickness and daily routines, mentions the 'Schallplattenclub' and Christmas preparations. The page numbers VI and VII help establish the order. The final page, signed by 'Mech' and dated Dec. 15th, clearly concludes the letter by adding a note about developing pictures."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "2E4C9F78-5248-4A9E-B6CF-8BA1DB60758D",
+        "BBAEC8BE-14FF-4C69-9DEA-EEAB5B07AC4B",
+        "498B0ADF-F814-404A-834E-B85BCA724A42",
+        "326E101B-4463-41B1-8539-E28044B526FB",
+        "A263600E-7C8E-4CE2-9939-F09EAC74C70D"
+      ],
+      "confidence": 0.85,
+      "reason": "This appears to be a single, multi-page letter from a newcomer to Canada (likely 'Mechi' from other letters, though not explicitly signed here). The pages describe finding a job in a hospital, the daily routine, learning English, interactions with roommates ('Darla', 'Inge', 'Hilde'), and observations about Canadian life as a 'land of contrasts'. The page number 'V' helps order the last page. The content is thematically consistent across all pages."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "B44E43D3-48F0-4CD8-8DAD-50921ABEEF14",
+        "1ECA2102-3CEF-46DC-94B7-134A8C6818C6",
+        "F4ECF781-B0FA-41FD-B5BA-B0F46653E261",
+        "33F445EC-6D87-4262-A53D-25A80DED961E",
+        "E0060779-5021-425F-9127-71727A37D5AB"
+      ],
+      "confidence": 0.9,
+      "reason": "This letter from 'Lotte' starts with the date Oct. 18, 54. It discusses a new camera, a record club, and then describes the 'Hurricane Hazel' in detail across several pages. The final page, signed by 'Lotte', talks about evening classes and social activities, which fits as a general life update after the main event of the hurricane."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "96579A34-65DA-4689-8D98-DF24F78A3FD0"
+      ],
+      "confidence": 1,
+      "reason": "This is a complete, single-page letter signed by 'Carl'. The content is self-contained."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "F42A2119-6DFC-444B-B2FE-05F9764215EF"
+      ],
+      "confidence": 1,
+      "reason": "This is a complete, single-page letter signed by 'Orli', containing Christmas wishes and instructions for a game."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "27F039A8-285E-41FD-BD65-F1A06240B146"
+      ],
+      "confidence": 0.7,
+      "reason": "This page is marked 'VIII' and signed 'Eure Mutti'. It seems to be the end of a letter, but the preceding pages are not present in the provided set. The content about sending New Year's wishes and receiving a package is conclusive."
+    },
+    {
+      "id": "L0009",
+      "pages": [
+        "96CE0012-8636-4FD7-A5DB-595F2B9363BF"
+      ],
+      "confidence": 0.7,
+      "reason": "This page is a near-duplicate of 27F039A8-285E-41FD-BD65-F1A06240B146, also marked 'VIII' and signed 'Eure Mutti'. It is likely a different transcription or version of the same page. It is treated as a separate letter fragment as its preceding pages are missing."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "89B98821-16FA-4049-8E54-C1F232919CCB"
+      ],
+      "confidence": 1,
+      "reason": "This page contains only a name and address: 'J. Hofmann, 5-3 Spadina Rd, Toronto Ont, Canada'. It is likely the sender's address from an envelope or the top of a letter sheet."
+    },
+    {
+      "id": "L0011",
+      "pages": [
+        "ED922828-7374-4FE1-BB3A-29DF78EC20AF"
+      ],
+      "confidence": 1,
+      "reason": "This page contains only a name and address: 'Jack Hofmann, 244 Havelock St., Toronto / Ont'. It is likely the sender's address from an envelope or the top of a letter sheet."
+    }
+  ],
+  "unassigned_pages": [
+    "53CA3D49-3F1B-4042-9B64-11733714DBC6",
+    "302104CF-3E27-4A6A-9814-F36CE52CC925",
+    "E36C863A-7527-462F-A44C-1537BA88C59F",
+    "89CF9AD9-68EC-4FD5-85E1-9C791E228A01",
+    "394A324B-5871-408B-B8DD-10E176AEC92E",
+    "C211DD9A-11CA-4F36-B7E5-E77791015686"
+  ]
+}

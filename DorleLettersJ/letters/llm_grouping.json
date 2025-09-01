@@ -1,0 +1,141 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "E80F3DDA-5E80-41BC-9125-37CEE54BF564",
+        "B5755867-FA12-4BB3-AF27-EAD2E73F78A1"
+      ],
+      "confidence": 0.9,
+      "reason": "Letter starts with a birthday wish to 'Mutter' dated April 27th. The second page continues the topic of spring and farm work, and ends with a signature 'Joch.' which could be a nickname for the sender."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "D659F51F-3FCA-4B4C-BFFF-C68DBD915D22",
+        "4544087B-E642-4115-9323-E4E237A67445",
+        "1A404CD0-823F-488A-A5CB-A3CB2DAB55A7",
+        "65E3D975-7B61-4522-956A-CDB6E5FE6279"
+      ],
+      "confidence": 1.0,
+      "reason": "A complete letter from 'Dodo' to 'Mutter', dated May 2, 1954. The pages flow logically from the salutation and description of High Park, to sports activities, the youth group's internal politics, and finally to upcoming events and a closing."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "E01BC7B9-FA9B-4A76-87C1-C2D9E782C5E3",
+        "FE2EDAD8-110C-4B7C-9E2E-CCF39AD99659",
+        "0821B4B0-78BA-4CD4-BC2A-65D161E26149",
+        "A23A7BBA-AF1B-462A-892D-EC2056EF23C7"
+      ],
+      "confidence": 1.0,
+      "reason": "A cohesive letter dated June 3, 1954. It starts by mentioning a trip and a photo, then describes the journey and the people involved (Inge from Hofheim). The narrative continues with details of the trip, activities at a lake, and concludes with the founding of a new youth group. The content flows perfectly across the four pages."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "2E3FD556-03EA-4532-AD29-A7264B2B13D7",
+        "A60AEDF6-4378-4083-83C2-9E7729A55A5C",
+        "BCA0B0FB-BDD3-415D-9AF6-AF8D03887A66"
+      ],
+      "confidence": 1.0,
+      "reason": "A letter from 'Woodview' dated Aug 14, 1954, addressed to 'Mutti'. The sender describes being on vacation with 'Inge' in a cottage by a lake. The pages describe their activities, the nature around them (poison ivy), and news from their youth group, creating a continuous narrative. Page 2E3FD556-03EA-4532-AD29-A7264B2B13D7 is chosen as the start over the nearly identical B4A9C3DC-8D10-4268-86BB-9AE48611FA51 due to a slightly more logical sentence flow at the end."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "2FBAE267-0E7F-413F-B91D-D9470C7BC01D",
+        "59C0B835-3606-4F1D-9AC3-2318376628E4"
+      ],
+      "confidence": 1.0,
+      "reason": "A letter from Toronto dated Sept 10, 1954, to 'Michi'. The first page mentions sending a photo of the youth group and starts describing the members. The second page continues the description of the people in the photo ('Hilde Kochendörfer', 'Horst', etc.) and other group activities. The flow is perfect."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "004E8896-429E-4CC3-AF64-4F0C27BAA784",
+        "0D1B77E3-E407-4F82-839E-6147A323D4B0",
+        "6C40B33B-3DFE-4434-BA5C-36A391A1E75F"
+      ],
+      "confidence": 0.95,
+      "reason": "These pages form a letter thanking someone for a birthday gift (a blanket and pillow). The letter discusses books received, work at a hospital ('Dietitians'), and social events ('Graduationsball'). The postscript from 'Dein Karl' on page 0D1B77E3-E407-4F82-839E-6147A323D4B0 adds a birthday wish, connecting the theme. The topics of work and books flow logically across the pages."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "AFEBC9B3-3FF4-4916-BE32-66560BEDC20F",
+        "0E1C06AF-C4C0-4361-AE1C-631FBEA9538B"
+      ],
+      "confidence": 1.0,
+      "reason": "A letter to 'Christel' for her 16th birthday, dated March 10th. The first page congratulates her and mentions sending clothes. The second page continues the topic of the clothes, mentions a friend 'Bärbel', and closes with good wishes and the signature 'Dorle'."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "625BFD3F-2518-48CC-9302-C28287A436DE"
+      ],
+      "confidence": 1.0,
+      "reason": "A complete, single-page letter to 'Lieber Vatter' dated Dec. 11th, 1953. It discusses farm work, a trip to Toronto for an agricultural fair, and sports. The content is self-contained."
+    },
+    {
+      "id": "L0009",
+      "pages": [
+        "3D104C74-B74D-4130-9E67-0549166F2593",
+        "2B75C6C4-94B3-4801-92D9-2551B38C4493"
+      ],
+      "confidence": 0.8,
+      "reason": "The first page, dated Jan 22, 1953, to 'Mutter', thanks her for books and mentions a circle of 'Literaten'. The second page describes a gathering at a 'Pfarrhaus' with literary discussions and dancing, which fits the theme. It ends with a signature 'Doris'."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "0451CAB2-9057-4162-9D1F-DBF62C0DE380"
+      ],
+      "confidence": 0.9,
+      "reason": "A single-page letter fragment dated Dec 11. It discusses weather, mentions a car, and ends with Christmas and New Year wishes from 'Dore' and 'John', including a reference to a record 'Rudolf, the Red Nosed Reindeer'. It appears to be a complete page."
+    },
+    {
+      "id": "L0011",
+      "pages": [
+        "46CC6C6D-1F8B-48F7-843B-220194F67B8B",
+        "04F175CD-238A-4434-BC98-8D4F47CB9D3F"
+      ],
+      "confidence": 0.7,
+      "reason": "A Christmas-themed letter. The first page (Dec 13) is to 'Bärbel' and discusses Christmas preparations. The second page continues the Christmas theme, mentioning a church service and a party for single people, and signs off with 'Herzliche Weihnachtsgrüße Eure Gretel'. The sender and recipient seem to differ, but the strong thematic link suggests they belong together, possibly as a letter with sections for different family members."
+    },
+    {
+      "id": "L0012",
+      "pages": [
+        "E591FCC1-BA6D-40C1-8DCD-D95494BD1657"
+      ],
+      "confidence": 0.9,
+      "reason": "A single page discussing a new room in Toronto, a youth group, and the anticipated arrival of 'Medi'. A postscript adds a birthday wish. The page seems self-contained and complete."
+    },
+    {
+      "id": "L0013",
+      "pages": [
+        "2DA745AC-1A33-42DE-973C-B147E58AC829"
+      ],
+      "confidence": 0.9,
+      "reason": "A single page thanking for a birthday letter and a birthday package from 'Gessens'. It discusses books received from various people ('Großmama', 'Christel und Bärbel'). The page appears to be a complete thought, though it could be part of a longer letter."
+    },
+    {
+      "id": "L0014",
+      "pages": [
+        "59BD370A-8770-4527-8E56-0650BE65B14F"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a birthday card or short note for 'Christel', containing two separate messages: one from 'Klara' and a longer one from 'Deine Grossmama'. It is a complete, standalone item."
+    }
+  ],
+  "unassigned_pages": [
+    "3EE4C560-C33C-461E-B0DA-97B8AE7EEF7D",
+    "6A64708E-A888-477A-BFC5-1BB836FCE6F2",
+    "88615283-44E4-4085-A7D1-FE1091BD939D",
+    "B4A9C3DC-8D10-4268-86BB-9AE48611FA51",
+    "CDE7E1BD-5003-44BF-BC96-CA18340F3EA8",
+    "DA2FFCB1-973E-48C1-91C6-B365D9E6A336",
+    "E4FBDA91-D47F-491E-B690-B356E7D2732C",
+    "EB1EBC32-97AB-4218-ABA0-131E4B793FE5"
+  ]
+}

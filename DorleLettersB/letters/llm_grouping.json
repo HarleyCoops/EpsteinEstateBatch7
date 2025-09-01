@@ -1,0 +1,111 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "077B14DA-3FB5-4A49-8DBF-170ABF8CE9ED_1_105_c",
+        "A24E52E4-40CE-4D1F-8F39-2F94074CE987_1_105_c",
+        "3F780301-2627-47B9-9A02-5673E30B332E_1_105_c",
+        "DBE51A4F-61B5-4173-9609-68EB47F9115B_1_105_c",
+        "1066B7F5-5DD9-4C05-A819-7180C797786B_1_105_c",
+        "810CCE84-B492-433D-9A8E-D198596A778F_1_105_c",
+        "6584D3F7-E553-4E90-984D-F72894872028_1_105_c"
+      ],
+      "confidence": 0.9,
+      "reason": "This long letter from 'Karl' is dated Vancouver, Sept 22, 1958. The pages follow a logical sequence discussing his arrival in Vancouver, finding a job at a bank, social life, bank fraud incidents, and future plans. The content flows smoothly from one page to the next, and the letter concludes with a closing signature. The high page count is unusual, but the narrative is consistent."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "DCBC01C0-8FEF-4DBA-8BF4-BB7748AFE649_1_105_c",
+        "DE43F8DE-0970-43E4-96EF-F946D453FCCE_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "The letter starts with 'Toronto, den 27. Jan. 58.' and describes the flight back from Germany. The second page continues the narrative, mentioning going back to work on Monday, moving house, and theater practice, which directly follows the arrival story. The closing signature 'Christel' is on the second page."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "1B7FB5C8-BCAC-4047-BDAE-B16AC2464318_1_105_c",
+        "03E13F6A-A8B0-4FA7-A67C-01BC6159BBD8_1_105_c"
+      ],
+      "confidence": 0.9,
+      "reason": "The first page is dated 'Toronto, den 19. Mai, 58' and begins describing a bank fraud incident involving a $250 check. The second page continues the detailed story of this exact incident, leading into other topics and ending with a closing from 'Eure balde Onkel'. The narrative connection is very strong."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "5F004367-EC0D-4ACF-825B-7AE8F8C73B37_1_105_c",
+        "3310A0C8-4641-4210-9989-934A36E81EB8_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "The first page is dated 'Vancouver, Nov. 25, 1958' and discusses skiing on Mt. Baker and the youth hostel group. The second page continues the topic of skiing with the youth group, mentions moving to a new address, and ends with a closing signature from 'Joh.'."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "E14F3673-44A3-47FA-B4AF-B1D212325B66_1_105_c",
+        "7A7A0A69-0A7D-4FD4-A545-92877F8FECDA_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "The first page is dated 'Vancouver, den 3. Aug' and describes skiing on Mt. Baker, mentioning glaciers and mountain flowers. The second page continues the description of the mountain flowers ('indian Paint Brush') and the glacier, creating a seamless narrative flow."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "2048D0AC-8313-493A-986D-4D839D23ABC7_1_105_c",
+        "E4FF9FD1-4600-4A53-ABAF-B33C4BE71A92_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "The first page is dated 'Decembur 12, 58' and addressed to 'Liebe Ursel'. It discusses Christmas plans and the weather in Vancouver. The second page continues the topic of Vancouver weather, mentions Alaska, and ends with Christmas greetings and the signature 'dein Jmh.'."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "51006BB7-F350-4776-9042-F13FD3153F26_1_105_c",
+        "28DEE269-8049-4D4E-8780-2A81CA47100B_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "The first page introduces three Australian friends who are planning to visit the recipient in Germany. The second page continues discussing these Australian visitors and what they might do, creating a clear topical link. The text flows from one page to the next."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "48339EAE-BB4D-4249-8986-E355C0615D92_1_105_c",
+        "CC09BAC4-3B7A-4056-B773-CB5D7E36E643_1_105_c",
+        "EB061DE4-9DB5-4111-B354-BD90775A8376_1_105_c"
+      ],
+      "confidence": 0.7,
+      "reason": "The first page is dated 'den 30. März, 51' and discusses Easter. The second and third pages discuss various topics like theater, bank robberies, and family news without clear transitions, but they share a similar fragmented and somewhat disjointed writing style, suggesting they might belong to the same letter from a single author."
+    },
+    {
+      "id": "L0009",
+      "pages": [
+        "D560163B-B196-4346-A038-6769C9419BE3_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a single-page formal wedding and engagement announcement from May 1958 in Vancouver, B.C. It is a complete document on its own."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "82079FE3-6DE0-4A7C-A29B-880FA34D0BD4_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a very short, single-page letter dated 'Toronto, den 5. Okt. 57'. It appears to be a complete, albeit brief, note."
+    },
+    {
+      "id": "L0011",
+      "pages": [
+        "7D148AC1-6DD0-4F72-8230-0806CAD89E0B_1_105_c"
+      ],
+      "confidence": 1.0,
+      "reason": "This page is an envelope front, addressed to Mrs. O. Hofmann in Germany, with a return address from Vancouver dated 1958. It is a standalone item."
+    }
+  ],
+  "unassigned_pages": [
+    "C27F8EE9-9A77-4416-A669-20DF250C58C5_1_105_c",
+    "F0384A25-D052-4D06-8238-FA909700B705_1_105_c",
+    "6669C94F-757A-4209-B390-912469CDC32C_1_105_c"
+  ]
+}

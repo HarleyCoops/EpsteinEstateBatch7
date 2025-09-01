@@ -1,6 +1,6 @@
 # Dorle's Stories: A Digital Assistant for Historical Letters
 
-## Part 1: What is This Project? (A Simple Introduction)
+## Part 1: What is This Project? 
 
 This project is a tool designed to read, understand, and organize old, handwritten family letters. Imagine you have a box full of old photos of handwritten letters from a relative named Dorle. They are written in German, the pages are all mixed up, and the handwriting is hard to read.
 
@@ -13,7 +13,7 @@ The Dorle's Stories project acts like a helpful digital assistant. You give it t
 
 The final result is a perfectly organized digital library of your family's history, preserving the original stories for future generations.
 
-## Part 2: How It Works (From Photo to Story)
+## Part 2: How It Works, From Photo to Complete Translations
 
 The process works in a series of intelligent steps, much like a puzzle being put together.
 
@@ -28,7 +28,7 @@ To solve this, we give all of the transcribed text to a powerful AI (Google's Ge
 **Step 3: Translation and Final Document Creation**
 Once the pages are correctly grouped into letters, the AI assistant takes each complete German letter and translates it into English. Finally, it saves both the German and English versions as clean text files. It can also create professional-looking documents (using a system called LaTeX) that are ready to be turned into PDFs.
 
-## Part 3: Why It Works This Way (The "Special Sauce")
+## Part 3: Why It Works This Way
 
 You might wonder why we use a complex AI to sort the pages instead of just looking at the date on the photos.
 
@@ -41,6 +41,10 @@ This focus on the content ensures that the final, reconstructed letters are accu
 ## Part 4: Technical Overview
 
 This section provides the necessary technical details to run the pipeline.
+
+![The AI processing pipeline](mermaid-ai-diagram-2025-09-01-162852.png)
+
+*This diagram illustrates the automated workflow of the Dorle's Stories project. It begins with the input of handwritten letter images, which are then processed through a series of steps including Optical Character Recognition (OCR) to extract text, AI-powered semantic grouping to sort pages into letters, and finally, translation from German to English. The output is a set of organized, translated, and formatted documents, available as plain text, LaTeX files, and PDFs.*
 
 ### Prerequisites
 

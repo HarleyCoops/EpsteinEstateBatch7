@@ -1,8 +1,8 @@
 {
   "id": "L0004",
   "pages": [
-    "3409BD22-9140-4174-9839-128D92F7DE32_1_105_c"
+    "3409BD22-9140-4174-9839-128D92F7DE32"
   ],
-  "confidence": 0.5,
-  "reason": "This is a single, short page fragment starting with 'Liebe Mutter und Geschwister.' and describing a 'Zweiter Urlaubstag' in Montreal. It does not connect to any other pages and appears to be an incomplete letter or a postcard."
+  "confidence": 0.6,
+  "reason": "This is a single, short, fragmented page addressed to 'Liebe Mutter und Geschwister'. It mentions the second day of a vacation and a visit to St. Josef's Oratorium in Montreal. It could potentially be part of L0003, which also discusses a trip to Montreal, but the salutation is different ('Tante L' vs. 'Mutter und Geschwister'). Due to this conflict, it is grouped as a separate, incomplete letter."
 }
