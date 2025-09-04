@@ -1,0 +1,78 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "4FE2777C-371B-441D-9F94-AEB134FFC91B",
+        "173C44EF-059B-49DD-BE42-E190BC8BE842",
+        "CB731DE1-B831-4764-BEBF-25EE428EEEDB"
+      ],
+      "confidence": 0.9,
+      "reason": "Letter starts with 'Banff, Jan. 4/65' and is addressed to 'Liebe Mutter!'. The content across pages is consistent, discussing cold weather, children (Andri/André, Christopher), and life in Banff. Page CB731DE1-B831-4764-BEBF-25EE428EEEDB provides a logical continuation and closing ('Dein Dorli')."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "94B7E923-0331-4392-A40A-2B17E0FD21FD"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Bauff, Jan. 9/65' and addressed to 'Liebe Änneli!'."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "5637AD06-D22F-4BEC-8620-2D1C87BED9B8"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Banff, Jan 10, 65', addressed to 'Liebe Mutti!', and signed 'Dein Dolfi'."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "4ABE4F73-237F-4AE7-9ECB-D4368526FD94",
+        "18D1E2BC-AD4A-4FC3-B469-A3F408F68328",
+        "A277DB4B-5942-4B74-854E-8EDF3BBA7FD3"
+      ],
+      "confidence": 0.9,
+      "reason": "Letter starts with 'Banff, Feb. 16, 65' and is addressed to 'Lieber Walter!'. The pages discuss house renovations and improvements, which flow logically from one page to the next. The last page contains a closing ('Dein Onkel')."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "BD5316F2-E8E9-41B3-9D01-4C5836C08997"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Bauff, May 18/65' and addressed to 'Liebe Mutti!'. The repeated text is a scanning artifact."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "0F611AC0-F0EA-4E38-AE9D-5AFC451AAE98"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Vancouver, 13.6.65' and addressed to 'Liebe Mutti!'."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "BD0FFE5D-E205-41B9-9CA3-546C637C5B90"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Banff, July 20, 65' and addressed to 'Liebe Mutti!'."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "1111EF96-210A-473A-B209-1DB0C8177904"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Bruff, Aug. 14/65', addressed to 'Liebe Mutti!', and signed by 'Euer Sohn und Schwiegertochter...'"
+    }
+  ],
+  "unassigned_pages": [
+    "19C2BD05-DE41-42AC-AD8B-D15A9EF7AB81",
+    "1BA7AA9C-3402-4166-8713-2EBB3B55986D",
+    "51B12739-F08D-47B2-A336-F66597919B92",
+    "D48BF03C-585B-41DD-8AFB-059547FE6617"
+  ]
+}

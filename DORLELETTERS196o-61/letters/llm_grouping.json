@@ -1,0 +1,107 @@
+{
+  "letters": [
+    {
+      "id": "L0001",
+      "pages": [
+        "F18DF12A-3691-422F-9232-FE18A51C974E",
+        "8C92258F-E8A2-4C0A-9D44-DF4D50C4C1D6",
+        "5ACD021A-C9D6-4BB1-8037-91760AE9E4AF"
+      ],
+      "confidence": 1.0,
+      "reason": "The letter starts with a date 'Vancouver, Aug. 20, 60' and a salutation to 'Liebe Mutter'. The pages follow a logical sequence, discussing a bear encounter, then transitioning to climbing (Klettern), and finally mentioning friends Wilma and Edna. The second page ends mid-sentence and the third page continues it perfectly."
+    },
+    {
+      "id": "L0002",
+      "pages": [
+        "AEECF43F-0483-483A-B8D7-4DBC3E10BE74",
+        "803E716A-C0AF-4CE9-B26D-3E80A31888DE",
+        "D559E73D-534B-4539-A262-A18DB790C186",
+        "FFDEA82D-1344-48A1-880C-5B7C87568EEE"
+      ],
+      "confidence": 1.0,
+      "reason": "This letter starts with a clear date 'October 2/61' and salutation 'Liebe Mutter und Geschwister'. The content flows logically, describing a storm on the ship, fellow passengers, and then a detailed description of a farm ('Hof') belonging to the Betzel family, which continues across the last two pages."
+    },
+    {
+      "id": "L0003",
+      "pages": [
+        "1B8A478F-3B5B-44DC-9293-5091958B14AA",
+        "F2AD155B-C53B-40CD-9F39-FAC760DFB969"
+      ],
+      "confidence": 1.0,
+      "reason": "The first page is dated 'Vancouver Oct. 24/61' and addressed to 'Liebe Ulla'. It discusses skiing and a VW bus camper conversion. The second page continues the theme of life in Vancouver, mentioning a promotion at the bank and a fire in Los Angeles. The stationery and handwriting style are consistent."
+    },
+    {
+      "id": "L0004",
+      "pages": [
+        "F5AEA067-7094-4B39-9132-620583E81E0B",
+        "84C5C715-968C-48B5-92A2-DB920A275F5B",
+        "30271A6A-9431-4EBD-BCF9-BE731014AD5A"
+      ],
+      "confidence": 0.9,
+      "reason": "The letter begins with a date 'Nov. 3/61' and salutation 'Liebe Mutter'. It discusses returning to Vancouver, bank work, and ski patrol. The second page continues the ski patrol topic ('gebrochene Knochen'). The third page provides a fitting closing from 'Karl', who is also mentioned on the second page. The connection between the first and second pages is thematic but strong."
+    },
+    {
+      "id": "L0005",
+      "pages": [
+        "6F8DEFA9-CBE7-4A54-AEE6-0D0FE2ABA5E7",
+        "5C385286-CFB2-4EAD-9E37-DB905E9A9BED",
+        "EC80CB4E-EE5A-40ED-841D-F9A704478A1A"
+      ],
+      "confidence": 1.0,
+      "reason": "The letter starts by mentioning postponing a wedding until January and discusses finding a room in Vancouver. The second page continues this topic, describing the room and giving impressions of Germany from the ship journey. The third page continues these impressions and mentions joining a choir. The flow is very coherent."
+    },
+    {
+      "id": "L0006",
+      "pages": [
+        "D525ABCC-65EB-4754-9D1C-357132DB7A11",
+        "31D9821F-5499-4CCA-8217-E3001B660AFF",
+        "45D735B1-4F58-474F-9D61-224D0F2D2FBE"
+      ],
+      "confidence": 0.9,
+      "reason": "The first page is dated 'Vancouver Jan 4/62', addressed to 'Ulla', and mentions wedding preparations. The second page seems to continue a discussion, mentioning 'Karl' and a trip to the Okanagan valley. The third page continues the description of a dry, snake-infested region, which fits the description of the Okanagan. The connection is thematic."
+    },
+    {
+      "id": "L0007",
+      "pages": [
+        "056EE342-75F9-45D6-939B-81D72F3AF66A",
+        "AEEAD8A8-0DC7-4C0B-ACF1-5452D91C5551",
+        "A56D137D-DCCE-4A7B-87EF-0435D9697A00",
+        "CAE4675B-DEFA-43DE-8050-10CE24689C03"
+      ],
+      "confidence": 0.8,
+      "reason": "These pages all describe life and social dynamics at a bank. They mention the director, customers, and colleagues. The pages are clearly middle sections of a letter, but they share a very strong and specific thematic link, making it highly probable they belong together in this order."
+    },
+    {
+      "id": "L0008",
+      "pages": [
+        "D1C9B252-9C9A-4C05-9F75-A5E15C192650"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Vancouver, Dec. 19/60' and addressed to 'Liebe Ursel'. It contains Christmas and New Year wishes and is self-contained."
+    },
+    {
+      "id": "L0009",
+      "pages": [
+        "BD7B3B9E-CA85-49AD-BBF4-412B2CAA7F12"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'May 30, 61' and addressed to 'Liebe Mutter'. It is self-contained."
+    },
+    {
+      "id": "L0010",
+      "pages": [
+        "FF9C5BC8-D07B-4FA9-A358-F1CA71990E48"
+      ],
+      "confidence": 1.0,
+      "reason": "This is a complete, single-page letter dated 'Oct. 17/61' from the 'R.M.S. Westerdam', addressed to 'Liebes Anni' and signed 'Deine Mutter'."
+    }
+  ],
+  "unassigned_pages": [
+    "03B0DFDC-1BD1-419C-84C4-F6E9B1E6E357",
+    "0A72C676-4DA2-48FD-9F1A-19199D8CD4CC",
+    "831E0372-C770-4EAD-880C-539E859B7ABD",
+    "B44CAF96-90A7-456A-8613-A823A9D26FEF",
+    "DBD29CAE-72D8-4B9B-A85A-8099F69B0FB3",
+    "FCE4EF90-96D6-43AC-8948-046D7A26AAD0"
+  ]
+}
