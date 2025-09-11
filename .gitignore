@@ -58,3 +58,13 @@ logs/
 *.tmp
 *.temp
 temp/
+
+# Chinese pipeline outputs (ignore generated artifacts)
+chinese/chinese_output/
+chinese/english_output/
+chinese/letters/
+chinese/*.tex
+chinese/combined_english_translation.txt
+chinese/narrative_analysis_of_chinese_text.txt
+chinese/combined_english_for_google_docs.md
+chinese/combined_chinese_text.txt
