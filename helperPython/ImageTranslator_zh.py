@@ -29,6 +29,10 @@ parser.add_argument('--input-dir', type=str, help='Input directory containing im
 parser.add_argument('--output-base', type=str, help='Base directory for all outputs (default: current directory)')
 parser.add_argument('--chinese-output-dir', type=str, help='Chinese OCR output directory (default: {output-base}/chinese_output)')
 parser.add_argument('--english-output-dir', type=str, help='English translation output directory (default: {output-base}/english_output)')
+parser.add_argument('--force-translate', action='store_true', help='Re-translate all pages even if per-page English already exists')
+parser.add_argument('--force-combine', action='store_true', help='Recreate combined_english_translation.txt even if it exists')
+parser.add_argument('--start-image', type=int, default=None, help='Only process images with numeric id >= this (e.g., 6390 for IMG_6390)')
+parser.add_argument('--end-image', type=int, default=None, help='Only process images with numeric id <= this (e.g., 6450 for IMG_6450)')
 args = parser.parse_args()
 
 BASE_DIR = os.path.dirname(__file__)
@@ -248,12 +252,28 @@ def main():
         if f.lower().endswith(('.jpg', '.jpeg', '.png'))
     ]
 
+    import re
+    def extract_img_number(filename: str) -> int:
+        m = re.search(r"IMG_(\d+)", filename, re.IGNORECASE)
+        return int(m.group(1)) if m else -1
+
     def get_filenumber(filename):
-        name_part = os.path.splitext(filename)[0]
-        number_str = ''.join(filter(str.isdigit, name_part.split('_')[0]))
-        return int(number_str) if number_str.isdigit() else float('inf')
+        n = extract_img_number(filename)
+        return n if n >= 0 else float('inf')
 
     images = sorted(image_files_unsorted, key=get_filenumber)
+
+    # Optional range filter
+    if args.start_image is not None or args.end_image is not None:
+        filtered = []
+        for name in images:
+            num = extract_img_number(name)
+            if args.start_image is not None and num < args.start_image:
+                continue
+            if args.end_image is not None and num > args.end_image:
+                continue
+            filtered.append(name)
+        images = filtered
 
     if not images:
         print(f"No images found in input directory: {INPUT_DIR}")
@@ -289,7 +309,7 @@ def main():
         en_path = os.path.join(ENGLISH_OUTPUT_DIR, en_file)
         english_paths.append(en_path)
         print(f"[{i}/{len(images)}] {os.path.basename(zh_path)} → {en_file}")
-        if os.path.exists(en_path):
+        if os.path.exists(en_path) and not args.force_translate:
             print(f"  Skipping translation (exists): {en_file}")
             continue
         try:
@@ -310,7 +330,7 @@ def main():
 
     # Phase 3: Combine English
     combined_english_output = os.path.join(COMBINED_OUTPUT_DIR, 'combined_english_translation.txt')
-    if os.path.exists(combined_english_output):
+    if os.path.exists(combined_english_output) and not args.force_combine:
         print(f"\nSkipping combine (exists): {combined_english_output}")
     else:
         print("\n--- Phase 3: Combining English Texts ---")

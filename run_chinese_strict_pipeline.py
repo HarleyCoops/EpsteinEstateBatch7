@@ -51,8 +51,9 @@ def main() -> None:
     py = sys.executable
 
     # Step 1: OCR + deterministic grouping + assemble zh.txt
+    # Run as a module so package imports (helperPython.*) resolve correctly
     cmd_strict = [
-        py, "helperPython/pipeline_strict_zh.py",
+        py, "-m", "helperPython.pipeline_strict_zh",
         "--input-dir", images_dir,
         "--chinese-dir", chinese_dir,
         "--letters-dir", letters_dir,
@@ -78,4 +79,3 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
-
