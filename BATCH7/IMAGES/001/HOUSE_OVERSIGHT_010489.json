@@ -2,32 +2,32 @@
   "file_name": "HOUSE_OVERSIGHT_010489.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a document containing four photographs with corresponding captions. The top left photo shows Jeffrey Epstein with Ghislaine Maxwell. The top right photo shows Jeffrey Epstein with Adrianna Ross. The middle photo is a booking photo of Jeffrey Epstein. The bottom photo is an aerial view of a facility called The Stockade. A document identifier is present at the bottom of the page.",
-    "layout": "The page is arranged in a four-quadrant style with images and text. An image of Epstein and Maxwell is in the upper left with a caption below it. An image of Epstein and Ross is in the upper right with a caption to its left. A booking photo of Epstein is in the middle right with a caption below it. An aerial photo of a facility is in the lower left with a caption to its right. A document number is centered at the very bottom.",
+    "description": "A scanned page from a document, featuring a collage of four photographs with corresponding captions. The photographs depict Jeffrey Epstein with various individuals, a booking photo, and an aerial view of a correctional facility. The page has a footer with a document identifier. A portion of a green binder or book cover is visible on the left side of the page.",
+    "layout": "The page is arranged in a collage style with four distinct photo-and-caption blocks. A photo of Epstein and Ghislaine Maxwell is in the top right. A photo of Epstein and Adrianna Ross is in the middle left. A booking photo of Epstein is in the middle right. An aerial photo of 'The Stockade' is at the bottom. A document identifier is centered at the very bottom of the page.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "On the day the police investigation\nbegan, Epstein was photographed\nwith Ghislaine Maxwell in New York\nCity at the 2005 Wall Street concert\nseries benefiting Wall Street Rising,\nat Cipriani in New York City, March\n15, 2005. (Joe Shildhorn / Patrick\nMcMullen)\n\nJeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)\n\n2008 Palm Beach County Sheriff's Office\nbooking photo of Jeffrey Epstein (Palm\nBeach County Sheriff's Office)\n\nThe Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)\n\nHOUSE_OVERSIGHT_010489",
+    "full_text": "On the day the police investigation began, Epstein was photographed with Ghislaine Maxwell in New York City at the 2005 Wall Street concert series benefiting Wall Street Rising, at Cipriani in New York City, March 15, 2005. (Joe Shildhorn / Patrick McMullen)\n\nJeffrey Epstein, photographed with Adrianna Ross, attending the launch of Radar magazine held at the Hotel QT in New York City, May 2005 (Neil Rasmus / PatrickMcMullan.com / Sipa Press)\n\n2008 Palm Beach County Sheriff's Office booking photo of Jeffrey Epstein (Palm Beach County Sheriff's Office)\n\nThe Stockade, where Epstein served his sentence, photographed here in 2006, was located at 673 Fairgrounds Road in West Palm Beach, Florida. At the time, it was used as a minimum- and medium-security facility housing women and juveniles, as well as male inmates on a work-release program. (Smith Aerial Photos)\n\nHOUSE_OVERSIGHT_010489",
     "text_regions": [
       {
         "region": "caption",
-        "text": "On the day the police investigation\nbegan, Epstein was photographed\nwith Ghislaine Maxwell in New York\nCity at the 2005 Wall Street concert\nseries benefiting Wall Street Rising,\nat Cipriani in New York City, March\n15, 2005. (Joe Shildhorn / Patrick\nMcMullen)",
+        "text": "On the day the police investigation began, Epstein was photographed with Ghislaine Maxwell in New York City at the 2005 Wall Street concert series benefiting Wall Street Rising, at Cipriani in New York City, March 15, 2005. (Joe Shildhorn / Patrick McMullen)",
         "type": "printed"
       },
       {
         "region": "caption",
-        "text": "Jeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)",
+        "text": "Jeffrey Epstein, photographed with Adrianna Ross, attending the launch of Radar magazine held at the Hotel QT in New York City, May 2005 (Neil Rasmus / PatrickMcMullan.com / Sipa Press)",
         "type": "printed"
       },
       {
         "region": "caption",
-        "text": "2008 Palm Beach County Sheriff's Office\nbooking photo of Jeffrey Epstein (Palm\nBeach County Sheriff's Office)",
+        "text": "2008 Palm Beach County Sheriff's Office booking photo of Jeffrey Epstein (Palm Beach County Sheriff's Office)",
         "type": "printed"
       },
       {
         "region": "caption",
-        "text": "The Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)",
+        "text": "The Stockade, where Epstein served his sentence, photographed here in 2006, was located at 673 Fairgrounds Road in West Palm Beach, Florida. At the time, it was used as a minimum- and medium-security facility housing women and juveniles, as well as male inmates on a work-release program. (Smith Aerial Photos)",
         "type": "printed"
       },
       {
@@ -55,11 +55,12 @@
     ],
     "organizations": [
       "Wall Street Rising",
-      "Radar magazine",
       "PatrickMcMullan.com",
       "Sipa Press",
       "Palm Beach County Sheriff's Office",
-      "Smith Aerial Photos"
+      "Radar magazine",
+      "Smith Aerial Photos",
+      "House Oversight"
     ],
     "locations": [
       "New York City",
@@ -84,7 +85,7 @@
     "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "photo_compilation",
+    "document_type": "photo_collage",
     "sender": null,
     "recipient": null,
     "subject": "Photographs related to Jeffrey Epstein, including associates, a booking photo, and a correctional facility.",
@@ -98,11 +99,11 @@
     "structured_data": 0.98,
     "overall": 0.98
   },
-  "notes": "The document appears to be an exhibit or informational page, possibly from a report, compiling various photographs related to Jeffrey Epstein's activities and legal issues between 2005 and 2008.",
+  "notes": "The document appears to be an exhibit or part of a report, given the collection of captioned photos and the 'HOUSE_OVERSIGHT' identifier.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010489.jpg",
   "house_oversight_id": "010489",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:45:41.175719Z",
+    "processed_at": "2025-11-13T23:55:18.136610Z",
     "model": "gemini-2.5-pro"
   }
 }

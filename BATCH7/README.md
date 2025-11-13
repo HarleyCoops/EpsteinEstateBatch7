@@ -137,6 +137,29 @@ See `TASK_BREAKDOWN.md` for verbose 21-step implementation plan covering:
 - Provenance and Aggregation (7 steps)  
 - Token/Runtime Optimization (7 steps)
 
+## Auto-Commit Webhook
+
+The pipeline includes an automatic commit system that runs every 30 minutes to commit changes with verbose, time-stamped messages describing the latest findings.
+
+### Quick Setup
+
+```powershell
+# Test first (dry run)
+python BATCH7/auto_commit_webhook.py --dry-run --once
+
+# Set up Windows Task Scheduler (run as Administrator)
+cd BATCH7
+.\setup_webhook_scheduler.ps1
+```
+
+The webhook automatically:
+- Detects git changes in outputs
+- Analyzes JSON files to extract key findings
+- Generates verbose commit messages with statistics
+- Commits and pushes to remote repository
+
+See `WEBHOOK_SETUP.md` for detailed setup instructions and `WEBHOOK_QUICKSTART.md` for quick reference.
+
 ## Notes
 
 - The pipeline uses Gemini 2.5 Pro Flash for all LLM operations

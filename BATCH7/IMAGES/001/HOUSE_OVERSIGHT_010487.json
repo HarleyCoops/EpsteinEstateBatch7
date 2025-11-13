@@ -2,8 +2,8 @@
   "file_name": "HOUSE_OVERSIGHT_010487.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a publication, likely a book or magazine, featuring four color photographs with accompanying captions. The page has a dark green border on the left side and a document identification number at the bottom.",
-    "layout": "The page is arranged vertically with four photographs, each followed by a caption block. The document number is centered at the very bottom of the page.",
+    "description": "A scanned page from a book or magazine containing four color photographs, each with a descriptive caption. The photographs depict various public figures at different events and times. A document identification number is visible at the bottom of the page.",
+    "layout": "The page is arranged vertically with four photo-caption blocks stacked from top to bottom. The document number is centered in the footer area.",
     "quality": "medium",
     "orientation": "portrait"
   },
@@ -61,8 +61,7 @@
       "YIVO Institute",
       "Davidoff Studios",
       "Trump Model",
-      "Victoria's Secret",
-      "House Oversight"
+      "Victoria's Secret Angels"
     ],
     "locations": [
       "New York City",
@@ -87,10 +86,10 @@
     ]
   },
   "document_metadata": {
-    "document_type": "photograph",
+    "document_type": "photo",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs of Jeffrey Epstein and associates at various events from 1989 to 1997.",
+    "subject": "A collection of four photographs with captions depicting Jeffrey Epstein and other individuals at various events between 1989 and 1997.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010487"
@@ -98,14 +97,14 @@
   },
   "confidence": {
     "text_extraction": 0.99,
-    "structured_data": 0.99,
-    "overall": 0.99
+    "structured_data": 0.98,
+    "overall": 0.98
   },
-  "notes": "The image is a page from a publication that has been entered into the record for the House Oversight Committee, as indicated by the Bates stamp at the bottom.",
+  "notes": "The image is a page from a publication, likely a book or magazine, that has been entered into evidence or documentation for the House Oversight Committee, as indicated by the Bates stamp at the bottom.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010487.jpg",
   "house_oversight_id": "010487",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:44:50.611924Z",
+    "processed_at": "2025-11-13T23:54:31.692899Z",
     "model": "gemini-2.5-pro"
   }
 }

@@ -2,8 +2,8 @@
   "file_name": "HOUSE_OVERSIGHT_010477.jpg",
   "image_analysis": {
     "type": "photograph",
-    "description": "A photograph of the front cover of the book 'Filthy Rich' by James Patterson. The cover features a stylized, pixelated image of a man's face, presumably Jeffrey Epstein. The title and author information are prominently displayed. A white piece of paper partially obscures the top left corner of the image. The image appears to be a scan or photo of a physical book.",
-    "layout": "The book cover is centrally framed. The primary author's name is at the top, followed by co-authors, the main title in a large font, and a descriptive subtitle at the bottom. A document identifier is present in the footer area of the image.",
+    "description": "A photograph of the cover of the book 'Filthy Rich' by James Patterson. The cover features a stylized, close-up image of a man's face with a halftone dot pattern. The title is prominently displayed in a black box. The image is part of a collection of documents, as indicated by the Bates stamp at the bottom.",
+    "layout": "The book cover has the primary author's name at the top, followed by co-authors, the main title in the center, and a descriptive tagline at the bottom. A Bates stamp is present at the very bottom of the page, below the book cover image.",
     "quality": "medium",
     "orientation": "portrait"
   },
@@ -11,8 +11,23 @@
     "full_text": "JAMES\nPATTERSON\n& JOHN CONNOLLY WITH TIM MALLOY\n\nFILTHY\nRICH\n\nA POWERFUL BILLIONAIRE,\nTHE SEX SCANDAL THAT UNDID HIM, AND ALL\nTHE JUSTICE THAT MONEY CAN BUY:\nTHE SHOCKING TRUE STORY OF JEFFREY EPSTEIN\n\nHOUSE_OVERSIGHT_010477",
     "text_regions": [
       {
-        "region": "book_cover",
-        "text": "JAMES\nPATTERSON\n& JOHN CONNOLLY WITH TIM MALLOY\n\nFILTHY\nRICH\n\nA POWERFUL BILLIONAIRE,\nTHE SEX SCANDAL THAT UNDID HIM, AND ALL\nTHE JUSTICE THAT MONEY CAN BUY:\nTHE SHOCKING TRUE STORY OF JEFFREY EPSTEIN",
+        "region": "book_author",
+        "text": "JAMES\nPATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "book_coauthors",
+        "text": "& JOHN CONNOLLY WITH TIM MALLOY",
+        "type": "printed"
+      },
+      {
+        "region": "book_title",
+        "text": "FILTHY\nRICH",
+        "type": "printed"
+      },
+      {
+        "region": "book_tagline",
+        "text": "A POWERFUL BILLIONAIRE,\nTHE SEX SCANDAL THAT UNDID HIM, AND ALL\nTHE JUSTICE THAT MONEY CAN BUY:\nTHE SHOCKING TRUE STORY OF JEFFREY EPSTEIN",
         "type": "printed"
       },
       {
@@ -31,7 +46,7 @@
       "JEFFREY EPSTEIN"
     ],
     "organizations": [
-      "House Oversight"
+      "HOUSE_OVERSIGHT"
     ],
     "locations": [],
     "document_numbers": [
@@ -52,7 +67,7 @@
     "document_type": "photograph",
     "sender": null,
     "recipient": null,
-    "subject": "Book Cover: 'Filthy Rich' by James Patterson about Jeffrey Epstein",
+    "subject": "Book Cover: 'Filthy Rich: The Shocking True Story of Jeffrey Epstein'",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010477"
@@ -63,11 +78,11 @@
     "structured_data": 1.0,
     "overall": 1.0
   },
-  "notes": "The image is a photograph of a book cover, likely submitted as evidence or for reference in a House Oversight Committee file.",
+  "notes": "The image is a photograph of a book cover that has been submitted as part of the House Oversight Committee's records. The book is about Jeffrey Epstein.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010477.jpg",
   "house_oversight_id": "010477",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:40:32.217053Z",
+    "processed_at": "2025-11-13T23:50:32.636721Z",
     "model": "gemini-2.5-pro"
   }
 }

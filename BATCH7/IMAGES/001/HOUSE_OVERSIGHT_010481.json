@@ -1,9 +1,9 @@
 {
   "file_name": "HOUSE_OVERSIGHT_010481.jpg",
   "image_analysis": {
-    "type": "document",
-    "description": "A photograph of a page from a book or report, featuring four images with corresponding captions. The images include two photos of Jeffrey Epstein at events, one booking photo of him, and an aerial view of a correctional facility. The page has a document control number at the bottom.",
-    "layout": "The page is arranged with four distinct image-and-caption blocks. A photo of Epstein and Ghislaine Maxwell is at the top right. Below it is Epstein's booking photo. On the left side, there is a photo of Epstein at an event (with another person's face redacted), and below that is an aerial photo of a facility. Each image has a caption next to or below it. A document number is centered at the very bottom of the page.",
+    "type": "photograph",
+    "description": "A photograph of a single page from a printed document, likely a magazine or report. The page features four photographs with corresponding captions. The top-right photo shows a man and a woman embracing. The middle-left photo shows a man in a dark sweater, with another person's face redacted by a black box. The middle-right photo is a booking photo of a man. The bottom-left photo is an aerial view of a large complex of buildings. A document identifier is visible at the bottom of the page.",
+    "layout": "The page has a multi-image layout with text captions associated with each image. The images are arranged in a staggered, two-column format.",
     "quality": "medium",
     "orientation": "portrait"
   },
@@ -55,18 +55,20 @@
     ],
     "organizations": [
       "Wall Street Rising",
-      "Patrick-McMullan.com",
+      "Cipriani",
+      "PatrickMcMullen.com",
       "Sipa Press",
-      "Palm Beach County Sheriff's Office",
-      "Smith Aerial Photos",
       "Radar magazine",
+      "Hotel QT",
+      "Palm Beach County Sheriff's Office",
+      "The Stockade",
+      "Smith Aerial Photos",
       "House Oversight"
     ],
     "locations": [
       "New York City",
-      "Cipriani",
-      "Hotel QT",
-      "The Stockade",
+      "Cipriani in New York City",
+      "Hotel QT in New York City",
       "673 Fairgrounds Road in West Palm Beach, Florida"
     ],
     "document_numbers": [
@@ -84,10 +86,10 @@
     "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "photograph",
+    "document_type": "photo_collage",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs and descriptions related to Jeffrey Epstein, including events in 2005, a 2008 booking photo, and the facility where he served his sentence.",
+    "subject": "Photographs and events related to Jeffrey Epstein from 2005 to 2008.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010481"
@@ -98,11 +100,11 @@
     "structured_data": 0.99,
     "overall": 0.98
   },
-  "notes": "The image is a page from a larger document, identified by the Bates number 'HOUSE_OVERSIGHT_010481'. One of the photographs has a person's face redacted with a black box, and the corresponding name in the caption is also obscured.",
+  "notes": "The image is a photograph of a page from a larger document. One of the photographs has a person's face and a name in the caption redacted with a black box. The final word in the last caption is partially obscured but appears to be 'Smith'.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010481.jpg",
   "house_oversight_id": "010481",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:42:11.001440Z",
+    "processed_at": "2025-11-13T23:52:04.117673Z",
     "model": "gemini-2.5-pro"
   }
 }

@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010490.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a printed document, likely a report or book, featuring a collage of seven photographs with corresponding captions. The images depict Jeffrey Epstein in various contexts: with associates, at a courthouse, his mugshot, his jail cell, the jail facility, his private island, and his sex offender registry entry. The overall theme relates to Epstein's legal issues and properties.",
-    "layout": "The page is arranged in a multi-panel layout, similar to a magazine or photo essay. Images and text captions are placed in a grid-like structure. A document identifier is located at the bottom right corner.",
+    "description": "A scanned page from a book or report, featuring a collage of seven photographs with corresponding captions related to Jeffrey Epstein. The images include portraits of Epstein with others, a jail cell, a courthouse scene, an aerial view of a building, an aerial view of an island, and a screenshot of a sex offender registry entry. A document identifier is visible at the bottom right.",
+    "layout": "A multi-panel collage layout with images and text blocks distributed across the page. Each image is accompanied by a caption explaining its context.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "igation\nraphed\nw York\nconcert\nRising,\n, March\nPatrick\nMullen)\n\nEpstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)\n\nCOURTHO[unclear: USE]\n\nJeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)\n\nff's Office\nin (Palm\nff's Office)\n\nJeffrey Epstein's entry in\nthe National Sex Offender\nRegistry (National Sex\nOffender Registry)\n\nThe Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)\n\nEpstein's Little Saint James\nisland, U.S. Virgin Islands: a\nprivately owned cay (nicknamed\nLittle Saint Jeff's) whose owner\nlocals affectionately refer to\nas Richie Rich (© Chris Bott /\nSplash News / Corbis)\n\nHOUSE_OVERSIGHT_010490",
+    "full_text": "igation\nraphed\nw York\nconcert\nRising,\n, March\nPatrick\nMullen)\n\nEpstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)\n\nCOURTHO\n\nJeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)\n\nEpstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)\n\nJeffrey Epstein's entry in\nthe National Sex Offender\nRegistry (National Sex\nOffender Registry)\n\nff's Office\nin (Palm\nff's Office)\n\nThe Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)\n\nEpstein's Little Saint James\nisland, U.S. Virgin Islands: a\nprivately owned cay (nicknamed\nLittle Saint Jeff's) whose owner\nlocals affectionately refer to\nas Richie Rich (© Chris Bott /\nSplash News / Corbis)\n\nHOUSE_OVERSIGHT_010490",
     "text_regions": [
       {
         "region": "caption",
@@ -21,13 +21,8 @@
         "type": "printed"
       },
       {
-        "region": "signage",
-        "text": "COURTHO[unclear: USE]",
-        "type": "printed"
-      },
-      {
-        "region": "caption",
-        "text": "Epstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)",
+        "region": "label",
+        "text": "COURTHO",
         "type": "printed"
       },
       {
@@ -37,12 +32,17 @@
       },
       {
         "region": "caption",
-        "text": "ff's Office\nin (Palm\nff's Office)",
+        "text": "Epstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)",
         "type": "printed"
       },
       {
         "region": "caption",
         "text": "Jeffrey Epstein's entry in\nthe National Sex Offender\nRegistry (National Sex\nOffender Registry)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "ff's Office\nin (Palm\nff's Office)",
         "type": "printed"
       },
       {
@@ -65,17 +65,17 @@
   "structured_data": {
     "dates": [
       "2005-05",
-      "2008-06",
-      "2006"
+      "2006",
+      "2008-06"
     ],
     "people": [
       "Jeffrey Epstein",
+      "Patrick Mullen",
       "Adrianna Ross",
       "Neil Rasmus",
-      "Patrick McMullan",
       "Uma Sanghvi",
-      "Chris Bott",
-      "Richie Rich"
+      "Richie Rich",
+      "Chris Bott"
     ],
     "organizations": [
       "CDC Special Management",
@@ -89,13 +89,14 @@
       "Smith Aerial Photos",
       "Splash News",
       "Corbis",
-      "House Oversight Committee"
+      "House Oversight"
     ],
     "locations": [
+      "New York",
       "Palm Beach County Stockade",
-      "Hotel QT, New York City",
+      "Hotel QT in New York City",
       "West Palm Beach courthouse",
-      "The Stockade, 673 Fairgrounds Road, West Palm Beach, Florida",
+      "The Stockade, 673 Fairgrounds Road in West Palm Beach, Florida",
       "Little Saint James island, U.S. Virgin Islands"
     ],
     "document_numbers": [
@@ -116,22 +117,22 @@
     "document_type": "photo collage",
     "sender": null,
     "recipient": null,
-    "subject": "Photographic summary related to Jeffrey Epstein's legal cases and properties.",
+    "subject": "Photographic summary related to Jeffrey Epstein's activities, properties, and legal issues.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010490"
     ]
   },
   "confidence": {
-    "text_extraction": 0.98,
-    "structured_data": 0.99,
-    "overall": 0.98
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
   },
-  "notes": "The document is a single page from a larger collection, as indicated by the page number 'HOUSE_OVERSIGHT_010490'. Several captions are incomplete, suggesting they continue from or to adjacent pages. The text within the screenshot of the sex offender registry is too blurry to be transcribed accurately.",
+  "notes": "The image is a single page from a larger document, likely a report or book. Some text in the top-left caption is cut off. The text within the screenshot of the sex offender registry is too blurry to be transcribed accurately.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010490.jpg",
   "house_oversight_id": "010490",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:46:09.981138Z",
+    "processed_at": "2025-11-13T23:55:44.761981Z",
     "model": "gemini-2.5-pro"
   }
 }

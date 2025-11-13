@@ -1,14 +1,14 @@
 {
   "file_name": "HOUSE_OVERSIGHT_010479.jpg",
   "image_analysis": {
-    "type": "document",
-    "description": "A scanned page from a publication, likely a magazine or book, featuring four photographs with accompanying captions. The photographs depict various public figures at different events over several years. Some individuals in the photos and names in the captions have been redacted with black boxes. The page has a document identifier at the bottom.",
-    "layout": "The page is laid out in a single column. It features four distinct photographs, each paired with a text caption to its right or below it. The content is arranged vertically down the page.",
+    "type": "photograph",
+    "description": "A photograph of a page from a book or magazine, featuring four distinct photographs with accompanying captions. The page has a document identifier at the bottom. The photographs depict various individuals at different events over several years. Some faces in the photographs have been redacted with black boxes.",
+    "layout": "The page is laid out vertically with four photographs. The first is at the top, followed by three more below it. Captions are placed next to or below each photograph. A document number is printed in the bottom right corner.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)\n\n(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)\n\n(L to R) [REDACTED], Jeffrey Epstein,\nGhislaine Maxwell, and\n[REDACTED] attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nJeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) [REDACTED]\n[REDACTED] attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)\n\nHOUSE_OVERSIGHT_010479",
+    "full_text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)\n\n(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)\n\n(L to R)\nJeffrey Epstein,\nGhislaine Maxwell, and\nattend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nJeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model)\nattending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)\n\nHOUSE_OVERSIGHT_010479",
     "text_regions": [
       {
         "region": "caption",
@@ -22,12 +22,12 @@
       },
       {
         "region": "caption",
-        "text": "(L to R) [REDACTED], Jeffrey Epstein,\nGhislaine Maxwell, and\n[REDACTED] attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
+        "text": "(L to R)\nJeffrey Epstein,\nGhislaine Maxwell, and\nattend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
         "type": "printed"
       },
       {
         "region": "caption",
-        "text": "Jeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) [REDACTED]\n[REDACTED] attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)",
+        "text": "Jeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model)\nattending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)",
         "type": "printed"
       },
       {
@@ -58,7 +58,7 @@
       "YIVO Institute",
       "Davidoff Studios",
       "Trump Model",
-      "Victoria's Secret Angels"
+      "Victoria's Secret"
     ],
     "locations": [
       "New York City",
@@ -73,7 +73,9 @@
     "contact_info": {
       "phone_numbers": [],
       "email_addresses": [],
-      "addresses": []
+      "addresses": [
+        "New York City"
+      ]
     },
     "signatures": [],
     "stamps_or_markings": [
@@ -81,7 +83,7 @@
     ]
   },
   "document_metadata": {
-    "document_type": "photograph_collection",
+    "document_type": "photograph",
     "sender": null,
     "recipient": null,
     "subject": "Photographs of Leslie Wexner, Jeffrey Epstein, Ghislaine Maxwell, Donald Trump, and others at various events between 1989 and 1997.",
@@ -95,11 +97,11 @@
     "structured_data": 0.99,
     "overall": 0.98
   },
-  "notes": "The document is a page containing four photographs with captions. Several names and faces in the third and fourth photographs/captions have been redacted with black boxes, making the identification of those individuals impossible from this image alone.",
+  "notes": "The image is a scan of a page containing multiple photographs. Several names and faces in the captions and photos have been redacted with black boxes. The text within the captions provides context for each photograph, including names of individuals, locations, dates, and events.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010479.jpg",
   "house_oversight_id": "010479",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:41:22.912891Z",
+    "processed_at": "2025-11-13T23:51:19.494130Z",
     "model": "gemini-2.5-pro"
   }
 }

@@ -1,23 +1,18 @@
 {
   "file_name": "HOUSE_OVERSIGHT_010486.jpg",
   "image_analysis": {
-    "type": "photograph",
-    "description": "A photograph of a two-page spread from a book or report. The left page contains printed text, with the page number 150 at the bottom. The right page features four photographs related to Jeffrey Epstein, each with a caption. The photographs include an aerial view of a waterfront property, a group of three young women, a yearbook photo of a young man, and a photo of a young man on a beach. A document identifier is visible at the bottom right corner.",
-    "layout": "Two-page spread. The left page is a single column of text. The right page has a multi-image layout with captions placed near the corresponding images.",
+    "type": "document",
+    "description": "A photograph of a page from a book or report. The left side of the page contains printed text. The right side of the page features four photographs with corresponding captions. The photographs include an aerial view of a waterfront property, a group of three young women, a black and white yearbook photo of a young man, and a color photo of a young man on a beach. A page number is visible at the bottom left, and a document identifier is at the bottom right.",
+    "layout": "Two-column layout. The left column is a block of text. The right column is a collection of images with captions.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "TERSON\n\nI don't see what it adds to the\npy.”\nestigation had taken place, that\nBut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\nd to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nn in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\nleone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\numed eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet...but the\nvisitors who painted it. In any case,\n\n150\n\nEpstein's Palm Beach\nproperty, 358 El Brillo\nWay (© Chris Bott /\nSplash News / Corbis)\n\nOne of the photographs\ncaptured on video during the\nPalm Beach Police Department\nsearch warrant walk-through\nof Epstein's El Brillo Way\nresidence (Palm Beach Police\nDepartment)\n\nJeffrey Epstein's 1969 high school\nyearbook photo (Lafayette High\nSchool, Brooklyn, New York, 1969)\n\nJeffrey Epstein, Coney Island,\ncirca 1969 (Anonymous)\n\nHOUSE_OVERSIGHT_010486",
+    "full_text": "TERSON\n\nI don't see what it adds to the\npy.”\nestigation had taken place, that\nBut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\nd to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nen in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\neone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\numed eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet…but the\nvisitors who painted it. In any case,\n\n150\n\nEpstein's Palm Beach\nproperty, 358 El Brillo\nWay (© Chris Bott /\nSplash News / Corbis)\n\nOne of the photographs\ncaptured on video during the\nPalm Beach Police Department\nsearch warrant walk-through\nof Epstein's El Brillo Way\nresidence (Palm Beach Police\nDepartment)\n\nJeffrey Epstein's 1969 high school\nyearbook photo (Lafayette High\nSchool, Brooklyn, New York, 1969)\n\nJeffrey Epstein, Coney Island,\ncirca 1969 (Anonymous)\n\nHOUSE_OVERSIGHT_010486",
     "text_regions": [
       {
         "region": "body",
-        "text": "TERSON\n\nI don't see what it adds to the\npy.”\nestigation had taken place, that\nBut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\nd to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nn in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\nleone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\numed eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet...but the\nvisitors who painted it. In any case,",
-        "type": "printed"
-      },
-      {
-        "region": "footer",
-        "text": "150",
+        "text": "TERSON\n\nI don't see what it adds to the\npy.”\nestigation had taken place, that\nBut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\nd to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nen in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\neone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\numed eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet…but the\nvisitors who painted it. In any case,",
         "type": "printed"
       },
       {
@@ -42,6 +37,11 @@
       },
       {
         "region": "footer",
+        "text": "150",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
         "text": "HOUSE_OVERSIGHT_010486",
         "type": "printed"
       }
@@ -55,7 +55,6 @@
     "people": [
       "Epstein",
       "Ward",
-      "leone",
       "Jean Dubuffet",
       "Chris Bott",
       "Jeffrey Epstein"
@@ -64,16 +63,17 @@
       "Splash News",
       "Corbis",
       "Palm Beach Police Department",
-      "Lafayette High School"
+      "Lafayette High School",
+      "House Oversight"
     ],
     "locations": [
+      "Palm Beach",
+      "358 El Brillo Way",
       "Times Square",
       "New York City",
       "England",
-      "Palm Beach",
-      "358 El Brillo Way",
-      "Brooklyn, New York",
-      "Coney Island"
+      "Coney Island",
+      "Brooklyn, New York"
     ],
     "document_numbers": [
       "HOUSE_OVERSIGHT_010486"
@@ -87,30 +87,28 @@
       ]
     },
     "signatures": [],
-    "stamps_or_markings": [
-      "HOUSE_OVERSIGHT_010486"
-    ]
+    "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "photograph",
+    "document_type": "page from a report or book",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs and text related to Jeffrey Epstein",
+    "subject": "Jeffrey Epstein, including his property in Palm Beach, his personal history, and rumors surrounding him.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010486"
     ]
   },
   "confidence": {
-    "text_extraction": 0.9,
-    "structured_data": 0.95,
-    "overall": 0.92
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
   },
-  "notes": "The text on the left page is partially cut off along the left margin, making some words incomplete. The document appears to be a page from a book that has been included in the House Oversight Committee's records.",
+  "notes": "The text on the left page is partially cut off at the left margin, leading to incomplete words and sentences.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010486.jpg",
   "house_oversight_id": "010486",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:44:28.186023Z",
+    "processed_at": "2025-11-13T23:54:11.276030Z",
     "model": "gemini-2.5-pro"
   }
 }

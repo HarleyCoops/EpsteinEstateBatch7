@@ -1,14 +1,14 @@
 {
   "file_name": "HOUSE_OVERSIGHT_010483.jpg",
   "image_analysis": {
-    "type": "document",
-    "description": "A photograph of a page from a book or magazine. The page features four distinct photographs, each accompanied by a descriptive caption. The top photo shows a black private jet on an airstrip. The middle-left photo is a close-up of the jet's cockpit. The middle-right photo shows two men, identified as Prince Andrew and Jeffrey Epstein, walking together. The bottom photo shows several people, including Stephen Hawking, inside a submarine. A small, framed, autographed photo is visible on the top right. The page has a footer with a document number.",
-    "layout": "The page is laid out with multiple images and corresponding text blocks. A large photo of a jet is at the top. Below it are two smaller photos side-by-side: a cockpit close-up on the left and two men walking on the right. A larger photo of the interior of a submarine is at the bottom. Captions are placed next to or below their respective images. A document identifier is present at the bottom center of the page.",
+    "type": "photograph",
+    "description": "A photograph of a page from a book or magazine. The page features four main photographs with accompanying captions, and a fifth partially visible framed photo. The top photo shows a black private jet on an airstrip. The second photo is a close-up of a jet's cockpit. The third shows two men, identified as Prince Andrew and Jeffrey Epstein, walking together. The fourth shows Stephen Hawking in a wheelchair inside a submarine. A partially visible framed photo with a handwritten note is on the top right. The page has a document identifier at the bottom.",
+    "layout": "The page has a multi-image layout with text captions associated with each photograph. The images and text are arranged in a collage-like fashion.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)\n\nSecret -\nyou're aw\n\nEpstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)\n\nWhen Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)\n\nStephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\na workshop to explore fundamental\nquestions in physics and cosmology,\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz-\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)\n\nN\nTaglia\nDavies\nYor\nBall.\n\nHOUSE_OVERSIGHT_010483",
+    "full_text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)\n\nSecret -\nyou're m[y]\n\nEpstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)\n\nWhen Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)\n\nStephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\na workshop to explore fundamental\nquestions in physics and cosmology,\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz-\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)\n\nN\nTaglia\nDavies\nYor\nBall.\n\nHOUSE_OVERSIGHT_010483",
     "text_regions": [
       {
         "region": "caption",
@@ -37,7 +37,7 @@
       },
       {
         "region": "annotation",
-        "text": "Secret -\nyou're aw",
+        "text": "Secret -\nyou're m[y]",
         "type": "handwritten"
       },
       {
@@ -61,7 +61,7 @@
       "Jae Donnelly",
       "Prince Andrew",
       "Stephen Hawking",
-      "N Taglia",
+      "Taglia",
       "Davies",
       "Yor",
       "Ball"
@@ -94,7 +94,7 @@
       "addresses": []
     },
     "signatures": [
-      "Secret - you're aw"
+      "Secret - you're m[y]"
     ],
     "stamps_or_markings": [
       "HOUSE_OVERSIGHT_010483"
@@ -104,7 +104,7 @@
     "document_type": "photo",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs and captions related to Jeffrey Epstein, his associates, and activities.",
+    "subject": "Photographs related to Jeffrey Epstein, featuring his plane, Prince Andrew, and Stephen Hawking.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010483"
@@ -115,11 +115,11 @@
     "structured_data": 0.97,
     "overall": 0.97
   },
-  "notes": "The image is a photograph of a page from a publication, not an original document. Some text, particularly a list of names on the far right and a handwritten note, is partially cut off.",
+  "notes": "The image is a photograph of a page from a publication, likely a book or magazine, not an original document. The text consists of captions for the various photographs shown. Some text on the right margin and in the handwritten note is partially cut off.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010483.jpg",
   "house_oversight_id": "010483",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:43:07.693997Z",
+    "processed_at": "2025-11-13T23:52:57.969661Z",
     "model": "gemini-2.5-pro"
   }
 }

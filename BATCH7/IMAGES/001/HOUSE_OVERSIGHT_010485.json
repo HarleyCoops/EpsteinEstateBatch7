@@ -2,8 +2,8 @@
   "file_name": "HOUSE_OVERSIGHT_010485.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a publication, possibly a magazine or book, featuring four photographs with captions. The page is part of a larger document, as indicated by the footer. The content appears to be related to individuals connected to or involved in events surrounding Jeffrey Epstein. Some names in the captions have been redacted with black boxes.",
-    "layout": "The page has a multi-element layout. The left two-thirds of the page contains four distinct photographs, each with an accompanying text caption. The right one-third of the page shows a column of body text from an article, which is partially cut off. A document identifier is present at the bottom of the page.",
+    "description": "A scanned page from a publication, likely a book or magazine, featuring four photographs with captions. The page also includes a column of text on the right side and a document identifier at the bottom. Some text and a person's face are redacted with black boxes.",
+    "layout": "The page has a multi-column layout. Four photographs are arranged in a grid on the left and center. Each photo has a caption below or next to it. A column of body text is partially visible on the far right. A document number is centered in the footer.",
     "quality": "medium",
     "orientation": "portrait"
   },
@@ -11,32 +11,32 @@
     "full_text": "[REDACTED] and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)\n\nGood flight!\n\n[REDACTED] and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)\n\nMichael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)\n\nRetired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)\n\nguests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct\n\nHOUSE_OVERSIGHT_010485",
     "text_regions": [
       {
-        "region": "caption_1",
+        "region": "caption",
         "text": "[REDACTED] and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)",
         "type": "printed"
       },
       {
-        "region": "caption_2",
+        "region": "caption",
         "text": "Good flight!",
         "type": "printed"
       },
       {
-        "region": "caption_3",
+        "region": "caption",
         "text": "[REDACTED] and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)",
         "type": "printed"
       },
       {
-        "region": "caption_4",
+        "region": "caption",
         "text": "Michael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)",
         "type": "printed"
       },
       {
-        "region": "caption_5",
+        "region": "caption",
         "text": "Retired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)",
         "type": "printed"
       },
       {
-        "region": "body_text_right_column",
+        "region": "body",
         "text": "guests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct",
         "type": "printed"
       },
@@ -62,8 +62,7 @@
       "Debbie Schatz",
       "Joe Recarey",
       "Meghan McCarthy",
-      "Mort Zu[...]",
-      "Var[...]"
+      "Mort Zu[ckerman?]"
     ],
     "organizations": [
       "NASCAR",
@@ -73,8 +72,7 @@
       "Palm Beach Police Foundation",
       "Palm Beach Daily News",
       "ZUMAPRESS.com",
-      "Microsoft",
-      "HOUSE_OVERSIGHT"
+      "Microsoft"
     ],
     "locations": [
       "Churchill Downs",
@@ -93,14 +91,14 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Redaction boxes covering names in two photo captions."
+      "HOUSE_OVERSIGHT_010485"
     ]
   },
   "document_metadata": {
-    "document_type": "photograph_collection",
+    "document_type": "photo",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs of individuals including Brian Vickers, Larry Visoski, Michael and Janet Reiter, and Joe Recarey, with captions detailing events and affiliations.",
+    "subject": "Photographs of individuals including Brian Vickers, Larry Visoski, Michael and Janet Reiter, and Joe Recarey, with captions providing context.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010485"
@@ -109,13 +107,13 @@
   "confidence": {
     "text_extraction": 0.95,
     "structured_data": 0.98,
-    "overall": 0.96
+    "overall": 0.97
   },
-  "notes": "The image is a page from a publication, likely used as evidence or documentation for the House Oversight Committee. The text on the far right is partially cut off, making it incomplete. Several names have been redacted.",
+  "notes": "The image is a page from a larger document, as indicated by the partial text column on the right. Several names and a face are redacted. The text on the right is cut off and incomplete.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010485.jpg",
   "house_oversight_id": "010485",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:44:02.812816Z",
+    "processed_at": "2025-11-13T23:53:47.198043Z",
     "model": "gemini-2.5-pro"
   }
 }

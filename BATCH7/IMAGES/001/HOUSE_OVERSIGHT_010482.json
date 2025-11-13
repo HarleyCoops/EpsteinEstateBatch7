@@ -2,17 +2,22 @@
   "file_name": "HOUSE_OVERSIGHT_010482.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a document, likely a report or briefing book, featuring a collage of eight photographs related to Jeffrey Epstein. Each photograph is accompanied by a descriptive caption. The images include personal photos of Epstein with associates, a mugshot, photos of a jail cell and correctional facility, a courthouse photo, a screenshot of a sex offender registry entry, and an aerial view of his private island.",
-    "layout": "A multi-panel layout with images and text captions arranged in two main columns. The left column has four images and their captions, and the right column has four images and their captions. A document number is present at the bottom right corner.",
+    "description": "A scanned document page featuring a collage of eight photographs related to Jeffrey Epstein. Each photograph is accompanied by a text caption providing context. The images include portraits of Epstein with associates, a jail cell, a courthouse, a mugshot, a sex offender registry entry, and aerial views of a stockade and a private island.",
+    "layout": "The page is arranged in a grid-like collage format with multiple images and corresponding text blocks. There is a document number at the bottom right of the page.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "gation\naphed\nw York\noncert\nRising,\nMarch\nPatrick\nMullen)\n\nJeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)\n\nf's Office\nin (Palm\nf's Office)\n\nThe Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)\n\nEpstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)\n\nCOURTHO\n\nEpstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)\n\nJeffrey Epstein's entry in\nthe National Sex Offender\nRegistry (National Sex\nOffender Registry)\n\nEpstein's Little Saint James\nisland, U.S. Virgin Islands: a\nprivately owned cay (nicknamed\nLittle Saint Jeff's) whose owner\nlocals affectionately refer to\nas Richie Rich (© Chris Bott /\nSplash News / Corbis)\n\nHOUSE_OVERSIGHT_010482",
+    "full_text": "gation\naphed\nw York\noncert\nRising,\nMarch\nPatrick\nMullen)\n\nEpstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)\n\nJeffrey Epstein, photographed\nwith Adrianna Ross, attend-\ning the launch of Radar\nmagazine held at the Hotel\nQT in New York City, May\n2005 (Neil Rasmus / Patrick-\nMcMullan.com / Sipa Press)\n\nEpstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)\n\nJeffrey Epstein's entry in\nthe National Sex Offender\nRegistry (National Sex\nOffender Registry)\n\nThe Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)\n\nEpstein's Little Saint James\nisland, U.S. Virgin Islands: a\nprivately owned cay (nicknamed\nLittle Saint Jeff's) whose owner\nlocals affectionately refer to\nas Richie Rich (© Chris Bott /\nSplash News / Corbis)\n\nHOUSE_OVERSIGHT_010482",
     "text_regions": [
       {
         "region": "caption",
         "text": "gation\naphed\nw York\noncert\nRising,\nMarch\nPatrick\nMullen)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Epstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)",
         "type": "printed"
       },
       {
@@ -22,27 +27,12 @@
       },
       {
         "region": "caption",
-        "text": "f's Office\nin (Palm\nf's Office)",
+        "text": "Epstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)",
         "type": "printed"
       },
       {
         "region": "caption",
         "text": "The Stockade, where Epstein\nserved his sentence, photographed\nhere in 2006, was located at 673\nFairgrounds Road in West Palm\nBeach, Florida. At the time, it was\nused as a minimum- and medium-\nsecurity facility housing women and\njuveniles, as well as male inmates\non a work-release program. (Smith\nAerial Photos)",
-        "type": "printed"
-      },
-      {
-        "region": "caption",
-        "text": "Epstein pleaded guilty to state\nsolicitation charges and served\nthirteen months of an eighteen-\nmonth sentence, with liberal\nwork-release privileges, in a\nsolitary cell at the Palm Beach\nCounty Stockade similar to the\none pictured here. (Courtesy\nCDC Special Management, Palm\nBeach Sheriff's Office)",
-        "type": "printed"
-      },
-      {
-        "region": "signage",
-        "text": "COURTHO",
-        "type": "printed"
-      },
-      {
-        "region": "caption",
-        "text": "Epstein and lawyer at the West\nPalm Beach courthouse in June\n2008 to enter a plea nearly two\nyears after being charged (Uma\nSanghvi / The Palm Beach Post /\nZUMAPRESS.com)",
         "type": "printed"
       },
       {
@@ -73,31 +63,29 @@
       "Adrianna Ross",
       "Neil Rasmus",
       "Patrick McMullan",
-      "Smith",
       "Uma Sanghvi",
+      "Smith",
       "Chris Bott",
       "Richie Rich"
     ],
     "organizations": [
-      "Radar magazine",
-      "Sipa Press",
-      "Smith Aerial Photos",
       "CDC Special Management",
       "Palm Beach Sheriff's Office",
+      "Radar magazine",
+      "Sipa Press",
       "The Palm Beach Post",
       "ZUMAPRESS.com",
+      "Smith Aerial Photos",
       "National Sex Offender Registry",
       "Splash News",
-      "Corbis",
-      "House Oversight"
+      "Corbis"
     ],
     "locations": [
-      "New York",
-      "Hotel QT in New York City",
-      "Palm Beach",
-      "The Stockade, 673 Fairgrounds Road in West Palm Beach, Florida",
+      "New York City",
+      "Hotel QT",
       "Palm Beach County Stockade",
       "West Palm Beach courthouse",
+      "The Stockade, 673 Fairgrounds Road in West Palm Beach, Florida",
       "Little Saint James island, U.S. Virgin Islands"
     ],
     "document_numbers": [
@@ -115,10 +103,10 @@
     "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "photo collage with captions",
+    "document_type": "photo collage",
     "sender": null,
     "recipient": null,
-    "subject": "Photographic summary related to Jeffrey Epstein, including his associates, legal issues, incarceration, and properties.",
+    "subject": "Photographic summary related to Jeffrey Epstein's activities, legal issues, and properties.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010482"
@@ -129,11 +117,11 @@
     "structured_data": 0.98,
     "overall": 0.97
   },
-  "notes": "The image is a composite of multiple photos with captions, likely part of a larger report. Some text, particularly in the top-left caption, is partially cut off. The text within the screenshot of the sex offender registry is too blurry to be transcribed accurately.",
+  "notes": "The text in the top-left caption is partially cut off, making it incomplete. The image is a collage from a larger document, likely a report or briefing book, as indicated by the footer.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010482.jpg",
   "house_oversight_id": "010482",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:42:39.652661Z",
+    "processed_at": "2025-11-13T23:52:30.508681Z",
     "model": "gemini-2.5-pro"
   }
 }

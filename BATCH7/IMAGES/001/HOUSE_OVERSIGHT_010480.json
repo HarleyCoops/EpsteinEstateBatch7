@@ -2,51 +2,41 @@
   "file_name": "HOUSE_OVERSIGHT_010480.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a book or magazine containing seven photographs with accompanying captions. The photographs depict various individuals, including Jeffrey Epstein, with other notable figures in different locations. Several areas in the photos and text captions are redacted with black boxes. The page has a document control number at the bottom.",
-    "layout": "The page is laid out in a collage style with multiple images and text boxes. There are three rows of images. The top row has three images, the middle row has two, and the bottom row has two. Captions are placed next to or below their corresponding images. A document identifier is at the very bottom of the page.",
+    "description": "A scanned page from a document, likely an exhibit or report, featuring a collage of seven photographs with corresponding captions. The photographs depict various individuals, including Jeffrey Epstein, Ghislaine Maxwell, Prince Andrew, and Alan Dershowitz, at different locations and events. Several names and faces in the photos and text have been redacted with black boxes. The page has a document identifier in the footer.",
+    "layout": "The page is arranged as a collage with seven photographs of varying sizes. Text captions are placed next to their corresponding images. The overall layout is asymmetrical. A document identifier is located in the bottom right footer.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "kner, photographed\nie in New York City,\n-ynn Goldsmith)\n\nage\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City\nAffidavit, US\nDistrict Southern Court of\nFlorida)\n\nNEW YORK\n\n(L to R) Prince Andrew,\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with a camera\nin Maxwell's London town house.\nwas seventeen years old at this\ntime. (Affidavit, US\nDistrict Southern Court of Florida)\n\n(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nage seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property\nin winter\nAffidavit, US District Southern\nCourt of Florida)\n\nHARVARD\n\nJeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)\n\nHOUSE_OVERSIGHT_010480",
+    "full_text": "kner, photographed\nle in New York City,\nynn Goldsmith)\n\n(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\n[REDACTED] age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City [REDACTED]\n[REDACTED] Affidavit, US\nDistrict Southern Court of\nFlorida)\n\n(L to R) Prince Andrew, [REDACTED]\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with [REDACTED] camera\nin Maxwell's London town house.\n[REDACTED] was seventeen years old at this\ntime. ([REDACTED] Affidavit, US\nDistrict Southern Court of Florida)\n\n[REDACTED] age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property,\nin winter ([REDACTED]\nAffidavit, US District Southern\nCourt of Florida)\n\nJeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)\n\nHOUSE_OVERSIGHT_010480",
     "text_regions": [
       {
-        "region": "caption",
-        "text": "kner, photographed\nie in New York City,\n-ynn Goldsmith)",
+        "region": "caption_top_left",
+        "text": "kner, photographed\nle in New York City,\nynn Goldsmith)",
         "type": "printed"
       },
       {
-        "region": "caption",
-        "text": "age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City\nAffidavit, US\nDistrict Southern Court of\nFlorida)",
-        "type": "printed"
-      },
-      {
-        "region": "image_text",
-        "text": "NEW YORK",
-        "type": "printed"
-      },
-      {
-        "region": "caption",
-        "text": "(L to R) Prince Andrew,\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with a camera\nin Maxwell's London town house.\nwas seventeen years old at this\ntime. (Affidavit, US\nDistrict Southern Court of Florida)",
-        "type": "printed"
-      },
-      {
-        "region": "caption",
+        "region": "caption_middle_left_1",
         "text": "(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
         "type": "printed"
       },
       {
-        "region": "caption",
-        "text": "age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property\nin winter\nAffidavit, US District Southern\nCourt of Florida)",
+        "region": "caption_top_right_1",
+        "text": "[REDACTED] age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City [REDACTED]\n[REDACTED] Affidavit, US\nDistrict Southern Court of\nFlorida)",
         "type": "printed"
       },
       {
-        "region": "image_text",
-        "text": "HARVARD",
+        "region": "caption_middle_right_1",
+        "text": "(L to R) Prince Andrew, [REDACTED]\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with [REDACTED] camera\nin Maxwell's London town house.\n[REDACTED] was seventeen years old at this\ntime. ([REDACTED] Affidavit, US\nDistrict Southern Court of Florida)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_middle_right_2",
+        "text": "[REDACTED] age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property,\nin winter ([REDACTED]\nAffidavit, US District Southern\nCourt of Florida)",
+        "type": "printed"
+      },
+      {
+        "region": "caption_bottom_right",
         "text": "Jeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)",
         "type": "printed"
       },
@@ -59,32 +49,32 @@
   },
   "structured_data": {
     "dates": [
-      "1995",
+      "1995-01-01",
       "2004-09-08"
     ],
     "people": [
       "Lynn Goldsmith",
-      "Jeffrey Epstein",
-      "Prince Andrew",
-      "Ghislaine Maxwell",
       "Deborah Blohm",
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
       "Gwendolyn Beck",
+      "Prince Andrew",
       "Alan Dershowitz",
       "Rick Friedman"
     ],
     "organizations": [
-      "US District Southern Court of Florida",
       "Davidoff Studios",
+      "US District Southern Court of Florida",
       "Corbis",
-      "Harvard",
-      "House Oversight"
+      "House Oversight Committee"
     ],
     "locations": [
       "New York City",
-      "London",
       "Mar-a-Lago",
+      "London",
       "Zorro Ranch, New Mexico",
-      "Cambridge, MA"
+      "Cambridge, MA",
+      "Florida"
     ],
     "document_numbers": [
       "HOUSE_OVERSIGHT_010480"
@@ -93,33 +83,39 @@
     "contact_info": {
       "phone_numbers": [],
       "email_addresses": [],
-      "addresses": []
+      "addresses": [
+        "New York City",
+        "Mar-a-Lago",
+        "Maxwell's London town house",
+        "Zorro Ranch, his New Mexico property",
+        "Cambridge, MA"
+      ]
     },
     "signatures": [],
     "stamps_or_markings": [
-      "HOUSE_OVERSIGHT_010480"
+      "Bates number: HOUSE_OVERSIGHT_010480"
     ]
   },
   "document_metadata": {
-    "document_type": "photo_collage",
+    "document_type": "photograph_exhibit",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs of Jeffrey Epstein and associates",
+    "subject": "Photographs related to Jeffrey Epstein and associates",
     "date": null,
     "references": [
-      "Affidavit, US District Southern Court of Florida"
+      "HOUSE_OVERSIGHT_010480"
     ]
   },
   "confidence": {
-    "text_extraction": 0.95,
-    "structured_data": 0.98,
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
     "overall": 0.96
   },
-  "notes": "The document is a single page from a larger collection, likely a book or report, containing multiple photographs with captions. Several parts of the text and images have been redacted with black boxes, obscuring names and faces. The text repeatedly references an 'Affidavit, US District Southern Court of Florida' as a source for the photo information.",
+  "notes": "The document is a single page from a larger set, as indicated by the Bates number 'HOUSE_OVERSIGHT_010480'. Multiple individuals and text portions have been redacted with black boxes, obscuring some information. The text references an 'Affidavit, US District Southern Court of Florida' multiple times, suggesting the photos are part of legal evidence. The first caption in the top left is incomplete as the associated photo is partially cut off.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010480.jpg",
   "house_oversight_id": "010480",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:41:46.777694Z",
+    "processed_at": "2025-11-13T23:51:41.715816Z",
     "model": "gemini-2.5-pro"
   }
 }

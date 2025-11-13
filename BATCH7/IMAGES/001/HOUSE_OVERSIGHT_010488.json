@@ -2,46 +2,51 @@
   "file_name": "HOUSE_OVERSIGHT_010488.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a document, featuring a collage of seven photographs with corresponding captions. The photographs depict various individuals, including Jeffrey Epstein, Virginia Roberts, Ghislaine Maxwell, Prince Andrew, and Alan Dershowitz, in different settings. The page has a white background with printed text and images. A document control number is visible at the bottom right corner.",
-    "layout": "The page is arranged in a multi-column, collage-style layout. Photographs are placed on both the left and right sides of the page, with text captions adjacent to each image. A footer with a document number is at the very bottom.",
+    "description": "A scanned page from a document or publication, featuring a collage of seven photographs with accompanying captions. The photographs depict various individuals, including Jeffrey Epstein, Ghislaine Maxwell, Prince Andrew, Virginia Roberts, Alan Dershowitz, and others, in different social settings and locations. The page has a document control number at the bottom right.",
+    "layout": "The page is laid out with multiple images and text blocks. There is a large central column with three photos and their captions, and smaller photos with captions on the left and right sides. A document number is present in the footer area.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "exner, photographed\nne in New York City,\nLynn Goldsmith)\n\nVirginia Roberts, age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City (Virginia\nRoberts Affidavit, US\nDistrict Southern Court of\nFlorida)\n\n(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\n(L to R) Prince Andrew, Virginia Roberts,\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with Roberts's camera\nin Maxwell's London town house.\nRoberts was seventeen years old at this\ntime. (Virginia Roberts Affidavit, US\nDistrict Southern Court of Florida)\n\nVirginia Roberts, age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property,\nin winter (Virginia Roberts\nAffidavit, US District Southern\nCourt of Florida)\n\nHARVARD\n\nJeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)\n\nHOUSE_OVERSIGHT_010488",
+    "full_text": "exner, photographed\nne in New York City,\nLynn Goldsmith)\n\nVirginia Roberts, age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City (Virginia\nRoberts Affidavit, US\nDistrict Southern Court of\nFlorida)\n\nNEW YORK\n\n(L to R) Prince Andrew, Virginia Roberts,\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with Roberts's camera\nin Maxwell's London town house.\nRoberts was seventeen years old at this\ntime. (Virginia Roberts Affidavit, US\nDistrict Southern Court of Florida)\n\n(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nVirginia Roberts, age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property,\nin winter (Virginia Roberts\nAffidavit, US District Southern\nCourt of Florida)\n\nHARVARD\n\nJeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)\n\nHOUSE_OVERSIGHT_010488",
     "text_regions": [
       {
-        "region": "caption",
+        "region": "caption_top_left",
         "text": "exner, photographed\nne in New York City,\nLynn Goldsmith)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_top_right",
         "text": "Virginia Roberts, age\nfifteen; photo reportedly\ntaken by Jeffrey Epstein in\nNew York City (Virginia\nRoberts Affidavit, US\nDistrict Southern Court of\nFlorida)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_middle_left",
         "text": "(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_center_top",
         "text": "(L to R) Prince Andrew, Virginia Roberts,\nand Ghislaine Maxwell; photo reportedly\ntaken by Epstein with Roberts's camera\nin Maxwell's London town house.\nRoberts was seventeen years old at this\ntime. (Virginia Roberts Affidavit, US\nDistrict Southern Court of Florida)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_center_middle",
         "text": "Virginia Roberts, age seventeen;\nphoto reportedly taken by\nJeffrey Epstein at Zorro Ranch,\nhis New Mexico property,\nin winter (Virginia Roberts\nAffidavit, US District Southern\nCourt of Florida)",
         "type": "printed"
       },
       {
-        "region": "caption",
+        "region": "caption_bottom_right",
         "text": "Jeffrey Epstein with Professor\nAlan Dershowitz in Cambridge,\nMA, September 8, 2004 (© Rick\nFriedman / Corbis)",
         "type": "printed"
       },
       {
-        "region": "clothing_text",
+        "region": "image_text",
+        "text": "NEW YORK",
+        "type": "printed"
+      },
+      {
+        "region": "image_text",
         "text": "HARVARD",
         "type": "printed"
       },
@@ -62,10 +67,10 @@
       "Lynn Goldsmith",
       "Virginia Roberts",
       "Jeffrey Epstein",
-      "Deborah Blohm",
-      "Ghislaine Maxwell",
-      "Gwendolyn Beck",
       "Prince Andrew",
+      "Ghislaine Maxwell",
+      "Deborah Blohm",
+      "Gwendolyn Beck",
       "Alan Dershowitz",
       "Rick Friedman"
     ],
@@ -78,8 +83,8 @@
     "locations": [
       "New York City",
       "Florida",
-      "Mar-a-Lago",
       "London",
+      "Mar-a-Lago",
       "Zorro Ranch",
       "New Mexico",
       "Cambridge, MA"
@@ -95,17 +100,17 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Document number: HOUSE_OVERSIGHT_010488"
+      "© Rick Friedman / Corbis"
     ]
   },
   "document_metadata": {
-    "document_type": "photo_collage",
+    "document_type": "photograph",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs related to Jeffrey Epstein and associates",
+    "subject": "A collection of photographs with captions related to Jeffrey Epstein, Ghislaine Maxwell, Virginia Roberts, and their associates.",
     "date": null,
     "references": [
-      "Virginia Roberts Affidavit"
+      "Virginia Roberts Affidavit, US District Southern Court of Florida"
     ]
   },
   "confidence": {
@@ -113,11 +118,11 @@
     "structured_data": 0.99,
     "overall": 0.98
   },
-  "notes": "The document is a single page from a larger collection, identified by the Bates number 'HOUSE_OVERSIGHT_010488'. The text consists entirely of captions for the accompanying photographs. The name 'exner' is partially cut off at the top of the page.",
+  "notes": "The document is a single page containing a collage of photographs and their descriptive captions. The text in the top-left caption is partially cut off. The document number in the footer indicates it is part of a larger collection, likely from a government investigation or report.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010488.jpg",
   "house_oversight_id": "010488",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:45:16.126813Z",
+    "processed_at": "2025-11-13T23:54:55.233745Z",
     "model": "gemini-2.5-pro"
   }
 }
