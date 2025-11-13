@@ -129,13 +129,6 @@ All prompts are designed with these principles:
 
 See `PROMPT_DESIGN.md` for detailed prompt specifications.
 
-## Differences from Dorle's Stories Pipeline
-
-- **Context**: Official government documents vs. personal letters
-- **Scale**: Designed for hundreds of documents vs. dozens of letters
-- **Output Format**: JSON-focused for analysis vs. LaTeX for reading
-- **Relationship Mapping**: Explicit connection mapping vs. narrative focus
-- **Multi-modal**: Handles Excel, images, and text vs. primarily images
 
 ## Notes
 
