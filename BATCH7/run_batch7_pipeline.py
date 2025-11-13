@@ -41,10 +41,14 @@ def main() -> None:
         default="all",
         help="Which processing stage to run (default: all)"
     )
+    # Default base_dir to the directory containing this script
+    script_dir = Path(__file__).parent.absolute()
+    default_base_dir = script_dir if script_dir.name == "BATCH7" else script_dir / "BATCH7"
+    
     ap.add_argument(
         "--base-dir",
-        default="BATCH7",
-        help="Base directory containing NATIVES/, IMAGES/, TEXT/ (default: BATCH7)"
+        default=str(default_base_dir),
+        help=f"Base directory containing NATIVES/, IMAGES/, TEXT/ (default: {default_base_dir})"
     )
     ap.add_argument(
         "--natives-dir",

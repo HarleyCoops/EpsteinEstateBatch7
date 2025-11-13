@@ -47,7 +47,7 @@ REQUIREMENTS:
    - Extract document references or file numbers
    - Extract key events or actions
 
-OUTPUT FORMAT (STRICT JSON):
+OUTPUT FORMAT (STRICT JSON ONLY - NO MARKDOWN, NO CODE BLOCKS, NO EXPLANATIONS):
 {{
   "file_name": "<filename>",
   "content": {{
@@ -82,10 +82,13 @@ OUTPUT FORMAT (STRICT JSON):
 }}
 
 CRITICAL RULES:
+- Output ONLY valid JSON. Do not wrap in markdown code blocks (```json).
+- Do not include any text before or after the JSON object.
 - Extract text exactly as it appears
 - Do not summarize or rewrite content
 - Preserve all original formatting
 - Note any unclear or damaged sections
+- Start your response with {{ and end with }}
 """
 
 
@@ -195,16 +198,79 @@ def extract_text_content(text_path: Path, client, save_per_file: bool = True) ->
         if chunk.text:
             out += chunk.text
     
+    # Parse JSON response with better error handling
+    result = None
+    json_text = out.strip()
+    
+    # Try to extract JSON from markdown code blocks if present
+    if "```json" in json_text:
+        json_start = json_text.find("```json") + 7
+        json_end = json_text.find("```", json_start)
+        if json_end > json_start:
+            json_text = json_text[json_start:json_end].strip()
+    elif "```" in json_text:
+        # Try generic code block
+        json_start = json_text.find("```") + 3
+        json_end = json_text.find("```", json_start)
+        if json_end > json_start:
+            json_text = json_text[json_start:json_end].strip()
+    
+    # Try to find JSON object boundaries if response has extra text
+    if not json_text.startswith("{"):
+        json_start = json_text.find("{")
+        if json_start >= 0:
+            json_text = json_text[json_start:]
+            # Find matching closing brace
+            brace_count = 0
+            for i, char in enumerate(json_text):
+                if char == "{":
+                    brace_count += 1
+                elif char == "}":
+                    brace_count -= 1
+                    if brace_count == 0:
+                        json_text = json_text[:i+1]
+                        break
+    
     try:
-        result = json.loads(out.strip())
-        result["file_name"] = text_path.name
-        result["file_path"] = str(text_path.relative_to(text_path.parents[2]))  # Relative to BATCH7
+        result = json.loads(json_text)
+    except json.JSONDecodeError as e:
+        # Log the error and raw response for debugging
+        error_file = text_path.parent / f"{text_path.stem}_extraction_error.txt"
+        with open(error_file, "w", encoding="utf-8") as f:
+            f.write(f"JSON Parse Error: {e}\n\n")
+            f.write("=" * 80 + "\n")
+            f.write("RAW RESPONSE (first 2000 chars):\n")
+            f.write("=" * 80 + "\n")
+            f.write(out[:2000])
+            f.write("\n\n" + "=" * 80 + "\n")
+            f.write("ATTEMPTED JSON TEXT:\n")
+            f.write("=" * 80 + "\n")
+            f.write(json_text[:2000])
+        
+        print(f"    Warning: Failed to parse JSON for {text_path.name}. Error saved to {error_file.name}")
+        
+        # Fallback: return basic structure with full text
+        result = {
+            "file_name": text_path.name,
+            "file_path": str(text_path.relative_to(text_path.parents[2])),
+            "content": {"full_text": text_content},
+            "error": f"Failed to parse LLM response: {str(e)}",
+            "raw_response_preview": out[:500] if len(out) > 500 else out
+        }
+    
+    if result:
+        # Add required fields if not present
+        if "file_name" not in result:
+            result["file_name"] = text_path.name
+        if "file_path" not in result:
+            result["file_path"] = str(text_path.relative_to(text_path.parents[2]))
         
         # Extract HOUSE_OVERSIGHT ID from filename
         import re
-        id_match = re.search(r'HOUSE_OVERSIGHT_(\d+)', text_path.name)
-        if id_match:
-            result["house_oversight_id"] = id_match.group(1)
+        if "house_oversight_id" not in result:
+            id_match = re.search(r'HOUSE_OVERSIGHT_(\d+)', text_path.name)
+            if id_match:
+                result["house_oversight_id"] = id_match.group(1)
         
         # Add processing metadata
         import datetime
@@ -220,19 +286,19 @@ def extract_text_content(text_path: Path, client, save_per_file: bool = True) ->
                 json.dump(result, f, ensure_ascii=False, indent=2)
         
         return result
-    except json.JSONDecodeError:
-        # Fallback: return basic structure
-        result = {
-            "file_name": text_path.name,
-            "file_path": str(text_path.relative_to(text_path.parents[2])),
-            "content": {"full_text": text_content},
-            "error": "Failed to parse LLM response"
-        }
-        if save_per_file:
-            extraction_file = text_path.parent / f"{text_path.stem}_extraction.json"
-            with open(extraction_file, "w", encoding="utf-8") as f:
-                json.dump(result, f, ensure_ascii=False, indent=2)
-        return result
+    
+    # Final fallback if all parsing fails
+    result = {
+        "file_name": text_path.name,
+        "file_path": str(text_path.relative_to(text_path.parents[2])),
+        "content": {"full_text": text_content},
+        "error": "Failed to parse LLM response - no valid JSON found"
+    }
+    if save_per_file:
+        extraction_file = text_path.parent / f"{text_path.stem}_extraction.json"
+        with open(extraction_file, "w", encoding="utf-8") as f:
+            json.dump(result, f, ensure_ascii=False, indent=2)
+    return result
 
 
 def assemble_stories(text_extractions: List[Dict[str, Any]], client) -> Dict[str, Any]:
@@ -370,8 +436,8 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     print("\nStep 3: Creating letters/ folder structure...")
     create_story_folders(stories, output_dir, text_extractions_by_file)
     
-    print(f"\nTEXT processing complete.")
-    print(f"  - Per-file extractions: JSON files saved alongside text files (*_extraction.json)")
+    print("\nTEXT processing complete.")
+    print("  - Per-file extractions: JSON files saved alongside text files (*_extraction.json)")
     print(f"  - Aggregated extractions: {extraction_output}")
     print(f"  - Stories assembly: {stories_output}")
     print(f"  - Letters folder: {output_dir / 'letters'}")
