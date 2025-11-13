@@ -129,6 +129,11 @@ All prompts are designed with these principles:
 
 See `PROMPT_DESIGN.md` for detailed prompt specifications.
 
+See `TASK_BREAKDOWN.md` for verbose 21-step implementation plan covering:
+- Text Files → Letters Flow (7 steps)
+- Provenance and Aggregation (7 steps)  
+- Token/Runtime Optimization (7 steps)
+
 ## Notes
 
 - The pipeline uses Gemini 2.5 Pro for all LLM operations
