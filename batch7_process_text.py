@@ -153,8 +153,14 @@ CRITICAL RULES:
 """
 
 
-def extract_text_content(text_path: Path, client) -> Dict[str, Any]:
-    """Extract and structure content from a text file."""
+def extract_text_content(text_path: Path, client, save_per_file: bool = True) -> Dict[str, Any]:
+    """Extract and structure content from a text file.
+    
+    Args:
+        text_path: Path to text file
+        client: Gemini client
+        save_per_file: If True, save extraction JSON next to text file (consistent with images/natives)
+    """
     try:
         with open(text_path, "r", encoding="utf-8", errors="replace") as f:
             text_content = f.read()
@@ -192,14 +198,41 @@ def extract_text_content(text_path: Path, client) -> Dict[str, Any]:
     try:
         result = json.loads(out.strip())
         result["file_name"] = text_path.name
+        result["file_path"] = str(text_path.relative_to(text_path.parents[2]))  # Relative to BATCH7
+        
+        # Extract HOUSE_OVERSIGHT ID from filename
+        import re
+        id_match = re.search(r'HOUSE_OVERSIGHT_(\d+)', text_path.name)
+        if id_match:
+            result["house_oversight_id"] = id_match.group(1)
+        
+        # Add processing metadata
+        import datetime
+        result["processing_metadata"] = {
+            "processed_at": datetime.datetime.utcnow().isoformat() + "Z",
+            "model": "gemini-2.5-pro"
+        }
+        
+        # Save per-file JSON next to text file (consistent with images/natives)
+        if save_per_file:
+            extraction_file = text_path.parent / f"{text_path.stem}_extraction.json"
+            with open(extraction_file, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
+        
         return result
     except json.JSONDecodeError:
         # Fallback: return basic structure
-        return {
+        result = {
             "file_name": text_path.name,
+            "file_path": str(text_path.relative_to(text_path.parents[2])),
             "content": {"full_text": text_content},
             "error": "Failed to parse LLM response"
         }
+        if save_per_file:
+            extraction_file = text_path.parent / f"{text_path.stem}_extraction.json"
+            with open(extraction_file, "w", encoding="utf-8") as f:
+                json.dump(result, f, ensure_ascii=False, indent=2)
+        return result
 
 
 def assemble_stories(text_extractions: List[Dict[str, Any]], client) -> Dict[str, Any]:
@@ -310,7 +343,8 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     else:
         for i, text_file in enumerate(sorted(text_files), 1):
             print(f"[{i}/{len(text_files)}] Extracting: {text_file.relative_to(text_dir)}")
-            extraction = extract_text_content(text_file, client)
+            # Extract and save per-file JSON (saved next to text file)
+            extraction = extract_text_content(text_file, client, save_per_file=True)
             text_extractions.append(extraction)
             text_extractions_by_file[extraction["file_name"]] = extraction
         
@@ -336,9 +370,10 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     print("\nStep 3: Creating letters/ folder structure...")
     create_story_folders(stories, output_dir, text_extractions_by_file)
     
-    print(f"\nTEXT processing complete. Results in: {output_dir}")
-    print(f"  - Extractions: {extraction_output}")
-    print(f"  - Stories: {stories_output}")
+    print(f"\nTEXT processing complete.")
+    print(f"  - Per-file extractions: JSON files saved alongside text files (*_extraction.json)")
+    print(f"  - Aggregated extractions: {extraction_output}")
+    print(f"  - Stories assembly: {stories_output}")
     print(f"  - Letters folder: {output_dir / 'letters'}")
 
 

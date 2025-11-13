@@ -154,6 +154,22 @@ def analyze_image_with_llm(image_path: Path, client) -> Dict[str, Any]:
             result = json.loads(out.strip())
             # Ensure file_name is set
             result["file_name"] = image_path.name
+            result["file_path"] = str(image_path.relative_to(image_path.parents[2]))  # Relative to BATCH7
+            
+            # Extract HOUSE_OVERSIGHT ID from filename
+            import re
+            id_match = re.search(r'HOUSE_OVERSIGHT_(\d+)', image_path.name)
+            if id_match:
+                result["house_oversight_id"] = id_match.group(1)
+            
+            # Add processing metadata if not present
+            if "processing_metadata" not in result:
+                import datetime
+                result["processing_metadata"] = {
+                    "processed_at": datetime.datetime.utcnow().isoformat() + "Z",
+                    "model": "gemini-2.5-pro"
+                }
+            
             return result
         except json.JSONDecodeError as e:
             print(f"    Warning: LLM response not valid JSON: {e}", file=sys.stderr)

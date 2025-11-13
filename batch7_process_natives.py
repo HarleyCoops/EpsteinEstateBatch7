@@ -194,7 +194,8 @@ def analyze_excel_with_llm(file_path: Path, excel_text: str, client) -> Dict[str
 
 def process_single_excel(file_path: Path, output_dir: Path, client, skip_existing: bool) -> None:
     """Process a single Excel file."""
-    output_file = output_dir / f"{file_path.stem}_analysis.json"
+    # Save JSON in same folder as Excel file (consistent with images)
+    output_file = file_path.parent / f"{file_path.stem}_analysis.json"
     
     if skip_existing and output_file.exists():
         print(f"  Skipping (exists): {output_file.name}")
@@ -209,7 +210,15 @@ def process_single_excel(file_path: Path, output_dir: Path, client, skip_existin
         # Analyze with LLM
         analysis = analyze_excel_with_llm(file_path, excel_text, client)
         
-        # Save result
+        # Add file_path and house_oversight_id to analysis for consistency
+        analysis["file_path"] = str(file_path.relative_to(file_path.parents[2]))  # Relative to BATCH7
+        # Extract HOUSE_OVERSIGHT ID from filename
+        import re
+        id_match = re.search(r'HOUSE_OVERSIGHT_(\d+)', file_path.name)
+        if id_match:
+            analysis["house_oversight_id"] = id_match.group(1)
+        
+        # Save result in same folder as Excel file
         with open(output_file, "w", encoding="utf-8") as f:
             json.dump(analysis, f, ensure_ascii=False, indent=2)
         
@@ -222,8 +231,12 @@ def process_single_excel(file_path: Path, output_dir: Path, client, skip_existin
 
 
 def process_natives(natives_dir: Path, output_dir: Path, skip_existing: bool = False) -> None:
-    """Process all Excel files in NATIVES directory."""
-    output_dir.mkdir(parents=True, exist_ok=True)
+    """Process all Excel files in NATIVES directory.
+    
+    Note: output_dir parameter is kept for API compatibility but JSON files
+    are saved next to Excel files (same folder), not in output_dir.
+    """
+    # output_dir not used for per-file outputs, but kept for compatibility
     
     # Get API key
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -248,7 +261,7 @@ def process_natives(natives_dir: Path, output_dir: Path, skip_existing: bool = F
         print(f"[{i}/{len(excel_files)}] {excel_file.relative_to(natives_dir)}")
         process_single_excel(excel_file, output_dir, client, skip_existing)
     
-    print(f"\nNATIVES processing complete. Results in: {output_dir}")
+    print(f"\nNATIVES processing complete. JSON files saved alongside Excel files.")
 
 
 if __name__ == "__main__":
