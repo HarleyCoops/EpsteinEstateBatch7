@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010487.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a publication, likely a book or magazine, featuring four color photographs with accompanying captions. The page has a dark green border on the left side and a document identification number at the bottom.",
+    "layout": "The page is arranged vertically with four photographs, each followed by a caption block. The document number is centered at the very bottom of the page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)\n\n(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)\n\n(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nJeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) Ingrid\nSeynhaeve, attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)\n\nHOUSE_OVERSIGHT_010487",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "(L to R) Deborah\nBlohm, Jeffrey Epstein,\nGhislaine Maxwell, and\nGwendolyn Beck attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Jeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) Ingrid\nSeynhaeve, attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010487",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1989",
+      "1991-11",
+      "1995",
+      "1997-04-08"
+    ],
+    "people": [
+      "Leslie Wexner",
+      "Lynn Goldsmith",
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Tony Randall",
+      "Robert Maxwell",
+      "Marina Garnier",
+      "Deborah Blohm",
+      "Gwendolyn Beck",
+      "Donald Trump",
+      "Ingrid Seynhaeve"
+    ],
+    "organizations": [
+      "YIVO Institute",
+      "Davidoff Studios",
+      "Trump Model",
+      "Victoria's Secret",
+      "House Oversight"
+    ],
+    "locations": [
+      "New York City",
+      "Plaza Hotel",
+      "Mar-a-Lago",
+      "Laura Belle club"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010487"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "New York City"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010487"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs of Jeffrey Epstein and associates at various events from 1989 to 1997.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010487"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.99,
+    "overall": 0.99
+  },
+  "notes": "The image is a page from a publication that has been entered into the record for the House Oversight Committee, as indicated by the Bates stamp at the bottom.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010487.jpg",
+  "house_oversight_id": "010487",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:44:50.611924Z",
+    "model": "gemini-2.5-pro"
+  }
+}

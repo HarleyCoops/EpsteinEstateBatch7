@@ -1,0 +1,73 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010477.jpg",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of the front cover of the book 'Filthy Rich' by James Patterson. The cover features a stylized, pixelated image of a man's face, presumably Jeffrey Epstein. The title and author information are prominently displayed. A white piece of paper partially obscures the top left corner of the image. The image appears to be a scan or photo of a physical book.",
+    "layout": "The book cover is centrally framed. The primary author's name is at the top, followed by co-authors, the main title in a large font, and a descriptive subtitle at the bottom. A document identifier is present in the footer area of the image.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES\nPATTERSON\n& JOHN CONNOLLY WITH TIM MALLOY\n\nFILTHY\nRICH\n\nA POWERFUL BILLIONAIRE,\nTHE SEX SCANDAL THAT UNDID HIM, AND ALL\nTHE JUSTICE THAT MONEY CAN BUY:\nTHE SHOCKING TRUE STORY OF JEFFREY EPSTEIN\n\nHOUSE_OVERSIGHT_010477",
+    "text_regions": [
+      {
+        "region": "book_cover",
+        "text": "JAMES\nPATTERSON\n& JOHN CONNOLLY WITH TIM MALLOY\n\nFILTHY\nRICH\n\nA POWERFUL BILLIONAIRE,\nTHE SEX SCANDAL THAT UNDID HIM, AND ALL\nTHE JUSTICE THAT MONEY CAN BUY:\nTHE SHOCKING TRUE STORY OF JEFFREY EPSTEIN",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010477",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "JOHN CONNOLLY",
+      "TIM MALLOY",
+      "JEFFREY EPSTEIN"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010477"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010477"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Book Cover: 'Filthy Rich' by James Patterson about Jeffrey Epstein",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010477"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a photograph of a book cover, likely submitted as evidence or for reference in a House Oversight Committee file.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010477.jpg",
+  "house_oversight_id": "010477",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:40:32.217053Z",
+    "model": "gemini-2.5-pro"
+  }
+}

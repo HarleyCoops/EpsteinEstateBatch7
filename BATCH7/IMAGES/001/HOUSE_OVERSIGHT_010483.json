@@ -1,0 +1,125 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010483.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a page from a book or magazine. The page features four distinct photographs, each accompanied by a descriptive caption. The top photo shows a black private jet on an airstrip. The middle-left photo is a close-up of the jet's cockpit. The middle-right photo shows two men, identified as Prince Andrew and Jeffrey Epstein, walking together. The bottom photo shows several people, including Stephen Hawking, inside a submarine. A small, framed, autographed photo is visible on the top right. The page has a footer with a document number.",
+    "layout": "The page is laid out with multiple images and corresponding text blocks. A large photo of a jet is at the top. Below it are two smaller photos side-by-side: a cockpit close-up on the left and two men walking on the right. A larger photo of the interior of a submarine is at the bottom. Captions are placed next to or below their respective images. A document identifier is present at the bottom center of the page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)\n\nSecret -\nyou're aw\n\nEpstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)\n\nWhen Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)\n\nStephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\na workshop to explore fundamental\nquestions in physics and cosmology,\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz-\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)\n\nN\nTaglia\nDavies\nYor\nBall.\n\nHOUSE_OVERSIGHT_010483",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Epstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "When Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Stephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\na workshop to explore fundamental\nquestions in physics and cosmology,\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz-\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "N\nTaglia\nDavies\nYor\nBall.",
+        "type": "printed"
+      },
+      {
+        "region": "annotation",
+        "text": "Secret -\nyou're aw",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010483",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01",
+      "2016-01",
+      "2011",
+      "2006-03"
+    ],
+    "people": [
+      "Epstein",
+      "Chris Bott",
+      "Larry Visoski",
+      "Jae Donnelly",
+      "Prince Andrew",
+      "Stephen Hawking",
+      "N Taglia",
+      "Davies",
+      "Yor",
+      "Ball"
+    ],
+    "organizations": [
+      "Splash News",
+      "Corbis",
+      "News of the World",
+      "J. Epstein VI Foundation",
+      "Center for Education and Research in Cosmology and Astrophysics (CERCA)",
+      "Case Western Reserve University",
+      "Ritz-Carlton",
+      "Atlantis"
+    ],
+    "locations": [
+      "Little Saint James island",
+      "U.S. Virgin Islands",
+      "Teterboro Airport",
+      "New Jersey",
+      "New York's Central Park",
+      "St. Thomas, USVI"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010483"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "Secret - you're aw"
+    ],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010483"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs and captions related to Jeffrey Epstein, his associates, and activities.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010483"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.97,
+    "overall": 0.97
+  },
+  "notes": "The image is a photograph of a page from a publication, not an original document. Some text, particularly a list of names on the far right and a handwritten note, is partially cut off.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010483.jpg",
+  "house_oversight_id": "010483",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:43:07.693997Z",
+    "model": "gemini-2.5-pro"
+  }
+}

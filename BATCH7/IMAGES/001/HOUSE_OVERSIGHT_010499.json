@@ -1,0 +1,68 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010499.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white document page that appears to be a section divider. The text 'PART IV' and 'The Investigation' is centered in the upper portion of the page. A prominent vertical scanning artifact, appearing as a dark, blurred column, runs down the left side of the page. The bottom of the page has a solid black band. A document identifier is present in the bottom right corner.",
+    "layout": "The page has a simple layout with a main title section centered vertically and horizontally in the upper half, and a footer in the bottom right. The majority of the page is blank white space.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PART IV\n\nThe Investigation\n\nHOUSE_OVERSIGHT_010499",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "PART IV\n\nThe Investigation",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010499",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010499"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010499"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Section Divider Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "PART IV The Investigation",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010499"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The image contains significant scanning artifacts, including a dark vertical line along the left side and a black bar at the bottom, but these do not obscure any text.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010499.jpg",
+  "house_oversight_id": "010499",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:49:58.295670Z",
+    "model": "gemini-2.5-pro"
+  }
+}

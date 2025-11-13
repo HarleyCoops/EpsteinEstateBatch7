@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010495.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a book. The text discusses Jeffrey Epstein, a Vanity Fair article, and an individual named Todd Meister. A document control number is visible at the bottom right.",
+    "layout": "Two-page spread from a book. The left page has a header, body text, and a page number at the bottom. The right page has a section heading and body text. A document identifier is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\n\"Why?\" she asked when she got to speak to Carter directly.\n\"He's sensitive about the young women. And we still get to\nrun most of the piece.\"\n\nIn her notebook, Ward wrote down the rest of what Carter\nhad said: \"I believe him,\" he told her. \"I'm Canadian.\"\n\nBut the piece that came out, in the March issue, still created a\nsensation. It was called \"The Talented Mr. Epstein\" in a sly refer-\nence to Patricia Highsmith's celebrated suspense novel The Tal-\nented Mr. Ripley. The film adaptation, by Anthony Minghella, was\nstill fresh in the minds of Vanity Fair's readers. For Graydon\nCarter, just posing the question Is Epstein some sort of scam artist,\nlike Ripley? had been question enough. And throughout the\npiece, there were ironies readers wouldn't miss as they drew\ntheir own conclusions about Epstein's life story. It came through\nclearly in the first line of the last paragraph of Ward's 7,500-word\nstory: \"Many people comment there is something innocent,\nalmost childlike about Jeffrey Epstein.\"\n\nIn context, the word innocent was rather ironic—so much so\nthat it almost became its own opposite.\n\n152\n\nTodd Meister: June 20.\n\nHarry Cipriani, on\ntion. The restaura\npost of Harry's Bar\noutpost in Venice. Locate\nit's a theme restaurant—t\nhedge-fund manager name\nwealthy man—Jeffrey Ep\nfather, Epstein's sometime\n\"I've known Jeffrey sir\nlet me tell you what I kr\neverybody else says. First\nand here's why—he has n\nthat for him.\"\nMeister knows how to i\nthe son of a superrich fathe\n\nHOUSE_OVERSIGHT_010495",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body_left_page",
+        "text": "\"Why?\" she asked when she got to speak to Carter directly.\n\"He's sensitive about the young women. And we still get to\nrun most of the piece.\"\n\nIn her notebook, Ward wrote down the rest of what Carter\nhad said: \"I believe him,\" he told her. \"I'm Canadian.\"\n\nBut the piece that came out, in the March issue, still created a\nsensation. It was called \"The Talented Mr. Epstein\" in a sly refer-\nence to Patricia Highsmith's celebrated suspense novel The Tal-\nented Mr. Ripley. The film adaptation, by Anthony Minghella, was\nstill fresh in the minds of Vanity Fair's readers. For Graydon\nCarter, just posing the question Is Epstein some sort of scam artist,\nlike Ripley? had been question enough. And throughout the\npiece, there were ironies readers wouldn't miss as they drew\ntheir own conclusions about Epstein's life story. It came through\nclearly in the first line of the last paragraph of Ward's 7,500-word\nstory: \"Many people comment there is something innocent,\nalmost childlike about Jeffrey Epstein.\"\n\nIn context, the word innocent was rather ironic—so much so\nthat it almost became its own opposite.",
+        "type": "printed"
+      },
+      {
+        "region": "footer_left_page",
+        "text": "152",
+        "type": "printed"
+      },
+      {
+        "region": "header_right_page",
+        "text": "Todd Meister: June 20.",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_page",
+        "text": "Harry Cipriani, on\ntion. The restaura\npost of Harry's Bar\noutpost in Venice. Locate\nit's a theme restaurant—t\nhedge-fund manager name\nwealthy man—Jeffrey Ep\nfather, Epstein's sometime\n\"I've known Jeffrey sir\nlet me tell you what I kr\neverybody else says. First\nand here's why—he has n\nthat for him.\"\nMeister knows how to i\nthe son of a superrich fathe",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right_page",
+        "text": "HOUSE_OVERSIGHT_010495",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "June 20"
+    ],
+    "people": [
+      "James Patterson",
+      "Carter",
+      "Ward",
+      "Patricia Highsmith",
+      "Anthony Minghella",
+      "Graydon Carter",
+      "Ripley",
+      "Jeffrey Epstein",
+      "Todd Meister",
+      "Harry Cipriani",
+      "Meister"
+    ],
+    "organizations": [
+      "Vanity Fair",
+      "Harry's Bar",
+      "House Oversight"
+    ],
+    "locations": [
+      "Venice"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010495"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document control number: HOUSE_OVERSIGHT_010495"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of a Vanity Fair article titled 'The Talented Mr. Epstein' and an account from Todd Meister regarding Jeffrey Epstein.",
+    "date": "2000-06-20",
+    "references": [
+      "The Talented Mr. Epstein",
+      "The Talented Mr. Ripley"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is a scan of pages 152 and the following page from a book, likely authored by James Patterson as indicated in the header. The text on the right page is partially cut off by the edge of the scan. The date 'June 20' is part of a section heading and may not represent the date of the document's creation or publication.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010495.jpg",
+  "house_oversight_id": "010495",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:48:20.425135Z",
+    "model": "gemini-2.5-pro"
+  }
+}

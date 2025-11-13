@@ -1,0 +1,93 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010500.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a book or report. The page contains a chapter heading, a subheading with a name and date, several paragraphs of text, a page number, and a document identifier at the bottom. The left side of the image shows the deep shadow of the book's spine, indicating it was scanned from a bound volume.",
+    "layout": "The page has a header at the top right, a subheading below it, a main body of text, a page number centered at the bottom, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 40\n\nMichael Reiter: January 2006\n\nAs far as Michael Reiter's concerned, the case that his team\nhas built against Epstein—slowly, meticulously, over the\ncourse of an entire year—is airtight. Even now, Detective\nRecarey's finding new pieces of evidence. And already Reiter's\nbeen laying the groundwork with prosecutors. State attorney\nBarry Krischer has a reputation for toughness. He's known,\nnationally, for his prosecution of juvenile offenders. And Reiter's\nbeen keeping him abreast of the investigation. With Jeffrey\nEpstein, it's not simply a matter of seeing him punished. It's a\nmatter of getting a sexual predator off the streets of Palm Beach.\nKrischer assures the chief that he's taking this case very\nseriously.\n\nThe state attorney's office will have Reiter's back at every\nturn.\n\n“I told him that we had an investigation that was very serious\n\n159\n\nHOUSE_OVERSIGHT_010500",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CHAPTER 40",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Michael Reiter: January 2006",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "As far as Michael Reiter's concerned, the case that his team\nhas built against Epstein—slowly, meticulously, over the\ncourse of an entire year—is airtight. Even now, Detective\nRecarey's finding new pieces of evidence. And already Reiter's\nbeen laying the groundwork with prosecutors. State attorney\nBarry Krischer has a reputation for toughness. He's known,\nnationally, for his prosecution of juvenile offenders. And Reiter's\nbeen keeping him abreast of the investigation. With Jeffrey\nEpstein, it's not simply a matter of seeing him punished. It's a\nmatter of getting a sexual predator off the streets of Palm Beach.\nKrischer assures the chief that he's taking this case very\nseriously.\n\nThe state attorney's office will have Reiter's back at every\nturn.\n\n“I told him that we had an investigation that was very serious",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "159",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010500",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-01"
+    ],
+    "people": [
+      "Michael Reiter",
+      "Epstein",
+      "Detective Recarey",
+      "Barry Krischer",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "The state attorney's office"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010500"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010500"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation against Jeffrey Epstein in Palm Beach.",
+    "date": "2006-01",
+    "references": [
+      "HOUSE_OVERSIGHT_010500"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a book or a narrative report detailing an investigation. The text mentions several individuals and describes the status of a case against Jeffrey Epstein in January 2006.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010500.jpg",
+  "house_oversight_id": "010500",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:50:18.806117Z",
+    "model": "gemini-2.5-pro"
+  }
+}

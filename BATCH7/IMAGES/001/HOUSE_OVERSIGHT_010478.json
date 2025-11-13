@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010478.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a page from a book or report. The page has a two-column layout. The left column contains printed text. The right column features four images with captions: an aerial view of a waterfront property, a redacted photograph, a black-and-white yearbook photo of a young man, and a color photo of a young man on a beach. A document identifier is visible at the bottom right.",
+    "layout": "Two-column layout. The left column is a full page of text. The right column contains four photographs of varying sizes, each with a caption.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\nI don't see what it adds to the\npy.\"\nestigation had taken place, that\nbut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\ni to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nin in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\neone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\named eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet…but the\nvisitors who painted it. In any case,\n\n150\n\nEpstein's Palm Beach\nproperty, 358 El Brillo\nWay (© Chris Bott /\nSplash News / Corbis)\n\nOne of the photographs\ncaptured on video during the\nPalm Beach Police Department\nsearch warrant walk-through\nof Epstein's El Brillo Way\nresidence (Palm Beach Police\nDepartment)\n\nJeffrey Epstein's 1969 high school\nyearbook photo (Lafayette High\nSchool, Brooklyn, New York, 1969)\n\nJeffrey Epstein, Coney Island,\ncirca 1969 (Anonymous)\n\nHOUSE_OVERSIGHT_010478",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "TERSON\n\nI don't see what it adds to the\npy.”\nestigation had taken place, that\nbut, at that time, no criminal\nirs had been launched. And in\nthe rumors of Epstein's dealings\ni to be just that—rumors.\nhis lawyers, his editors, and his\ning odd and disturbing happened\nin in Times Square.\n\nto the office early. He swiped his\nthe elevator button, and arrived in\nion area on the twenty-first floor.\nct time to review Ward's story.\nn's town house—which is said to\nresidence in New York City at the\ne, amid the flurry of menservants\nand pristine white gloves, you feel\neone's private Xanadu,” she'd writ-\nperson's home, but a high-walled,\nthat seems to have no boundaries.\ned not with paintings but with row\named eyeballs; these, the owner tells\nnported from England, where they\ners. Next comes a marble foyer, which\ne manner of Jean Dubuffet…but the\nvisitors who painted it. In any case,",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Epstein's Palm Beach\nproperty, 358 El Brillo\nWay (© Chris Bott /\nSplash News / Corbis)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "One of the photographs\ncaptured on video during the\nPalm Beach Police Department\nsearch warrant walk-through\nof Epstein's El Brillo Way\nresidence (Palm Beach Police\nDepartment)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Jeffrey Epstein's 1969 high school\nyearbook photo (Lafayette High\nSchool, Brooklyn, New York, 1969)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Jeffrey Epstein, Coney Island,\ncirca 1969 (Anonymous)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "150",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010478",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1969"
+    ],
+    "people": [
+      "TERSON",
+      "Epstein",
+      "Ward",
+      "Jean Dubuffet",
+      "Jeffrey Epstein",
+      "Chris Bott"
+    ],
+    "organizations": [
+      "Splash News",
+      "Corbis",
+      "Palm Beach Police Department",
+      "Lafayette High School"
+    ],
+    "locations": [
+      "Times Square",
+      "New York City",
+      "England",
+      "Palm Beach",
+      "358 El Brillo Way",
+      "El Brillo Way",
+      "Brooklyn, New York",
+      "Coney Island"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010478",
+      "150"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "358 El Brillo Way, Palm Beach"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010478"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs and text related to Jeffrey Epstein",
+    "date": "1969",
+    "references": [
+      "HOUSE_OVERSIGHT_010478"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The image is a page from a larger document, likely a book, which includes both narrative text and photographic evidence. One of the photographs is fully redacted with a black box. The text on the left is partially cut off at the margins.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010478.jpg",
+  "house_oversight_id": "010478",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:40:59.145849Z",
+    "model": "gemini-2.5-pro"
+  }
+}

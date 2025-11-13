@@ -1,0 +1,124 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010491.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a page from a book or magazine. The page features a collage of five photographs with accompanying text captions. The photographs depict: a black private jet on an airstrip, a close-up of a jet's cockpit, two men walking together (identified as Prince Andrew and Jeffrey Epstein), a group of people inside a submarine (including Stephen Hawking), and a partial framed photo with a handwritten inscription. The page is slightly curved, suggesting it is from a bound volume.",
+    "layout": "Collage style with multiple images and text blocks arranged across the page. A footer with a document identifier is present at the bottom.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)\n\nSweet -\nyou're on\n\nEpstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)\n\nWhen Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)\n\nStephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\n\"a workshop to explore fundamental\nquestions in physics and cosmology,\"\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)\n\nN\nTaglia\nDavies\nYor\nBall\n\nHOUSE_OVERSIGHT_010491",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "Epstein's Gulfstream,\nphotographed on Little\nSaint James island in\nthe U.S. Virgin Islands,\nJanuary 2015 (© Chris\nBott / Splash News / Corbis)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Epstein's longtime pilot, Larry Visoski,\nwas at the controls as Epstein's\nGulfstream left Teterboro Airport in\nNew Jersey, January 2016. (Jae Donnelly)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "When Prince Andrew and Epstein were seen\nstrolling together through New York's Central\nPark in 2011, shortly after Epstein's release\nfrom jail, the duke was forced to quit his\nrole as the British government's global trade\nenvoy. (Jae Donnelly / News of the World)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Stephen Hawking, photographed\nin March 2006 aboard an Atlantis\nsubmarine that was custom-fitted\nby Epstein to accommodate his\nwheelchair. Hawking was attending\nthe conference \"Confronting Gravity,\"\n\"a workshop to explore fundamental\nquestions in physics and cosmology,\"\nsponsored by the J. Epstein VI\nFoundation and the Center for\nEducation and Research in Cosmology\nand Astrophysics (CERCA) at Case\nWestern Reserve University, at the Ritz\nCarlton, St. Thomas, USVI. (Courtesy\nCERCA, Case Western University)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "N\nTaglia\nDavies\nYor\nBall",
+        "type": "printed"
+      },
+      {
+        "region": "annotation",
+        "text": "Sweet -\nyou're on",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010491",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01",
+      "2016-01",
+      "2011",
+      "2006-03"
+    ],
+    "people": [
+      "Epstein",
+      "Chris Bott",
+      "Larry Visoski",
+      "Jae Donnelly",
+      "Prince Andrew",
+      "Stephen Hawking",
+      "N Taglia",
+      "Davies",
+      "Yor",
+      "Ball"
+    ],
+    "organizations": [
+      "Splash News",
+      "Corbis",
+      "News of the World",
+      "British government",
+      "Atlantis",
+      "J. Epstein VI Foundation",
+      "Center for Education and Research in Cosmology and Astrophysics (CERCA)",
+      "Case Western Reserve University",
+      "Ritz Carlton"
+    ],
+    "locations": [
+      "Little Saint James island",
+      "U.S. Virgin Islands",
+      "Teterboro Airport",
+      "New Jersey",
+      "New York's Central Park",
+      "St. Thomas, USVI"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010491"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "Sweet - you're on"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs related to Jeffrey Epstein, including his jet, associates like Prince Andrew, and sponsored events with Stephen Hawking.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010491"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The image is a photograph of a page from a publication, not the original document itself. Some text on the far right is cut off. The handwritten note is legible, but the signature below it is not.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010491.jpg",
+  "house_oversight_id": "010491",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:46:33.249250Z",
+    "model": "gemini-2.5-pro"
+  }
+}

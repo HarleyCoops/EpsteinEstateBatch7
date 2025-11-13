@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010485.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a publication, possibly a magazine or book, featuring four photographs with captions. The page is part of a larger document, as indicated by the footer. The content appears to be related to individuals connected to or involved in events surrounding Jeffrey Epstein. Some names in the captions have been redacted with black boxes.",
+    "layout": "The page has a multi-element layout. The left two-thirds of the page contains four distinct photographs, each with an accompanying text caption. The right one-third of the page shows a column of body text from an article, which is partially cut off. A document identifier is present at the bottom of the page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "[REDACTED] and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)\n\nGood flight!\n\n[REDACTED] and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)\n\nMichael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)\n\nRetired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)\n\nguests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct\n\nHOUSE_OVERSIGHT_010485",
+    "text_regions": [
+      {
+        "region": "caption_1",
+        "text": "[REDACTED] and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)",
+        "type": "printed"
+      },
+      {
+        "region": "caption_2",
+        "text": "Good flight!",
+        "type": "printed"
+      },
+      {
+        "region": "caption_3",
+        "text": "[REDACTED] and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)",
+        "type": "printed"
+      },
+      {
+        "region": "caption_4",
+        "text": "Michael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)",
+        "type": "printed"
+      },
+      {
+        "region": "caption_5",
+        "text": "Retired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)",
+        "type": "printed"
+      },
+      {
+        "region": "body_text_right_column",
+        "text": "guests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010485",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2012-01",
+      "2013-11"
+    ],
+    "people": [
+      "Brian Vickers",
+      "Jeff Moreland",
+      "Larry Visoski",
+      "Epstein",
+      "Michael Reiter",
+      "Janet Reiter",
+      "Debbie Schatz",
+      "Joe Recarey",
+      "Meghan McCarthy",
+      "Mort Zu[...]",
+      "Var[...]"
+    ],
+    "organizations": [
+      "NASCAR",
+      "Icon Sportswire",
+      "AP Images",
+      "YouTube",
+      "Palm Beach Police Foundation",
+      "Palm Beach Daily News",
+      "ZUMAPRESS.com",
+      "Microsoft",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Churchill Downs",
+      "Louisville, Kentucky",
+      "Mar-a-Lago",
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010485"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Redaction boxes covering names in two photo captions."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph_collection",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs of individuals including Brian Vickers, Larry Visoski, Michael and Janet Reiter, and Joe Recarey, with captions detailing events and affiliations.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010485"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The image is a page from a publication, likely used as evidence or documentation for the House Oversight Committee. The text on the far right is partially cut off, making it incomplete. Several names have been redacted.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010485.jpg",
+  "house_oversight_id": "010485",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:44:02.812816Z",
+    "model": "gemini-2.5-pro"
+  }
+}

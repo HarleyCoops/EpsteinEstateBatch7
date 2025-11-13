@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010479.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a publication, likely a magazine or book, featuring four photographs with accompanying captions. The photographs depict various public figures at different events over several years. Some individuals in the photos and names in the captions have been redacted with black boxes. The page has a document identifier at the bottom.",
+    "layout": "The page is laid out in a single column. It features four distinct photographs, each paired with a text caption to its right or below it. The content is arranged vertically down the page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)\n\n(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)\n\n(L to R) [REDACTED], Jeffrey Epstein,\nGhislaine Maxwell, and\n[REDACTED] attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)\n\nJeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) [REDACTED]\n[REDACTED] attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)\n\nHOUSE_OVERSIGHT_010479",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "Leslie Wexner, photographed\nat his home in New York City,\n1989 (© Lynn Goldsmith)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "(L to R) Jeffrey Epstein, Ghislaine\nMaxwell, and Tony Randall, who\npresided over a November 1991\nYIVO Institute event at the Plaza\nHotel to honor the late Robert\nMaxwell (Marina Garnier)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "(L to R) [REDACTED], Jeffrey Epstein,\nGhislaine Maxwell, and\n[REDACTED] attend a\nreception at Mar-a-Lago,\n1995. (Davidoff Studios)",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Jeffrey Epstein, Donald\nTrump, and (newly signed\nTrump Model) [REDACTED]\n[REDACTED] attending the\nVictoria's Secret Angels\nparty at Laura Belle club\nin New York City on April\n8, 1997 (Marina Garnier)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010479",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1989",
+      "1991-11",
+      "1995",
+      "1997-04-08"
+    ],
+    "people": [
+      "Leslie Wexner",
+      "Lynn Goldsmith",
+      "Jeffrey Epstein",
+      "Ghislaine Maxwell",
+      "Tony Randall",
+      "Robert Maxwell",
+      "Marina Garnier",
+      "Donald Trump"
+    ],
+    "organizations": [
+      "YIVO Institute",
+      "Davidoff Studios",
+      "Trump Model",
+      "Victoria's Secret Angels"
+    ],
+    "locations": [
+      "New York City",
+      "Plaza Hotel",
+      "Mar-a-Lago",
+      "Laura Belle club"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010479"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010479"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph_collection",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photographs of Leslie Wexner, Jeffrey Epstein, Ghislaine Maxwell, Donald Trump, and others at various events between 1989 and 1997.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010479"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is a page containing four photographs with captions. Several names and faces in the third and fourth photographs/captions have been redacted with black boxes, making the identification of those individuals impossible from this image alone.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010479.jpg",
+  "house_oversight_id": "010479",
+  "processing_metadata": {
+    "processed_at": "2025-11-13T20:41:22.912891Z",
+    "model": "gemini-2.5-pro"
+  }
+}
