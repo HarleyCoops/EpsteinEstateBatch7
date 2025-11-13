@@ -1,108 +1,211 @@
-# Dorle's Stories: A Digital Assistant for Historical Letters
+# BATCH7 Pipeline: House Oversight Committee Document Processing
 
-## Part 1: What is This Project? 
+## Overview
 
-This project is a tool designed to read, understand, and organize old, handwritten family letters. Imagine you have a box full of old photos of handwritten letters from a relative named Dorle. They are written in German, the pages are all mixed up, and the handwriting is hard to read.
+This pipeline processes House Oversight Committee documents using the same LLM-based extraction and analysis approach as the Dorle's Stories pipeline, but adapted for official government documentation.
 
-The Dorle's Stories project acts like a helpful digital assistant. You give it the photos of the letters, and it carefully:
+## Structure
 
-1.  **Reads the handwriting** and turns it into digital text.
-2.  **Sorts the mixed-up pages** into complete, individual letters.
-3.  **Translates** each letter from German into English.
-4.  **Produces clean, typed documents** for you to read, share, or print.
+The pipeline processes three types of inputs:
 
-The final result is a perfectly organized digital library of your family's history, preserving the original stories for future generations.
+1. **NATIVES/** - Excel spreadsheets: Analyze structure, extract relationships, build connection maps
+2. **IMAGES/** - Images: OCR/extract text, describe pictures, output complex JSON
+3. **TEXT/** - Text conversations: Extract content, understand context, assemble into stories/letters
 
-## Part 2: How It Works, From Photo to Complete Translations
+## Installation
 
-The process works in a series of intelligent steps, much like a puzzle being put together.
+Install required dependencies:
 
-**Step 1: Reading the Handwriting (OCR)**
-First, we show the computer's "eyes"—a technology called Optical Character Recognition (OCR)—each photo. The AI is trained to read historical German script, so it carefully transcribes the handwriting from the image into a plain text file. We do this for every single page.
+```bash
+pip install -r requirements.txt
+```
 
-**Step 2: Sorting the Pages into Letters (Semantic Grouping)**
-This is the most important step. After Step 1, we have a collection of digital text files, but they are still out of order.
+Note: This adds `pandas` and `openpyxl` for Excel processing.
 
-To solve this, we give all of the transcribed text to a powerful AI (Google's Gemini model). The AI reads through the content of all the pages at once. By understanding the topics, names, and events mentioned, it intelligently figures out which pages belong together to form a complete letter. It looks for the start of a story, how it continues, and where it ends. This is called "semantic grouping" because it groups the pages based on the *meaning* of the words, not just unreliable file dates.
+## Configuration
 
-**Step 3: Translation and Final Document Creation**
-Once the pages are correctly grouped into letters, the AI assistant takes each complete German letter and translates it into English. Finally, it saves both the German and English versions as clean text files. It can also create professional-looking documents (using a system called LaTeX) that are ready to be turned into PDFs.
+Set your Gemini API key:
 
-## Part 3: Why It Works This Way
-
-You might wonder why we use a complex AI to sort the pages instead of just looking at the date on the photos.
-
-The reason is that **metadata like file dates is often wrong**. Photos can be scanned out of order, or the camera might have had the wrong date set. If we relied on that information, we could easily mix up the pages and break a single letter into confusing, incomplete pieces.
-
-This project's method is more reliable because it **reads the story, just like a human would**. By understanding the context, it can tell that the page talking about a "trip to the mountains" should come after the page that "plans the trip," regardless of the photo's timestamp.
-
-This focus on the content ensures that the final, reconstructed letters are accurate and that the original narrative is preserved exactly as it was written.
-
-## Part 4: Technical Overview
-
-This section provides the necessary technical details to run the pipeline.
-
-![The AI processing pipeline](mermaid-ai-diagram-2025-09-01-162852.png)
-
-*This diagram illustrates the automated workflow of the Dorle's Stories project. It begins with the input of handwritten letter images, which are then processed through a series of steps including Optical Character Recognition (OCR) to extract text, AI-powered semantic grouping to sort pages into letters, and finally, translation from German to English. The output is a set of organized, translated, and formatted documents, available as plain text, LaTeX files, and PDFs.*
-
-### Prerequisites
-
--   Python 3.10 or newer.
--   All required Python packages, which can be installed by running: `pip install -r requirements.txt`.
--   A Google Gemini API key. This key must be made available to the scripts as an environment variable named `GEMINI_API_KEY`.
-
-**Setting the API Key in PowerShell:**
 ```powershell
-# This command sets the key for your current terminal session
 $env:GEMINI_API_KEY="your-api-key-here"
 ```
-Alternatively, you can create a file named `.env` in the project's root directory and place your key inside it like this: `GEMINI_API_KEY=your-api-key-here`.
 
-### How to Run the Pipeline
-
-The easiest way to process a collection of letters is to use the main wrapper script. This single command runs all the necessary steps in the correct order.
-
-**Example Command:**
-To process all the letters in the `DorleLettersF` folder, open your terminal and run:
-```bash
-python run_letters_pipeline.py --base DorleLettersF
+Or create a `.env` file in the project root:
+```
+GEMINI_API_KEY=your-api-key-here
 ```
 
-This command will automatically find the images, run the OCR, group the pages into letters, and translate them into English.
+## Usage
 
-**Useful Options:**
--   `--no-latex`: Use this if you only want the plain text (`.txt`) English translation and do not need the formatted LaTeX (`.tex`) files.
--   `--force-translate`: Use this to re-run the translation step, even on letters that have already been translated.
+### Run All Processing Stages
 
-### Understanding the Output Files
+```bash
+python BATCH7/run_batch7_pipeline.py --process all
+```
 
-After the process runs, you will find the results in a `letters` sub-folder (e.g., `DorleLettersF/letters/`). Here is what the key files mean:
+### Run Individual Stages
 
--   `llm_grouping.json`: This is an important manifest file. It contains the AI's decisions about how the pages were grouped. For each letter, it lists the exact source image files that belong to it, which provides a clear record of the process.
--   `L0001/de.txt`: The full, combined German text for the first letter.
--   `L0001/en.txt`: The English translation of the first letter.
--   `L0001/en.tex`: The formatted LaTeX version of the English translation, ready for creating a PDF.
+```bash
+# Process Excel files only
+python BATCH7/run_batch7_pipeline.py --process natives
 
-### Build PDFs from LaTeX
+# Process images only
+python BATCH7/run_batch7_pipeline.py --process images
 
-You can compile every `en.tex` into a PDF named like the letter folder (e.g., `DorleLettersE L0001.pdf`) using the helper script `build_pdfs.py`.
+# Process text files only
+python BATCH7/run_batch7_pipeline.py --process text
+```
 
-Prerequisites
-- Install a LaTeX engine. Options:
-  - Tectonic (recommended): `winget install Tectonic.Tectonic` or `choco install tectonic`
-  - MiKTeX (pdflatex/xelatex) also works if already on PATH.
+### Options
 
-Usage
-- All sets A–M with cleanup: `python build_pdfs.py --glob "DorleLetters[A-M]" --engine pdflatex --cleanup`
-- Better Unicode support: `python build_pdfs.py --glob "DorleLetters[A-M]" --engine xelatex --cleanup`
-- Auto-detect engine: `python build_pdfs.py --glob "DorleLetters[A-M]"`
-- Dry run: `python build_pdfs.py --glob "DorleLetters[A-M]" --dry-run`
+- `--base-dir BATCH7` - Base directory containing NATIVES/, IMAGES/, TEXT/
+- `--output-dir BATCH7/output` - Output directory for all results
+- `--skip-existing` - Skip files that already have outputs
 
-Details
-- The script scans `DorleLetters*/letters/*/en.tex`, compiles in each folder, then renames `en.pdf` to `<folder>.pdf` beside the `.tex`.
-- If you encounter a LaTeX Unicode error (e.g., block-drawing characters) with `pdflatex`, use `--engine xelatex`.
+## Output Structure
 
-### Appendix: Legacy and Advanced Information
+```
+BATCH7/
+├── NATIVES/
+│   └── 001/
+│       └── *.xls, *.xlsx
+├── IMAGES/
+│   └── 001/
+│       └── *.jpg (with *.json alongside)
+├── TEXT/
+│   └── 001/
+│       └── *.txt
+└── output/
+    ├── natives_analysis/
+    │   └── *_analysis.json
+    ├── images_analysis/  (not used - JSON saved with images)
+    └── text_analysis/
+        ├── text_extractions.json
+        ├── stories_assembly.json
+        └── letters/
+            ├── S0001/
+            │   ├── meta.json
+            │   ├── text.txt
+            │   └── source_files.txt
+            └── S0002/...
+```
 
-For advanced users or for historical context, this repository also contains older scripts (`helperPython/ImageTranslator.py`) and alternative workflows (`helperPython/codex/`). These are not part of the main, recommended pipeline and can be disregarded for standard use. Advanced users can also run the individual pipeline scripts (`llm_group_letters.py`, `translate_letters.py`) manually if they need more granular control over each step.
+## Processing Details
+
+### NATIVES (Excel)
+
+- Reads all worksheets in each Excel file
+- Extracts tabular data preserving structure
+- Identifies entities (people, organizations, dates, locations)
+- Maps relationships between entities
+- Outputs JSON analysis files
+
+### IMAGES
+
+- Performs OCR to extract all visible text
+- Describes image content and layout
+- Extracts structured data (dates, names, document numbers)
+- Outputs JSON file alongside each image (same name, .json extension)
+
+### TEXT
+
+- Extracts content from each text file
+- Groups related texts into coherent narratives
+- Reuses `llm_group_letters.py` with the new `--text-dir/--pages-dir` flag (no adapters needed):
+  ```bash
+  python llm_group_letters.py --text-dir BATCH7/TEXT/001 --output-dir BATCH7/output/text_letters --assemble --save-input
+  ```
+- Produces `letters/` folder structure with:
+  - `meta.json` - Story metadata including `source_files` and `house_oversight_ids`
+  - `text.txt` (and legacy `de.txt`) - Assembled narrative
+  - `en.txt` / `en.tex` when `translate_letters.py --letters-dir BATCH7/output/text_letters --latex` is run
+
+## Prompt Design
+
+All prompts are designed with these principles:
+
+1. **Accuracy First**: Never hallucinate or infer beyond what is present
+2. **Structured Output**: Always use JSON for machine-readable results
+3. **Provenance**: Always include source file names and references
+4. **Confidence Scores**: Include confidence levels for uncertain extractions
+5. **Error Handling**: Note unclear, damaged, or ambiguous content
+
+See `PROMPT_DESIGN.md` for detailed prompt specifications.
+
+See `TASK_BREAKDOWN.md` for verbose 21-step implementation plan covering:
+- Text Files → Letters Flow (7 steps)
+- Provenance and Aggregation (7 steps)  
+- Token/Runtime Optimization (7 steps)
+
+## Notes
+
+- The pipeline uses Gemini 2.5 Pro Flash for all LLM operations
+- Processing can be time-consuming for large batches
+- Use `--skip-existing` to resume interrupted processing
+- JSON outputs are designed for downstream analysis and relationship mapping
+- Core orchestration scripts (`llm_group_letters.py`, `translate_letters.py`, `run_letters_pipeline.py`, `build_pdfs.py`) and `requirements.txt` are now copied into this `BATCH7/` folder so the project can run in isolation or be pushed to a standalone repo (e.g., `EpsteinEstateBatch7`). Run them from this directory to avoid reaching back into the parent repo.
+
+## Future Directions
+
+### Enhanced Image Classification and Schema Variants
+
+Currently, `batch7_process_images.py` sends every image through the same prompt (`PROMPT_IMAGE_ANALYSIS`), producing a generic schema. To better handle different document types (court documents vs casual photos), we can enrich the prompt without overhauling the pipeline:
+
+#### Explicit Classification Step
+
+Add a document type decision tree before extraction:
+- "Determine whether this image is a court/official document, a photographed page, or other. Use the appropriate schema rules."
+
+Then describe each schema block:
+
+- **Court/Official documents** → require docket numbers, case captions, filing dates, parties, judge, signature blocks, stamps, etc.
+- **Photographed/other text sources** → emphasize raw text transcription plus contextual analysis (topics, people, locations) and character profile hooks.
+
+The existing `PROMPT_IMAGE_ANALYSIS` string (lines 15-76 in `batch7_process_images.py`) is the place to encode these instructions.
+
+#### Schema Switch Inside Same JSON
+
+Keep a top-level `document_class` field and provide separate sub-objects:
+
+```json
+{
+  "file_name": "...",
+  "document_class": "court_document",
+  "court_document": {
+    "docket_number": "...",
+    "case_caption": "...",
+    "filing_date": "...",
+    "parties": [...],
+    "judge": "...",
+    "signature_blocks": [...],
+    "stamps": [...]
+  },
+  "general_text": null,
+  "character_profiles": null
+}
+```
+
+Gemini can leave the unused section null. That keeps the output single-schema while still forcing it to fill the right subsection.
+
+#### Character/Context Extraction
+
+Add a `character_profiles` array in the prompt requirements:
+- "For each named person, provide role, affiliations, and evidence snippet."
+
+That feeds character intelligence without running a separate agent.
+
+#### Implementation
+
+1. Edit `PROMPT_IMAGE_ANALYSIS` to spell out:
+   - The classification rubric
+   - The two schema variants (court_document vs general_text)
+   - The requirement to populate `document_class`
+   - Character profile extraction requirements
+
+2. No code change beyond the prompt is needed; `batch7_process_images.py` already writes the JSON next to each image.
+
+3. Optional: Add JSON Schema validation (per `JSON_SCHEMA_RUBRIC.md`) and validate before saving.
+
+4. Rerun processing: `python BATCH7/run_batch7_pipeline.py --process images --skip-existing` to update existing images with new schema, or process new images with the enhanced prompt.
+
+This enhancement maintains backward compatibility (existing JSONs remain valid) while enabling more targeted extraction for different document types.

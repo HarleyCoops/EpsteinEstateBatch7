@@ -10,6 +10,17 @@
 secrets/
 config/secrets.json
 
+# Data directories - too large for git
+IMAGES/
+TEXT/
+NATIVES/
+DATA/
+Epstein-Estate-Documents---Batch-7/
+
+# Output directories
+output/
+*.json
+
 # Python
 __pycache__/
 *.py[cod]
