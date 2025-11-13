@@ -1,9 +1,0 @@
-Pillow
-requests
-openai
-python-dotenv
-PyYAML
-google
-google-genai
-pandas
-openpyxl
