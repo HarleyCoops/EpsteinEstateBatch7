@@ -1,0 +1,40 @@
+# Data directories - too large for git
+IMAGES/
+TEXT/
+NATIVES/
+DATA/
+Epstein-Estate-Documents---Batch-7/
+
+# Output directories
+output/
+*.json
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Environment
+.env
+.venv
+venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
