@@ -1,38 +1,35 @@
 # Repository Guidelines
 
 ## Project Structure & Module Organization
-- Root: pipeline entry points and tools (`run_letters_pipeline.py`, `build_pdfs.py`, `llm_group_letters.py`, `translate_letters.py`).
-- `helperPython/`: reusable modules (`grouping.py`, pipelines, translators) and light tests (`test_*.py`).
-- `Chinese/`: Chinese-specific workflow and compiler (`compile_chinese_texts.py`).
-- `DorleLetters*/` and `input/`: source images and generated outputs; outputs appear under `letters/` inside each collection.
-- `codex/`: logs and generated markdown snippets from prior experiments.
+- Root holds pipeline entry points like un_letters_pipeline.py, uild_pdfs.py, 	ranslate_letters.py.
+- helperPython/ stores reusable modules (grouping.py, translator helpers) and targeted tests (	est_*.py).
+- Chinese/ hosts Chinese compilation workflow via compile_chinese_texts.py.
+- DorleLetters*/ directories contain scanned inputs and generated letters/ outputs; input/ mirrors raw assets for experiments.
+- codex/ captures logs and markdown notes from automation runs.
 
 ## Build, Test, and Development Commands
-- Install deps: `pip install -r requirements.txt`.
-- Set API key (PowerShell): `$env:GEMINI_API_KEY="..."` or use `.env` with `GEMINI_API_KEY=...`.
-- Run full pipeline: `python run_letters_pipeline.py --base DorleLettersF`.
-- Re-translate only: `python translate_letters.py --base DorleLettersF --force-translate`.
-- Build PDFs: `python build_pdfs.py --glob "DorleLetters[A-M]" --engine xelatex`.
-- Tests (from repo root): `pytest -q` (discovers `helperPython/test_*.py`).
+- pip install -r requirements.txt installs notebooks, pipeline, and PDF tooling dependencies.
+- python run_letters_pipeline.py --base DorleLettersF performs the end-to-end translation and layout pass for a collection.
+- python translate_letters.py --base DorleLettersF --force-translate re-runs the LLM translation stage.
+- python build_pdfs.py --glob "DorleLetters[A-M]" --engine xelatex composes printable PDFs for matching collections.
+- pytest -q executes repository tests in helperPython/.
 
 ## Coding Style & Naming Conventions
-- Python 3.10+, PEP 8, 4-space indentation.
-- Names: modules/files `snake_case.py`; constants `UPPER_CASE`; functions `snake_case`; classes `CamelCase`.
-- Docstrings for public functions. Prefer clear, small functions over large scripts.
-- Type hints encouraged where practical; keep imports standard-library first.
+- Target Python 3.10+, PEP 8 formatting, 4-space indentation, and snake_case module/function names; constants stay in UPPER_CASE.
+- Public helpers should expose docstrings and type hints where useful; break large scripts into composable functions.
+- Keep imports grouped: stdlib, third-party, then local modules; avoid unused dependencies.
 
 ## Testing Guidelines
-- Framework: `pytest`. Place tests near code (`helperPython/test_*.py`).
-- Name tests `test_<unit>.py`; target pure helpers (e.g., `grouping.py`) with deterministic cases.
-- Run locally with `pytest -q`; add minimal fixtures for I/O-heavy logic.
+- Tests live alongside helpers in helperPython/test_*.py; follow 	est_<unit>.py naming and deterministic fixtures.
+- Run pytest -q before pushing; extend coverage when adding translator utilities or grouping logic.
+- For pipeline changes, consider temporary smoke runs with python run_letters_pipeline.py --base <collection>.
 
 ## Commit & Pull Request Guidelines
-- Commits: prefer Conventional Commits (e.g., `feat:`, `fix:`, `docs:`, `chore:`). Keep messages imperative and scoped.
-- PRs: include a concise summary, steps to reproduce/verify, linked issues, and sample commands (e.g., pipeline invocation). Add before/after screenshots for output changes when applicable.
-- Do not commit secrets or large binary outputs; respect `.gitignore`.
+- Use Conventional Commit prefixes (eat:, ix:, docs:) and keep messages imperative and scoped.
+- PRs should summarize intent, note reproduction commands, link issues, and attach before/after assets (e.g., new letters/ outputs) when relevant.
+- Document the exact --base collection and command flags used during validation.
 
 ## Security & Configuration Tips
-- Secrets: use `.env` (loaded via `python-dotenv`). Never hardcode keys.
-- Reproducibility: record exact command lines and `--base` folder in PR descriptions.
-- Large data: store raw images in `DorleLetters*/` and let the pipeline generate `letters/` outputs.
-
+- Never commit API keys; load GEMINI_API_KEY via .env or shell environment.
+- Record new dependencies in equirements.txt and mention any external tools in the PR description.
+- Large binaries stay out of Git—store source scans under DorleLetters*/ and regenerate outputs through the pipeline.

@@ -51,9 +51,9 @@ def main() -> None:
     py = sys.executable
 
     # Step 1: OCR + deterministic grouping + assemble zh.txt
-    # Run as a module so package imports (helperPython.*) resolve correctly
+    # Run as a module so package imports resolve correctly
     cmd_strict = [
-        py, "-m", "helperPython.pipeline_strict_zh",
+        py, "-m", "china_pipeline.pipeline",
         "--input-dir", images_dir,
         "--chinese-dir", chinese_dir,
         "--letters-dir", letters_dir,
@@ -66,7 +66,7 @@ def main() -> None:
     # Optionally re-run translation independently (for --force behavior)
     if args.force_translate:
         cmd_translate = [
-            py, "translate_letters_zh.py",
+            py, "-m", "china_pipeline.translate_letters",
             "--letters-dir", letters_dir,
             "--force",
         ]

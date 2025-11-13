@@ -1,26 +1,27 @@
 #!/usr/bin/env python3
 """
-LLM-driven grouping of German OCR pages into letters.
+LLM-driven grouping of document pages into coherent letters/stories.
 
 What it does
-- Reads all German OCR page files from --german-dir (expects "<base>_german.txt").
+- Reads all page text files from --text-dir/--pages-dir (any *.txt files).
 - Optionally maps them to the original image filenames from --images-dir.
-- Builds a single prompt context that lists (filename, german_text) for every page.
-- Calls Gemini 2.5 Pro to infer contiguous letters and page order purely from content.
-- Saves the model's JSON grouping and, if --assemble, writes one de.txt per letter with no extra markers.
+- Builds a single prompt context that lists (filename, page_text) for every page.
+- Calls Gemini 2.5 Pro Flash to infer contiguous letters and page order purely from content.
+- Saves the model's JSON grouping and, if --assemble, writes one de.txt/text.txt per letter with no extra markers.
 
 Important constraints
 - No narrative analysis. No invented pages. Do not add markers or headers to letters.
-- Provenance is preserved in the JSON output (mapping letter -> page filenames).
+- Provenance is preserved in the JSON output (mapping letter -> page filenames) and meta.json.
 
 Outputs
 - <output-dir>/llm_grouping_input.txt  (audit: what we sent)
 - <output-dir>/llm_grouping.json       (LLM result)
-- <output-dir>/L0001/de.txt, L0002/de.txt, ... (if --assemble)
+- <output-dir>/L0001/de.txt + text.txt, L0002/..., etc. (if --assemble)
 """
 from __future__ import annotations
 
 import os
+import re
 import sys
 import json
 import argparse
@@ -30,23 +31,35 @@ from dotenv import load_dotenv
 from google import genai
 from google.genai import types
 
+HOUSE_OVERSIGHT_PATTERN = re.compile(r"house[_-]?oversight[_-]?(\d+)", re.IGNORECASE)
 
-def list_german_pages(german_dir: str) -> List[str]:
-    files = [f for f in os.listdir(german_dir) if f.lower().endswith("_german.txt")]
+
+def current_model() -> str:
+    return os.environ.get("GEMINI_MODEL", "gemini-2.5-pro-flash")
+
+
+def list_text_pages(text_dir: str) -> List[str]:
+    files: List[str] = []
+    for root, _, filenames in os.walk(text_dir):
+        for fname in filenames:
+            if fname.lower().endswith(".txt"):
+                files.append(os.path.join(root, fname))
     files.sort()
-    return [os.path.join(german_dir, f) for f in files]
+    return files
 
 
 def to_base(filename: str) -> str:
     name = os.path.basename(filename)
-    if name.lower().endswith("_german.txt"):
-        return name[: -len("_german.txt")]
+    lower = name.lower()
+    for suffix in ("_german.txt", "_text.txt", ".txt"):
+        if lower.endswith(suffix):
+            return name[: -len(suffix)]
     return os.path.splitext(name)[0]
 
 
 PROMPT_IMAGE_EXTRACTION = (
-    "This is a single page image of a handwritten German document.\n"
-    "Transcribe the handwritten German text exactly as it appears.\n"
+    "This is a single page image from an official House Oversight Committee document set.\n"
+    "Transcribe the text exactly as it appears (handwritten, typed, stamped, etc.).\n"
     "Do not add numbering, bullets, labels, or commentary.\n"
     "Do not prefix lines with numbers or symbols.\n"
     "Return only the raw text with original line breaks."
@@ -54,14 +67,15 @@ PROMPT_IMAGE_EXTRACTION = (
 
 
 PROMPT_TASK = (
-    "You will receive a list of pages from scanned German letters. Each item has a filename and its German text.\n"
-    "Your task is to group pages into complete letters and order pages within each letter.\n\n"
+    "You will receive a list of document pages released by the House Oversight Committee.\n"
+    "Each item has a filename and its full text content.\n"
+    "Group pages that belong to the same narrative/letter/memo and order pages within each group.\n\n"
     "Rules:\n"
     "- Use ONLY the provided pages. Do not invent or omit pages.\n"
-    "- Group pages that clearly continue the same letter (salutations, closing formulas, consistent topics/dates/names).\n"
-    "- Order pages within a letter according to content flow.\n"
-    "- If any page is ambiguous, place it in the best-fitting group with low confidence, or leave it unassigned.\n"
-    "- Do NOT alter or rewrite the page texts.\n"
+    "- Group pages that clearly continue the same document (shared salutations, signatures, identifiers, dates, or topics).\n"
+    "- Order pages according to content flow; maintain chronological continuity when dates are present.\n"
+    "- If a page is ambiguous, place it in the best-fitting group with low confidence or leave it unassigned.\n"
+    "- Do NOT alter or rewrite page text. Preserve provenance.\n"
     "- Output STRICT JSON only with this schema (no commentary):\n"
     "  {\n"
     "    \"letters\": [\n"
@@ -79,8 +93,8 @@ def build_input_listing(items: List[Dict[str, str]]) -> str:
     for it in items:
         parts.append("=== PAGE START ===")
         parts.append(f"filename: {it['filename']}")
-        parts.append("german:")
-        parts.append(it["german"])  # do not modify
+        parts.append("text:")
+        parts.append(it["text"])  # do not modify
         if "english" in it and it["english"]:
             parts.append("english:")
             parts.append(it["english"])  # optional aid; do not modify
@@ -89,7 +103,7 @@ def build_input_listing(items: List[Dict[str, str]]) -> str:
     return "\n".join(parts)
 
 
-def extract_german_text(image_path: str, client) -> str:
+def extract_page_text(image_path: str, client) -> str:
     files = [client.files.upload(file=image_path)]
     contents = [
         types.Content(
@@ -111,7 +125,7 @@ def extract_german_text(image_path: str, client) -> str:
     )
     out = ""
     for chunk in client.models.generate_content_stream(
-        model="gemini-2.5-pro",
+        model=current_model(),
         contents=contents,
         config=cfg,
     ):
@@ -138,13 +152,20 @@ def call_llm_grouping(client, task_instructions: str, listing: str) -> str:
     )
     out = ""
     for chunk in client.models.generate_content_stream(
-        model="gemini-2.5-pro",
+        model=current_model(),
         contents=contents,
         config=cfg,
     ):
         if chunk.text:
             out += chunk.text
     return out.strip()
+
+
+def extract_house_ids(value: str) -> List[str]:
+    matches = HOUSE_OVERSIGHT_PATTERN.findall(value)
+    if matches:
+        return matches
+    return re.findall(r"\d{4,}", value)
 
 
 def assemble_letters(groups: dict, items_by_filename: Dict[str, Dict[str, str]], output_dir: str) -> None:
@@ -166,35 +187,63 @@ def assemble_letters(groups: dict, items_by_filename: Dict[str, Dict[str, str]],
         folder_name = f"{collection_prefix} {lid}".strip() if collection_prefix else lid
         ldir = os.path.join(output_dir, folder_name)
         os.makedirs(ldir, exist_ok=True)
-        # Save JSON snippet per letter for provenance
-        with open(os.path.join(ldir, "meta.json"), "w", encoding="utf-8") as f:
-            json.dump(letter, f, ensure_ascii=False, indent=2)
 
         # Concatenate page texts as-is
         texts: List[str] = []
+        source_files: List[str] = []
+        ids: List[str] = []
         for fn in letter.get("pages", []):
             item = items_by_filename.get(fn)
             if not item:
                 # try matching by UUID prefix (model may omit suffix like _1_105_c)
                 item = items_by_prefix.get(fn.split("_", 1)[0])
             if item:
-                texts.append(item.get("german", ""))  # do not modify or add markers
+                texts.append(item.get("text", ""))  # do not modify or add markers
+                source_path = item.get("source_path")
+                if source_path:
+                    source_files.append(source_path)
+                    ids.extend(extract_house_ids(os.path.basename(source_path)))
+
+        meta = dict(letter)
+        if source_files:
+            meta["source_files"] = source_files
+        if ids:
+            seen = set()
+            ordered = []
+            for _id in ids:
+                if _id not in seen:
+                    seen.add(_id)
+                    ordered.append(_id)
+            meta["house_oversight_ids"] = ordered
+
+        with open(os.path.join(ldir, "meta.json"), "w", encoding="utf-8") as f:
+            json.dump(meta, f, ensure_ascii=False, indent=2)
+
         de_text = "".join(texts)
         with open(os.path.join(ldir, "de.txt"), "w", encoding="utf-8") as f:
+            f.write(de_text)
+        with open(os.path.join(ldir, "text.txt"), "w", encoding="utf-8") as f:
             f.write(de_text)
 
 
 def main() -> None:
     load_dotenv()
-    ap = argparse.ArgumentParser(description="LLM-driven grouping of German OCR pages into letters")
+    ap = argparse.ArgumentParser(description="LLM-driven grouping of text pages into letters/stories")
     ap.add_argument("--images-dir", help="Directory with original images (optional)")
-    ap.add_argument("--german-dir", default="german_output")
+    ap.add_argument(
+        "--text-dir",
+        "--pages-dir",
+        "--german-dir",
+        dest="text_dir",
+        default="german_output",
+        help="Directory containing per-page text files (*.txt). Legacy flag --german-dir is retained for compatibility.",
+    )
     ap.add_argument("--english-dir", help="Directory with per-page English translations (optional)")
     ap.add_argument("--output-dir", default="letters")
     ap.add_argument("--assemble", action="store_true", help="Write de.txt per letter using grouped pages")
     ap.add_argument("--save-input", action="store_true", help="Save the constructed listing file for audit")
     ap.add_argument("--reuse-json", action="store_true", help="Reuse existing llm_grouping.json in output-dir instead of calling LLM")
-    ap.add_argument("--run-ocr", action="store_true", help="Run OCR for missing german pages using Gemini 2.5 Pro")
+    ap.add_argument("--run-ocr", action="store_true", help="Run OCR for missing page text using Gemini 2.5 Pro Flash")
     args = ap.parse_args()
 
     api_key = os.environ.get("GEMINI_API_KEY")
@@ -202,8 +251,8 @@ def main() -> None:
         print("GEMINI_API_KEY not set", file=sys.stderr)
         sys.exit(1)
 
-    if not os.path.isdir(args.german_dir):
-        os.makedirs(args.german_dir, exist_ok=True)
+    if not os.path.isdir(args.text_dir):
+        os.makedirs(args.text_dir, exist_ok=True)
 
     client = genai.Client(api_key=api_key)
 
@@ -221,21 +270,21 @@ def main() -> None:
         all_images.sort()
         for i, img in enumerate(all_images, 1):
             base = to_base(img)
-            out_path = os.path.join(args.german_dir, f"{base}_german.txt")
+            out_path = os.path.join(args.text_dir, f"{base}_german.txt")
             if os.path.exists(out_path):
                 continue
             print(f"[{i}/{len(all_images)}] OCR: {os.path.basename(img)}")
             try:
-                text = extract_german_text(img, client)
+                text = extract_page_text(img, client)
             except Exception as e:
                 print(f"  OCR error for {img}: {e}", file=sys.stderr)
                 text = ""
             with open(out_path, "w", encoding="utf-8") as f:
                 f.write(text)
 
-    page_paths = list_german_pages(args.german_dir)
+    page_paths = list_text_pages(args.text_dir)
     if not page_paths:
-        print("No *_german.txt files found.")
+        print("No text .txt files found.")
         sys.exit(1)
 
     # Build input items
@@ -245,7 +294,11 @@ def main() -> None:
             txt = f.read()
         base = to_base(p)
         filename = base  # keep base as filename key
-        obj = {"filename": filename, "german": txt}
+        obj = {
+            "filename": filename,
+            "text": txt,
+            "source_path": os.path.relpath(p),
+        }
         if args.english_dir:
             ep = os.path.join(args.english_dir, f"{base}_english.txt")
             if os.path.exists(ep):

@@ -4,147 +4,272 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Architecture Overview
 
-DorleStories is a multi-phase AI pipeline for digitizing historical German handwritten letters. It uses Google Gemini for OCR/translation and optionally OpenAI for character intelligence extraction.
+DorleStories is a multi-pipeline system for document digitization and analysis using Google Gemini AI. It includes three distinct pipelines:
 
-### Processing Pipeline
+1. **German Letters Pipeline**: LLM-based semantic grouping for handwritten historical letters
+2. **Chinese Pipeline**: Deterministic grouping for Chinese documents
+3. **BATCH7 Pipeline**: House Oversight Committee document processing (Excel, images, text)
 
-1. **Phase 1 - OCR**: Extract German text from handwritten images using Gemini vision model
-2. **Phase 2 - Translation**: Translate German to English using Gemini
-3. **Phase 3 - Analysis**: Generate PhD-level socio-historical analysis
-4. **Phase 4 - LaTeX**: Format for academic presentation
-5. **Phase 5 - Markdown**: Convert for Google Docs
+## Pipeline Systems
 
-### Core Components
+### German Letters Pipeline (LLM-Based Semantic Grouping)
 
-- `ImageTranslator.py`: Main 6-phase processing pipeline with command-line arguments
-- `culturalshifts.py`: Specialized cultural analysis focusing on post-war German shifts
-- `config.yaml`: Central configuration for all settings (not currently used by main pipeline)
-- `agent_monitor.py`: Character intelligence extraction (watches for new translations)
-- `input/`: Source images directory (or custom via --output-base)
-- `german_output/`: OCR results
-- `english_output/`: Translations
-- `analysis_output/`: Cultural analysis outputs
-- `characters/`: Character profiles (JSON)
+Main entry point: [run_letters_pipeline.py](run_letters_pipeline.py)
 
-### Key Configuration (config.yaml)
+**Stage 1 - OCR & LLM Grouping** ([llm_group_letters.py](llm_group_letters.py)):
 
-- **Model**: `gemini-2.5-pro`
-- **Thinking Budgets (Gemini 2.5 Pro)**:
-  - OCR: thinking_budget 512, max_output_tokens 4096, temperature 0.4
-  - Translation: thinking_budget 1024, max_output_tokens 8192, temperature 0.8
-  - Analysis: thinking_budget -1 (dynamic), max_output_tokens 16384, temperature 0.75
-  - LaTeX (EN/DE): thinking_budget 256, max_output_tokens 16384, temperature 0.2
-  - Markdown (Google Docs): thinking_budget 128, max_output_tokens 8192, temperature 0.1
-- **OCR Temperature**: 0.4 (accuracy)
-- **Translation Temperature**: 0.8 (fluency)
-- **Analysis Temperature**: 0.75 (nuanced)
-- **Environment**: Requires `GEMINI_API_KEY` in `.env` or environment
+- Performs OCR on handwritten German images using Gemini 2.5 Pro
+- Uses LLM to semantically group pages into complete letters based on content
+- Assembles German text (`de.txt`) for each letter with provenance metadata
 
-### Development Commands
+**Stage 2 - Translation** ([translate_letters.py](translate_letters.py)):
+
+- Translates German letters to English using Gemini 2.5 Pro
+- Generates LaTeX documents (`en.tex`) for PDF compilation
+
+**Why LLM Grouping?** File metadata (dates, filenames) is unreliable for scanned historical documents. The LLM reads content to understand narrative flow and correctly groups pages that belong together.
+
+### Chinese Pipeline (Deterministic Grouping)
+
+Main entry point: [run_chinese_strict_pipeline.py](run_chinese_strict_pipeline.py)
+
+**Architecture**: Module-based in [china_pipeline/](china_pipeline/)
+
+- [pipeline.py](china_pipeline/pipeline.py): OCR + deterministic grouping + assembly
+- [translate_letters.py](china_pipeline/translate_letters.py): Translation to English + LaTeX
+- [grouping.py](china_pipeline/grouping.py): Deterministic grouping based on timestamps and lexical similarity
+
+**Key Difference**: Uses capture time and content similarity instead of LLM inference for grouping, providing deterministic and auditable results.
+
+### BATCH7 Pipeline (Government Document Processing)
+
+Main entry point: [BATCH7/run_batch7_pipeline.py](BATCH7/run_batch7_pipeline.py)
+
+**Purpose**: Process House Oversight Committee documents with three specialized workflows:
+
+1. **NATIVES Processing** ([batch7_process_natives.py](BATCH7/batch7_process_natives.py)):
+   - Analyzes Excel spreadsheets (.xls, .xlsx)
+   - Extracts tabular data and identifies entities (people, organizations, dates)
+   - Maps relationships between entities
+   - Outputs JSON analysis files
+
+2. **IMAGES Processing** ([batch7_process_images.py](BATCH7/batch7_process_images.py)):
+   - Performs OCR on document images
+   - Describes image content and layout
+   - Extracts structured data (dates, names, document numbers)
+   - Outputs JSON file alongside each image
+
+3. **TEXT Processing** ([batch7_process_text.py](BATCH7/batch7_process_text.py)):
+   - Extracts content from text files
+   - Groups related texts into coherent narratives
+   - Assembles stories similar to Dorle's Stories pipeline
+   - Creates structured output in `letters/S####/` format
+
+See [BATCH7/README.md](BATCH7/README.md) for detailed documentation.
+
+## Common Development Commands
+
+### Setup
 
 ```bash
-# Setup
+# Install dependencies (includes pandas/openpyxl for BATCH7 Excel processing)
 pip install -r requirements.txt
 
-# Run main pipeline (default directories)
-python ImageTranslator.py
+# Set API key (PowerShell)
+$env:GEMINI_API_KEY="your-api-key-here"
 
-# Process specific letter collections
-python ImageTranslator.py --output-base DorleLettersE
-python ImageTranslator.py --output-base DorleLettersF
-python ImageTranslator.py --output-base DorleLettersG
-
-# Run cultural analysis (after translation)
-python culturalshifts.py --output-base DorleLettersE
-
-# Test character agent
-python test_agent.py
-
-# Download sample images
-python download_test_images.py
+# Or create .env file
+echo "GEMINI_API_KEY=your-api-key-here" > .env
 ```
 
-### Processing Notes
+### German Letters Processing
+```bash
+# Full pipeline (OCR → Group → Translate → LaTeX)
+python run_letters_pipeline.py --base DorleLettersF
 
-- Files are processed in numeric order (IMG_3762, IMG_3763, etc.)
-- Already processed files are skipped (resumable)
-- Individual translations are done one-to-one (each German file → English file)
-- Combined output files are created after individual processing for analysis phases
-- Agent monitor runs independently to extract character data
-- Cultural analysis requires completed English translation
+# Skip LaTeX generation
+python run_letters_pipeline.py --base DorleLettersE --no-latex
 
-### Important Patterns
+# Force re-translation
+python run_letters_pipeline.py --base DorleLettersG --force-translate
 
-- All Gemini API calls use streaming for large responses
-- Error handling includes retry logic for API failures
-- Output files use source filename as base (e.g., IMG_3762.jpg → IMG_3762_german.txt)
-- Combined files aggregate all translations in order
+# Individual stages
+python llm_group_letters.py --images-dir DorleLettersF/DorleLettersF --german-dir DorleLettersF/german_output --output-dir DorleLettersF/letters --run-ocr --assemble
+python translate_letters.py --letters-dir DorleLettersF/letters --latex
+```
 
----
+### Chinese Document Processing
 
-## Research Query
+```bash
+# Full Chinese pipeline
+python run_chinese_strict_pipeline.py --base ChineseBook
 
-can you explain the main pipleine of this code through the existing wrapper script? 
+# Skip LaTeX
+python run_chinese_strict_pipeline.py --base ChineseBook --no-latex
 
-*Session: d7a3548c67ec94d00bbff0e1f1fe5a03 | Generated: 9/1/2025, 10:23:02 AM*
+# Force re-translation
+python run_chinese_strict_pipeline.py --base ChineseBook --force-translate
+```
 
-### Analysis Summary
+### BATCH7 Document Processing
 
-# Codebase Pipeline Report
+```bash
+# Process all document types (Excel, images, text)
+python BATCH7/run_batch7_pipeline.py --process all
 
-## High-Level Architecture
+# Process specific document types
+python BATCH7/run_batch7_pipeline.py --process natives   # Excel only
+python BATCH7/run_batch7_pipeline.py --process images    # Images only
+python BATCH7/run_batch7_pipeline.py --process text      # Text only
 
-The codebase implements a pipeline for processing scanned German letters, involving Optical Character Recognition (OCR), LLM-driven grouping of pages into letters, and subsequent translation into English. The entire workflow is orchestrated by a central wrapper script, [run_letters_pipeline.py](c:/Users/chris/DorleStories/run_letters_pipeline.py), which sequentially executes two main components: the **LLM Grouping and Assembly** module and the **Translation** module.
+# Resume interrupted processing
+python BATCH7/run_batch7_pipeline.py --process all --skip-existing
 
-### Main Pipeline Orchestrator: [run_letters_pipeline.py](c:/Users/chris/DorleStories/run_letters_pipeline.py)
+# Process specific subdirectory
+python BATCH7/run_batch7_pipeline.py --natives-dir "BATCH7/NATIVES/001" --process natives
+```
 
-This script serves as the entry point for the entire letter processing pipeline. It handles argument parsing, environment setup (loading `.env` for API keys), and sequentially calls the core processing scripts.
+### PDF Generation
 
-*   **Purpose**: To provide a unified command-line interface for running the complete workflow from OCR to English translation.
-*   **Internal Parts**:
-    *   `main()` function: Coordinates the execution of the two main steps.
-    *   `run()` function: A helper to execute shell commands using `subprocess.run`.
-*   **External Relationships**:
-    *   Calls [llm_group_letters.py](c:/Users/chris/DorleStories/llm_group_letters.py) for the first stage of processing.
-    *   Calls [translate_letters.py](c:/Users/chris/DorleStories/translate_letters.py) for the second stage of processing.
-    *   Interacts with the file system to manage input image directories, intermediate German OCR output, and final letter directories.
+```bash
+# Compile LaTeX to PDF for multiple collections
+python build_pdfs.py --glob "DorleLetters[A-M]" --engine xelatex --cleanup
 
-## Mid-Level Pipeline Stages
+# Auto-detect LaTeX engine
+python build_pdfs.py --glob "DorleLetters[A-M]"
 
-The pipeline is divided into two distinct stages, each managed by a dedicated Python script.
+# Dry run
+python build_pdfs.py --glob "DorleLetters[A-M]" --dry-run
+```
 
-### Stage 1: LLM Grouping and Assembly ([llm_group_letters.py](c:/Users/chris/DorleStories/llm_group_letters.py))
+**LaTeX Engine Prerequisites**:
 
-This module is responsible for converting image scans into German text, grouping these pages into logical letters using an LLM, and assembling the German text for each letter.
+- Tectonic (recommended): `winget install Tectonic.Tectonic`
+- Or MiKTeX (pdflatex/xelatex)
 
-*   **Purpose**: To process raw image files (or pre-existing German OCR text) and organize them into coherent German letters based on content, leveraging a large language model.
-*   **Internal Parts**:
-    *   `main()` function: Orchestrates the OCR, page listing, LLM call, and assembly steps.
-    *   `extract_german_text()`: Performs OCR on image files using the Gemini 2.5 Pro model ([llm_group_letters.py:100](c:/Users/chris/DorleStories/llm_group_letters.py:100)).
-    *   `list_german_pages()`: Lists German OCR text files from a specified directory ([llm_group_letters.py:20](c:/Users/chris/DorleStories/llm_group_letters.py:20)).
-    *   `build_input_listing()`: Formats the page data into a text listing for the LLM prompt ([llm_group_letters.py:80](c:/Users/chris/DorleStories/llm_group_letters.py:80)).
-    *   `call_llm_grouping()`: Interacts with the Gemini 2.5 Pro model to perform the page grouping task ([llm_group_letters.py:125](c:/Users/chris/DorleStories/llm_group_letters.py:125)).
-    *   `assemble_letters()`: Takes the LLM's JSON output and concatenates German page texts into `de.txt` files for each letter ([llm_group_letters.py:150](c:/Users/chris/DorleStories/llm_group_letters.py:150)).
-*   **External Relationships**:
-    *   Reads image files from an `--images-dir` (if OCR is enabled).
-    *   Reads/writes German OCR text files (`_german.txt`) to/from a `--german-dir`.
-    *   Communicates with the Google Gemini API for OCR and grouping tasks.
-    *   Writes LLM grouping input (`llm_grouping_input.txt`) and output (`llm_grouping.json`) to the `--output-dir`.
-    *   Creates letter-specific subdirectories within `--output-dir` (e.g., `L0001/`) and writes `de.txt` (German text) and `meta.json` (LLM provenance) files within them.
+### Testing
 
-### Stage 2: Translation ([translate_letters.py](c:/Users/chris/DorleStories/translate_letters.py))
+```bash
+# Run all tests
+pytest -q
 
-This module takes the assembled German letters and translates them into English, with an option to generate LaTeX output.
+# Tests are in helperPython/test_*.py
+```
 
-*   **Purpose**: To translate the grouped German letters into English using an LLM and optionally generate LaTeX documents.
-*   **Internal Parts**:
-    *   `main()` function: Iterates through letter directories, performs translation, and handles LaTeX generation.
-    *   `list_letter_dirs()`: Identifies directories containing `de.txt` files, representing individual letters ([translate_letters.py:30](c:/Users/chris/DorleStories/translate_letters.py:30)).
-    *   `translate_letter()`: Calls the Gemini 2.5 Pro model to translate German text to English ([translate_letters.py:70](c:/Users/chris/DorleStories/translate_letters.py:70)).
-    *   `to_latex_document()`: Generates a basic LaTeX document from the English text ([translate_letters.py:50](c:/Users/chris/DorleStories/translate_letters.py:50)).
-*   **External Relationships**:
-    *   Reads German letter text from `de.txt` files within subdirectories of `--letters-dir`.
-    *   Communicates with the Google Gemini API for translation tasks.
-    *   Writes English translations to `en.txt` files within the respective letter directories.
-    *   Optionally writes LaTeX files to `en.tex` within the respective letter directories.
+## Directory Structure
 
+```text
+DorleStories/
+├── run_letters_pipeline.py          # German letters main wrapper
+├── llm_group_letters.py              # LLM-based grouping for German
+├── translate_letters.py              # Translation for German letters
+├── run_chinese_strict_pipeline.py   # Chinese pipeline main wrapper
+├── build_pdfs.py                     # LaTeX → PDF compiler
+├── china_pipeline/                   # Chinese processing modules
+│   ├── pipeline.py                   # OCR + deterministic grouping
+│   ├── translate_letters.py          # Chinese translation
+│   └── grouping.py                   # Grouping utilities
+├── helperPython/                     # Legacy code & utilities
+│   ├── ImageTranslator.py            # Legacy 6-phase pipeline
+│   ├── culturalshifts.py             # Cultural analysis (optional)
+│   ├── agent_monitor.py              # Character intelligence (optional)
+│   └── test_*.py                     # Test files
+├── DorleLetters[A-M]/                # German letter collections
+│   ├── DorleLetters*/                # Input images
+│   ├── german_output/                # OCR results
+│   └── letters/                      # Assembled letters
+│       ├── L0001/
+│       │   ├── de.txt                # German text
+│       │   ├── en.txt                # English translation
+│       │   ├── en.tex                # LaTeX document
+│       │   └── meta.json             # Provenance metadata
+│       └── llm_grouping.json         # Grouping manifest
+├── Chinese/                          # Chinese document collections
+├── BATCH7/                           # Government document processing
+│   ├── run_batch7_pipeline.py        # Main BATCH7 wrapper
+│   ├── batch7_process_natives.py     # Excel processing
+│   ├── batch7_process_images.py      # Image OCR + analysis
+│   ├── batch7_process_text.py        # Text extraction + assembly
+│   ├── NATIVES/                      # Input: Excel files
+│   ├── IMAGES/                       # Input: Document images
+│   ├── TEXT/                         # Input: Text files
+│   └── output/                       # All processing outputs
+│       ├── natives_analysis/         # Excel analysis JSON
+│       └── text_analysis/
+│           └── letters/S####/        # Assembled stories
+├── config.yaml                       # Configuration (not fully used)
+└── .env                              # API keys (not committed)
+```
+
+## Output Files Explained
+
+### German & Chinese Letters
+
+After processing, each letter directory contains:
+
+- **`llm_grouping.json`**: Manifest showing which source images belong to each letter
+- **`L####/de.txt`** or **`L####/zh.txt`**: Original language text
+- **`L####/en.txt`**: English translation
+- **`L####/en.tex`**: LaTeX formatted document
+- **`L####/meta.json`**: Provenance metadata (source files, timestamps)
+
+### BATCH7 Documents
+
+After processing BATCH7 documents:
+
+- **Excel**: `output/natives_analysis/*_analysis.json` (entity extraction, relationships)
+- **Images**: `*.json` saved alongside each image file (OCR text, layout description, structured data)
+- **Text**: `output/text_analysis/letters/S####/` directories containing:
+  - `meta.json`: Story metadata
+  - `text.txt`: Assembled narrative
+  - `source_files.txt`: List of source text files
+
+## Important Implementation Details
+
+### API Configuration
+
+- **Model**: `gemini-2.5-pro` (set in code, not config.yaml)
+- **API Key**: Must be set via `GEMINI_API_KEY` environment variable or `.env` file
+- **Streaming**: All Gemini API calls use streaming for large responses
+
+### Processing Behavior
+
+- **Resumable**: Already processed files are skipped automatically (use `--skip-existing` for BATCH7)
+- **File Naming**: OCR outputs preserve source filenames (e.g., `IMG_3762.jpg` → `IMG_3762_german.txt`)
+- **Provenance**: Every output includes metadata tracking source images/files
+- **Error Handling**: Retry logic for API failures
+
+### BATCH7 Specific
+
+BATCH7 follows strict accuracy principles:
+
+- **No Hallucination**: Never infers information beyond what is present in documents
+- **Structured Output**: All outputs are JSON for machine-readable analysis
+- **Confidence Scores**: Includes confidence levels for uncertain extractions
+- **Entity Extraction**: Identifies people, organizations, dates, locations from Excel, images, and text
+- **Relationship Mapping**: Maps connections between entities across documents
+
+### Legacy Code (helperPython/)
+
+The `helperPython/` directory contains:
+
+- **ImageTranslator.py**: Original 6-phase pipeline (OCR → Translation → Analysis → LaTeX → Markdown)
+- **culturalshifts.py**: PhD-level socio-historical analysis (optional)
+- **agent_monitor.py**: OpenAI-based character intelligence extraction (optional)
+
+These are NOT part of the main pipeline but remain for specialized workflows.
+
+## Coding Conventions
+
+- **Python Version**: 3.10+
+- **Style**: PEP 8, 4-space indentation, snake_case functions, UPPER_CASE constants
+- **Type Hints**: Use where appropriate for public APIs
+- **Imports**: Group as stdlib, third-party, local modules
+- **Testing**: Add tests to `helperPython/test_*.py` for new utilities
+
+## Commit Guidelines
+
+- **Format**: Conventional Commits (feat:, fix:, docs:)
+- **Messages**: Imperative mood, scoped to component
+- **PRs**: Include reproduction commands, mention `--base` collection used for validation
+- **Security**: Never commit API keys or large binaries

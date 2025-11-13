@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """
 Wrapper to run the full letters workflow in one command:
-- OCR missing pages + LLM grouping + assemble pure German letters
+- OCR missing pages + LLM grouping + assemble source letters
 - Translate assembled letters to English (and LaTeX)
 
 Examples
@@ -11,7 +11,7 @@ Examples
 By default, if --images-dir not provided, images are assumed at
   <base>/<basename(base)> (e.g., DorleLettersF/DorleLettersF)
 and outputs go to
-  <base>/german_output and <base>/letters
+  <base>/german_output (page text) and <base>/letters
 """
 from __future__ import annotations
 
@@ -31,7 +31,13 @@ def main() -> None:
     ap = argparse.ArgumentParser(description="Run OCR+LLM grouping+translation in one go")
     ap.add_argument("--base", required=True, help="Base folder (e.g., DorleLettersF)")
     ap.add_argument("--images-dir", help="Images directory; defaults to <base>/<basename(base)>")
-    ap.add_argument("--german-dir", help="German OCR output dir; defaults to <base>/german_output")
+    ap.add_argument(
+        "--text-dir",
+        "--pages-dir",
+        "--german-dir",
+        dest="text_dir",
+        help="Page text output dir; defaults to <base>/german_output (legacy flag --german-dir supported)",
+    )
     ap.add_argument("--letters-dir", help="Letters output dir; defaults to <base>/letters")
     ap.add_argument("--no-latex", action="store_true", help="Skip LaTeX generation for English translations")
     ap.add_argument("--force-translate", action="store_true", help="Re-translate even if en.txt exists")
@@ -45,7 +51,7 @@ def main() -> None:
     base_name = os.path.basename(base)
 
     images_dir = args.images_dir or os.path.join(base, base_name)
-    german_dir = args.german_dir or os.path.join(base, "german_output")
+    german_dir = args.text_dir or os.path.join(base, "german_output")
     letters_dir = args.letters_dir or os.path.join(base, "letters")
 
     # Ensure API key exists
@@ -62,7 +68,7 @@ def main() -> None:
     cmd_group = [
         py, "llm_group_letters.py",
         "--images-dir", images_dir,
-        "--german-dir", german_dir,
+        "--text-dir", german_dir,
         "--output-dir", letters_dir,
         "--run-ocr",
         "--assemble",
