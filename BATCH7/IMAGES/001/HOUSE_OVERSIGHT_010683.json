@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010683.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing a list of business entities and their ownership structures. The document is filled out for Donald J. Trump and is page A16 of 47. It lists entities with reference numbers from 181 to 191, showing owners, ownership percentages, and roles.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a structured list of entities, each with sub-sections for ownership details. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA16 of 47\nReference #\n1\n99\n181 THC QATAR HOTEL MANAGER MEMBER CORP *(3)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\n100\nName\nTHC QATAR HOTEL MANAGER MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\nHas ownership interest in:\nEntity Name\nTHC QATAR HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n182 THC RIO MANAGER LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC RIO MANAGING MEMBER CORP\nRole\nManaging Member\n183 THC RIO MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC RIO MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n184 THC SALES & MARKETING LLC\nOwned by:\n% Ownership\n1\nName\nTHC SALES & MARKETING MEMBER CORP\nRole\nManaging Member\n185 THC SALES & MARKETING MEMBER CORP *(1)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC SALES & MARKETING LLC\nOwnership\n1.00%\nTitle\nManaging Member\n186 THC SERVICES SHENZHEN LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC SERVICES SHENZHEN MEMBER CORP\nRole\nManaging Member\n187 THC SERVICES SHENZHEN MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC SERVICES SHENZHEN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n188 THC SHENZHEN HOTEL MANAGER LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC SHENZHEN HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n189 THC SHENZHEN HOTEL MANAGER MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC SHENZHEN HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n190 THC VANCOUVER MANAGEMENT CORP\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n191 THC VANCOUVER PAYROLL ULC *(2)\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010683",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA16 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n1\n99\n181 THC QATAR HOTEL MANAGER MEMBER CORP *(3)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\n100\nName\nTHC QATAR HOTEL MANAGER MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\nHas ownership interest in:\nEntity Name\nTHC QATAR HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n182 THC RIO MANAGER LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC RIO MANAGING MEMBER CORP\nRole\nManaging Member\n183 THC RIO MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC RIO MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n184 THC SALES & MARKETING LLC\nOwned by:\n% Ownership\n1\nName\nTHC SALES & MARKETING MEMBER CORP\nRole\nManaging Member\n185 THC SALES & MARKETING MEMBER CORP *(1)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC SALES & MARKETING LLC\nOwnership\n1.00%\nTitle\nManaging Member\n186 THC SERVICES SHENZHEN LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC SERVICES SHENZHEN MEMBER CORP\nRole\nManaging Member\n187 THC SERVICES SHENZHEN MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings LLC\nRole\nMember\nHas ownership interest in:\nEntity Name\nTHC SERVICES SHENZHEN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n188 THC SHENZHEN HOTEL MANAGER LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHC SHENZHEN HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n189 THC SHENZHEN HOTEL MANAGER MEMBER CORP *(3)\nOwned by:\n% Ownership\n99\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC SHENZHEN HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n190 THC VANCOUVER MANAGEMENT CORP\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n191 THC VANCOUVER PAYROLL ULC *(2)\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010683",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-01-26"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "THC QATAR HOTEL MANAGER MEMBER CORP",
+      "DJT Holdings LLC",
+      "THC QATAR HOTEL MANAGER LLC",
+      "THC RIO MANAGER LLC",
+      "THC RIO MANAGING MEMBER CORP",
+      "THC SALES & MARKETING LLC",
+      "THC SALES & MARKETING MEMBER CORP",
+      "THC SERVICES SHENZHEN LLC",
+      "THC SERVICES SHENZHEN MEMBER CORP",
+      "THC SHENZHEN HOTEL MANAGER LLC",
+      "THC SHENZHEN HOTEL MANAGER MEMBER CORP",
+      "DJT Holdings Managing Member LLC",
+      "THC VANCOUVER MANAGEMENT CORP",
+      "THC VANCOUVER PAYROLL ULC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A16 of 47",
+      "HOUSE_OVERSIGHT_010683",
+      "181",
+      "182",
+      "183",
+      "184",
+      "185",
+      "186",
+      "187",
+      "188",
+      "189",
+      "190",
+      "191"
+    ],
+    "financial_amounts": [
+      "1%",
+      "99%",
+      "100%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with similar naming conventions, indicating a complex corporate structure. One entity, 'THC QATAR HOTEL MANAGER MEMBER CORP', is noted as dissolved on 1/26/17. The last entry, #191, is incomplete with no ownership data provided.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010683.jpg",
+  "house_oversight_id": "010683",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:40:47.661162Z",
+    "model": "gemini-2.5-pro"
+  }
+}

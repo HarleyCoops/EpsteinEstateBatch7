@@ -1,0 +1,136 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010678.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing the ownership structure of various business entities. The document lists entities by a reference number, their owners, the percentage of ownership, and the role of the owner. The filer's name is identified as Donald J. Trump.",
+    "layout": "A structured, single-column document with a header containing form information and filer details, a main body listing entities in a tabular format, and a footer with a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA11 of 47\n\nReference #\nTRUMP NATIONAL GOLF CLUB - 1.00% Managing Member\n\n119 LAMINGTON FAMILY HOLDINGS LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n120 TRUMP NATIONAL GOLF CLUB - BEDMINSTER\nOwned by:\n% Ownership\nName\nRole\n100\nLFB ACQUISITION LLC\nMember\n\n121 Lawrence Towers Apartments LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n\n122 LFB ACQUISITION LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nLFB ACQUISITION MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP NATIONAL GOLF CLUB - BEDMINSTER\n100.00%\nMember\n\n123 LFB ACQUISITION MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nLFB ACQUISITION LLC\n1.00%\nManaging Member\n\n125 MAR-A-LAGO CLUB INC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nMAR-A-LAGO CLUB, L.L.C.\n0.01%\nMember\nMALC Inc.\n100.00%\nShareholder\n\n126 MAR-A-LAGO CLUB, L.L.C.\nAssumed Names:\nD/B/A\nMAR-A-LAGO CLUB, L.L.C., L.C.\nOwned by:\n% Ownership\nName\nRole\n0.01\nMAR-A-LAGO CLUB INC\nMember\n99.99\nThe Donald J. Trump Revocable Trust\nMember\n\n127 Midland Associates *(3)\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nPartner\n75\nTrump Family Members\nPartner\n\n128 NITTO WORLD CO., LIMITED *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP TURNBERRY\nShareholder\n\n129 OCEAN DEVELOPMENT MEMBER INC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nOCEAN DEVELOPMENT SERVICES LLC\n1.00%\nMember\n\n131 One Central Park West Associates *(3)\nOwned by:\n% Ownership\nName\nRole\n50\nTRUMP CENTRAL PARK WEST CORP\nPartner\n50\nGALBREATH COLUMBUS CIRCLE DEVELOPMENT ASSOCIATES, L.P.\nPartner\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nOne Central Park West PT Associates\n94.30%\nMember\n\n132 One Central Park West PT Associates *(3)\n\nHOUSE_OVERSIGHT_010678",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA11 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nTRUMP NATIONAL GOLF CLUB - 1.00% Managing Member\n\n119 LAMINGTON FAMILY HOLDINGS LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n120 TRUMP NATIONAL GOLF CLUB - BEDMINSTER\nOwned by:\n% Ownership\nName\nRole\n100\nLFB ACQUISITION LLC\nMember\n\n121 Lawrence Towers Apartments LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n\n122 LFB ACQUISITION LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nLFB ACQUISITION MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP NATIONAL GOLF CLUB - BEDMINSTER\n100.00%\nMember\n\n123 LFB ACQUISITION MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nLFB ACQUISITION LLC\n1.00%\nManaging Member\n\n125 MAR-A-LAGO CLUB INC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nMAR-A-LAGO CLUB, L.L.C.\n0.01%\nMember\nMALC Inc.\n100.00%\nShareholder\n\n126 MAR-A-LAGO CLUB, L.L.C.\nAssumed Names:\nD/B/A\nMAR-A-LAGO CLUB, L.L.C., L.C.\nOwned by:\n% Ownership\nName\nRole\n0.01\nMAR-A-LAGO CLUB INC\nMember\n99.99\nThe Donald J. Trump Revocable Trust\nMember\n\n127 Midland Associates *(3)\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nPartner\n75\nTrump Family Members\nPartner\n\n128 NITTO WORLD CO., LIMITED *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP TURNBERRY\nShareholder\n\n129 OCEAN DEVELOPMENT MEMBER INC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nOCEAN DEVELOPMENT SERVICES LLC\n1.00%\nMember\n\n131 One Central Park West Associates *(3)\nOwned by:\n% Ownership\nName\nRole\n50\nTRUMP CENTRAL PARK WEST CORP\nPartner\n50\nGALBREATH COLUMBUS CIRCLE DEVELOPMENT ASSOCIATES, L.P.\nPartner\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nOne Central Park West PT Associates\n94.30%\nMember\n\n132 One Central Park West PT Associates *(3)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010678",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP NATIONAL GOLF CLUB",
+      "LAMINGTON FAMILY HOLDINGS LLC",
+      "DJT Holdings LLC",
+      "TRUMP NATIONAL GOLF CLUB - BEDMINSTER",
+      "LFB ACQUISITION LLC",
+      "Lawrence Towers Apartments LLC",
+      "Trump Family Members",
+      "LFB ACQUISITION MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "MAR-A-LAGO CLUB INC",
+      "MAR-A-LAGO CLUB, L.L.C.",
+      "MALC Inc.",
+      "MAR-A-LAGO CLUB, L.L.C., L.C.",
+      "The Donald J. Trump Revocable Trust",
+      "Midland Associates",
+      "NITTO WORLD CO., LIMITED",
+      "TRUMP TURNBERRY",
+      "OCEAN DEVELOPMENT MEMBER INC",
+      "OCEAN DEVELOPMENT SERVICES LLC",
+      "One Central Park West Associates",
+      "TRUMP CENTRAL PARK WEST CORP",
+      "GALBREATH COLUMBUS CIRCLE DEVELOPMENT ASSOCIATES, L.P.",
+      "One Central Park West PT Associates"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A11 of 47",
+      "HOUSE_OVERSIGHT_010678",
+      "119",
+      "120",
+      "121",
+      "122",
+      "123",
+      "125",
+      "126",
+      "127",
+      "128",
+      "129",
+      "131",
+      "132"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "100",
+      "100",
+      "25",
+      "75",
+      "1",
+      "99",
+      "100.00%",
+      "100",
+      "1.00%",
+      "100",
+      "0.01%",
+      "100.00%",
+      "0.01",
+      "99.99",
+      "25",
+      "75",
+      "100",
+      "100",
+      "1.00%",
+      "50",
+      "50",
+      "94.30%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2 (Filer's Assets and Income)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010678"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. Reference numbers 124 and 130 are missing from the sequence on this page. The asterisks with numbers, e.g., '*(3)', likely refer to notes or appendices not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010678.jpg",
+  "house_oversight_id": "010678",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:38:19.168823Z",
+    "model": "gemini-2.5-pro"
+  }
+}

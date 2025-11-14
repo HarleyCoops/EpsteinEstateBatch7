@@ -1,0 +1,119 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010674.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A7 of 47 from an OGE Form 278e, filed by Donald J. Trump. The page lists various business entities, their ownership structure, and the roles held within them. The document is a typed form with entries from reference number 74 to 84.",
+    "layout": "The document has a header section with form details and filer information. The main body is a list of entities, each with subsections for 'Owned by' and 'Has ownership interest in'. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA7 of 47\nReference #\n74 DT MARKS GURGAON MANAGING MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS GURGAON LLC\nOwnership\n1.00%\nTitle\nManaging Member\n75 DT MARKS JERSEY CITY LLC *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM OPERATIONS LLC\nRole\nMember\n76 DT MARKS JUPITER LLC *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM OPERATIONS LLC\nRole\nManaging Member\n77 DT MARKS PRODUCTS INTERNATIONAL LLC *(4)\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS PRODUCTS\nINTERNATIONAL MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n78 DT MARKS PRODUCTS INTERNATIONAL MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PRODUCTS\nINTERNATIONAL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n79 DT MARKS PUNE II LLC *(3)\nOwned by :\n% Ownership\n99\nName\nDT MARKS PUNE II MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n80 DT MARKS PUNE II MANAGING MEMBER CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PUNE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n81 DT MARKS PUNE LLC *(4)\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS PUNE MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n82 DT MARKS PUNE MANAGING MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PUNE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n83 DT MARKS QATAR LLC *(3)--DISSOLVED 1/26/17\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS QATAR MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n84 DT MARKS QATAR MEMBER CORP *(3)--DISSOLVED 1/26/17\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nHOUSE_OVERSIGHT_010674",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA7 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n74 DT MARKS GURGAON MANAGING MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS GURGAON LLC\nOwnership\n1.00%\nTitle\nManaging Member\n75 DT MARKS JERSEY CITY LLC *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM OPERATIONS LLC\nRole\nMember\n76 DT MARKS JUPITER LLC *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM OPERATIONS LLC\nRole\nManaging Member\n77 DT MARKS PRODUCTS INTERNATIONAL LLC *(4)\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS PRODUCTS\nINTERNATIONAL MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n78 DT MARKS PRODUCTS INTERNATIONAL MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PRODUCTS\nINTERNATIONAL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n79 DT MARKS PUNE II LLC *(3)\nOwned by :\n% Ownership\n99\nName\nDT MARKS PUNE II MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n80 DT MARKS PUNE II MANAGING MEMBER CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PUNE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n81 DT MARKS PUNE LLC *(4)\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS PUNE MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n82 DT MARKS PUNE MANAGING MEMBER CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT MARKS PUNE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n83 DT MARKS QATAR LLC *(3)--DISSOLVED 1/26/17\nOwned by :\n% Ownership\n1\n99\nName\nDT MARKS QATAR MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n84 DT MARKS QATAR MEMBER CORP *(3)--DISSOLVED 1/26/17\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010674",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-01-26"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT MARKS GURGAON MANAGING MEMBER CORP",
+      "DTTM Operations Managing Member Corp",
+      "DT MARKS GURGAON LLC",
+      "DT MARKS JERSEY CITY LLC",
+      "DTTM OPERATIONS LLC",
+      "DT MARKS JUPITER LLC",
+      "DT MARKS PRODUCTS INTERNATIONAL LLC",
+      "DT MARKS PRODUCTS INTERNATIONAL MEMBER CORP",
+      "DT MARKS PUNE II LLC",
+      "DT MARKS PUNE II MANAGING MEMBER CORP",
+      "DT MARKS PUNE LLC",
+      "DT MARKS PUNE MANAGING MEMBER CORP",
+      "DT MARKS QATAR LLC",
+      "DT MARKS QATAR MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A7 of 47",
+      "HOUSE_OVERSIGHT_010674",
+      "74",
+      "75",
+      "76",
+      "77",
+      "78",
+      "79",
+      "80",
+      "81",
+      "82",
+      "83",
+      "84"
+    ],
+    "financial_amounts": [
+      {
+        "value": "100",
+        "currency": "% Ownership"
+      },
+      {
+        "value": "1.00",
+        "currency": "% Ownership"
+      },
+      {
+        "value": "1",
+        "currency": "% Ownership"
+      },
+      {
+        "value": "99",
+        "currency": "% Ownership"
+      }
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010674"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several business entities with similar naming conventions, indicating a complex corporate structure. Two entities, DT MARKS QATAR LLC and DT MARKS QATAR MEMBER CORP, are noted as dissolved on January 26, 2017.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010674.jpg",
+  "house_oversight_id": "010674",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:36:06.228986Z",
+    "model": "gemini-2.5-pro"
+  }
+}

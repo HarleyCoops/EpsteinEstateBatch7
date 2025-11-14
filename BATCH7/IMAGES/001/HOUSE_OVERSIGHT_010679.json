@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010679.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing various business entities, their ownership structure, and the filer's interest in them. The document lists entities by a reference number, showing owners, percentage of ownership, and their roles. It also details ownership interests that these entities have in other entities.",
+    "layout": "A structured, single-column form with clear headings for Filer's Name and Page Number at the top. The main body consists of sequentially numbered entries, each with sub-sections for 'Owned by' and 'Has ownership interest in'. A document identifier is present in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See Instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA12 of 47\nReference #\nOwned by:\n% Ownership\n34.3\n65.7\nName\nOne Central Park West Associates\nCPW PT Partners, G.P.\nRole\nPartner\nPartner\n133 OPO HOTEL MANAGER LLC *(5)\nOwned by:\n% Ownership\n1\nName\nOPO HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n22.50\n76.50\nTrump Family Members\nDJT HOLDINGS LLC\nMember\nMember\n134 OPO HOTEL MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOPO HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n135 OWO DEVELOPER LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n136 PANAMA OCEAN CLUB MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nPANAMA OCEAN CLUB MANAGEMENT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n137 PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nPANAMA OCEAN CLUB MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n138 Paramount RPV Holdings LLC *(3)--DISSOLVED 10/14/16\nOwned by:\n% Ownership\n99\n1\nName\nParamount RPV Holdings Manager Corp\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n139 Paramount RPV Holdings Manager Corp *(3)--DISSOLVED 10/14/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nParamount RPV Holdings LLC\nOwnership\n1.00%\nTitle\nManaging Member\n140 Parc Consulting, Inc. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\n40 Wall Development Associates, LLC\nOwnership\n0.10%\nTitle\nMember\n141 Park Briar Associates *(1)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nPartner\nPartner\nHas ownership interest in:\nEntity Name\nStarrett City Associates, L.P.\nSpring Creek Plaza LLC\nOwnership\n1.47%\n1.47%\nTitle\nPartner\nMember\n142 PINE HILL DEVELOPMENT LLC\nOwned by:\n% Ownership\n1\n99\nName\nPINE HILL DEVELOPMENT MANAGING MEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n143 PINE HILL DEVELOPMENT MANAGING MEMBER CORP *(1)\nHOUSE_OVERSIGHT_010679",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See Instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA12 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\n34.3\n65.7\nName\nOne Central Park West Associates\nCPW PT Partners, G.P.\nRole\nPartner\nPartner\n133 OPO HOTEL MANAGER LLC *(5)\nOwned by:\n% Ownership\n1\nName\nOPO HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n22.50\n76.50\nTrump Family Members\nDJT HOLDINGS LLC\nMember\nMember\n134 OPO HOTEL MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOPO HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n135 OWO DEVELOPER LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n136 PANAMA OCEAN CLUB MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nPANAMA OCEAN CLUB MANAGEMENT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n137 PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nPANAMA OCEAN CLUB MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n138 Paramount RPV Holdings LLC *(3)--DISSOLVED 10/14/16\nOwned by:\n% Ownership\n99\n1\nName\nParamount RPV Holdings Manager Corp\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n139 Paramount RPV Holdings Manager Corp *(3)--DISSOLVED 10/14/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nParamount RPV Holdings LLC\nOwnership\n1.00%\nTitle\nManaging Member\n140 Parc Consulting, Inc. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\n40 Wall Development Associates, LLC\nOwnership\n0.10%\nTitle\nMember\n141 Park Briar Associates *(1)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nPartner\nPartner\nHas ownership interest in:\nEntity Name\nStarrett City Associates, L.P.\nSpring Creek Plaza LLC\nOwnership\n1.47%\n1.47%\nTitle\nPartner\nMember\n142 PINE HILL DEVELOPMENT LLC\nOwned by:\n% Ownership\n1\n99\nName\nPINE HILL DEVELOPMENT MANAGING MEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n143 PINE HILL DEVELOPMENT MANAGING MEMBER CORP *(1)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010679",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-10-14"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "One Central Park West Associates",
+      "CPW PT Partners, G.P.",
+      "OPO HOTEL MANAGER LLC",
+      "OPO HOTEL MANAGER MEMBER CORP",
+      "Trump Family Members",
+      "DJT HOLDINGS LLC",
+      "DJT Holdings Managing Member LLC",
+      "OWO DEVELOPER LLC",
+      "PANAMA OCEAN CLUB MANAGEMENT LLC",
+      "PANAMA OCEAN CLUB MANAGEMENT MEMBER CORP",
+      "Paramount RPV Holdings LLC",
+      "Paramount RPV Holdings Manager Corp",
+      "Parc Consulting, Inc.",
+      "40 Wall Development Associates, LLC",
+      "Park Briar Associates",
+      "The Donald J. Trump Revocable Trust",
+      "Starrett City Associates, L.P.",
+      "Spring Creek Plaza LLC",
+      "PINE HILL DEVELOPMENT LLC",
+      "PINE HILL DEVELOPMENT MANAGING MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A12 of 47",
+      "HOUSE_OVERSIGHT_010679",
+      "133",
+      "134",
+      "135",
+      "136",
+      "137",
+      "138",
+      "139",
+      "140",
+      "141",
+      "142",
+      "143"
+    ],
+    "financial_amounts": [
+      "34.3%",
+      "65.7%",
+      "1%",
+      "22.50%",
+      "76.50%",
+      "100%",
+      "1.00%",
+      "99%",
+      "0.10%",
+      "25%",
+      "75%",
+      "1.47%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010679"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger financial disclosure report. The ownership percentages for 'OPO HOTEL MANAGER MEMBER CORP' (22.50 and 76.50) are listed under entry 133 but seem to correspond to the owners of entry 134. This is likely a formatting artifact of the original document.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010679.jpg",
+  "house_oversight_id": "010679",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:38:47.062928Z",
+    "model": "gemini-2.5-pro"
+  }
+}

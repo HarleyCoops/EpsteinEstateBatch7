@@ -1,0 +1,132 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010676.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from an OGE Form 278e, a public financial disclosure report for Donald J. Trump. This page, A9 of 47, lists various business entities (numbered 97 through 108) and details their ownership structure, including owners, percentage of ownership, and roles.",
+    "layout": "A structured, single-column document with a header containing form information and the filer's name, a body listing entities and their ownership details in a repetitive format, and a footer with a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA9 of 47\nReference #\n100\nDTTM OPERATIONS LLC\nMember\n97 Excel Venture I Corporation *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nExcel Venture I LLC\nOwnership\n1.00%\nTitle\nManaging Member\n98 Excel Venture I LLC\nOwned by:\n% Ownership\n1\nName\nExcel Venture I Corporation\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n99 Fifty-Seven Management Corp. *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nFifty-Seventh Street Associates\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n100 Fifty-Seventh Street Associates LLC\nOwned by:\n% Ownership\n1\nName\nFifty-Seven Management Corp.\nRole\nManaging Member\n99\nThe Trump-Equitable Fifth Avenue\nCompany\nMember\n101 FIRST MEMBER INC *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PALACE/PARC LLC\nOwnership\n0.10%\nTitle\nManaging Member\n102 FLIGHTS INC *(5)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n103 FLORIDA PROPERTIES MANAGEMENT LC *(2)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n104 Fountainbleu Apartments LLC *(3)\nOwned by:\n% Ownership\n25\nName\nDJT Holdings LLC\nRole\nMember\n75\nTrump Family Members\nMember\n105 Golf Productions LLC *(5)\nOwned by:\n% Ownership\n1\nName\nGolf Productions Member Corp\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n106 Golf Productions Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nGolf Productions LLC\nOwnership\n1.00%\nTitle\nManaging Member\n107 Golf Recreation Scotland Limited *(1)\nOwned by:\n% Ownership\n100\nName\nTURNBERRY SCOTLAND LLC\nRole\nSole Member\nHas ownership interest in:\nEntity Name\nTRUMP TURNBERRY\nOwnership\n100.00%\nTitle\nShareholder\n108 HELICOPTER AIR SERVICES INC *(3)\nHOUSE_OVERSIGHT_010676",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA9 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nDTTM OPERATIONS LLC\nMember\n97 Excel Venture I Corporation *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nExcel Venture I LLC\nOwnership\n1.00%\nTitle\nManaging Member\n98 Excel Venture I LLC\nOwned by:\n% Ownership\n1\nName\nExcel Venture I Corporation\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n99 Fifty-Seven Management Corp. *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nFifty-Seventh Street Associates\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n100 Fifty-Seventh Street Associates LLC\nOwned by:\n% Ownership\n1\nName\nFifty-Seven Management Corp.\nRole\nManaging Member\n99\nThe Trump-Equitable Fifth Avenue\nCompany\nMember\n101 FIRST MEMBER INC *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PALACE/PARC LLC\nOwnership\n0.10%\nTitle\nManaging Member\n102 FLIGHTS INC *(5)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n103 FLORIDA PROPERTIES MANAGEMENT LC *(2)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n104 Fountainbleu Apartments LLC *(3)\nOwned by:\n% Ownership\n25\nName\nDJT Holdings LLC\nRole\nMember\n75\nTrump Family Members\nMember\n105 Golf Productions LLC *(5)\nOwned by:\n% Ownership\n1\nName\nGolf Productions Member Corp\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n106 Golf Productions Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nGolf Productions LLC\nOwnership\n1.00%\nTitle\nManaging Member\n107 Golf Recreation Scotland Limited *(1)\nOwned by:\n% Ownership\n100\nName\nTURNBERRY SCOTLAND LLC\nRole\nSole Member\nHas ownership interest in:\nEntity Name\nTRUMP TURNBERRY\nOwnership\n100.00%\nTitle\nShareholder\n108 HELICOPTER AIR SERVICES INC *(3)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010676",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump Family Members"
+    ],
+    "organizations": [
+      "DTTM OPERATIONS LLC",
+      "Excel Venture I Corporation",
+      "DJT Holdings Managing Member LLC",
+      "Excel Venture I LLC",
+      "DJT HOLDINGS LLC",
+      "Fifty-Seven Management Corp.",
+      "The Donald J. Trump Revocable Trust",
+      "Fifty-Seventh Street Associates LLC",
+      "The Trump-Equitable Fifth Avenue Company",
+      "FIRST MEMBER INC",
+      "TRUMP PALACE/PARC LLC",
+      "FLIGHTS INC",
+      "FLORIDA PROPERTIES MANAGEMENT LC",
+      "Fountainbleu Apartments LLC",
+      "Golf Productions LLC",
+      "Golf Productions Member Corp",
+      "Golf Recreation Scotland Limited",
+      "TURNBERRY SCOTLAND LLC",
+      "TRUMP TURNBERRY",
+      "HELICOPTER AIR SERVICES INC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A9 of 47",
+      "HOUSE_OVERSIGHT_010676",
+      "97",
+      "98",
+      "99",
+      "100",
+      "101",
+      "102",
+      "103",
+      "104",
+      "105",
+      "106",
+      "107",
+      "108"
+    ],
+    "financial_amounts": [
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "0.10%",
+      "100",
+      "100",
+      "25",
+      "75",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "100",
+      "100.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010676"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Public Financial Disclosure Report (OGE Form 278e) for Donald J. Trump, detailing ownership of various business entities.",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010676"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The asterisks and numbers in parentheses next to some entity names, e.g., '*(1)', likely refer to notes or appendices not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010676.jpg",
+  "house_oversight_id": "010676",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:37:16.724167Z",
+    "model": "gemini-2.5-pro"
+  }
+}

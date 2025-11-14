@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010681.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, their ownership structure, and related individuals or trusts. The filer's name is identified as Donald J. Trump. The page number is A14 of 47.",
+    "layout": "The document has a structured, tabular layout. A header contains the form number, filer's name, and page number. The main body consists of numbered entries (156 through 167), each detailing a business entity. For each entity, information about ownership percentages, owning parties, and their roles is provided. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA14 of 47\n\nReference #\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nStarrett City Associates, L.P.\n1.72%\nPartner\nSpring Creek Plaza LLC\n1.72%\nMember\n156 Shore Haven Shopping Center LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n157 TRUMP TURNBERRY\n\nOwned by:\n% Ownership\nName\nRole\n100\nGolf Recreation Scotland Limited\nSole Shareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nNITTO WORLD CO., LIMITED\n100.00%\nShareholder\n159 Sussex Hall, Inc. *(3)\n\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\n160 T International Realty LLC\n\nOwned by:\n% Ownership\nName\nRole\n55\nThe Donald J. Trump Revocable Trust\nManaging Member\n45\nTrump Family Members\nMember\n161 TAG AIR INC. *(2)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT OPERATIONS II LLC\nShareholder\n162 THC BAKU HOTEL MANAGER SERVICES LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC BAKU HOTEL MANAGER\nManaging Member\nSERVICES MEMBER CORP.\n99\nDJT Holdings LLC\nMember\n163 THC BAKU HOTEL MANAGER SERVICES MEMBER CORP. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC BAKU HOTEL MANAGER\n1.00%\nManaging Member\nSERVICES LLC\n164 THC BAKU SERVICES LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC BAKU SERVICES MEMBER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n165 THC BAKU SERVICES MEMBER CORP. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC BAKU SERVICES LLC\n1.00%\nManaging Member\n166 THC Barra Hotelaria LTDA. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n99\nDJT Holdings LLC\nShareholder\n1\nTHC DEVELOPMENT BRAZIL\nShareholder\nMANAGING MEMBER CORP\n167 THC CENTRAL RESERVATIONS LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC CENTRAL RESERVATIONS\nManaging Member\nMEMBER CORP\n\nHOUSE_OVERSIGHT_010681",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA14 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nStarrett City Associates, L.P.\n1.72%\nPartner\nSpring Creek Plaza LLC\n1.72%\nMember\n156 Shore Haven Shopping Center LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n157 TRUMP TURNBERRY\n\nOwned by:\n% Ownership\nName\nRole\n100\nGolf Recreation Scotland Limited\nSole Shareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nNITTO WORLD CO., LIMITED\n100.00%\nShareholder\n159 Sussex Hall, Inc. *(3)\n\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\n160 T International Realty LLC\n\nOwned by:\n% Ownership\nName\nRole\n55\nThe Donald J. Trump Revocable Trust\nManaging Member\n45\nTrump Family Members\nMember\n161 TAG AIR INC. *(2)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT OPERATIONS II LLC\nShareholder\n162 THC BAKU HOTEL MANAGER SERVICES LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC BAKU HOTEL MANAGER\nManaging Member\nSERVICES MEMBER CORP.\n99\nDJT Holdings LLC\nMember\n163 THC BAKU HOTEL MANAGER SERVICES MEMBER CORP. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC BAKU HOTEL MANAGER\n1.00%\nManaging Member\nSERVICES LLC\n164 THC BAKU SERVICES LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC BAKU SERVICES MEMBER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n165 THC BAKU SERVICES MEMBER CORP. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC BAKU SERVICES LLC\n1.00%\nManaging Member\n166 THC Barra Hotelaria LTDA. *(4)\n\nOwned by:\n% Ownership\nName\nRole\n99\nDJT Holdings LLC\nShareholder\n1\nTHC DEVELOPMENT BRAZIL\nShareholder\nMANAGING MEMBER CORP\n167 THC CENTRAL RESERVATIONS LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTHC CENTRAL RESERVATIONS\nManaging Member\nMEMBER CORP",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010681",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "The Donald J. Trump Revocable Trust",
+      "Trump Family Members",
+      "Starrett City Associates, L.P.",
+      "Spring Creek Plaza LLC",
+      "Shore Haven Shopping Center LLC",
+      "DJT Holdings LLC",
+      "TRUMP TURNBERRY",
+      "Golf Recreation Scotland Limited",
+      "NITTO WORLD CO., LIMITED",
+      "Sussex Hall, Inc.",
+      "T International Realty LLC",
+      "TAG AIR INC.",
+      "DJT OPERATIONS II LLC",
+      "THC BAKU HOTEL MANAGER SERVICES LLC",
+      "THC BAKU HOTEL MANAGER SERVICES MEMBER CORP.",
+      "DJT Holdings Managing Member LLC",
+      "THC BAKU SERVICES LLC",
+      "THC BAKU SERVICES MEMBER CORP",
+      "THC Barra Hotelaria LTDA.",
+      "THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP",
+      "THC CENTRAL RESERVATIONS LLC",
+      "THC CENTRAL RESERVATIONS MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A14 of 47",
+      "HOUSE_OVERSIGHT_010681",
+      "156",
+      "157",
+      "159",
+      "160",
+      "161",
+      "162",
+      "163",
+      "164",
+      "165",
+      "166",
+      "167"
+    ],
+    "financial_amounts": [
+      "1.72%",
+      "100.00%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010681"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists ownership structures for multiple entities. The term 'Trump Family Members' is listed as an owner but is not a specific legal entity and is used generically as per the form's instructions. The asterisks and numbers in parentheses next to some entity names, like '*(3)', likely refer to footnotes or endnotes not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010681.jpg",
+  "house_oversight_id": "010681",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:39:46.226262Z",
+    "model": "gemini-2.5-pro"
+  }
+}

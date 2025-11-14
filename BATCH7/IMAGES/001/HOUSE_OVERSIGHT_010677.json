@@ -1,0 +1,135 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010677.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically an OGE Form 278e, detailing ownership stakes in various business entities. The document is filled out for Donald J. Trump and lists several entities with reference numbers, ownership percentages, and the names of the owners and their roles.",
+    "layout": "The document has a header section with form information and the filer's name. The main body is structured in a list format, with each entry identified by a reference number. Each entry details an entity, its owners ('Owned by:'), their percentage ownership, name, and role. Some entries also list entities in which the primary entity has an ownership interest. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA10 of 47\n\nReference #\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\n110 Hudson Waterfront Associates I, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT I CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES I, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 555 Owners, LLC\n100.00%\nPartner\n\n111 Hudson Waterfront Associates II, LP *(5)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT II CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES II, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\n112 Hudson Waterfront Associates III, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT III CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES III, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 III LLC\n100.00%\nPartner\n\n113 Hudson Waterfront Associates IV, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT IV CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES IV, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 IV LLC\n100.00%\nPartner\n\n114 Hudson Waterfront Associates V LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT V CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES V, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 V LLC\n100.00%\nPartner\n\n116 Indian Hills Holdings LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n117 TRUMP NATIONAL GOLF CLUB - JUPITER\n\nOwned by:\n% Ownership\nName\nRole\n1\nJUPITER GOLF CLUB MANAGING MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n118 JUPITER GOLF CLUB MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n\nHOUSE_OVERSIGHT_010677",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA10 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\n110 Hudson Waterfront Associates I, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT I CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES I, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 555 Owners, LLC\n100.00%\nPartner\n\n111 Hudson Waterfront Associates II, LP *(5)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT II CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES II, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\n112 Hudson Waterfront Associates III, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT III CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES III, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 III LLC\n100.00%\nPartner\n\n113 Hudson Waterfront Associates IV, LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT IV CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES IV, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 IV LLC\n100.00%\nPartner\n\n114 Hudson Waterfront Associates V LP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n1\nHUDSON WATERFRONT V CORPORATION\nPartner\n69\nHUDSON WESTSIDE ASSOCIATES V, L.P.\nPartner\n30\nThe Donald J. Trump Revocable Trust\nPartner\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHWA 1290 V LLC\n100.00%\nPartner\n\n116 Indian Hills Holdings LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n117 TRUMP NATIONAL GOLF CLUB - JUPITER\n\nOwned by:\n% Ownership\nName\nRole\n1\nJUPITER GOLF CLUB MANAGING MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n118 JUPITER GOLF CLUB MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010677",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "Hudson Waterfront Associates I, LP",
+      "HUDSON WATERFRONT I CORPORATION",
+      "HUDSON WESTSIDE ASSOCIATES I, L.P.",
+      "The Donald J. Trump Revocable Trust",
+      "HWA 555 Owners, LLC",
+      "Hudson Waterfront Associates II, LP",
+      "HUDSON WATERFRONT II CORPORATION",
+      "HUDSON WESTSIDE ASSOCIATES II, L.P.",
+      "Hudson Waterfront Associates III, LP",
+      "HUDSON WATERFRONT III CORPORATION",
+      "HUDSON WESTSIDE ASSOCIATES III, L.P.",
+      "HWA 1290 III LLC",
+      "Hudson Waterfront Associates IV, LP",
+      "HUDSON WATERFRONT IV CORPORATION",
+      "HUDSON WESTSIDE ASSOCIATES IV, L.P.",
+      "HWA 1290 IV LLC",
+      "Hudson Waterfront Associates V LP",
+      "HUDSON WATERFRONT V CORPORATION",
+      "HUDSON WESTSIDE ASSOCIATES V, L.P.",
+      "HWA 1290 V LLC",
+      "Indian Hills Holdings LLC",
+      "DJT Holdings LLC",
+      "TRUMP NATIONAL GOLF CLUB - JUPITER",
+      "JUPITER GOLF CLUB MANAGING MEMBER CORP",
+      "DJT HOLDINGS LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A10 of 47",
+      "HOUSE_OVERSIGHT_010677",
+      "110",
+      "111",
+      "112",
+      "113",
+      "114",
+      "116",
+      "117",
+      "118"
+    ],
+    "financial_amounts": [
+      "100",
+      "1",
+      "69",
+      "30",
+      "100.00%",
+      "1",
+      "69",
+      "30",
+      "1",
+      "69",
+      "30",
+      "100.00%",
+      "1",
+      "69",
+      "30",
+      "100.00%",
+      "1",
+      "69",
+      "30",
+      "100.00%",
+      "100",
+      "1",
+      "99",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - OGE Form 278e for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010677"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists various entities and their ownership structures. The asterisks with numbers in parentheses, like '*(1)', likely refer to footnotes or endnotes not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010677.jpg",
+  "house_oversight_id": "010677",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:37:50.021730Z",
+    "model": "gemini-2.5-pro"
+  }
+}

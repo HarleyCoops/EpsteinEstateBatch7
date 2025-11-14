@@ -1,0 +1,109 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010682.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically an OGE Form 278e, detailing various business entities, their ownership structure, and interests. The filer's name is Donald J. Trump. The document lists entities with reference numbers from 168 to 180, including details on ownership percentages and roles.",
+    "layout": "The document has a header section with form information, filer's name, and page number. The main body is a list of entities, each with subsections for 'Owned by' and 'Has ownership interest in'. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA15 of 47\nReference #\n99\nDJT Holdings LLC\nMember\n168 THC CENTRAL RESERVATIONS MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC CENTRAL RESERVATIONS LLC\n1.00%\nManaging Member\n169 THC CHINA DEVELOPMENT LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL HOTELS\nMember\nMANAGEMENT LLC\n170 THC CHINA TECHNICAL SERVICES LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTHC CHINA TECHNICAL SERVICES\nManaging Member\nMANAGER CORP\n99\nDJT Holdings LLC\nMember\n171 THC CHINA TECHNICAL SERVICES MANAGER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC CHINA TECHNICAL SERVICES\n1.00%\nManaging Member\nLLC\n172 THC DEVELOPMENT BRAZIL LLC. *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTHC DEVELOPMENT BRAZIL\nManaging Member\nMANAGING MEMBER CORP\n99\nDJT Holdings LLC\nMember\n173 THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC DEVELOPMENT BRAZIL LLC.\n1.00%\nManaging Member\nTHC Barra Hotelaria LTDA\n1.00%\nManaging Member\n176 THC HOTEL DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n177 THC EMEA DEVELOPMENT LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL HOTELS\nMember\nMANAGEMENT LLC\n178 THC MIAMI RESTAURANT HOSPITALITY LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTHC MIAMI RESTAURANT\nManaging Member\nHOSPITALITY MEMBER CORP\n99\nDJT Holdings LLC\nMember\n179 THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC MIAMI RESTAURANT\n1.00%\nManaging Member\nHOSPITALITY LLC\n180 THC QATAR HOTEL MANAGER LLC *(3)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010682",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA15 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n99\nDJT Holdings LLC\nMember\n168 THC CENTRAL RESERVATIONS MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC CENTRAL RESERVATIONS LLC\n1.00%\nManaging Member\n169 THC CHINA DEVELOPMENT LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL HOTELS\nMember\nMANAGEMENT LLC\n170 THC CHINA TECHNICAL SERVICES LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTHC CHINA TECHNICAL SERVICES\nManaging Member\nMANAGER CORP\n99\nDJT Holdings LLC\nMember\n171 THC CHINA TECHNICAL SERVICES MANAGER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC CHINA TECHNICAL SERVICES\n1.00%\nManaging Member\nLLC\n172 THC DEVELOPMENT BRAZIL LLC. *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTHC DEVELOPMENT BRAZIL\nManaging Member\nMANAGING MEMBER CORP\n99\nDJT Holdings LLC\nMember\n173 THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC DEVELOPMENT BRAZIL LLC.\n1.00%\nManaging Member\nTHC Barra Hotelaria LTDA\n1.00%\nManaging Member\n176 THC HOTEL DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n177 THC EMEA DEVELOPMENT LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL HOTELS\nMember\nMANAGEMENT LLC\n178 THC MIAMI RESTAURANT HOSPITALITY LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTHC MIAMI RESTAURANT\nManaging Member\nHOSPITALITY MEMBER CORP\n99\nDJT Holdings LLC\nMember\n179 THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHC MIAMI RESTAURANT\n1.00%\nManaging Member\nHOSPITALITY LLC\n180 THC QATAR HOTEL MANAGER LLC *(3)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010682",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-01-26"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "THC CENTRAL RESERVATIONS MEMBER CORP",
+      "THC CENTRAL RESERVATIONS LLC",
+      "THC CHINA DEVELOPMENT LLC",
+      "TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC",
+      "THC CHINA TECHNICAL SERVICES LLC",
+      "THC CHINA TECHNICAL SERVICES MANAGER CORP",
+      "THC DEVELOPMENT BRAZIL LLC.",
+      "THC DEVELOPMENT BRAZIL MANAGING MEMBER CORP",
+      "THC Barra Hotelaria LTDA",
+      "THC HOTEL DEVELOPMENT LLC",
+      "THC EMEA DEVELOPMENT LLC",
+      "THC MIAMI RESTAURANT HOSPITALITY LLC",
+      "THC MIAMI RESTAURANT HOSPITALITY MEMBER CORP",
+      "THC QATAR HOTEL MANAGER LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A15 of 47",
+      "HOUSE_OVERSIGHT_010682",
+      "168",
+      "169",
+      "170",
+      "171",
+      "172",
+      "173",
+      "176",
+      "177",
+      "178",
+      "179",
+      "180"
+    ],
+    "financial_amounts": [
+      "100",
+      "1.00%",
+      "1",
+      "99"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump, detailing ownership of various corporate entities.",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010682"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with reference numbers. The numbering jumps from 173 to 176, indicating that entities 174 and 175 are not on this page. Entity 180 is noted as dissolved on 1/26/17.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010682.jpg",
+  "house_oversight_id": "010682",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:40:12.795372Z",
+    "model": "gemini-2.5-pro"
+  }
+}

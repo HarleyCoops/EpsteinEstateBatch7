@@ -1,0 +1,123 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010680.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A13 of 47 from an OGE Form 278e. The document lists various corporate entities, detailing ownership percentages and roles for the filer, Donald J. Trump. The page is structured as a list with numbered entries from 144 to 154.",
+    "layout": "The document has a header section with the form number, filer's name, and page number. The main body is a list of entities, each with subsections for 'Owned by' and 'Has ownership interest in', presented in a tabular format without explicit grid lines. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA13 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nPINE HILL DEVELOPMENT LLC\n1.00%\nManaging Member\n144 Plaza Consulting Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nThe East 61 Street Company, LP\n0.10%\nPartner\n145 POKER VENTURE LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nPOKER VENTURE MANAGING\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n146 POKER VENTURE MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nPOKER VENTURE LLC\n1.00%\nManaging Member\n147 Reg-Tru Equities, LTD *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n148 RESTAURANT 40 LLC *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n1\nDTTM Operations Managing\nMember Corp\nShareholder\n99\nRestaurant 40 Member Corp\nManaging Member\nName\nTrump, Donald J.\nMember\n149 RESTAURANT 40 MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nRESTAURANT 40 LLC\n1.00%\nManaging Member\n150 RPV DEVELOPMENT LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP NATIONAL GOLF CLUB -\nLOS ANGELES\n100.00%\nShareholder\n151 SCOTLAND ACQUISITIONS LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n152 SENTIENT JETS MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP JETS LLC\n1.00%\nManaging Member\n153 Seven Springs LLC\nOwned by:\n% Ownership\nName\nRole\n0.1\nBedford Hills Corp.\nManaging Member\n99.9\nDJT HOLDINGS LLC\nMember\n154 Shore Haven Apt#1, Inc. *(1)\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010680",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA13 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nPINE HILL DEVELOPMENT LLC\n1.00%\nManaging Member\n144 Plaza Consulting Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nThe East 61 Street Company, LP\n0.10%\nPartner\n145 POKER VENTURE LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nPOKER VENTURE MANAGING\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n146 POKER VENTURE MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nPOKER VENTURE LLC\n1.00%\nManaging Member\n147 Reg-Tru Equities, LTD *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n148 RESTAURANT 40 LLC *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n1\nDTTM Operations Managing\nMember Corp\nShareholder\n99\nRestaurant 40 Member Corp\nManaging Member\nName\nTrump, Donald J.\nMember\n149 RESTAURANT 40 MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nRESTAURANT 40 LLC\n1.00%\nManaging Member\n150 RPV DEVELOPMENT LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP NATIONAL GOLF CLUB -\nLOS ANGELES\n100.00%\nShareholder\n151 SCOTLAND ACQUISITIONS LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n152 SENTIENT JETS MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP JETS LLC\n1.00%\nManaging Member\n153 Seven Springs LLC\nOwned by:\n% Ownership\nName\nRole\n0.1\nBedford Hills Corp.\nManaging Member\n99.9\nDJT HOLDINGS LLC\nMember\n154 Shore Haven Apt#1, Inc. *(1)\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010680",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-09"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DJT Holdings Managing Member LLC",
+      "PINE HILL DEVELOPMENT LLC",
+      "Plaza Consulting Corp.",
+      "The Donald J. Trump Revocable Trust",
+      "The East 61 Street Company, LP",
+      "POKER VENTURE LLC",
+      "POKER VENTURE MANAGING MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "Reg-Tru Equities, LTD",
+      "RESTAURANT 40 LLC",
+      "Restaurant 40 Member Corp",
+      "RESTAURANT 40 MEMBER CORP",
+      "RPV DEVELOPMENT LLC",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP NATIONAL GOLF CLUB - LOS ANGELES",
+      "SCOTLAND ACQUISITIONS LLC",
+      "DJT Holdings LLC",
+      "SENTIENT JETS MEMBER CORP",
+      "TRUMP JETS LLC",
+      "Seven Springs LLC",
+      "Bedford Hills Corp.",
+      "DJT HOLDINGS LLC",
+      "Shore Haven Apt#1, Inc."
+    ],
+    "locations": [
+      "LOS ANGELES"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A13 of 47",
+      "HOUSE_OVERSIGHT_010680",
+      "144",
+      "145",
+      "146",
+      "147",
+      "148",
+      "149",
+      "150",
+      "151",
+      "152",
+      "153",
+      "154"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1.00%",
+      "0.10%",
+      "1%",
+      "99%",
+      "100.00%",
+      "0.1%",
+      "99.9%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010680"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities that were dissolved on 11/9/16. The ownership percentages and roles are clearly laid out for each entity. The document is part of a larger set, as indicated by the page number 'A13 of 47'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010680.jpg",
+  "house_oversight_id": "010680",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:39:17.620221Z",
+    "model": "gemini-2.5-pro"
+  }
+}
