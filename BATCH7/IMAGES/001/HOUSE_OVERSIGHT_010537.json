@@ -1,0 +1,87 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010537.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a single page from a book. The page contains printed text, a page number, and a document identifier stamp at the bottom. The right side of the page shows the curve of the book's spine.",
+    "layout": "The page has a header with an author's name, a main body of text organized into paragraphs, a page number centered at the bottom, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\n\"It's the Icarus story, someone who flies too close to the sun,\"\nthat journalist said in reference to \"the agony\" of Epstein's legal\n\"ordeal.\"\n\n\"Did Icarus like massages?\" Epstein responded.\n\nBut after Epstein's indictment, there were no more boasts.\nFor the most part, he kept silent in public and retreated into his\nEyes Wide Shut world. And when the New York Times did manage\nto get him to speak on the record, he spoke like a chastened man.\n\nSitting on his patio down on Little St. James, Epstein likened\nhimself to the shipwrecked Gulliver after he washes ashore on\nLilliput.\n\n\"Gulliver's playfulness had unintended consequences,\" he said.\n\nOn the eve of his departure, he had a few more things to say:\n\"That is what happens with wealth. There are unexpected\nburdens as well as benefits....\"\n\n\"Your body can be confined, but not your mind....\"\n\n\"I am not blameless....\"\n\nOutside of the agreement he'd signed with the prosecutor's\noffice, this was the closest Epstein had come to admitting his\nguilt. But strange details were sprinkled throughout the story.\nHe had formed a \"board of directors of friends\" who would coun-\nsel him on his behavior. And, seemingly for the first time, he'd\nhired a full-time masseur—a man.\n\nReaders of the New York Times might have wondered: Epstein\nwas going to jail for eighteen months. What need would he have\nfor a full-time masseur?\n\nThe story's last line hinted at the answer: in preparation for\nincarceration, Epstein had set up an e-mail alert.\n\nFrom then on, his automatic reply would read \"On vacation.\"\n\n196\n\nHOUSE_OVERSIGHT_010537",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "\"It's the Icarus story, someone who flies too close to the sun,\"\nthat journalist said in reference to \"the agony\" of Epstein's legal\n\"ordeal.\"\n\n\"Did Icarus like massages?\" Epstein responded.\n\nBut after Epstein's indictment, there were no more boasts.\nFor the most part, he kept silent in public and retreated into his\nEyes Wide Shut world. And when the New York Times did manage\nto get him to speak on the record, he spoke like a chastened man.\n\nSitting on his patio down on Little St. James, Epstein likened\nhimself to the shipwrecked Gulliver after he washes ashore on\nLilliput.\n\n\"Gulliver's playfulness had unintended consequences,\" he said.\n\nOn the eve of his departure, he had a few more things to say:\n\"That is what happens with wealth. There are unexpected\nburdens as well as benefits....\"\n\n\"Your body can be confined, but not your mind....\"\n\n\"I am not blameless....\"\n\nOutside of the agreement he'd signed with the prosecutor's\noffice, this was the closest Epstein had come to admitting his\nguilt. But strange details were sprinkled throughout the story.\nHe had formed a \"board of directors of friends\" who would coun-\nsel him on his behavior. And, seemingly for the first time, he'd\nhired a full-time masseur—a man.\n\nReaders of the New York Times might have wondered: Epstein\nwas going to jail for eighteen months. What need would he have\nfor a full-time masseur?\n\nThe story's last line hinted at the answer: in preparation for\nincarceration, Epstein had set up an e-mail alert.\n\nFrom then on, his automatic reply would read \"On vacation.\"",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "196",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010537",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "Epstein",
+      "Icarus",
+      "Gulliver"
+    ],
+    "organizations": [
+      "New York Times",
+      "House Oversight"
+    ],
+    "locations": [
+      "Little St. James",
+      "Lilliput"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010537"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010537"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of Jeffrey Epstein's statements and actions after his indictment, as reported by the New York Times.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010537"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a book, likely 'Filthy Rich' by James Patterson, which has been entered as evidence or documentation for the House Oversight Committee, as indicated by the Bates stamp.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010537.jpg",
+  "house_oversight_id": "010537",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:14:59.395897Z",
+    "model": "gemini-2.5-pro"
+  }
+}

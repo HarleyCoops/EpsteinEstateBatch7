@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010533.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010533.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A black and white scan of a single page from a printed book or report. The page has text in a serif font. The right side of the page is curved, suggesting it was scanned from an open book. There are headers and footers present.\",\n    \"layout\": \"The main content is a single column of text, with a header at the top, a page number at the bottom center, and a document control number at the bottom right. There is also a single letter in the top right margin.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"JAMES PATTERSON\\n\\n* * *\\n\\nIn the meantime, Epstein began to settle out of court with his victims.\\n\\nIn February of 2008, a Virginia woman who went by the alias Jane Doe #2 brought a fifty-million-dollar lawsuit against Epstein.\\n\\nAt the time of their meeting, she claimed, Epstein was fifty-two years old. She was a teenager"
+}

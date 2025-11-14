@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010536.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010536.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A scan of two pages from a book or report. The left page (194) is partially visible, while the right page (195) is fully visible. The document discusses events related to Jeffrey Epstein. A document control number is visible at the bottom right.\",\n    \"layout\": \"Two-page spread from a book. The left page is cut off along the left margin. The right page contains a chapter heading, a section heading with a date, and several paragraphs of text. Page numbers are at the bottom of each page.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"TTERSON\\n\\nlascivious and sexual acts,\\nuching the girl's vagina.\\nng plan and scheme, Jane Doe\\ni massage for monetary com-\\nto Epstein's mansion in Palm\\nJane was introduced to Sarah\\nt of stairs to the room with the\\npstein told Jane to take off her\\nge. Jane kept her panties and\\npstein's i"
+}

@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010534.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010534\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A black and white scan of a two-page spread from a printed book or report. The left page is numbered 192 and the right page is 193. The content discusses allegations against Jeffrey Epstein regarding the recruitment of underage girls. A document identifier 'HOUSE_OVERSIGHT_010534' is visible at the bottom right corner.\",\n    \"layout\": \"Two-page spread. Each page has a header, a main body of text, and a page number. A document control number is located in the footer area of the right page.\",\n    \"quality\": \"medium\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"FERSON\\n*\\nto settle out of court with his\\na woman who went by the alias\\n1-dollar lawsuit against Epstein.\\ne claimed, Epstein was fifty-two\\nand her complaint, which was\\nworld an early glimpse of what\\nof his secret world, looked like\\noney manager with a secret cli-\\nllionaires,\\\" the law"
+}

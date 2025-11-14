@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010535.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010535.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A black and white scan of a two-page spread from a printed book or report. The left page is fully visible, while the right page is partially cut off on the right edge. The text discusses allegations against Jeffrey Epstein.\",\n    \"layout\": \"Two-page spread. The left page contains a header, a main body of text, and a page number at the bottom. The right page has a chapter-style heading, a main body of text with a large drop cap 'O', and a page number and document identifier at the bottom.\",\n    \"quality\": \"medium\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"JAMES PATTERSON\\n\\nperform one or more lewd, lascivious and sexual acts, including masturbation and touching the girl's vagina.\\n\\nConsistent with the foregoing plan and scheme, Jane Doe was recruited to give Epstein a massage for monetary compensation. Jane was brought to Epstein's mansion"
+}

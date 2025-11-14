@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010538.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a book or bound document. The left page contains text, partially cut off at the left margin. The right page is a section title page. A page number is visible at the bottom left, and a document identifier is at the bottom right.",
+    "layout": "Two-page view. The left page has a header and a single column of body text. The right page has a large, centered title. A page number is in the bottom left footer, and a document identifier is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\nwho flies too close to the sun,”\no “the agony” of Epstein’s legal\n\npstein responded.\nit, there were no more boasts.\nin public and retreated into his\nthe New York Times did manage\nhe spoke like a chastened man.\nLittle St. James, Epstein likened\nliver after he washes ashore on\n\nintended consequences,” he said.\nhe had a few more things to say:\nwealth. There are unexpected\n\nbut not your mind...”\n\n’d signed with the prosecutor’s\ntein had come to admitting his\nsprinkled throughout the story.\nors of friends” who would coun-\neemingly for the first time, he’d\nan.\nes might have wondered: Epstein\nonths. What need would he have\n\nat the answer: in preparation for\np an e-mail alert.\nreply would read “On vacation.”\n\n96\n\nPART V\n\nIncarceration\n\nHOUSE_OVERSIGHT_010538",
+    "text_regions": [
+      {
+        "region": "left_page_header",
+        "text": "TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "left_page_body",
+        "text": "who flies too close to the sun,”\no “the agony” of Epstein’s legal\n\npstein responded.\nit, there were no more boasts.\nin public and retreated into his\nthe New York Times did manage\nhe spoke like a chastened man.\nLittle St. James, Epstein likened\nliver after he washes ashore on\n\nintended consequences,” he said.\nhe had a few more things to say:\nwealth. There are unexpected\n\nbut not your mind...”\n\n’d signed with the prosecutor’s\ntein had come to admitting his\nsprinkled throughout the story.\nors of friends” who would coun-\neemingly for the first time, he’d\nan.\nes might have wondered: Epstein\nonths. What need would he have\n\nat the answer: in preparation for\np an e-mail alert.\nreply would read “On vacation.”",
+        "type": "printed"
+      },
+      {
+        "region": "left_page_footer",
+        "text": "96",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_title",
+        "text": "PART V\n\nIncarceration",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_footer",
+        "text": "HOUSE_OVERSIGHT_010538",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Epstein"
+    ],
+    "organizations": [
+      "New York Times",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Little St. James"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010538",
+      "96"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010538"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Epstein's legal issues and incarceration.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010538"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The text on the left page is partially cut off due to the binding of the book/document. The extracted text represents only the visible portions.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010538.jpg",
+  "house_oversight_id": "010538",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:15:23.236159Z",
+    "model": "gemini-2.5-pro"
+  }
+}

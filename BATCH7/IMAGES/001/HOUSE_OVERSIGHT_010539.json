@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010539.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan or photograph of a single page from a book or bound document. The page contains printed text, including a chapter heading, a subheading with a name and date, and several paragraphs of body text. The inner margin of the book's binding is visible on the left side, causing a slight curvature and shadow. A page number is present at the bottom of the text block, and a document identifier is at the very bottom of the page.",
+    "layout": "Standard book page layout with a chapter heading at the top, followed by a subheading, and then the main body text. A page number is centered below the text, and a document identifier is at the bottom right corner of the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 52\n\nJeffrey Epstein: June 30, 2008\n\nThe Palm Beach County Main Detention Center is on the west side of Lake Worth Lagoon, which separates West Palm Beach from the island of Palm Beach. Epstein’s home on El Brillo Way is five miles to the east. Mary’s high school is several miles to the west.\n\nIt’s fitting, somehow, that this jail—which is the jail Epstein ends up in, after turning himself in to the local sheriff—lies in between the two points.\n\nThe detention center’s inmates, their families, and their lawyers call it the Gun Club, a reference not only to the jail’s address, on Gun Club Road, but also to its population of hustlers, burglars, drug dealers, rapists, and murderers. There’s the occasional hooker as well. And, from time to time, Haitian refugees are lodged there.\n\nThere are three thousand inmates in all.\n\n199\n\nHOUSE_OVERSIGHT_010539",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CHAPTER 52",
+        "type": "printed"
+      },
+      {
+        "region": "sub_header",
+        "text": "Jeffrey Epstein: June 30, 2008",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "The Palm Beach County Main Detention Center is on the west side of Lake Worth Lagoon, which separates West Palm Beach from the island of Palm Beach. Epstein’s home on El Brillo Way is five miles to the east. Mary’s high school is several miles to the west.\n\nIt’s fitting, somehow, that this jail—which is the jail Epstein ends up in, after turning himself in to the local sheriff—lies in between the two points.\n\nThe detention center’s inmates, their families, and their lawyers call it the Gun Club, a reference not only to the jail’s address, on Gun Club Road, but also to its population of hustlers, burglars, drug dealers, rapists, and murderers. There’s the occasional hooker as well. And, from time to time, Haitian refugees are lodged there.\n\nThere are three thousand inmates in all.",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "199",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010539",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-06-30"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "Mary"
+    ],
+    "organizations": [
+      "Palm Beach County Main Detention Center"
+    ],
+    "locations": [
+      "Palm Beach County Main Detention Center",
+      "Lake Worth Lagoon",
+      "West Palm Beach",
+      "Palm Beach",
+      "El Brillo Way",
+      "Gun Club Road"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010539",
+      "199"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "El Brillo Way",
+        "Gun Club Road"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010539"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Description of the Palm Beach County Main Detention Center in relation to Jeffrey Epstein on June 30, 2008.",
+    "date": "2008-06-30",
+    "references": [
+      "HOUSE_OVERSIGHT_010539"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document appears to be a page from a book or a detailed report, given the chapter and page number format. The identifier 'HOUSE_OVERSIGHT_010539' suggests it is part of a larger collection of documents from a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010539.jpg",
+  "house_oversight_id": "010539",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:15:43.082541Z",
+    "model": "gemini-2.5-pro"
+  }
+}
