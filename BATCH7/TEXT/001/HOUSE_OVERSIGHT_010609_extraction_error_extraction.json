@@ -1,0 +1,117 @@
+{
+  "file_name": "Liquid Insight - Trump's effect on MXN - 22 September 2016.txt",
+  "content": {
+    "full_text": "﻿Liquid Insight\nTrump’s effect on MXN\n22 September 2016\nUnauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com\nKey takeaways\n• We provide an empirical analysis of Donald Trump's potential effects on the Mexican\npeso\n• Our analysis suggests the exchange rate is perhaps as much as 15% undervalued\n• We remain neutral for now given US election risks are likely to remain high in the near\nterm\nBy Claudio Irigoyen and Ezequiel Aguirre\nChart of the day: MXN may be as much as 15% undervalued\nSource: BofA Merrill Lynch Global Research, Bloomberg\nTrump’s effect on MXN\nWe provide an empirical analysis of Donald Trump’s effects on the Mexican peso. Our\nanalysis suggests the exchange rate is perhaps as much as 15% undervalued. In our\nview, buying the Mexican peso likely would prove a profitable strategy if Hillary Clinton\nwins. However, we remain neutral for now given US election risks are likely to remain\nhigh in the near term.\nA model of MXN weekly returns including Trump\nWe estimate a model of MXN returns with standard financial fundamentals that also\nincludes Donald Trump’s RealClearPolitics polling average in the US presidential\nelection. It is generally accepted now that Trump’s chances in the US election have been\na major driver of the Mexican peso (Chart 1).\nTrading ideas and investment strategies discussed herein may give rise to significant risk and are not\nsuitable for all investors. Investors should have experience in FX markets and the financial resources to\nabsorb any losses arising from applying these ideas or strategies.\nBofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a\nresult, investors should be aware that the firm may have a conflict of interest that could affect the\nobjectivity of this report. Investors should consider",
+    "sections": [
+      {
+        "section_index": 0,
+        "section_type": "header",
+        "text": "﻿Liquid Insight\nTrump’s effect on MXN\n22 September 2016"
+      },
+      {
+        "section_index": 1,
+        "section_type": "disclaimer",
+        "text": "Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com"
+      },
+      {
+        "section_index": 2,
+        "section_type": "header",
+        "text": "Key takeaways"
+      },
+      {
+        "section_index": 3,
+        "section_type": "list",
+        "text": "• We provide an empirical analysis of Donald Trump's potential effects on the Mexican\npeso\n• Our analysis suggests the exchange rate is perhaps as much as 15% undervalued\n• We remain neutral for now given US election risks are likely to remain high in the near\nterm"
+      },
+      {
+        "section_index": 4,
+        "section_type": "byline",
+        "text": "By Claudio Irigoyen and Ezequiel Aguirre"
+      },
+      {
+        "section_index": 5,
+        "section_type": "figure_caption",
+        "text": "Chart of the day: MXN may be as much as 15% undervalued\nSource: BofA Merrill Lynch Global Research, Bloomberg"
+      },
+      {
+        "section_index": 6,
+        "section_type": "header",
+        "text": "Trump’s effect on MXN"
+      },
+      {
+        "section_index": 7,
+        "section_type": "paragraph",
+        "text": "We provide an empirical analysis of Donald Trump’s effects on the Mexican peso. Our\nanalysis suggests the exchange rate is perhaps as much as 15% undervalued. In our\nview, buying the Mexican peso likely would prove a profitable strategy if Hillary Clinton\nwins. However, we remain neutral for now given US election risks are likely to remain\nhigh in the near term."
+      },
+      {
+        "section_index": 8,
+        "section_type": "header",
+        "text": "A model of MXN weekly returns including Trump"
+      },
+      {
+        "section_index": 9,
+        "section_type": "paragraph",
+        "text": "We estimate a model of MXN returns with standard financial fundamentals that also\nincludes Donald Trump’s RealClearPolitics polling average in the US presidential\nelection. It is generally accepted now that Trump’s chances in the US election have been\na major driver of the Mexican peso (Chart 1)."
+      },
+      {
+        "section_index": 10,
+        "section_type": "disclaimer",
+        "text": "Trading ideas and investment strategies discussed herein may give rise to significant risk and are not\nsuitable for all investors. Investors should have experience in FX markets and the financial resources to\nabsorb any losses arising from applying these ideas or strategies.\nBofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a\nresult, investors should be aware that the firm may have a conflict of interest that could affect the\nobjectivity of this report. Investors should consider"
+      }
+    ]
+  },
+  "metadata": {
+    "document_type": "Financial Research Report",
+    "participants": [
+      "Claudio Irigoyen",
+      "Ezequiel Aguirre"
+    ],
+    "date_range": {
+      "earliest": "2016-09-22",
+      "latest": "2016-09-22"
+    },
+    "file_references": [
+      "Chart 1"
+    ]
+  },
+  "entities": {
+    "people": [
+      "Donald Trump",
+      "Claudio Irigoyen",
+      "Ezequiel Aguirre",
+      "Hillary Clinton",
+      "amanda.ens@baml.com"
+    ],
+    "organizations": [
+      "BofA Merrill Lynch Global Research",
+      "Bloomberg",
+      "RealClearPolitics",
+      "BofA Merrill Lynch"
+    ],
+    "locations": [
+      "US"
+    ],
+    "dates": [
+      "22 September 2016"
+    ],
+    "events": [
+      "US presidential election"
+    ]
+  },
+  "themes": [
+    "Financial Analysis",
+    "Currency Exchange Rates",
+    "US Politics",
+    "Mexican Peso (MXN)",
+    "Investment Strategy",
+    "Risk Assessment"
+  ],
+  "confidence": 0.9,
+  "notes": "The provided text is a fragment of a financial report. The text ends abruptly, indicating it is incomplete. The initial character '﻿' is a Unicode Byte Order Mark (BOM). The analysis is based on the partial content available.",
+  "file_path": "TEXT\\001\\HOUSE_OVERSIGHT_010609_extraction_error.txt",
+  "house_oversight_id": "010609",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:25:46.579516Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010557.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a book or bound document. The text discusses Jeffrey Epstein and an individual named Rodriguez who allegedly stole information from Epstein and attempted to sell it. The document has a Bates stamp in the bottom right corner, indicating it is part of a larger collection of documents, likely for legal or investigative purposes.",
+    "layout": "Two-column layout representing two pages of a book. Page 218 is on the left, and page 21 is on the right. Each page has a header and a footer with page numbers. The binding of the book is visible in the center.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nJeffrey Epstein. Finally, desperately, he tried to sell the informa-tion he’d stolen.\n\nThe papers named underage girls and the places where Epstein had taken them. The list included locations in Califor-nia, Paris, New Mexico, New York, and Michigan. The papers also included the names, addresses, and phone numbers of famous individuals—Henry Kissinger, Mick Jagger, Dustin Hoff-man, Ralph Fiennes, David Koch, Ted Kennedy, Donald Trump, Bill Richardson, Bill Clinton, and former Israeli prime minister Ehud Barak among them.\n\nThis was intriguing, if not at all damning. Epstein made a habit of collecting such information for future use. But informa-tion pertaining to the girls would have bolstered the state’s case against Jeffrey Epstein, and by withholding it from the Palm Beach PD and the FBI, Rodriguez had committed a crime.\n\nIn his defense, Rodriguez would say that the papers were an “insurance policy.” Without them, he believed, Epstein would have made him “disappear.”\n\nBut now Rodriguez needed the money. And so a few weeks after Epstein’s release from the Stockade, he approached a lawyer who was representing some of Epstein’s masseuses. He had the “holy grail,” he insisted. A “golden nugget.” The names of hun-dreds of girls, he said, who had been abused by Epstein.\n\nThe lawyer told Rodriguez in no uncertain terms that he was obliged to turn whatever he had over to the authorities. By demanding money for the information, Rodriguez was commit-ting another crime.\n\nAccording to a sworn statement by Christina Pryor, a special agent with the FBI, Rodriguez “persisted that he would only turn over the information in his possession in exchange for $50,000.”\n\n218\n\nFIL[E]\n*\n\nTwo months later, on Octobe[r]\nwho insisted once more on b[ringing]\nlawyer told him that an associ[ate]\n\nWhat the lawyer knew anc[iently]\nthe associate in question was [from]\nthe FBI. A few days later, on [November]\nguez and sets up a meeting, wh[ere]\n\n“During the meeting, Ro[driguez]\nbook and several sheets of lega[l]\nten notes,” Special Agent Pryo[r]\ncontinues:\n\nRodriguez explained that he\nhis former employer’s resid[ence]\n2004 to 2005 and that the bo[ok]\nworking for his former emp[loyer]\ndetail the information within\nant information to the UCE. I[n]\nhe had previously lied to the [FBI]\nabout the $50,000, took posse[ssion]\ncounting it.\n\nRodriguez was then detai[ned]\nProceedings, Title 18, U.S. Co[de]\ntioned. After Miranda warning\nRodriguez waived his rights a[nd]\nthose rights. Rodriguez admitt[ed]\nand book in his possession an[d]\nto local law enforcement or th[e FBI]\n\n21\n\nHOUSE_OVERSIGHT_010557",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Jeffrey Epstein. Finally, desperately, he tried to sell the informa-tion he’d stolen.\n\nThe papers named underage girls and the places where Epstein had taken them. The list included locations in Califor-nia, Paris, New Mexico, New York, and Michigan. The papers also included the names, addresses, and phone numbers of famous individuals—Henry Kissinger, Mick Jagger, Dustin Hoff-man, Ralph Fiennes, David Koch, Ted Kennedy, Donald Trump, Bill Richardson, Bill Clinton, and former Israeli prime minister Ehud Barak among them.\n\nThis was intriguing, if not at all damning. Epstein made a habit of collecting such information for future use. But informa-tion pertaining to the girls would have bolstered the state’s case against Jeffrey Epstein, and by withholding it from the Palm Beach PD and the FBI, Rodriguez had committed a crime.\n\nIn his defense, Rodriguez would say that the papers were an “insurance policy.” Without them, he believed, Epstein would have made him “disappear.”\n\nBut now Rodriguez needed the money. And so a few weeks after Epstein’s release from the Stockade, he approached a lawyer who was representing some of Epstein’s masseuses. He had the “holy grail,” he insisted. A “golden nugget.” The names of hun-dreds of girls, he said, who had been abused by Epstein.\n\nThe lawyer told Rodriguez in no uncertain terms that he was obliged to turn whatever he had over to the authorities. By demanding money for the information, Rodriguez was commit-ting another crime.\n\nAccording to a sworn statement by Christina Pryor, a special agent with the FBI, Rodriguez “persisted that he would only turn over the information in his possession in exchange for $50,000.”",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "218",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FIL[E]\n*\n\n21",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Two months later, on Octobe[r]\nwho insisted once more on b[ringing]\nlawyer told him that an associ[ate]\n\nWhat the lawyer knew anc[iently]\nthe associate in question was [from]\nthe FBI. A few days later, on [November]\nguez and sets up a meeting, wh[ere]\n\n“During the meeting, Ro[driguez]\nbook and several sheets of lega[l]\nten notes,” Special Agent Pryo[r]\ncontinues:\n\nRodriguez explained that he\nhis former employer’s resid[ence]\n2004 to 2005 and that the bo[ok]\nworking for his former emp[loyer]\ndetail the information within\nant information to the UCE. I[n]\nhe had previously lied to the [FBI]\nabout the $50,000, took posse[ssion]\ncounting it.\n\nRodriguez was then detai[ned]\nProceedings, Title 18, U.S. Co[de]\ntioned. After Miranda warning\nRodriguez waived his rights a[nd]\nthose rights. Rodriguez admitt[ed]\nand book in his possession an[d]\nto local law enforcement or th[e FBI]",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010557",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2004-2005"
+    ],
+    "people": [
+      "James Patterson",
+      "Jeffrey Epstein",
+      "Henry Kissinger",
+      "Mick Jagger",
+      "Dustin Hoffman",
+      "Ralph Fiennes",
+      "David Koch",
+      "Ted Kennedy",
+      "Donald Trump",
+      "Bill Richardson",
+      "Bill Clinton",
+      "Ehud Barak",
+      "Rodriguez",
+      "Christina Pryor",
+      "Special Agent Pryor"
+    ],
+    "organizations": [
+      "Palm Beach PD",
+      "FBI",
+      "UCE"
+    ],
+    "locations": [
+      "California",
+      "Paris",
+      "New Mexico",
+      "New York",
+      "Michigan",
+      "Stockade"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010557"
+    ],
+    "financial_amounts": [
+      "$50,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010557"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Attempt by an individual named Rodriguez to sell information stolen from Jeffrey Epstein.",
+    "date": null,
+    "references": [
+      "Title 18, U.S. Code"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The document appears to be an excerpt from a book by James Patterson, which has been entered as evidence or documentation for a House Oversight Committee investigation, as indicated by the Bates stamp. The text on the right page is cut off along the right margin, making some words incomplete. The page numbering (218 on the left, 21 on the right) is unusual and may indicate the pages are from different sections or documents compiled together.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010557.jpg",
+  "house_oversight_id": "010557",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:23:13.139286Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,114 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010558.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image showing a two-page spread from a book or report. The pages are numbered 218 and 219. The text discusses an investigation involving a person named Rodriguez attempting to sell information related to Jeffrey Epstein. A document number is visible at the very bottom.",
+    "layout": "Two-page spread with a header on each page, a main body of text in paragraphs, and page numbers at the bottom corners. A document identifier is present in the bottom margin.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PATTERSON\n\nately, he tried to sell the informa-\n\nrage girls and the places where\nlist included locations in Califor-\nYork, and Michigan. The papers\nldresses, and phone numbers of\nKissinger, Mick Jagger, Dustin Hoff-\noch, Ted Kennedy, Donald Trump,\nand former Israeli prime minister\n\not at all damning. Epstein made a\nnation for future use. But informa-\nould have bolstered the state's case\nby withholding it from the Palm\nguez had committed a crime.\nwould say that the papers were an\nthem, he believed, Epstein would\n\ned the money. And so a few weeks\ne Stockade, he approached a lawyer\nof Epstein's masseuses. He had the\ngolden nugget.\" The names of hun-\nad been abused by Epstein.\nez in no uncertain terms that he was\ne had over to the authorities. By\nformation, Rodriguez was commit-\n\ntement by Christina Pryor, a special\nez \"persisted that he would only turn\nossession in exchange for $50,000.\"\n\n218\n\nFILTHY RICH\n\n* * *\n\nTwo months later, on October 28, the lawyer called Rodriguez,\nwho insisted once more on being paid for the information. The\nlawyer told him that an associate would be in touch.\nWhat the lawyer knew and Rodriguez did not know was that\nthe associate in question was an undercover employee (UCE) of\nthe FBI. A few days later, on November 2, the UCE calls Rodri-\nguez and sets up a meeting, which takes place the following day.\n\"During the meeting, Rodriguez produced a small bound\nbook and several sheets of legal pad paper containing handwrit-\nten notes,\" Special Agent Pryor would say in her statement. She\ncontinues:\n\nRodriguez explained that he had taken the bound book from\nhis former employer's residence while employed there in\n2004 to 2005 and that the book had been created by persons\nworking for his former employer. Rodriguez discussed in\ndetail the information within the book and identified import-\nant information to the UCE. In addition, Rodriguez admitted\nhe had previously lied to the FBI. Rodriguez asked the UCE\nabout the $50,000, took possession of the money, and began\ncounting it.\nRodriguez was then detained for Obstruction of Official\nProceedings, Title 18, U.S. Code, Section 1512(c), and ques-\ntioned. After Miranda warnings were administered by agents,\nRodriguez waived his rights and signed a written waiver of\nthose rights. Rodriguez admitted that he had the documents\nand book in his possession and had never turned them over\nto local law enforcement or the FBI. In addition, Rodriguez\n\n219\n\nHOUSE_OVERSIGHT_010558",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "ately, he tried to sell the informa-\n\nrage girls and the places where\nlist included locations in Califor-\nYork, and Michigan. The papers\nldresses, and phone numbers of\nKissinger, Mick Jagger, Dustin Hoff-\noch, Ted Kennedy, Donald Trump,\nand former Israeli prime minister\n\not at all damning. Epstein made a\nnation for future use. But informa-\nould have bolstered the state's case\nby withholding it from the Palm\nguez had committed a crime.\nwould say that the papers were an\nthem, he believed, Epstein would\n\ned the money. And so a few weeks\ne Stockade, he approached a lawyer\nof Epstein's masseuses. He had the\ngolden nugget.\" The names of hun-\nad been abused by Epstein.\nez in no uncertain terms that he was\ne had over to the authorities. By\nformation, Rodriguez was commit-\n\ntement by Christina Pryor, a special\nez \"persisted that he would only turn\nossession in exchange for $50,000.\"",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "* * *\n\nTwo months later, on October 28, the lawyer called Rodriguez,\nwho insisted once more on being paid for the information. The\nlawyer told him that an associate would be in touch.\nWhat the lawyer knew and Rodriguez did not know was that\nthe associate in question was an undercover employee (UCE) of\nthe FBI. A few days later, on November 2, the UCE calls Rodri-\nguez and sets up a meeting, which takes place the following day.\n\"During the meeting, Rodriguez produced a small bound\nbook and several sheets of legal pad paper containing handwrit-\nten notes,\" Special Agent Pryor would say in her statement. She\ncontinues:\n\nRodriguez explained that he had taken the bound book from\nhis former employer's residence while employed there in\n2004 to 2005 and that the book had been created by persons\nworking for his former employer. Rodriguez discussed in\ndetail the information within the book and identified import-\nant information to the UCE. In addition, Rodriguez admitted\nhe had previously lied to the FBI. Rodriguez asked the UCE\nabout the $50,000, took possession of the money, and began\ncounting it.\nRodriguez was then detained for Obstruction of Official\nProceedings, Title 18, U.S. Code, Section 1512(c), and ques-\ntioned. After Miranda warnings were administered by agents,\nRodriguez waived his rights and signed a written waiver of\nthose rights. Rodriguez admitted that he had the documents\nand book in his possession and had never turned them over\nto local law enforcement or the FBI. In addition, Rodriguez",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "218",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "219",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010558",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2004-2005",
+      "October 28",
+      "November 2"
+    ],
+    "people": [
+      "PATTERSON",
+      "Kissinger",
+      "Mick Jagger",
+      "Dustin Hoffoch",
+      "Ted Kennedy",
+      "Donald Trump",
+      "Epstein",
+      "Rodriguez",
+      "Christina Pryor",
+      "Special Agent Pryor"
+    ],
+    "organizations": [
+      "FBI"
+    ],
+    "locations": [
+      "California",
+      "New York",
+      "Michigan",
+      "Palm"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010558",
+      "Title 18, U.S. Code, Section 1512(c)"
+    ],
+    "financial_amounts": [
+      "$50,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation into Rodriguez's attempt to sell information related to Jeffrey Epstein.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010558"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be pages from the book 'Filthy Rich' by James Patterson, submitted as evidence to the House Oversight Committee. The name 'Dustin Hoff-och' is likely a hyphenated 'Dustin Hoffman'. The text on the left page is cut off at the left margin.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010558.jpg",
+  "house_oversight_id": "010558",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:23:41.662140Z",
+    "model": "gemini-2.5-pro"
+  }
+}

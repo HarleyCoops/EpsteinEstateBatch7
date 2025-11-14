@@ -1,0 +1,94 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010553.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a document that appears to be a report or book. The page is split visually by a dark shadow from the book's binding. The left side contains the end of a text section, including a signature block. The right side serves as a title page for a new section, titled 'PART VI Aftermath'. A page number is visible on the bottom left, and a document identifier is on the bottom right.",
+    "layout": "Two-column layout. The left column contains a header, a paragraph of text, a signature block, and a page number. The right column contains a large section title and subtitle. A document identifier is in the footer on the right.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PATTERSON\n\ny about his crimes because vic-\nspeak out. Some may disagree\nments made in this case, but\nt the ones who at the time\nilable for trial and assessed the\n\nRespectfully,\nR. Alexander Acosta\nFormer U.S. Attorney\nSouthern District of Florida\n\nPART VI\n\nAftermath\n\n212\n\nHOUSE_OVERSIGHT_010553",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "y about his crimes because vic-\nspeak out. Some may disagree\nments made in this case, but\nt the ones who at the time\nilable for trial and assessed the",
+        "type": "printed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Respectfully,\nR. Alexander Acosta\nFormer U.S. Attorney\nSouthern District of Florida",
+        "type": "printed"
+      },
+      {
+        "region": "title",
+        "text": "PART VI\n\nAftermath",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "212",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010553",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "PATTERSON",
+      "R. Alexander Acosta"
+    ],
+    "organizations": [
+      "Southern District of Florida"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010553",
+      "212"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "R. Alexander Acosta"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": "R. Alexander Acosta",
+    "recipient": null,
+    "subject": "The aftermath of a case involving victims speaking out.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010553"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The text on the left side of the page is partially obscured by the book's binding or a scanning artifact, making the beginning of each line unreadable. The extracted text reflects only the visible portions.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010553.jpg",
+  "house_oversight_id": "010553",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:21:34.341121Z",
+    "model": "gemini-2.5-pro"
+  }
+}

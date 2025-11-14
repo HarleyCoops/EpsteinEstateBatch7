@@ -1,0 +1,14 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010566_extraction_error.txt",
+  "file_path": "TEXT\\001\\HOUSE_OVERSIGHT_010566_extraction_error.txt",
+  "content": {
+    "full_text": "JSON Parse Error: Expecting value: line 1 column 1 (char 0)\n\n================================================================================\nRAW RESPONSE (first 2000 chars):\n================================================================================\n\n\n================================================================================\nATTEMPTED JSON TEXT:\n================================================================================\n"
+  },
+  "error": "Failed to parse LLM response: Expecting property name enclosed in double quotes: line 1 column 2 (char 1)",
+  "raw_response_preview": "{{\n  \"file_name\": \"House_Oversight_Committee_Documentation_Error_Log\",\n  \"content\": {{\n    \"full_text\": \"JSON Parse Error: Expecting value: line 1 column 1 (char 0)\\n\\n================================================================================\\nRAW RESPONSE (first 2000 chars):\\n================================================================================\\n\\n\\n================================================================================\\nATTEMPTED JSON TEXT:\\n==========================",
+  "house_oversight_id": "010566",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:23:14.797271Z",
+    "model": "gemini-2.5-pro"
+  }
+}

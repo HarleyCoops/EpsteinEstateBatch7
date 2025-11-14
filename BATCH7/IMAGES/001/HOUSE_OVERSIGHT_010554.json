@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010554.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a document, likely from a book or report. The page has a chapter heading, a subheading, and several paragraphs of text. The left side of the image shows the deep shadow of the book's spine, indicating it is a scan of a physical, bound volume. A page number is visible at the bottom center, and a document identifier is at the very bottom edge.",
+    "layout": "Single-column text layout typical of a book page. It includes a chapter heading at the top, a subheading, body text with a drop cap, a page number centered at the bottom, and a document identifier in the bottom margin.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 56\n\nJeffrey Epstein: July 2009\n\nJeffrey Epstein walks out of the Stockade on July 21, 2009, having served less than thirteen months of his eighteen-month sentence. One of the concessions his lawyers have gotten while working out his plea-deal guarantees is that the media not be alerted to the time and day of his departure.\n\nBut from now on, Epstein, who is fifty-six, will carry the mark of a level 3 sex offender—level 1 being the lowest, and level 3 indicating the highest possible risk of a future criminal act of a sexual nature. Wherever he goes, he will be forced to register as such.\n\nEvery ninety days, Epstein will have to check in with the authorities. Every year, the New York City Police Department will take his mug shot. And for a full year, Epstein will be under house arrest in Palm Beach.\n\nThis last prohibition doesn't stop him from flying, with court\n\n215\n\nHOUSE_OVERSIGHT_010554",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CHAPTER 56",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Jeffrey Epstein: July 2009",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Jeffrey Epstein walks out of the Stockade on July 21, 2009,\nhaving served less than thirteen months of his eighteen-month\nsentence. One of the concessions his lawyers have gotten\nwhile working out his plea-deal guarantees is that the media not\nbe alerted to the time and day of his departure.\n\nBut from now on, Epstein, who is fifty-six, will carry the\nmark of a level 3 sex offender—level 1 being the lowest, and\nlevel 3 indicating the highest possible risk of a future criminal\nact of a sexual nature. Wherever he goes, he will be forced to reg-\nister as such.\n\nEvery ninety days, Epstein will have to check in with the\nauthorities. Every year, the New York City Police Department\nwill take his mug shot. And for a full year, Epstein will be under\nhouse arrest in Palm Beach.\n\nThis last prohibition doesn't stop him from flying, with court",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "215",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010554",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-07",
+      "2009-07-21"
+    ],
+    "people": [
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "New York City Police Department"
+    ],
+    "locations": [
+      "Stockade",
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010554"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010554"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Jeffrey Epstein's release from the Stockade in July 2009 and the conditions of his release.",
+    "date": "2009-07-21",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a narrative book or report detailing events related to Jeffrey Epstein. The text is cut off at the end of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010554.jpg",
+  "house_oversight_id": "010554",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:21:55.201469Z",
+    "model": "gemini-2.5-pro"
+  }
+}

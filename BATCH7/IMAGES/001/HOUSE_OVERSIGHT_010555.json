@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010555.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a book or report. The page has a header, a page number, and a footer with a document ID. The main content is divided into two columns of text, though the right-hand column is partially cut off by the edge of the frame. The page appears to be from a bound volume, as indicated by the slight curvature and shadow along the inner margin.",
+    "layout": "The page has a header at the top center, a main body of text in two columns, a page number at the bottom center, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\napproval, on his own planes to New York and to Little Saint Jeff's, where the locals have taken to referring to Epstein's 727 as the Lolita Express.\n\nThere are other restrictions, of course, that Epstein is supposed to abide by. He has to provide the state of Florida with a list of all the motor vehicles, boats, and airplanes he owns. The full list includes two Escalades, six Suburbans, two Ford F-150s, two Harley-Davidsons, a Land Rover, a Hummer H2, a thirty-four-foot JVC boat, and a thirty-five-foot Donzi powerboat.\n\nThree of his five planes turn out to be registered to a company called Air Ghislaine, Inc.\n\nAs a registered sex offender, Epstein is legally obliged to undergo psychiatric treatment. This is a restriction he'll get around by having his own psychologist submit a report to law enforcement officers.\n\nEpstein is also prohibited from accessing pornography on the Internet and using social networking for sexual purposes.\n\nFor Jeffrey Epstein, there will be no Bangbros, Tinder, or Swingles.com.\n\nThere will be lawsuits.\n\nSix weeks before probation ends, he settles with seven women who sue him in civil court. But Epstein can easily afford the settlement payments. He won't be going back to jail, and in regard to further prosecution for any criminal actions, his troubles are behind him.\n\nNot everyone who's spent time in his company will be so lucky.\n\nAlfredo Rodriguez: Aug\n\nEpstein's houseman, Al\nprison sentence.\nIn a sworn statem\nmaid, Lupita, who had com\nup after Epstein's “massages\nlic, had cried as she describe\nRodriguez was fired by I\nafter seeing a strange car—a\nAs it turned out, the ca\nmasseuses.\nOn his way out of the ho\nof Epstein's papers, which he\nby Chief Reiter's investigator.\nFor years, Rodriguez trie\nmanager. No one wanted to\n\n216\n\nHOUSE_OVERSIGHT_010555",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "approval, on his own planes to New York and to Little Saint Jeff's,\nwhere the locals have taken to referring to Epstein's 727 as the\nLolita Express.\n\nThere are other restrictions, of course, that Epstein is supposed to abide by. He has to provide the state of Florida with a\nlist of all the motor vehicles, boats, and airplanes he owns. The\nfull list includes two Escalades, six Suburbans, two Ford F-150s,\ntwo Harley-Davidsons, a Land Rover, a Hummer H2, a thirty-four-foot JVC boat, and a thirty-five-foot Donzi powerboat.\n\nThree of his five planes turn out to be registered to a company called Air Ghislaine, Inc.\n\nAs a registered sex offender, Epstein is legally obliged to\nundergo psychiatric treatment. This is a restriction he'll get\naround by having his own psychologist submit a report to law\nenforcement officers.\n\nEpstein is also prohibited from accessing pornography on\nthe Internet and using social networking for sexual purposes.\n\nFor Jeffrey Epstein, there will be no Bangbros, Tinder, or\nSwingles.com.\n\nThere will be lawsuits.\n\nSix weeks before probation ends, he settles with seven women\nwho sue him in civil court. But Epstein can easily afford the settlement payments. He won't be going back to jail, and in regard\nto further prosecution for any criminal actions, his troubles are\nbehind him.\n\nNot everyone who's spent time in his company will be so\nlucky.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Alfredo Rodriguez: Aug\n\nEpstein's houseman, Al\nprison sentence.\nIn a sworn statem\nmaid, Lupita, who had com\nup after Epstein's “massages\nlic, had cried as she describe\nRodriguez was fired by I\nafter seeing a strange car—a\nAs it turned out, the ca\nmasseuses.\nOn his way out of the ho\nof Epstein's papers, which he\nby Chief Reiter's investigator.\nFor years, Rodriguez trie\nmanager. No one wanted to",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "216",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010555",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "Epstein",
+      "Jeffrey Epstein",
+      "Alfredo Rodriguez",
+      "Al",
+      "Lupita",
+      "Chief Reiter"
+    ],
+    "organizations": [
+      "Air Ghislaine, Inc.",
+      "Bangbros",
+      "Tinder",
+      "Swingles.com",
+      "Ford",
+      "Harley-Davidson",
+      "Land Rover",
+      "Hummer",
+      "JVC",
+      "Donzi",
+      "Escalade",
+      "Suburban",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "New York",
+      "Little Saint Jeff's",
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010555",
+      "216"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010555"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Restrictions and activities of Jeffrey Epstein, and account of Alfredo Rodriguez.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010555"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The document appears to be a page from a book authored by James Patterson. The right-hand column of text is partially cut off, making the sentences incomplete. The content discusses Jeffrey Epstein's legal restrictions, assets, and interactions with staff like Alfredo Rodriguez and Lupita.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010555.jpg",
+  "house_oversight_id": "010555",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:22:19.825497Z",
+    "model": "gemini-2.5-pro"
+  }
+}

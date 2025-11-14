@@ -1,0 +1,82 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010563.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document, appearing to be a witness statement or summary. The text is black on a white background. Several portions of the text have been redacted with black boxes. The document has a header on the top left and a footer on the bottom right.",
+    "layout": "Standard portrait document layout with a header, multi-paragraph body, and a footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Scott Link\nJune 19, 2019\nPage 4\n\n[REDACTED] thought this is what it must feel like to become a woman. She was both\nthrilled and ashamed. She followed the path that Mr. Epstein set out for her because he said if\nshe trusted him and did what he told her to do, everything would go according to his plan and her\ncareer would soar. Without him the world was a scary and unpredictable place. When she was\nwith him, she felt like everything was right because of how much love and care she received\nfrom him. She started to think and believe that they would be together and that he would marry\nher.\n\nHe used the purple massage vibrator on her time and time again. She closed her eyes\nfeeling lost, overwhelmed and out of control.\n\nWhen he stuck his penis in her mouth, she did what she was told. She choked and\ngagged and when she tried to move her head away he forced it back into place. Mr. Epstein was\nextremely aggressive. When it was over he told her how amazing she was. She continued to\nbelieve in Mr. Epstein's friendship and guidance.\n\nMr. Epstein took her virginity. This was the trajectory for which he groomed her. [REDACTED]\n[REDACTED] first sexual experience was devoid of tenderness or affection. She was stripped down\nand made to shower. Mr. Epstein told her, “If you’re lying about being a virgin, or I get a\ndisease from you, I’ll kill you.” She felt her mind separate from her body during intercourse.\n\nShe began to feel like a shell of her former self. She was mortified and in agony. She\nfelt she had become everything her parents feared she would become. She was appearing in\nbeauty magazines and making hundreds of thousands of dollars, but felt dirty and worthless. Mr.\nEpstein made her feel like nothing more than a teenage prostitute. Everything came crashing\ndown once she realized that this was not love.\n\n[REDACTED] left Mr. Epstein's residence for the last time feeling less than human. On\nher way out, she passed a young girl who appeared to be another young model. As [REDACTED]\nturned around to glance back, she saw the young woman entering Mr. Epstein's residence. She\nwas disgusted with the realization that she was one of many called to “massage” Epstein.\n\n[REDACTED] had a nervous breakdown while alone in New York. She found herself\ncrying inconsolably, shaking, hyperventilating and unable to go to her castings and meetings.\nShe was suicidal. She feared confiding in her agents and reaching out for help from them\nbecause she was so ashamed. She booked a ticket to go home.\n\nShe flew back to Kansas where her parents were living. She never returned to New York.\n\n[REDACTED] was devastated with the realization of what she was lured into and how she\n\nHOUSE_OVERSIGHT_010563",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Scott Link\nJune 19, 2019\nPage 4",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "[REDACTED] thought this is what it must feel like to become a woman. She was both\nthrilled and ashamed. She followed the path that Mr. Epstein set out for her because he said if\nshe trusted him and did what he told her to do, everything would go according to his plan and her\ncareer would soar. Without him the world was a scary and unpredictable place. When she was\nwith him, she felt like everything was right because of how much love and care she received\nfrom him. She started to think and believe that they would be together and that he would marry\nher.\n\nHe used the purple massage vibrator on her time and time again. She closed her eyes\nfeeling lost, overwhelmed and out of control.\n\nWhen he stuck his penis in her mouth, she did what she was told. She choked and\ngagged and when she tried to move her head away he forced it back into place. Mr. Epstein was\nextremely aggressive. When it was over he told her how amazing she was. She continued to\nbelieve in Mr. Epstein's friendship and guidance.\n\nMr. Epstein took her virginity. This was the trajectory for which he groomed her. [REDACTED]\n[REDACTED] first sexual experience was devoid of tenderness or affection. She was stripped down\nand made to shower. Mr. Epstein told her, “If you’re lying about being a virgin, or I get a\ndisease from you, I’ll kill you.” She felt her mind separate from her body during intercourse.\n\nShe began to feel like a shell of her former self. She was mortified and in agony. She\nfelt she had become everything her parents feared she would become. She was appearing in\nbeauty magazines and making hundreds of thousands of dollars, but felt dirty and worthless. Mr.\nEpstein made her feel like nothing more than a teenage prostitute. Everything came crashing\ndown once she realized that this was not love.\n\n[REDACTED] left Mr. Epstein's residence for the last time feeling less than human. On\nher way out, she passed a young girl who appeared to be another young model. As [REDACTED]\nturned around to glance back, she saw the young woman entering Mr. Epstein's residence. She\nwas disgusted with the realization that she was one of many called to “massage” Epstein.\n\n[REDACTED] had a nervous breakdown while alone in New York. She found herself\ncrying inconsolably, shaking, hyperventilating and unable to go to her castings and meetings.\nShe was suicidal. She feared confiding in her agents and reaching out for help from them\nbecause she was so ashamed. She booked a ticket to go home.\n\nShe flew back to Kansas where her parents were living. She never returned to New York.\n\n[REDACTED] was devastated with the realization of what she was lured into and how she",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010563",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2019-06-19"
+    ],
+    "people": [
+      "Scott Link",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "New York",
+      "Kansas"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010563",
+      "Page 4"
+    ],
+    "financial_amounts": [
+      "hundreds of thousands of dollars"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": "Scott Link",
+    "recipient": null,
+    "subject": "Narrative account of experiences with Mr. Epstein.",
+    "date": "2019-06-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010563"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.95,
+    "overall": 0.98
+  },
+  "notes": "The document is a narrative, likely a witness statement or a summary of an interview, detailing a person's traumatic experiences with someone referred to as 'Mr. Epstein'. Multiple sections of the text have been redacted, obscuring names or specific details.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010563.jpg",
+  "house_oversight_id": "010563",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:25:50.016044Z",
+    "model": "gemini-2.5-pro"
+  }
+}

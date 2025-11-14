@@ -1,0 +1,85 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010562.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document with black text on a white background. The document contains several paragraphs of narrative text. Multiple sections of the text have been redacted with black rectangular boxes. The document has a header at the top left and a footer at the bottom right.",
+    "layout": "The document follows a standard portrait layout with a header, a main body of text organized into paragraphs, and a footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Scott Link\nJune 19, 2019\nPage 3\n\n[REDACTED] confided to him that she had never even had a boyfriend. He told her\neverything would fall into place, “just keep doing what you are doing, work hard and stay\nfocused.” She told Mr. Epstein that she preferred to abstain from sex until she was married.\n\nThe first time [REDACTED] asked her for a massage was to help with an ache in his\nshoulder. [REDACTED] thought it was an innocent request. He said his masseuse had failed to\nget a kink out of his shoulder. He gave her a large purple massager for her to use to take the knot\nout of his back. Mr. Epstein told her she was an excellent masseuse and she was pleased to be\nable to ease his pain.\n\nWhen the massage ended, Mr. Epstein pulled two hundred dollars from his wallet and\nhanded it to her. He said, “I was going to give it to the masseuse anyway, so you take it and pay\nfor your car service or something.”\n\nMr. Epstein began calling her every day, no matter where she was in the world. He told\nher he loved her. He became a vital part of [REDACTED] world as her parents remained\ndistant. He invited her to stay at one of his apartments close to him on the Upper East Side. Her\narduous work schedule, starting with 6:00 a.m. call times and shows running late into the night\nwere exhausting. Epstein’s daily check-up calls and pep talks gave her strength to survive her\ngrinding schedule.\n\nWhen in Paris, Mr. Epstein allowed her to stay at his home with her sister and arranged\nfor a night out at a concert with Naomi Campbell. It appeared to [REDACTED] that Mr. Epstein’s\nthoughts were focused on her career, future and good fortune.\n\nThe first time the purple massage tool found its way between her legs, [REDACTED] told\nhim to stop, but Mr. Epstein pushed the head of the massager firmly against her and forced her\nlegs apart. She felt ashamed and embarrassed. The massages became a ritual and were always\naccompanied with sexual abuse and a two-hundred dollar payment at the end.\n\nMr. Epstein approached her as if he was her mentor and teacher, teaching her about\nsexuality, opening her eyes. She experienced immense orgasms, and then shame and fear. She\nfelt claustrophobia as she stared up into Mr. Epstein’s church-like ceiling of the massage parlor\nwhile he fondled her. She felt she couldn’t escape her position, and that this was the way it had\nto be because this powerful man orchestrated it. At the end of each massage he would make\nhimself ejaculate by demanding she pay vigorous attention to his nipples with her fingers and he\nwould tell her what a good girl she was, that he loved her and would call her later, which made\neverything seem better. Then he would open his wallet filled with hundred dollar bills and give\nher a couple, which she accepted as pocket money, never thinking twice about it.\n\nHOUSE_OVERSIGHT_010562",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Scott Link\nJune 19, 2019\nPage 3",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "[REDACTED] confided to him that she had never even had a boyfriend. He told her\neverything would fall into place, “just keep doing what you are doing, work hard and stay\nfocused.” She told Mr. Epstein that she preferred to abstain from sex until she was married.\n\nThe first time [REDACTED] asked her for a massage was to help with an ache in his\nshoulder. [REDACTED] thought it was an innocent request. He said his masseuse had failed to\nget a kink out of his shoulder. He gave her a large purple massager for her to use to take the knot\nout of his back. Mr. Epstein told her she was an excellent masseuse and she was pleased to be\nable to ease his pain.\n\nWhen the massage ended, Mr. Epstein pulled two hundred dollars from his wallet and\nhanded it to her. He said, “I was going to give it to the masseuse anyway, so you take it and pay\nfor your car service or something.”\n\nMr. Epstein began calling her every day, no matter where she was in the world. He told\nher he loved her. He became a vital part of [REDACTED] world as her parents remained\ndistant. He invited her to stay at one of his apartments close to him on the Upper East Side. Her\narduous work schedule, starting with 6:00 a.m. call times and shows running late into the night\nwere exhausting. Epstein’s daily check-up calls and pep talks gave her strength to survive her\ngrinding schedule.\n\nWhen in Paris, Mr. Epstein allowed her to stay at his home with her sister and arranged\nfor a night out at a concert with Naomi Campbell. It appeared to [REDACTED] that Mr. Epstein’s\nthoughts were focused on her career, future and good fortune.\n\nThe first time the purple massage tool found its way between her legs, [REDACTED] told\nhim to stop, but Mr. Epstein pushed the head of the massager firmly against her and forced her\nlegs apart. She felt ashamed and embarrassed. The massages became a ritual and were always\naccompanied with sexual abuse and a two-hundred dollar payment at the end.\n\nMr. Epstein approached her as if he was her mentor and teacher, teaching her about\nsexuality, opening her eyes. She experienced immense orgasms, and then shame and fear. She\nfelt claustrophobia as she stared up into Mr. Epstein’s church-like ceiling of the massage parlor\nwhile he fondled her. She felt she couldn’t escape her position, and that this was the way it had\nto be because this powerful man orchestrated it. At the end of each massage he would make\nhimself ejaculate by demanding she pay vigorous attention to his nipples with her fingers and he\nwould tell her what a good girl she was, that he loved her and would call her later, which made\neverything seem better. Then he would open his wallet filled with hundred dollar bills and give\nher a couple, which she accepted as pocket money, never thinking twice about it.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010562",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2019-06-19"
+    ],
+    "people": [
+      "Scott Link",
+      "Mr. Epstein",
+      "Naomi Campbell"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Upper East Side",
+      "Paris"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010562",
+      "Page 3"
+    ],
+    "financial_amounts": [
+      "two hundred dollars",
+      "two-hundred dollar",
+      "hundred dollar bills"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "memo",
+    "sender": "Scott Link",
+    "recipient": null,
+    "subject": "Narrative account involving Mr. Epstein.",
+    "date": "2019-06-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010562"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document contains multiple redactions, obscuring names and potentially other key details. The content describes interactions of a personal and sensitive nature involving Mr. Epstein. The document number in the footer suggests it is part of a larger collection of documents from a House Oversight investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010562.jpg",
+  "house_oversight_id": "010562",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:25:26.790632Z",
+    "model": "gemini-2.5-pro"
+  }
+}

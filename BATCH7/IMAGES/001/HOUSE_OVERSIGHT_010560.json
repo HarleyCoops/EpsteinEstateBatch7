@@ -1,0 +1,154 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010560.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page letter from the law firm Allred, Maroko & Goldberg. The document is typed in black text on a white background. Several sections of the text, including names, locations, and contact information, have been redacted with black boxes. The letterhead is at the top, the body of the letter is in the center, and footer information, including another office address and a document identifier, is at the bottom.",
+    "layout": "Standard business letter format. The header contains the law firm's name, address, and contact information. A list of attorneys is on the left, and 'Of Counsel' information is on the right. The date is centered below the header. The recipient's address is on the left, followed by a 'Re:' line. The body of the letter is composed of several paragraphs. A footer contains the New York office address and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Law Offices\nALLRED, MAROKO & GOLDBERG\nA PARTNERSHIP OF PROFESSIONAL CORPORATIONS\n\nNATHAN GOLDBERG*\nMICHAEL MAROKO*\nGLORIA R. ALLRED*†◊\nJOHN S. WEST\nDOLORES Y. LEAL\nRENEE MOCHKATEL\nMARGERY N. SOMERS\nMARCUS SPIEGEL\nCHRISTINA CHEUNG†\nBYRON LAU\nKIRBY F. CAÑON\n* A PROFESSIONAL CORPORATION\n† ALSO ADMITTED TO NEW YORK BAR\n◊ ALSO ADMITTED TO WASHINGTON DC BAR\n\n6300 WILSHIRE BOULEVARD\nSUITE 1500\nLOS ANGELES, CALIFORNIA 90048\n\nFAX\nwww.amglaw.com\n\nOF COUNSEL\nMARÍA G. DÍAZ\n\nE-MAIL:\n\nJune 19, 2019\n\nVIA FEDERAL EXPRESS & EMAIL\n\nMr. Scott Link\nLink & Rockenbach, PA\n1555 Palm Beach Lakes Blvd., Suite 930\nWest Palm Beach, FL 33401\n\nRe:\n\nDear Mr. Link,\n\nWe represent [REDACTED] with reference to her claims against Jeffrey Epstein for childhood sexual abuse which occurred in New York City when she was [REDACTED] years old.\n\nNew York recently passed the Child Victims Act which creates a 1 year window for claims where the statute of limitations had expired. Therefore, [REDACTED] will be able to sue Mr. Epstein for the sexual abuse which she experienced while she was a minor.\n\n[REDACTED] was the perfect victim.\n\nShe was born in [REDACTED] a town on the [REDACTED] coast. When [REDACTED] was four years old, [REDACTED] descended into civil war. At the age of six, her entire village was evacuated. She fled her hometown travelling through war zones on foot with her family, in a stream of refugees.\n\nHer family settled in the outskirts of [REDACTED]. As refugees, with no money, her family lived together in one room, sharing a bathroom with other families. Her parents eventually found low paying, unskilled jobs. Their only clothing was what was provided to them by the Red Cross.\n\nWhen she was ten years old, [REDACTED] family arrived in [REDACTED].\n\nBy the sixth grade, [REDACTED] was 5’10”, beautiful and naturally slim. She desperately\n\nNEW YORK OFFICES | 305 BROADWAY, SUITE 607 | NEW YORK, NEW YORK 10007\nT (212) 202-2966 | FAX (212) 202-2967\n\nHOUSE_OVERSIGHT_010560",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Law Offices\nALLRED, MAROKO & GOLDBERG\nA PARTNERSHIP OF PROFESSIONAL CORPORATIONS",
+        "type": "printed"
+      },
+      {
+        "region": "header_address",
+        "text": "6300 WILSHIRE BOULEVARD\nSUITE 1500\nLOS ANGELES, CALIFORNIA 90048",
+        "type": "printed"
+      },
+      {
+        "region": "header_contact",
+        "text": "FAX\nwww.amglaw.com\nE-MAIL:",
+        "type": "printed"
+      },
+      {
+        "region": "attorney_list",
+        "text": "NATHAN GOLDBERG*\nMICHAEL MAROKO*\nGLORIA R. ALLRED*†◊\nJOHN S. WEST\nDOLORES Y. LEAL\nRENEE MOCHKATEL\nMARGERY N. SOMERS\nMARCUS SPIEGEL\nCHRISTINA CHEUNG†\nBYRON LAU\nKIRBY F. CAÑON",
+        "type": "printed"
+      },
+      {
+        "region": "attorney_footnotes",
+        "text": "* A PROFESSIONAL CORPORATION\n† ALSO ADMITTED TO NEW YORK BAR\n◊ ALSO ADMITTED TO WASHINGTON DC BAR",
+        "type": "printed"
+      },
+      {
+        "region": "counsel_list",
+        "text": "OF COUNSEL\nMARÍA G. DÍAZ",
+        "type": "printed"
+      },
+      {
+        "region": "date",
+        "text": "June 19, 2019",
+        "type": "printed"
+      },
+      {
+        "region": "delivery_method",
+        "text": "VIA FEDERAL EXPRESS & EMAIL",
+        "type": "printed"
+      },
+      {
+        "region": "recipient_address",
+        "text": "Mr. Scott Link\nLink & Rockenbach, PA\n1555 Palm Beach Lakes Blvd., Suite 930\nWest Palm Beach, FL 33401",
+        "type": "printed"
+      },
+      {
+        "region": "subject_line",
+        "text": "Re:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Dear Mr. Link,\n\nWe represent [REDACTED] with reference to her claims against Jeffrey Epstein for childhood sexual abuse which occurred in New York City when she was [REDACTED] years old.\n\nNew York recently passed the Child Victims Act which creates a 1 year window for claims where the statute of limitations had expired. Therefore, [REDACTED] will be able to sue Mr. Epstein for the sexual abuse which she experienced while she was a minor.\n\n[REDACTED] was the perfect victim.\n\nShe was born in [REDACTED] a town on the [REDACTED] coast. When [REDACTED] was four years old, [REDACTED] descended into civil war. At the age of six, her entire village was evacuated. She fled her hometown travelling through war zones on foot with her family, in a stream of refugees.\n\nHer family settled in the outskirts of [REDACTED]. As refugees, with no money, her family lived together in one room, sharing a bathroom with other families. Her parents eventually found low paying, unskilled jobs. Their only clothing was what was provided to them by the Red Cross.\n\nWhen she was ten years old, [REDACTED] family arrived in [REDACTED].\n\nBy the sixth grade, [REDACTED] was 5’10”, beautiful and naturally slim. She desperately",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "NEW YORK OFFICES | 305 BROADWAY, SUITE 607 | NEW YORK, NEW YORK 10007\nT (212) 202-2966 | FAX (212) 202-2967",
+        "type": "printed"
+      },
+      {
+        "region": "document_identifier",
+        "text": "HOUSE_OVERSIGHT_010560",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2019-06-19"
+    ],
+    "people": [
+      "NATHAN GOLDBERG",
+      "MICHAEL MAROKO",
+      "GLORIA R. ALLRED",
+      "JOHN S. WEST",
+      "DOLORES Y. LEAL",
+      "RENEE MOCHKATEL",
+      "MARGERY N. SOMERS",
+      "MARCUS SPIEGEL",
+      "CHRISTINA CHEUNG",
+      "BYRON LAU",
+      "KIRBY F. CAÑON",
+      "MARÍA G. DÍAZ",
+      "Scott Link",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "ALLRED, MAROKO & GOLDBERG",
+      "Link & Rockenbach, PA",
+      "Red Cross"
+    ],
+    "locations": [
+      "LOS ANGELES, CALIFORNIA 90048",
+      "West Palm Beach, FL 33401",
+      "New York City",
+      "New York",
+      "NEW YORK, NEW YORK 10007"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010560"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(212) 202-2966"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "6300 WILSHIRE BOULEVARD, SUITE 1500, LOS ANGELES, CALIFORNIA 90048",
+        "1555 Palm Beach Lakes Blvd., Suite 930, West Palm Beach, FL 33401",
+        "305 BROADWAY, SUITE 607, NEW YORK, NEW YORK 10007"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier 'HOUSE_OVERSIGHT_010560' in the bottom right corner."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "ALLRED, MAROKO & GOLDBERG",
+    "recipient": "Mr. Scott Link",
+    "subject": "Claims against Jeffrey Epstein",
+    "date": "2019-06-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010560"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is heavily redacted, obscuring the client's name, specific ages, locations, and contact details like fax numbers and email addresses. The subject line is also fully redacted. The content discusses legal claims against Jeffrey Epstein under the New York Child Victims Act.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010560.jpg",
+  "house_oversight_id": "010560",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:24:35.669477Z",
+    "model": "gemini-2.5-pro"
+  }
+}

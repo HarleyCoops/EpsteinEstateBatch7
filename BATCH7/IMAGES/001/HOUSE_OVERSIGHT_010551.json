@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010551.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a book or report. The left page is numbered 210 and the right is 211. The text discusses a legal case, mentioning prosecutors, defense attorneys, and a plea deal. The document has a footer indicating it is part of the House Oversight Committee records.",
+    "layout": "Two-page spread with a single column of text on each page. There are headers at the top of each page, page numbers at the bottom of the text block, and a document identifier in the footer of the right page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ATTERSON\n\na different. But they were not\n\nmust be based on admissible\nin cases of this type, those are\nthe victims are frightened and\nif they do speak, they give con-\njudgment in this case, based\nthe time, was that it was better\ntime in jail, register as a sex\nims restitution than risk a trial\nl of success. I supported that\non the state law as it then stood\nat the time, I would support that\n\nwhile in state custody, likewise\nhat the office should have been\nrms of confinement in a state\npriately left to the State of Flor-\nrities, without doubt, the treat-\nle in state custody undermined\nnce.\n\nve that the prosecution should\nliation for the defense's tactics.\nften failed to negotiate in good\nconcessions as part of a negotia-\nd, only to change their minds,\nsition to Washington. The inves-\nlives of individual prosecutors\nalled for, as were the accusations\nt against individual prosecutors.\n\n210\n\nFILTHY RICH\n\nAt times, some prosecutors felt that we should just go to\ntrial, and at times I felt that frustration myself. What was\nright in the first meeting, however, remained right irre-\nspective of defense tactics. Individuals have a constitu-\ntional right to a defense. The aggressive exercise of that\nright should not be punished, nor should a defense coun-\nsel's exercise of their right to appeal a U.S Attorney to\nWashington D.C. Prosecutors must be careful not to allow\nfrustration and anger with defense counsel to influence\ntheir judgment.\n\nAfter the plea, I recall receiving several phone calls.\nOne was from the FBI Special Agent-In-Charge. He called\nto offer congratulations. He had been at many of the\nmeetings regarding this case. He was aware of the tactics\nof the defense, and he called to praise our prosecutors for\nholding firm against the likes of Messrs. Black, Dershow-\nitz, Lefkowitz and Starr. It was a proud moment. I also\nreceived calls or communications from Messrs. Dershow-\nitz, Lefkowitz and Starr. I had known all three individu-\nals previously, from my time in law school and at\nKirkland & Ellis in the mid 90s. They all sought to make\npeace. I agreed to talk and meet with each of them after\nEpstein pled guilty, as I think it important that prosecu-\ntors battle defense attorneys in a case and then move on. I\nhave tried, yet I confess that this has been difficult to do\nfully in this case.\n\nThe bottom line is this: Mr. Jeffrey Epstein, a billionaire,\nserved time in jail and is now a registered sexual offender.\nHe has been required to pay his victims restitution, though\nrestitution clearly cannot compensate for the crime. And\n\n211\n\nHOUSE_OVERSIGHT_010551",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "ATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "a different. But they were not\n\nmust be based on admissible\nin cases of this type, those are\nthe victims are frightened and\nif they do speak, they give con-\njudgment in this case, based\nthe time, was that it was better\ntime in jail, register as a sex\nims restitution than risk a trial\nl of success. I supported that\non the state law as it then stood\nat the time, I would support that\n\nwhile in state custody, likewise\nhat the office should have been\nrms of confinement in a state\npriately left to the State of Flor-\nrities, without doubt, the treat-\nle in state custody undermined\nnce.\n\nve that the prosecution should\nliation for the defense's tactics.\nften failed to negotiate in good\nconcessions as part of a negotia-\nd, only to change their minds,\nsition to Washington. The inves-\nlives of individual prosecutors\nalled for, as were the accusations\nt against individual prosecutors.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "At times, some prosecutors felt that we should just go to\ntrial, and at times I felt that frustration myself. What was\nright in the first meeting, however, remained right irre-\nspective of defense tactics. Individuals have a constitu-\ntional right to a defense. The aggressive exercise of that\nright should not be punished, nor should a defense coun-\nsel's exercise of their right to appeal a U.S Attorney to\nWashington D.C. Prosecutors must be careful not to allow\nfrustration and anger with defense counsel to influence\ntheir judgment.\n\nAfter the plea, I recall receiving several phone calls.\nOne was from the FBI Special Agent-In-Charge. He called\nto offer congratulations. He had been at many of the\nmeetings regarding this case. He was aware of the tactics\nof the defense, and he called to praise our prosecutors for\nholding firm against the likes of Messrs. Black, Dershow-\nitz, Lefkowitz and Starr. It was a proud moment. I also\nreceived calls or communications from Messrs. Dershow-\nitz, Lefkowitz and Starr. I had known all three individu-\nals previously, from my time in law school and at\nKirkland & Ellis in the mid 90s. They all sought to make\npeace. I agreed to talk and meet with each of them after\nEpstein pled guilty, as I think it important that prosecu-\ntors battle defense attorneys in a case and then move on. I\nhave tried, yet I confess that this has been difficult to do\nfully in this case.\n\nThe bottom line is this: Mr. Jeffrey Epstein, a billionaire,\nserved time in jail and is now a registered sexual offender.\nHe has been required to pay his victims restitution, though\nrestitution clearly cannot compensate for the crime. And",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "210",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "211",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010551",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "mid 90s"
+    ],
+    "people": [
+      "ATTERSON",
+      "Black",
+      "Dershowitz",
+      "Lefkowitz",
+      "Starr",
+      "Mr. Jeffrey Epstein"
+    ],
+    "organizations": [
+      "FBI",
+      "U.S Attorney",
+      "Kirkland & Ellis",
+      "House Oversight"
+    ],
+    "locations": [
+      "State of Florida",
+      "Washington D.C.",
+      "Washington"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010551",
+      "210",
+      "211"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010551"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Excerpt from a book or report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of the Jeffrey Epstein case, including defense tactics, prosecutorial decisions, and the plea agreement.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010551"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a high-quality scan of two pages from a printed source, likely a book. The text provides a first-person perspective on the legal proceedings involving Jeffrey Epstein and his defense team.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010551.jpg",
+  "house_oversight_id": "010551",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:21:02.114290Z",
+    "model": "gemini-2.5-pro"
+  }
+}

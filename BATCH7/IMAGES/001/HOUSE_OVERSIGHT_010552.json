@@ -1,0 +1,91 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010552.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a document, likely a letter or testimony. The page contains typed text, a page number, and a footer with a document identifier. The right side of the page shows the deep shadow of a book's gutter, indicating it was scanned from a bound volume. The bottom of the image shows a dark, textured surface.",
+    "layout": "The page has a header at the top center, a main body of text, a closing and signature block, a page number centered towards the bottom, and a footer at the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nwe know much more today about his crimes because vic-\ntims have come forward to speak out. Some may disagree\nwith prosecutorial judgments made in this case, but\nthose individuals are not the ones who at the time\nreviewed the evidence available for trial and assessed the\nlikelihood of success.\n\nRespectfully,\n\nR. Alexander Acosta\nFormer U.S. Attorney\nSouthern District of Florida\n\n212\n\nHOUSE_OVERSIGHT_010552",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "we know much more today about his crimes because vic-\ntims have come forward to speak out. Some may disagree\nwith prosecutorial judgments made in this case, but\nthose individuals are not the ones who at the time\nreviewed the evidence available for trial and assessed the\nlikelihood of success.",
+        "type": "printed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Respectfully,\n\nR. Alexander Acosta\nFormer U.S. Attorney\nSouthern District of Florida",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "212",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010552",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "R. Alexander Acosta"
+    ],
+    "organizations": [
+      "U.S. Attorney",
+      "Southern District of Florida",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010552",
+      "212"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "R. Alexander Acosta"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "R. Alexander Acosta",
+    "recipient": "JAMES PATTERSON",
+    "subject": "Discussion of prosecutorial judgments in a criminal case.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010552"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be the concluding page of a letter from R. Alexander Acosta to James Patterson. The signature is typed, not handwritten. The document number in the footer suggests it is part of a larger collection of documents from a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010552.jpg",
+  "house_oversight_id": "010552",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:21:18.655970Z",
+    "model": "gemini-2.5-pro"
+  }
+}

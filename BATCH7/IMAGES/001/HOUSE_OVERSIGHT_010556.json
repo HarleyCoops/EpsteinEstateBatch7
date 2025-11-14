@@ -1,0 +1,115 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010556.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a book or bound report. The left page (216) is partially visible, while the right page (217) is fully visible. The document has a Bates stamp 'HOUSE_OVERSIGHT_010556' at the bottom right.",
+    "layout": "Two-page spread with a single column of text on each page. Page numbers are at the bottom center of each page. A header is present on the top left of the left page. A chapter heading is on the top right of the right page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "'ATTERSON\n\nNew York and to Little Saint Jeff's,\nreferring to Epstein's 727 as the\n\ns, of course, that Epstein is sup-\nrovide the state of Florida with a\noats, and airplanes he owns. The\n, six Suburbans, two Ford F-150s,\nl Rover, a Hummer H2, a thirty-\n-five-foot Donzi powerboat.\nrn out to be registered to a com-\n\nler, Epstein is legally obliged to\nit. This is a restriction he'll get\nychologist submit a report to law\n\nfrom accessing pornography on\networking for sexual purposes.\nwill be no Bangbros, Tinder, or\n\nends, he settles with seven women\nit Epstein can easily afford the set-\ne going back to jail, and in regard\ncriminal actions, his troubles are\n\n: time in his company will be so\n\n216\n\nCHAPTER 57\n\nAlfredo Rodriguez: August 2009\n\nEpstein's houseman, Alfredo Rodriguez, also ends up with a\nprison sentence.\n  In a sworn statement, Rodriguez talks about Epstein's\nmaid, Lupita, who had complained to him about having to clean\nup after Epstein's \"massages.\" Lupita, who was a devout Catho-\nlic, had cried as she described the stained towel and sex toys.\n  Rodriguez was fired by Epstein, he says, when he called 911\nafter seeing a strange car—a \"beater\"—in Epstein's driveway.\n  As it turned out, the car had belonged to one of Epstein's\nmasseuses.\n  On his way out of the house on El Brillo Way, he took some\nof Epstein's papers, which he failed to produce when questioned\nby Chief Reiter's investigators.\n  For years, Rodriguez tried and failed to find work as a house\nmanager. No one wanted to hire someone who'd worked for\n\n217\n\nHOUSE_OVERSIGHT_010556",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "'ATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "New York and to Little Saint Jeff's,\nreferring to Epstein's 727 as the\n\ns, of course, that Epstein is sup-\nrovide the state of Florida with a\noats, and airplanes he owns. The\n, six Suburbans, two Ford F-150s,\nl Rover, a Hummer H2, a thirty-\n-five-foot Donzi powerboat.\nrn out to be registered to a com-\n\nler, Epstein is legally obliged to\nit. This is a restriction he'll get\nychologist submit a report to law\n\nfrom accessing pornography on\networking for sexual purposes.\nwill be no Bangbros, Tinder, or\n\nends, he settles with seven women\nit Epstein can easily afford the set-\ne going back to jail, and in regard\ncriminal actions, his troubles are\n\n: time in his company will be so",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "216",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 57",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Alfredo Rodriguez: August 2009",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Epstein's houseman, Alfredo Rodriguez, also ends up with a\nprison sentence.\n  In a sworn statement, Rodriguez talks about Epstein's\nmaid, Lupita, who had complained to him about having to clean\nup after Epstein's \"massages.\" Lupita, who was a devout Catho-\nlic, had cried as she described the stained towel and sex toys.\n  Rodriguez was fired by Epstein, he says, when he called 911\nafter seeing a strange car—a \"beater\"—in Epstein's driveway.\n  As it turned out, the car had belonged to one of Epstein's\nmasseuses.\n  On his way out of the house on El Brillo Way, he took some\nof Epstein's papers, which he failed to produce when questioned\nby Chief Reiter's investigators.\n  For years, Rodriguez tried and failed to find work as a house\nmanager. No one wanted to hire someone who'd worked for",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "217",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010556",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-08"
+    ],
+    "people": [
+      "ATTERSON",
+      "Epstein",
+      "Alfredo Rodriguez",
+      "Lupita",
+      "Chief Reiter"
+    ],
+    "organizations": [
+      "Ford",
+      "Hummer",
+      "Donzi",
+      "Bangbros",
+      "Tinder"
+    ],
+    "locations": [
+      "New York",
+      "Little Saint Jeff's",
+      "Florida",
+      "El Brillo Way"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010556",
+      "216",
+      "217"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010556"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of Alfredo Rodriguez, former houseman for Jeffrey Epstein",
+    "date": "2009-08",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be pages from a book, possibly 'Filthy Rich' by James Patterson, given the header 'ATTERSON'. The content details Jeffrey Epstein's assets and legal issues, and provides an account from his former employee, Alfredo Rodriguez.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010556.jpg",
+  "house_oversight_id": "010556",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:22:42.240661Z",
+    "model": "gemini-2.5-pro"
+  }
+}

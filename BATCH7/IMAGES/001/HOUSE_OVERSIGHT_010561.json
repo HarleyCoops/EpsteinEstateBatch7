@@ -1,0 +1,90 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010561.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page typed document, appearing to be page 2 of a letter or report. The text is in a standard serif font. Several portions of the text have been redacted with black boxes. The document has a header with a name, date, and page number, and a footer with an alphanumeric identifier.",
+    "layout": "The document has a header at the top left, a main body of text organized into paragraphs, and a footer at the bottom right. The text is left-aligned.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Scott Link\nJune 19, 2019\nPage 2\n\nwanted to leave [REDACTED]. She learned about a talent search for models and persuaded her\nmother to take her. She was a huge success and began modeling at age fourteen. Though her\nparents disparaged her for marketing her appearance, they allowed her to work because she\nearned more than their combined income.\n\nAt age sixteen, [REDACTED] moved to New York City to model. She lived in an\napartment for models, with one or two roommates and no adult on the premises. Her father was\ndeeply ashamed of her because he disapproved of her profession and her parents distanced\nthemselves.\n\n[REDACTED] days were hectic with professional assignments. She worked with top tier\nclients and for DNA Modeling Agency, a well-known agency representing supermodels such as\nLinda Evangelista and Natalia Vodianova.\n\n[REDACTED] was very innocent and inexperienced prior to meeting Mr. Epstein. At age\nsixteen, [REDACTED] experienced her first kiss. The director of a perfume campaign, Fabian\nBarron, wanted a kiss at the end of the commercial as a finale to a perfume ad. She dreaded her\nparents’ reaction to seeing the commercial. She was raised in the Orthodox Christian Church\nwhere abstinence was encouraged.\n\n[REDACTED] met Jeffrey Epstein when was sixteen years old. She was introduced\nthrough a fellow model a few years her senior.\n\nMr. Epstein seemed bigger than life. He did not drink or do drugs, which put her at ease.\nHe was friends with former President Bill Clinton, the President who made it possible for [REDACTED]\nand her family to immigrate to America. When she told Mr. Epstein how her family\ncame to America, Mr. Epstein said he would personally thank “Bill” for her. Mr. Epstein touted\nother impressive connections. He made it known that he had A list celebrities on speed-dial.\n\nShe felt very fortunate to have made the connection with Mr. Epstein.\n\nAs [REDACTED]’s estrangement from her family increased, Mr. Epstein’s role in her life\nbecame more and more important. He encouraged her and built her confidence. She trusted him\ncompletely.\n\nMr. Epstein told [REDACTED] that he was on the board of directors at Harvard\nUniversity. He promised that once she took her SATs and obtained the scores she needed, he\nwould write a letter of recommendation for her, which he said would carry significant weight\nwith regard to her admission. Her dream was to establish herself as a successful model and to\none day graduate from Harvard. Mr. Epstein made her feel that everything she wanted was\npossible.\n\nHOUSE_OVERSIGHT_010561",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Scott Link\nJune 19, 2019\nPage 2",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "wanted to leave [REDACTED]. She learned about a talent search for models and persuaded her\nmother to take her. She was a huge success and began modeling at age fourteen. Though her\nparents disparaged her for marketing her appearance, they allowed her to work because she\nearned more than their combined income.\n\nAt age sixteen, [REDACTED] moved to New York City to model. She lived in an\napartment for models, with one or two roommates and no adult on the premises. Her father was\ndeeply ashamed of her because he disapproved of her profession and her parents distanced\nthemselves.\n\n[REDACTED] days were hectic with professional assignments. She worked with top tier\nclients and for DNA Modeling Agency, a well-known agency representing supermodels such as\nLinda Evangelista and Natalia Vodianova.\n\n[REDACTED] was very innocent and inexperienced prior to meeting Mr. Epstein. At age\nsixteen, [REDACTED] experienced her first kiss. The director of a perfume campaign, Fabian\nBarron, wanted a kiss at the end of the commercial as a finale to a perfume ad. She dreaded her\nparents’ reaction to seeing the commercial. She was raised in the Orthodox Christian Church\nwhere abstinence was encouraged.\n\n[REDACTED] met Jeffrey Epstein when was sixteen years old. She was introduced\nthrough a fellow model a few years her senior.\n\nMr. Epstein seemed bigger than life. He did not drink or do drugs, which put her at ease.\nHe was friends with former President Bill Clinton, the President who made it possible for [REDACTED]\nand her family to immigrate to America. When she told Mr. Epstein how her family\ncame to America, Mr. Epstein said he would personally thank “Bill” for her. Mr. Epstein touted\nother impressive connections. He made it known that he had A list celebrities on speed-dial.\n\nShe felt very fortunate to have made the connection with Mr. Epstein.\n\nAs [REDACTED]’s estrangement from her family increased, Mr. Epstein’s role in her life\nbecame more and more important. He encouraged her and built her confidence. She trusted him\ncompletely.\n\nMr. Epstein told [REDACTED] that he was on the board of directors at Harvard\nUniversity. He promised that once she took her SATs and obtained the scores she needed, he\nwould write a letter of recommendation for her, which he said would carry significant weight\nwith regard to her admission. Her dream was to establish herself as a successful model and to\none day graduate from Harvard. Mr. Epstein made her feel that everything she wanted was\npossible.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010561",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2019-06-19"
+    ],
+    "people": [
+      "Scott Link",
+      "Linda Evangelista",
+      "Natalia Vodianova",
+      "Mr. Epstein",
+      "Fabian Barron",
+      "Jeffrey Epstein",
+      "President Bill Clinton",
+      "Bill"
+    ],
+    "organizations": [
+      "DNA Modeling Agency",
+      "Orthodox Christian Church",
+      "Harvard University",
+      "House Oversight"
+    ],
+    "locations": [
+      "New York City",
+      "America"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010561"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010561"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Scott Link",
+    "recipient": null,
+    "subject": "Account of an individual's experiences with modeling and Jeffrey Epstein.",
+    "date": "2019-06-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010561"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document contains multiple redactions that obscure names and other details. The content describes the early life and modeling career of an unnamed individual, her family background, and her introduction to and relationship with Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010561.jpg",
+  "house_oversight_id": "010561",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:25:02.350759Z",
+    "model": "gemini-2.5-pro"
+  }
+}

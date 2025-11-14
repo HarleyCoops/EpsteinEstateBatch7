@@ -1,0 +1,118 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010559.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from an open book or document. The left page is numbered 220 and the right page is partially numbered 221. The text discusses legal matters involving Alfredo Rodriguez, Jeffrey Epstein, and Prince Andrew. A document identifier is visible at the bottom right.",
+    "layout": "Two-page spread with a central gutter. Each page has a header, a main body of text, and a footer with a page number. The bottom right footer also contains a document control number.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nadvised he had witnessed nude girls whom he believed were underage at the pool area of his former employer's home, knew that his former employer was engaging in sexual contact with underage girls, and had viewed pornographic images of underage girls on computers in his employer's home. Rodriguez was then released from custody for further investigation.\n\nThe items that Rodriguez had attempted to sell to the UCE for $50,000.00 were reviewed by an agent familiar with the underlying criminal investigation. As Rodriguez had described, the items contained information material to the underlying investigation that would have been extremely useful in investigati[ng] and prosecuting the case, including the names and contact information of material witnesses and additional victims. Had those items been produced in response to the inquiries of the state law enforcement officers or the FBI Special Agents, their contents would have been presented to the federal grand jury.\n\nFollowing his release, Alfredo Rodriguez was arrested again. He appeared in court on June 18, 2010, facing charges of corruptly concealing records and documents. Dressed in a blue jumpsuit and shackles, he apologized for his crimes and asked the court to be merciful.\n\nHe received a sentence of eighteen months.\n\nIt was the same punishment that Jeffrey Epstein had gotten for his crimes. But unlike Epstein, Alfredo Rodriguez served his time in a federal prison and did not ask for, or receive, permission to go on work release.\n\n220\n\nPrince Andrew: 2011\n\nPrince Andrew also fares imprisonment.\n\nThe two men are old f\nGhislaine Maxwell introduced t\ntime in the 1990s. In 2000, Eps\nCastle to celebrate the queen's b\nflew to Sandringham, the quee\na party Prince Andrew threw for\n\nThe prince had also visited\nPalm Beach as well as in New\nRoberts made in her 2015 decla\nasked her to give the prince w\nback with the details.\n\nAccording to the Guardian,\ntied together at Windsor Castle,\n\n22\n\nHOUSE_OVERSIGHT_010559",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "advised he had witnessed nude girls whom he believed were underage at the pool area of his former employer's home, knew that his former employer was engaging in sexual contact with underage girls, and had viewed pornographic images of underage girls on computers in his employer's home. Rodriguez was then released from custody for further investigation.\n\nThe items that Rodriguez had attempted to sell to the UCE for $50,000.00 were reviewed by an agent familiar with the underlying criminal investigation. As Rodriguez had described, the items contained information material to the underlying investigation that would have been extremely useful in investigati[ng] and prosecuting the case, including the names and contact information of material witnesses and additional victims. Had those items been produced in response to the inquiries of the state law enforcement officers or the FBI Special Agents, their contents would have been presented to the federal grand jury.\n\nFollowing his release, Alfredo Rodriguez was arrested again. He appeared in court on June 18, 2010, facing charges of corruptly concealing records and documents. Dressed in a blue jumpsuit and shackles, he apologized for his crimes and asked the court to be merciful.\n\nHe received a sentence of eighteen months.\n\nIt was the same punishment that Jeffrey Epstein had gotten for his crimes. But unlike Epstein, Alfredo Rodriguez served his time in a federal prison and did not ask for, or receive, permission to go on work release.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "220",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Prince Andrew: 2011",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Prince Andrew also fares imprisonment.\n\nThe two men are old f\nGhislaine Maxwell introduced t\ntime in the 1990s. In 2000, Eps\nCastle to celebrate the queen's b\nflew to Sandringham, the quee\na party Prince Andrew threw for\n\nThe prince had also visited\nPalm Beach as well as in New\nRoberts made in her 2015 decla\nasked her to give the prince w\nback with the details.\n\nAccording to the Guardian,\ntied together at Windsor Castle,",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "22",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010559",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2011",
+      "1990s",
+      "2000",
+      "2015",
+      "June 18, 2010"
+    ],
+    "people": [
+      "JAMES PATTERSON",
+      "Rodriguez",
+      "Alfredo Rodriguez",
+      "Jeffrey Epstein",
+      "Prince Andrew",
+      "Ghislaine Maxwell",
+      "Roberts"
+    ],
+    "organizations": [
+      "UCE",
+      "FBI Special Agents",
+      "The Guardian",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Sandringham",
+      "Palm Beach",
+      "Windsor Castle"
+    ],
+    "document_numbers": [
+      "220",
+      "221",
+      "HOUSE_OVERSIGHT_010559"
+    ],
+    "financial_amounts": [
+      "$50,000.00"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010559"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_or_report_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal cases and connections involving Alfredo Rodriguez, Jeffrey Epstein, and Prince Andrew.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010559"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The image is a two-page spread. The text on the right page is cut off at the right margin. The page number on the right page is partially obscured, appearing as '22' but is likely '221'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010559.jpg",
+  "house_oversight_id": "010559",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:24:05.382277Z",
+    "model": "gemini-2.5-pro"
+  }
+}
