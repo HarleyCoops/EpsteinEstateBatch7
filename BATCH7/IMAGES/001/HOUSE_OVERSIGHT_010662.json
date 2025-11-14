@@ -1,0 +1,114 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010662.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a completed government form, specifically page 46 of 51 of an OGE Form 278e, a Public Financial Disclosure Report. The form is titled 'Part 6: Other Assets and Income' and lists various financial assets for the filer, Donald J. Trump. The table includes columns for item number, description of the asset, EIF status, value range, income type, and income amount. The income columns are empty. A footnote at the bottom provides context about the assets being held in Family Trusts. A document identifier 'HOUSE_OVERSIGHT_010662' is visible at the bottom right.",
+    "layout": "The document has a header containing the form title, filer's name, and page number. The main body consists of a table with multiple rows detailing financial assets. A footer below the table contains a note with an asterisk. The overall layout is structured and typical of a government form.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n46 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n4\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n5\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n6\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000\n7\nARTISAN INTL VALUE FD-INS\nY\n$15,001 - $50,000\n8\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n9\nU.S. BANK CASH ACCOUNT\nN/A\n$15,001 - $50,000\n10\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000\n11\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n12\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n13\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$15,001 - $50,000\n14\nEQUINOX FDS TR IPM SYSTMATC I\nY\n$1,001 - $15,000\n15\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n16\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$15,001 - $50,000\n17\nFMI LARGE CAP FUND-INST\nY\n$1,001 - $15,000\n18\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n19\nJPM MID CAP VALUE FD - L FUND 758\nY\n$15,001 - $50,000\n20\nSPDR S&P 500 ETF TRUST\nY\n$15,001 - $50,000\n21\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000\n* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010662",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n46 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n4\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n5\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n6\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000\n7\nARTISAN INTL VALUE FD-INS\nY\n$15,001 - $50,000\n8\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n9\nU.S. BANK CASH ACCOUNT\nN/A\n$15,001 - $50,000\n10\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000\n11\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n12\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n13\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$15,001 - $50,000\n14\nEQUINOX FDS TR IPM SYSTMATC I\nY\n$1,001 - $15,000\n15\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n16\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$15,001 - $50,000\n17\nFMI LARGE CAP FUND-INST\nY\n$1,001 - $15,000\n18\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n19\nJPM MID CAP VALUE FD - L FUND 758\nY\n$15,001 - $50,000\n20\nSPDR S&P 500 ETF TRUST\nY\n$15,001 - $50,000\n21\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010662",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "JPM",
+      "DODGE & COX",
+      "ISHARES",
+      "ARTISAN",
+      "U.S. BANK",
+      "AMG MANAGERS",
+      "PICTET",
+      "PRIMECAP",
+      "JOHN HAN",
+      "EQUINOX",
+      "PIMCO",
+      "BLACKROCK",
+      "FMI",
+      "MFS",
+      "SPDR",
+      "AQR",
+      "J.P. Morgan"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "46 of 51",
+      "HOUSE_OVERSIGHT_010662"
+    ],
+    "financial_amounts": [
+      "$15,001 - $50,000",
+      "$1,001 - $15,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010662"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The 'Income Type' and 'Income Amount' columns are blank for all entries on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010662.jpg",
+  "house_oversight_id": "010662",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:16:14.876988Z",
+    "model": "gemini-2.5-pro"
+  }
+}

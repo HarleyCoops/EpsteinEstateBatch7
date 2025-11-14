@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010663.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, OGE Form 278e, for Donald J. Trump. This page, 47 of 51, details 'Part 6: Other Assets and Income', listing various stock funds, bonds, and trusts, along with their values and any income generated.",
+    "layout": "The document has a header containing the form title, instructions, filer's name, and page number. The main body is a table with six columns: '#', 'Description', 'EIF', 'Value', 'Income Type', and 'Income Amount'. The table lists financial assets. A footer at the bottom contains a footnote and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n47 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n22\nDODGE & COX INTL STOCK FD\nY\n$1,001 - $15,000\n23\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n24\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n25\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\nFamily Trust 3*\nDividends, Capital Gains\n$15,001 - $50,000\n1\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000\n2\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n3\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$15,001 - $50,000\n4\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n5\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n6\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n7\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n8\nAQR MANAGED FUTURES STR-R6\nY\n$1,001 - $15,000\n9\nDODGE & COX INTL STOCK FD\nY\n$15,001 - $50,000\n10\nSPDR S&P 500 ETF TRUST\nY\n$50,001 - $100,000\n11\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n12\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000\n* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010663",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n47 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n22\nDODGE & COX INTL STOCK FD\nY\n$1,001 - $15,000\n23\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n24\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n25\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\nFamily Trust 3*\nDividends, Capital Gains\n$15,001 - $50,000\n1\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000\n2\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n3\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$15,001 - $50,000\n4\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n5\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n6\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n7\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n8\nAQR MANAGED FUTURES STR-R6\nY\n$1,001 - $15,000\n9\nDODGE & COX INTL STOCK FD\nY\n$15,001 - $50,000\n10\nSPDR S&P 500 ETF TRUST\nY\n$50,001 - $100,000\n11\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n12\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010663",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DODGE & COX",
+      "NEUBERGER BER",
+      "PRUDENTIAL",
+      "VANGUARD",
+      "ISHARES",
+      "RUSSELL",
+      "PRIMECAP",
+      "BLACKROCK",
+      "JPM",
+      "MSCI",
+      "MFS",
+      "AQR",
+      "SPDR S&P 500",
+      "AMG MANAGERS PICTET",
+      "J.P. Morgan"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010663",
+      "47 of 51"
+    ],
+    "financial_amounts": [
+      "$1,001 - $15,000",
+      "$15,001 - $50,000",
+      "None (or less than $1,001)",
+      "$50,001 - $100,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists assets in two groups. The first group is numbered 22-25. The second group, under the heading 'Family Trust 3*', is numbered 1-12. The income for the entire 'Family Trust 3*' appears to be reported as a single entry.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010663.jpg",
+  "house_oversight_id": "010663",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:16:43.484721Z",
+    "model": "gemini-2.5-pro"
+  }
+}
