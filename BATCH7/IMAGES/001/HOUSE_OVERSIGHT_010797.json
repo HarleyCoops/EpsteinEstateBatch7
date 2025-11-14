@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010797.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A multi-page document showing a transcript of a legal proceeding, likely a deposition or hearing. The image displays four pages, numbered 233, 234, 235, and 236, arranged in a two-by-two grid. Each page features two columns of typed text with line numbers, in a standard question-and-answer format. A footer at the bottom contains contact information for a reporting service and a document identifier.",
+    "layout": "The image is a composite of four distinct pages (233, 234, 235, 236) laid out in a grid. Each page has a header with the page number, a main body with two columns of line-numbered text, and a shared footer at the very bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "233\n1 limitations, yes.\n2 Q. You refused to waive the statute of\n3 limitations with regard to sexual crimes, correct?\n4 A. I didn't refuse anything. I didn't feel I\n5 had any obligation to respond to you. And I did\n6 not.\n7 Q. So, you were asked to waive the statute of\n8 limitations with regard to your sexual crimes and\n9 you refused to respond?\n10 A. I was asked by you, utterly\n11 inappropriately, and what I had said -- and if you\n12 check what I said, I said if any reasonable\n13 prosecutor were to investigate the case and find\n14 that there was any basis, I would then waive the\n15 statute of limitations. I didn't waive the statute\n16 of limitations because you, a lawyer, for two\n17 unprofessional, unethical lawyers asked me to do so,\n18 what obligation do I have to respond to you?\n19 Q. Well, you have no obligation to respond to\n20 me at all, Mr. Dershowitz, except now while you are\n21 under oath and I am asking you questions and I would\n22 greatly appreciate you responding to the questions\n23 that I ask.\n24 MR. SCOTT: I think he's trying.\n25\n\n235\n1 Q. And by dropping the dime on the media when\n2 they filed it, you intended to convey the message\n3 that Paul Cassell and Bradley Edwards intentionally\n4 generated the focus of press attention on that\n5 filing; is that correct?\n6 A. Absolutely. Absolutely without any doubt.\n7 Why else would they have brought Prince Andrew into\n8 this filing? Prince Andrew had no connection to the\n9 NPA, no relevance at all. But they knew that by\n10 including Prince Andrew, this would drag my name\n11 into every single newspaper and media outlet in the\n12 world.\n13 It was outrageous for them to do this.\n14 Particularly because they did so little, if any,\n15 investigation, which will, of course, be determined\n16 when they're deposed. And -- and --\n17 Q. Well, you've already made that\n18 determination, right?\n19 MR. SCOTT: Wait.\n20 A. I'm convinced that -- that they did little\n21 or no investigation. They never even bothered to\n22 call me. That would have been --\n23 BY MR. SCAROLA:\n24 Q. We'll get to that in just a moment.\n25 A. -- a simple basic thing.\n\n234\n1 BY MR. SCAROLA:\n2 Q. You made the further statement in that\n3 same interview, \"They dropped the dime on the media\n4 when they filed it,\" referring to the CVRA\n5 pleading --\n6 A. Right.\n7 Q. -- in which were you named?\n8 A. Right.\n9 Q. What is the basis for that statement?\n10 A. The basis for that statement was that the\n11 filing was done virtually on the eve of New Year's\n12 on a day that the press was completely dead. And\n13 nonetheless, immediately upon the filing, I got a\n14 barrage of phone calls that led me to conclude, and\n15 led many, many, many other lawyers who called me to\n16 conclude that obviously somebody tipped somebody off\n17 that they didn't just happen to file -- to find in\n18 the middle of an obscure pleading which didn't even\n19 have a heading that indicated that I was involved or\n20 anybody else was involved.\n21 So, I'm certain that a dime was dropped to\n22 somebody saying, by the way, you want an interesting\n23 story, there's -- Prince Andrew of Great Britain and\n24 Alan Dershowitz have been accused of sexual\n25 misconduct. I still believe that.\n\n236\n1 Q. But right now -- right now could you\n2 please tell us was there anything other than your\n3 inferring that they must have contacted the media to\n4 support your conclusion that either Paul Cassell or\n5 Brad Edwards did, in fact, alert the media at the\n6 time of the filing of this pleading?\n7 A. Yes.\n8 Q. What else besides your inference?\n9 A. When the BBC came to see me, the BBC\n10 reporter showed me an e-mail from Paul Cassell\n11 which urged him, the BBC reporter, to ask me a\n12 series of questions. So I knew that Paul Cassell\n13 was in touch with the British media and was trying\n14 to stimulate and initiate embarrassing questions to\n15 be asked of me.\n16 And when I spoke to a number of reporters,\n17 they obviously -- obviously reporters have\n18 privilege, but they said things that certainly led\n19 me to infer that they had been in close touch with\n20 your clients or representatives on their behalf.\n21 Q. What was the date of the e-mail --\n22 A. I don't know.\n23 Q. -- that you referenced in that response?\n24 A. I don't know.\n25 Q. Well --\n\n15 (Pages 233 to 236)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010797",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "233\n1 limitations, yes.\n2 Q. You refused to waive the statute of\n3 limitations with regard to sexual crimes, correct?\n4 A. I didn't refuse anything. I didn't feel I\n5 had any obligation to respond to you. And I did\n6 not.\n7 Q. So, you were asked to waive the statute of\n8 limitations with regard to your sexual crimes and\n9 you refused to respond?\n10 A. I was asked by you, utterly\n11 inappropriately, and what I had said -- and if you\n12 check what I said, I said if any reasonable\n13 prosecutor were to investigate the case and find\n14 that there was any basis, I would then waive the\n15 statute of limitations. I didn't waive the statute\n16 of limitations because you, a lawyer, for two\n17 unprofessional, unethical lawyers asked me to do so,\n18 what obligation do I have to respond to you?\n19 Q. Well, you have no obligation to respond to\n20 me at all, Mr. Dershowitz, except now while you are\n21 under oath and I am asking you questions and I would\n22 greatly appreciate you responding to the questions\n23 that I ask.\n24 MR. SCOTT: I think he's trying.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "235\n1 Q. And by dropping the dime on the media when\n2 they filed it, you intended to convey the message\n3 that Paul Cassell and Bradley Edwards intentionally\n4 generated the focus of press attention on that\n5 filing; is that correct?\n6 A. Absolutely. Absolutely without any doubt.\n7 Why else would they have brought Prince Andrew into\n8 this filing? Prince Andrew had no connection to the\n9 NPA, no relevance at all. But they knew that by\n10 including Prince Andrew, this would drag my name\n11 into every single newspaper and media outlet in the\n12 world.\n13 It was outrageous for them to do this.\n14 Particularly because they did so little, if any,\n15 investigation, which will, of course, be determined\n16 when they're deposed. And -- and --\n17 Q. Well, you've already made that\n18 determination, right?\n19 MR. SCOTT: Wait.\n20 A. I'm convinced that -- that they did little\n21 or no investigation. They never even bothered to\n22 call me. That would have been --\n23 BY MR. SCAROLA:\n24 Q. We'll get to that in just a moment.\n25 A. -- a simple basic thing.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "234\n1 BY MR. SCAROLA:\n2 Q. You made the further statement in that\n3 same interview, \"They dropped the dime on the media\n4 when they filed it,\" referring to the CVRA\n5 pleading --\n6 A. Right.\n7 Q. -- in which were you named?\n8 A. Right.\n9 Q. What is the basis for that statement?\n10 A. The basis for that statement was that the\n11 filing was done virtually on the eve of New Year's\n12 on a day that the press was completely dead. And\n13 nonetheless, immediately upon the filing, I got a\n14 barrage of phone calls that led me to conclude, and\n15 led many, many, many other lawyers who called me to\n16 conclude that obviously somebody tipped somebody off\n17 that they didn't just happen to file -- to find in\n18 the middle of an obscure pleading which didn't even\n19 have a heading that indicated that I was involved or\n20 anybody else was involved.\n21 So, I'm certain that a dime was dropped to\n22 somebody saying, by the way, you want an interesting\n23 story, there's -- Prince Andrew of Great Britain and\n24 Alan Dershowitz have been accused of sexual\n25 misconduct. I still believe that.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "236\n1 Q. But right now -- right now could you\n2 please tell us was there anything other than your\n3 inferring that they must have contacted the media to\n4 support your conclusion that either Paul Cassell or\n5 Brad Edwards did, in fact, alert the media at the\n6 time of the filing of this pleading?\n7 A. Yes.\n8 Q. What else besides your inference?\n9 A. When the BBC came to see me, the BBC\n10 reporter showed me an e-mail from Paul Cassell\n11 which urged him, the BBC reporter, to ask me a\n12 series of questions. So I knew that Paul Cassell\n13 was in touch with the British media and was trying\n14 to stimulate and initiate embarrassing questions to\n15 be asked of me.\n16 And when I spoke to a number of reporters,\n17 they obviously -- obviously reporters have\n18 privilege, but they said things that certainly led\n19 me to infer that they had been in close touch with\n20 your clients or representatives on their behalf.\n21 Q. What was the date of the e-mail --\n22 A. I don't know.\n23 Q. -- that you referenced in that response?\n24 A. I don't know.\n25 Q. Well --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "15 (Pages 233 to 236)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010797",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "New Year's"
+    ],
+    "people": [
+      "Mr. Dershowitz",
+      "Alan Dershowitz",
+      "MR. SCOTT",
+      "Paul Cassell",
+      "Bradley Edwards",
+      "Brad Edwards",
+      "Prince Andrew",
+      "MR. SCAROLA"
+    ],
+    "organizations": [
+      "BBC",
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "Great Britain"
+    ],
+    "document_numbers": [
+      "233",
+      "234",
+      "235",
+      "236",
+      "15",
+      "HOUSE_OVERSIGHT_010797"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of Mr. Dershowitz regarding statute of limitations, media contact, and a legal filing involving Prince Andrew.",
+    "date": null,
+    "references": [
+      "CVRA",
+      "NPA",
+      "HOUSE_OVERSIGHT_010797"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a question-and-answer session. The speakers are identified as 'Q' (Questioner), 'A' (Answerer, identified as Mr. Dershowitz), 'MR. SCOTT', and 'MR. SCAROLA'. The document identifier 'HOUSE_OVERSIGHT_010797' suggests it is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010797.jpg",
+  "house_oversight_id": "010797",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:35:26.331246Z",
+    "model": "gemini-2.5-pro"
+  }
+}

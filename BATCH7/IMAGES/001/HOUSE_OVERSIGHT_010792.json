@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010792.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal deposition transcript. The pages are numbered 213, 214, 215, and 216. The text is arranged in two columns per row, with page 213 and 215 on the top row, and 214 and 216 on the bottom row. The text is typed and includes line numbers. A footer contains contact information for a reporting company and a document identifier.",
+    "layout": "Four-page layout on a single sheet, arranged in a 2x2 grid. Each page/quadrant has a page number at the top and line-numbered text. A footer is present at the very bottom of the sheet.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "213\n1         (Recess was held from 9:49 a.m. until 10:01 a.m.)\n2              VIDEOGRAPHER: Going back on the record.\n3              The time is approximately 10:01 a.m.\n4              MR. SCOTT: If you've finished your bagel,\n5         we're ready to proceed, I think.\n6              MR. SCAROLA: I think we are. I was\n7         actually ready to proceed a little bit earlier,\n8         but we'll proceed now.\n9              BY MR. SCAROLA:\n10             Q. Mr. Dershowitz, do you agree with the\n11        basic concept that one is presumed to be innocent\n12        until proven guilty?\n13             A. Yes.\n14             Q. Has Virginia Roberts ever been proven to\n15        be guilty of any crime at any time, anywhere, at any\n16        age?\n17             A. I don't know the answer to that question,\n18        but I do know that she was brought into the legal\n19        system for stealing money from her employer and I\n20        think it's fair to characterize that as her having a\n21        criminal record, yeah.\n22             Q. To the extent that anyone might interpret\n23        your comment that Virginia Roberts was ever\n24        convicted of a crime, they would be drawing a false\n25        conclusion as far as you know, correct?\n\n215\n1              Q. That would certainly have been prior to\n2         February 23rd of 2015, correct?\n3              A. Yes.\n4              MR. SCOTT: Are you going back to the\n5         exhibit now with the newspapers and --\n6              MR. SCAROLA: Not yet.\n7              MR. SCOTT: Okay.\n8              BY MR. SCAROLA:\n9              Q. Having reviewed the available airplane\n10        flight logs, you are aware that Bill Clinton flew on\n11        at least 15 occasions with Jeffrey Epstein on his\n12        private plane, correct?\n13             A. Yes.\n14             Q. Have you ever attempted to get flight log\n15        information with regard to Former President\n16        Clinton's other private airplane travel?\n17             A. No.\n18             Q. Never made a public records request --\n19             A. Yes.\n20             Q. -- under the Freedom of Information Act\n21        with regard to those records?\n22             A. Well, we have made a Freedom of\n23        Information request. My -- my attorney in New York,\n24        Louis Freeh, the former head of the FBI, has made a\n25        FOIA request for all information that would\n\n214\n1              A. As far as I know, I don't know of her\n2         having convicted of any crime. But I do know that\n3         she was proceeded against for having stolen money.\n4         And I don't think she contested that. I don't think\n5         there's any dispute about the fact that she stole\n6         money and engaged in other crimes as well.\n7              Q. When did you find out about this alleged\n8         crime?\n9              A. As soon as the false allegation against me\n10        was made public, I got call after call after call\n11        from people telling me about Virginia Roberts, about\n12        your 22 clients. The calls just kept coming in\n13        because there was such outrage at this false\n14        allegation being directed against me.\n15             MR. SCAROLA: Move to strike the\n16        unresponsive portion of the answer.\n17             BY MR. SCAROLA:\n18             Q. You found out as soon as the CVRA\n19        complaint was -- the CVRA allegations referencing\n20        you were filed; is that correct?\n21             A. I didn't say that. I said as soon as they\n22        were made public and as soon as the newspapers\n23        carried these false stories, I received phone calls\n24        and I learned about -- I learned about her encounter\n25        with the criminal justice system.\n\n216\n1         conclusively prove that Bill Clinton was never on\n2         Jeffrey Epstein's island, yes.\n3              Q. And you were denied those records,\n4         correct?\n5              A. No, no, no.\n6              Q. Oh, you got them?\n7              MR. SCOTT: Well, wait a minute. Let's\n8         take it slow. Ask a question.\n9              A. As any lawyer knows, FOIA requests take a\n10        long, long period of time. So they were neither\n11        denied nor were they given to us. They are very\n12        much in process.\n13             BY MR. SCAROLA:\n14             Q. When was --\n15             A. While we're talking about -- may I\n16        complete -- I want to amend one answer I gave\n17        previously.\n18             While we're talking about the plane logs,\n19        I must say that during the recess, my wife Googled\n20        Tatiana and found out that she was, in fact, 24\n21        years old in 1995, at the time she flew on that\n22        airplane. So that my characterization of her as\n23        about 25 years old is absolutely correct.\n24             And the implication that you sought to\n25        draw by showing me those pictures was not only\n\n10 (Pages 213 to 216)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010792",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "213\n1         (Recess was held from 9:49 a.m. until 10:01 a.m.)\n2              VIDEOGRAPHER: Going back on the record.\n3              The time is approximately 10:01 a.m.\n4              MR. SCOTT: If you've finished your bagel,\n5         we're ready to proceed, I think.\n6              MR. SCAROLA: I think we are. I was\n7         actually ready to proceed a little bit earlier,\n8         but we'll proceed now.\n9              BY MR. SCAROLA:\n10             Q. Mr. Dershowitz, do you agree with the\n11        basic concept that one is presumed to be innocent\n12        until proven guilty?\n13             A. Yes.\n14             Q. Has Virginia Roberts ever been proven to\n15        be guilty of any crime at any time, anywhere, at any\n16        age?\n17             A. I don't know the answer to that question,\n18        but I do know that she was brought into the legal\n19        system for stealing money from her employer and I\n20        think it's fair to characterize that as her having a\n21        criminal record, yeah.\n22             Q. To the extent that anyone might interpret\n23        your comment that Virginia Roberts was ever\n24        convicted of a crime, they would be drawing a false\n25        conclusion as far as you know, correct?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "215\n1              Q. That would certainly have been prior to\n2         February 23rd of 2015, correct?\n3              A. Yes.\n4              MR. SCOTT: Are you going back to the\n5         exhibit now with the newspapers and --\n6              MR. SCAROLA: Not yet.\n7              MR. SCOTT: Okay.\n8              BY MR. SCAROLA:\n9              Q. Having reviewed the available airplane\n10        flight logs, you are aware that Bill Clinton flew on\n11        at least 15 occasions with Jeffrey Epstein on his\n12        private plane, correct?\n13             A. Yes.\n14             Q. Have you ever attempted to get flight log\n15        information with regard to Former President\n16        Clinton's other private airplane travel?\n17             A. No.\n18             Q. Never made a public records request --\n19             A. Yes.\n20             Q. -- under the Freedom of Information Act\n21        with regard to those records?\n22             A. Well, we have made a Freedom of\n23        Information request. My -- my attorney in New York,\n24        Louis Freeh, the former head of the FBI, has made a\n25        FOIA request for all information that would",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "214\n1              A. As far as I know, I don't know of her\n2         having convicted of any crime. But I do know that\n3         she was proceeded against for having stolen money.\n4         And I don't think she contested that. I don't think\n5         there's any dispute about the fact that she stole\n6         money and engaged in other crimes as well.\n7              Q. When did you find out about this alleged\n8         crime?\n9              A. As soon as the false allegation against me\n10        was made public, I got call after call after call\n11        from people telling me about Virginia Roberts, about\n12        your 22 clients. The calls just kept coming in\n13        because there was such outrage at this false\n14        allegation being directed against me.\n15             MR. SCAROLA: Move to strike the\n16        unresponsive portion of the answer.\n17             BY MR. SCAROLA:\n18             Q. You found out as soon as the CVRA\n19        complaint was -- the CVRA allegations referencing\n20        you were filed; is that correct?\n21             A. I didn't say that. I said as soon as they\n22        were made public and as soon as the newspapers\n23        carried these false stories, I received phone calls\n24        and I learned about -- I learned about her encounter\n25        with the criminal justice system.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "216\n1         conclusively prove that Bill Clinton was never on\n2         Jeffrey Epstein's island, yes.\n3              Q. And you were denied those records,\n4         correct?\n5              A. No, no, no.\n6              Q. Oh, you got them?\n7              MR. SCOTT: Well, wait a minute. Let's\n8         take it slow. Ask a question.\n9              A. As any lawyer knows, FOIA requests take a\n10        long, long period of time. So they were neither\n11        denied nor were they given to us. They are very\n12        much in process.\n13             BY MR. SCAROLA:\n14             Q. When was --\n15             A. While we're talking about -- may I\n16        complete -- I want to amend one answer I gave\n17        previously.\n18             While we're talking about the plane logs,\n19        I must say that during the recess, my wife Googled\n20        Tatiana and found out that she was, in fact, 24\n21        years old in 1995, at the time she flew on that\n22        airplane. So that my characterization of her as\n23        about 25 years old is absolutely correct.\n24             And the implication that you sought to\n25        draw by showing me those pictures was not only",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "10 (Pages 213 to 216)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010792",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-23",
+      "1995"
+    ],
+    "people": [
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Mr. Dershowitz",
+      "Virginia Roberts",
+      "Bill Clinton",
+      "Jeffrey Epstein",
+      "Louis Freeh",
+      "Tatiana"
+    ],
+    "organizations": [
+      "FBI",
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "document_numbers": [
+      "213",
+      "214",
+      "215",
+      "216",
+      "HOUSE_OVERSIGHT_010792",
+      "10"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding Virginia Roberts, Bill Clinton, and Jeffrey Epstein.",
+    "date": "2015-02-23",
+    "references": [
+      "HOUSE_OVERSIGHT_010792"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition. The primary speakers identified are MR. SCOTT, MR. SCAROLA, and the deponent, Mr. Dershowitz. The content discusses Virginia Roberts, Bill Clinton, Jeffrey Epstein, and a Freedom of Information Act (FOIA) request.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010792.jpg",
+  "house_oversight_id": "010792",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:32:07.348192Z",
+    "model": "gemini-2.5-pro"
+  }
+}

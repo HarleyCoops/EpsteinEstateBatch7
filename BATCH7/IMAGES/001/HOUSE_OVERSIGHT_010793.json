@@ -1,0 +1,128 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010793.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document containing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 217, 219, 218, and 220. The text is a question-and-answer style dialogue, typical of a deposition or court hearing. Line numbers are present on each page. A footer at the bottom contains a website, phone number, page range, and a document identifier.",
+    "layout": "The image displays four pages on a single sheet. The top row contains pages 217 (left) and 219 (right). The bottom row contains pages 218 (left) and 220 (right). Each page has a header with the page number and a body of text with line numbers. A footer is centered at the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "217\n1      demonstrably false, but you could have easily\n2      discovered that the implication you were drawing was\n3      demonstrably false by simply taking one second and\n4      Googling her name as my wife did.\n5           BY MR. SCAROLA:\n6           Q. And so at 25 years old, she wasn't a young\n7      woman?\n8           A. She was not the kind of woman that I was\n9      describing as underage. She was a mature, serious,\n10     I think I said in my public statements a model. I\n11     wasn't aware at the time that see was working for\n12     Victoria's Secrets, but Google demonstrates that.\n13     And I described her exactly, in exactly the right\n14     terms, a serious person.\n15          I always saw her dressed when I saw her --\n16     I saw her maybe on two or three occasions, dressed\n17     appropriately. She was a serious adult worker and I\n18     think you insult and demean her when you suggest\n19     that anything other than that she was a serious\n20     adult when she flew on that airplane.\n21          Q. You were asked on the occasion of that\n22     same Don Lemon CNN interview what possible motive\n23     the attorneys, Brad Edwards and Paul Cassell, could\n24     have had to have identified you in the pleading that\n25     was filed in the Crime Victim's Rights Act case.\n\n219\n1      she has a history of lying, knowing that she is\n2      easily suggestible, and they basically pressured\n3      her, according to my sources, into including me when\n4      she didn't want to include me, because by including\n5      me, they could make a claim, false as it was, could\n6      make a false claim that a person who negotiated the\n7      NPA was also criminally involved with her.\n8           They also lied -- lied unethically and\n9      unprofessionally by saying that I negotiated that\n10     provision of the NPA, which gave me, myself, any\n11     kind of immunity from prosecution had I had improper\n12     sex with Virginia Roberts, which, of course, I did\n13     not. And that was one of the bases on which I was\n14     certain that they had engaged in unprofessional,\n15     disbarrable and unethical conduct by including that\n16     provision, as well as including a provision that\n17     Prince Andrew -- this includes because he, Prince\n18     Andrew, pressured a United States attorney to try to\n19     get a good deal for Jeffrey Epstein.\n20          That is so laughable. How any lawyer\n21     could put that in a pleading, it doesn't pass even\n22     the minimal giggle test. And I'm embarrassed for\n23     Professor Cassell that he would have signed his name\n24     to a pleading that alleges that Prince Andrew would\n25     pressure the United States attorney for the Southern\n\n218\n1           Do you remember that?\n2           A. That's right, yes.\n3           Q. And your response was, quote --\n4           MR. SCOTT: Here's your transcript if you\n5      need to refer to it.\n6           BY MR. SCAROLA:\n7           Q. -- \"They want to be able to challenge the\n8      plea agreement and I was one of the lawyers who\n9      organized the plea agreement. I got the very good\n10     deal for Jeffrey Epstein.\"\n11          Did you make that response?\n12          A. Yes.\n13          Q. So, you recognized as of January 5, 2015,\n14     that the reason why the statements were filed in the\n15     Crime Victim's Rights Act case was because the Crime\n16     Victim's Rights Act case had, as an objective,\n17     setting aside the plea agreement that you had\n18     negotiated for Jeffrey Epstein, correct?\n19          MR. SCOTT: Objection, form. Go ahead if\n20     you can answer it.\n21          A. There were multiple motives. One of the\n22     motives was crassly financial. They were trying to\n23     line their pockets with money. But as I also said,\n24     and I said this over and over again, they profiled\n25     me. They sat down with their client, knowing that\n\n220\n1      District of Florida into giving Jeffrey Epstein a\n2      good deal.\n3           MR. SCAROLA: Move to strike the\n4      unresponsive portions of the answer. And\n5      obviously the break didn't do any good.\n6           MR. SCOTT: Let's proceed.\n7           MR. SCAROLA: We're going to.\n8           BY MR. SCAROLA:\n9           Q. You stated, quote: \"If they,\" referring\n10     to Bradley Edwards and Paul Cassell, \"could find a\n11     lawyer who helped draft the agreement\" --\n12          A. Right.\n13          Q. -- \"who also was a criminal having sex,\n14     wow, that could help them blow up the agreement.\"\n15          Did you make that statement on --\n16          A. Yes. I just repeated it now, yes, under\n17     oath, yes.\n18          Q. Did you state the following in that same\n19     interview: \"So they,\" referring to Bradley Edwards,\n20     Paul Cassell and Virginia Roberts, \"sat down\n21     together, the three of them, these two sleazy,\n22     unprofessional disbarrable lawyers\" --\n23          A. Uh-huh, uh-huh.\n24          Q. -- \"they said\" --\n25          MR. SCOTT: Let him ask the question.\n\n11 (Pages 217 to 220)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010793",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "217",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      demonstrably false, but you could have easily\n2      discovered that the implication you were drawing was\n3      demonstrably false by simply taking one second and\n4      Googling her name as my wife did.\n5           BY MR. SCAROLA:\n6           Q. And so at 25 years old, she wasn't a young\n7      woman?\n8           A. She was not the kind of woman that I was\n9      describing as underage. She was a mature, serious,\n10     I think I said in my public statements a model. I\n11     wasn't aware at the time that see was working for\n12     Victoria's Secrets, but Google demonstrates that.\n13     And I described her exactly, in exactly the right\n14     terms, a serious person.\n15          I always saw her dressed when I saw her --\n16     I saw her maybe on two or three occasions, dressed\n17     appropriately. She was a serious adult worker and I\n18     think you insult and demean her when you suggest\n19     that anything other than that she was a serious\n20     adult when she flew on that airplane.\n21          Q. You were asked on the occasion of that\n22     same Don Lemon CNN interview what possible motive\n23     the attorneys, Brad Edwards and Paul Cassell, could\n24     have had to have identified you in the pleading that\n25     was filed in the Crime Victim's Rights Act case.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "219",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      she has a history of lying, knowing that she is\n2      easily suggestible, and they basically pressured\n3      her, according to my sources, into including me when\n4      she didn't want to include me, because by including\n5      me, they could make a claim, false as it was, could\n6      make a false claim that a person who negotiated the\n7      NPA was also criminally involved with her.\n8           They also lied -- lied unethically and\n9      unprofessionally by saying that I negotiated that\n10     provision of the NPA, which gave me, myself, any\n11     kind of immunity from prosecution had I had improper\n12     sex with Virginia Roberts, which, of course, I did\n13     not. And that was one of the bases on which I was\n14     certain that they had engaged in unprofessional,\n15     disbarrable and unethical conduct by including that\n16     provision, as well as including a provision that\n17     Prince Andrew -- this includes because he, Prince\n18     Andrew, pressured a United States attorney to try to\n19     get a good deal for Jeffrey Epstein.\n20          That is so laughable. How any lawyer\n21     could put that in a pleading, it doesn't pass even\n22     the minimal giggle test. And I'm embarrassed for\n23     Professor Cassell that he would have signed his name\n24     to a pleading that alleges that Prince Andrew would\n25     pressure the United States attorney for the Southern",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "218",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1           Do you remember that?\n2           A. That's right, yes.\n3           Q. And your response was, quote --\n4           MR. SCOTT: Here's your transcript if you\n5      need to refer to it.\n6           BY MR. SCAROLA:\n7           Q. -- \"They want to be able to challenge the\n8      plea agreement and I was one of the lawyers who\n9      organized the plea agreement. I got the very good\n10     deal for Jeffrey Epstein.\"\n11          Did you make that response?\n12          A. Yes.\n13          Q. So, you recognized as of January 5, 2015,\n14     that the reason why the statements were filed in the\n15     Crime Victim's Rights Act case was because the Crime\n16     Victim's Rights Act case had, as an objective,\n17     setting aside the plea agreement that you had\n18     negotiated for Jeffrey Epstein, correct?\n19          MR. SCOTT: Objection, form. Go ahead if\n20     you can answer it.\n21          A. There were multiple motives. One of the\n22     motives was crassly financial. They were trying to\n23     line their pockets with money. But as I also said,\n24     and I said this over and over again, they profiled\n25     me. They sat down with their client, knowing that",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "220",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      District of Florida into giving Jeffrey Epstein a\n2      good deal.\n3           MR. SCAROLA: Move to strike the\n4      unresponsive portions of the answer. And\n5      obviously the break didn't do any good.\n6           MR. SCOTT: Let's proceed.\n7           MR. SCAROLA: We're going to.\n8           BY MR. SCAROLA:\n9           Q. You stated, quote: \"If they,\" referring\n10     to Bradley Edwards and Paul Cassell, \"could find a\n11     lawyer who helped draft the agreement\" --\n12          A. Right.\n13          Q. -- \"who also was a criminal having sex,\n14     wow, that could help them blow up the agreement.\"\n15          Did you make that statement on --\n16          A. Yes. I just repeated it now, yes, under\n17     oath, yes.\n18          Q. Did you state the following in that same\n19     interview: \"So they,\" referring to Bradley Edwards,\n20     Paul Cassell and Virginia Roberts, \"sat down\n21     together, the three of them, these two sleazy,\n22     unprofessional disbarrable lawyers\" --\n23          A. Uh-huh, uh-huh.\n24          Q. -- \"they said\" --\n25          MR. SCOTT: Let him ask the question.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "11 (Pages 217 to 220)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010793",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-05"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "Don Lemon",
+      "Brad Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Prince Andrew",
+      "Jeffrey Epstein",
+      "Professor Cassell",
+      "MR. SCOTT"
+    ],
+    "organizations": [
+      "Victoria's Secrets",
+      "Google",
+      "CNN",
+      "United States attorney",
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010793",
+      "217",
+      "218",
+      "219",
+      "220"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding the Crime Victim's Rights Act case related to Jeffrey Epstein, discussing the motives of attorneys Brad Edwards and Paul Cassell.",
+    "date": "2015-01-05",
+    "references": [
+      "Crime Victim's Rights Act case"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four pages from a larger transcript. The page numbering is non-sequential in the image layout (217, 219, 218, 220). The content appears to be testimony from an individual involved in or knowledgeable about the plea agreement for Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010793.jpg",
+  "house_oversight_id": "010793",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:32:46.392480Z",
+    "model": "gemini-2.5-pro"
+  }
+}

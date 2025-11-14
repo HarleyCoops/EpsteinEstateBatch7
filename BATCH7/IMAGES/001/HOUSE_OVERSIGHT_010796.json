@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010796.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A multi-page document formatted as a legal transcript. The image displays four pages arranged in a 2x2 grid. The pages are numbered 229, 230, 231, and 232. The text consists of a question-and-answer dialogue, typical of a deposition or hearing, with numbered lines on the left side of each page.",
+    "layout": "Four-quadrant layout, with each quadrant representing a single page of a transcript. The top-left is page 229, bottom-left is 230, top-right is 231, and bottom-right is 232. Each page has a header with the page number. A shared footer is present at the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "229\n1\n2      BY MR. SCAROLA:\n3          Q. What's her phone number?\n4          A. Her phone number is known to Virginia\n5      Roberts and presumably -- and to Virginia Roberts'\n6      lawyers because she received phone calls from\n7      Virginia Roberts' lawyers. So all you have to do is\n8      ask your colleagues and you will get that. But I\n9      think there's no reason to put her phone number in\n10     the public record so that she will receive massive\n11     amounts of phone calls from the media. Seems to me\n12     that any -- that a judge would try to prevent that\n13     from happening. I would hope so. And I'm -- you\n14     can get the name and the phone number from my lawyer\n15     as long as it's --\n16         MR. SCOTT: We'll provide that.\n17         A. -- done off the record, not so that the\n18     media can see it.\n19         BY MR. SCAROLA:\n20         Q. You just swore under oath that lawyers\n21     contacted Rebecca; is that correct?\n22         A. I swore under oath that I was told by\n23     Michael that lawyers contacted Rebecca, yes.\n24         Q. Which lawyers?\n25         A. I don't know the answer to that.\n\n230\n1          Q. Did you ask him?\n2          A. I did.\n3          Q. And he said, I --\n4          A. He wouldn't answer that.\n5          Q. -- refuse to tell you?\n6          A. No, he didn't know the answer to that\n7      either because he didn't return the phone calls. He\n8      said --\n9          Q. How did he know they were lawyers if he\n10     didn't return the phone calls?\n11         A. Because they left messages, presumably.\n12         Q. With names that identified them as\n13     lawyers; is that right?\n14         MR. SCOTT: You're arguing with the\n15     witness --\n16         A. I don't know the answer to that.\n17         MR. SCAROLA: No, I'm trying to find out\n18     whether there's any logical basis for the\n19     stories that the witness is telling.\n20         MR. SCOTT: And I think he's trying to\n21     explain it. And I think he's trying to do it\n22     in an easy, slow format. So, you know --\n23         MR. SCAROLA: Okay. Well, let's take it\n24     easy --\n25         MR. SCOTT: -- if we all take -- if we all\n\n231\n1      more accomplished.\n2          MR. SCAROLA: Let's take it easy and slow.\n3      BY MR. SCAROLA:\n4          Q. How did Michael tell you he knew these\n5      people he didn't speak to were lawyers?\n6          A. He told me that he received a phone call\n7      from Virginia Roberts. That then his wife received\n8      numerous phone calls and texts from her all through\n9      the night. And that they received phone calls as\n10     well from her lawyers. One of them had a Miami\n11     phone number.\n12         And I don't know how he knew they were\n13     lawyers. But that's what he conveyed to me. All I\n14     can tell you is what he told me, and I'm telling you\n15     that.\n16         Q. Did you ask him for the phone number?\n17         A. I did not.\n18         Q. Why not?\n19         A. I didn't think it was appropriate or\n20     necessary.\n21         Q. What was inappropriate about asking for\n22     the phone number to find out who was attempting to\n23     contact this witness?\n24         A. I was not particularly interested in that.\n25     All I was interested in was getting the truth from\n\n232\n1      the witness and trying to prevent her from having a\n2      media barrage that would interfere with their lives.\n3          Q. You told Don Lemon on CNN that the flight\n4      manifests would exonerate you, prove that you were\n5      not in the same place at the same time as Virginia\n6      Roberts, correct?\n7          A. That's right. And that's true.\n8          Q. You also told Don Lemon, quote, \"I am\n9      waiving the statute of limitations or any immunity.\"\n10         A. That's right.\n11         Q. You were then subsequently asked to waive\n12     the statute of limitations and refused to, correct?\n13         A. Absolutely false.\n14         I waived the statute of limitations by\n15     submitting a statement under oath. Had I not\n16     submitted that statement under oath, the statute of\n17     limitations would have been long gone. But by\n18     stating under oath categorically that I did not have\n19     any sexual contact with her, I waived the statute of\n20     limitations and could be prosecuted for the next\n21     five or so years for perjury in what I said was\n22     false.\n23         But what I said was true, so I have no\n24     fear of any statute of limitations or any criminal\n25     prosecution. So, yes, I did waive the statute of\n\n14 (Pages 229 to 232)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010796",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "229\n1\n2      BY MR. SCAROLA:\n3          Q. What's her phone number?\n4          A. Her phone number is known to Virginia\n5      Roberts and presumably -- and to Virginia Roberts'\n6      lawyers because she received phone calls from\n7      Virginia Roberts' lawyers. So all you have to do is\n8      ask your colleagues and you will get that. But I\n9      think there's no reason to put her phone number in\n10     the public record so that she will receive massive\n11     amounts of phone calls from the media. Seems to me\n12     that any -- that a judge would try to prevent that\n13     from happening. I would hope so. And I'm -- you\n14     can get the name and the phone number from my lawyer\n15     as long as it's --\n16         MR. SCOTT: We'll provide that.\n17         A. -- done off the record, not so that the\n18     media can see it.\n19         BY MR. SCAROLA:\n20         Q. You just swore under oath that lawyers\n21     contacted Rebecca; is that correct?\n22         A. I swore under oath that I was told by\n23     Michael that lawyers contacted Rebecca, yes.\n24         Q. Which lawyers?\n25         A. I don't know the answer to that.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "230\n1          Q. Did you ask him?\n2          A. I did.\n3          Q. And he said, I --\n4          A. He wouldn't answer that.\n5          Q. -- refuse to tell you?\n6          A. No, he didn't know the answer to that\n7      either because he didn't return the phone calls. He\n8      said --\n9          Q. How did he know they were lawyers if he\n10     didn't return the phone calls?\n11         A. Because they left messages, presumably.\n12         Q. With names that identified them as\n13     lawyers; is that right?\n14         MR. SCOTT: You're arguing with the\n15     witness --\n16         A. I don't know the answer to that.\n17         MR. SCAROLA: No, I'm trying to find out\n18     whether there's any logical basis for the\n19     stories that the witness is telling.\n20         MR. SCOTT: And I think he's trying to\n21     explain it. And I think he's trying to do it\n22     in an easy, slow format. So, you know --\n23         MR. SCAROLA: Okay. Well, let's take it\n24     easy --\n25         MR. SCOTT: -- if we all take -- if we all",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "231\n1      more accomplished.\n2          MR. SCAROLA: Let's take it easy and slow.\n3      BY MR. SCAROLA:\n4          Q. How did Michael tell you he knew these\n5      people he didn't speak to were lawyers?\n6          A. He told me that he received a phone call\n7      from Virginia Roberts. That then his wife received\n8      numerous phone calls and texts from her all through\n9      the night. And that they received phone calls as\n10     well from her lawyers. One of them had a Miami\n11     phone number.\n12         And I don't know how he knew they were\n13     lawyers. But that's what he conveyed to me. All I\n14     can tell you is what he told me, and I'm telling you\n15     that.\n16         Q. Did you ask him for the phone number?\n17         A. I did not.\n18         Q. Why not?\n19         A. I didn't think it was appropriate or\n20     necessary.\n21         Q. What was inappropriate about asking for\n22     the phone number to find out who was attempting to\n23     contact this witness?\n24         A. I was not particularly interested in that.\n25     All I was interested in was getting the truth from",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "232\n1      the witness and trying to prevent her from having a\n2      media barrage that would interfere with their lives.\n3          Q. You told Don Lemon on CNN that the flight\n4      manifests would exonerate you, prove that you were\n5      not in the same place at the same time as Virginia\n6      Roberts, correct?\n7          A. That's right. And that's true.\n8          Q. You also told Don Lemon, quote, \"I am\n9      waiving the statute of limitations or any immunity.\"\n10         A. That's right.\n11         Q. You were then subsequently asked to waive\n12     the statute of limitations and refused to, correct?\n13         A. Absolutely false.\n14         I waived the statute of limitations by\n15     submitting a statement under oath. Had I not\n16     submitted that statement under oath, the statute of\n17     limitations would have been long gone. But by\n18     stating under oath categorically that I did not have\n19     any sexual contact with her, I waived the statute of\n20     limitations and could be prosecuted for the next\n21     five or so years for perjury in what I said was\n22     false.\n23         But what I said was true, so I have no\n24     fear of any statute of limitations or any criminal\n25     prosecution. So, yes, I did waive the statute of",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "14 (Pages 229 to 232)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010796",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SCAROLA",
+      "Virginia Roberts",
+      "MR. SCOTT",
+      "Rebecca",
+      "Michael",
+      "Don Lemon"
+    ],
+    "organizations": [
+      "CNN",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Virginia",
+      "Miami"
+    ],
+    "document_numbers": [
+      "229",
+      "230",
+      "231",
+      "232",
+      "14",
+      "HOUSE_OVERSIGHT_010796"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010796"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Legal Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness regarding contact from lawyers, and statements made to the media.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010796"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition. The speakers are identified as MR. SCAROLA (questioner), an unnamed witness (providing answers 'A.'), and MR. SCOTT (likely another attorney). The footer indicates the reporting company is Phipps Reporting.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010796.jpg",
+  "house_oversight_id": "010796",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:34:50.047738Z",
+    "model": "gemini-2.5-pro"
+  }
+}

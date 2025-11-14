@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010791.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single sheet of paper displaying four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 209, 211, 210, and 212. The text is a question-and-answer format with line numbers, typical of a deposition or court hearing. A footer at the bottom contains contact information for a reporting service, a page range, and a document identification number.",
+    "layout": "Four-up page layout (four pages on one sheet). Each page is a single column with line numbers on the left margin.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "209\n1       Q. Okay. So you now are withdrawing the\n2   statement that you made that Virginia Roberts said\n3   that Bill Clinton was with her at an orgy on\n4   Jeffrey's island; that was wrong?\n5       A. I don't know whether she ever said that.\n6   I would not repeat that statement and have not\n7   repeated that statement based on her denial. As\n8   soon as she denied it, I never again made that\n9   statement and would not again make that statement.\n10      Q. You --\n11      A. But I did reiterate the fact that she\n12  committed perjury when she said she was on the\n13  island with Bill Clinton.\n14      MR. SCAROLA: Move to strike the\n15  nonresponsive --\n16      A. That was the perjurious statement.\n17      MR. SCAROLA: Move to strike the\n18  nonresponsive portions of the answer.\n19  BY MR. SCAROLA:\n20      Q. You have made a reference during that same\n21  CNN interview to this woman, referring to Virginia\n22  Roberts, having a criminal record?\n23      A. That's right.\n24      Q. Okay. What -- what is a criminal record?\n25      A. Well, the way I used the term is that she\n\n211\n1   Your client is doing everything he can to avoid\n2   giving direct answers to these questions.\n3       I would appreciate it if you would take a\n4   break, counsel your client that the speeches\n5   are not helpful to anyone, and especially not\n6   helpful to him.\n7       MR. SCOTT: If you want to take a break,\n8   I'll take a break and I will advise my client\n9   whatever I feel is appropriate, not what you\n10  instruct me to do.\n11      MR. SCAROLA: Okay. Well, if you think it\n12  might help at all in the progress of this\n13  deposition, then I do want to take a break. If\n14  you don't think taking a break would be\n15  helpful, I don't want to take a break.\n16      MR. SCOTT: Do you want to take a break or\n17  not?\n18      THE WITNESS: I'm going to leave it to\n19  your judgment. I'm happy to proceed --\n20      MR. SCOTT: Okay. I'll be glad to take a\n21  break.\n22      MR. SCAROLA: Thank you.\n23      MR. SCOTT: I can't say --\n24      MR. SCAROLA: Five minutes.\n25      MR. SCOTT: -- it will help you or\n\n210\n1   committed a crime and legal -- some kind of\n2   proceedings resulted from her committing a crime.\n3   The crime she committed was stealing money from a\n4   restaurant that she worked at while she was also\n5   working for Jeffrey Epstein. And it was my\n6   information that there was a criminal record of her\n7   theft.\n8       Q. How old was she at the time this alleged\n9   offense occurred?\n10      A. I don't know. But old enough to be held\n11  criminally responsible in the State of Florida, to\n12  my knowledge. To my knowledge, I -- I recall a case\n13  where a 14-year-old boy was sentenced as an adult\n14  for --\n15      MR. SCAROLA: Mr. Scott --\n16      A. -- a serious --\n17      MR. SCAROLA: -- did my question ask\n18  anything about a 14-year-old boy?\n19      A. You asked if --\n20      MR. SCAROLA: Do we really need to listen\n21  to this?\n22      MR. SCOTT: You're asking questions, my\n23  client is providing his response.\n24      MR. SCAROLA: No, your client is not\n25  responding. Your client is filibustering.\n\n212\n1   anything but --\n2       MR. SCAROLA: I can understand that you\n3   don't -- you don't have that control, but if\n4   there's any reasonable --\n5       MR. SCOTT: You know, Counsel --\n6       MR. SCAROLA: -- prospect that it might\n7   help, let's give it a try.\n8       MR. SCOTT: You know, I really don't\n9   appreciate the comments about my abilities as\n10  an attorney, like I don't have that control and\n11  things of nature. It really is --\n12      MR. SCAROLA: I don't have the control\n13  either.\n14      MR. SCOTT: It's not --\n15      MR. SCAROLA: I'm not trying to disparage\n16  you at all in any respect. I'm just suggesting\n17  that --\n18      MR. SCOTT: Okay.\n19      MR. SCAROLA: -- there is reason to doubt\n20  that it will do any good. But I want to give\n21  it a try.\n22      MR. SCOTT: Okay. Fine. Thank you.\n23      MR. SCAROLA: Thank you.\n24      VIDEOGRAPHER: Going off the record. The\n25  time is approximately 9:49 a.m.\n\n9 (Pages 209 to 212)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010791",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "209\n1       Q. Okay. So you now are withdrawing the\n2   statement that you made that Virginia Roberts said\n3   that Bill Clinton was with her at an orgy on\n4   Jeffrey's island; that was wrong?\n5       A. I don't know whether she ever said that.\n6   I would not repeat that statement and have not\n7   repeated that statement based on her denial. As\n8   soon as she denied it, I never again made that\n9   statement and would not again make that statement.\n10      Q. You --\n11      A. But I did reiterate the fact that she\n12  committed perjury when she said she was on the\n13  island with Bill Clinton.\n14      MR. SCAROLA: Move to strike the\n15  nonresponsive --\n16      A. That was the perjurious statement.\n17      MR. SCAROLA: Move to strike the\n18  nonresponsive portions of the answer.\n19  BY MR. SCAROLA:\n20      Q. You have made a reference during that same\n21  CNN interview to this woman, referring to Virginia\n22  Roberts, having a criminal record?\n23      A. That's right.\n24      Q. Okay. What -- what is a criminal record?\n25      A. Well, the way I used the term is that she",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "211\n1   Your client is doing everything he can to avoid\n2   giving direct answers to these questions.\n3       I would appreciate it if you would take a\n4   break, counsel your client that the speeches\n5   are not helpful to anyone, and especially not\n6   helpful to him.\n7       MR. SCOTT: If you want to take a break,\n8   I'll take a break and I will advise my client\n9   whatever I feel is appropriate, not what you\n10  instruct me to do.\n11      MR. SCAROLA: Okay. Well, if you think it\n12  might help at all in the progress of this\n13  deposition, then I do want to take a break. If\n14  you don't think taking a break would be\n15  helpful, I don't want to take a break.\n16      MR. SCOTT: Do you want to take a break or\n17  not?\n18      THE WITNESS: I'm going to leave it to\n19  your judgment. I'm happy to proceed --\n20      MR. SCOTT: Okay. I'll be glad to take a\n21  break.\n22      MR. SCAROLA: Thank you.\n23      MR. SCOTT: I can't say --\n24      MR. SCAROLA: Five minutes.\n25      MR. SCOTT: -- it will help you or",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "210\n1   committed a crime and legal -- some kind of\n2   proceedings resulted from her committing a crime.\n3   The crime she committed was stealing money from a\n4   restaurant that she worked at while she was also\n5   working for Jeffrey Epstein. And it was my\n6   information that there was a criminal record of her\n7   theft.\n8       Q. How old was she at the time this alleged\n9   offense occurred?\n10      A. I don't know. But old enough to be held\n11  criminally responsible in the State of Florida, to\n12  my knowledge. To my knowledge, I -- I recall a case\n13  where a 14-year-old boy was sentenced as an adult\n14  for --\n15      MR. SCAROLA: Mr. Scott --\n16      A. -- a serious --\n17      MR. SCAROLA: -- did my question ask\n18  anything about a 14-year-old boy?\n19      A. You asked if --\n20      MR. SCAROLA: Do we really need to listen\n21  to this?\n22      MR. SCOTT: You're asking questions, my\n23  client is providing his response.\n24      MR. SCAROLA: No, your client is not\n25  responding. Your client is filibustering.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "212\n1   anything but --\n2       MR. SCAROLA: I can understand that you\n3   don't -- you don't have that control, but if\n4   there's any reasonable --\n5       MR. SCOTT: You know, Counsel --\n6       MR. SCAROLA: -- prospect that it might\n7   help, let's give it a try.\n8       MR. SCOTT: You know, I really don't\n9   appreciate the comments about my abilities as\n10  an attorney, like I don't have that control and\n11  things of nature. It really is --\n12      MR. SCAROLA: I don't have the control\n13  either.\n14      MR. SCOTT: It's not --\n15      MR. SCAROLA: I'm not trying to disparage\n16  you at all in any respect. I'm just suggesting\n17  that --\n18      MR. SCOTT: Okay.\n19      MR. SCAROLA: -- there is reason to doubt\n20  that it will do any good. But I want to give\n21  it a try.\n22      MR. SCOTT: Okay. Fine. Thank you.\n23      MR. SCAROLA: Thank you.\n24      VIDEOGRAPHER: Going off the record. The\n25  time is approximately 9:49 a.m.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "9 (Pages 209 to 212)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010791",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Virginia Roberts",
+      "Bill Clinton",
+      "Jeffrey",
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "THE WITNESS",
+      "VIDEOGRAPHER",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CNN",
+      "Phipps Reporting",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Jeffrey's island",
+      "State of Florida"
+    ],
+    "document_numbers": [
+      "209",
+      "211",
+      "210",
+      "212",
+      "9",
+      "HOUSE_OVERSIGHT_010791"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010791"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding statements about Virginia Roberts, Bill Clinton, and Jeffrey's island, as well as Roberts' alleged criminal record.",
+    "date": null,
+    "references": [
+      "CNN interview"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a deposition transcript. The name 'Jeffrey Epstein' is inferred from context ('Jeffrey's island' and 'working for Jeffrey Epstein'). The time '9:49 a.m.' is mentioned as the approximate time the deposition went off the record.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010791.jpg",
+  "house_oversight_id": "010791",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:31:28.382748Z",
+    "model": "gemini-2.5-pro"
+  }
+}

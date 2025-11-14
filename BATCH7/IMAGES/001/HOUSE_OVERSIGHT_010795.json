@@ -1,0 +1,110 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010795.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image displaying four pages of a legal transcript. The pages are numbered 225, 226, 227, and 228. The text is a dialogue from a legal proceeding, likely a deposition, with speakers identified and lines numbered. A footer contains the reporting company's information and a document identifier.",
+    "layout": "The image is arranged in a two-by-two grid. Page 225 is top-left, 227 is top-right, 226 is bottom-left, and 228 is bottom-right. Each page has a header with the page number. A footer is present at the bottom of the composite image.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "225\n1       MR. SIMPSON: The flash drive is the same\n2   as the document production.\n3       MR. SCAROLA: So the answer is no, they're\n4   not there; is that correct?\n5       MR. SIMPSON: Correct.\n6       MR. SCAROLA: Okay. And what's the\n7   explanation for that?\n8       MR. SIMPSON: I'm not going to debate this\n9   on the record with you, Mr. Scarola.\n10      MR. SCAROLA: All right. Thank you.\n11  BY MR. SCAROLA:\n12      Q. Which conversation with Rebecca did you\n13  tape record?\n14      A. I tape recorded a conversation with her\n15  permission where she told me that she was pressured,\n16  she didn't -- where Rebecca told me that Virginia\n17  was pressured and that she didn't want to name me\n18  but she was pressured to name me, that she had never\n19  previously named me.\n20      By the way, I told this to Virginia\n21  Roberts' lawyer.\n22      MS. McCAWLEY: Objection. To the extent\n23  you're going to reveal anything that was said\n24  during settlement discussions, I'm moving for\n25  sanctions, period. We're not doing this today.\n\n227\n1       A. I know what you know because I'm a logical\n2   person and I know that Virginia -- I know that\n3   Virginia Roberts repeatedly called this -- this\n4   woman and her husband, repeatedly text her, and\n5   knows her name. And you and Virginia Roberts'\n6   lawyers are operating in privity here. You're\n7   whispering to each other, you're passing notes. You\n8   are part of a joint legal team.\n9       And if you want to know her name, all you\n10  have to do is ask Sigrid McCawley and she'll tell\n11  you her name. I'm sure you know her name. And if\n12  you don't know her name, it's because you haven't\n13  asked.\n14      Q. Okay. Well, I'm asking you --\n15      A. I'm not going to tell you --\n16      Q. -- and I'm telling you I don't know her\n17  name.\n18      A. Okay.\n19      Q. Okay? As an officer of the court, I am\n20  telling you I don't know her name. And you are\n21  under oath and obliged to answer material and\n22  relevant questions, and I want to know what her name\n23  is.\n24      MR. SCOTT: I will provide you the name\n25  off the record, but I'm not -- if he feels it's\n\n226\n1       Please instruct the witness.\n2       MR. SCOTT: Avoid that. We discussed that\n3   yesterday.\n4       THE WITNESS: That's fine.\n5   BY MR. SCAROLA:\n6       Q. What was the date of the phone\n7   conversation that you tape recorded?\n8       A. I don't recall. But it's on the\n9   transcript.\n10      Q. And does it also reflect that the\n11  recording is being made with her permission?\n12      A. Uh-huh.\n13      Q. That's a yes?\n14      A. Yes. Yes, that's a yes.\n15      Q. What is Rebecca's last name?\n16      A. You know Rebecca's last name and she has\n17  asked me not to reveal it to the press. And so I\n18  would like to comply with that -- with that request.\n19  For purposes of discovery, you know her name, you\n20  know her husband's name, you know her phone number,\n21  and she has been called. But there's no reason for\n22  me to reveal it so that it appears in the press that\n23  she would be called by newspapers and by the media.\n24      Q. Mr. Dershowitz, how do you know what I\n25  know if you haven't told me?\n\n228\n1   inappropriate because of what -- he's not going\n2   to answer the question. I will provide you the\n3   name.\n4   BY MR. SCAROLA:\n5       Q. Okay. She has still insisted that her\n6   name not be revealed; is that correct?\n7       A. Her husband asked me to do whatever I\n8   could not to put her name in front of the press, in\n9   front of the media.\n10      Q. There's no -- there's no one from the\n11  press here today.\n12      MR. SCOTT: Yeah, but they're going to\n13  order the transcript and they're going to see,\n14  so that's the same thing. And I've already\n15  told --\n16      A. You will have her name in five --\n17      MR. SCOTT: I will give you her name --\n18      A. -- minutes. All you have to do is --\n19      MR. SCOTT: And, Jack, if you want to take\n20  a break now --\n21      THE REPORTER: Hold on. Hold on,\n22  gentlemen. You can't talk at the same time.\n23      MR. SCOTT: Let me do the talking at this\n24  point.\n25      THE WITNESS: Please.\n\n13 (Pages 225 to 228)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010795",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "225\n1       MR. SIMPSON: The flash drive is the same\n2   as the document production.\n3       MR. SCAROLA: So the answer is no, they're\n4   not there; is that correct?\n5       MR. SIMPSON: Correct.\n6       MR. SCAROLA: Okay. And what's the\n7   explanation for that?\n8       MR. SIMPSON: I'm not going to debate this\n9   on the record with you, Mr. Scarola.\n10      MR. SCAROLA: All right. Thank you.\n11  BY MR. SCAROLA:\n12      Q. Which conversation with Rebecca did you\n13  tape record?\n14      A. I tape recorded a conversation with her\n15  permission where she told me that she was pressured,\n16  she didn't -- where Rebecca told me that Virginia\n17  was pressured and that she didn't want to name me\n18  but she was pressured to name me, that she had never\n19  previously named me.\n20      By the way, I told this to Virginia\n21  Roberts' lawyer.\n22      MS. McCAWLEY: Objection. To the extent\n23  you're going to reveal anything that was said\n24  during settlement discussions, I'm moving for\n25  sanctions, period. We're not doing this today.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "227\n1       A. I know what you know because I'm a logical\n2   person and I know that Virginia -- I know that\n3   Virginia Roberts repeatedly called this -- this\n4   woman and her husband, repeatedly text her, and\n5   knows her name. And you and Virginia Roberts'\n6   lawyers are operating in privity here. You're\n7   whispering to each other, you're passing notes. You\n8   are part of a joint legal team.\n9       And if you want to know her name, all you\n10  have to do is ask Sigrid McCawley and she'll tell\n11  you her name. I'm sure you know her name. And if\n12  you don't know her name, it's because you haven't\n13  asked.\n14      Q. Okay. Well, I'm asking you --\n15      A. I'm not going to tell you --\n16      Q. -- and I'm telling you I don't know her\n17  name.\n18      A. Okay.\n19      Q. Okay? As an officer of the court, I am\n20  telling you I don't know her name. And you are\n21  under oath and obliged to answer material and\n22  relevant questions, and I want to know what her name\n23  is.\n24      MR. SCOTT: I will provide you the name\n25  off the record, but I'm not -- if he feels it's",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "226\n1       Please instruct the witness.\n2       MR. SCOTT: Avoid that. We discussed that\n3   yesterday.\n4       THE WITNESS: That's fine.\n5   BY MR. SCAROLA:\n6       Q. What was the date of the phone\n7   conversation that you tape recorded?\n8       A. I don't recall. But it's on the\n9   transcript.\n10      Q. And does it also reflect that the\n11  recording is being made with her permission?\n12      A. Uh-huh.\n13      Q. That's a yes?\n14      A. Yes. Yes, that's a yes.\n15      Q. What is Rebecca's last name?\n16      A. You know Rebecca's last name and she has\n17  asked me not to reveal it to the press. And so I\n18  would like to comply with that -- with that request.\n19  For purposes of discovery, you know her name, you\n20  know her husband's name, you know her phone number,\n21  and she has been called. But there's no reason for\n22  me to reveal it so that it appears in the press that\n23  she would be called by newspapers and by the media.\n24      Q. Mr. Dershowitz, how do you know what I\n25  know if you haven't told me?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "228\n1   inappropriate because of what -- he's not going\n2   to answer the question. I will provide you the\n3   name.\n4   BY MR. SCAROLA:\n5       Q. Okay. She has still insisted that her\n6   name not be revealed; is that correct?\n7       A. Her husband asked me to do whatever I\n8   could not to put her name in front of the press, in\n9   front of the media.\n10      Q. There's no -- there's no one from the\n11  press here today.\n12      MR. SCOTT: Yeah, but they're going to\n13  order the transcript and they're going to see,\n14  so that's the same thing. And I've already\n15  told --\n16      A. You will have her name in five --\n17      MR. SCOTT: I will give you her name --\n18      A. -- minutes. All you have to do is --\n19      MR. SCOTT: And, Jack, if you want to take\n20  a break now --\n21      THE REPORTER: Hold on. Hold on,\n22  gentlemen. You can't talk at the same time.\n23      MR. SCOTT: Let me do the talking at this\n24  point.\n25      THE WITNESS: Please.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "13 (Pages 225 to 228)\nwww.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010795",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SIMPSON",
+      "Mr. Scarola",
+      "Rebecca",
+      "Virginia",
+      "Virginia Roberts",
+      "MS. McCAWLEY",
+      "MR. SCOTT",
+      "THE WITNESS",
+      "Mr. Dershowitz",
+      "Sigrid McCawley",
+      "Jack",
+      "THE REPORTER"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "225",
+      "226",
+      "227",
+      "228",
+      "HOUSE_OVERSIGHT_010795"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010795"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding a tape-recorded conversation and the identity of a person named Rebecca.",
+    "date": null,
+    "references": [
+      "Pages 225 to 228"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding. The speakers are identified by titles (MR., MS.) and roles (THE WITNESS, THE REPORTER). The main topic of discussion across these pages is the identity of a woman named Rebecca and a tape-recorded conversation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010795.jpg",
+  "house_oversight_id": "010795",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:34:10.802639Z",
+    "model": "gemini-2.5-pro"
+  }
+}

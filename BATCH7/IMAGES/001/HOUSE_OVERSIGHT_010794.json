@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010794.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, numbered 221, 222, 223, and 224. The pages are arranged in a two-by-two grid. The document appears to be a deposition or hearing transcript, with numbered lines and dialogue attributed to various speakers.",
+    "layout": "The image displays four pages. Each page has a two-column format with line numbers on the left and text on the right. Page numbers are in the top right corner of each respective page. A footer at the bottom of the image contains contact information for a reporting service, a page range, and a document identification number (Bates stamp).",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "221\n1\n2      BY MR. SCAROLA:\n3           Q.   -- \"who would fit into this description?\n4      They and the woman got together and contrived and\n5      made this up.\"\n6           Did you make that statement on national\n7      television?\n8           A.   Yes, and I just repeated it under oath. I\n9      believe that to be the case. I think that's exactly\n10     what happened. And I think that my source has\n11     corroborated that.\n12          By the way, can I add at this point -- I\n13     don't mean to distract you, but I think the record\n14     would be more complete if I indicated that I did get\n15     a phone call last night from Michael, who told me\n16     that he had received numerous phone calls and texts\n17     from Virginia Roberts trying to persuade her not to\n18     talk to me or cooperate with me and offering the\n19     help of a lawyer.\n20          And I also -- although you didn't ask the\n21     question, Mr. Scarola, I think for completeness and\n22     fullness, I do want to say that you asked me whether\n23     or not I knew about what could be taped and what\n24     couldn't be taped. I did tape record some of what\n25     Virginia Roberts [sic.] told me, with her\n\n223\n1      who made transcripts of them.\n2           Q.   Did you turn them over to opposing\n3      counsel --\n4           MR. SCOTT: The transcripts --\n5      BY MR. SCAROLA:\n6           Q.   -- in the course of discovery?\n7           MR. SCOTT: The transcripts we consider to\n8      be work product. If you make a request to\n9      produce, we'll provide them.\n10          MR. SIMPSON: Just for completeness, they\n11     were also after your discovery request.\n12          MR. SCOTT: Request to produce, we'll\n13     consider providing them.\n14     BY MR. SCAROLA:\n15          Q.   Is there an entry in any privilege log\n16     that identifies these allegedly privileged work\n17     product documents?\n18          MR. SIMPSON: We will -- the lawyers will\n19     address the document production issues. But\n20     two things, Mr. Scarola, first, they postdate\n21     your request and you have said several times\n22     there's no duty to supplement. And second,\n23     they're work product.\n24          MR. SCAROLA: Well, sir, if they postdated\n25     a full and complete production, which we are\n\n222\n1      permission, and I have those tape recordings.\n2           Q.   Well, you're getting a little bit\n3      overexcited, Mr. Dershowitz, because you never tape\n4      recorded anything that Virginia Roberts told you.\n5           A.   Did I say Virginia Roberts?\n6           Q.   You misspoke.\n7           A.   I misspoke. You wouldn't know that. But,\n8      in fact, let me be clear.\n9           I tape recorded, with her permission,\n10     Rebecca's statements to me about what Virginia\n11     Roberts had told her. And I just want to make sure\n12     that for completeness, even though you didn't ask\n13     the question yesterday, that's part of the record.\n14          Q.   Well, I actually did ask the question and\n15     my recollection is that you said you didn't even\n16     think about tape recording anything --\n17          MR. SCOTT: No, that's not accurate. You\n18     never asked that.\n19     BY MR. SCAROLA:\n20          Q.   But can you tell us, please, did you turn\n21     over those tape recordings in the discovery that you\n22     were required to make in this case?\n23          A.   The discovery -- these events occurred\n24     after April of 2015. And I certainly turned over\n25     the recordings and the -- recordings to my lawyers,\n\n224\n1      now told they do not, then you wouldn't be\n2      obliged to supplement the production that had\n3      already been completed. But it is not the date\n4      of the request that matters, it is the date of\n5      the production that matters.\n6           And what we're now being told is there are\n7      allegedly highly relevant transcripts of a\n8      telephone conversation that occurred months ago\n9      which the last production that we received,\n10     which we are told still is not complete,\n11     occurred approximately two weeks ago.\n12          So, there's no privilege log entry.\n13     There's no production of these documents. And\n14     there is clearly a very significant discovery\n15     violation if, in fact, such documents exist.\n16          MR. SIMPSON: I'm not going to debate it\n17     here, Mr. Scarola, but your assertions are not\n18     accurate.\n19          MR. SCAROLA: All right. There also was a\n20     subpoena duces tecum that was responded to\n21     tomorrow -- I'm sorry, yesterday. Can you tell\n22     us whether the documents that are now being\n23     described are included in response to the\n24     subpoena duces tecum on the flash drive that\n25     you provided to us?\n\n12 (Pages 221 to 224)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010794",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "221\n1\n2      BY MR. SCAROLA:\n3           Q.   -- \"who would fit into this description?\n4      They and the woman got together and contrived and\n5      made this up.\"\n6           Did you make that statement on national\n7      television?\n8           A.   Yes, and I just repeated it under oath. I\n9      believe that to be the case. I think that's exactly\n10     what happened. And I think that my source has\n11     corroborated that.\n12          By the way, can I add at this point -- I\n13     don't mean to distract you, but I think the record\n14     would be more complete if I indicated that I did get\n15     a phone call last night from Michael, who told me\n16     that he had received numerous phone calls and texts\n17     from Virginia Roberts trying to persuade her not to\n18     talk to me or cooperate with me and offering the\n19     help of a lawyer.\n20          And I also -- although you didn't ask the\n21     question, Mr. Scarola, I think for completeness and\n22     fullness, I do want to say that you asked me whether\n23     or not I knew about what could be taped and what\n24     couldn't be taped. I did tape record some of what\n25     Virginia Roberts [sic.] told me, with her",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "223\n1      who made transcripts of them.\n2           Q.   Did you turn them over to opposing\n3      counsel --\n4           MR. SCOTT: The transcripts --\n5      BY MR. SCAROLA:\n6           Q.   -- in the course of discovery?\n7           MR. SCOTT: The transcripts we consider to\n8      be work product. If you make a request to\n9      produce, we'll provide them.\n10          MR. SIMPSON: Just for completeness, they\n11     were also after your discovery request.\n12          MR. SCOTT: Request to produce, we'll\n13     consider providing them.\n14     BY MR. SCAROLA:\n15          Q.   Is there an entry in any privilege log\n16     that identifies these allegedly privileged work\n17     product documents?\n18          MR. SIMPSON: We will -- the lawyers will\n19     address the document production issues. But\n20     two things, Mr. Scarola, first, they postdate\n21     your request and you have said several times\n22     there's no duty to supplement. And second,\n23     they're work product.\n24          MR. SCAROLA: Well, sir, if they postdated\n25     a full and complete production, which we are",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "222\n1      permission, and I have those tape recordings.\n2           Q.   Well, you're getting a little bit\n3      overexcited, Mr. Dershowitz, because you never tape\n4      recorded anything that Virginia Roberts told you.\n5           A.   Did I say Virginia Roberts?\n6           Q.   You misspoke.\n7           A.   I misspoke. You wouldn't know that. But,\n8      in fact, let me be clear.\n9           I tape recorded, with her permission,\n10     Rebecca's statements to me about what Virginia\n11     Roberts had told her. And I just want to make sure\n12     that for completeness, even though you didn't ask\n13     the question yesterday, that's part of the record.\n14          Q.   Well, I actually did ask the question and\n15     my recollection is that you said you didn't even\n16     think about tape recording anything --\n17          MR. SCOTT: No, that's not accurate. You\n18     never asked that.\n19     BY MR. SCAROLA:\n20          Q.   But can you tell us, please, did you turn\n21     over those tape recordings in the discovery that you\n22     were required to make in this case?\n23          A.   The discovery -- these events occurred\n24     after April of 2015. And I certainly turned over\n25     the recordings and the -- recordings to my lawyers,",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "224\n1      now told they do not, then you wouldn't be\n2      obliged to supplement the production that had\n3      already been completed. But it is not the date\n4      of the request that matters, it is the date of\n5      the production that matters.\n6           And what we're now being told is there are\n7      allegedly highly relevant transcripts of a\n8      telephone conversation that occurred months ago\n9      which the last production that we received,\n10     which we are told still is not complete,\n11     occurred approximately two weeks ago.\n12          So, there's no privilege log entry.\n13     There's no production of these documents. And\n14     there is clearly a very significant discovery\n15     violation if, in fact, such documents exist.\n16          MR. SIMPSON: I'm not going to debate it\n17     here, Mr. Scarola, but your assertions are not\n18     accurate.\n19          MR. SCAROLA: All right. There also was a\n20     subpoena duces tecum that was responded to\n21     tomorrow -- I'm sorry, yesterday. Can you tell\n22     us whether the documents that are now being\n23     described are included in response to the\n24     subpoena duces tecum on the flash drive that\n25     you provided to us?",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "12 (Pages 221 to 224)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010794",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-04"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "Michael",
+      "Virginia Roberts",
+      "MR. SCOTT",
+      "MR. SIMPSON",
+      "Mr. Dershowitz",
+      "Rebecca"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010794",
+      "221",
+      "222",
+      "223",
+      "224"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010794"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding tape recordings, discovery requests, and work product privilege.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010794"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript from a legal proceeding. The speakers are identified by their last names (e.g., MR. SCAROLA, MR. SCOTT). The footer includes the website www.phippsreporting.com, which belongs to a court reporting service. The text contains a bracketed '[sic.]' on page 221, line 25, indicating a potential error in the original speech that was transcribed as heard.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010794.jpg",
+  "house_oversight_id": "010794",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:33:27.767364Z",
+    "model": "gemini-2.5-pro"
+  }
+}
