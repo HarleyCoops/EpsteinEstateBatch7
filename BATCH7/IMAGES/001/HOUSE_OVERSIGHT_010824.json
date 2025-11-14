@@ -1,0 +1,153 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010824.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing the first four pages of a legal deposition transcript. The pages are arranged in a 2x2 grid. Page 1 (top-left) is the cover page, detailing the case, parties, and deposition information. Page 2 (bottom-left) and Page 3 (top-right) list the appearances of counsel and others present. Page 4 (bottom-right) provides an index for the examination and exhibits. A document identifier is visible at the bottom of the image.",
+    "layout": "The image is a single sheet containing four distinct pages from a document, arranged in a two-by-two grid. Page 1 is top-left, Page 2 is bottom-left, Page 3 is top-right, and Page 4 is bottom-right. Each page has a page number at the top center. A footer with a document ID and timestamp is at the bottom of the entire sheet.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "1\nIN THE CIRCUIT COURT OF THE SEVENTEENTH\nJUDICIAL CIRCUIT IN AND FOR\nBROWARD COUNTY, FLORIDA\nCASE NO. CACE 15-000072\nBRADLEY J. EDWARDS and PAUL G. CASSELL,\nPlaintiffs/Counterclaim Defendants,\nvs.\nALAN M. DERSHOWITZ,\nDefendant/Counterclaim Plaintiff.\nVIDEOTAPED DEPOSITION OF\nPAUL G. CASSELL\nTAKEN ON BEHALF OF THE DEFENDANT\nVOLUME I, PAGES 1 to 151\nFriday, October 16, 2015\n1:33 p.m. - 4:31 p.m.\n110 Southeast 6th Street\n110 Tower - Suite 1850\nFort Lauderdale, Florida 33301\nTheresa Tomaselli, RMR\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400\n\n2\nAPPEARANCES OF COUNSEL\nOn behalf of the Plaintiffs:\nSEARCY DENNEY SCAROLA\nBARNHART & SHIPLEY, P.A.\nBY: JOHN SCAROLA, ESQUIRE\n2139 Palm Beach Lakes Boulevard\nWest Palm Beach, Florida 33409\nTel: 561.686.6300\nFax: 561.383.9541\nE-mail: mep@searcylaw.com\nOn behalf of Virginia Roberts:\nBOIES, SCHILLER & FLEXNER, LLP\nBY: SIGRID STONE McCAWLEY, ESQUIRE\n401 East Las Olas Boulevard\nSuite 1200\nFort Lauderdale, Florida 33301\nTel: 954.356.0011\nFax: 954.356.0022\nE-mail: smccawley@bsfllp.com\nOn behalf of the Defendant:\nWILEY REIN LLP\nBY: RICHARD A. SIMPSON, ESQUIRE\nAND: NICOLE A. RICHARDSON, ESQUIRE\n1776 K Street Northwest\nWashington, DC 20006\nTel: 202.719.7000\nFax: 202.719.7049\nE-mail: rsimpson@wileyrein.com\nAlso on behalf of the Defendant:\nCOLE, SCOTT & KISSANE, P.A.\nBY: THOMAS EMERSON SCOTT, JR., ESQUIRE\n9150 South Dadeland Boulevard\nDadeland Centre II - Suite 1400\nMiami, Florida 33156\nTel: 305.350.5329\nFax: 305.373.2294\nE-mail: thomas.scott@csklegal.com\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400\n\n3\nAPPEARANCES CONTINUED\nAlso on behalf of the Defendant:\nSWEDER & ROSS, LLP\nBY: KENNETH A. SWEDER, ESQUIRE\n131 Oliver Street\nBoston, Massachusetts 02110\nTel: 617.646.4466\nFax: 617.646.4470\nE-mail: ksweder@sweder-ross.com\nOn behalf of the Witness:\nUTAH ATTORNEY GENERAL'S OFFICE, P.A.\nBY: JONI J. JONES, ASSISTANT\nATTORNEY GENERAL, Litigation Division\n160 East 300 South\nHeber Wells Building - 6th Floor\nSalt Lake City, Utah 84114\nTel: 801.366.0100\nFax: 801.366.0101\nE-mail: jonijones@utah.gov\nTelephonically on behalf of Jeffrey Epstein:\nDARREN K. INDYKE, PLLC\nBY: DARREN K. INDYKE, ESQUIRE\n575 Lexington Avenue\n4th Floor\nNew York, New York 10022\nTel: 212.971.1314\nAlso Present:\nDON SAVOY, Videographer\nBRADLEY J. EDWARDS\nALAN M. DERSHOWITZ\nCAROLYN COHEN\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400\n\n4\nINDEX OF EXAMINATION\nWITNESS PAGE\nPAUL G. CASSELL\nDIRECT EXAMINATION 6\nBY MR. SIMPSON\nINDEX TO EXHIBITS\nEXHIBIT DESCRIPTION PAGE\nCassell I.D. Exhibit No. 1 - Plaintiff's 21\nResponse to Motion for Limited Intervention\nby Alan M. Dershowitz\nCassell I.D. Exhibit No. 2 - Jane Doe 22\nNumber 3 and Jane Doe Number 4's Motion\nPursuant to Rule 21 for Joinder in Action\nCassell I.D. Exhibit No. 3 - one-page 106\ndocument produced by the witness\n(Original Exhibits have been attached to the\noriginal transcript.)\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400\n\n1 of 38 sheets\nPage 1 to 4 of 151\n10/20/2015 01:07:28 PM\nHOUSE_OVERSIGHT_010824",
+    "text_regions": [
+      {
+        "region": "page_1_body",
+        "text": "IN THE CIRCUIT COURT OF THE SEVENTEENTH\nJUDICIAL CIRCUIT IN AND FOR\nBROWARD COUNTY, FLORIDA\nCASE NO. CACE 15-000072\nBRADLEY J. EDWARDS and PAUL G. CASSELL,\nPlaintiffs/Counterclaim Defendants,\nvs.\nALAN M. DERSHOWITZ,\nDefendant/Counterclaim Plaintiff.\nVIDEOTAPED DEPOSITION OF\nPAUL G. CASSELL\nTAKEN ON BEHALF OF THE DEFENDANT\nVOLUME I, PAGES 1 to 151\nFriday, October 16, 2015\n1:33 p.m. - 4:31 p.m.\n110 Southeast 6th Street\n110 Tower - Suite 1850\nFort Lauderdale, Florida 33301\nTheresa Tomaselli, RMR\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400",
+        "type": "printed"
+      },
+      {
+        "region": "page_2_body",
+        "text": "APPEARANCES OF COUNSEL\nOn behalf of the Plaintiffs:\nSEARCY DENNEY SCAROLA\nBARNHART & SHIPLEY, P.A.\nBY: JOHN SCAROLA, ESQUIRE\n2139 Palm Beach Lakes Boulevard\nWest Palm Beach, Florida 33409\nTel: 561.686.6300\nFax: 561.383.9541\nE-mail: mep@searcylaw.com\nOn behalf of Virginia Roberts:\nBOIES, SCHILLER & FLEXNER, LLP\nBY: SIGRID STONE McCAWLEY, ESQUIRE\n401 East Las Olas Boulevard\nSuite 1200\nFort Lauderdale, Florida 33301\nTel: 954.356.0011\nFax: 954.356.0022\nE-mail: smccawley@bsfllp.com\nOn behalf of the Defendant:\nWILEY REIN LLP\nBY: RICHARD A. SIMPSON, ESQUIRE\nAND: NICOLE A. RICHARDSON, ESQUIRE\n1776 K Street Northwest\nWashington, DC 20006\nTel: 202.719.7000\nFax: 202.719.7049\nE-mail: rsimpson@wileyrein.com\nAlso on behalf of the Defendant:\nCOLE, SCOTT & KISSANE, P.A.\nBY: THOMAS EMERSON SCOTT, JR., ESQUIRE\n9150 South Dadeland Boulevard\nDadeland Centre II - Suite 1400\nMiami, Florida 33156\nTel: 305.350.5329\nFax: 305.373.2294\nE-mail: thomas.scott@csklegal.com\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400",
+        "type": "printed"
+      },
+      {
+        "region": "page_3_body",
+        "text": "APPEARANCES CONTINUED\nAlso on behalf of the Defendant:\nSWEDER & ROSS, LLP\nBY: KENNETH A. SWEDER, ESQUIRE\n131 Oliver Street\nBoston, Massachusetts 02110\nTel: 617.646.4466\nFax: 617.646.4470\nE-mail: ksweder@sweder-ross.com\nOn behalf of the Witness:\nUTAH ATTORNEY GENERAL'S OFFICE, P.A.\nBY: JONI J. JONES, ASSISTANT\nATTORNEY GENERAL, Litigation Division\n160 East 300 South\nHeber Wells Building - 6th Floor\nSalt Lake City, Utah 84114\nTel: 801.366.0100\nFax: 801.366.0101\nE-mail: jonijones@utah.gov\nTelephonically on behalf of Jeffrey Epstein:\nDARREN K. INDYKE, PLLC\nBY: DARREN K. INDYKE, ESQUIRE\n575 Lexington Avenue\n4th Floor\nNew York, New York 10022\nTel: 212.971.1314\nAlso Present:\nDON SAVOY, Videographer\nBRADLEY J. EDWARDS\nALAN M. DERSHOWITZ\nCAROLYN COHEN\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400",
+        "type": "printed"
+      },
+      {
+        "region": "page_4_body",
+        "text": "INDEX OF EXAMINATION\nWITNESS PAGE\nPAUL G. CASSELL\nDIRECT EXAMINATION 6\nBY MR. SIMPSON\nINDEX TO EXHIBITS\nEXHIBIT DESCRIPTION PAGE\nCassell I.D. Exhibit No. 1 - Plaintiff's 21\nResponse to Motion for Limited Intervention\nby Alan M. Dershowitz\nCassell I.D. Exhibit No. 2 - Jane Doe 22\nNumber 3 and Jane Doe Number 4's Motion\nPursuant to Rule 21 for Joinder in Action\nCassell I.D. Exhibit No. 3 - one-page 106\ndocument produced by the witness\n(Original Exhibits have been attached to the\noriginal transcript.)\nESQUIRE DEPOSITION SOLUTIONS\n(954) 331-4400",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "1 of 38 sheets\nPage 1 to 4 of 151\n10/20/2015 01:07:28 PM\nHOUSE_OVERSIGHT_010824",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-16",
+      "2015-10-20"
+    ],
+    "people": [
+      "BRADLEY J. EDWARDS",
+      "PAUL G. CASSELL",
+      "ALAN M. DERSHOWITZ",
+      "Theresa Tomaselli",
+      "JOHN SCAROLA",
+      "Virginia Roberts",
+      "SIGRID STONE McCAWLEY",
+      "RICHARD A. SIMPSON",
+      "NICOLE A. RICHARDSON",
+      "THOMAS EMERSON SCOTT, JR.",
+      "KENNETH A. SWEDER",
+      "JONI J. JONES",
+      "Jeffrey Epstein",
+      "DARREN K. INDYKE",
+      "DON SAVOY",
+      "CAROLYN COHEN",
+      "MR. SIMPSON"
+    ],
+    "organizations": [
+      "IN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA",
+      "ESQUIRE DEPOSITION SOLUTIONS",
+      "SEARCY DENNEY SCAROLA BARNHART & SHIPLEY, P.A.",
+      "BOIES, SCHILLER & FLEXNER, LLP",
+      "WILEY REIN LLP",
+      "COLE, SCOTT & KISSANE, P.A.",
+      "SWEDER & ROSS, LLP",
+      "UTAH ATTORNEY GENERAL'S OFFICE, P.A.",
+      "DARREN K. INDYKE, PLLC"
+    ],
+    "locations": [
+      "BROWARD COUNTY, FLORIDA",
+      "Fort Lauderdale, Florida",
+      "West Palm Beach, Florida",
+      "Washington, DC",
+      "Miami, Florida",
+      "Boston, Massachusetts",
+      "Salt Lake City, Utah",
+      "New York, New York"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010824"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(954) 331-4400",
+        "561.686.6300",
+        "561.383.9541",
+        "954.356.0011",
+        "954.356.0022",
+        "202.719.7000",
+        "202.719.7049",
+        "305.350.5329",
+        "305.373.2294",
+        "617.646.4466",
+        "617.646.4470",
+        "801.366.0100",
+        "801.366.0101",
+        "212.971.1314"
+      ],
+      "email_addresses": [
+        "mep@searcylaw.com",
+        "smccawley@bsfllp.com",
+        "rsimpson@wileyrein.com",
+        "thomas.scott@csklegal.com",
+        "ksweder@sweder-ross.com",
+        "jonijones@utah.gov"
+      ],
+      "addresses": [
+        "110 Southeast 6th Street, 110 Tower - Suite 1850, Fort Lauderdale, Florida 33301",
+        "2139 Palm Beach Lakes Boulevard, West Palm Beach, Florida 33409",
+        "401 East Las Olas Boulevard, Suite 1200, Fort Lauderdale, Florida 33301",
+        "1776 K Street Northwest, Washington, DC 20006",
+        "9150 South Dadeland Boulevard, Dadeland Centre II - Suite 1400, Miami, Florida 33156",
+        "131 Oliver Street, Boston, Massachusetts 02110",
+        "160 East 300 South, Heber Wells Building - 6th Floor, Salt Lake City, Utah 84114",
+        "575 Lexington Avenue, 4th Floor, New York, New York 10022"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010824"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "deposition_transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Videotaped Deposition of Paul G. Cassell",
+    "date": "2015-10-16",
+    "references": [
+      "CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.985
+  },
+  "notes": "The image is a composite of the first four pages of the deposition transcript, not a single page. All information has been extracted from these four pages.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010824.jpg",
+  "house_oversight_id": "010824",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:51:53.957405Z",
+    "model": "gemini-2.5-pro"
+  }
+}
