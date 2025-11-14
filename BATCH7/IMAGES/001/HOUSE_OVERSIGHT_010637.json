@@ -1,0 +1,123 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010637.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a financial disclosure form titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The page is numbered 21 of 51 and contains a table listing various assets, their values, and income generated. The document has a footer with explanatory text and a Bates number 'HOUSE_OVERSIGHT_010637'.",
+    "layout": "The document has a header with the filer's name and page number. The main body is a table with seven columns. A footer section contains a paragraph of text and a document identifier at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n21 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n087\nTRUMP MARKS WAIKIKI LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with IRONGATE AZREP\nBW LLC - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n391\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n090\nTRUMP MIAMI RESORT MANAGEMENT LLC\nValue reported reflects bank account holding only.\nManagement company - value not readily ascertainable, Miami, FL;\nSee attached schedule\nN/A\n396\n$1,000,001 - $5,000,000\nNone (or less than $201)\n091\nTRUMP MODEL MANAGEMENT LLC\nValue reported reflects bank account holding only.\nModeling agency - value not readily ascertainable, New York, NY;\nSee attached schedule\nN/A\n398\n$250,001 - $500,000\ncommissions\n$1,870,632\n092\nTRUMP NATIONAL GOLF CLUB - COLTS NECK\nUnderlying Assets: golf club\nLocation: Colts Neck, NJ\nSee attached schedule\nN/A\n399\nOver $50,000,000\ngolf related revenue\n$7,708,047\n093\nTRUMP NATIONAL GOLF CLUB - WESTCHESTER\nUnderlying Assets: golf club\nLocation: Briarcliff Manor, NY\nSee attached schedule\nN/A\n401\nOver $50,000,000\ngolf related revenue\n$9,771,428\n094\nTRUMP NATIONAL GOLF CLUB - WASHINGTON DC\nUnderlying Assets: golf club\nLocation: Potomac Falls, VA\nSee attached schedule\nN/A\n403\nOver $50,000,000\ngolf related revenue\n$17,508,270\n095\nTRUMP OLD POST OFFICE LLC\nUnderlying Assets: hotel\nLocation: Washington, DC\nSee attached schedule\nN/A\n408\nOver $50,000,000\nhotel related revenue\n$19,666,129\n097\nMiss Universe L.P., LLLP\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nSee attached schedule\nN/A\n413\n$50,001 - $100,000\nbeauty pageant related revenue\n$10,973,722\n098\nTRUMP PALACE/PARC LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n414\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010637",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n21 of 51\nPart 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n087\nTRUMP MARKS WAIKIKI LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with IRONGATE AZREP\nBW LLC - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n391\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n090\nTRUMP MIAMI RESORT MANAGEMENT LLC\nValue reported reflects bank account holding only.\nManagement company - value not readily ascertainable, Miami, FL;\nSee attached schedule\nN/A\n396\n$1,000,001 - $5,000,000\nNone (or less than $201)\n091\nTRUMP MODEL MANAGEMENT LLC\nValue reported reflects bank account holding only.\nModeling agency - value not readily ascertainable, New York, NY;\nSee attached schedule\nN/A\n398\n$250,001 - $500,000\ncommissions\n$1,870,632\n092\nTRUMP NATIONAL GOLF CLUB - COLTS NECK\nUnderlying Assets: golf club\nLocation: Colts Neck, NJ\nSee attached schedule\nN/A\n399\nOver $50,000,000\ngolf related revenue\n$7,708,047\n093\nTRUMP NATIONAL GOLF CLUB - WESTCHESTER\nUnderlying Assets: golf club\nLocation: Briarcliff Manor, NY\nSee attached schedule\nN/A\n401\nOver $50,000,000\ngolf related revenue\n$9,771,428\n094\nTRUMP NATIONAL GOLF CLUB - WASHINGTON DC\nUnderlying Assets: golf club\nLocation: Potomac Falls, VA\nSee attached schedule\nN/A\n403\nOver $50,000,000\ngolf related revenue\n$17,508,270\n095\nTRUMP OLD POST OFFICE LLC\nUnderlying Assets: hotel\nLocation: Washington, DC\nSee attached schedule\nN/A\n408\nOver $50,000,000\nhotel related revenue\n$19,666,129\n097\nMiss Universe L.P., LLLP\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nSee attached schedule\nN/A\n413\n$50,001 - $100,000\nbeauty pageant related revenue\n$10,973,722\n098\nTRUMP PALACE/PARC LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n414\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010637",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS WAIKIKI LLC",
+      "IRONGATE AZREP BW LLC",
+      "TRUMP MIAMI RESORT MANAGEMENT LLC",
+      "TRUMP MODEL MANAGEMENT LLC",
+      "TRUMP NATIONAL GOLF CLUB - COLTS NECK",
+      "TRUMP NATIONAL GOLF CLUB - WESTCHESTER",
+      "TRUMP NATIONAL GOLF CLUB - WASHINGTON DC",
+      "TRUMP OLD POST OFFICE LLC",
+      "Miss Universe L.P., LLLP",
+      "TRUMP PALACE/PARC LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Miami, FL",
+      "Colts Neck, NJ",
+      "Briarcliff Manor, NY",
+      "Potomac Falls, VA",
+      "Washington, DC"
+    ],
+    "document_numbers": [
+      "21 of 51",
+      "HOUSE_OVERSIGHT_010637",
+      "391",
+      "396",
+      "398",
+      "399",
+      "401",
+      "403",
+      "408",
+      "413",
+      "414"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$100,001 - $1,000,000",
+      "$1,000,001 - $5,000,000",
+      "None (or less than $201)",
+      "$250,001 - $500,000",
+      "$1,870,632",
+      "Over $50,000,000",
+      "$7,708,047",
+      "$9,771,428",
+      "$17,508,270",
+      "$19,666,129",
+      "$50,001 - $100,000",
+      "$10,973,722",
+      "$100,001 - $1,000,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010637"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The table contains several rows with financial data related to various LLCs and organizations associated with the filer. The footer indicates that the information is current as of April 15, 2017.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010637.jpg",
+  "house_oversight_id": "010637",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:03:33.687773Z",
+    "model": "gemini-2.5-pro"
+  }
+}

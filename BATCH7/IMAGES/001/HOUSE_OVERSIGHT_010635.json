@@ -1,0 +1,143 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010635.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a financial disclosure form titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The page is numbered 19 of 51 and contains a table listing various assets, their values, and the income generated from them. A Bates number 'HOUSE_OVERSIGHT_010635' is visible at the bottom right.",
+    "layout": "The document has a header with the filer's name and the form part title. The main content is a table with seven columns. A footer contains a note about an accompanying schedule and a page number in the top right corner. A document identifier is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n19 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n066\nTRUMP GOLF ACQUISITIONS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nEntity set up to sign letters of intent for golf related deals, New York, NY; See attached\nschedule\nN/A\n287\n$1,001 - $15,000\ngolf related revenue\n$17,539\n067\nTRUMP HOME MARKS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with DOWNLITE\nINTERNATIONAL INC, GOURMET HOME PRODUCTS LLC,\nNORTHPOINT TRADING LLC, SIGN OF TIMES INC, TPS SAS -\nvalue not readily ascertainable.\nLicense holder, New York, NY\nSee attached schedule\nN/A\n291\nNone (or less than $1,001)\nroyalties\n$15,001 - $50,000\n068\nTRUMP ICE LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: wholesale company - value not readily\nascertainable. Water wholesaler, New York, NY; See attached schedule\nN/A\n294\n$1,001 - $15,000\nsales\n$396,161\n069\nTRUMP INTERNATIONAL GOLF LINKS - SCOTLAND\nUnderlying Assets: golf course\nLocation: Aberdeen, Scotland\nSee attached schedule\nN/A\n297\nOver $50,000,000\ngolf related revenue\n$3,803,033\n070\nTRUMP INTERNATIONAL GOLF CLUB - FLORIDA\nUnderlying Assets: golf club\nLocation: West Palm Beach, FL\nSee attached schedule\nN/A\n299\n$25,000,001 - $50,000,000\ngolf related revenue\n$18,411,472\n071\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management and license agreements\nwith IRONGATE AZREP BW LLC - value not readily ascertainable.\nLicense holder, Waikiki, HI\nSee attached schedule\nN/A\n300\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\nmanagement fees\n$2,538,973\n072\nTRUMP INTERNATIONAL HOTELS MANAGEMENT LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nN/A\n301\nOver $50,000,000\nmanagement fees\n$2,888,093\n073\nTRUMP LAS VEGAS DEVELOPMENT LLC\nUnderlying Assets: development deal with TRUMP RUFFIN TOWER I LLC. Entity\nset up to receive development fees, Las Vegas, NV; See attached schedule\nN/A\n308\n$1,000,001 - $5,000,000\ndevelopment fees\n$8,154,142\n074\nTRUMP LAS VEGAS MEMBER LLC\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. Las Vegas, NV\nN/A\n310\nNone (or less than $1,001)\nsponsor fee\n$2,631,300\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010635",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n19 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n066\nTRUMP GOLF ACQUISITIONS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nEntity set up to sign letters of intent for golf related deals, New York, NY; See attached\nschedule\nN/A\n287\n$1,001 - $15,000\ngolf related revenue\n$17,539\n067\nTRUMP HOME MARKS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with DOWNLITE\nINTERNATIONAL INC, GOURMET HOME PRODUCTS LLC,\nNORTHPOINT TRADING LLC, SIGN OF TIMES INC, TPS SAS -\nvalue not readily ascertainable.\nLicense holder, New York, NY\nSee attached schedule\nN/A\n291\nNone (or less than $1,001)\nroyalties\n$15,001 - $50,000\n068\nTRUMP ICE LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: wholesale company - value not readily\nascertainable. Water wholesaler, New York, NY; See attached schedule\nN/A\n294\n$1,001 - $15,000\nsales\n$396,161\n069\nTRUMP INTERNATIONAL GOLF LINKS - SCOTLAND\nUnderlying Assets: golf course\nLocation: Aberdeen, Scotland\nSee attached schedule\nN/A\n297\nOver $50,000,000\ngolf related revenue\n$3,803,033\n070\nTRUMP INTERNATIONAL GOLF CLUB - FLORIDA\nUnderlying Assets: golf club\nLocation: West Palm Beach, FL\nSee attached schedule\nN/A\n299\n$25,000,001 - $50,000,000\ngolf related revenue\n$18,411,472\n071\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management and license agreements\nwith IRONGATE AZREP BW LLC - value not readily ascertainable.\nLicense holder, Waikiki, HI\nSee attached schedule\nN/A\n300\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\nmanagement fees\n$2,538,973\n072\nTRUMP INTERNATIONAL HOTELS MANAGEMENT LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nN/A\n301\nOver $50,000,000\nmanagement fees\n$2,888,093\n073\nTRUMP LAS VEGAS DEVELOPMENT LLC\nUnderlying Assets: development deal with TRUMP RUFFIN TOWER I LLC. Entity\nset up to receive development fees, Las Vegas, NV; See attached schedule\nN/A\n308\n$1,000,001 - $5,000,000\ndevelopment fees\n$8,154,142\n074\nTRUMP LAS VEGAS MEMBER LLC\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. Las Vegas, NV\nN/A\n310\nNone (or less than $1,001)\nsponsor fee\n$2,631,300",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010635",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP GOLF ACQUISITIONS LLC",
+      "TRUMP HOME MARKS LLC",
+      "DOWNLITE INTERNATIONAL INC",
+      "GOURMET HOME PRODUCTS LLC",
+      "NORTHPOINT TRADING LLC",
+      "SIGN OF TIMES INC",
+      "TPS SAS",
+      "TRUMP ICE LLC",
+      "TRUMP INTERNATIONAL GOLF LINKS - SCOTLAND",
+      "TRUMP INTERNATIONAL GOLF CLUB - FLORIDA",
+      "TRUMP INTERNATIONAL HOTEL HAWAII LLC",
+      "IRONGATE AZREP BW LLC",
+      "TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC",
+      "TRUMP LAS VEGAS DEVELOPMENT LLC",
+      "TRUMP RUFFIN TOWER I LLC",
+      "TRUMP LAS VEGAS MEMBER LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Aberdeen, Scotland",
+      "West Palm Beach, FL",
+      "Waikiki, HI",
+      "Las Vegas, NV"
+    ],
+    "document_numbers": [
+      "19 of 51",
+      "HOUSE_OVERSIGHT_010635",
+      "287",
+      "291",
+      "294",
+      "297",
+      "299",
+      "300",
+      "301",
+      "308",
+      "310"
+    ],
+    "financial_amounts": [
+      "$1,001 - $15,000",
+      "$17,539",
+      "None (or less than $1,001)",
+      "$15,001 - $50,000",
+      "$1,001 - $15,000",
+      "$396,161",
+      "Over $50,000,000",
+      "$3,803,033",
+      "$25,000,001 - $50,000,000",
+      "$18,411,472",
+      "$1,001 - $15,000",
+      "$100,001 - $1,000,000",
+      "$2,538,973",
+      "Over $50,000,000",
+      "$2,888,093",
+      "$1,000,001 - $5,000,000",
+      "$8,154,142",
+      "None (or less than $1,001)",
+      "$2,631,300"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010635"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form, likely part of a larger report. The footer indicates that the information is as of April 15, 2017, and refers to an accompanying schedule (Part 2 - Exhibit A) for more details.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010635.jpg",
+  "house_oversight_id": "010635",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:02:26.706318Z",
+    "model": "gemini-2.5-pro"
+  }
+}

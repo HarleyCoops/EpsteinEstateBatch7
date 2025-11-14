@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010636.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The document is a table listing various assets, their values, and income generated. It is page 20 of 51.",
+    "layout": "The document has a header with the filer's name and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type.', and 'Income Amount'. A footer contains a note about an accompanying schedule and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n20 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type.\nIncome Amount\n076\nTRUMP MARKS ASIA LLC\nUnderlying Assets: residential real estate\nLocation: Sterling, VA\nSee attached schedule\nN/A\n316\n$500,001 - $1,000,000\nNone (or less than $201)\n078\nTRUMP MARKS ISTANBUL II LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with ORTADOGU\nOTOMOTIV TICARET AS - value not readily ascertainable.\nLicense holder, New York, NY\nSee attached schedule\nN/A\n342\n$15,001 - $50,000\nroyalties\n$1,000,001 - $5,000,000\n079\nTRUMP MARKS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with ELK LIGHTING INC -\nvalue not readily ascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n347\n$15,001 - $50,000\nroyalties\n$50,001 - $100,000\n080\nTRUMP MARKS MATTRESS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with SERTA - value not\nreadily ascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n350\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n081\nTRUMP MARKS MENSWEAR LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with PVH CORP,\nPEERLESS CLOTHING INTERNATIONAL, PARLUX LTD,\nOXFORD OPHTHALMIC, RANDA ACCESSORIES - value not readily\nascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n352\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n082\nTRUMP MARKS NEW ROCHELLE LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with NEW ROC PARCEL\n1A LLC - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n359\nNone (or less than $1,001)\nroyalties\n$5,001 - $15,000\n083\nTRUMP MARKS PANAMA LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with K GROUP\nDEVELOPERS INC - value not readily ascertainable. License\nholder, New York, NY\nSee attached schedule\nN/A\n363\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010636",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n20 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type.\nIncome Amount\n076\nTRUMP MARKS ASIA LLC\nUnderlying Assets: residential real estate\nLocation: Sterling, VA\nSee attached schedule\nN/A\n316\n$500,001 - $1,000,000\nNone (or less than $201)\n078\nTRUMP MARKS ISTANBUL II LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with ORTADOGU\nOTOMOTIV TICARET AS - value not readily ascertainable.\nLicense holder, New York, NY\nSee attached schedule\nN/A\n342\n$15,001 - $50,000\nroyalties\n$1,000,001 - $5,000,000\n079\nTRUMP MARKS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with ELK LIGHTING INC -\nvalue not readily ascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n347\n$15,001 - $50,000\nroyalties\n$50,001 - $100,000\n080\nTRUMP MARKS MATTRESS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with SERTA - value not\nreadily ascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n350\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n081\nTRUMP MARKS MENSWEAR LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with PVH CORP,\nPEERLESS CLOTHING INTERNATIONAL, PARLUX LTD,\nOXFORD OPHTHALMIC, RANDA ACCESSORIES - value not readily\nascertainable. License holder, New York, NY\nSee attached schedule\nN/A\n352\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000\n082\nTRUMP MARKS NEW ROCHELLE LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with NEW ROC PARCEL\n1A LLC - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n359\nNone (or less than $1,001)\nroyalties\n$5,001 - $15,000\n083\nTRUMP MARKS PANAMA LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with K GROUP\nDEVELOPERS INC - value not readily ascertainable. License\nholder, New York, NY\nSee attached schedule\nN/A\n363\nNone (or less than $1,001)\nroyalties\n$100,001 - $1,000,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010636",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS ASIA LLC",
+      "TRUMP MARKS ISTANBUL II LLC",
+      "ORTADOGU OTOMOTIV TICARET AS",
+      "TRUMP MARKS LLC",
+      "ELK LIGHTING INC",
+      "TRUMP MARKS MATTRESS LLC",
+      "SERTA",
+      "TRUMP MARKS MENSWEAR LLC",
+      "PVH CORP",
+      "PEERLESS CLOTHING INTERNATIONAL",
+      "PARLUX LTD",
+      "OXFORD OPHTHALMIC",
+      "RANDA ACCESSORIES",
+      "TRUMP MARKS NEW ROCHELLE LLC",
+      "NEW ROC PARCEL 1A LLC",
+      "TRUMP MARKS PANAMA LLC",
+      "K GROUP DEVELOPERS INC"
+    ],
+    "locations": [
+      "Sterling, VA",
+      "New York, NY"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010636",
+      "20 of 51",
+      "316",
+      "342",
+      "347",
+      "350",
+      "352",
+      "359",
+      "363"
+    ],
+    "financial_amounts": [
+      "$500,001 - $1,000,000",
+      "None (or less than $201)",
+      "$15,001 - $50,000",
+      "$1,000,001 - $5,000,000",
+      "$50,001 - $100,000",
+      "None (or less than $1,001)",
+      "$100,001 - $1,000,000",
+      "$5,001 - $15,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Sterling, VA",
+        "New York, NY"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document shows a gap in the item numbering, jumping from 076 to 078. The footer explains that gaps are due to the removal of previously reported items.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010636.jpg",
+  "house_oversight_id": "010636",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:02:59.979677Z",
+    "model": "gemini-2.5-pro"
+  }
+}

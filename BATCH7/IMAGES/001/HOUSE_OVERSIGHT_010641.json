@@ -1,0 +1,140 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010641.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The document is a table listing various assets, their values, and the income they generate. It is page 25 of 51 and has a document identifier 'HOUSE_OVERSIGHT_010641' at the bottom right.",
+    "layout": "The document has a header with the filer's name and page number, a main body consisting of a table with seven columns, and a footer with a disclaimer note. The table rows are numbered and contain descriptions of assets and financial data.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n25 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n137\nTRUMP MARKS PHILIPPINES LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with CENTURY CITY\nDEVELOPMENT CORP - value not readily ascertainable. License\nholder, New York, NY\nSee attached schedule\nN/A\n367\n$1,001 - $15,000\nroyalties\n$1,000,001 - $5,000,000\n139\nTRUMP MARKS STAMFORD LLC\nUnderlying Assets: license deal\nLicensee(s): 33 BROAD STREET ASSOCIATES II\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n380\nroyalties\n$100,001 - $1,000,000\n140\nTRUMP MARKS SUNNY ISLES I LLC\nUnderlying Assets: license deal\nLicensee(s): MICHAEL DEZER & NAOMI DEZERTOV\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n381\nroyalties\n$100,001 - $1,000,000\n141\nTRUMP PANAMA HOTEL MANAGEMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management agreement - value not\nreadily ascertainable. New York, NY\nSee attached schedule\nN/A\n417\n$15,001 - $50,000\nmanagement fees\n$810,795\n142\nTRUMP TORONTO HOTEL MANAGEMENT CORP\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with TALON\nINTERNATIONAL INC - value not readily ascertainable.\nManagement company, New York, NY; See attached schedule.\nN/A\n442\n$1,001 - $15,000\nmanagement fees\n$559,904\n143\nTW VENTURE I LLC\ntransportation services\nLocation: Palm Beach, FL\nSee attached schedule\nValue not readily ascertainable\nN/A\n462\noperating income\n$185,601\n144\nTrump Management Inc.\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable\nLocation: Manhasset, NY\nSee attached schedule\nN/A\n480\n$15,001 - $50,000\nmanagement fees\n$30,000\n145\nRITZ CARLTON HOTEL AT 112 CENTRAL PARK SOUTH N/K/A\nDT VENTURE II LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management agreement - value not\nreadily ascertainable.\nLocation: New York, NY\nN/A\n535\n$15,001 - $50,000\nmanagement fees\n$268,125\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010641",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n25 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "table_header",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount",
+        "type": "printed"
+      },
+      {
+        "region": "table_body",
+        "text": "137\nTRUMP MARKS PHILIPPINES LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with CENTURY CITY\nDEVELOPMENT CORP - value not readily ascertainable. License\nholder, New York, NY\nSee attached schedule\nN/A\n367\n$1,001 - $15,000\nroyalties\n$1,000,001 - $5,000,000\n139\nTRUMP MARKS STAMFORD LLC\nUnderlying Assets: license deal\nLicensee(s): 33 BROAD STREET ASSOCIATES II\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n380\nroyalties\n$100,001 - $1,000,000\n140\nTRUMP MARKS SUNNY ISLES I LLC\nUnderlying Assets: license deal\nLicensee(s): MICHAEL DEZER & NAOMI DEZERTOV\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n381\nroyalties\n$100,001 - $1,000,000\n141\nTRUMP PANAMA HOTEL MANAGEMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management agreement - value not\nreadily ascertainable. New York, NY\nSee attached schedule\nN/A\n417\n$15,001 - $50,000\nmanagement fees\n$810,795\n142\nTRUMP TORONTO HOTEL MANAGEMENT CORP\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with TALON\nINTERNATIONAL INC - value not readily ascertainable.\nManagement company, New York, NY; See attached schedule.\nN/A\n442\n$1,001 - $15,000\nmanagement fees\n$559,904\n143\nTW VENTURE I LLC\ntransportation services\nLocation: Palm Beach, FL\nSee attached schedule\nValue not readily ascertainable\nN/A\n462\noperating income\n$185,601\n144\nTrump Management Inc.\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable\nLocation: Manhasset, NY\nSee attached schedule\nN/A\n480\n$15,001 - $50,000\nmanagement fees\n$30,000\n145\nRITZ CARLTON HOTEL AT 112 CENTRAL PARK SOUTH N/K/A\nDT VENTURE II LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management agreement - value not\nreadily ascertainable.\nLocation: New York, NY\nN/A\n535\n$15,001 - $50,000\nmanagement fees\n$268,125",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010641",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "MICHAEL DEZER",
+      "NAOMI DEZERTOV"
+    ],
+    "organizations": [
+      "TRUMP MARKS PHILIPPINES LLC",
+      "CENTURY CITY DEVELOPMENT CORP",
+      "TRUMP MARKS STAMFORD LLC",
+      "33 BROAD STREET ASSOCIATES II",
+      "TRUMP MARKS SUNNY ISLES I LLC",
+      "TRUMP PANAMA HOTEL MANAGEMENT LLC",
+      "TRUMP TORONTO HOTEL MANAGEMENT CORP",
+      "TALON INTERNATIONAL INC",
+      "TW VENTURE I LLC",
+      "Trump Management Inc.",
+      "RITZ CARLTON HOTEL AT 112 CENTRAL PARK SOUTH N/K/A DT VENTURE II LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Palm Beach, FL",
+      "Manhasset, NY"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010641",
+      "25 of 51",
+      "367",
+      "380",
+      "381",
+      "417",
+      "442",
+      "462",
+      "480",
+      "535"
+    ],
+    "financial_amounts": [
+      "$1,001 - $15,000",
+      "$1,000,001 - $5,000,000",
+      "$100,001 - $1,000,000",
+      "$100,001 - $1,000,000",
+      "$15,001 - $50,000",
+      "$810,795",
+      "$1,001 - $15,000",
+      "$559,904",
+      "$185,601",
+      "$15,001 - $50,000",
+      "$30,000",
+      "$15,001 - $50,000",
+      "$268,125"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "New York, NY",
+        "Palm Beach, FL",
+        "Manhasset, NY"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010641"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document shows a gap in the numerical sequence of items (137, 139, 140...), which is explained in the footer note.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010641.jpg",
+  "house_oversight_id": "010641",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:05:55.737565Z",
+    "model": "gemini-2.5-pro"
+  }
+}

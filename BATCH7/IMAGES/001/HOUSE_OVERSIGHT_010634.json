@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010634.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a financial disclosure document titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The document is a table listing various assets, their values, and the income they generate. It is page 18 of 51 and has a document identifier 'HOUSE_OVERSIGHT_010634' at the bottom.",
+    "layout": "The document has a header containing the filer's name and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule Reference #', 'Value', 'Income Type', and 'Income Amount'. A footer contains a note about an accompanying schedule and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n18 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n051\nTRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nUnderlying Assets: golf club\nLocation: Pine Hill, NJ\nSee attached schedule\nN/A\n229\n$5,000,001 - $25,000,000\ngolf related revenue\n$5,258,866\n052\nTRUMP 106 CPS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nLocation: New York, NY; See attached schedule\nN/A\n234\n$15,001 - $50,000\nNone (or less than $201)\n055\nTRUMP 845 UN MGR CORP\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. New York, NY.\nN/A\n237\n$1,001 - $15,000\nNone (or less than $201)\n057\nTRUMP BOOKS LLC\nTHE MIDAS TOUCH\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: book deal with Plata Publishing LLC -\nvalue not readily ascertainable.\nHolder of book contract, New York, NY.\nSee attached schedule\n(Published 2011)\nN/A\n243\nNone (or less than $1,001)\nroyalties\n$5,001 - $15,000\n059\nTRUMP CAROUSEL LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: operating agreement with NEW YORK\nCITY DEPARTMENT OF PARKS & RECREATION - value not\nreadily ascertainable.\nCarousel operator, New York, NY.\nSee attached schedule\nN/A\n250\n$15,001 - $50,000\nadmissions\n$671,728\n061\nTRUMP CPS LLC\nUnderlying Assets: commercial and residential real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n269\n$25,000,001 - $50,000,000\nrent\n$1,000,001 - $5,000,000\ncondo sales\n$3,170,000\n064\nTRUMP NATIONAL DORAL\nUnderlying Assets: golf courses & resort\nLocation: Miami, FL\nSee attached schedule\nN/A\n279\nOver $50,000,000\ngolf resort related\nrevenues\n$115,865,590\n065\nTRUMP FERRY POINT LLC\nUnderlying Assets: operating agreement with NEW YORK CITY\nDEPARTMENT OF PARKS & RECREATION - golf course\nLocation: New York, NY\nSee attached schedule\n(Opening Day: April 1, 2015)\nN/A\n283\n$5,000,001 - $25,000,000\ngolf related revenue\n$7,300,157\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010634",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n18 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n051\nTRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nUnderlying Assets: golf club\nLocation: Pine Hill, NJ\nSee attached schedule\nN/A\n229\n$5,000,001 - $25,000,000\ngolf related revenue\n$5,258,866\n052\nTRUMP 106 CPS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nLocation: New York, NY; See attached schedule\nN/A\n234\n$15,001 - $50,000\nNone (or less than $201)\n055\nTRUMP 845 UN MGR CORP\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. New York, NY.\nN/A\n237\n$1,001 - $15,000\nNone (or less than $201)\n057\nTRUMP BOOKS LLC\nTHE MIDAS TOUCH\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: book deal with Plata Publishing LLC -\nvalue not readily ascertainable.\nHolder of book contract, New York, NY.\nSee attached schedule\n(Published 2011)\nN/A\n243\nNone (or less than $1,001)\nroyalties\n$5,001 - $15,000\n059\nTRUMP CAROUSEL LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: operating agreement with NEW YORK\nCITY DEPARTMENT OF PARKS & RECREATION - value not\nreadily ascertainable.\nCarousel operator, New York, NY.\nSee attached schedule\nN/A\n250\n$15,001 - $50,000\nadmissions\n$671,728\n061\nTRUMP CPS LLC\nUnderlying Assets: commercial and residential real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n269\n$25,000,001 - $50,000,000\nrent\n$1,000,001 - $5,000,000\ncondo sales\n$3,170,000\n064\nTRUMP NATIONAL DORAL\nUnderlying Assets: golf courses & resort\nLocation: Miami, FL\nSee attached schedule\nN/A\n279\nOver $50,000,000\ngolf resort related\nrevenues\n$115,865,590\n065\nTRUMP FERRY POINT LLC\nUnderlying Assets: operating agreement with NEW YORK CITY\nDEPARTMENT OF PARKS & RECREATION - golf course\nLocation: New York, NY\nSee attached schedule\n(Opening Day: April 1, 2015)\nN/A\n283\n$5,000,001 - $25,000,000\ngolf related revenue\n$7,300,157",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010634",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2011",
+      "2015-04-01",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP NATIONAL GOLF CLUB - PHILADELPHIA",
+      "TRUMP 106 CPS LLC",
+      "TRUMP 845 UN MGR CORP",
+      "TRUMP BOOKS LLC",
+      "Plata Publishing LLC",
+      "TRUMP CAROUSEL LLC",
+      "NEW YORK CITY DEPARTMENT OF PARKS & RECREATION",
+      "TRUMP CPS LLC",
+      "TRUMP NATIONAL DORAL",
+      "TRUMP FERRY POINT LLC"
+    ],
+    "locations": [
+      "Pine Hill, NJ",
+      "New York, NY",
+      "Miami, FL"
+    ],
+    "document_numbers": [
+      "18 of 51",
+      "229",
+      "234",
+      "237",
+      "243",
+      "250",
+      "269",
+      "279",
+      "283",
+      "HOUSE_OVERSIGHT_010634"
+    ],
+    "financial_amounts": [
+      "$5,000,001 - $25,000,000",
+      "$5,258,866",
+      "$15,001 - $50,000",
+      "None (or less than $201)",
+      "$1,001 - $15,000",
+      "None (or less than $1,001)",
+      "$5,001 - $15,000",
+      "$15,001 - $50,000",
+      "$671,728",
+      "$25,000,001 - $50,000,000",
+      "$1,000,001 - $5,000,000",
+      "$3,170,000",
+      "Over $50,000,000",
+      "$115,865,590",
+      "$5,000,001 - $25,000,000",
+      "$7,300,157"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Pine Hill, NJ",
+        "New York, NY",
+        "Miami, FL"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 2: Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A",
+      "HOUSE_OVERSIGHT_010634"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The footer indicates that the information is reported as of April 15, 2017. Gaps in the numerical sequence of item numbers (e.g., from 052 to 055) are explained in the footer.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010634.jpg",
+  "house_oversight_id": "010634",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:01:50.973483Z",
+    "model": "gemini-2.5-pro"
+  }
+}

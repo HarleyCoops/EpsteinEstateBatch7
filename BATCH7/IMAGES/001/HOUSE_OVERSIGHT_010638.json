@@ -1,0 +1,139 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010638.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a scanned document, specifically a page from a financial disclosure form. The page is titled 'Part 2: Filer's Employment Assets and Income' and lists various assets held by Donald J. Trump. The main content is a table detailing the description, value, income type, and income amount for each asset.",
+    "layout": "The document has a header containing the filer's name and page number. The main body consists of a multi-column table. A footer contains a note about an accompanying schedule and a document control number in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n22 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n099\nTRUMP PARK AVENUE LLC\nUnderlying Assets: residential & commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n420\nOver $50,000,000\nrent\nOver $5,000,000\n100\nTRUMP PLAZA LLC\nUnderlying Assets: residential & commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n424\n$25,000,001 - $50,000,000\ncondo sales\nrent\n$29,943,500\n$1,000,001 - $5,000,000\n101\nTRUMP PRODUCTIONS LLC\nUnderlying Assets: production company\nLocation: New York, NY\nSee attached schedule\nN/A\n426\n$1,000,001 - $5,000,000\nproduction revenue\n$1,103,161\n103\nTrump Restaurants LLC\nUnderlying Assets: restaurant\nLocation: New York, NY\nSee attached schedule\nN/A\n430\n$1,000,001 - $5,000,000\nfood & beverage related sales\n$4,830,768\n104\nTRUMP RUFFIN TOWER I LLC\nUnderlying Assets: commercial real estate\nLocation: Las Vegas, NV\nSee attached schedule\nN/A\n434\nOver $50,000,000\ncondo sales\nhotel related revenue\n$10,683,900\n$30,835,137\n106\nTRUMP SCOTSBOROUGH SQUARE LLC\nUnderlying Assets: residential real estate\nLocation: Scotsborough Square, VA\nSee attached schedule\nN/A\n438\n$500,001 - $1,000,000\nrent\n$5,001 - $15,000\n108\nTRUMP TOWER COMMERCIAL LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n444\nOver $50,000,000\nrent\nOver $5,000,000\n109\nTRUMP TOWER MANAGING MEMBER INC.\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. New York, NY\nN/A\n445\n$1,001 - $15,000\nNone (or less than $201)\n110\nTRUMP VINEYARD ESTATES LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n447\n$5,000,001 - $25,000,000\nrent\n$100,001 - $1,000,000\n111\nTRUMP VINEYARD ESTATES LOT 3 OWNER LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n448\n$500,001 - $1,000,000\nrent\n$100,001 - $1,000,000\n112\nTRUMP VIRGINIA ACQUISITIONS LLC\nUnderlying Assets: commercial real estate\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n450\n$5,000,001 - $25,000,000\nhotel related revenue\n$1,015,752\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010638",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n22 of 51\nPart 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "table",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n099\nTRUMP PARK AVENUE LLC\nUnderlying Assets: residential & commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n420\nOver $50,000,000\nrent\nOver $5,000,000\n100\nTRUMP PLAZA LLC\nUnderlying Assets: residential & commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n424\n$25,000,001 - $50,000,000\ncondo sales\nrent\n$29,943,500\n$1,000,001 - $5,000,000\n101\nTRUMP PRODUCTIONS LLC\nUnderlying Assets: production company\nLocation: New York, NY\nSee attached schedule\nN/A\n426\n$1,000,001 - $5,000,000\nproduction revenue\n$1,103,161\n103\nTrump Restaurants LLC\nUnderlying Assets: restaurant\nLocation: New York, NY\nSee attached schedule\nN/A\n430\n$1,000,001 - $5,000,000\nfood & beverage related sales\n$4,830,768\n104\nTRUMP RUFFIN TOWER I LLC\nUnderlying Assets: commercial real estate\nLocation: Las Vegas, NV\nSee attached schedule\nN/A\n434\nOver $50,000,000\ncondo sales\nhotel related revenue\n$10,683,900\n$30,835,137\n106\nTRUMP SCOTSBOROUGH SQUARE LLC\nUnderlying Assets: residential real estate\nLocation: Scotsborough Square, VA\nSee attached schedule\nN/A\n438\n$500,001 - $1,000,000\nrent\n$5,001 - $15,000\n108\nTRUMP TOWER COMMERCIAL LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n444\nOver $50,000,000\nrent\nOver $5,000,000\n109\nTRUMP TOWER MANAGING MEMBER INC.\nValue reported reflects bank account holding only. Entity's other\nholdings and assets are reported elsewhere; see attached\nschedule. Pass-thru entity. New York, NY\nN/A\n445\n$1,001 - $15,000\nNone (or less than $201)\n110\nTRUMP VINEYARD ESTATES LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n447\n$5,000,001 - $25,000,000\nrent\n$100,001 - $1,000,000\n111\nTRUMP VINEYARD ESTATES LOT 3 OWNER LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n448\n$500,001 - $1,000,000\nrent\n$100,001 - $1,000,000\n112\nTRUMP VIRGINIA ACQUISITIONS LLC\nUnderlying Assets: commercial real estate\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n450\n$5,000,001 - $25,000,000\nhotel related revenue\n$1,015,752",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010638",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP PARK AVENUE LLC",
+      "TRUMP PLAZA LLC",
+      "TRUMP PRODUCTIONS LLC",
+      "Trump Restaurants LLC",
+      "TRUMP RUFFIN TOWER I LLC",
+      "TRUMP SCOTSBOROUGH SQUARE LLC",
+      "TRUMP TOWER COMMERCIAL LLC",
+      "TRUMP TOWER MANAGING MEMBER INC.",
+      "TRUMP VINEYARD ESTATES LLC",
+      "TRUMP VINEYARD ESTATES LOT 3 OWNER LLC",
+      "TRUMP VIRGINIA ACQUISITIONS LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Las Vegas, NV",
+      "Scotsborough Square, VA",
+      "Charlottesville, VA"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010638",
+      "22 of 51",
+      "420",
+      "424",
+      "426",
+      "430",
+      "434",
+      "438",
+      "444",
+      "445",
+      "447",
+      "448",
+      "450"
+    ],
+    "financial_amounts": [
+      "Over $50,000,000",
+      "Over $5,000,000",
+      "$25,000,001 - $50,000,000",
+      "$29,943,500",
+      "$1,000,001 - $5,000,000",
+      "$1,000,001 - $5,000,000",
+      "$1,103,161",
+      "$1,000,001 - $5,000,000",
+      "$4,830,768",
+      "Over $50,000,000",
+      "$10,683,900",
+      "$30,835,137",
+      "$500,001 - $1,000,000",
+      "$5,001 - $15,000",
+      "Over $50,000,000",
+      "Over $5,000,000",
+      "$1,001 - $15,000",
+      "None (or less than $201)",
+      "$5,000,001 - $25,000,000",
+      "$100,001 - $1,000,000",
+      "$500,001 - $1,000,000",
+      "$100,001 - $1,000,000",
+      "$5,000,001 - $25,000,000",
+      "$1,015,752"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "New York, NY",
+        "Las Vegas, NV",
+        "Scotsborough Square, VA",
+        "Charlottesville, VA"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010638"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document shows gaps in the numerical sequence of the '#' column (e.g., jumps from 101 to 103, 104 to 106, 106 to 108). A note in the footer explains this is due to the removal of previously reported items.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010638.jpg",
+  "house_oversight_id": "010638",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:04:15.967603Z",
+    "model": "gemini-2.5-pro"
+  }
+}

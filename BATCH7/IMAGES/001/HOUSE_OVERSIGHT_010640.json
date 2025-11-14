@@ -1,0 +1,135 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010640.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The document is a table listing various assets, their values, and the income generated from them. It is page 24 of 51 and has a document identifier 'HOUSE_OVERSIGHT_010640' at the bottom.",
+    "layout": "The document has a header with the filer's name and document part, a main body consisting of a multi-column table, and a footer with explanatory text and a document identifier. The table columns are '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type', and 'Income Amount'.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n24 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n126\nN/K/A DTW VENTURE LLC\nUnderlying Assets: residential real estate\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n093\n$1,000,001 - $5,000,000\nrent\n$50,001 - $100,000\n127\nDT Marks Worli LLC\nUnderlying Assets: license deal\nLicensee(s): JAWALA REAL ESTATE PRIVATE LTD, LODHA\nDEVELOPERS PRIVATE LTD\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n089\nroyalties\n$100,001 - $1,000,000\n130\nTHC VANCOUVER MANAGEMENT CORP\nUnderlying Assets: management company\nLocation: Vancouver, Canada\nSee attached schedule\nValue not readily ascertainable\nN/A\n190\nmanagement fees\n$21,576\n131\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC\nUnderlying Assets: seminar program\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n201\nresidual income\n$38,542\n132\nTNGC JUPITER MANAGEMENT LLC\nUnderlying Assets: management company\nLocation: Jupiter, FL\nSee attached schedule\nValue not readily ascertainable\nN/A\n227\nmanagement fees\n$468,346\n133\nTRUMP CHICAGO COMMERCIAL MANAGER LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n254\nmanagement fees\n$1,292,392\n134\nTRUMP CHICAGO HOTEL MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable. New York, NY\nSee attached schedule\nN/A\n256\n$15,001 - $50,000\nmanagement fees\n$2,198,295\n135\nTRUMP CHICAGO RESIDENTIAL MANAGER LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n260\nmanagement fees\n$677,122\n136\nTRUMP MARKS FINE FOODS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with TWO RIVERS\nCOFFEE - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n333\n$1,001 - $15,000\nroyalties\n$5,001 - $15,000\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010640",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n24 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n126\nN/K/A DTW VENTURE LLC\nUnderlying Assets: residential real estate\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n093\n$1,000,001 - $5,000,000\nrent\n$50,001 - $100,000\n127\nDT Marks Worli LLC\nUnderlying Assets: license deal\nLicensee(s): JAWALA REAL ESTATE PRIVATE LTD, LODHA\nDEVELOPERS PRIVATE LTD\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n089\nroyalties\n$100,001 - $1,000,000\n130\nTHC VANCOUVER MANAGEMENT CORP\nUnderlying Assets: management company\nLocation: Vancouver, Canada\nSee attached schedule\nValue not readily ascertainable\nN/A\n190\nmanagement fees\n$21,576\n131\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC\nUnderlying Assets: seminar program\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n201\nresidual income\n$38,542\n132\nTNGC JUPITER MANAGEMENT LLC\nUnderlying Assets: management company\nLocation: Jupiter, FL\nSee attached schedule\nValue not readily ascertainable\nN/A\n227\nmanagement fees\n$468,346\n133\nTRUMP CHICAGO COMMERCIAL MANAGER LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n254\nmanagement fees\n$1,292,392\n134\nTRUMP CHICAGO HOTEL MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable. New York, NY\nSee attached schedule\nN/A\n256\n$15,001 - $50,000\nmanagement fees\n$2,198,295\n135\nTRUMP CHICAGO RESIDENTIAL MANAGER LLC\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nValue not readily ascertainable\nN/A\n260\nmanagement fees\n$677,122\n136\nTRUMP MARKS FINE FOODS LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with TWO RIVERS\nCOFFEE - value not readily ascertainable. License holder, New\nYork, NY\nSee attached schedule\nN/A\n333\n$1,001 - $15,000\nroyalties\n$5,001 - $15,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010640",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "N/K/A DTW VENTURE LLC",
+      "DT Marks Worli LLC",
+      "JAWALA REAL ESTATE PRIVATE LTD",
+      "LODHA DEVELOPERS PRIVATE LTD",
+      "THC VANCOUVER MANAGEMENT CORP",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC",
+      "TNGC JUPITER MANAGEMENT LLC",
+      "TRUMP CHICAGO COMMERCIAL MANAGER LLC",
+      "TRUMP CHICAGO HOTEL MANAGER LLC",
+      "TRUMP CHICAGO RESIDENTIAL MANAGER LLC",
+      "TRUMP MARKS FINE FOODS LLC",
+      "TWO RIVERS COFFEE"
+    ],
+    "locations": [
+      "Palm Beach, FL",
+      "New York, NY",
+      "Vancouver, Canada",
+      "Jupiter, FL"
+    ],
+    "document_numbers": [
+      "24 of 51",
+      "093",
+      "089",
+      "190",
+      "201",
+      "227",
+      "254",
+      "256",
+      "260",
+      "333",
+      "HOUSE_OVERSIGHT_010640"
+    ],
+    "financial_amounts": [
+      "$1,000,001 - $5,000,000",
+      "$50,001 - $100,000",
+      "$100,001 - $1,000,000",
+      "$21,576",
+      "$38,542",
+      "$468,346",
+      "$1,292,392",
+      "$15,001 - $50,000",
+      "$2,198,295",
+      "$677,122",
+      "$1,001 - $15,000",
+      "$5,001 - $15,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Palm Beach, FL",
+        "New York, NY",
+        "Vancouver, Canada",
+        "Jupiter, FL"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A",
+      "HOUSE_OVERSIGHT_010640"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The item numbers in the first column jump from 127 to 130, which is explained in the footer text.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010640.jpg",
+  "house_oversight_id": "010640",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:05:22.798706Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,137 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010639.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a single page from a financial disclosure document. It is titled 'Part 2: Filer's Employment Assets and Income' for 'Donald J. Trump'. The page is numbered '23 of 51'. The main content is a table listing assets, their value, and income generated. A footer note explains the nature of the accompanying schedule. A document identifier 'HOUSE_OVERSIGHT_010639' is visible at the bottom right.",
+    "layout": "The document has a header with the filer's name and document part title, and a page number in the top right corner. The body consists of a multi-column, multi-row table. A paragraph of text is located below the table, and a document ID is in the footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n23 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n113\nTRUMP VIRGINIA LOT 5 LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n452\n$500,001 - $1,000,000\nrent\n$50,001 - $100,000\n116\nTRUMP NATIONAL GOLF CLUB - LOS ANGELES\nUnderlying Assets: golf course and unsold lots\nLocation: Los Angeles, CA\nSee attached schedule\nN/A\n469\nOver $50,000,000\ngolf related revenue\nland sales\n$14,982,417\n$12,035,000\n119\nWollman Rink Operations LLC\nUnderlying Assets: operating agreement with NEW YORK CITY\nDEPARTMENT OF PARKS & RECREATION - ice skating rinks\nLocation: New York, NY\nSee attached schedule\nN/A\n476\n$1,000,001 - $5,000,000\nice skating rink\noperation\n$12,661,523\n120\nHWA 555 Owners, LLC\nUnderlying Assets: commercial real estate\nLocation: San Francisco, CA\nSee attached schedule\nN/A\n478\nOver $50,000,000\nrent\nOver $5,000,000\n121\n1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n479\nOver $50,000,000\nrent\nOver $5,000,000\n122\n4% limited partnership interest in Starrett City Associates, L.P. (via the\nentities disclosed on Exhibit A and direct ownership by The Donald J. Trump\nRevocable Trust)\nUnderlying Assets: residential real estate\nLocation: Brooklyn, NY\nN/A\n018, 141, 154, 446\n$5,000,001 - $25,000,000\nrent\nOver $5,000,000\n123\n4% limited partnership interest in Spring Creek Plaza LLC (via the entities\ndisclosed on Exhibit A and direct ownership by The Donald J. Trump\nRevocable Trust)\nUnderlying Assets: commercial real estate\nLocation: Brooklyn, NY\nN/A\n018, 141, 154, 446\n$500,001 - $1,000,000\nrent\n$100,001 - $1,000,000\n124\nTrump Tower Triplex\nUnderlying Assets: residential real estate\nLocation: New York, NY\nN/A\nOver $50,000,000\nNone (or less than $201)\n125\nN/K/A DT VENTURE I LLC\nUnderlying Assets: residential real estate\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n533\n$5,000,001 - $25,000,000\nNone (or less than $201)\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010639",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n23 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n113\nTRUMP VIRGINIA LOT 5 LLC\nUnderlying Assets: vineyard\nLocation: Charlottesville, VA\nSee attached schedule\nN/A\n452\n$500,001 - $1,000,000\nrent\n$50,001 - $100,000\n116\nTRUMP NATIONAL GOLF CLUB - LOS ANGELES\nUnderlying Assets: golf course and unsold lots\nLocation: Los Angeles, CA\nSee attached schedule\nN/A\n469\nOver $50,000,000\ngolf related revenue\nland sales\n$14,982,417\n$12,035,000\n119\nWollman Rink Operations LLC\nUnderlying Assets: operating agreement with NEW YORK CITY\nDEPARTMENT OF PARKS & RECREATION - ice skating rinks\nLocation: New York, NY\nSee attached schedule\nN/A\n476\n$1,000,001 - $5,000,000\nice skating rink\noperation\n$12,661,523\n120\nHWA 555 Owners, LLC\nUnderlying Assets: commercial real estate\nLocation: San Francisco, CA\nSee attached schedule\nN/A\n478\nOver $50,000,000\nrent\nOver $5,000,000\n121\n1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n479\nOver $50,000,000\nrent\nOver $5,000,000\n122\n4% limited partnership interest in Starrett City Associates, L.P. (via the\nentities disclosed on Exhibit A and direct ownership by The Donald J. Trump\nRevocable Trust)\nUnderlying Assets: residential real estate\nLocation: Brooklyn, NY\nN/A\n018, 141, 154, 446\n$5,000,001 - $25,000,000\nrent\nOver $5,000,000\n123\n4% limited partnership interest in Spring Creek Plaza LLC (via the entities\ndisclosed on Exhibit A and direct ownership by The Donald J. Trump\nRevocable Trust)\nUnderlying Assets: commercial real estate\nLocation: Brooklyn, NY\nN/A\n018, 141, 154, 446\n$500,001 - $1,000,000\nrent\n$100,001 - $1,000,000\n124\nTrump Tower Triplex\nUnderlying Assets: residential real estate\nLocation: New York, NY\nN/A\nOver $50,000,000\nNone (or less than $201)\n125\nN/K/A DT VENTURE I LLC\nUnderlying Assets: residential real estate\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n533\n$5,000,001 - $25,000,000\nNone (or less than $201)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010639",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP VIRGINIA LOT 5 LLC",
+      "TRUMP NATIONAL GOLF CLUB - LOS ANGELES",
+      "Wollman Rink Operations LLC",
+      "NEW YORK CITY DEPARTMENT OF PARKS & RECREATION",
+      "HWA 555 Owners, LLC",
+      "1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON",
+      "Starrett City Associates, L.P.",
+      "The Donald J. Trump Revocable Trust",
+      "Spring Creek Plaza LLC",
+      "Trump Tower Triplex",
+      "N/K/A DT VENTURE I LLC"
+    ],
+    "locations": [
+      "Charlottesville, VA",
+      "Los Angeles, CA",
+      "New York, NY",
+      "San Francisco, CA",
+      "Brooklyn, NY",
+      "Palm Beach, FL"
+    ],
+    "document_numbers": [
+      "23 of 51",
+      "HOUSE_OVERSIGHT_010639",
+      "452",
+      "469",
+      "476",
+      "478",
+      "479",
+      "018",
+      "141",
+      "154",
+      "446",
+      "533"
+    ],
+    "financial_amounts": [
+      "$500,001 - $1,000,000",
+      "$50,001 - $100,000",
+      "Over $50,000,000",
+      "$14,982,417",
+      "$12,035,000",
+      "$1,000,001 - $5,000,000",
+      "$12,661,523",
+      "Over $5,000,000",
+      "$5,000,001 - $25,000,000",
+      "$100,001 - $1,000,000",
+      "None (or less than $201)"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Charlottesville, VA",
+        "Los Angeles, CA",
+        "New York, NY",
+        "San Francisco, CA",
+        "Brooklyn, NY",
+        "Palm Beach, FL"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form, likely part of a larger report. The data is presented clearly in a table format.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010639.jpg",
+  "house_oversight_id": "010639",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:04:50.948259Z",
+    "model": "gemini-2.5-pro"
+  }
+}

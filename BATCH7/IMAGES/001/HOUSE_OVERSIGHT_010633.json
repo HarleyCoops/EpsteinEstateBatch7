@@ -1,0 +1,128 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010633.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing a financial disclosure form for Donald J. Trump. It is page 17 of 51 and details Part 2: Filer's Employment Assets and Income. The document is a table listing various assets, their values, and any income generated.",
+    "layout": "The document has a header with the filer's name and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type', and 'Income Amount'. Below the table is a footer with a note about an accompanying schedule. A document identifier is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n17 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n041\nTHC CHINA DEVELOPMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: developer - value not readily\nascertainable. Developer, New York, NY. See attached schedule\nN/A\n169\n$1,001 - $15,000\nNone (or less than $201)\n042\nTHC SALES & MARKETING LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable. Management company, New York, NY. See\nattached schedule\nN/A\n184\n$100,001 - $250,000\nNone (or less than $201)\n043\nThe East 61 Street Company, LP\nUnderlying Assets: residential real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n199\n$5,000,001 - $25,000,000\nNone (or less than $201)\n044\nTHE TRUMP CORPORATION\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nN/A\n200\nOver $50,000,000\nmanagement and\nrelated fees\n$18,045,141\n045\nThe Trump-Equitable Fifth Avenue Company\nValue reported reflects bank account only. Entity's other holdings\nand assets are reported elsewhere; see attached schedule. Pass-\nthru entity, New York, NY\nN/A\n208\n$1,001 - $15,000\nrent\n$100,001 - $1,000,000\n046\nTRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nUnderlying Assets: golf course and resort\nLocation: Doonbeg, Ireland\nSee attached schedule\nN/A\n211\n$5,000,001 - $25,000,000\ngolf related revenue\n$12,498,172\n047\nTIHT COMMERCIAL LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n218\n$5,000,001 - $25,000,000\nrent\n$1,000,001 - $5,000,000\n048\nTIHT HOLDING COMPANY LLC\nUnderlying Assets: hotel condo unit\nLocation: New York, NY\nSee attached schedule\nN/A\n219\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000\n049\nTRUMP NATIONAL GOLF CLUB - CHARLOTTE\nUnderlying Assets: golf club\nLocation: Charlotte, NC\nSee attached schedule\nN/A\n223\n$5,000,001 - $25,000,000\ngolf related revenue\n$15,016,404\n050\nTRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nUnderlying Assets: golf club\nLocation: Hopewell Junction, NY\nSee attached schedule\nN/A\n225\n$5,000,001 - $25,000,000\ngolf related revenue\n$5,323,573\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010633",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n17 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n041\nTHC CHINA DEVELOPMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: developer - value not readily\nascertainable. Developer, New York, NY. See attached schedule\nN/A\n169\n$1,001 - $15,000\nNone (or less than $201)\n042\nTHC SALES & MARKETING LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management company - value not\nreadily ascertainable. Management company, New York, NY. See\nattached schedule\nN/A\n184\n$100,001 - $250,000\nNone (or less than $201)\n043\nThe East 61 Street Company, LP\nUnderlying Assets: residential real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n199\n$5,000,001 - $25,000,000\nNone (or less than $201)\n044\nTHE TRUMP CORPORATION\nUnderlying Assets: management company\nLocation: New York, NY\nSee attached schedule\nN/A\n200\nOver $50,000,000\nmanagement and\nrelated fees\n$18,045,141\n045\nThe Trump-Equitable Fifth Avenue Company\nValue reported reflects bank account only. Entity's other holdings\nand assets are reported elsewhere; see attached schedule. Pass-\nthru entity, New York, NY\nN/A\n208\n$1,001 - $15,000\nrent\n$100,001 - $1,000,000\n046\nTRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nUnderlying Assets: golf course and resort\nLocation: Doonbeg, Ireland\nSee attached schedule\nN/A\n211\n$5,000,001 - $25,000,000\ngolf related revenue\n$12,498,172\n047\nTIHT COMMERCIAL LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n218\n$5,000,001 - $25,000,000\nrent\n$1,000,001 - $5,000,000\n048\nTIHT HOLDING COMPANY LLC\nUnderlying Assets: hotel condo unit\nLocation: New York, NY\nSee attached schedule\nN/A\n219\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000\n049\nTRUMP NATIONAL GOLF CLUB - CHARLOTTE\nUnderlying Assets: golf club\nLocation: Charlotte, NC\nSee attached schedule\nN/A\n223\n$5,000,001 - $25,000,000\ngolf related revenue\n$15,016,404\n050\nTRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nUnderlying Assets: golf club\nLocation: Hopewell Junction, NY\nSee attached schedule\nN/A\n225\n$5,000,001 - $25,000,000\ngolf related revenue\n$5,323,573",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010633",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "THC CHINA DEVELOPMENT LLC",
+      "THC SALES & MARKETING LLC",
+      "The East 61 Street Company, LP",
+      "THE TRUMP CORPORATION",
+      "The Trump-Equitable Fifth Avenue Company",
+      "TRUMP INTERNATIONAL GOLF LINKS - DOONBEG",
+      "TIHT COMMERCIAL LLC",
+      "TIHT HOLDING COMPANY LLC",
+      "TRUMP NATIONAL GOLF CLUB - CHARLOTTE",
+      "TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY"
+    ],
+    "locations": [
+      "New York, NY",
+      "Doonbeg, Ireland",
+      "Charlotte, NC",
+      "Hopewell Junction, NY"
+    ],
+    "document_numbers": [
+      "17 of 51",
+      "169",
+      "184",
+      "199",
+      "200",
+      "208",
+      "211",
+      "218",
+      "219",
+      "223",
+      "225",
+      "HOUSE_OVERSIGHT_010633"
+    ],
+    "financial_amounts": [
+      "$1,001 - $15,000",
+      "None (or less than $201)",
+      "$100,001 - $250,000",
+      "$5,000,001 - $25,000,000",
+      "Over $50,000,000",
+      "$18,045,141",
+      "$100,001 - $1,000,000",
+      "$12,498,172",
+      "$1,000,001 - $5,000,000",
+      "$15,016,404",
+      "$5,323,573"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A",
+      "HOUSE_OVERSIGHT_010633"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The financial amounts are listed as both ranges and specific values. The footer indicates that the information is current as of April 15, 2017.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010633.jpg",
+  "house_oversight_id": "010633",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:01:17.576891Z",
+    "model": "gemini-2.5-pro"
+  }
+}
