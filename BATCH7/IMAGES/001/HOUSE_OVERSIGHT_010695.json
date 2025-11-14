@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010695.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form detailing ownership structures of various entities. The document is titled 'OGE Form 278e' and lists Donald J. Trump as the filer. It provides a breakdown of ownership percentages and roles within several companies with names like 'TRUMP MARKS ATLANTA LLC', 'TRUMP MARKS BATUMI LLC', etc. The page is numbered 'A28 of 47' and has a document identifier 'HOUSE_OVERSIGHT_010695' at the bottom.",
+    "layout": "The document has a header section with form information, filer's name, and page number. The main body is structured as a list of entities, each identified by a reference number. For each entity, there are subsections for 'Owned by' and sometimes 'Has ownership interest in', detailing the owners, their percentage of ownership, and their roles or titles. A footer contains a unique document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA28 of 47\nReference #\n317 TRUMP MARKS ATLANTA LLC *(3)\nOwned by:\n% Ownership\n99\n1\nName\nDJT HOLDINGS LLC\nRole\nMember\n318 TRUMP MARKS ATLANTA MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nTRUMP MARKS ATLANTA MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\nHas ownership interest in:\nEntity Name\nTRUMP MARKS ATLANTA LLC\nName\nDTTM Operations Managing Member Corp\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\n321 TRUMP MARKS BATUMI LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS BATUMI MANAGING MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n322 TRUMP MARKS BATUMI MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS BATUMI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n325 TRUMP MARKS CANOUAN CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS CANOUAN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n326 TRUMP MARKS CANOUAN LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS CANOUAN CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n327 TRUMP MARKS CHICAGO LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS CHICAGO MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n328 TRUMP MARKS CHICAGO MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS CHICAGO LLC\nOwnership\n1.00%\nTitle\nManaging Member\n329 TRUMP MARKS DUBAI CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS DUBAI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n330 TRUMP MARKS DUBAI LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS DUBAI CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n331 TRUMP MARKS EGYPT CORP *(3)\nHOUSE_OVERSIGHT_010695",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA28 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n317 TRUMP MARKS ATLANTA LLC *(3)\nOwned by:\n% Ownership\n99\n1\nName\nDJT HOLDINGS LLC\nRole\nMember\n318 TRUMP MARKS ATLANTA MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nTRUMP MARKS ATLANTA MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\nHas ownership interest in:\nEntity Name\nTRUMP MARKS ATLANTA LLC\nName\nDTTM Operations Managing Member Corp\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\n321 TRUMP MARKS BATUMI LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS BATUMI MANAGING MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n322 TRUMP MARKS BATUMI MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS BATUMI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n325 TRUMP MARKS CANOUAN CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS CANOUAN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n326 TRUMP MARKS CANOUAN LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS CANOUAN CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n327 TRUMP MARKS CHICAGO LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS CHICAGO MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n328 TRUMP MARKS CHICAGO MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS CHICAGO LLC\nOwnership\n1.00%\nTitle\nManaging Member\n329 TRUMP MARKS DUBAI CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS DUBAI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n330 TRUMP MARKS DUBAI LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS DUBAI CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n331 TRUMP MARKS EGYPT CORP *(3)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010695",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS ATLANTA LLC",
+      "DJT HOLDINGS LLC",
+      "TRUMP MARKS ATLANTA MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS BATUMI LLC",
+      "TRUMP MARKS BATUMI MANAGING MEMBER CORP",
+      "TRUMP MARKS CANOUAN CORP",
+      "TRUMP MARKS CANOUAN LLC",
+      "TRUMP MARKS CHICAGO LLC",
+      "TRUMP MARKS CHICAGO MEMBER CORP",
+      "TRUMP MARKS DUBAI CORP",
+      "TRUMP MARKS DUBAI LLC",
+      "TRUMP MARKS EGYPT CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A28 of 47",
+      "HOUSE_OVERSIGHT_010695",
+      "317",
+      "318",
+      "321",
+      "322",
+      "325",
+      "326",
+      "327",
+      "328",
+      "329",
+      "330",
+      "331"
+    ],
+    "financial_amounts": [
+      "99%",
+      "1%",
+      "100%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010695"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger financial disclosure report, as indicated by the page number 'A28 of 47'. The notation '*(3)' after each entity name likely refers to a footnote or endnote not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010695.jpg",
+  "house_oversight_id": "010695",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:46:53.885538Z",
+    "model": "gemini-2.5-pro"
+  }
+}

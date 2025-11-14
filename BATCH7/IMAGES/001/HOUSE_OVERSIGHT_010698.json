@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010698.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing ownership structures of various business entities. The document lists entities by a reference number, their name, ownership breakdown by percentage, and the names and roles of the owners. The filer's name is identified as Donald J. Trump. The page number is A31 of 47.",
+    "layout": "A structured, single-column form layout. A header contains form information and the filer's name. The main body consists of repeated sections for different business entities, each with a reference number. A footer contains a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA31 of 47\nReference #\n352 TRUMP MARKS MENSWEAR LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MENSWEAR MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n353 TRUMP MARKS MENSWEAR MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MENSWEAR LLC\n1.00%\nManaging Member\n354 TRUMP MARKS MORTGAGE CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MTG LLC\n1.00%\nManaging Member\n355 TRUMP MARKS MTG LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MORTGAGE CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n356 TRUMP MARKS MUMBAI LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MUMBAI MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n357 TRUMP MARKS MUMBAI MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MUMBAI LLC\n1.00%\nManaging Member\n358 TRUMP MARKS NEW ROCHELLE CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS NEW ROCHELLE LLC\n1.00%\nManaging Member\n359 TRUMP MARKS NEW ROCHELLE LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS NEW ROCHELLE CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n360 TRUMP MARKS PALM BEACH CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS PALM BEACH LLC\n1.00%\nManaging Member\n361 TRUMP MARKS PALM BEACH LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS PALM BEACH CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n362 TRUMP MARKS PANAMA CORP *(1)\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010698",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA31 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n352 TRUMP MARKS MENSWEAR LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MENSWEAR MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n353 TRUMP MARKS MENSWEAR MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MENSWEAR LLC\n1.00%\nManaging Member\n354 TRUMP MARKS MORTGAGE CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MTG LLC\n1.00%\nManaging Member\n355 TRUMP MARKS MTG LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MORTGAGE CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n356 TRUMP MARKS MUMBAI LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS MUMBAI MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n357 TRUMP MARKS MUMBAI MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS MUMBAI LLC\n1.00%\nManaging Member\n358 TRUMP MARKS NEW ROCHELLE CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS NEW ROCHELLE LLC\n1.00%\nManaging Member\n359 TRUMP MARKS NEW ROCHELLE LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS NEW ROCHELLE CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n360 TRUMP MARKS PALM BEACH CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS PALM BEACH LLC\n1.00%\nManaging Member\n361 TRUMP MARKS PALM BEACH LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS PALM BEACH CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n362 TRUMP MARKS PANAMA CORP *(1)\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010698",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS MENSWEAR LLC",
+      "TRUMP MARKS MENSWEAR MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS MORTGAGE CORP",
+      "TRUMP MARKS MTG LLC",
+      "TRUMP MARKS MUMBAI LLC",
+      "TRUMP MARKS MUMBAI MEMBER CORP",
+      "TRUMP MARKS NEW ROCHELLE CORP",
+      "TRUMP MARKS NEW ROCHELLE LLC",
+      "TRUMP MARKS PALM BEACH CORP",
+      "TRUMP MARKS PALM BEACH LLC",
+      "TRUMP MARKS PANAMA CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A31 of 47",
+      "HOUSE_OVERSIGHT_010698",
+      "352",
+      "353",
+      "354",
+      "355",
+      "356",
+      "357",
+      "358",
+      "359",
+      "360",
+      "361",
+      "362"
+    ],
+    "financial_amounts": [
+      "1%",
+      "99%",
+      "100%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010698"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The asterisks with numbers in parentheses, e.g., '*(1)' and '*(3)', likely refer to notes or explanations in other parts of the full document which are not visible here.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010698.jpg",
+  "house_oversight_id": "010698",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:48:21.640895Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010700.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A33 of 47 of an OGE Form 278e, filed by Donald J. Trump. The page details ownership interests in various corporate entities, listing the entity name, ownership percentages, and the roles of the owners.",
+    "layout": "The document has a header with form information, filer's name, and page number. The main body consists of a series of numbered entries, each detailing an ownership interest. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA33 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\nHas ownership interest in:\nEntity Name\n100\nTrump, Donald J.\nShareholder\nTRUMP MARKS PUERTO RICO II\nOwnership\nTitle\nLLC\n1.00%\nManaging Member\n374 TRUMP MARKS PUNTA DEL ESTE LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS PUNTA DEL ESTE\nManaging Member\n99\nMANAGER CORP\nDTTM OPERATIONS LLC\nMember\n375 TRUMP MARKS PUNTA DEL ESTE MANAGER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nHas ownership interest in:\nEntity Name\nMember Corp\nTRUMP MARKS PUNTA DEL ESTE\nOwnership\nTitle\nLLC\n1.00%\nManaging Member\n376 TRUMP MARKS REAL ESTATE LLC *(5)\nOwned by:\n% Ownership\nName\nRole\n1\nTHE TRUMP MARKS REAL ESTATE\nMember\n99\nCORP\nDTTM OPERATIONS LLC\nMember\n377 TRUMP MARKS SOHO LICENSE CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nHas ownership interest in:\nEntity Name\nMember Corp\nTRUMP MARKS SOHO LLC\nOwnership\nTitle\n1.00%\nMember\n378 TRUMP MARKS SOHO LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS SOHO LICENSE CORP\nMember\n99\nDTTM OPERATIONS LLC\nMember\n379 TRUMP MARKS STAMFORD CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nHas ownership interest in:\nEntity Name\nMember Corp\nTRUMP MARKS STAMFORD LLC\nOwnership\nTitle\n1.00%\nMember\n380 TRUMP MARKS STAMFORD LLC\nOwned by:\n% Ownership\nName\nRole\n99\nDTTM OPERATIONS LLC\nMember\n1\nTRUMP MARKS STAMFORD CORP\nMember\n381 TRUMP MARKS SUNNY ISLES I LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS SUNNY ISLES I\nMember\n99\nMEMBER CORP\nDTTM OPERATIONS LLC\nMember\n382 TRUMP MARKS SUNNY ISLES I MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nHas ownership interest in:\nEntity Name\nMember Corp\nTRUMP MARKS SUNNY ISLES I LLC\nOwnership\nTitle\n1.00%\nMember\n383 TRUMP MARKS SUNNY ISLES II LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MARKS SUNNY ISLES II\nMember\n99\nMEMBER CORP\nDTTM OPERATIONS LLC\nMember\n384 TRUMP MARKS SUNNY ISLES II MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nMember Corp\nHOUSE_OVERSIGHT_010700",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA33 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n374 TRUMP MARKS PUNTA DEL ESTE LLC *(4)\nOwned by:\n% Ownership\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PUERTO RICO II\nLLC\nName\nTrump, Donald J.\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\n375 TRUMP MARKS PUNTA DEL ESTE MANAGER CORP *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PUNTA DEL ESTE\nMANAGER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n376 TRUMP MARKS REAL ESTATE LLC *(5)\nOwned by:\n% Ownership\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PUNTA DEL ESTE\nLLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\n377 TRUMP MARKS SOHO LICENSE CORP *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTHE TRUMP MARKS REAL ESTATE\nCORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n378 TRUMP MARKS SOHO LLC *(4)\nOwned by:\n% Ownership\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS SOHO LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nMember\nRole\nShareholder\n379 TRUMP MARKS STAMFORD CORP *(1)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS SOHO LICENSE CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n380 TRUMP MARKS STAMFORD LLC\nOwned by:\n% Ownership\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS STAMFORD LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nMember\nRole\nShareholder\n381 TRUMP MARKS SUNNY ISLES I LLC\nOwned by:\n% Ownership\n99\n1\nName\nDTTM OPERATIONS LLC\nTRUMP MARKS STAMFORD CORP\nRole\nMember\nMember\n382 TRUMP MARKS SUNNY ISLES I MEMBER CORP *(1)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS SUNNY ISLES I\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n383 TRUMP MARKS SUNNY ISLES II LLC *(4)\nOwned by:\n% Ownership\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS SUNNY ISLES I LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nMember\nRole\nShareholder\n384 TRUMP MARKS SUNNY ISLES II MEMBER CORP *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS SUNNY ISLES II\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010700",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS PUNTA DEL ESTE LLC",
+      "TRUMP MARKS PUERTO RICO II LLC",
+      "TRUMP MARKS PUNTA DEL ESTE MANAGER CORP",
+      "DTTM OPERATIONS LLC",
+      "TRUMP MARKS REAL ESTATE LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS SOHO LICENSE CORP",
+      "THE TRUMP MARKS REAL ESTATE CORP",
+      "TRUMP MARKS SOHO LLC",
+      "TRUMP MARKS STAMFORD CORP",
+      "TRUMP MARKS STAMFORD LLC",
+      "TRUMP MARKS SUNNY ISLES I LLC",
+      "TRUMP MARKS SUNNY ISLES I MEMBER CORP",
+      "TRUMP MARKS SUNNY ISLES II LLC",
+      "TRUMP MARKS SUNNY ISLES II MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A33 of 47",
+      "HOUSE_OVERSIGHT_010700",
+      "374",
+      "375",
+      "376",
+      "377",
+      "378",
+      "379",
+      "380",
+      "381",
+      "382",
+      "383",
+      "384"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1.00%",
+      "1%",
+      "99%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Ownership Interests",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010700"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.97,
+    "overall": 0.97
+  },
+  "notes": "The document lists multiple entities with similar naming conventions. The ownership structures often involve DTTM OPERATIONS LLC and DTTM Operations Managing Member Corp. The final entry for item 384 appears incomplete, listing only the owners but not the entity it has an interest in.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010700.jpg",
+  "house_oversight_id": "010700",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:49:25.451060Z",
+    "model": "gemini-2.5-pro"
+  }
+}

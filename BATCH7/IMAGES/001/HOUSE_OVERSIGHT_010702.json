@@ -1,0 +1,120 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010702.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A35 of 47 from an OGE Form 278e, filed by Donald J. Trump. The page lists various business entities, their ownership structures, and related roles. The document is a clean, black-and-white copy with some yellow highlighting on the header fields.",
+    "layout": "The document has a structured, tabular layout. A header section contains the form number, filer's name, and page number. The main body is organized by reference numbers (396 through 406), each corresponding to a business entity. For each entity, details like ownership percentages, owner names, and roles are listed.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See Instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA35 of 47\n\nReference #\n\n396 TRUMP MIAMI RESORT MANAGEMENT LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MIAMI RESORT\nMANAGEMENT MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n397 TRUMP MIAMI RESORT MANAGEMENT MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP MIAMI RESORT\nMANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n398 TRUMP MODEL MANAGEMENT LLC\n\nAssumed Names:\nD/B/A\nTRUMP MODELS\nJurisdiction\nNew York\n\nOwned by:\n% Ownership\nName\nRole\n15\nAnnie Veltri\nMember\n85\nTMG Member, LLC\nMember\n\n399 TRUMP NATIONAL GOLF CLUB - COLTS NECK\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB COLTS\nNECK MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n400 TRUMP NATIONAL GOLF CLUB COLTS NECK MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nCOLTS NECK\nOwnership\n1.00%\nTitle\nManaging Member\n\n401 TRUMP NATIONAL GOLF CLUB - WESTCHESTER\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB\nMEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nManaging Member\n\n402 TRUMP NATIONAL GOLF CLUB MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nWESTCHESTER\nOwnership\n1.00%\nTitle\nManaging Member\n\n403 TRUMP NATIONAL GOLF CLUB - WASHINGTON DC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB\nWASHINGTON DC MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n404 TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nWASHINGTON DC\nOwnership\n1.00%\nTitle\nManaging Member\n\n405 Trump New World Property Management, LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n50\nNew World Property Management\nLimited\nManaging Member\n50\nTRUMP RIVERSIDE MANAGEMENT\nLLC\nManaging Member\n\n406 TRUMP OCEAN MANAGER, INC. *(3)--DISSOLVED 11/10/16\n\nOwned by:\n% Ownership\nName\nRole\n\nHOUSE_OVERSIGHT_010702",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See Instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA35 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n\n396 TRUMP MIAMI RESORT MANAGEMENT LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP MIAMI RESORT\nMANAGEMENT MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n397 TRUMP MIAMI RESORT MANAGEMENT MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP MIAMI RESORT\nMANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n398 TRUMP MODEL MANAGEMENT LLC\n\nAssumed Names:\nD/B/A\nTRUMP MODELS\nJurisdiction\nNew York\n\nOwned by:\n% Ownership\nName\nRole\n15\nAnnie Veltri\nMember\n85\nTMG Member, LLC\nMember\n\n399 TRUMP NATIONAL GOLF CLUB - COLTS NECK\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB COLTS\nNECK MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n400 TRUMP NATIONAL GOLF CLUB COLTS NECK MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nCOLTS NECK\nOwnership\n1.00%\nTitle\nManaging Member\n\n401 TRUMP NATIONAL GOLF CLUB - WESTCHESTER\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB\nMEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nManaging Member\n\n402 TRUMP NATIONAL GOLF CLUB MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nWESTCHESTER\nOwnership\n1.00%\nTitle\nManaging Member\n\n403 TRUMP NATIONAL GOLF CLUB - WASHINGTON DC\n\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP NATIONAL GOLF CLUB\nWASHINGTON DC MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n404 TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB -\nWASHINGTON DC\nOwnership\n1.00%\nTitle\nManaging Member\n\n405 Trump New World Property Management, LLC *(3)\n\nOwned by:\n% Ownership\nName\nRole\n50\nNew World Property Management\nLimited\nManaging Member\n50\nTRUMP RIVERSIDE MANAGEMENT\nLLC\nManaging Member\n\n406 TRUMP OCEAN MANAGER, INC. *(3)--DISSOLVED 11/10/16\n\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010702",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-10"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Annie Veltri"
+    ],
+    "organizations": [
+      "TRUMP MIAMI RESORT MANAGEMENT LLC",
+      "TRUMP MIAMI RESORT MANAGEMENT MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP MODEL MANAGEMENT LLC",
+      "TRUMP MODELS",
+      "TMG Member, LLC",
+      "TRUMP NATIONAL GOLF CLUB - COLTS NECK",
+      "TRUMP NATIONAL GOLF CLUB COLTS NECK MEMBER CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP NATIONAL GOLF CLUB - WESTCHESTER",
+      "TRUMP NATIONAL GOLF CLUB MEMBER CORP",
+      "TRUMP NATIONAL GOLF CLUB - WASHINGTON DC",
+      "TRUMP NATIONAL GOLF CLUB WASHINGTON DC MEMBER CORP",
+      "Trump New World Property Management, LLC",
+      "New World Property Management Limited",
+      "TRUMP RIVERSIDE MANAGEMENT LLC",
+      "TRUMP OCEAN MANAGER, INC."
+    ],
+    "locations": [
+      "New York",
+      "COLTS NECK",
+      "WESTCHESTER",
+      "WASHINGTON DC"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A35 of 47",
+      "HOUSE_OVERSIGHT_010702",
+      "396",
+      "397",
+      "398",
+      "399",
+      "400",
+      "401",
+      "402",
+      "403",
+      "404",
+      "405",
+      "406"
+    ],
+    "financial_amounts": [
+      "1%",
+      "99%",
+      "100%",
+      "1.00%",
+      "15%",
+      "85%",
+      "50%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure of Business Entities and Ownership",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010702"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with similar naming conventions, primarily related to Trump-branded properties and management companies. The ownership structure often involves DJT Holdings LLC or DJT Holdings Managing Member LLC. One entity, TRUMP OCEAN MANAGER, INC., is noted as dissolved on 11/10/16.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010702.jpg",
+  "house_oversight_id": "010702",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:50:26.814852Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010699.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, specifically OGE Form 278e. The document lists various business entities associated with the filer, Donald J. Trump. For each entity, it details ownership percentages and the names of the owners, which include other corporations and a trust. The page is numbered A32 of 47 and has a Bates stamp 'HOUSE_OVERSIGHT_010699' at the bottom.",
+    "layout": "The document has a standard portrait layout. A header contains the form title, filer's name, and page number. The main body consists of a series of numbered entries for different business entities, with structured information about ownership. A footer in the bottom right corner contains a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA32 of 47\nReference #\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PANAMA LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nManaging Member\n363 TRUMP MARKS PANAMA LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PANAMA CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n364 TRUMP MARKS PHILADELPHIA CORP *(3)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PHILADELPHIA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n365 TRUMP MARKS PHILADELPHIA LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PHILADELPHIA CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n366 TRUMP MARKS PHILIPPINES CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PHILIPPINES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n367 TRUMP MARKS PHILIPPINES LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PHILIPPINES CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n368 TRUMP MARKS PRODUCTS LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PRODUCTS MEMBER\nCORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n369 TRUMP MARKS PRODUCTS MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PRODUCTS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n370 TRUMP MARKS PUERTO RICO I LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PUERTO RICO I\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n371 TRUMP MARKS PUERTO RICO I MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PUERTO RICO I\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n372 TRUMP MARKS PUERTO RICO II LLC *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PUERTO RICO II\nMEMBER CORP\nTrump, Donald J.\nRole\nManaging Member\nMember\n373 TRUMP MARKS PUERTO RICO II MEMBER CORP *(3)--DISSOLVED 11/10/16\nHOUSE_OVERSIGHT_010699",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA32 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PANAMA LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nManaging Member\n363 TRUMP MARKS PANAMA LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PANAMA CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n364 TRUMP MARKS PHILADELPHIA CORP *(3)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PHILADELPHIA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n365 TRUMP MARKS PHILADELPHIA LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PHILADELPHIA CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n366 TRUMP MARKS PHILIPPINES CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PHILIPPINES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n367 TRUMP MARKS PHILIPPINES LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PHILIPPINES CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n368 TRUMP MARKS PRODUCTS LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PRODUCTS MEMBER\nCORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n369 TRUMP MARKS PRODUCTS MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PRODUCTS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n370 TRUMP MARKS PUERTO RICO I LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PUERTO RICO I\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n371 TRUMP MARKS PUERTO RICO I MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS PUERTO RICO I\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n372 TRUMP MARKS PUERTO RICO II LLC *(3)--DISSOLVED 11/9/16\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS PUERTO RICO II\nMEMBER CORP\nTrump, Donald J.\nRole\nManaging Member\nMember\n373 TRUMP MARKS PUERTO RICO II MEMBER CORP *(3)--DISSOLVED 11/10/16",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010699",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-09",
+      "2016-11-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS PANAMA LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS PANAMA CORP",
+      "DTTM OPERATIONS LLC",
+      "TRUMP MARKS PHILADELPHIA CORP",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP MARKS PHILADELPHIA LLC",
+      "TRUMP MARKS PHILIPPINES CORP",
+      "TRUMP MARKS PHILIPPINES LLC",
+      "TRUMP MARKS PRODUCTS LLC",
+      "TRUMP MARKS PRODUCTS MEMBER CORP",
+      "TRUMP MARKS PUERTO RICO I LLC",
+      "TRUMP MARKS PUERTO RICO I MEMBER CORP",
+      "TRUMP MARKS PUERTO RICO II LLC",
+      "TRUMP MARKS PUERTO RICO II MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A32 of 47",
+      "HOUSE_OVERSIGHT_010699",
+      "100",
+      "363",
+      "364",
+      "365",
+      "366",
+      "367",
+      "368",
+      "369",
+      "370",
+      "371",
+      "372",
+      "373"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1",
+      "99",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010699"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with similar names, indicating a complex corporate structure. Two entities are noted as dissolved in November 2016.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010699.jpg",
+  "house_oversight_id": "010699",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:48:50.550341Z",
+    "model": "gemini-2.5-pro"
+  }
+}

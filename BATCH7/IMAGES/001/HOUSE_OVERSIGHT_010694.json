@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010694.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically an OGE Form 278e, detailing the business interests of Donald J. Trump. The page is numbered A27 of 47 and lists various LLCs and corporations, their ownership structure, and the roles of the owners. The document is clean, typed, and well-organized.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a list of entities, each with a reference number, name, and details about ownership ('Owned by') and interests held ('Has ownership interest in'). A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA27 of 47\nReference #\n305 TRUMP LAS OLAS LLC *(3)\nTrump Korea LLC\n59.00%\nMember\nOwned by:\n% Ownership\nName\nRole\nTRUMP LAS OLAS MEMBER CORP\nManaging Member\nDJT Holdings LLC\nMember\n306 TRUMP LAS OLAS MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nRole\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP LAS OLAS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n307 TRUMP LAS VEGAS CORP *(1)\nOwned by:\n% Ownership\n100\nName\nRole\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP LAS VEGAS MANAGING\nMEMBER LLC\nOwnership\n6.00%\nTitle\nManaging Member\nTRUMP LAS VEGAS MEMBER LLC\n6.00%\nManaging Member\n308 TRUMP LAS VEGAS DEVELOPMENT LLC\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS LLC\nRole\nMember\n309 TRUMP LAS VEGAS MANAGING MEMBER LLC\nOwned by:\n% Ownership\n6\n94\nName\nTRUMP LAS VEGAS CORP\nDJT HOLDINGS LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP RUFFIN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n310 TRUMP LAS VEGAS MEMBER LLC\nOwned by:\n% Ownership\n6\n94\nName\nTRUMP LAS VEGAS CORP\nDJT HOLDINGS LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP RUFFIN LLC\nOwnership\n49.00%\nTitle\nMember\n311 Trump Las Vegas Sales & Marketing, Inc.\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n312 TRUMP LAUDERDALE DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n313 TRUMP LAUDERDALE DEVELOPMENT NO 2 LLC *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n314 TRUMP MARKETING LLC *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n315 TRUMP MARKS ASIA CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS ASIA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n316 TRUMP MARKS ASIA LLC\nOwned by:\n% Ownership\n1\nName\nTRUMP MARKS ASIA CORP\nRole\nManaging Member\nHOUSE_OVERSIGHT_010694",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA27 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n305 TRUMP LAS OLAS LLC *(3)\nTrump Korea LLC\n59.00%\nMember\nOwned by:\n% Ownership\nName\nRole\nTRUMP LAS OLAS MEMBER CORP\nManaging Member\nDJT Holdings LLC\nMember\n306 TRUMP LAS OLAS MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nRole\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP LAS OLAS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n307 TRUMP LAS VEGAS CORP *(1)\nOwned by:\n% Ownership\n100\nName\nRole\nDJT HOLDINGS MANAGING MEMBER\nLLC\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP LAS VEGAS MANAGING\nMEMBER LLC\nOwnership\n6.00%\nTitle\nManaging Member\nTRUMP LAS VEGAS MEMBER LLC\n6.00%\nManaging Member\n308 TRUMP LAS VEGAS DEVELOPMENT LLC\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS LLC\nRole\nMember\n309 TRUMP LAS VEGAS MANAGING MEMBER LLC\nOwned by:\n% Ownership\n6\n94\nName\nTRUMP LAS VEGAS CORP\nDJT HOLDINGS LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP RUFFIN LLC\nOwnership\n1.00%\nTitle\nManaging Member\n310 TRUMP LAS VEGAS MEMBER LLC\nOwned by:\n% Ownership\n6\n94\nName\nTRUMP LAS VEGAS CORP\nDJT HOLDINGS LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP RUFFIN LLC\nOwnership\n49.00%\nTitle\nMember\n311 Trump Las Vegas Sales & Marketing, Inc.\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n312 TRUMP LAUDERDALE DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n313 TRUMP LAUDERDALE DEVELOPMENT NO 2 LLC *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n314 TRUMP MARKETING LLC *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n315 TRUMP MARKS ASIA CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS ASIA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n316 TRUMP MARKS ASIA LLC\nOwned by:\n% Ownership\n1\nName\nTRUMP MARKS ASIA CORP\nRole\nManaging Member",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010694",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Trump Korea LLC",
+      "TRUMP LAS OLAS LLC",
+      "TRUMP LAS OLAS MEMBER CORP",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP LAS VEGAS CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP LAS VEGAS MANAGING MEMBER LLC",
+      "TRUMP LAS VEGAS MEMBER LLC",
+      "TRUMP LAS VEGAS DEVELOPMENT LLC",
+      "DJT HOLDINGS LLC",
+      "TRUMP RUFFIN LLC",
+      "Trump Las Vegas Sales & Marketing, Inc.",
+      "TRUMP LAUDERDALE DEVELOPMENT LLC",
+      "TRUMP LAUDERDALE DEVELOPMENT NO 2 LLC",
+      "TRUMP MARKETING LLC",
+      "TRUMP MARKS ASIA CORP",
+      "TRUMP MARKS ASIA LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A27 of 47",
+      "HOUSE_OVERSIGHT_010694",
+      "305",
+      "306",
+      "307",
+      "308",
+      "309",
+      "310",
+      "311",
+      "312",
+      "313",
+      "314",
+      "315",
+      "316"
+    ],
+    "financial_amounts": [
+      "59.00%",
+      "100",
+      "1.00%",
+      "6.00%",
+      "1.00%",
+      "49.00%",
+      "6",
+      "94",
+      "1"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010694"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The ownership percentages for 'TRUMP LAS OLAS MEMBER CORP' and 'DJT Holdings LLC' under reference #305 are not explicitly stated in the provided image, though they are listed as owners.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010694.jpg",
+  "house_oversight_id": "010694",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:46:26.430651Z",
+    "model": "gemini-2.5-pro"
+  }
+}

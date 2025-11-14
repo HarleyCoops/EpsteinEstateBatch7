@@ -1,0 +1,110 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010701.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a financial disclosure form, specifically an OGE Form 278e, for Donald J. Trump. The page, numbered A34 of 47, lists various business entities in which he has an ownership interest, along with details of the ownership structure. A Bates stamp 'HOUSE_OVERSIGHT_010701' is visible at the bottom right.",
+    "layout": "The document has a structured, tabular layout. It begins with a header containing form information and the filer's name. The main body consists of repeating sections for each business entity, organized with labels like 'Reference #', 'Has ownership interest in:', and 'Owned by:'. Columns for 'Entity Name', 'Ownership', 'Title', 'Name', and 'Role' are used to organize the data.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA34 of 47\nReference #\nHas ownership interest in:\nEntity Name\nTRUMP MARKS SUNNY ISLES II LLC\nOwnership\n1.00%\nTitle\nMember\n385 TRUMP MARKS TAMPA CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS TAMPA LLC\nOwnership\n1.00%\nTitle\nMember\n386 TRUMP MARKS TAMPA LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS TAMPA CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n387 TRUMP MARKS TORONTO CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS TORONTO LLC\nOwnership\n1.00%\nTitle\nMember\n388 TRUMP MARKS TORONTO LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS TORONTO CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n389 TRUMP MARKS TORONTO LP *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP TORONTO MEMBER CORP\nDTTM Operations LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WAIKIKI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n390 TRUMP MARKS WAIKIKI CORP *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n391 TRUMP MARKS WAIKIKI LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WAIKIKI CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n392 TRUMP MARKS WESTCHESTER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WESTCHESTER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n393 TRUMP MARKS WESTCHESTER LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WESTCHESTER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n394 TRUMP MARKS WHITE PLAINS CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WHITE PLAINS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n395 TRUMP MARKS WHITE PLAINS LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WHITE PLAINS CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\nHOUSE_OVERSIGHT_010701",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA34 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nHas ownership interest in:\nEntity Name\nTRUMP MARKS SUNNY ISLES II LLC\nOwnership\n1.00%\nTitle\nMember\n385 TRUMP MARKS TAMPA CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS TAMPA LLC\nOwnership\n1.00%\nTitle\nMember\n386 TRUMP MARKS TAMPA LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS TAMPA CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n387 TRUMP MARKS TORONTO CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS TORONTO LLC\nOwnership\n1.00%\nTitle\nMember\n388 TRUMP MARKS TORONTO LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS TORONTO CORP\nDTTM OPERATIONS LLC\nRole\nMember\nMember\n389 TRUMP MARKS TORONTO LP *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP TORONTO MEMBER CORP\nDTTM Operations LLC\nRole\nMember\nMember\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WAIKIKI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n390 TRUMP MARKS WAIKIKI CORP *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n391 TRUMP MARKS WAIKIKI LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WAIKIKI CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n392 TRUMP MARKS WESTCHESTER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WESTCHESTER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n393 TRUMP MARKS WESTCHESTER LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WESTCHESTER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n394 TRUMP MARKS WHITE PLAINS CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS WHITE PLAINS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n395 TRUMP MARKS WHITE PLAINS LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP MARKS WHITE PLAINS CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010701",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS SUNNY ISLES II LLC",
+      "TRUMP MARKS TAMPA CORP",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS TAMPA LLC",
+      "DTTM OPERATIONS LLC",
+      "TRUMP MARKS TORONTO CORP",
+      "TRUMP MARKS TORONTO LLC",
+      "TRUMP MARKS TORONTO LP",
+      "TRUMP TORONTO MEMBER CORP",
+      "DTTM Operations LLC",
+      "TRUMP MARKS WAIKIKI CORP",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP MARKS WAIKIKI LLC",
+      "TRUMP MARKS WESTCHESTER CORP",
+      "TRUMP MARKS WESTCHESTER LLC",
+      "TRUMP MARKS WHITE PLAINS CORP",
+      "TRUMP MARKS WHITE PLAINS LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "A34 of 47",
+      "HOUSE_OVERSIGHT_010701",
+      "385",
+      "386",
+      "387",
+      "388",
+      "389",
+      "390",
+      "391",
+      "392",
+      "393",
+      "394",
+      "395"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "100",
+      "1",
+      "99"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010701"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists ownership structures for various 'TRUMP MARKS' entities. The asterisks followed by numbers, e.g., '*(3)', likely refer to notes or appendices not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010701.jpg",
+  "house_oversight_id": "010701",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:49:53.994649Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010697.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A30 of 47 from an OGE Form 278e, filed by Donald J. Trump. The page details ownership structures for various business entities, including those related to Trump Marks in Istanbul, Jersey City, Las Vegas, and for magazines and mattresses. The document lists entities, their owners, ownership percentages, and roles.",
+    "layout": "The document has a header section with form details and the filer's name. The main body consists of a series of entries, each identified by a reference number, detailing a business entity and its ownership structure. A footer in the bottom right corner contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA30 of 47\n\nReference #\n100\nEntity Name\nTRUMP MARKS ISTANBUL II LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\nHas ownership interest in :\n\n342 TRUMP MARKS ISTANBUL II LLC\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS ISTANBUL II CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n343 TRUMP MARKS JERSEY CITY CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS JERSEY CITY LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n344 TRUMP MARKS JERSEY CITY LLC *(4)\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS JERSEY CITY CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n345 TRUMP MARKS LAS VEGAS CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS LAS VEGAS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n346 TRUMP MARKS LAS VEGAS LLC *(3)\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS LAS VEGAS CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n347 TRUMP MARKS LLC\nOwned by :\n% Ownership\n100\nName\nTRUMP MARKS HOLDINGS LP\nRole\nMember\n\n348 TRUMP MARKS MAGAZINE CORP *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS MAGAZINE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n349 TRUMP MARKS MAGAZINE LLC *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS MAGAZINE CORP\nRole\nManaging Member\n% Ownership\n99\nName\nTrump, Donald J.\nRole\nMember\n\n350 TRUMP MARKS MATTRESS LLC\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS MATTRESS MEMBER\nCORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n351 TRUMP MARKS MATTRESS MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS MATTRESS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\nHOUSE_OVERSIGHT_010697",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA30 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nEntity Name\nTRUMP MARKS ISTANBUL II LLC\nName\nDTTM Operations Managing\nMember Corp\nOwnership\n1.00%\nTitle\nManaging Member\nRole\nShareholder\nHas ownership interest in :\n\n342 TRUMP MARKS ISTANBUL II LLC\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS ISTANBUL II CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n343 TRUMP MARKS JERSEY CITY CORP *(4)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS JERSEY CITY LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n344 TRUMP MARKS JERSEY CITY LLC *(4)\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS JERSEY CITY CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n345 TRUMP MARKS LAS VEGAS CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS LAS VEGAS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n346 TRUMP MARKS LAS VEGAS LLC *(3)\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS LAS VEGAS CORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n347 TRUMP MARKS LLC\nOwned by :\n% Ownership\n100\nName\nTRUMP MARKS HOLDINGS LP\nRole\nMember\n\n348 TRUMP MARKS MAGAZINE CORP *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS MAGAZINE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n349 TRUMP MARKS MAGAZINE LLC *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS MAGAZINE CORP\nRole\nManaging Member\n% Ownership\n99\nName\nTrump, Donald J.\nRole\nMember\n\n350 TRUMP MARKS MATTRESS LLC\nOwned by :\n% Ownership\n1\nName\nTRUMP MARKS MATTRESS MEMBER\nCORP\nRole\nManaging Member\n% Ownership\n99\nName\nDTTM OPERATIONS LLC\nRole\nMember\n\n351 TRUMP MARKS MATTRESS MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nTRUMP MARKS MATTRESS LLC\nOwnership\n1.00%\nTitle\nManaging Member",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010697",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-09"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP MARKS ISTANBUL II LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS ISTANBUL II CORP",
+      "DTTM OPERATIONS LLC",
+      "TRUMP MARKS JERSEY CITY CORP",
+      "TRUMP MARKS JERSEY CITY LLC",
+      "TRUMP MARKS LAS VEGAS CORP",
+      "TRUMP MARKS LAS VEGAS LLC",
+      "TRUMP MARKS LLC",
+      "TRUMP MARKS HOLDINGS LP",
+      "TRUMP MARKS MAGAZINE CORP",
+      "TRUMP MARKS MAGAZINE LLC",
+      "TRUMP MARKS MATTRESS LLC",
+      "TRUMP MARKS MATTRESS MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A30 of 47",
+      "HOUSE_OVERSIGHT_010697",
+      "100",
+      "342",
+      "343",
+      "344",
+      "345",
+      "346",
+      "347",
+      "348",
+      "349",
+      "350",
+      "351"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1%",
+      "99%",
+      "100%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure of Business Ownership Interests for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010697"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several business entities with similar naming conventions, indicating a complex corporate structure. Two entities, TRUMP MARKS MAGAZINE CORP and TRUMP MARKS MAGAZINE LLC, are noted as 'DISSOLVED 11/9/16'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010697.jpg",
+  "house_oversight_id": "010697",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:47:53.229366Z",
+    "model": "gemini-2.5-pro"
+  }
+}

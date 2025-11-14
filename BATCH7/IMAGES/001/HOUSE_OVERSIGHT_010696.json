@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010696.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a high-quality scan of a financial disclosure form, specifically page A29 of 47 of an OGE Form 278e. The document is filled out for Donald J. Trump and lists various business entities, their ownership structures, and roles. The text is typed and clearly legible. The document has a header with form details and a footer with a Bates number.",
+    "layout": "The document has a structured, multi-column layout. It is organized into sections by reference number, each detailing a specific business entity. Each section contains subsections for 'Owned by' and 'Has ownership interest in', with corresponding fields for names, ownership percentages, and roles or titles.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA29 of 47\nReference #\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS EGYPT LLC\n1.00%\nManaging Member\n332 TRUMP MARKS EGYPT LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS EGYPT CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n333 TRUMP MARKS FINE FOODS LLC\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS FINE FOODS\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n334 TRUMP MARKS FINE FOODS MEMBER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS FINE FOODS LLC\n1.00%\nManaging Member\n335 TRUMP MARKS FT LAUDERDALE LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS FT LAUDERDALE\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n336 TRUMP MARKS FT LAUDERDALE MEMBER CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS FT LAUDERDALE\nLLC\n1.00%\nManaging Member\n337 TRUMP MARKS GP CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLDINGS LP\n1.00%\nPartner\n338 TRUMP MARKS HOLDINGS LP *(1)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS GP CORP\nPartner\n99\nDTTM Operations LLC\nPartner\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLLYWOOD LLC\n100.00%\nMember\n339 TRUMP MARKS HOLLYWOOD CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLLYWOOD LLC\n1.00%\nManaging Member\n340 TRUMP MARKS HOLLYWOOD LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS HOLLYWOOD CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n341 TRUMP MARKS ISTANBUL II CORP *(1)\nOwned by :\nName\nRole\nHOUSE_OVERSIGHT_010696",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA29 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS EGYPT LLC\n1.00%\nManaging Member\n332 TRUMP MARKS EGYPT LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS EGYPT CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n333 TRUMP MARKS FINE FOODS LLC\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS FINE FOODS\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n334 TRUMP MARKS FINE FOODS MEMBER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS FINE FOODS LLC\n1.00%\nManaging Member\n335 TRUMP MARKS FT LAUDERDALE LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS FT LAUDERDALE\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n336 TRUMP MARKS FT LAUDERDALE MEMBER CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS FT LAUDERDALE\nLLC\n1.00%\nManaging Member\n337 TRUMP MARKS GP CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLDINGS LP\n1.00%\nPartner\n338 TRUMP MARKS HOLDINGS LP *(1)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS GP CORP\nPartner\n99\nDTTM Operations LLC\nPartner\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLLYWOOD LLC\n100.00%\nMember\n339 TRUMP MARKS HOLLYWOOD CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP MARKS HOLLYWOOD LLC\n1.00%\nManaging Member\n340 TRUMP MARKS HOLLYWOOD LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP MARKS HOLLYWOOD CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n341 TRUMP MARKS ISTANBUL II CORP *(1)\nOwned by :\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010696",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS EGYPT LLC",
+      "TRUMP MARKS EGYPT CORP",
+      "DTTM OPERATIONS LLC",
+      "TRUMP MARKS FINE FOODS LLC",
+      "TRUMP MARKS FINE FOODS MEMBER CORP",
+      "TRUMP MARKS FT LAUDERDALE LLC",
+      "TRUMP MARKS FT LAUDERDALE MEMBER CORP",
+      "TRUMP MARKS GP CORP",
+      "TRUMP MARKS HOLDINGS LP",
+      "TRUMP MARKS HOLLYWOOD LLC",
+      "TRUMP MARKS HOLLYWOOD CORP",
+      "TRUMP MARKS ISTANBUL II CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A29 of 47",
+      "HOUSE_OVERSIGHT_010696",
+      "332",
+      "333",
+      "334",
+      "335",
+      "336",
+      "337",
+      "338",
+      "339",
+      "340",
+      "341"
+    ],
+    "financial_amounts": [
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010696"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be one page from a larger financial disclosure report. The last entry on the page, for 'TRUMP MARKS ISTANBUL II CORP', is incomplete, suggesting the details continue on the next page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010696.jpg",
+  "house_oversight_id": "010696",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:47:24.809535Z",
+    "model": "gemini-2.5-pro"
+  }
+}
