@@ -1,0 +1,122 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010754.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A screenshot or printout of a web article from U.S. News & World Report. The article is an opinion piece titled 'A Light of a Fierce Fire' by Mortimer B. Zuckerman, concerning Yitzhak Rabin. The main visual element is a photograph of lit memorial candles. The text is laid out in a standard article format with a header, navigation bar, title, byline, and body text. A document identifier 'HOUSE_OVERSIGHT_010754' is present at the bottom right.",
+    "layout": "The document has a header at the top with a date on the left and the article's full title on the right. Below this is the publication's logo and a navigation bar. The main content features a large image of candles, with the article's headline and byline overlaid. The body of the article is split into two columns: a narrow left column with the author's photo and biography, and a wider right column with the main text. The footer contains a URL, page number, and a document ID.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "11/5/2015\nYitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News\n\nU.S.News & WORLD REPORT\n\nNews | Opinion | National Issues | Special Reports | Cartoons | Photos | The Report\n\nOPINION\nA Light of a Fierce Fire\nYitzhak Rabin's bravery in office helped create peace between Palestine and Israel.\nBy MORTIMER B. ZUCKERMAN | November 4, 2015\n\nBy Mortimer B.\nZuckerman\n\nMortimer\nZuckerman is the\nchairman and\neditor-in-chief of\nU.S. News & World\nReport and the\npublisher of the\nNew York Daily\nNews.\n\nEditor's note: This editorial originally appeared in the November 20, 1995 issue of U.S. News & World\nReport.\n\nThe poet was once asked, \"If your house was burning and you could save only one thing, what would you\nsave?\" The poet answered, \"I would save the fire, for without the fire we are nothing.\"\n\nIt was Yitzhak Rabin's destiny not to be saved from the frenzy of a madman. But bullets cannot so easily\nextinguish what Rabin's bravery and vision ignited, the fire of Israel's commitment to peace. He might so\neasily have died in the din of battle, this man who made war when he had to. But he died instead amid the\nclamor of peace, with the acclaim of a mass peace rally of Israelis still in the air and still in his mind. It would\nbe his last wish that the flame of peace, for which he gave his life, should not be dimmed by anger and\ndespair. His state funeral, for all its sadness, was inspiring as an occasion for the vindication of his hopes,\nfor a new dedication to Israel's security from America and for a demonstration of goodwill by some former\narab enemies.\n\n[SEE: Editorial Cartoons on the Middle East]\n\nPresident Clinton led a bipartisan delegation that included the congressional Republican leadership, former\nPresident Bush and former Secretary of State George Shultz. It was more than a respectful gesture of\nprotocol. This was a statement of emotional and psychological support from the most powerful nation in the\nworld to a small, isolated country living in a perilous neighborhood and in a time of great national trauma:\nWe do more than share your grief, we understand your fears; we will not desert you as you have so many\n\nhttp://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival\n\n1/4\n\nHOUSE_OVERSIGHT_010754",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "11/5/2015",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "U.S.News & WORLD REPORT",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "News | Opinion | National Issues | Special Reports | Cartoons | Photos | The Report",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "OPINION\nA Light of a Fierce Fire\nYitzhak Rabin's bravery in office helped create peace between Palestine and Israel.\nBy MORTIMER B. ZUCKERMAN | November 4, 2015",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "By Mortimer B.\nZuckerman\n\nMortimer\nZuckerman is the\nchairman and\neditor-in-chief of\nU.S. News & World\nReport and the\npublisher of the\nNew York Daily\nNews.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Editor's note: This editorial originally appeared in the November 20, 1995 issue of U.S. News & World\nReport.\n\nThe poet was once asked, \"If your house was burning and you could save only one thing, what would you\nsave?\" The poet answered, \"I would save the fire, for without the fire we are nothing.\"\n\nIt was Yitzhak Rabin's destiny not to be saved from the frenzy of a madman. But bullets cannot so easily\nextinguish what Rabin's bravery and vision ignited, the fire of Israel's commitment to peace. He might so\neasily have died in the din of battle, this man who made war when he had to. But he died instead amid the\nclamor of peace, with the acclaim of a mass peace rally of Israelis still in the air and still in his mind. It would\nbe his last wish that the flame of peace, for which he gave his life, should not be dimmed by anger and\ndespair. His state funeral, for all its sadness, was inspiring as an occasion for the vindication of his hopes,\nfor a new dedication to Israel's security from America and for a demonstration of goodwill by some former\narab enemies.\n\n[SEE: Editorial Cartoons on the Middle East]\n\nPresident Clinton led a bipartisan delegation that included the congressional Republican leadership, former\nPresident Bush and former Secretary of State George Shultz. It was more than a respectful gesture of\nprotocol. This was a statement of emotional and psychological support from the most powerful nation in the\nworld to a small, isolated country living in a perilous neighborhood and in a time of great national trauma:\nWe do more than share your grief, we understand your fears; we will not desert you as you have so many",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "http://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "1/4",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010754",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-11-05",
+      "2015-11-04",
+      "1995-11-20"
+    ],
+    "people": [
+      "Yitzhak Rabin",
+      "Mortimer B. Zuckerman",
+      "President Clinton",
+      "President Bush",
+      "George Shultz"
+    ],
+    "organizations": [
+      "U.S. News & World Report",
+      "New York Daily News"
+    ],
+    "locations": [
+      "Palestine",
+      "Israel",
+      "America",
+      "Middle East"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010754"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010754"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "web_article",
+    "sender": null,
+    "recipient": null,
+    "subject": "Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival",
+    "date": "2015-11-04",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is a printout of a web article. The date in the top left corner (11/5/2015) likely represents the date the page was accessed or printed, while the date in the byline (November 4, 2015) is the publication date of the article. The article itself is a reprint of an older editorial from November 20, 1995.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010754.jpg",
+  "house_oversight_id": "010754",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:15:06.835127Z",
+    "model": "gemini-2.5-pro"
+  }
+}

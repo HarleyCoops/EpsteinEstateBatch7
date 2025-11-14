@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010747.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, likely a court filing or motion. The page contains typed text, including excerpts from a deposition transcript and legal arguments summarizing testimony. The document has a header with case information and a footer with a page number and a Bates stamp.",
+    "layout": "Standard portrait layout with a header at the top, a main body of text, and a footer at the bottom containing a page number and an identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 13 of 19\n\nQ. And did you have any knowledge of why [Dershowitz] was visiting there?\nA. No ma’am.\n...\nQ. And do you have any idea whether or not Mr. Dershowitz was also receiving\nmassages?\nA. I don’t know, Ma’am.\n...\nQ. As to whether any of those women were ever associated with Mr. Dershowitz would it\nbe a correct statement that you have absolutely no knowledge?\nA. I don’t know, sir.\n...\nQ. Okay. Were you in any way attempting in your response to Ms. Ezell to imply that\nMr. Dershowitz had a massage by one of these young ladies?\nA. I don’t know, sir.\n\nQ. You have no knowledge?\nA. No, sir.\n\n(Rodriguez Depo. Tr. at 279, 280, 385, 386.) To be sure, Rodriguez does testify that Prof.\n\nDershowitz was at Epstein’s home when young females were present at the home – an allegation\n\nwhich Dershowitz strenuously denies. However, Rodriguez did not testify that Prof. Dershowitz\n\nsaw, interacted with, or touched any of these females. Instead, when asked what Prof.\n\nDershowitz did “while those girls were at the house,” Rodriguez answered “He will read a book\n\nwith a glass of wine by the pool, stay inside.” (Id. at 426, 427.) When asked if Prof. Dershowitz\n\never even spoke to any of the girls, or “even knew that they were there” Rodriguez answered “I\n\ndon’t know.” (Id. at 427.) This is consistent with the fact that Epstein’s home is very large and\n\nhas separate closed-off quarters where Epstein resided. Prof. Dershowitz never stepped into\n\nthese private quarters.\n\nJane Doe #3 also relies upon the September 8, 2009 deposition testimony of Mr. Juan\n\nAlessi to “corroborate” Jane Doe #3’s sensational and false allegations regarding Prof.\n\nDershowitz. However, a more complete examination of that testimony reveals that Alessi did\n\nnot make any allegations of any wrong doing by Dershowitz. (See, DE 291-17, hereinafter\n\n13\n\nHOUSE_OVERSIGHT_010747",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 13 of 19",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Q. And did you have any knowledge of why [Dershowitz] was visiting there?\nA. No ma’am.\n...\nQ. And do you have any idea whether or not Mr. Dershowitz was also receiving\nmassages?\nA. I don’t know, Ma’am.\n...\nQ. As to whether any of those women were ever associated with Mr. Dershowitz would it\nbe a correct statement that you have absolutely no knowledge?\nA. I don’t know, sir.\n...\nQ. Okay. Were you in any way attempting in your response to Ms. Ezell to imply that\nMr. Dershowitz had a massage by one of these young ladies?\nA. I don’t know, sir.\n\nQ. You have no knowledge?\nA. No, sir.\n\n(Rodriguez Depo. Tr. at 279, 280, 385, 386.) To be sure, Rodriguez does testify that Prof.\n\nDershowitz was at Epstein’s home when young females were present at the home – an allegation\n\nwhich Dershowitz strenuously denies. However, Rodriguez did not testify that Prof. Dershowitz\n\nsaw, interacted with, or touched any of these females. Instead, when asked what Prof.\n\nDershowitz did “while those girls were at the house,” Rodriguez answered “He will read a book\n\nwith a glass of wine by the pool, stay inside.” (Id. at 426, 427.) When asked if Prof. Dershowitz\n\never even spoke to any of the girls, or “even knew that they were there” Rodriguez answered “I\n\ndon’t know.” (Id. at 427.) This is consistent with the fact that Epstein’s home is very large and\n\nhas separate closed-off quarters where Epstein resided. Prof. Dershowitz never stepped into\n\nthese private quarters.\n\nJane Doe #3 also relies upon the September 8, 2009 deposition testimony of Mr. Juan\n\nAlessi to “corroborate” Jane Doe #3’s sensational and false allegations regarding Prof.\n\nDershowitz. However, a more complete examination of that testimony reveals that Alessi did\n\nnot make any allegations of any wrong doing by Dershowitz. (See, DE 291-17, hereinafter",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "13",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010747",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2009-09-08"
+    ],
+    "people": [
+      "Dershowitz",
+      "Mr. Dershowitz",
+      "Prof. Dershowitz",
+      "Ms. Ezell",
+      "Rodriguez",
+      "Epstein",
+      "Jane Doe #3",
+      "Mr. Juan Alessi",
+      "Alessi"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Epstein's home"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 13 of 19",
+      "DE 291-17",
+      "HOUSE_OVERSIGHT_010747"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010747"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Legal Filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Summary and analysis of deposition testimony from Rodriguez and Juan Alessi concerning Alan Dershowitz's presence at Jeffrey Epstein's home.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Rodriguez Depo. Tr. at 279, 280, 385, 386",
+      "Id. at 426, 427",
+      "Id. at 427",
+      "September 8, 2009 deposition testimony of Mr. Juan Alessi",
+      "DE 291-17"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be part of a legal argument refuting allegations against Prof. Dershowitz by analyzing deposition testimonies.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010747.jpg",
+  "house_oversight_id": "010747",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:11:56.919448Z",
+    "model": "gemini-2.5-pro"
+  }
+}

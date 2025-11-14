@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010750.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, identified as page 16 of 19. The document is typed in a standard serif font and appears to be a court filing or legal brief. It contains a header with case information, a main body of text with legal arguments, footnotes at the bottom, and a document identifier in the footer.",
+    "layout": "The document has a standard legal format. A header at the top provides case and docket information. The main content is organized into paragraphs, including a section heading marked with a Roman numeral 'V'. Footnotes, indicated by superscript numbers in the text, are located at the bottom of the page, separated from the main text by a horizontal line. A page number is centered at the bottom, and a unique identifier is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 16 of 19\n\nadversaries, Jane Doe #3 argues that Prof. Dershowitz should not be allowed to intervene in this\naction⁸.\n\nIt is clear from the record, however, that Prof. Dershowitz acted immediately to defend\nhimself the first time he was made aware of any such allegations against him. In fact, just six\ndays after Jane Doe #3 filed her Motion for Joinder, which included vicious allegations against\nhim, Prof. Dershowitz filed his Motion for Limited Intervention. (DE 282.) Accordingly, Prof.\nDershowitz should be permitted to intervene for the limited purposes of moving to strike these\noutrageous and impertinent allegations.\n\nV. Jane Doe #3’s Reliance on Other’s Invocation of the\nFifth Amendment is Improper and Wholly Unpersuasive\n\nWithout a shred of physical evidence or witness corroboration for Jane Doe #3’s\nfantasies, she relies on invocations of the Fifth Amendment by Epstein as supportive of an\nadverse inference as to Prof. Dershowitz. Given that Epstein was taking the Fifth Amendment\non virtually all questions, and would have responded in the same way had the opposite questions\nbeen asked, there is no inference against Prof. Dershowitz to be made from the invocation of the\nFifth Amendment by Epstein⁹. Epstein’s interest – in declining to answer any questions\nwhatsoever – was his own personal interest and not that of his lawyers, and lacks even minimal\nrelevance. Coquina Investments v. TD Bank, N.A., 760 F.3d 1300, 1310-11 (11th Cir.\n2014)(adverse inferences from the fifth amendment invocation by third parties allowed only\n\n_____________________\n\n⁸ Jane Doe #3’s argument that he has not yet scheduled his deposition in this case, or the recently\nfiled defamation action, is of no moment. At the appropriate time, Prof. Dershowitz will of\ncourse, appear for his deposition and testify that Jane Doe #3’s allegations as to him are entirely\nfalse. This, however, has no bearing as to whether the Court should permit the limited\nintervention Prof. Dershowitz seeks.\n⁹ Had Epstein been asked about anyone – from leading government officials to members\nof the clergy – he would have similarly invoked the Fifth Amendment.\n\n16\n\nHOUSE_OVERSIGHT_010750",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 16 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "adversaries, Jane Doe #3 argues that Prof. Dershowitz should not be allowed to intervene in this\naction⁸.\n\nIt is clear from the record, however, that Prof. Dershowitz acted immediately to defend\nhimself the first time he was made aware of any such allegations against him. In fact, just six\ndays after Jane Doe #3 filed her Motion for Joinder, which included vicious allegations against\nhim, Prof. Dershowitz filed his Motion for Limited Intervention. (DE 282.) Accordingly, Prof.\nDershowitz should be permitted to intervene for the limited purposes of moving to strike these\noutrageous and impertinent allegations.\n\nV. Jane Doe #3’s Reliance on Other’s Invocation of the\nFifth Amendment is Improper and Wholly Unpersuasive\n\nWithout a shred of physical evidence or witness corroboration for Jane Doe #3’s\nfantasies, she relies on invocations of the Fifth Amendment by Epstein as supportive of an\nadverse inference as to Prof. Dershowitz. Given that Epstein was taking the Fifth Amendment\non virtually all questions, and would have responded in the same way had the opposite questions\nbeen asked, there is no inference against Prof. Dershowitz to be made from the invocation of the\nFifth Amendment by Epstein⁹. Epstein’s interest – in declining to answer any questions\nwhatsoever – was his own personal interest and not that of his lawyers, and lacks even minimal\nrelevance. Coquina Investments v. TD Bank, N.A., 760 F.3d 1300, 1310-11 (11th Cir.\n2014)(adverse inferences from the fifth amendment invocation by third parties allowed only",
+        "type": "printed"
+      },
+      {
+        "region": "footnotes",
+        "text": "⁸ Jane Doe #3’s argument that he has not yet scheduled his deposition in this case, or the recently\nfiled defamation action, is of no moment. At the appropriate time, Prof. Dershowitz will of\ncourse, appear for his deposition and testify that Jane Doe #3’s allegations as to him are entirely\nfalse. This, however, has no bearing as to whether the Court should permit the limited\nintervention Prof. Dershowitz seeks.\n⁹ Had Epstein been asked about anyone – from leading government officials to members\nof the clergy – he would have similarly invoked the Fifth Amendment.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "16",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010750",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2014"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Epstein"
+    ],
+    "organizations": [
+      "TD Bank, N.A.",
+      "11th Cir.",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 16 of 19",
+      "DE 282",
+      "760 F.3d 1300",
+      "HOUSE_OVERSIGHT_010750"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010750"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Argument regarding Prof. Dershowitz's intervention in a case and Jane Doe #3's reliance on Epstein's invocation of the Fifth Amendment.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 282",
+      "Coquina Investments v. TD Bank, N.A., 760 F.3d 1300"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal brief arguing in favor of allowing 'Prof. Dershowitz' to intervene in a case involving 'Jane Doe #3' and refuting the relevance of 'Epstein's' use of the Fifth Amendment. The identifier 'HOUSE_OVERSIGHT_010750' suggests this document was part of a collection reviewed by the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010750.jpg",
+  "house_oversight_id": "010750",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:13:18.581231Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010745.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is black on a white background. The page includes a header with case information, a main body of text organized into paragraphs, a numbered footnote at the bottom, a page number, and an identifier in the bottom right corner.",
+    "layout": "Standard portrait layout with a header, main text body, a footnote separated by a horizontal line, and a footer containing a page number and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 11 of 19\n\nthat evidence will show that former president Clinton, former vice president Al Gore, and Tipper\nGore never set foot on Epstein’s private island, and that in all events Jane Doe #3’s detailed\naccounts are not merely preposterous on their face but in fact entirely false and her sworn\nstatement to this court is perjurious.\n\nIndeed, while the points raised above show a complete lack of investigation into the\ncredibility of the woman making these scurrilous allegations⁶, what is most remarkable about\nJane Doe #3’s Response is what it omits. Approximately six years ago, Jane Doe #3 took\nadvantage of the NPA’s provisions, sued Mr. Epstein and received a monetary settlement.\nIronically, Jane Doe #3 now seeks to overturn the very NPA which required Epstein to waive his\nright to contest liability by moving to join the instant action which seeks to rescind that very\nagreement.\n\nYet, she apparently never once mentioned Prof. Dershowitz’s now supposedly systematic\nsexual abuse of her to the prosecutors or to her own lawyer. No explanation is given for this\nmonumental inconsistency. Nor, despite his supposed status as a co-conspirator in a scheme to\ncover up an underage sex abuse ring, is there any explanation given for the fact that Prof.\nDershowitz was never even investigated—or even mentioned—as a potential suspect.\nMeanwhile the present case has been proceeding for the last six and a half years, but no\nexplanation has been given for the timing of Jane Doe #3’s effort to join this case only last\nmonth.\n\n\n⁶ Prof. Dershowitz reserves the right to promptly file a succinct supplement to this Reply brief\nwith information which he is in the process of confirming presently.\n\n11\n\nHOUSE_OVERSIGHT_010745",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 11 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "that evidence will show that former president Clinton, former vice president Al Gore, and Tipper\nGore never set foot on Epstein’s private island, and that in all events Jane Doe #3’s detailed\naccounts are not merely preposterous on their face but in fact entirely false and her sworn\nstatement to this court is perjurious.\n\nIndeed, while the points raised above show a complete lack of investigation into the\ncredibility of the woman making these scurrilous allegations⁶, what is most remarkable about\nJane Doe #3’s Response is what it omits. Approximately six years ago, Jane Doe #3 took\nadvantage of the NPA’s provisions, sued Mr. Epstein and received a monetary settlement.\nIronically, Jane Doe #3 now seeks to overturn the very NPA which required Epstein to waive his\nright to contest liability by moving to join the instant action which seeks to rescind that very\nagreement.\n\nYet, she apparently never once mentioned Prof. Dershowitz’s now supposedly systematic\nsexual abuse of her to the prosecutors or to her own lawyer. No explanation is given for this\nmonumental inconsistency. Nor, despite his supposed status as a co-conspirator in a scheme to\ncover up an underage sex abuse ring, is there any explanation given for the fact that Prof.\nDershowitz was never even investigated—or even mentioned—as a potential suspect.\nMeanwhile the present case has been proceeding for the last six and a half years, but no\nexplanation has been given for the timing of Jane Doe #3’s effort to join this case only last\nmonth.",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "⁶ Prof. Dershowitz reserves the right to promptly file a succinct supplement to this Reply brief\nwith information which he is in the process of confirming presently.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "11",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010745",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Clinton",
+      "Al Gore",
+      "Tipper Gore",
+      "Epstein",
+      "Jane Doe #3",
+      "Prof. Dershowitz"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "HOUSE_OVERSIGHT_010745"
+    ],
+    "financial_amounts": [
+      "a monetary settlement"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Arguments concerning Jane Doe #3's allegations and legal actions in a case involving Mr. Epstein and Prof. Dershowitz.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal brief or motion. The financial amount 'a monetary settlement' is mentioned but no specific value is provided.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010745.jpg",
+  "house_oversight_id": "010745",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:11:04.582818Z",
+    "model": "gemini-2.5-pro"
+  }
+}

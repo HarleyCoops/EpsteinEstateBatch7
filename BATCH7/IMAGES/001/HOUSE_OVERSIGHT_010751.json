@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010751.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document filed in a U.S. court. The page is numbered 17 of 19 and contains legal arguments, a conclusion, a signature block, and document identification numbers in the header and footer.",
+    "layout": "Standard legal document format with a header, a main body of text, a signature block, a centered page number, and a footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 17 of 19\n\nwhere inference is “trustworthy under all of the circumstances” including relationship, shared\ninterest and control); Kontos v. Kontos, 968 F.Supp. 400, 407-408 (1997) (no adverse inference\nallowed from invocation of Fifth Amendment by sister of civil defendant in absence of “identity\nof interests”); Sebastian v. City of Chicago, 2008 WL 2875255 *33-34 (N.D. Ill. 2008)(no\nadverse inference from invocation of Fifth Amendment in absence of close family or business\nrelationship). Similarly, any other witnesses taking the Fifth Amendment and remaining silent to\nprotect themselves are obviously not creating any kind of evidence against Prof. Dershowitz.\nSee, Coquina Investments, 760 F.3d at 1310 (11th Cir. 2014).\n\nConclusion\n\nIn conclusion, Prof. Dershowitz has no interest in joining this case other than to strike the\nscurrilous and irrelevant allegations against him. If the Court grants Jane Does #3 and #4 motion\nfor joinder (DE 279), then Prof. Dershowitz’s motion for limited intervention should be granted\nfor such purposes as may be appropriate including submitting a motion to strike or other relief,\nso as to give him an opportunity to defend himself against harmful, defamatory and false\nallegations of the worse kind. If the Court rejects the pending motion for joinder, then the Court\nshould strike the scurrilous allegations against Dershowitz, or, alternatively, determine the\npossible mootness of his Motion for Limited Intervention. Of course, if the Court strikes the\nallegations against him sua sponte, Prof. Dershowitz will withdraw his motion for limited\nintervention.\n\nRespectfully submitted,\n\n/s/     Kendall Coffey\nKendall Coffey, Fla. Bar No. 259681\nkcoffey@coffeyburlington.com\nGabriel Groisman, Fla. Bar No. 25644\nggroisman@coffeyburlington.com\n\n17\n\nHOUSE_OVERSIGHT_010751",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 17 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "where inference is “trustworthy under all of the circumstances” including relationship, shared\ninterest and control); Kontos v. Kontos, 968 F.Supp. 400, 407-408 (1997) (no adverse inference\nallowed from invocation of Fifth Amendment by sister of civil defendant in absence of “identity\nof interests”); Sebastian v. City of Chicago, 2008 WL 2875255 *33-34 (N.D. Ill. 2008)(no\nadverse inference from invocation of Fifth Amendment in absence of close family or business\nrelationship). Similarly, any other witnesses taking the Fifth Amendment and remaining silent to\nprotect themselves are obviously not creating any kind of evidence against Prof. Dershowitz.\nSee, Coquina Investments, 760 F.3d at 1310 (11th Cir. 2014).\n\nConclusion\n\nIn conclusion, Prof. Dershowitz has no interest in joining this case other than to strike the\nscurrilous and irrelevant allegations against him. If the Court grants Jane Does #3 and #4 motion\nfor joinder (DE 279), then Prof. Dershowitz’s motion for limited intervention should be granted\nfor such purposes as may be appropriate including submitting a motion to strike or other relief,\nso as to give him an opportunity to defend himself against harmful, defamatory and false\nallegations of the worse kind. If the Court rejects the pending motion for joinder, then the Court\nshould strike the scurrilous allegations against Dershowitz, or, alternatively, determine the\npossible mootness of his Motion for Limited Intervention. Of course, if the Court strikes the\nallegations against him sua sponte, Prof. Dershowitz will withdraw his motion for limited\nintervention.",
+        "type": "printed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Respectfully submitted,\n\n/s/     Kendall Coffey\nKendall Coffey, Fla. Bar No. 259681\nkcoffey@coffeyburlington.com\nGabriel Groisman, Fla. Bar No. 25644\nggroisman@coffeyburlington.com",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "17",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010751",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "1997",
+      "2008",
+      "2014"
+    ],
+    "people": [
+      "Kontos",
+      "Sebastian",
+      "Prof. Dershowitz",
+      "Jane Does #3 and #4",
+      "Kendall Coffey",
+      "Gabriel Groisman"
+    ],
+    "organizations": [
+      "City of Chicago",
+      "Coquina Investments",
+      "FLSD"
+    ],
+    "locations": [
+      "N.D. Ill."
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 17 of 19",
+      "DE 279",
+      "HOUSE_OVERSIGHT_010751",
+      "Fla. Bar No. 259681",
+      "Fla. Bar No. 25644"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [
+        "kcoffey@coffeyburlington.com",
+        "ggroisman@coffeyburlington.com"
+      ],
+      "addresses": []
+    },
+    "signatures": [
+      "/s/     Kendall Coffey"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Kendall Coffey",
+    "recipient": "FLSD Docket",
+    "subject": "Motion for Limited Intervention on behalf of Prof. Dershowitz, arguing against adverse inferences from Fifth Amendment invocations and seeking to strike allegations.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 279",
+      "Kontos v. Kontos, 968 F.Supp. 400",
+      "Sebastian v. City of Chicago, 2008 WL 2875255",
+      "Coquina Investments, 760 F.3d at 1310"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a legal filing. The sender is inferred from the signature block. The recipient is the court where the document was filed (FLSD Docket).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010751.jpg",
+  "house_oversight_id": "010751",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:13:47.467291Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010752.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal court filing. The page contains contact information for two attorneys, Benjamin H. Brodsky and Thomas Scott, who are listed as counsel for Prof. Alan M. Dershowitz. The document has a standard header with case information and a footer with a page number and a Bates number.",
+    "layout": "The document has a header at the top, a body of text in the center, and a footer at the bottom. The body is divided into two sections, each providing contact details for an attorney.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 18 of 19\n\nBenjamin H. Brodsky, Fla. Bar No. 73748\nbbrodsky@coffeyburlington.com\nCOFFEY BURLINGTON, P.L.\n2601 South Bayshore Drive, PH1\nMiami, Florida 33133\nTelephone: (305) 858-2900\nFacsimile: (305) 858-5261\n\n- and –\n\nThomas Scott, Fla. Bar No. 149100\nthomas.scott@csklegal.com\nCOLE, SCOTT & KISSANE, P.A.\nDadeland Centre II\n9150 South Dadeland Boulevard, Suite 1400\nMiami, Florida 33156\nTelephone: (305) 350-5300\nFacsimile: (305) 373-2294\n\nCounsel for Prof. Alan M. Dershowitz\n\n18\n\nHOUSE_OVERSIGHT_010752",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 18 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Benjamin H. Brodsky, Fla. Bar No. 73748\nbbrodsky@coffeyburlington.com\nCOFFEY BURLINGTON, P.L.\n2601 South Bayshore Drive, PH1\nMiami, Florida 33133\nTelephone: (305) 858-2900\nFacsimile: (305) 858-5261\n\n- and –\n\nThomas Scott, Fla. Bar No. 149100\nthomas.scott@csklegal.com\nCOLE, SCOTT & KISSANE, P.A.\nDadeland Centre II\n9150 South Dadeland Boulevard, Suite 1400\nMiami, Florida 33156\nTelephone: (305) 350-5300\nFacsimile: (305) 373-2294\n\nCounsel for Prof. Alan M. Dershowitz",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "18",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010752",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Benjamin H. Brodsky",
+      "Thomas Scott",
+      "Prof. Alan M. Dershowitz"
+    ],
+    "organizations": [
+      "COFFEY BURLINGTON, P.L.",
+      "COLE, SCOTT & KISSANE, P.A."
+    ],
+    "locations": [
+      "Miami, Florida 33133",
+      "Miami, Florida 33156"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Fla. Bar No. 73748",
+      "Fla. Bar No. 149100",
+      "HOUSE_OVERSIGHT_010752"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(305) 858-2900",
+        "(305) 858-5261",
+        "(305) 350-5300",
+        "(305) 373-2294"
+      ],
+      "email_addresses": [
+        "bbrodsky@coffeyburlington.com",
+        "thomas.scott@csklegal.com"
+      ],
+      "addresses": [
+        "COFFEY BURLINGTON, P.L., 2601 South Bayshore Drive, PH1, Miami, Florida 33133",
+        "COLE, SCOTT & KISSANE, P.A., Dadeland Centre II, 9150 South Dadeland Boulevard, Suite 1400, Miami, Florida 33156"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010752"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Counsel Information for Prof. Alan M. Dershowitz",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document appears to be a service list or signature page from a court filing, identifying the legal counsel for a party in the case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010752.jpg",
+  "house_oversight_id": "010752",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:14:10.620471Z",
+    "model": "gemini-2.5-pro"
+  }
+}

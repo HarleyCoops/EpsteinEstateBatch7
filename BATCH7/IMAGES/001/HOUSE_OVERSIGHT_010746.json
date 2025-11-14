@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010746.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, typed in a serif font. The page is formatted with a header containing case information, a main body of text, a page number at the bottom center, and a document identifier in the bottom right corner. The text is black on a white background.",
+    "layout": "The document follows a standard legal filing format. It includes a header with case and docket information, a numbered section heading, several paragraphs of body text, a centered page number at the bottom, and a Bates stamp in the bottom-right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 12 of 19\n\nIV. Prof. Dershowitz Immediately Responded to Jane Doe #3's Allegations\nAgainst Him by Asking to Defend his Reputation\n\nJane Doe #3 also argues that Prof. Dershowitz should not be allowed to intervene because\n\n“he has declined to defend his reputation in other actions.” (DE 279, at 12.) This is\n\ndemonstrably false. It is without question that the Motion for Joinder filed by Jane Doe #3 on\n\nDecember 30, 2014 (DE 279) was the first time anyone has ever alleged that Prof. Dershowitz\n\nhad any sexual contact with a minor. It necessarily follows that this is the first opportunity Prof.\n\nDershowitz has had to defend his reputation related to “his involvement in Epstein's offenses.”\n\nIn fact, just six days after these venomous allegations were made, Prof. Dershowitz filed his\n\nMotion for Limited Intervention. (DE 282.)\n\nMore specifically, Jane Doe #3 argues that when the civil lawsuit was brought by “one of\n\nthe underage females” against Epstein in 2009 (Doe v. Epstein, No. 9:08-80893-KAM (S.D.\n\nFla.), “Dershowitz understood that counsel for many of Epstein's victims believed that mounting\n\nevidence pointed toward his role extending beyond merely being an attorney for Epstein.” (DE\n\n279 at 13.) This, too, is demonstrably false. Despite this rank and self-serving speculation about\n\nwhat Prof. Dershowitz “understood,” there is not one piece of evidence which points to any\n\nallegations that he engaged in any sexual contact with any minor, or even observed any criminal\n\nactivity, prior to the December 30, 2014 Motion for Joinder. Instead, the deposition testimony\n\nwhich Jane Doe #3 points to simply states that Prof. Dershowitz visited Epstein's home\n\n(Deposition Testimony of Alfredo Rodriguez at 199, 278, 279, DE 291-18, herein, “Rodriguez\n\nDepo. Tr.”) Rodriguez specifically testified that he has no idea whether Prof. Dershowitz had\n\nany contact at all with any female.\n\n12\n\nHOUSE_OVERSIGHT_010746",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 12 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "IV. Prof. Dershowitz Immediately Responded to Jane Doe #3's Allegations\nAgainst Him by Asking to Defend his Reputation\n\nJane Doe #3 also argues that Prof. Dershowitz should not be allowed to intervene because\n\n“he has declined to defend his reputation in other actions.” (DE 279, at 12.) This is\n\ndemonstrably false. It is without question that the Motion for Joinder filed by Jane Doe #3 on\n\nDecember 30, 2014 (DE 279) was the first time anyone has ever alleged that Prof. Dershowitz\n\nhad any sexual contact with a minor. It necessarily follows that this is the first opportunity Prof.\n\nDershowitz has had to defend his reputation related to “his involvement in Epstein's offenses.”\n\nIn fact, just six days after these venomous allegations were made, Prof. Dershowitz filed his\n\nMotion for Limited Intervention. (DE 282.)\n\nMore specifically, Jane Doe #3 argues that when the civil lawsuit was brought by “one of\n\nthe underage females” against Epstein in 2009 (Doe v. Epstein, No. 9:08-80893-KAM (S.D.\n\nFla.), “Dershowitz understood that counsel for many of Epstein's victims believed that mounting\n\nevidence pointed toward his role extending beyond merely being an attorney for Epstein.” (DE\n\n279 at 13.) This, too, is demonstrably false. Despite this rank and self-serving speculation about\n\nwhat Prof. Dershowitz “understood,” there is not one piece of evidence which points to any\n\nallegations that he engaged in any sexual contact with any minor, or even observed any criminal\n\nactivity, prior to the December 30, 2014 Motion for Joinder. Instead, the deposition testimony\n\nwhich Jane Doe #3 points to simply states that Prof. Dershowitz visited Epstein's home\n\n(Deposition Testimony of Alfredo Rodriguez at 199, 278, 279, DE 291-18, herein, “Rodriguez\n\nDepo. Tr.”) Rodriguez specifically testified that he has no idea whether Prof. Dershowitz had\n\nany contact at all with any female.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "12",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010746",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2014-12-30",
+      "2009"
+    ],
+    "people": [
+      "Prof. Dershowitz",
+      "Jane Doe #3",
+      "Epstein",
+      "Alfredo Rodriguez",
+      "Rodriguez"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 12 of 19",
+      "DE 279",
+      "DE 282",
+      "No. 9:08-80893-KAM",
+      "DE 291-18",
+      "HOUSE_OVERSIGHT_010746"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010746"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Prof. Dershowitz Immediately Responded to Jane Doe #3's Allegations Against Him by Asking to Defend his Reputation",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 279",
+      "DE 282",
+      "Case No. 9:08-80893-KAM (Doe v. Epstein)",
+      "DE 291-18"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal response or motion filed on behalf of Prof. Dershowitz, refuting allegations made by 'Jane Doe #3' in the context of litigation related to Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010746.jpg",
+  "house_oversight_id": "010746",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:11:28.160749Z",
+    "model": "gemini-2.5-pro"
+  }
+}

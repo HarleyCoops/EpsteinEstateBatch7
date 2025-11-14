@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010755.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a printed article. The document has a header with a date and title, a two-column body of text, and a footer containing a URL, page number, and a document identifier stamp. A large, stylized quote is prominently displayed in the upper right quadrant.",
+    "layout": "The document has a header at the top. The main content is in a two-column format, with a large pull quote overlapping the columns. The footer contains a URL on the left, a page number on the right, and a document identifier at the very bottom center.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "11/5/2015\nYitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News\n\ntimes in your history been deserted. All Americans could take pride in President Clinton's splendid eulogy;\nin the uniqueness of America's compassion and friendship that extended beyond a calculation of narrow\nnational interest; in the honor of the hand outstretched at a time of need to an ally and friend. The president\nrose to the moment. The hundreds of thousands of people who lined the roadside and saw the American\ndelegation were clearly moved.\n\nOf equal significance was the roll call of certain\nArab countries (excluding Saudi Arabia) and\nespecially the emotional speech of King Hussein\nof Jordan. His words referring to Yitzhak and\nLeah Rabin as \"my brother\" and \"my sister,\"\nwhich Muslims usually reserve for one another,\nand the tears shed by both the king and his\nqueen, made a deep impression on the Israelis\nfor their humanity and ability to overcome the\npast. Here, clearly, were keepers of Rabin's flame\nof peace, continuing a line that began with Egypt's\nlate president Anwar Sadat.\n\nHe alone, at the time,\nhad the capacity to\npersuade the divided\nand wary Israelis to\naccept a compromise.\n\nIt is hard for outsiders to appreciate the effect on\nIsraelis of the worldwide outpouring of sympathy\nand condolence, with some 80 nations\nrepresented at the funeral. The Israelis are a traumatized people. They have for so long been alone, so\nlong believed they could not rely on anyone but themselves, so long expected the world to stay silent in\ntheir times of trouble. The extensive response resonates for a people who remember how the world closed\nits doors to millions of Jews in the 1930s. Their deaths in the Holocaust were but an obscene multiple of the\ndeaths endured in the crusades and pogroms of earlier centuries when the Jews were betrayed by those\nwho had the power to save them.\n\nIsrael was to be the end of that vulnerable status of perpetual minority, an end to exile and alienation, and a\nbeginning of a normal and natural form of national existence. Israel was home, the new home in the old\ncountry, proclaiming that the Jews had formed a self-reliant community and did not need others to fight\ntheir battles for them. Now they had their future defined by their own family; the farmer, the kibbutznik, the\njet pilot, the shopkeeper, the schoolteacher could coalesce with a traditional language, with their own bible,\ntheir own culture. This self-reliance is a matter of great pride. Jews could look after their own family. When\nthe Jews were kidnapped in Entebbe, Uganda, it was the Israelis who took care of it. A Jewish majority\ncould eliminate Jewish vulnerability, and with their own state, the Israelis could, they thought, be like all\nother nations and like everyone else. The passion for wanting to be normal extended to the notion that to\nbe accepted, Jews did not have to justify themselves by winning the Moral Man of the Year Award every\nyear – at the cost of their own survival. To be 10 percent more moral than other nations would make them\na light unto the world; if they were expected to be 50 percent more moral, they would be dead.\n\n[READ: One State Over the Status Quo]\n\nAnd yet Israel cannot be just another secular country. This very land forces the Jews into a dialogue with\ntheir religious past. The land was defined through religion, through the divine promise to Abraham, the\ncovenant with the Father and the covenant with the people of Israel. For many religious Zionists, the victory\nof the Six-Day War, and the subsequent opening to resettlement of the greater land of Israel, were clear\nsigns that God was guiding the secular Zionist revolution toward the ultimate realization of the prophetic\nvision of history. That is why, for some religious Jews, admitting the existence of a Palestinian nation whose\nhomeland is the Holy Land is tantamount to violating the integrity of the Jewish people's covenantal identity.\nBut the Jews faced a dilemma. They had come home to find peace and safety, only to find that their\nneighbors also claimed this tiny piece of land as their home. Even worse, how do you share a home with\nsomeone who says: \"You have no right to be here\"?\n\nIt is the great contribution of Yitzhak Rabin that has brought a moral answer to this dilemma. There are\nthose Israelis who emphasize self-reliance and remember Rabbi Hillel's saying, \"If I am not for myself, who\nis for me?\" Rabin understood Rabbi Hillel had a second part: \"When I am for myself, what am I?\" He saw\nthat the Jews could not control 2 million Arabs without frequent resort to a violence that would erode the\nmoral and Jewish character of the state and, with that, its support in the world. He sought a new definition\nof Israeli strength and normalcy that incorporated not just military power but also moral and economic\nfortitude. He decided to end the Israeli occupation of Palestine and any pretense that Israel could become a\n\nhttp://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival\n\n2/4\n\nHOUSE_OVERSIGHT_010755",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "11/5/2015\nYitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "times in your history been deserted. All Americans could take pride in President Clinton's splendid eulogy;\nin the uniqueness of America's compassion and friendship that extended beyond a calculation of narrow\nnational interest; in the honor of the hand outstretched at a time of need to an ally and friend. The president\nrose to the moment. The hundreds of thousands of people who lined the roadside and saw the American\ndelegation were clearly moved.\n\nOf equal significance was the roll call of certain\nArab countries (excluding Saudi Arabia) and\nespecially the emotional speech of King Hussein\nof Jordan. His words referring to Yitzhak and\nLeah Rabin as \"my brother\" and \"my sister,\"\nwhich Muslims usually reserve for one another,\nand the tears shed by both the king and his\nqueen, made a deep impression on the Israelis\nfor their humanity and ability to overcome the\npast. Here, clearly, were keepers of Rabin's flame\nof peace, continuing a line that began with Egypt's\nlate president Anwar Sadat.\n\nIt is hard for outsiders to appreciate the effect on\nIsraelis of the worldwide outpouring of sympathy\nand condolence, with some 80 nations\nrepresented at the funeral. The Israelis are a traumatized people. They have for so long been alone, so\nlong believed they could not rely on anyone but themselves, so long expected the world to stay silent in\ntheir times of trouble. The extensive response resonates for a people who remember how the world closed\nits doors to millions of Jews in the 1930s. Their deaths in the Holocaust were but an obscene multiple of the\ndeaths endured in the crusades and pogroms of earlier centuries when the Jews were betrayed by those\nwho had the power to save them.\n\nIsrael was to be the end of that vulnerable status of perpetual minority, an end to exile and alienation, and a\nbeginning of a normal and natural form of national existence. Israel was home, the new home in the old\ncountry, proclaiming that the Jews had formed a self-reliant community and did not need others to fight\ntheir battles for them. Now they had their future defined by their own family; the farmer, the kibbutznik, the\njet pilot, the shopkeeper, the schoolteacher could coalesce with a traditional language, with their own bible,\ntheir own culture. This self-reliance is a matter of great pride. Jews could look after their own family. When\nthe Jews were kidnapped in Entebbe, Uganda, it was the Israelis who took care of it. A Jewish majority\ncould eliminate Jewish vulnerability, and with their own state, the Israelis could, they thought, be like all\nother nations and like everyone else. The passion for wanting to be normal extended to the notion that to\nbe accepted, Jews did not have to justify themselves by winning the Moral Man of the Year Award every\nyear – at the cost of their own survival. To be 10 percent more moral than other nations would make them\na light unto the world; if they were expected to be 50 percent more moral, they would be dead.\n\n[READ: One State Over the Status Quo]\n\nAnd yet Israel cannot be just another secular country. This very land forces the Jews into a dialogue with\ntheir religious past. The land was defined through religion, through the divine promise to Abraham, the\ncovenant with the Father and the covenant with the people of Israel. For many religious Zionists, the victory\nof the Six-Day War, and the subsequent opening to resettlement of the greater land of Israel, were clear\nsigns that God was guiding the secular Zionist revolution toward the ultimate realization of the prophetic\nvision of history. That is why, for some religious Jews, admitting the existence of a Palestinian nation whose\nhomeland is the Holy Land is tantamount to violating the integrity of the Jewish people's covenantal identity.\nBut the Jews faced a dilemma. They had come home to find peace and safety, only to find that their\nneighbors also claimed this tiny piece of land as their home. Even worse, how do you share a home with\nsomeone who says: \"You have no right to be here\"?\n\nIt is the great contribution of Yitzhak Rabin that has brought a moral answer to this dilemma. There are\nthose Israelis who emphasize self-reliance and remember Rabbi Hillel's saying, \"If I am not for myself, who\nis for me?\" Rabin understood Rabbi Hillel had a second part: \"When I am for myself, what am I?\" He saw\nthat the Jews could not control 2 million Arabs without frequent resort to a violence that would erode the\nmoral and Jewish character of the state and, with that, its support in the world. He sought a new definition\nof Israeli strength and normalcy that incorporated not just military power but also moral and economic\nfortitude. He decided to end the Israeli occupation of Palestine and any pretense that Israel could become a",
+        "type": "printed"
+      },
+      {
+        "region": "pull_quote",
+        "text": "He alone, at the time,\nhad the capacity to\npersuade the divided\nand wary Israelis to\naccept a compromise.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "http://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival\n\n2/4\n\nHOUSE_OVERSIGHT_010755",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-11-05",
+      "2015-11-04"
+    ],
+    "people": [
+      "Yitzhak Rabin",
+      "President Clinton",
+      "King Hussein",
+      "Leah Rabin",
+      "Anwar Sadat",
+      "Abraham",
+      "Rabbi Hillel"
+    ],
+    "organizations": [
+      "US News",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Saudi Arabia",
+      "Jordan",
+      "Egypt",
+      "Entebbe, Uganda",
+      "Israel",
+      "Palestine"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010755"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "http://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010755"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "article",
+    "sender": null,
+    "recipient": null,
+    "subject": "Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival",
+    "date": "2015-11-05",
+    "references": [
+      "HOUSE_OVERSIGHT_010755"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be page 2 of 4 of an article from US News, dated November 4, 2015 (from URL) or November 5, 2015 (from header). It has been stamped with a document identifier by the House Oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010755.jpg",
+  "house_oversight_id": "010755",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:15:40.011714Z",
+    "model": "gemini-2.5-pro"
+  }
+}

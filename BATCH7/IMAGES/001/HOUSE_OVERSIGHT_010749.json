@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010749.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is black on a white background. The document has a header with case information, a main body of text, and a footer with a page number and an identifier.",
+    "layout": "Standard legal document format with a header at the top, a main body of text, a page number centered at the bottom, and an identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 15 of 19\n\nNext, Jane Doe #3 claims that Prof. Dershowitz declined to defend his reputation in the\nEdwards v. Epstein lawsuit (Case no. 502009-CA-040800) in Palm Beach County Circuit Court.\n(Opp. to Mtn. to Intervene at 13.) In support of this allegation, Jane Doe #3 argues that her\nattorney in the instant matter, Bradley Edwards (through his attorney Jack Scarola) contacted\nProf. Dershowitz to seek his voluntary cooperation in answering questions about Prof.\nDershowitz’s client, Jeffrey Epstein’s conduct. Prof. Dershowitz responded by letter stating\n\n    As you may know, I was Jeffrey Epstein’s attorney when he submitted his guilty plea.\n    Accordingly, “any knowledge” I may have in connection with that plea is privileged\n    information. If you would let me know what non-privileged information you would seek\n    from me, I would then be able to decide whether to cooperate.\n\n(DE 291-11.) Dershowitz sent a second letter on or about August 29, 2011 explaining that he\nhas “never personally observed Jeffrey Epstein in the presence of underage females,” and asking\nEdwards’ attorney to provide him with any alleged basis for his unfounded belief. Edwards’\nattorney responded by stating that based on “sworn testimony and private interviews” he had\n“placed [Dershowitz] in the presence of Jeffrey Epstein on multiple occasions... when Jeffrey\nEpstein was in the company of underage females subsequently identified as victims.” (DE 291 at\n13, 14.) Again, no allegations were made at that time by Edwards’ attorney, or by anyone else,\nthat Prof. Dershowitz engaged in any inappropriate conduct or witnessed any inappropriate\nconduct related to Jeffrey Epstein and underage females. Instead, Edwards was incorrectly\nseeking Prof. Dershowitz’s cooperation for a civil suit between Dershowitz’s client, Jeffrey\nEpstein, and Edwards himself. Remarkably, because Prof. Dershowitz did not agree to\ncompromise his ethical obligations to his client, by voluntarily cooperating with Epstein’s\n\n15\n\nHOUSE_OVERSIGHT_010749",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 15 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Next, Jane Doe #3 claims that Prof. Dershowitz declined to defend his reputation in the\nEdwards v. Epstein lawsuit (Case no. 502009-CA-040800) in Palm Beach County Circuit Court.\n(Opp. to Mtn. to Intervene at 13.) In support of this allegation, Jane Doe #3 argues that her\nattorney in the instant matter, Bradley Edwards (through his attorney Jack Scarola) contacted\nProf. Dershowitz to seek his voluntary cooperation in answering questions about Prof.\nDershowitz’s client, Jeffrey Epstein’s conduct. Prof. Dershowitz responded by letter stating\n\n    As you may know, I was Jeffrey Epstein’s attorney when he submitted his guilty plea.\n    Accordingly, “any knowledge” I may have in connection with that plea is privileged\n    information. If you would let me know what non-privileged information you would seek\n    from me, I would then be able to decide whether to cooperate.\n\n(DE 291-11.) Dershowitz sent a second letter on or about August 29, 2011 explaining that he\nhas “never personally observed Jeffrey Epstein in the presence of underage females,” and asking\nEdwards’ attorney to provide him with any alleged basis for his unfounded belief. Edwards’\nattorney responded by stating that based on “sworn testimony and private interviews” he had\n“placed [Dershowitz] in the presence of Jeffrey Epstein on multiple occasions... when Jeffrey\nEpstein was in the company of underage females subsequently identified as victims.” (DE 291 at\n13, 14.) Again, no allegations were made at that time by Edwards’ attorney, or by anyone else,\nthat Prof. Dershowitz engaged in any inappropriate conduct or witnessed any inappropriate\nconduct related to Jeffrey Epstein and underage females. Instead, Edwards was incorrectly\nseeking Prof. Dershowitz’s cooperation for a civil suit between Dershowitz’s client, Jeffrey\nEpstein, and Edwards himself. Remarkably, because Prof. Dershowitz did not agree to\ncompromise his ethical obligations to his client, by voluntarily cooperating with Epstein’s",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "15",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010749",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2011-08-29"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Bradley Edwards",
+      "Jack Scarola",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Palm Beach County Circuit Court",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "9:08-cv-80736-KAM",
+      "Document 306",
+      "502009-CA-040800",
+      "DE 291-11",
+      "DE 291",
+      "HOUSE_OVERSIGHT_010749"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010749"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of a lawsuit (Edwards v. Epstein) and communications between attorneys regarding Prof. Dershowitz's potential cooperation.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Case no. 502009-CA-040800",
+      "DE 291-11",
+      "DE 291"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 15 of a 19-page legal filing. The text appears to be part of a motion or pleading describing past events and communications between legal parties.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010749.jpg",
+  "house_oversight_id": "010749",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:12:51.069850Z",
+    "model": "gemini-2.5-pro"
+  }
+}

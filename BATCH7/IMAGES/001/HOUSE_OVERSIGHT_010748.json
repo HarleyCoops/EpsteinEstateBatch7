@@ -1,0 +1,98 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010748.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page is numbered 14 of 19. It contains a header with case information, a main body of text discussing testimony, a footnote at the bottom, and a document identifier in the bottom right corner.",
+    "layout": "Standard portrait layout with a header, main body text, a centered page number at the bottom, a footnote, and a footer in the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 14 of 19\n\n“Alessi Depo. Tr.”) Alessi testified that he saw “many celebrities” at the house… [including] a\nvery famous lawyer[] that I’m sure you know, Alan Dershowitz, who spend [sic] at the house a\ncouple times.” (Alessi Depo. Tr. 70, 71.) However, Alessi made no allegations of improprieties\nagainst any of these individuals. Jane Doe #3 asks the Court to infer that because Prof.\nDershowitz was at his client’s home, he must have participated in nefarious activities. In fact,\nProf. Dershowitz’s friendship with Epstein consisted of the exchange of academic and\nintellectual ideas. At most, Alessi testified that Prof. Dershowitz visited Epstein’s home and\nreceived a massage from an adult massage therapist, which “was a treat for everybody” at the\nEpstein home. (Id. at 74) (“Q. Did [Dershowitz] have massages sometimes when he was there?\nA. Yes. A massage was like a treat for everybody. If they want it, we call the massage and they\nhave a massage.”) Alessi explains that he was referring to massages performed by adult\nmassage therapists. (Id. at 184) (“Q. All right. And if I understood your testimony is, the ones\nthe – that is, of the massage therapists as you’ve just described [a hundred, 200 different massage\ntherapists], you saw some men? A. Yes. Q. You saw more women? A. Yes. Q. And all of the\nwomen, at least from your viewpoint, were 18, 19 or older? A. Yes.”)\n\nMessrs. Alessi and Rodriguez did not allege that Prof. Dershowitz received a massage\nfrom any underage females, had any physical contact whatsoever with any underage females, or\nwitnessed anyone engaging in any inappropriate behavior with any underage females.\nAdditionally, despite their allegations to the contrary, it is clear that previous testimony from\nRodriguez and Alessi does not corroborate Jane Doe #3’s baseless and utterly false affidavit.\n(DE 291-1.)\n\n7 In fact, the only massage Prof. Dershowitz ever received at any of Epstein’s homes was from a\nprofessional massage therapist who was in her 30’s or 40s.\n\n14\n\nHOUSE_OVERSIGHT_010748",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 14 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“Alessi Depo. Tr.”) Alessi testified that he saw “many celebrities” at the house… [including] a\nvery famous lawyer[] that I’m sure you know, Alan Dershowitz, who spend [sic] at the house a\ncouple times.” (Alessi Depo. Tr. 70, 71.) However, Alessi made no allegations of improprieties\nagainst any of these individuals. Jane Doe #3 asks the Court to infer that because Prof.\nDershowitz was at his client’s home, he must have participated in nefarious activities. In fact,\nProf. Dershowitz’s friendship with Epstein consisted of the exchange of academic and\nintellectual ideas. At most, Alessi testified that Prof. Dershowitz visited Epstein’s home and\nreceived a massage from an adult massage therapist, which “was a treat for everybody” at the\nEpstein home. (Id. at 74) (“Q. Did [Dershowitz] have massages sometimes when he was there?\nA. Yes. A massage was like a treat for everybody. If they want it, we call the massage and they\nhave a massage.”) Alessi explains that he was referring to massages performed by adult\nmassage therapists. (Id. at 184) (“Q. All right. And if I understood your testimony is, the ones\nthe – that is, of the massage therapists as you’ve just described [a hundred, 200 different massage\ntherapists], you saw some men? A. Yes. Q. You saw more women? A. Yes. Q. And all of the\nwomen, at least from your viewpoint, were 18, 19 or older? A. Yes.”)\n\nMessrs. Alessi and Rodriguez did not allege that Prof. Dershowitz received a massage\nfrom any underage females, had any physical contact whatsoever with any underage females, or\nwitnessed anyone engaging in any inappropriate behavior with any underage females.\nAdditionally, despite their allegations to the contrary, it is clear that previous testimony from\nRodriguez and Alessi does not corroborate Jane Doe #3’s baseless and utterly false affidavit.\n(DE 291-1.)",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "7 In fact, the only massage Prof. Dershowitz ever received at any of Epstein’s homes was from a\nprofessional massage therapist who was in her 30’s or 40s.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "14",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010748",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Alessi",
+      "Alan Dershowitz",
+      "Prof. Dershowitz",
+      "Jane Doe #3",
+      "Epstein",
+      "Rodriguez"
+    ],
+    "organizations": [
+      "House Oversight Committee"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "HOUSE_OVERSIGHT_010748",
+      "DE 291-1"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010748"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": "Court",
+    "subject": "Testimony of Alessi regarding Alan Dershowitz and Jeffrey Epstein, and refutation of Jane Doe #3's allegations.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Alessi Depo. Tr.",
+      "DE 291-1"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a court filing arguing against an inference requested by 'Jane Doe #3' by citing the deposition testimony of 'Alessi'. The Bates stamp 'HOUSE_OVERSIGHT_010748' indicates it was likely collected as evidence by the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010748.jpg",
+  "house_oversight_id": "010748",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:12:24.685219Z",
+    "model": "gemini-2.5-pro"
+  }
+}
