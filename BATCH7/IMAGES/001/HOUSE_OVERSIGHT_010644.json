@@ -1,0 +1,150 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010644.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The document is a table listing various assets, their value, and the income they generate. It is page 28 of 51.",
+    "layout": "The document has a header section with the filer's name and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type', and 'Income Amount'. A footer section contains a note about an accompanying schedule and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n28 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n169\nTHC MIAMI RESTAURANT HOSPITALITY, LLC\nValue reported reflects bank account holding only.\nRestaurant operations at Trump National Doral\nLocation: Miami, FL\nN/A\n178\n$500,001 - $1,000,000\nfood & beverage related sales\n$7,390,861\n172\n40 WALL STREET COMMERCIAL LLC\nValue reported reflects bank account holding only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Payroll company. New York, NY\nN/A\n004\n$15,001 - $50,000\nNone (or less than $201)\n173\nDT DUBAI II GOLF MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with FRONTLINE INVESTMENT MANAGEMENT CO LLC (AN AFFILIATE OF DAMAC) - value not readily ascertainable.\nManagement company, Dubai, UAE; See attached schedule.\nN/A\n061\n$15,001 - $50,000\nroyalties\nNone (or less than $201)\n174\nDT TOWER GURGAON LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with IREO PRIVATE LTD - value not readily ascertainable.\nLicense holder, Gurgaon, India; See attached schedule.\nN/A\n091\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\n176\nTAG AIR INC.\nValue reported reflects bank account holding only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Entity set up to lease 757 from DJT Operations I LLC. New York, NY\nN/A\n161\n$15,001 - $50,000\naircraft related revenue/expense reimbursements\n$7,727,674\n178\nTHC EMEA DEVELOPMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: developer - value not readily ascertainable.\nLocation: New York, NY\nSee attached schedule.\nN/A\n177\n$15,001 - $50,000\nNone (or less than $201)\n181\nDT BALI TECHNICAL SERVICES MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with PT BALI NIRWANA RESORT - value not readily ascertainable.\nManagement company, Bali, Indonesia; See attached schedule.\nN/A\n497\n$1,001 - $15,000\nmanagement fees\n$190,476\n182\nDT CONNECT EUROPE LIMITED\nUnderlying Assets: aircraft\nLocation: Turnberry, Scotland\nSee attached schedule\nN/A\n499\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010644",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n28 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n169\nTHC MIAMI RESTAURANT HOSPITALITY, LLC\nValue reported reflects bank account holding only.\nRestaurant operations at Trump National Doral\nLocation: Miami, FL\nN/A\n178\n$500,001 - $1,000,000\nfood & beverage related sales\n$7,390,861\n172\n40 WALL STREET COMMERCIAL LLC\nValue reported reflects bank account holding only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Payroll company. New York, NY\nN/A\n004\n$15,001 - $50,000\nNone (or less than $201)\n173\nDT DUBAI II GOLF MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with FRONTLINE INVESTMENT MANAGEMENT CO LLC (AN AFFILIATE OF DAMAC) - value not readily ascertainable.\nManagement company, Dubai, UAE; See attached schedule.\nN/A\n061\n$15,001 - $50,000\nroyalties\nNone (or less than $201)\n174\nDT TOWER GURGAON LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with IREO PRIVATE LTD - value not readily ascertainable.\nLicense holder, Gurgaon, India; See attached schedule.\nN/A\n091\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\n176\nTAG AIR INC.\nValue reported reflects bank account holding only. Entity's other holdings and assets are reported elsewhere; see attached schedule. Entity set up to lease 757 from DJT Operations I LLC. New York, NY\nN/A\n161\n$15,001 - $50,000\naircraft related revenue/expense reimbursements\n$7,727,674\n178\nTHC EMEA DEVELOPMENT LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: developer - value not readily ascertainable.\nLocation: New York, NY\nSee attached schedule.\nN/A\n177\n$15,001 - $50,000\nNone (or less than $201)\n181\nDT BALI TECHNICAL SERVICES MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with PT BALI NIRWANA RESORT - value not readily ascertainable.\nManagement company, Bali, Indonesia; See attached schedule.\nN/A\n497\n$1,001 - $15,000\nmanagement fees\n$190,476\n182\nDT CONNECT EUROPE LIMITED\nUnderlying Assets: aircraft\nLocation: Turnberry, Scotland\nSee attached schedule\nN/A\n499\n$1,000,001 - $5,000,000\nrent\n$100,001 - $1,000,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010644",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "THC MIAMI RESTAURANT HOSPITALITY, LLC",
+      "Trump National Doral",
+      "40 WALL STREET COMMERCIAL LLC",
+      "DT DUBAI II GOLF MANAGER LLC",
+      "FRONTLINE INVESTMENT MANAGEMENT CO LLC",
+      "DAMAC",
+      "DT TOWER GURGAON LLC",
+      "IREO PRIVATE LTD",
+      "TAG AIR INC.",
+      "DJT Operations I LLC",
+      "THC EMEA DEVELOPMENT LLC",
+      "DT BALI TECHNICAL SERVICES MANAGER LLC",
+      "PT BALI NIRWANA RESORT",
+      "DT CONNECT EUROPE LIMITED"
+    ],
+    "locations": [
+      "Miami, FL",
+      "New York, NY",
+      "Dubai, UAE",
+      "Gurgaon, India",
+      "Bali, Indonesia",
+      "Turnberry, Scotland"
+    ],
+    "document_numbers": [
+      "28 of 51",
+      "169",
+      "172",
+      "173",
+      "174",
+      "176",
+      "178",
+      "181",
+      "182",
+      "178",
+      "004",
+      "061",
+      "091",
+      "161",
+      "177",
+      "497",
+      "499",
+      "HOUSE_OVERSIGHT_010644"
+    ],
+    "financial_amounts": [
+      "$500,001 - $1,000,000",
+      "$7,390,861",
+      "$15,001 - $50,000",
+      "None (or less than $201)",
+      "$15,001 - $50,000",
+      "$1,001 - $15,000",
+      "$100,001 - $1,000,000",
+      "$15,001 - $50,000",
+      "$7,727,674",
+      "$15,001 - $50,000",
+      "$1,001 - $15,000",
+      "$190,476",
+      "$1,000,001 - $5,000,000",
+      "$100,001 - $1,000,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Miami, FL",
+        "New York, NY",
+        "Dubai, UAE",
+        "Gurgaon, India",
+        "Bali, Indonesia",
+        "Turnberry, Scotland"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A",
+      "HOUSE_OVERSIGHT_010644"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The 'EIF' column contains 'N/A' for all entries on this page. The '#', 'Description', and 'Reference #' columns have gaps in their numerical sequences, which is explained in the footer note.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010644.jpg",
+  "house_oversight_id": "010644",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:07:21.306781Z",
+    "model": "gemini-2.5-pro"
+  }
+}

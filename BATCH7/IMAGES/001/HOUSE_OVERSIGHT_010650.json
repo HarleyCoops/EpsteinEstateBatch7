@@ -1,0 +1,130 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010650.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a completed OGE Form 278e, a public financial disclosure report. This specific page is Part 6, detailing 'Other Assets and Income' for the filer, Donald J. Trump. The page is numbered 34 of 51 and lists various funds, bank accounts, and stock holdings with their corresponding values and income amounts in ranges. The information is reported as of April 15, 2017.",
+    "layout": "The document has a standard form layout. A header contains the form title, instructions, filer's name, and page number. The main body consists of a large table with columns for item number, description, EIF, value, income type, and income amount. A footer at the bottom provides the reporting date and a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n34 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n1\nBARON REAL ESTATE FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n2\nBARON GROWTH FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n3\nBARON PARTNERS FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n4\nAG DIVERSIFIED INCOME FUND PLUS, LP (f/k/a AG DIVERSIFIED CREDIT STRATEGIES FUND LP) (ANGELO GORDON)\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n5\nMIDOCEAN CREDIT OPPORTUNITY FUND LP (MIDOCEAN CREDIT PARTNERS)\nY\n$1,000,001 - $5,000,000\n$100,001 - $1,000,000\n6\nJP MORGAN CHASE - CHECKING AND SAVINGS ACCOUNTS\nN/A\n$1,000,001 - $5,000,000\nInterest\n$1,001 - $2,500\n7\nCAPITAL ONE BANK - CHECKING AND SAVINGS\nN/A\n$5,000,001 - $25,000,000\nInterest\n$100,001 - $1,000,000\n8\nSIGNATURE BANK - CHECKING\nN/A\n$100,001 - $250,000\nInterest\n$1,001 - $2,500\n9\nBANK UNITED, NA - MONEY MARKET\nN/A\n$100,001 - $250,000\nInterest\n$1,001 - $2,500\n10\nFIRST REPUBLIC BANK - CHECKING\nN/A\n$15,001 - $50,000\nInterest\nNone (or less than $201)\n11\nINVESTMENT IN GOLD\nN/A\n$100,001 - $250,000\nNone (or less than $201)\n12\nWMTMF LLC (US BANK CASH ACCOUNT)\nN/A\n$50,001 - $100,000\nNone (or less than $201)\nBARCLAYS BANK - BROKERAGE ACCOUNT - HOLDINGS\n1\nAT&T INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n2\nASTRAZENECA PLC ADR\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n3\nCROWN CASTLE INTL CORP\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\n4\nGENERAL ELECTRIC COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010650",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n34 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n1\nBARON REAL ESTATE FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n2\nBARON GROWTH FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n3\nBARON PARTNERS FUND\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n4\nAG DIVERSIFIED INCOME FUND PLUS, LP (f/k/a AG DIVERSIFIED CREDIT STRATEGIES FUND LP) (ANGELO GORDON)\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\n5\nMIDOCEAN CREDIT OPPORTUNITY FUND LP (MIDOCEAN CREDIT PARTNERS)\nY\n$1,000,001 - $5,000,000\n$100,001 - $1,000,000\n6\nJP MORGAN CHASE - CHECKING AND SAVINGS ACCOUNTS\nN/A\n$1,000,001 - $5,000,000\nInterest\n$1,001 - $2,500\n7\nCAPITAL ONE BANK - CHECKING AND SAVINGS\nN/A\n$5,000,001 - $25,000,000\nInterest\n$100,001 - $1,000,000\n8\nSIGNATURE BANK - CHECKING\nN/A\n$100,001 - $250,000\nInterest\n$1,001 - $2,500\n9\nBANK UNITED, NA - MONEY MARKET\nN/A\n$100,001 - $250,000\nInterest\n$1,001 - $2,500\n10\nFIRST REPUBLIC BANK - CHECKING\nN/A\n$15,001 - $50,000\nInterest\nNone (or less than $201)\n11\nINVESTMENT IN GOLD\nN/A\n$100,001 - $250,000\nNone (or less than $201)\n12\nWMTMF LLC (US BANK CASH ACCOUNT)\nN/A\n$50,001 - $100,000\nNone (or less than $201)\nBARCLAYS BANK - BROKERAGE ACCOUNT - HOLDINGS\n1\nAT&T INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n2\nASTRAZENECA PLC ADR\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n3\nCROWN CASTLE INTL CORP\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\n4\nGENERAL ELECTRIC COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010650",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "ANGELO GORDON"
+    ],
+    "organizations": [
+      "BARON REAL ESTATE FUND",
+      "BARON GROWTH FUND",
+      "BARON PARTNERS FUND",
+      "AG DIVERSIFIED INCOME FUND PLUS, LP",
+      "AG DIVERSIFIED CREDIT STRATEGIES FUND LP",
+      "MIDOCEAN CREDIT OPPORTUNITY FUND LP",
+      "MIDOCEAN CREDIT PARTNERS",
+      "JP MORGAN CHASE",
+      "CAPITAL ONE BANK",
+      "SIGNATURE BANK",
+      "BANK UNITED, NA",
+      "FIRST REPUBLIC BANK",
+      "WMTMF LLC",
+      "US BANK",
+      "BARCLAYS BANK",
+      "AT&T INC",
+      "ASTRAZENECA PLC",
+      "CROWN CASTLE INTL CORP",
+      "GENERAL ELECTRIC COMPANY"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "34 of 51",
+      "HOUSE_OVERSIGHT_010650"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$100,001 - $1,000,000",
+      "$1,000,001 - $5,000,000",
+      "$1,001 - $2,500",
+      "$5,000,001 - $25,000,000",
+      "$100,001 - $250,000",
+      "$15,001 - $50,000",
+      "None (or less than $201)",
+      "$50,001 - $100,000",
+      "$2,501 - $5,000",
+      "$201 - $1,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010650"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.985
+  },
+  "notes": "The document is a financial disclosure form. The name 'ANGELO GORDON' is listed in parentheses next to a fund name and has been extracted as both a person and part of an organization name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010650.jpg",
+  "house_oversight_id": "010650",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:09:48.673983Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,93 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010648.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "An OGE Form 278e, Part 4, titled 'Filer's Sources of Compensation Exceeding $5,000 in a Year'. The filer is identified as Donald J. Trump. The form is page 32 of 51. The table for listing sources of compensation is largely empty, with 'N/A' entered in the first row under 'Source Name'.",
+    "layout": "The document has a header containing the form number, instructions, filer's name, and page number. The main body consists of a large table with 20 numbered rows and columns for 'Source Name', 'City/State', and 'Brief Description of Duties'. A document identifier is present in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 4\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n32 of 51\nPart 4: Filer's Sources of Compensation Exceeding $5,000 in a Year\n#\nSource Name\nCity/State\nBrief Description of Duties\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.\nHOUSE_OVERSIGHT_010648",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 4\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n32 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 4: Filer's Sources of Compensation Exceeding $5,000 in a Year",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nSource Name\nCity/State\nBrief Description of Duties\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010648",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "OGE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010648"
+    ],
+    "financial_amounts": [
+      "$5,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Sources of Compensation Exceeding $5,000 in a Year",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010648"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The date 'March 2014' refers to the revision date of the form, not the date it was filled out.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010648.jpg",
+  "house_oversight_id": "010648",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:08:52.828232Z",
+    "model": "gemini-2.5-pro"
+  }
+}

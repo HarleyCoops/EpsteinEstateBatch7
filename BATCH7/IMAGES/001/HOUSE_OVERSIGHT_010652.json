@@ -1,0 +1,124 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010652.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "An image of a completed OGE Form 278e, specifically Part 6: Other Assets and Income, for the filer Donald J. Trump. The page is numbered 36 of 51 and details various assets, their values, income types, and income amounts. The information is reported as of April 15, 2017.",
+    "layout": "The document has a header containing the form title, instructions, filer's name, and page number. The main body is a table with columns for asset number, description, EIF, value, income type, and income amount. A footer at the bottom provides the reporting date and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n36 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n3\nAPPLE INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n4\nAT&T INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n5\nBRISTOL MYERS SQUIBB CO\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n6\nGENERAL MLS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\n7\nGILEAD SCIENCES INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$100,001 - $1,000,000\n8\nJPMORGAN CHASE & CO COM\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n9\nPHILIP MORRIS INTL INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\n10\nREGENERON PHARMACEUTICALS\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n11\nUNITED PARCEL SERVICE INC CL B\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n12\nVERIZON COMMUNICATIONS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n13\nVISA INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$100,001 - $1,000,000\n14\nWASTE MGMT INC DEL\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n15\nWELLS FARGO & CO NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$50,001 - $100,000\n16\nYAHOO INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n17\nADVANTAGE ADVISORS XANTHUS FUND, LLC\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\nThe Fred C. Trump December 16, 1976 Trust- F/B/O\nDonald J. Trump\n1\nJP MORGAN CHASE - SAVINGS ACCOUNT\nN/A\n$1,000,001 - $5,000,000\nInterest\n$1,001 - $2,500\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010652",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n36 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n3\nAPPLE INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n4\nAT&T INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n5\nBRISTOL MYERS SQUIBB CO\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n6\nGENERAL MLS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\n7\nGILEAD SCIENCES INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$100,001 - $1,000,000\n8\nJPMORGAN CHASE & CO COM\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n9\nPHILIP MORRIS INTL INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\n10\nREGENERON PHARMACEUTICALS\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n11\nUNITED PARCEL SERVICE INC CL B\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n12\nVERIZON COMMUNICATIONS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n13\nVISA INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$100,001 - $1,000,000\n14\nWASTE MGMT INC DEL\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n15\nWELLS FARGO & CO NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$50,001 - $100,000\n16\nYAHOO INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n17\nADVANTAGE ADVISORS XANTHUS FUND, LLC\nY\nNone (or less than $1,001)\n$100,001 - $1,000,000\nThe Fred C. Trump December 16, 1976 Trust- F/B/O\nDonald J. Trump\n1\nJP MORGAN CHASE - SAVINGS ACCOUNT\nN/A\n$1,000,001 - $5,000,000\nInterest\n$1,001 - $2,500",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010652",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15",
+      "1976-12-16"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Fred C. Trump"
+    ],
+    "organizations": [
+      "APPLE INC",
+      "AT&T INC",
+      "BRISTOL MYERS SQUIBB CO",
+      "GENERAL MLS INC",
+      "GILEAD SCIENCES INC",
+      "JPMORGAN CHASE & CO COM",
+      "PHILIP MORRIS INTL INC",
+      "REGENERON PHARMACEUTICALS",
+      "UNITED PARCEL SERVICE INC CL B",
+      "VERIZON COMMUNICATIONS INC",
+      "VISA INC",
+      "WASTE MGMT INC DEL",
+      "WELLS FARGO & CO NEW",
+      "YAHOO INC",
+      "ADVANTAGE ADVISORS XANTHUS FUND, LLC",
+      "The Fred C. Trump December 16, 1976 Trust",
+      "JP MORGAN CHASE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "36 of 51",
+      "HOUSE_OVERSIGHT_010652"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$100,001 - $1,000,000",
+      "$5,001 - $15,000",
+      "$50,001 - $100,000",
+      "$15,001 - $50,000",
+      "$1,000,001 - $5,000,000",
+      "$1,001 - $2,500"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010652"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a public financial disclosure form. The entry for 'The Fred C. Trump December 16, 1976 Trust' appears to be a header for the subsequent entry 'JP MORGAN CHASE - SAVINGS ACCOUNT'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010652.jpg",
+  "house_oversight_id": "010652",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:10:51.420304Z",
+    "model": "gemini-2.5-pro"
+  }
+}

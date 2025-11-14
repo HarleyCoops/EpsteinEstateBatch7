@@ -1,0 +1,109 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010642.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a financial disclosure form titled 'Part 2: Filer's Employment Assets and Income'. The page is numbered 26 of 51 and lists several books authored by Donald J. Trump, detailing their publishers, income type (royalties), and income amounts.",
+    "layout": "The document has a header with the filer's name and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type', and 'Income Amount'. A footer contains a note about an accompanying schedule and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n26 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n146\nThink Like A Champion\nPublisher: Vanguard Press, a member of Perseus Books LLC\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2009)\nN/A\nroyalties\n$15,001 - $50,000\n147\nThe Art Of The Deal\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 1987)\nN/A\nroyalties\n$100,001 - $1,000,000\n148\nTime To Get Tough\nPublisher: Regnery Publishing\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2011)\nN/A\nroyalties\n$100,001 - $1,000,000\n149\nThink Like a Billionaire\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2004)\nN/A\nNone (or less than $201)\n150\nThe Art of the Comeback\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 1997)\nN/A\nNone (or less than $201)\n151\nWhy We Want You To Be Rich\nPublisher: Plata Publishing LLC\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2006)\nN/A\nNone (or less than $201)\n152\nTrump 101: The Way to Success\nPublisher: John Wiley & Sons, Inc.\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2007)\nN/A\nNone (or less than $201)\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010642",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n26 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n146\nThink Like A Champion\nPublisher: Vanguard Press, a member of Perseus Books LLC\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2009)\nN/A\nroyalties\n$15,001 - $50,000\n147\nThe Art Of The Deal\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 1987)\nN/A\nroyalties\n$100,001 - $1,000,000\n148\nTime To Get Tough\nPublisher: Regnery Publishing\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2011)\nN/A\nroyalties\n$100,001 - $1,000,000\n149\nThink Like a Billionaire\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2004)\nN/A\nNone (or less than $201)\n150\nThe Art of the Comeback\nPublisher: Random House\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 1997)\nN/A\nNone (or less than $201)\n151\nWhy We Want You To Be Rich\nPublisher: Plata Publishing LLC\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2006)\nN/A\nNone (or less than $201)\n152\nTrump 101: The Way to Success\nPublisher: John Wiley & Sons, Inc.\nUnderlying Assets: book\nLocation: New York, NY\nValue not readily ascertainable\n(Published 2007)\nN/A\nNone (or less than $201)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010642",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-01-01",
+      "1987-01-01",
+      "2011-01-01",
+      "2004-01-01",
+      "1997-01-01",
+      "2006-01-01",
+      "2007-01-01",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Vanguard Press",
+      "Perseus Books LLC",
+      "Random House",
+      "Regnery Publishing",
+      "Plata Publishing LLC",
+      "John Wiley & Sons, Inc."
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010642",
+      "26 of 51"
+    ],
+    "financial_amounts": [
+      "$15,001 - $50,000",
+      "$100,001 - $1,000,000",
+      "None (or less than $201)"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several books as assets. The 'Value' for all items is listed as 'not readily ascertainable'. The income amounts are provided in ranges or as 'None (or less than $201)'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010642.jpg",
+  "house_oversight_id": "010642",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:06:25.600851Z",
+    "model": "gemini-2.5-pro"
+  }
+}

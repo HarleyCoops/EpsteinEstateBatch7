@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010651.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a financial disclosure form, specifically OGE Form 278e, Part 6, for Donald J. Trump. The form details various assets and the income derived from them in a tabular format.",
+    "layout": "The document has a header with form information and the filer's name. The main body consists of a table with six columns: '#', 'Description', 'EIF', 'Value', 'Income Type', and 'Income Amount'. A footer at the bottom provides the date of the reported information and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n35 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n5\nHALLIBURTON COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n6\nISHS EURO FINLS INDX ETF\nY\nNone (or less than $1,001)\n$201 - $1,000\n7\nKINDER MORGAN INC DE\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n8\nKRAFT HEINZ CO\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n9\nMETLIFE INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n10\nPHILIP MORRIS INTL INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n11\nPFIZER INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\n12\nPRUDENTIAL FINL INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n13\nRAYTHEON COMPANY NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n14\nSPDR S&P BANK ETF\nY\nNone (or less than $1,001)\n$1,001 - $2,500\n15\nSWISS RE LTD ADR\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500\n16\nU S BANCORP DE NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500\n17\nVNGRD HGH DIV YLD ETF\nY\nNone (or less than $1,001)\n$201 - $1,000\n18\nVERIZON COMMS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\nOPPENHEIMER-BROKERAGE ACCOUNT - HOLDINGS\n1\nALTRIA GROUP INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n2\nAMGEN INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$50,001 - $100,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010651",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n35 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n5\nHALLIBURTON COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n6\nISHS EURO FINLS INDX ETF\nY\nNone (or less than $1,001)\n$201 - $1,000\n7\nKINDER MORGAN INC DE\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n8\nKRAFT HEINZ CO\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n9\nMETLIFE INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n10\nPHILIP MORRIS INTL INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n11\nPFIZER INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\n12\nPRUDENTIAL FINL INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n13\nRAYTHEON COMPANY NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$2,501 - $5,000\n14\nSPDR S&P BANK ETF\nY\nNone (or less than $1,001)\n$1,001 - $2,500\n15\nSWISS RE LTD ADR\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500\n16\nU S BANCORP DE NEW\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$1,001 - $2,500\n17\nVNGRD HGH DIV YLD ETF\nY\nNone (or less than $1,001)\n$201 - $1,000\n18\nVERIZON COMMS INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$201 - $1,000\nOPPENHEIMER-BROKERAGE ACCOUNT - HOLDINGS\n1\nALTRIA GROUP INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n2\nAMGEN INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$50,001 - $100,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010651",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "HALLIBURTON COMPANY",
+      "ISHS EURO FINLS INDX ETF",
+      "KINDER MORGAN INC DE",
+      "KRAFT HEINZ CO",
+      "METLIFE INC",
+      "PHILIP MORRIS INTL INC",
+      "PFIZER INC",
+      "PRUDENTIAL FINL INC",
+      "RAYTHEON COMPANY NEW",
+      "SPDR S&P BANK ETF",
+      "SWISS RE LTD ADR",
+      "U S BANCORP DE NEW",
+      "VNGRD HGH DIV YLD ETF",
+      "VERIZON COMMS INC",
+      "OPPENHEIMER-BROKERAGE ACCOUNT - HOLDINGS",
+      "ALTRIA GROUP INC",
+      "AMGEN INC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "35 of 51",
+      "HOUSE_OVERSIGHT_010651"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$2,501 - $5,000",
+      "$201 - $1,000",
+      "$1,001 - $2,500",
+      "$100,001 - $1,000,000",
+      "$50,001 - $100,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J. Trump",
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010651"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a standard financial disclosure form. All text is clearly legible. The table contains two distinct sections of numbered items, one starting from 5 and another starting from 1 under the 'OPPENHEIMER-BROKERAGE ACCOUNT - HOLDINGS' sub-header.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010651.jpg",
+  "house_oversight_id": "010651",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:10:18.052947Z",
+    "model": "gemini-2.5-pro"
+  }
+}
