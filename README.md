@@ -1,4 +1,4 @@
-﻿# Epstein Estate Batch 7: House Oversight Committee Documents
+# Epstein Estate Batch 7: House Oversight Committee Documents
 
 ## LIVE: Auto-Processing and Publishing
 
@@ -6,7 +6,7 @@
 
 As House Oversight Committee documents are analyzed, images are processed, text is extracted, and connections are revealed. The system automatically commits and publishes updates every 5 minutes with detailed summaries of the latest findings.
 
-2025-11-13 19:00:56  
+P25-11-13 19:01:01  
 **Update Frequency:** Every 5 minutes  
 **Status:** Processing continues as long as API credits are available
 

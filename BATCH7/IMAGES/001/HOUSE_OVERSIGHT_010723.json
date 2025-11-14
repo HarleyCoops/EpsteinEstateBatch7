@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010723.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a typed letter on what appears to be dual-letterhead stationery. The document is dated May 19, 2008. There are redacted sections in the header and a document control number at the bottom right.",
+    "layout": "The document follows a standard business letter format. It features two distinct letterheads at the top left and top right. The date is centered below the headers. The recipient's address is on the left, with a 'CONFIDENTIAL' marking on the right. The body of the letter consists of three paragraphs. A document identifier is located in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Kenneth W. Starr\nKirkland & Ellis LLP\n777 South Figueroa Street\nLos Angeles, CA 90017-5800\n\nJoe D. Whitley\nAlston & Bird LLP\nThe Atlantic Building\n950 F Street, NW\nWashington, DC 20004-1404\n\nMay 19, 2008\n\nVIA FACSIMILE\n\nCONFIDENTIAL\n\nHonorable Mark Filip\nOffice of the Deputy Attorney General\nUnited States Department of Justice\n950 Pennsylvania Avenue, N.W.\nWashington, D.C. 20530\n\nDear Judge Filip:\n\nIn his confirmation hearings last fall, Judge Mukasey admirably lifted up the finest traditions of the Department of Justice in assuring the United States Senate, and the American people, of his solemn intent to ensure fairness and integrity in the administration of justice. Your own confirmation hearings echoed that bedrock determination to assure that the Department conduct itself with honor and integrity, especially in the enforcement of federal criminal law.\n\nWe come to you in that spirit and respectfully ask for a review of the federal involvement in a quintessentially state matter involving our client, Jeffrey Epstein. While we are well aware of the rare instances in which a review of this sort is justified, we are confident that the circumstances at issue warrant such an examination. Based on our collective experiences, as well as those of other former senior Justice Department officials whose advice we have sought, we have never before seen a case more appropriate for oversight and review. Thus, while neither of us has previously made such a request, we do so now in the recognition that both the Department's reputation, as well as the due process rights of our client, are at issue.\n\nRecently, the Criminal Division concluded a very limited review of this matter at the request of U.S. Attorney Alex Acosta. Critically, however, this review deliberately excluded many important aspects of this case. Just this past Friday, on May 16, 2008, we received a letter from the head of CEOS informing us that CEOS had conducted a review of this case. By its own admission, the CEOS review was “limited, both factually and legally.” Part of the self-imposed limitation was CEOS's abstention from addressing our “allegations of professional misconduct by federal prosecutors”—even though such misconduct was, as we contend it is, inextricably intertwined with the credibility of the accusations being made against Mr. Epstein by the United States Attorney's Office in Miami (“USAO”). Moreover, CEOS did not assess the terms of the Deferred Prosecution Agreement now in effect, nor did CEOS review the federal prosecutors' inappropriate efforts to implement those terms. We detail this point below.\n\nHOUSE_OVERSIGHT_010723",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Kenneth W. Starr\nKirkland & Ellis LLP\n777 South Figueroa Street\nLos Angeles, CA 90017-5800",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Joe D. Whitley\nAlston & Bird LLP\nThe Atlantic Building\n950 F Street, NW\nWashington, DC 20004-1404",
+        "type": "printed"
+      },
+      {
+        "region": "date",
+        "text": "May 19, 2008",
+        "type": "printed"
+      },
+      {
+        "region": "delivery_method",
+        "text": "VIA FACSIMILE",
+        "type": "printed"
+      },
+      {
+        "region": "confidentiality_marking",
+        "text": "CONFIDENTIAL",
+        "type": "printed"
+      },
+      {
+        "region": "recipient_address",
+        "text": "Honorable Mark Filip\nOffice of the Deputy Attorney General\nUnited States Department of Justice\n950 Pennsylvania Avenue, N.W.\nWashington, D.C. 20530",
+        "type": "printed"
+      },
+      {
+        "region": "salutation",
+        "text": "Dear Judge Filip:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "In his confirmation hearings last fall, Judge Mukasey admirably lifted up the finest traditions of the Department of Justice in assuring the United States Senate, and the American people, of his solemn intent to ensure fairness and integrity in the administration of justice. Your own confirmation hearings echoed that bedrock determination to assure that the Department conduct itself with honor and integrity, especially in the enforcement of federal criminal law.\n\nWe come to you in that spirit and respectfully ask for a review of the federal involvement in a quintessentially state matter involving our client, Jeffrey Epstein. While we are well aware of the rare instances in which a review of this sort is justified, we are confident that the circumstances at issue warrant such an examination. Based on our collective experiences, as well as those of other former senior Justice Department officials whose advice we have sought, we have never before seen a case more appropriate for oversight and review. Thus, while neither of us has previously made such a request, we do so now in the recognition that both the Department's reputation, as well as the due process rights of our client, are at issue.\n\nRecently, the Criminal Division concluded a very limited review of this matter at the request of U.S. Attorney Alex Acosta. Critically, however, this review deliberately excluded many important aspects of this case. Just this past Friday, on May 16, 2008, we received a letter from the head of CEOS informing us that CEOS had conducted a review of this case. By its own admission, the CEOS review was “limited, both factually and legally.” Part of the self-imposed limitation was CEOS's abstention from addressing our “allegations of professional misconduct by federal prosecutors”—even though such misconduct was, as we contend it is, inextricably intertwined with the credibility of the accusations being made against Mr. Epstein by the United States Attorney's Office in Miami (“USAO”). Moreover, CEOS did not assess the terms of the Deferred Prosecution Agreement now in effect, nor did CEOS review the federal prosecutors' inappropriate efforts to implement those terms. We detail this point below.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010723",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-19",
+      "2008-05-16"
+    ],
+    "people": [
+      "Kenneth W. Starr",
+      "Joe D. Whitley",
+      "Mark Filip",
+      "Judge Mukasey",
+      "Jeffrey Epstein",
+      "Alex Acosta"
+    ],
+    "organizations": [
+      "Kirkland & Ellis LLP",
+      "Alston & Bird LLP",
+      "United States Department of Justice",
+      "United States Senate",
+      "Criminal Division",
+      "CEOS",
+      "United States Attorney's Office in Miami",
+      "USAO"
+    ],
+    "locations": [
+      "Los Angeles, CA",
+      "Washington, DC",
+      "Washington, D.C.",
+      "Miami"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010723"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "777 South Figueroa Street, Los Angeles, CA 90017-5800",
+        "The Atlantic Building, 950 F Street, NW, Washington, DC 20004-1404",
+        "950 Pennsylvania Avenue, N.W., Washington, D.C. 20530"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "CONFIDENTIAL",
+      "VIA FACSIMILE",
+      "HOUSE_OVERSIGHT_010723"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Kenneth W. Starr and Joe D. Whitley",
+    "recipient": "Honorable Mark Filip",
+    "subject": "Request for a review of federal involvement in a matter concerning their client, Jeffrey Epstein.",
+    "date": "2008-05-19",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document contains redacted blocks under each law firm's address, likely obscuring contact information such as phone and fax numbers. The document number in the footer appears to be a Bates stamp for document production, likely related to the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010723.jpg",
+  "house_oversight_id": "010723",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:01:07.122731Z",
+    "model": "gemini-2.5-pro"
+  }
+}
