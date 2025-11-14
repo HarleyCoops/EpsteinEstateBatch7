@@ -1,0 +1,91 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010772.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a single page from a legal document. The page is numbered 16 of 20 and has a document identifier 'HOUSE_OVERSIGHT_010772' at the bottom right. The text is black on a white background and appears to be a court filing.",
+    "layout": "The document has a standard legal format with a case caption header at the top, a main body of text, and a document identifier in the footer. The body includes a block quote of a question-and-answer transcript.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 16 of 20\n\nMost remarkably, Dershowitz took the public airwaves to represent that he wanted all of\nthe information surrounding the allegations to “be made public,” while implying that Edwards\nand Cassell had something to hide. For example, on the BBC he claimed that he\nwanted“everything to be made public”:\n\nQ: Would you encourage that it now be made public?\n\nA: Of course, of course. I want everything to be made public. I want every\nbit of evidence in this case to be made public. I want every\nallegation to be made public. I want to know who else she’s accused of\nthese horrible crimes. We know that she accused Bill Clinton of being on\nJeffrey Epstein’s island and participating in sex orgy with underage\ngirls. The records of the Secret Service will prove that President Clinton\nnever set foot on that island. So that she lied. Now it’s possible to have a\ncase of mistaken identification with somebody like me. It’s impossible to\nhave a case of mistaken identification with Bill Clinton.\nMy only feeling is that if she has lied about me, which I know to an\nabsolute certainty she has, she should not be believed about anyone\nelse. She’s lied clearly about me, she’s lied clearly about Bill\nClinton. We know that. We know that she’s lied about other public\nfigures, including a former prime minister and others who she claims to\nhave participated in sexual activities with. So I think it must be presumed\nthat all of her allegations against Prince Andrew are false as well.\nI think he [Prince Andrew] should clear the air as well.\nIf you’re squeaky clean and if you have never done anything like this, you\nmust fight back with all the resources available to you. And that’s what I\nwill do. I will not rest or stop until the world understands no only that I\nhad nothing to do with any of this, but that she deliberately, with the\nconnivance of her lawyer, lawyers, made up this story willfully and\nknowingly.\n\nBBC Radio 4 - Sarah Montague (Jan. 3, 2015) (http://www.bbc.co.uk/programmes/p02g7qbc).\n\nIn another widely-broadcast interview on CNN, Dershowitz implied that there is no\nevidence supporting the allegations against him:\n\nHOUSE_OVERSIGHT_010772",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 16 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Most remarkably, Dershowitz took the public airwaves to represent that he wanted all of\nthe information surrounding the allegations to “be made public,” while implying that Edwards\nand Cassell had something to hide. For example, on the BBC he claimed that he\nwanted“everything to be made public”:\n\nQ: Would you encourage that it now be made public?\n\nA: Of course, of course. I want everything to be made public. I want every\nbit of evidence in this case to be made public. I want every\nallegation to be made public. I want to know who else she’s accused of\nthese horrible crimes. We know that she accused Bill Clinton of being on\nJeffrey Epstein’s island and participating in sex orgy with underage\ngirls. The records of the Secret Service will prove that President Clinton\nnever set foot on that island. So that she lied. Now it’s possible to have a\ncase of mistaken identification with somebody like me. It’s impossible to\nhave a case of mistaken identification with Bill Clinton.\nMy only feeling is that if she has lied about me, which I know to an\nabsolute certainty she has, she should not be believed about anyone\nelse. She’s lied clearly about me, she’s lied clearly about Bill\nClinton. We know that. We know that she’s lied about other public\nfigures, including a former prime minister and others who she claims to\nhave participated in sexual activities with. So I think it must be presumed\nthat all of her allegations against Prince Andrew are false as well.\nI think he [Prince Andrew] should clear the air as well.\nIf you’re squeaky clean and if you have never done anything like this, you\nmust fight back with all the resources available to you. And that’s what I\nwill do. I will not rest or stop until the world understands no only that I\nhad nothing to do with any of this, but that she deliberately, with the\nconnivance of her lawyer, lawyers, made up this story willfully and\nknowingly.\n\nBBC Radio 4 - Sarah Montague (Jan. 3, 2015) (http://www.bbc.co.uk/programmes/p02g7qbc).\n\nIn another widely-broadcast interview on CNN, Dershowitz implied that there is no\nevidence supporting the allegations against him:",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010772",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-03"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Bill Clinton",
+      "Jeffrey Epstein",
+      "Prince Andrew",
+      "Sarah Montague"
+    ],
+    "organizations": [
+      "BBC",
+      "BBC Radio 4",
+      "Secret Service",
+      "CNN",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Jeffrey Epstein’s island"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "Page 16 of 20",
+      "HOUSE_OVERSIGHT_010772"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "http://www.bbc.co.uk/programmes/p02g7qbc"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "court filing",
+    "sender": "Edwards and Cassells",
+    "recipient": "Dershowitz",
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records in the case of Edwards, Bradley vs. Dershowitz.",
+    "date": "2015-01-03",
+    "references": [
+      "CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The date extracted is from a citation within the document text, not the date the document itself was filed.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010772.jpg",
+  "house_oversight_id": "010772",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:22:47.029290Z",
+    "model": "gemini-2.5-pro"
+  }
+}

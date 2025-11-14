@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010778.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a high-quality scan of the cover page for a legal document, specifically a videotape deposition transcript. The text is clear and legible, formatted in a standard legal style.",
+    "layout": "The document has a centered, top-down structure. It begins with the court and case information, followed by the case caption (plaintiffs vs. defendant), the title of the document, details of the deposition (date, time, location), and information about the court reporter. A page number is in the top right corner, and a document identifier is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "1\n\nIN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL\nCIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA\n\nCASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,,\n\nPlaintiffs,\n\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.\n____________________/\n\nVIDEOTAPE DEPOSITION OF\n\nALAN M. DERSHOWITZ\n\nVOLUME 1\nPages 1 through 179\n\nThursday, October 15, 2015\n9:31 a.m. - 4:13 p.m.\n\nCole Scott & Kissane\n110 Southeast 6th Street\nFort Lauderdale, Florida\n\nStenographically Reported By:\nKimberly Fontalvo, RPR, CLR\nRealtime Systems Administrator\n\nHOUSE_OVERSIGHT_010778",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "1",
+        "type": "typed"
+      },
+      {
+        "region": "header",
+        "text": "IN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL\nCIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "CASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,,\n\nPlaintiffs,\n\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.\n____________________/",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "VIDEOTAPE DEPOSITION OF\n\nALAN M. DERSHOWITZ\n\nVOLUME 1\nPages 1 through 179",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Thursday, October 15, 2015\n9:31 a.m. - 4:13 p.m.\n\nCole Scott & Kissane\n110 Southeast 6th Street\nFort Lauderdale, Florida",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Stenographically Reported By:\nKimberly Fontalvo, RPR, CLR\nRealtime Systems Administrator",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010778",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-15"
+    ],
+    "people": [
+      "BRADLEY J. EDWARDS",
+      "PAUL G. CASSELL",
+      "ALAN M. DERSHOWITZ",
+      "Kimberly Fontalvo"
+    ],
+    "organizations": [
+      "IN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA",
+      "Cole Scott & Kissane"
+    ],
+    "locations": [
+      "BROWARD COUNTY, FLORIDA",
+      "Fort Lauderdale, Florida"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010778"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "110 Southeast 6th Street\nFort Lauderdale, Florida"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript Cover Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Videotape Deposition of Alan M. Dershowitz in the case of Bradley J. Edwards and Paul G. Cassell vs. Alan M. Dershowitz",
+    "date": "2015-10-15",
+    "references": [
+      "CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is the cover page for Volume 1 of a deposition, covering pages 1 through 179.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010778.jpg",
+  "house_oversight_id": "010778",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:25:01.626558Z",
+    "model": "gemini-2.5-pro"
+  }
+}

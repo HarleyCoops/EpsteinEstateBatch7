@@ -1,0 +1,124 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010774.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document. The page includes a case caption, contact information for several attorneys and law firms, and a counsel list. The text is black on a white background, and the document appears to be a formal court filing.",
+    "layout": "The document has a header with case information, a main body with contact details for attorneys, a distinct section titled 'COUNSEL LIST', and a footer with a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 18 of 20\n\nSEAN D. REYES\nUtah Attorney General\n\nBy: JONI J. JONES\nJOEL A. FERRE\nAssistant Utah Attorneys General\n\nBradley J. Edwards\nFARMER, JAFFE, WEISSING,\nEDWARDS, FISTOS & LEHRMAN, P.L.\n425 North Andrews Avenue, Suite 2\nFort Lauderdale, Florida 33301\nTelephone (954) 524-2820\nFacsimile (954) 524-2822\nE-mail: brad@pathtojustice.com\n\nAnd\n\nPaul G. Cassell\nPro Hac Vice Motion Pending\nS.J. Quinney College of Law at the\nUniversity of Utah\n383 S. University St.\nSalt Lake City, UT 84112\nTelephone:801-585-5202\nFacsimile:801-585-6833\nE-Mail:cassellp@law.utah.edu\n\nAttorneys for Plaintiffs Bradley J. Edwards and Paul G. Cassell\n\nCOUNSEL LIST\n\nThomas Emerson Scott, Jr., Esquire\nThomas.scott@csklegal.com; Steven.safra@csklegal.com\nCole Scott & Kissane P.A.\n9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156\n\nHOUSE_OVERSIGHT_010774",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 18 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "SEAN D. REYES\nUtah Attorney General\n\nBy: JONI J. JONES\nJOEL A. FERRE\nAssistant Utah Attorneys General\n\nBradley J. Edwards\nFARMER, JAFFE, WEISSING,\nEDWARDS, FISTOS & LEHRMAN, P.L.\n425 North Andrews Avenue, Suite 2\nFort Lauderdale, Florida 33301\nTelephone (954) 524-2820\nFacsimile (954) 524-2822\nE-mail: brad@pathtojustice.com\n\nAnd\n\nPaul G. Cassell\nPro Hac Vice Motion Pending\nS.J. Quinney College of Law at the\nUniversity of Utah\n383 S. University St.\nSalt Lake City, UT 84112\nTelephone:801-585-5202\nFacsimile:801-585-6833\nE-Mail:cassellp@law.utah.edu\n\nAttorneys for Plaintiffs Bradley J. Edwards and Paul G. Cassell",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "COUNSEL LIST\n\nThomas Emerson Scott, Jr., Esquire\nThomas.scott@csklegal.com; Steven.safra@csklegal.com\nCole Scott & Kissane P.A.\n9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010774",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "SEAN D. REYES",
+      "JONI J. JONES",
+      "JOEL A. FERRE",
+      "Bradley J. Edwards",
+      "Paul G. Cassell",
+      "Thomas Emerson Scott, Jr."
+    ],
+    "organizations": [
+      "Utah Attorney General",
+      "FARMER, JAFFE, WEISSING, EDWARDS, FISTOS & LEHRMAN, P.L.",
+      "S.J. Quinney College of Law at the University of Utah",
+      "Cole Scott & Kissane P.A."
+    ],
+    "locations": [
+      {
+        "address": "425 North Andrews Avenue, Suite 2, Fort Lauderdale, Florida 33301",
+        "city": "Fort Lauderdale",
+        "state": "Florida",
+        "zip_code": "33301"
+      },
+      {
+        "address": "383 S. University St., Salt Lake City, UT 84112",
+        "city": "Salt Lake City",
+        "state": "UT",
+        "zip_code": "84112"
+      },
+      {
+        "address": "9150 S Dadeland Boulevard, Suite 1400, Miami, FL 33156",
+        "city": "Miami",
+        "state": "FL",
+        "zip_code": "33156"
+      }
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010774",
+      "Page 18 of 20"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(954) 524-2820",
+        "801-585-5202"
+      ],
+      "email_addresses": [
+        "brad@pathtojustice.com",
+        "cassellp@law.utah.edu",
+        "Thomas.scott@csklegal.com",
+        "Steven.safra@csklegal.com"
+      ],
+      "addresses": [
+        "425 North Andrews Avenue, Suite 2\nFort Lauderdale, Florida 33301",
+        "383 S. University St.\nSalt Lake City, UT 84112",
+        "9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010774"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a legal response filed in the case of Edwards, Bradley vs. Dershowitz. It lists the attorneys involved in the case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010774.jpg",
+  "house_oversight_id": "010774",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:23:40.071681Z",
+    "model": "gemini-2.5-pro"
+  }
+}

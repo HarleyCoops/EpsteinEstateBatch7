@@ -1,0 +1,128 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010773.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a legal document, specifically page 17 of a 20-page filing. The document contains typed text, a handwritten date, a typed signature, and a footer with a document identifier.",
+    "layout": "The document has a standard legal format with a case caption header, a body of text with multiple paragraphs, a 'CONCLUSION' section, a certification statement, a signature block with contact information, and a footer at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 17 of 20\n\nAsk them [Edwards and Cassell] if they have any evidence . . . . They're doing it for\nmoney. She's getting money for having sold her story. She wants to sell the book.\nThey're trying to get into this lawsuit. They see a pot of gold at the end of the\nrainbow. They're [Edwards and Cassell] prepared to lie, cheat, and steal. These are\nunethical lawyers. This is Professor Cassell who shouldn't be allowed near a\nstudent. This is Professor Cassell, who is a former federal judge, thank God he no\nlonger wears a robe. He is essentially a crook. He is essentially somebody who's\ndistorted the legal profession. . . . Why would he charge a person with a\nsterling reputation for 50 years on the basis of the word alone of a woman who is\nserial liar, who has lied about former Prime Ministers, former Presidents, has lied\ndemonstrably.\n\nCNN Live (with Hala Gorani) (January 5, 2015). Of course, by placing \"the evidence\" in this\ncase under seal, Dershowitz will be free to continue to try and insinuate that Edward and Cassell\n– and their client, Ms. Giuffre – had no evidence supporting the allegations against him, even\nthough a mountain evidence strongly support Ms. Giuffre's allegations. See Deposition of Paul\nCassell (Oct. 16, 2015) at 61-117 (Exhibit 3); see also Depo of Pual Cassell (Oct. 17, 2015)\n(Exhibit 4).\n\nCONCLUSION\n\nThe Court should deny Defendant/Counterclaim Plaintiff Alan Dershowitz's motion to\nplace documents regarding Ms. Giuffre's allegations against him under seal.\n\nI HEREBY CERTIFY that a true and correct copy of the foregoing was sent via E-Serve\nto all Counsel on the attached list, this __23rd__ day of November, 2015.\n\n/s/ Jack Scarola\nJack Scarola\nFlorida Bar No.: 169440\nAttorney E-Mail(s): jsx@searcylaw.com and\nmep@searcylaw.com\nPrimary E-Mail: scarolateam@searcylaw.com\nSearcy Denney Scarola Barnhart & Shipley, P.A.\n2139 Palm Beach Lakes Boulevard\nWest Palm Beach, Florida 33409\nPhone:(561) 686-6300\nFax:(561) 383-9451\n\nHOUSE_OVERSIGHT_010773",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 17 of 20",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Ask them [Edwards and Cassell] if they have any evidence . . . . They're doing it for\nmoney. She's getting money for having sold her story. She wants to sell the book.\nThey're trying to get into this lawsuit. They see a pot of gold at the end of the\nrainbow. They're [Edwards and Cassell] prepared to lie, cheat, and steal. These are\nunethical lawyers. This is Professor Cassell who shouldn't be allowed near a\nstudent. This is Professor Cassell, who is a former federal judge, thank God he no\nlonger wears a robe. He is essentially a crook. He is essentially somebody who's\ndistorted the legal profession. . . . Why would he charge a person with a\nsterling reputation for 50 years on the basis of the word alone of a woman who is\nserial liar, who has lied about former Prime Ministers, former Presidents, has lied\ndemonstrably.\n\nCNN Live (with Hala Gorani) (January 5, 2015). Of course, by placing \"the evidence\" in this\ncase under seal, Dershowitz will be free to continue to try and insinuate that Edward and Cassell\n– and their client, Ms. Giuffre – had no evidence supporting the allegations against him, even\nthough a mountain evidence strongly support Ms. Giuffre's allegations. See Deposition of Paul\nCassell (Oct. 16, 2015) at 61-117 (Exhibit 3); see also Depo of Pual Cassell (Oct. 17, 2015)\n(Exhibit 4).",
+        "type": "typed"
+      },
+      {
+        "region": "conclusion",
+        "text": "CONCLUSION\n\nThe Court should deny Defendant/Counterclaim Plaintiff Alan Dershowitz's motion to\nplace documents regarding Ms. Giuffre's allegations against him under seal.",
+        "type": "typed"
+      },
+      {
+        "region": "certification",
+        "text": "I HEREBY CERTIFY that a true and correct copy of the foregoing was sent via E-Serve\nto all Counsel on the attached list, this __23rd__ day of November, 2015.",
+        "type": "typed"
+      },
+      {
+        "region": "certification_date",
+        "text": "23rd",
+        "type": "handwritten"
+      },
+      {
+        "region": "signature_block",
+        "text": "/s/ Jack Scarola\nJack Scarola\nFlorida Bar No.: 169440\nAttorney E-Mail(s): jsx@searcylaw.com and\nmep@searcylaw.com\nPrimary E-Mail: scarolateam@searcylaw.com\nSearcy Denney Scarola Barnhart & Shipley, P.A.\n2139 Palm Beach Lakes Boulevard\nWest Palm Beach, Florida 33409\nPhone:(561) 686-6300\nFax:(561) 383-9451",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010773",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-05",
+      "2015-10-16",
+      "2015-10-17",
+      "2015-11-23"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Professor Cassell",
+      "Hala Gorani",
+      "Edward",
+      "Ms. Giuffre",
+      "Paul Cassell",
+      "Pual Cassell",
+      "Alan Dershowitz",
+      "Jack Scarola"
+    ],
+    "organizations": [
+      "CNN",
+      "Searcy Denney Scarola Barnhart & Shipley, P.A."
+    ],
+    "locations": [
+      "West Palm Beach, Florida"
+    ],
+    "document_numbers": [
+      "Case No.: CACE 15-000072",
+      "Page 17 of 20",
+      "Florida Bar No.: 169440",
+      "HOUSE_OVERSIGHT_010773",
+      "Exhibit 3",
+      "Exhibit 4"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(561) 686-6300"
+      ],
+      "email_addresses": [
+        "jsx@searcylaw.com",
+        "mep@searcylaw.com",
+        "scarolateam@searcylaw.com"
+      ],
+      "addresses": [
+        "Searcy Denney Scarola Barnhart & Shipley, P.A.\n2139 Palm Beach Lakes Boulevard\nWest Palm Beach, Florida 33409"
+      ]
+    },
+    "signatures": [
+      "/s/ Jack Scarola"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Jack Scarola",
+    "recipient": "The Court",
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": "2015-11-23",
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Deposition of Paul Cassell (Oct. 16, 2015)",
+      "Depo of Pual Cassell (Oct. 17, 2015)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The date in the certification statement, '23rd', is handwritten. The name 'Paul Cassell' is also spelled 'Pual Cassell' in one instance. The signature is a typed '/s/' signature, common for electronic filings.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010773.jpg",
+  "house_oversight_id": "010773",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:23:14.939976Z",
+    "model": "gemini-2.5-pro"
+  }
+}

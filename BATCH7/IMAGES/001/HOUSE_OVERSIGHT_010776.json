@@ -1,0 +1,141 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010776.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document titled 'COUNSEL LIST'. It contains contact information for various attorneys involved in the case 'Edwards, Bradley vs. Dershowitz'. The page is formatted in two columns and appears to be the final page of a larger document.",
+    "layout": "The document has a header with case information, a centered title 'COUNSEL LIST', a two-column body listing attorneys and their contact details, and a footer with a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 20 of 20\n\nCOUNSEL LIST\n\nSigrid Stone McCawley, Esquire\nsmccawley@bsfllp.com;\nsperkins@bsfllp.com; ftleserve@bsfllp.com\nBoies Schiller & Flexner, LLP\n401 E Las Olas Boulevard, Suite 1200\nFort Lauderdale, FL 33301\nPhone: (954)-356-0011\nAttorneys for Alan M.Dershowitz, Esquire\n\nThomas Emerson Scott, Jr., Esquire\nThomas.scott@csklegal.com;\nSteven.safra@csklegal.com;\nRenee.nail@csklegal.com;\nshelly.zambo@csklegal.com\nCole Scott & Kissane P.A.\n9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156\nPhone: (305)-350-5329/Fax: (305)-373-2294\nAttorneys for Alan M.Dershowitz, Esquire\n\nBradley J. Edwards, Esquire\nstaff.efile@pathtojustice.com;\nbrad@pathtojustice.com;\nmaria@pathtojustice.com\nFarmer Jaffe Weissing Edwards Fistos &\nLehrman, P.L.\n425 N Andrews Avenue, Suite 2\nFort Lauderdale, FL 33301\nPhone: (954)-524-2820/Fax: (954)-524-2822\nAttorneys for Alan M.Dershowitz, Esquire\n\nKenneth A. Sweder, Esquire\nksweder@sweder-ross.com\nSweder & Ross, LLP\n131 Oliver Street\nBoston, MA 02110\nPhone: (617)-646-4466/Fax: (617)-646-4470\nAttorneys for Alan M.Dershowitz, Esquire\n\nAshley Eiler, Esquire\nAEiler@wileyrein.com\nMary E. Borja, Esquire\nMBorja@wileyrein.com\nRichard A. Simpson, Esquire\nRSimpson@wileyrein.com\nWiley Rein, LLP\n1776 K Street NW\nWashington, DC 20006\nPhone: (202)-719-4252/Fax: (202)-719-7049\nAttorneys for Alan M.Dershowitz, Esquire\n\nJoni J. Jones, Esquire\njonijones@utah.gov\nAssistant Utah Attorney General\n160 E 300 S\nSalt Lake City, UT 84114\nPhone: (801)-366-0100/Fax: (801)-366-0101\nAttorneys for Paul Cassell\n\nHOUSE_OVERSIGHT_010776",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 20 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "title",
+        "text": "COUNSEL LIST",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Sigrid Stone McCawley, Esquire\nsmccawley@bsfllp.com;\nsperkins@bsfllp.com; ftleserve@bsfllp.com\nBoies Schiller & Flexner, LLP\n401 E Las Olas Boulevard, Suite 1200\nFort Lauderdale, FL 33301\nPhone: (954)-356-0011\nAttorneys for Alan M.Dershowitz, Esquire\n\nThomas Emerson Scott, Jr., Esquire\nThomas.scott@csklegal.com;\nSteven.safra@csklegal.com;\nRenee.nail@csklegal.com;\nshelly.zambo@csklegal.com\nCole Scott & Kissane P.A.\n9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156\nPhone: (305)-350-5329/Fax: (305)-373-2294\nAttorneys for Alan M.Dershowitz, Esquire\n\nBradley J. Edwards, Esquire\nstaff.efile@pathtojustice.com;\nbrad@pathtojustice.com;\nmaria@pathtojustice.com\nFarmer Jaffe Weissing Edwards Fistos &\nLehrman, P.L.\n425 N Andrews Avenue, Suite 2\nFort Lauderdale, FL 33301\nPhone: (954)-524-2820/Fax: (954)-524-2822\nAttorneys for Alan M.Dershowitz, Esquire\n\nKenneth A. Sweder, Esquire\nksweder@sweder-ross.com\nSweder & Ross, LLP\n131 Oliver Street\nBoston, MA 02110\nPhone: (617)-646-4466/Fax: (617)-646-4470\nAttorneys for Alan M.Dershowitz, Esquire\n\nAshley Eiler, Esquire\nAEiler@wileyrein.com\nMary E. Borja, Esquire\nMBorja@wileyrein.com\nRichard A. Simpson, Esquire\nRSimpson@wileyrein.com\nWiley Rein, LLP\n1776 K Street NW\nWashington, DC 20006\nPhone: (202)-719-4252/Fax: (202)-719-7049\nAttorneys for Alan M.Dershowitz, Esquire\n\nJoni J. Jones, Esquire\njonijones@utah.gov\nAssistant Utah Attorney General\n160 E 300 S\nSalt Lake City, UT 84114\nPhone: (801)-366-0100/Fax: (801)-366-0101\nAttorneys for Paul Cassell",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010776",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Sigrid Stone McCawley, Esquire",
+      "Alan M.Dershowitz, Esquire",
+      "Thomas Emerson Scott, Jr., Esquire",
+      "Bradley J. Edwards, Esquire",
+      "Kenneth A. Sweder, Esquire",
+      "Ashley Eiler, Esquire",
+      "Mary E. Borja, Esquire",
+      "Richard A. Simpson, Esquire",
+      "Joni J. Jones, Esquire",
+      "Paul Cassell"
+    ],
+    "organizations": [
+      "Boies Schiller & Flexner, LLP",
+      "Cole Scott & Kissane P.A.",
+      "Farmer Jaffe Weissing Edwards Fistos & Lehrman, P.L.",
+      "Sweder & Ross, LLP",
+      "Wiley Rein, LLP",
+      "Assistant Utah Attorney General"
+    ],
+    "locations": [
+      "401 E Las Olas Boulevard, Suite 1200\nFort Lauderdale, FL 33301",
+      "9150 S Dadeland Boulevard, Suite 1400\nMiami, FL 33156",
+      "425 N Andrews Avenue, Suite 2\nFort Lauderdale, FL 33301",
+      "131 Oliver Street\nBoston, MA 02110",
+      "1776 K Street NW\nWashington, DC 20006",
+      "160 E 300 S\nSalt Lake City, UT 84114"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "Page 20 of 20",
+      "HOUSE_OVERSIGHT_010776"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(954)-356-0011",
+        "(305)-350-5329",
+        "(305)-373-2294",
+        "(954)-524-2820",
+        "(954)-524-2822",
+        "(617)-646-4466",
+        "(617)-646-4470",
+        "(202)-719-4252",
+        "(202)-719-7049",
+        "(801)-366-0100",
+        "(801)-366-0101"
+      ],
+      "email_addresses": [
+        "smccawley@bsfllp.com",
+        "sperkins@bsfllp.com",
+        "ftleserve@bsfllp.com",
+        "Thomas.scott@csklegal.com",
+        "Steven.safra@csklegal.com",
+        "Renee.nail@csklegal.com",
+        "shelly.zambo@csklegal.com",
+        "staff.efile@pathtojustice.com",
+        "brad@pathtojustice.com",
+        "maria@pathtojustice.com",
+        "ksweder@sweder-ross.com",
+        "AEiler@wileyrein.com",
+        "MBorja@wileyrein.com",
+        "RSimpson@wileyrein.com",
+        "jonijones@utah.gov"
+      ],
+      "addresses": [
+        "401 E Las Olas Boulevard, Suite 1200, Fort Lauderdale, FL 33301",
+        "9150 S Dadeland Boulevard, Suite 1400, Miami, FL 33156",
+        "425 N Andrews Avenue, Suite 2, Fort Lauderdale, FL 33301",
+        "131 Oliver Street, Boston, MA 02110",
+        "1776 K Street NW, Washington, DC 20006",
+        "160 E 300 S, Salt Lake City, UT 84114"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010776"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Counsel List",
+    "sender": null,
+    "recipient": null,
+    "subject": "Counsel List for Edwards, Bradley vs. Dershowitz, Case No.: CACE 15-000072",
+    "date": null,
+    "references": [
+      "CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.985
+  },
+  "notes": "The document is a service list identifying the attorneys for the parties Alan M. Dershowitz and Paul Cassell in the specified legal case. The footer 'HOUSE_OVERSIGHT_010776' is likely a Bates number for document production.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010776.jpg",
+  "house_oversight_id": "010776",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:24:26.446420Z",
+    "model": "gemini-2.5-pro"
+  }
+}

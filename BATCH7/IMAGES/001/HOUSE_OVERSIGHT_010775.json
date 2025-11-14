@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010775.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document. The page is formatted with a header containing case information, a body section listing attorneys and their contact details, and a footer with a document identification number. The text is black on a white background.",
+    "layout": "The document has a header at the top left, a central body of text listing attorneys, and a footer at the bottom right. There is significant white space on the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 19 of 20\n\nPhone: (305)-350-5329\nFax: (305)-373-2294\nAttorneys for Defendant\n\nRichard A. Simpson (pro hac vice)\nrsimpson@wileyrein.com\nMary E. Borja (pro hac vice)\nmborja@wileyrein.com\nAshley E. Eiler (pro hac vice)\naeiler@wileyrein.com\nWILEY REIN LLP\n1776 K St. NW\nWashington, DC 20006\nPhone: (202) 719-7000\nFax: (202) 719-7049\n\nHOUSE_OVERSIGHT_010775",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 19 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Phone: (305)-350-5329\nFax: (305)-373-2294\nAttorneys for Defendant\n\nRichard A. Simpson (pro hac vice)\nrsimpson@wileyrein.com\nMary E. Borja (pro hac vice)\nmborja@wileyrein.com\nAshley E. Eiler (pro hac vice)\naeiler@wileyrein.com\nWILEY REIN LLP\n1776 K St. NW\nWashington, DC 20006\nPhone: (202) 719-7000\nFax: (202) 719-7049",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010775",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Richard A. Simpson",
+      "Mary E. Borja",
+      "Ashley E. Eiler"
+    ],
+    "organizations": [
+      "WILEY REIN LLP",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "1776 K St. NW, Washington, DC 20006"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010775"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(305)-350-5329",
+        "(305)-373-2294",
+        "(202) 719-7000",
+        "(202) 719-7049"
+      ],
+      "email_addresses": [
+        "rsimpson@wileyrein.com",
+        "mborja@wileyrein.com",
+        "aeiler@wileyrein.com"
+      ],
+      "addresses": [
+        "1776 K St. NW\nWashington, DC 20006"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010775"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Attorneys for Defendant",
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is page 19 of a 20-page document. It appears to be a signature or service page listing the attorneys for the defendant.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010775.jpg",
+  "house_oversight_id": "010775",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:23:57.371500Z",
+    "model": "gemini-2.5-pro"
+  }
+}

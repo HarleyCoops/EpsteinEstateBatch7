@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010769.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, specifically a court filing. The page contains a transcript of a deposition followed by a narrative paragraph providing context and referencing exhibits. The document has a header with case information and a footer with a Bates number.",
+    "layout": "The document is structured with a header at the top, a main body of text, and a footer at the bottom. The header contains the case caption and page number. The body includes a section of dialogue formatted as a transcript, followed by several paragraphs of legal argument or summary. The footer contains a unique document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 13 of 20\n\nMS. McCAWLEY: I have a standing objection and, I'm objecting again. I'm\nnot going to\n\nTHE WITNESS: No, no, no. Does she have standing in this deposition?\n\nMR. SCOTT: Let's take a break for a minute, okay?\n\nTHE WITNESS: I'm not sure she has standing.\n\nMR. SCAROLA: Are we finished with the speech?\n\nMR. SCOTT: No. If he --\n\nMR. SCAROLA: I'd like him to finish the speech so that we can get to my\nquestion\nand then we can take a break.\n\nA. So the question -- the answer to your question is --\n\nMR. SIMPSON: Wait a minute. Wait a minute. Please don't\ndisclose something that she has a right to raise that objection if she wants to.\n\nMR. SCOTT: Exactly.\n\nDeposition of Alan Dershowitz (Oct. 15, 2015) at 93-95 (attached as Exhibit 1); see\nalso Deposition of Alan Dershowitz (Oct. 16, 2016) (attached as Exhibit 2) (also containing\ndiscussion of Ms. Giuffre's affidavit).\n\nThe Court should be aware that within approximately two hours of this exchange, Ms.\nMcCawley (David Boies' law partner) released a statement on his behalf, which stated that\nDershowitz was misrepresenting what happened: \"Because the discussions that Mr. Boies had\nwith Mr. Dershowitz were expressly privileged settlement discussions, Mr. Boies will not, at\nleast at this time, describe what was actually said. However, Mr. Boies does state that Mr.",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 13 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "MS. McCAWLEY: I have a standing objection and, I'm objecting again. I'm\nnot going to\n\nTHE WITNESS: No, no, no. Does she have standing in this deposition?\n\nMR. SCOTT: Let's take a break for a minute, okay?\n\nTHE WITNESS: I'm not sure she has standing.\n\nMR. SCAROLA: Are we finished with the speech?\n\nMR. SCOTT: No. If he --\n\nMR. SCAROLA: I'd like him to finish the speech so that we can get to my\nquestion\nand then we can take a break.\n\nA. So the question -- the answer to your question is --\n\nMR. SIMPSON: Wait a minute. Wait a minute. Please don't\ndisclose something that she has a right to raise that objection if she wants to.\n\nMR. SCOTT: Exactly.\n\nDeposition of Alan Dershowitz (Oct. 15, 2015) at 93-95 (attached as Exhibit 1); see\nalso Deposition of Alan Dershowitz (Oct. 16, 2016) (attached as Exhibit 2) (also containing\ndiscussion of Ms. Giuffre's affidavit).\n\nThe Court should be aware that within approximately two hours of this exchange, Ms.\nMcCawley (David Boies' law partner) released a statement on his behalf, which stated that\nDershowitz was misrepresenting what happened: \"Because the discussions that Mr. Boies had\nwith Mr. Dershowitz were expressly privileged settlement discussions, Mr. Boies will not, at\nleast at this time, describe what was actually said. However, Mr. Boies does state that Mr.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010769",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-15",
+      "2016-10-16"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Ms. McCawley",
+      "Mr. Scott",
+      "Mr. Scarola",
+      "Mr. Simpson",
+      "Alan Dershowitz",
+      "Ms. Giuffre",
+      "David Boies",
+      "Mr. Boies"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010769",
+      "Page 13 of 20",
+      "Exhibit 1",
+      "Exhibit 2"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010769"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassells",
+    "recipient": "The Court",
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records in the case of Edwards, Bradley vs. Dershowitz.",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Deposition of Alan Dershowitz (Oct. 15, 2015)",
+      "Deposition of Alan Dershowitz (Oct. 16, 2016)",
+      "Ms. Giuffre's affidavit"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a response filed in court, containing a transcript from a deposition and related commentary. The footer contains a Bates number, indicating it is part of a larger set of documents produced for legal or investigative purposes.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010769.jpg",
+  "house_oversight_id": "010769",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:21:32.894654Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010779.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality, black and white digital image of a typed document. The document is a page from a legal transcript, identified by line numbers on the left, speaker designations, text in the center, and timestamps on the right. There is a page number in the top right corner and a document identifier in the bottom right corner.",
+    "layout": "Single-column text with line numbers on the far left margin, speaker/text in the main body, timestamps on the right margin. A header contains the page number, and a footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "                                                                        93\n\n 1      people that abused Virginia?\n\n 2          A.   I told you I never asked her the question.         11:36:21\n\n 3          Q.   Are you aware that years before December          11:36:48\n\n 4      of 2014, when the CVRA pleading was filed, that your\n\n 5      name had come up repeatedly in connection with\n\n 6      Jeffrey Epstein's abuse of minors, correct?\n\n 7                  MR. SCOTT:  Objection, form, overly broad.     11:37:16\n\n 8          A.   Let me answer that question.  I am aware           11:37:17\n\n 9      that never before 2014, end of December, was it\n\n10      ever, ever alleged that I had acted in any way\n\n11      inappropriately with regard to Virginia Roberts,\n\n12      that I ever touched her, that I ever met her, that I\n\n13      had ever been with her.  I was completely aware of\n\n14      that.  There had never been any allegation.\n\n15                  She claims under oath that she told you         11:37:48\n\n16      that secretly in 2011, but you have produced no\n\n17      notes of any such conversation.  You, of course, are\n\n18      a witness to this allegation and will be deposed as\n\n19      a witness to this allegation.  I believe it is an\n\n20      entirely false allegation that she told you in 2011\n\n21      that she had had any sexual contact with me.  I\n\n22      think she's lying through her teeth when she says\n\n23      that.  And I doubt that your notes will reveal any\n\n24      such information.\n\n25                  But if she did tell you that, she would be      11:38:24\n\n\n\n\n                                                 HOUSE_OVERSIGHT_010779",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "93",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "1      people that abused Virginia?\n\n 2          A.   I told you I never asked her the question.         11:36:21\n\n 3          Q.   Are you aware that years before December          11:36:48\n\n 4      of 2014, when the CVRA pleading was filed, that your\n\n 5      name had come up repeatedly in connection with\n\n 6      Jeffrey Epstein's abuse of minors, correct?\n\n 7                  MR. SCOTT:  Objection, form, overly broad.     11:37:16\n\n 8          A.   Let me answer that question.  I am aware           11:37:17\n\n 9      that never before 2014, end of December, was it\n\n10      ever, ever alleged that I had acted in any way\n\n11      inappropriately with regard to Virginia Roberts,\n\n12      that I ever touched her, that I ever met her, that I\n\n13      had ever been with her.  I was completely aware of\n\n14      that.  There had never been any allegation.\n\n15                  She claims under oath that she told you         11:37:48\n\n16      that secretly in 2011, but you have produced no\n\n17      notes of any such conversation.  You, of course, are\n\n18      a witness to this allegation and will be deposed as\n\n19      a witness to this allegation.  I believe it is an\n\n20      entirely false allegation that she told you in 2011\n\n21      that she had had any sexual contact with me.  I\n\n22      think she's lying through her teeth when she says\n\n23      that.  And I doubt that your notes will reveal any\n\n24      such information.\n\n25                  But if she did tell you that, she would be      11:38:24",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010779",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014",
+      "2011"
+    ],
+    "people": [
+      "Virginia",
+      "Jeffrey Epstein",
+      "MR. SCOTT",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "93",
+      "HOUSE_OVERSIGHT_010779"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding allegations of abuse and association with Jeffrey Epstein and Virginia Roberts.",
+    "date": null,
+    "references": [
+      "CVRA pleading"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is a page from a deposition transcript. Timestamps are present on the right margin: 11:36:21, 11:36:48, 11:37:16, 11:37:17, 11:37:48, 11:38:24. The speakers are identified as 'Q.' (Questioner), 'A.' (Answerer), and 'MR. SCOTT' (likely an attorney making an objection).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010779.jpg",
+  "house_oversight_id": "010779",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:25:27.084806Z",
+    "model": "gemini-2.5-pro"
+  }
+}

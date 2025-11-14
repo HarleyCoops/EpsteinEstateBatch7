@@ -1,0 +1,87 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010771.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, specifically page 15 of 20. The document is typed in a serif font and appears to be a court filing. It contains a case caption, body text with quotes from a television show and a newspaper, and a footer with a document control number.",
+    "layout": "The document has a standard portrait layout with a header containing case information, a main body of text, and a footer with an identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 15 of 20\n\nSimilarly, Dershowitz appeared on NBC's Today Show the morning after Edwards and\nCassell made a filing for Ms. Giuffre, to say that the Edwards and Cassell – and Ms. Giuffre –\nwere all “lying” in the court documents:\n\nQuestion from Savannah Guthrie: In legal papers from the lawyers, they say you’ve\nhad, in fact, the opportunity to be deposed.\n\nAnswer from Alan Dershowitz: They’re lying. They’re lying.\n\nQuestion: They show letters in which they offered to depose you.\n\nAnswer: And they didn’t show my letters in response saying, (a), if you ask me about\nmy legal relationship with Epstein and I’ll be happy to answer. . . . And I responded\nthat I would be happy to be deposed if you could give me any indication that I would\nbe a relevant witness. . . . They will be proved – all of them [i.e. Cassell, Edwards,\nand Ms. Giuffre] – to be categorically lying and making up this story. And it will be a\nterrible thing for rape victims. . . . We [Epstein and Dershowitz] had an academic\nrelationship. I was never in the presence of a single, young, underaged\nwoman. When I was with him, it was with prominent scientists, prominent\nacademics. And they’re just – again – lying about this. I never saw him doing\nanything improper. I was not a participant. I was not a witness.\n\nToday Show, Jan. 22, 2015 (emphases added).\n\nAs another example, in Miami Herald, Dershowitz called the Joinder Motion that he\nseeks to have sealed “the sleaziest legal document I have ever seen. They [Edwards and\nCassell] manipulated a young, suggestible woman who was interested in money. This is a\ndisbarrable offense, and they will be disbarred. They will rue the day they ever made this false\ncharge against me” – i.e., Edwards and Cassell will “rue the day” they ever filed the Joinder\nMotion. Miami Herald (Jan. 3, 2015).\n\nHOUSE_OVERSIGHT_010771",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 15 of 20",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Similarly, Dershowitz appeared on NBC's Today Show the morning after Edwards and\nCassell made a filing for Ms. Giuffre, to say that the Edwards and Cassell – and Ms. Giuffre –\nwere all “lying” in the court documents:\n\nQuestion from Savannah Guthrie: In legal papers from the lawyers, they say you’ve\nhad, in fact, the opportunity to be deposed.\n\nAnswer from Alan Dershowitz: They’re lying. They’re lying.\n\nQuestion: They show letters in which they offered to depose you.\n\nAnswer: And they didn’t show my letters in response saying, (a), if you ask me about\nmy legal relationship with Epstein and I’ll be happy to answer. . . . And I responded\nthat I would be happy to be deposed if you could give me any indication that I would\nbe a relevant witness. . . . They will be proved – all of them [i.e. Cassell, Edwards,\nand Ms. Giuffre] – to be categorically lying and making up this story. And it will be a\nterrible thing for rape victims. . . . We [Epstein and Dershowitz] had an academic\nrelationship. I was never in the presence of a single, young, underaged\nwoman. When I was with him, it was with prominent scientists, prominent\nacademics. And they’re just – again – lying about this. I never saw him doing\nanything improper. I was not a participant. I was not a witness.\n\nToday Show, Jan. 22, 2015 (emphases added).\n\nAs another example, in Miami Herald, Dershowitz called the Joinder Motion that he\nseeks to have sealed “the sleaziest legal document I have ever seen. They [Edwards and\nCassell] manipulated a young, suggestible woman who was interested in money. This is a\ndisbarrable offense, and they will be disbarred. They will rue the day they ever made this false\ncharge against me” – i.e., Edwards and Cassell will “rue the day” they ever filed the Joinder\nMotion. Miami Herald (Jan. 3, 2015).",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010771",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-22",
+      "2015-01-03"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Cassell",
+      "Ms. Giuffre",
+      "Savannah Guthrie",
+      "Alan Dershowitz",
+      "Epstein"
+    ],
+    "organizations": [
+      "NBC",
+      "Today Show",
+      "Miami Herald",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010771"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 15 of a 20-page document. It references public statements made by Alan Dershowitz on NBC's Today Show and in the Miami Herald.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010771.jpg",
+  "house_oversight_id": "010771",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:22:20.737770Z",
+    "model": "gemini-2.5-pro"
+  }
+}

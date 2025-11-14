@@ -1,0 +1,68 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010777.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A document page serving as a cover or divider for 'Exhibit 1'. The page is white with large, bold, black, sans-serif text in the upper-middle section. A document identifier 'HOUSE_OVERSIGHT_010777' is printed at the bottom right corner.",
+    "layout": "Centered title with a footer in the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Exhibit 1\n\nHOUSE_OVERSIGHT_010777",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Exhibit 1",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010777",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010777"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document number 'HOUSE_OVERSIGHT_010777' in the footer."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Document Cover/Divider",
+    "sender": null,
+    "recipient": null,
+    "subject": "Exhibit 1",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010777"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a simple exhibit cover page, containing only a title and a document identifier, likely a Bates number.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010777.jpg",
+  "house_oversight_id": "010777",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:24:42.059788Z",
+    "model": "gemini-2.5-pro"
+  }
+}

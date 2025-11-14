@@ -1,0 +1,85 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010780.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image of a single page from a legal transcript. The page is numbered 94 at the top right. The text is typewritten in a monospaced font. Line numbers run down the left margin from 1 to 25. Timestamps are present in the right margin. A document identifier is at the bottom right.",
+    "layout": "Single-column text body with line numbers on the left margin, a page number in the top right header, timestamps in the right margin, and a document identifier in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "94\n\n1    absolutely, categorically lying.  So I am completely\n\n2    aware that never, until the lies were put in a legal\n\n3    pleading at the end of December 2014, it was never\n\n4    alleged that I had any sexual contact with Virginia\n\n5    Roberts.\n\n6             I know that it was alleged that I was a         11:38:46\n\n7    witness to Jeffrey Epstein's alleged abuse and that\n\n8    was false.  I was never a witness to any of Jeffrey\n\n9    Epstein's sexual abuse.  And I wrote that to you,\n\n10   something that you have falsely denied.  And I stand\n\n11   on the record.  The record is clear that I have\n\n12   categorically denied I was ever a witness to any\n\n13   abuse, that I ever saw Jeffrey Epstein abusing\n\n14   anybody.\n\n15            And -- and the very idea that I would           11:39:18\n\n16   stand and talk to Jeffrey Epstein while he was\n\n17   receiving oral sex from Virginia Roberts, which she\n\n18   swore to under oath, is so outrageous, so\n\n19   preposterous, that even David Boies said he couldn't\n\n20   believe it was true.\n\n21            MS. MCCAWLEY:  I object.  I object.  I'm         11:39:40\n\n22   not going to allow you to reveal any\n\n23   conversations that happened in the context of a\n\n24   settlement discussion.\n\n25            THE WITNESS:  Does she have standing?            11:39:46\n\n\nHOUSE_OVERSIGHT_010780",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "94",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "1    absolutely, categorically lying.  So I am completely\n\n2    aware that never, until the lies were put in a legal\n\n3    pleading at the end of December 2014, it was never\n\n4    alleged that I had any sexual contact with Virginia\n\n5    Roberts.\n\n6             I know that it was alleged that I was a\n\n7    witness to Jeffrey Epstein's alleged abuse and that\n\n8    was false.  I was never a witness to any of Jeffrey\n\n9    Epstein's sexual abuse.  And I wrote that to you,\n\n10   something that you have falsely denied.  And I stand\n\n11   on the record.  The record is clear that I have\n\n12   categorically denied I was ever a witness to any\n\n13   abuse, that I ever saw Jeffrey Epstein abusing\n\n14   anybody.\n\n15            And -- and the very idea that I would\n\n16   stand and talk to Jeffrey Epstein while he was\n\n17   receiving oral sex from Virginia Roberts, which she\n\n18   swore to under oath, is so outrageous, so\n\n19   preposterous, that even David Boies said he couldn't\n\n20   believe it was true.\n\n21            MS. MCCAWLEY:  I object.  I object.  I'm\n\n22   not going to allow you to reveal any\n\n23   conversations that happened in the context of a\n\n24   settlement discussion.\n\n25            THE WITNESS:  Does she have standing?",
+        "type": "typed"
+      },
+      {
+        "region": "margin",
+        "text": "11:38:46\n11:39:18\n11:39:40\n11:39:46",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010780",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-12"
+    ],
+    "people": [
+      "Virginia Roberts",
+      "Jeffrey Epstein",
+      "David Boies",
+      "MS. MCCAWLEY",
+      "THE WITNESS"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "94",
+      "HOUSE_OVERSIGHT_010780"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Testimony regarding allegations involving Jeffrey Epstein and Virginia Roberts.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010780"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is a page from a deposition or hearing transcript. Timestamps are present in the right margin: 11:38:46, 11:39:18, 11:39:40, 11:39:46.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010780.jpg",
+  "house_oversight_id": "010780",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:25:48.552157Z",
+    "model": "gemini-2.5-pro"
+  }
+}

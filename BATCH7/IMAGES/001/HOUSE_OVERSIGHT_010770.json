@@ -1,0 +1,88 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010770.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, specifically a court filing. The page is numbered 14 of 20 and includes a case caption, body text with a block quote, and a footer with a document control number.",
+    "layout": "The document has a header with case information, a main body of text, and a footer with an identifier. The body text is divided into paragraphs and includes an indented block quote.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 14 of 20\n\nDershowitz description of what was said is not true.” Statement of Ms. McCawley on Behalf of David Boies (Oct. 15, 2015).\n\nMore broadly, the Court can readily see from this passage how Dershowitz is willing to inject into the record a part of Ms. Giuffre’s affidavit whenever it serves his purpose – and, indeed, to characterize the part of the affidavit as “preposterous.” But then he asks this Court to place the underlying affidavit under seal, so that the Edwards and Cassell stand accused having filed a “preposterous” affidavit without anyone being able to assess the validity of Dershowitz’s attack.\n\nDershowitz has referred to the court records that he now wishes to have the Court declare confidential not only in his deposition, but also in his widely-broadcast media attacks on Edwards and Cassell. For example, Dershowitz appeared on the British Broadcasting Corporation (the BBC) and was asked about the allegations:\n\nWell, first of all they were made in court papers that they don’t even ask for a hearing to try to prove them. They put them in court papers in order to immunize themselves from any consequences from a defamation suit. The story is totally made up, completely out of whole cloth.\nI don’t know this woman. I was not at the places at the times. It is part of a pattern of made up stories against prominent people and world leaders. And the lawyers in recent statement challenged me to deny the allegations under oath. I am doing that. I am denying them under oath, thus subjecting me to a perjury prosecution were I not telling the truth. I am now challenging them to have their client put these charges under oath and for them to put them under oath. I am also challenging them to repeat them outside of the context of court papers so that I can sue them for defamation. . . . And I will prove beyond any doubt not only that the story is totally false, but it was knowingly false: that the lawyers and the client conspired together to create a false story. That is why I am moving for their disbarment in challenges to be provided to the disciplinary committee.\n\nBBC Radio 4 - Sarah Montague (Jan. 3, 2015) (http://www.bbc.co.uk/programmes/p02g7qbc).\n\nHOUSE_OVERSIGHT_010770",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 14 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Dershowitz description of what was said is not true.” Statement of Ms. McCawley on Behalf of David Boies (Oct. 15, 2015).\n\nMore broadly, the Court can readily see from this passage how Dershowitz is willing to inject into the record a part of Ms. Giuffre’s affidavit whenever it serves his purpose – and, indeed, to characterize the part of the affidavit as “preposterous.” But then he asks this Court to place the underlying affidavit under seal, so that the Edwards and Cassell stand accused having filed a “preposterous” affidavit without anyone being able to assess the validity of Dershowitz’s attack.\n\nDershowitz has referred to the court records that he now wishes to have the Court declare confidential not only in his deposition, but also in his widely-broadcast media attacks on Edwards and Cassell. For example, Dershowitz appeared on the British Broadcasting Corporation (the BBC) and was asked about the allegations:\n\nWell, first of all they were made in court papers that they don’t even ask for a hearing to try to prove them. They put them in court papers in order to immunize themselves from any consequences from a defamation suit. The story is totally made up, completely out of whole cloth.\nI don’t know this woman. I was not at the places at the times. It is part of a pattern of made up stories against prominent people and world leaders. And the lawyers in recent statement challenged me to deny the allegations under oath. I am doing that. I am denying them under oath, thus subjecting me to a perjury prosecution were I not telling the truth. I am now challenging them to have their client put these charges under oath and for them to put them under oath. I am also challenging them to repeat them outside of the context of court papers so that I can sue them for defamation. . . . And I will prove beyond any doubt not only that the story is totally false, but it was knowingly false: that the lawyers and the client conspired together to create a false story. That is why I am moving for their disbarment in challenges to be provided to the disciplinary committee.\n\nBBC Radio 4 - Sarah Montague (Jan. 3, 2015) (http://www.bbc.co.uk/programmes/p02g7qbc).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010770",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-15",
+      "2015-01-03"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "McCawley",
+      "David Boies",
+      "Giuffre",
+      "Sarah Montague"
+    ],
+    "organizations": [
+      "British Broadcasting Corporation (the BBC)",
+      "BBC Radio 4"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010770"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010770"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassells",
+    "recipient": "Court",
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records in the case of Edwards, Bradley vs. Dershowitz.",
+    "date": null,
+    "references": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010770",
+      "http://www.bbc.co.uk/programmes/p02g7qbc"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is a page from a legal response filed in court. It quotes a statement made by Dershowitz on a BBC radio program.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010770.jpg",
+  "house_oversight_id": "010770",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:21:56.013914Z",
+    "model": "gemini-2.5-pro"
+  }
+}
