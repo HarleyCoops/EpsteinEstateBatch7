@@ -1,0 +1,88 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010570.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document, likely a legal filing or memorandum. The page contains numbered paragraphs, an indented quoted section, a page number at the bottom center, and a document identifier in the bottom right corner. The text discusses legal matters related to Jeffrey Epstein, including communications between his attorneys and U.S. Prosecutors.",
+    "layout": "Standard portrait layout with a main body of text, a centered page number at the bottom, and a document identifier in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "6.        At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that, more specifically, Epstein's attorneys knew of Epstein's scheme to recruit minors for\nsex and also knew that these minors had civil actions that they could bring against him. In fact,\nthere was much communication between Epstein's attorneys and the United States Prosecutors in\na joint attempt to minimize Epstein's civil exposure. For example, on October 3, 2007, Assistant\nU.S. Attorney Marie Villafaña sent an email (attached hereto as Exhibit “D”) to Jay Lefkowitz,\ncounsel for Epstein, with attached proposed letter to special master regarding handling numerous\nexpected civil claims against Epstein. The letter reads in pertinent part,\n\n          \"The undersigned, as counsel for the United States of America and\n     Jeffrey Epstein, jointly write to you to provide information relevant to your\n     service as a Special Master in the selection of an attorney to represent several\n     young women who may have civil damages claims against Mr. Epstein. The\n     U.S. Attorney's Office and the Federal Bureau of Investigation (jointly referred\n     to as the \"United States\") have conducted an investigation of Jeffrey Epstein\n     regarding his solicitation of minor females in Palm Beach County to engage in\n     prostitution. Mr. Epstein, through his assistants, would recruit underage\n     females to travel to his home in Palm Beach to engage in lewd conduct in\n     exchange for money. Based upon the investigation, the United States has\n     identified forty (40) young women who can be characterized as victims\n     pursuant to 18 USC 2255. Some of those women went to Mr. Epstein's home\n     only once, some went there as much as 100 times or more. Some of the\n     women's conduct was limited to performing a topless or nude massage while\n     Mr. Epstein masturbated himself. For other women, the conduct escalated to\n     full sexual intercourse. As part of the resolution of the case, Epstein has\n     agreed that he would not contest jurisdiction in the Southern District of Florida\n     for any victim who chose to sue him for damages pursuant to 18 USC 2255.\n     Mr. Epstein agreed to provide an attorney for victims who elected to proceed\n     exclusively pursuant to that section, and agreed to waive any challenge to\n     liability under that section up to an amount agreed to by the parties. The parties\n     have agreed to submit the selection of an attorney to a Special Master....\"\n\n7.        At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that L.M. was, in fact, a victim of Epstein's criminal abuse because L.M. was one of the\n\n\n                                                  5\n\n\n                                                                              HOUSE_OVERSIGHT_010570",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "6.        At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that, more specifically, Epstein's attorneys knew of Epstein's scheme to recruit minors for\nsex and also knew that these minors had civil actions that they could bring against him. In fact,\nthere was much communication between Epstein's attorneys and the United States Prosecutors in\na joint attempt to minimize Epstein's civil exposure. For example, on October 3, 2007, Assistant\nU.S. Attorney Marie Villafaña sent an email (attached hereto as Exhibit “D”) to Jay Lefkowitz,\ncounsel for Epstein, with attached proposed letter to special master regarding handling numerous\nexpected civil claims against Epstein. The letter reads in pertinent part,\n\n          \"The undersigned, as counsel for the United States of America and\n     Jeffrey Epstein, jointly write to you to provide information relevant to your\n     service as a Special Master in the selection of an attorney to represent several\n     young women who may have civil damages claims against Mr. Epstein. The\n     U.S. Attorney's Office and the Federal Bureau of Investigation (jointly referred\n     to as the \"United States\") have conducted an investigation of Jeffrey Epstein\n     regarding his solicitation of minor females in Palm Beach County to engage in\n     prostitution. Mr. Epstein, through his assistants, would recruit underage\n     females to travel to his home in Palm Beach to engage in lewd conduct in\n     exchange for money. Based upon the investigation, the United States has\n     identified forty (40) young women who can be characterized as victims\n     pursuant to 18 USC 2255. Some of those women went to Mr. Epstein's home\n     only once, some went there as much as 100 times or more. Some of the\n     women's conduct was limited to performing a topless or nude massage while\n     Mr. Epstein masturbated himself. For other women, the conduct escalated to\n     full sexual intercourse. As part of the resolution of the case, Epstein has\n     agreed that he would not contest jurisdiction in the Southern District of Florida\n     for any victim who chose to sue him for damages pursuant to 18 USC 2255.\n     Mr. Epstein agreed to provide an attorney for victims who elected to proceed\n     exclusively pursuant to that section, and agreed to waive any challenge to\n     liability under that section up to an amount agreed to by the parties. The parties\n     have agreed to submit the selection of an attorney to a Special Master....\"\n\n7.        At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that L.M. was, in fact, a victim of Epstein's criminal abuse because L.M. was one of the",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "5",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010570",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-10-03"
+    ],
+    "people": [
+      "Edwards",
+      "Epstein",
+      "Marie Villafaña",
+      "Jay Lefkowitz",
+      "Jeffrey Epstein",
+      "Mr. Epstein",
+      "L.M."
+    ],
+    "organizations": [
+      "United States Prosecutors",
+      "U.S. Attorney's Office",
+      "Federal Bureau of Investigation"
+    ],
+    "locations": [
+      "Palm Beach County",
+      "Palm Beach",
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010570",
+      "18 USC 2255"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Marie Villafaña",
+    "recipient": "Jay Lefkowitz",
+    "subject": "Legal proceedings and civil claims against Jeffrey Epstein involving minor victims.",
+    "date": "2007-10-03",
+    "references": [
+      "Exhibit \"D\""
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal brief or motion, referencing communications and agreements related to the civil claims against Jeffrey Epstein. The sender and recipient are identified from the description of an email sent on October 3, 2007.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010570.jpg",
+  "house_oversight_id": "010570",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:28:05.816115Z",
+    "model": "gemini-2.5-pro"
+  }
+}

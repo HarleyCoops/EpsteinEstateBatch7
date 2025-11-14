@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010576.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010576.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed document, numbered 11 at the bottom. The document contains paragraphs numbered 21, 22, and 23, detailing events and investigations related to an individual named Epstein. The text is black on a white background, with some minor scanning artifacts (speckles).\",\n    \"layout\": \"Single-column text with numbered paragraphs. A page number is centered at the bottom, and a document identifier is in the bottom right corner.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"appearance before the grand jury in the Southern District of Florida. This\\nconversation occurred when Mr. Epstein was aboard his privately owned civilian\\naircraft in Miami in the Southern District of Florida. His pilot had filed a flight\\nplan showing the parties were about to return to Teterboro, NJ. After the\\nconversation with Ms. Grof"
+}

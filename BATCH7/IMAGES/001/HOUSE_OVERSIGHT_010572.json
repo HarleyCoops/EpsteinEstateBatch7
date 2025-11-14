@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010572.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010572\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed legal document. The text is in a serif font, black on a white background. The document contains numbered paragraphs detailing allegations of sexual assault.\",\n    \"layout\": \"Single-column text with a page number centered at the bottom and a document identifier in the bottom right corner.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"one or"
+}

@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010564.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010564.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed document with black text on a white background. The document contains several black redaction boxes obscuring parts of the text. It appears to be a formal letter or report, indicated by the header and footer information.\",\n    \"layout\": \"The document has a standard portrait layout with a header at the top left, a main body of text, and a footer at the bottom right.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"Scott Link\\nJune 19, 2019\\nPage 5\\n\\nhad been victimized. It shattered her to her core. At the vulnerable age of 16, Mr. Epstein made himself the center of her existence and the master of her world. She realized she was a disposable pawn in his game. She could not talk about her years with Mr. Epstein because she was consumed with shame. At 16 years old, he isolated her and made himself her"
+}

@@ -1,0 +1,114 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010575.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document discussing a legal case involving Jeffrey Epstein. The text details allegations of witness tampering and references a plea proffer. The document has a page number and an identifier at the bottom.",
+    "layout": "Single-column text with numbered paragraphs and centered headings.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "whatsoever” with the litigation in this case. See, e.g., Journal, Exhibit F, at 85 (Donald Trump);\nat 9 (Bill Clinton phone numbers listed under “Doug Bands”).\n\nFederal Investigation and Plea Agreement With Epstein\n\n19. In approximately 2005, the FBI and the U.S. Attorney’s Office in the Southern\nDistrict of Florida learned of Epstein’s repeated sexual abuse of minor girls. They began a\ncriminal investigation into federal offenses related to his crimes. See U.S. Attorney’s\nCorrespondence, Exhibit “C”.\n\n20. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that to avoid the Government learning about his abuse of minor girls, Epstein threatened\nhis employees and demanded that they not cooperate with the government. Epstein’s aggressive\nwitness tampering was so severe that the United States Attorney’s Office prepared negotiated\nplea agreements containing these charges. For example, in a September 18, 2007, email from\nAUSA Villafaña to Lefkowitz (attached hereto as Exhibit “H”), she attached the proposed plea\nagreement describing Epstein’s witness tampering as follows:\n\n\"UNITED STATES vs. JEFFREY EPSTEIN PLEA PROFFER”\n\nOn August 21, 2007, FBI Special Agents E. Nesbitt Kuyrkendall and Jason\nRichards traveled to the home of Leslie Groff to serve her with a federal grand\njury subpoena with an investigation pending in the Southern District of Florida.\nMs. Groff works as the personal assistant of the defendant. Ms. Groff began\nspeaking with the agents and then excused herself to go upstairs to check on her\nsleeping child. While upstairs, Ms. Groff telephoned the defendant, Jeffrey\nEpstein, and informed him that the FBI agents were at her home. Mr. Epstein\ninstructed Ms. Groff not to speak with the agents and reprimanded her for\nallowing them into her home. Mr. Epstein applied pressure to keep Ms. Groff\nfrom complying with the grand jury subpoenas that the agents had served upon\nher. In particular, Mr. Epstein warned Ms. Groff against turning over documents\nand electronic evidence responsive to the subpoena and pressured her to delay her\n\n10\n\nHOUSE_OVERSIGHT_010575",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "whatsoever” with the litigation in this case. See, e.g., Journal, Exhibit F, at 85 (Donald Trump);\nat 9 (Bill Clinton phone numbers listed under “Doug Bands”).",
+        "type": "typed"
+      },
+      {
+        "region": "header",
+        "text": "Federal Investigation and Plea Agreement With Epstein",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "19. In approximately 2005, the FBI and the U.S. Attorney’s Office in the Southern\nDistrict of Florida learned of Epstein’s repeated sexual abuse of minor girls. They began a\ncriminal investigation into federal offenses related to his crimes. See U.S. Attorney’s\nCorrespondence, Exhibit “C”.\n\n20. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that to avoid the Government learning about his abuse of minor girls, Epstein threatened\nhis employees and demanded that they not cooperate with the government. Epstein’s aggressive\nwitness tampering was so severe that the United States Attorney’s Office prepared negotiated\nplea agreements containing these charges. For example, in a September 18, 2007, email from\nAUSA Villafaña to Lefkowitz (attached hereto as Exhibit “H”), she attached the proposed plea\nagreement describing Epstein’s witness tampering as follows:",
+        "type": "typed"
+      },
+      {
+        "region": "header",
+        "text": "\"UNITED STATES vs. JEFFREY EPSTEIN PLEA PROFFER”",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "On August 21, 2007, FBI Special Agents E. Nesbitt Kuyrkendall and Jason\nRichards traveled to the home of Leslie Groff to serve her with a federal grand\njury subpoena with an investigation pending in the Southern District of Florida.\nMs. Groff works as the personal assistant of the defendant. Ms. Groff began\nspeaking with the agents and then excused herself to go upstairs to check on her\nsleeping child. While upstairs, Ms. Groff telephoned the defendant, Jeffrey\nEpstein, and informed him that the FBI agents were at her home. Mr. Epstein\ninstructed Ms. Groff not to speak with the agents and reprimanded her for\nallowing them into her home. Mr. Epstein applied pressure to keep Ms. Groff\nfrom complying with the grand jury subpoenas that the agents had served upon\nher. In particular, Mr. Epstein warned Ms. Groff against turning over documents\nand electronic evidence responsive to the subpoena and pressured her to delay her",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "10",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010575",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2005",
+      "2007-09-18",
+      "2007-08-21"
+    ],
+    "people": [
+      "Donald Trump",
+      "Bill Clinton",
+      "Doug Bands",
+      "Epstein",
+      "Jeffrey Epstein",
+      "Edwards",
+      "AUSA Villafaña",
+      "Lefkowitz",
+      "E. Nesbitt Kuyrkendall",
+      "Jason Richards",
+      "Leslie Groff"
+    ],
+    "organizations": [
+      "FBI",
+      "U.S. Attorney’s Office",
+      "United States Attorney’s Office",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010575"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Document / Report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Federal investigation and plea agreement with Jeffrey Epstein, including allegations of witness tampering.",
+    "date": null,
+    "references": [
+      "Journal, Exhibit F",
+      "U.S. Attorney’s Correspondence, Exhibit “C”",
+      "Exhibit “H”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "This is page 10 of a larger document, as indicated by the page number in the footer. The document identifier is HOUSE_OVERSIGHT_010575.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010575.jpg",
+  "house_oversight_id": "010575",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:29:36.750369Z",
+    "model": "gemini-2.5-pro"
+  }
+}

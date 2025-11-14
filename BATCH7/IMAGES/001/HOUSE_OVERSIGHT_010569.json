@@ -1,0 +1,90 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010569.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image of a single page from a typed legal document. The page contains numbered paragraphs discussing allegations against Jeffrey Epstein. There is a page number at the bottom center and a document identifier in the bottom right corner.",
+    "layout": "Single column of text in a standard portrait orientation. The text is justified. A page number is centered at the bottom, and a document ID is in the bottom right footer area.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "on her thong panties. Epstein then instructed S.G to give him a massage. As S.G gave Epstein a\nmassage, Epstein turned around and masturbated. S.G. was so disgusted, she did not say\nanything; Epstein told her she “had a really hot body.” Id. at 14. In the report, S.G. admitted\nseeing Jeffrey Epstein’s penis and stated she thought Epstein was on steroids because he was a\n“really built guy and his wee wee was very tiny.” Id. at 15.\n\n4. The exact number of minor girls who Epstein assaulted is known only to Epstein.\nHowever, Edwards had a good faith basis to believe and did in fact believe that Epstein’s victims\nwere substantially more than forty (40) in number. In addition to the deposition excerpts from\ntwo of his many victims above about the number of underage girls brought to Epstein and the\nPalm Beach incident report, there is overwhelming proof that the number of underage girls\nmolested by Epstein through his scheme was in the hundreds. See Complaint, Jane Doe 102 v.\nEpstein, (hereinafter Jane Doe 102 complaint) (Exhibit “B”); see also Deposition of Jeffrey\nEpstein, April 14, 2010, at 442, 443, and 444 (Epstein invoking the 5th on questions about his\ndaily abuse and molestation of children) (Deposition Attachment #6).\n\n5. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that Epstein and his attorneys knew of the seriousness of the criminal investigation\nagainst him and corresponded constantly with the United States Attorney’s Office in an attempt\nto avoid the filing of numerous federal felony offenses, which effort was successful. See\nCorrespondence from U.S. Attorney’s Office to Epstein (hereinafter “U.S. Attorney’s\nCorrespondence”) (Composite Exhibit “C) (provided in discovery during the Jane Doe v. Epstein\ncase).\n\n4\n\nHOUSE_OVERSIGHT_010569",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "on her thong panties. Epstein then instructed S.G to give him a massage. As S.G gave Epstein a\nmassage, Epstein turned around and masturbated. S.G. was so disgusted, she did not say\nanything; Epstein told her she “had a really hot body.” Id. at 14. In the report, S.G. admitted\nseeing Jeffrey Epstein’s penis and stated she thought Epstein was on steroids because he was a\n“really built guy and his wee wee was very tiny.” Id. at 15.\n\n4. The exact number of minor girls who Epstein assaulted is known only to Epstein.\nHowever, Edwards had a good faith basis to believe and did in fact believe that Epstein’s victims\nwere substantially more than forty (40) in number. In addition to the deposition excerpts from\ntwo of his many victims above about the number of underage girls brought to Epstein and the\nPalm Beach incident report, there is overwhelming proof that the number of underage girls\nmolested by Epstein through his scheme was in the hundreds. See Complaint, Jane Doe 102 v.\nEpstein, (hereinafter Jane Doe 102 complaint) (Exhibit “B”); see also Deposition of Jeffrey\nEpstein, April 14, 2010, at 442, 443, and 444 (Epstein invoking the 5th on questions about his\ndaily abuse and molestation of children) (Deposition Attachment #6).\n\n5. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve that Epstein and his attorneys knew of the seriousness of the criminal investigation\nagainst him and corresponded constantly with the United States Attorney’s Office in an attempt\nto avoid the filing of numerous federal felony offenses, which effort was successful. See\nCorrespondence from U.S. Attorney’s Office to Epstein (hereinafter “U.S. Attorney’s\nCorrespondence”) (Composite Exhibit “C) (provided in discovery during the Jane Doe v. Epstein\ncase).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "4",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010569",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-04-14"
+    ],
+    "people": [
+      "Epstein",
+      "S.G",
+      "Jeffrey Epstein",
+      "Edwards",
+      "Jane Doe 102"
+    ],
+    "organizations": [
+      "United States Attorney’s Office",
+      "U.S. Attorney’s Office"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010569",
+      "Id. at 14",
+      "Id. at 15",
+      "Exhibit “B”",
+      "Deposition Attachment #6",
+      "Composite Exhibit “C"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations against Jeffrey Epstein, including the number of victims and interactions with the U.S. Attorney's Office.",
+    "date": null,
+    "references": [
+      "Complaint, Jane Doe 102 v. Epstein",
+      "Deposition of Jeffrey Epstein, April 14, 2010",
+      "Correspondence from U.S. Attorney’s Office to Epstein",
+      "Jane Doe v. Epstein case"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal filing or complaint, detailing allegations and evidence related to the Jeffrey Epstein case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010569.jpg",
+  "house_oversight_id": "010569",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:27:39.235774Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010566.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page legal document from a court case. The document is a 'STATEMENT OF UNDISPUTED FACTS' filed in the Circuit Court of Palm Beach County, Florida. It outlines facts related to a case involving Jeffrey Epstein. The text is black on a white background, and the document includes a case caption, body text with a numbered point, a footnote, and a Bates number in the footer.",
+    "layout": "Standard US letter format with a header containing court and case information, a case caption identifying the plaintiff and defendants, a main title, a body of text with paragraphs and a numbered list, a footnote at the bottom, and a document identifier in the bottom-right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "IN THE CIRCUIT COURT OF THE 15TH\nJUDICIAL CIRCUIT IN AND FOR PALM\nBEACH COUNTY, FLORIDA\n\nCase No.: 50 2009 CA 040800XXXXMBAG\n\nJEFFREY EPSTEIN,\n\nPlaintiff,\n\nvs.\n\nSCOTT ROTHSTEIN, individually, and\nBRADLEY J. EDWARDS, individually,\n\nDefendants,\n\nSTATEMENT OF UNDISPUTED FACTS\n\nDefendant Bradley J. Edwards, Esq., offers the following specific facts as the undisputed\nmaterial facts in this case. Each of the following facts is numbered separately and individually to\nfacilitate Epstein's required compliance with Fla. R. Civ. P. 1.510(c) (\"The adverse party shall\nidentify . . . any summary judgment evidence on which the adverse party relies.\"). All\nreferenced exhibits and attachments have previously been filed with the Court and provided to\nEpstein.\n\nSexual Abuse of Children By Epstein\n\n1.     Defendant Epstein has a sexual preference for young children. Deposition of\nJeffrey Epstein, Mar. 17, 2010, at 110 (hereinafter \"Epstein Depo.\") (Deposition Attachment\n#1).¹\n\n¹ When questioned about this subject at his deposition, Epstein invoked his Fifth Amendment right to\nremain silent rather than make an incriminating admission. Accordingly, Edwards is entitled to the\nadverse inference against Epstein that, had Epstein answered, the answer would have been unfavorable to\nhim. \"[I]t is well-settled that the Fifth Amendment does not forbid adverse inferences against parties to\n\nHOUSE_OVERSIGHT_010566",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "IN THE CIRCUIT COURT OF THE 15TH\nJUDICIAL CIRCUIT IN AND FOR PALM\nBEACH COUNTY, FLORIDA\n\nCase No.: 50 2009 CA 040800XXXXMBAG",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "JEFFREY EPSTEIN,\n\nPlaintiff,\n\nvs.\n\nSCOTT ROTHSTEIN, individually, and\nBRADLEY J. EDWARDS, individually,\n\nDefendants,",
+        "type": "printed"
+      },
+      {
+        "region": "title",
+        "text": "STATEMENT OF UNDISPUTED FACTS",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Defendant Bradley J. Edwards, Esq., offers the following specific facts as the undisputed\nmaterial facts in this case. Each of the following facts is numbered separately and individually to\nfacilitate Epstein's required compliance with Fla. R. Civ. P. 1.510(c) (\"The adverse party shall\nidentify . . . any summary judgment evidence on which the adverse party relies.\"). All\nreferenced exhibits and attachments have previously been filed with the Court and provided to\nEpstein.\n\nSexual Abuse of Children By Epstein\n\n1.     Defendant Epstein has a sexual preference for young children. Deposition of\nJeffrey Epstein, Mar. 17, 2010, at 110 (hereinafter \"Epstein Depo.\") (Deposition Attachment\n#1).¹",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "¹ When questioned about this subject at his deposition, Epstein invoked his Fifth Amendment right to\nremain silent rather than make an incriminating admission. Accordingly, Edwards is entitled to the\nadverse inference against Epstein that, had Epstein answered, the answer would have been unfavorable to\nhim. \"[I]t is well-settled that the Fifth Amendment does not forbid adverse inferences against parties to",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010566",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-03-17"
+    ],
+    "people": [
+      "JEFFREY EPSTEIN",
+      "SCOTT ROTHSTEIN",
+      "BRADLEY J. EDWARDS"
+    ],
+    "organizations": [
+      "CIRCUIT COURT OF THE 15TH JUDICIAL CIRCUIT"
+    ],
+    "locations": [
+      "PALM BEACH COUNTY, FLORIDA"
+    ],
+    "document_numbers": [
+      "Case No.: 50 2009 CA 040800XXXXMBAG",
+      "HOUSE_OVERSIGHT_010566"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010566"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Bradley J. Edwards",
+    "recipient": "The Court",
+    "subject": "Statement of Undisputed Facts in Epstein v. Rothstein and Edwards",
+    "date": null,
+    "references": [
+      "Case No.: 50 2009 CA 040800XXXXMBAG",
+      "Fla. R. Civ. P. 1.510(c)",
+      "Deposition of Jeffrey Epstein, Mar. 17, 2010"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a legal filing by Defendant Bradley J. Edwards in a case where Jeffrey Epstein is the plaintiff. The case number has been partially redacted with 'XXXX'. The document is part of a larger collection, as indicated by the Bates number 'HOUSE_OVERSIGHT_010566'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010566.jpg",
+  "house_oversight_id": "010566",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:26:52.252727Z",
+    "model": "gemini-2.5-pro"
+  }
+}

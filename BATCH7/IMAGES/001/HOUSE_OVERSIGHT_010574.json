@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010574.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010574.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A black and white scanned image of a typed document page. The page contains four numbered paragraphs (15, 16, 17, and 18) discussing allegations related to Jeffrey Epstein and his employee, Alfredo Rodriguez. The page number '9' is centered at the bottom, and a document identifier 'HOUSE_OVERSIGHT_010574' is in the bottom right corner.\",\n    \"layout\": \"Single-column text with numbered paragraphs. A page number is centered in the footer, and a document identifier is in the bottom right corner.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"15.     One of Mr."
+}

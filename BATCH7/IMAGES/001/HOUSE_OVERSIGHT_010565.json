@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010565.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is the final page of a typed letter on white paper. It contains several paragraphs of text, a closing, a signature, and a typed name. Two sections of the text have been redacted with black boxes. A document identification number is visible at the bottom right corner.",
+    "layout": "The document follows a standard letter format. A header with recipient name, date, and page number is at the top left. The body of the letter is in the center. The closing, signature block, and law firm name are below the body. A document identifier is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Scott Link\nJune 19, 2019\nPage 6\n\nThe sexual abuse Mr. Epstein inflicted upon [REDACTED] left irreparable psychological\nscars. She has struggled and continues to struggle with her ability to maintain healthy\nrelationships with men and in general. Her career is permanently compromised and the\nlikelihood of recovering severed professional ties is non-existent.\n\nPlease contact us within ten days of this letter to advise whether Mr. Epstein is amenable\nto attempting to resolve [REDACTED]'s civil claims without litigation.\n\nVery truly yours,\n\nALLRED, MAROKO & GOLDBERG\n\nGloria Allred\nGLORIA ALLRED\n\nHOUSE_OVERSIGHT_010565",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Scott Link\nJune 19, 2019\nPage 6",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "The sexual abuse Mr. Epstein inflicted upon [REDACTED] left irreparable psychological\nscars. She has struggled and continues to struggle with her ability to maintain healthy\nrelationships with men and in general. Her career is permanently compromised and the\nlikelihood of recovering severed professional ties is non-existent.\n\nPlease contact us within ten days of this letter to advise whether Mr. Epstein is amenable\nto attempting to resolve [REDACTED]'s civil claims without litigation.",
+        "type": "typed"
+      },
+      {
+        "region": "closing",
+        "text": "Very truly yours,",
+        "type": "typed"
+      },
+      {
+        "region": "signature_block",
+        "text": "ALLRED, MAROKO & GOLDBERG\n\nGloria Allred\nGLORIA ALLRED",
+        "type": "typed"
+      },
+      {
+        "region": "signature",
+        "text": "Gloria Allred",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010565",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2019-06-19"
+    ],
+    "people": [
+      "Scott Link",
+      "Mr. Epstein",
+      "GLORIA ALLRED"
+    ],
+    "organizations": [
+      "ALLRED, MAROKO & GOLDBERG",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010565",
+      "Page 6"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "Gloria Allred"
+    ],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010565",
+      "Redaction box 1",
+      "Redaction box 2"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "GLORIA ALLRED (ALLRED, MAROKO & GOLDBERG)",
+    "recipient": "Scott Link",
+    "subject": "Civil claims against Mr. Epstein regarding sexual abuse.",
+    "date": "2019-06-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010565"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is page 6 of a letter. Two portions of the text have been redacted, obscuring the name of the victim.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010565.jpg",
+  "house_oversight_id": "010565",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:26:27.803249Z",
+    "model": "gemini-2.5-pro"
+  }
+}

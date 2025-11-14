@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010571.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010571.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed legal document, likely a court filing or investigative report. The text is black on a white background and organized into numbered paragraphs. The page number is centered at the bottom, and a document identifier is in the bottom right corner.\",\n    \"layout\": \"Single column of text in a standard portrait orientation. Paragraphs are numbered 8 through 11. There is a page number at the bottom center and a document identifier in the bottom right.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"minor females that the United States Attorney's Office recognized as a victim. L.M.'s sworn\\ndeposition testimony and the adverse inference drawn from Epstein's refusal to testify confirm\\nthat Epstein began sexually assaulting L.M. when she was 13 years old and continued to molest\\nher on more than fifty (50) oc"
+}

@@ -156,6 +156,12 @@ CRITICAL RULES:
 """
 
 
+def _is_extraction_error_artifact(path: Path) -> bool:
+    """Return True when the TXT file is one of our *_extraction_error artifacts."""
+    stem = path.stem.lower()
+    return "_extraction_error" in stem
+
+
 def extract_text_content(text_path: Path, client, save_per_file: bool = True) -> Dict[str, Any]:
     """Extract and structure content from a text file.
     
@@ -235,7 +241,7 @@ def extract_text_content(text_path: Path, client, save_per_file: bool = True) ->
         result = json.loads(json_text)
     except json.JSONDecodeError as e:
         # Log the error and raw response for debugging
-        error_file = text_path.parent / f"{text_path.stem}_extraction_error.txt"
+        error_file = text_path.parent / f"{text_path.stem}_extraction_error.log"
         with open(error_file, "w", encoding="utf-8") as f:
             f.write(f"JSON Parse Error: {e}\n\n")
             f.write("=" * 80 + "\n")
@@ -394,14 +400,18 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     
     client = genai.Client(api_key=api_key)
     
-    # Find all text files recursively
-    text_files = list(text_dir.rglob("*.txt"))
+    # Find all text files recursively, ignoring extraction error artifacts created during retries
+    all_text_files = list(text_dir.rglob("*.txt"))
+    text_files = [path for path in all_text_files if not _is_extraction_error_artifact(path)]
+    skipped_files = len(all_text_files) - len(text_files)
     
     if not text_files:
         print(f"No text files found in {text_dir}")
         return
     
     print(f"Found {len(text_files)} text file(s)")
+    if skipped_files:
+        print(f"  (Skipped {skipped_files} extraction error log file(s))")
     
     # Step 1: Extract content from each text file
     print("\nStep 1: Extracting content from text files...")

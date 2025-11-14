@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010573.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010573.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed legal or investigative document. The text describes allegations of sexual abuse by Jeffrey Epstein against a minor, identified by the initials A.H., and mentions other victims by their initials. The page is numbered '8' at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010573' at the bottom right.\",\n    \"layout\": \"The document has a standard portrait layout with a main body of text, a centered page number at the bottom, and a document identifier in the bottom-right corner. The text is organized into paragraphs, with some paragraphs being indented quotations.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"was at Epstein's home on multiple occasions. Epstein engaged in one or more of the following\\nacts with her while she was a"
+}

@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010568.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010568.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed document, appearing to be a legal memorandum or filing. The text discusses allegations against someone named Epstein, involving underage females. The page includes a main body of text, two footnotes, a page number, and a document identifier in the footer.\",\n    \"layout\": \"The document has a standard layout with a main text body, two numbered footnotes at the bottom of the page, a centered page number below the footnotes, and a document identifier in the bottom right corner.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait"
+}
