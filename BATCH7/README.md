@@ -10,9 +10,7 @@ This will run through the night as there are literally thousands of files here.
 
 ### Latest Context Update
 
-Processing files... Analysis summary will appear here as files are processed.
-
-*-Christian*
+No new files processed in the last 5 minutes. Processing continues...
 
 ---
 
