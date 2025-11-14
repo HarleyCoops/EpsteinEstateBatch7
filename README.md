@@ -6,7 +6,7 @@
 
 As House Oversight Committee documents are analyzed, images are processed, text is extracted, and connections are revealed. The system automatically commits and publishes updates every 5 minutes with detailed summaries of the latest findings.
 
-P25-11-13 19:01:32  
+**Last Update:** 11-13 19:01:32  
 **Update Frequency:** Every 5 minutes  
 **Status:** Processing continues as long as API credits are available
 

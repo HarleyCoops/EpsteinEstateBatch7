@@ -1,0 +1,83 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010728.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document, appearing to be a letter or memorandum. The page is numbered as 'Page 6' and contains five bulleted paragraphs discussing legal proceedings involving a 'Mr. Epstein'. A document identifier is visible in the bottom right corner.",
+    "layout": "The document has a header in the top left, a main body consisting of a bulleted list, and a footer in the bottom right. The layout is standard for a formal letter or report.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Honorable Mark Filip\nMay 19, 2008\nPage 6\n\n\n*   Federal prosecutors made the unprecedented demand that Mr. Epstein pay a minimum of $150,000 per person to an unnamed list of women they referred to as minors and whom they insisted required representation by a guardian ad litem. Mr. Epstein's counsel later established that all but one of these individuals were actually adults, not minors. Even then, though demanding payment to the women, the USAO eventually asserted that it could not vouch for the veracity of any of the claims that these women might make.\n\n*   Federal prosecutors made the highly unusual demand that Mr. Epstein pay the fees of a civil attorney chosen by the prosecutors to represent these alleged “victims” should they choose to bring any civil litigation against him. They also proposed sending a notice to the alleged “victims,” stating, in an underlined sentence, that should they choose their own attorney, Mr. Epstein would not be required to pay their fees. The prosecutors further demanded that Mr. Epstein waive his right to challenge any of the allegations made by these “victims.”\n\n*   The Assistant U.S. Attorney involved in this matter recommended for the civil attorney, a highly lucrative position, an individual that we later discovered was closely and personally connected to the Assistant U.S. Attorney’s own boyfriend.\n\n*   Federal prosecutors represented to Mr. Epstein's counsel that they had identified (and later rechecked and re-identified) several alleged “victims” of federal crimes that qualified for payment under 18 U.S.C. § 2255, a civil remedy designed to provide financial benefits to victims. Only through state discovery provisions did we later learn that many of the women on the rechecked “victim list” could not possibly qualify under § 2255. The reason is that they, themselves, testified that they did not suffer any type of harm whatsoever, a prerequisite for the civil recovery under § 2255. Moreover, these women stated that they did not, now or in the past, consider themselves to be victims.\n\n*   During the last few months, Mr. Herman, First Assistant Sloman's former law partner, has filed several civil lawsuits against Mr. Epstein on behalf of the alleged “victims.” It is our understanding that each of Mr. Herman's clients are on the\n\n\nHOUSE_OVERSIGHT_010728",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Honorable Mark Filip\nMay 19, 2008\nPage 6",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "*   Federal prosecutors made the unprecedented demand that Mr. Epstein pay a minimum of $150,000 per person to an unnamed list of women they referred to as minors and whom they insisted required representation by a guardian ad litem. Mr. Epstein's counsel later established that all but one of these individuals were actually adults, not minors. Even then, though demanding payment to the women, the USAO eventually asserted that it could not vouch for the veracity of any of the claims that these women might make.\n\n*   Federal prosecutors made the highly unusual demand that Mr. Epstein pay the fees of a civil attorney chosen by the prosecutors to represent these alleged “victims” should they choose to bring any civil litigation against him. They also proposed sending a notice to the alleged “victims,” stating, in an underlined sentence, that should they choose their own attorney, Mr. Epstein would not be required to pay their fees. The prosecutors further demanded that Mr. Epstein waive his right to challenge any of the allegations made by these “victims.”\n\n*   The Assistant U.S. Attorney involved in this matter recommended for the civil attorney, a highly lucrative position, an individual that we later discovered was closely and personally connected to the Assistant U.S. Attorney’s own boyfriend.\n\n*   Federal prosecutors represented to Mr. Epstein's counsel that they had identified (and later rechecked and re-identified) several alleged “victims” of federal crimes that qualified for payment under 18 U.S.C. § 2255, a civil remedy designed to provide financial benefits to victims. Only through state discovery provisions did we later learn that many of the women on the rechecked “victim list” could not possibly qualify under § 2255. The reason is that they, themselves, testified that they did not suffer any type of harm whatsoever, a prerequisite for the civil recovery under § 2255. Moreover, these women stated that they did not, now or in the past, consider themselves to be victims.\n\n*   During the last few months, Mr. Herman, First Assistant Sloman's former law partner, has filed several civil lawsuits against Mr. Epstein on behalf of the alleged “victims.” It is our understanding that each of Mr. Herman's clients are on the",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010728",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-19"
+    ],
+    "people": [
+      "Mark Filip",
+      "Mr. Epstein",
+      "Mr. Herman",
+      "Sloman"
+    ],
+    "organizations": [
+      "USAO",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010728",
+      "Page 6",
+      "18 U.S.C. § 2255"
+    ],
+    "financial_amounts": [
+      "$150,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": null,
+    "recipient": "Honorable Mark Filip",
+    "subject": "Discussion of legal proceedings and demands made by federal prosecutors in a case involving Mr. Epstein.",
+    "date": "2008-05-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010728"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 6 of a larger letter or report. The sender is not identified on this page. The text discusses actions taken by federal prosecutors, an Assistant U.S. Attorney, and civil attorneys in a case concerning Mr. Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010728.jpg",
+  "house_oversight_id": "010728",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:03:23.282843Z",
+    "model": "gemini-2.5-pro"
+  }
+}

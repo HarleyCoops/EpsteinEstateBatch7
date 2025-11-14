@@ -1,0 +1,134 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010732.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page, typed letter on what appears to be professional letterhead. The document is a formal communication between law firms and the Department of Justice. There are redacted sections in the letterhead areas. The document has a Bates stamp at the bottom right.",
+    "layout": "The document follows a standard business letter format. It includes two sender letterheads at the top left and right, a date centered below them, a recipient address block on the left, a confidentiality notice on the right, a salutation, a multi-paragraph body, and a document control number in the footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Kenneth W. Starr\nKirkland & Ellis LLP\n777 South Figueroa Street\nLos Angeles, CA 90017-5800\n\nJoe D. Whitley\nAlston & Bird LLP\nThe Atlantic Building\n950 F Street, NW\nWashington, DC 20004-1404\n\nMay 27, 2008\n\nVIA FACSIMILE\n\nCONFIDENTIAL\n\nHonorable Mark Filip\nOffice of the Deputy Attorney General\nUnited States Department of Justice\n950 Pennsylvania Avenue, N.W.\nWashington, D.C. 20530\n\nDear Judge Filip:\n\nThis letter briefly supplements our prior submission to you dated May 19, 2008. In that communication, we urgently requested that your Office conduct an independent review of the proposed federal prosecution of our client, Jeffrey Epstein. The dual reasons for our request that you review this matter are (i) the bedrock need for integrity in the enforcement of federal criminal laws, and (ii) the profound questions raised by the unprecedented extension of federal law by the United States Attorney’s Office in Miami (the “USAO”) to a prominent public figure who has close ties to former President Clinton.\n\nThe need for review is now all the more exigent. On Monday, May 19, 2008, First Assistant Jeffrey Sloman of the USAO responded to an email from Jay Lefkowitz informing U.S. Attorney Alex Acosta that we would be seeking your Office’s review. Mr. Sloman’s letter, which imposed a deadline of June 2, 2008 to comply with all the terms of the current Non-Prosecution Agreement (the “Agreement”), plus new unilateral modifications, on pain of being deemed in breach of that Agreement, appears to have been deliberately designed to deprive us of an adequate opportunity to seek your Office’s review in this matter.\n\nThe USAO’s desire to foreclose a complete review is understandable, given that the Child Exploitation and Obscenity Section (“CEOS”) has already determined that our substantive arguments regarding why a federal prosecution of Mr. Epstein is not warranted were “compelling.” However, in contradiction to Mr. Sloman’s assertion that CEOS had provided an independent, de novo review, CEOS made clear that it did not do so. Indeed, CEOS declined to examine several of the more troubling aspects of the investigation of Mr. Epstein, including the deliberate leak to the New York Times of numerous highly confidential aspects of the investigation and negotiations between the parties as well as the recent crop of civil lawsuits filed against Mr. Epstein by Mr. Sloman’s former law partner.\n\nThe unnecessary and arbitrarily imposed deadline set by the USAO was done without any respect for the normal functioning and scheduling of state judicial matters. It requires that Mr. Epstein’s counsel persuade the State Attorney of Palm Beach to issue a criminal information\n\nHOUSE_OVERSIGHT_010732",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Kenneth W. Starr\nKirkland & Ellis LLP\n777 South Figueroa Street\nLos Angeles, CA 90017-5800",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Joe D. Whitley\nAlston & Bird LLP\nThe Atlantic Building\n950 F Street, NW\nWashington, DC 20004-1404",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "May 27, 2008",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "VIA FACSIMILE",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CONFIDENTIAL",
+        "type": "printed"
+      },
+      {
+        "region": "recipient_address",
+        "text": "Honorable Mark Filip\nOffice of the Deputy Attorney General\nUnited States Department of Justice\n950 Pennsylvania Avenue, N.W.\nWashington, D.C. 20530",
+        "type": "printed"
+      },
+      {
+        "region": "salutation",
+        "text": "Dear Judge Filip:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "This letter briefly supplements our prior submission to you dated May 19, 2008. In that communication, we urgently requested that your Office conduct an independent review of the proposed federal prosecution of our client, Jeffrey Epstein. The dual reasons for our request that you review this matter are (i) the bedrock need for integrity in the enforcement of federal criminal laws, and (ii) the profound questions raised by the unprecedented extension of federal law by the United States Attorney’s Office in Miami (the “USAO”) to a prominent public figure who has close ties to former President Clinton.\n\nThe need for review is now all the more exigent. On Monday, May 19, 2008, First Assistant Jeffrey Sloman of the USAO responded to an email from Jay Lefkowitz informing U.S. Attorney Alex Acosta that we would be seeking your Office’s review. Mr. Sloman’s letter, which imposed a deadline of June 2, 2008 to comply with all the terms of the current Non-Prosecution Agreement (the “Agreement”), plus new unilateral modifications, on pain of being deemed in breach of that Agreement, appears to have been deliberately designed to deprive us of an adequate opportunity to seek your Office’s review in this matter.\n\nThe USAO’s desire to foreclose a complete review is understandable, given that the Child Exploitation and Obscenity Section (“CEOS”) has already determined that our substantive arguments regarding why a federal prosecution of Mr. Epstein is not warranted were “compelling.” However, in contradiction to Mr. Sloman’s assertion that CEOS had provided an independent, de novo review, CEOS made clear that it did not do so. Indeed, CEOS declined to examine several of the more troubling aspects of the investigation of Mr. Epstein, including the deliberate leak to the New York Times of numerous highly confidential aspects of the investigation and negotiations between the parties as well as the recent crop of civil lawsuits filed against Mr. Epstein by Mr. Sloman’s former law partner.\n\nThe unnecessary and arbitrarily imposed deadline set by the USAO was done without any respect for the normal functioning and scheduling of state judicial matters. It requires that Mr. Epstein’s counsel persuade the State Attorney of Palm Beach to issue a criminal information",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010732",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-27",
+      "2008-05-19",
+      "2008-06-02"
+    ],
+    "people": [
+      "Kenneth W. Starr",
+      "Joe D. Whitley",
+      "Mark Filip",
+      "Jeffrey Epstein",
+      "President Clinton",
+      "Jeffrey Sloman",
+      "Jay Lefkowitz",
+      "Alex Acosta"
+    ],
+    "organizations": [
+      "Kirkland & Ellis LLP",
+      "Alston & Bird LLP",
+      "United States Department of Justice",
+      "Office of the Deputy Attorney General",
+      "United States Attorney’s Office in Miami (USAO)",
+      "Child Exploitation and Obscenity Section (CEOS)",
+      "New York Times",
+      "State Attorney of Palm Beach"
+    ],
+    "locations": [
+      "Los Angeles, CA",
+      "Washington, DC",
+      "Miami",
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010732"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "777 South Figueroa Street, Los Angeles, CA 90017-5800",
+        "The Atlantic Building, 950 F Street, NW, Washington, DC 20004-1404",
+        "950 Pennsylvania Avenue, N.W., Washington, D.C. 20530"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "VIA FACSIMILE",
+      "CONFIDENTIAL",
+      "Bates stamp: HOUSE_OVERSIGHT_010732"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Kenneth W. Starr and Joe D. Whitley",
+    "recipient": "Honorable Mark Filip",
+    "subject": "Request for an independent review of the proposed federal prosecution of Jeffrey Epstein.",
+    "date": "2008-05-27",
+    "references": [
+      "Prior submission dated May 19, 2008"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document contains redacted sections below the sender addresses, which likely contained contact information such as phone or fax numbers. The body of the letter is cut off at the bottom of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010732.jpg",
+  "house_oversight_id": "010732",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:05:03.659894Z",
+    "model": "gemini-2.5-pro"
+  }
+}

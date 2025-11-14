@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010731.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A fax transmittal sheet from the law firm Kirkland & Ellis LLP. The document is a standard cover sheet with fields for sender, recipient, date, and number of pages. It includes a confidentiality notice. Some contact information, such as fax and direct phone numbers, has been redacted with black boxes.",
+    "layout": "The document has a header with fax transmission details, a central section with the sender's company information and the transmittal form, a confidentiality notice, and a footer with a document identifier.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "05/19/08 MON 13:26 FAX 1 213 680 8500 KIRKLAND&ELLIS LLP 001\n\n*************************\n*** TX REPORT ***\n*************************\n\nTRANSMISSION OK\n\nTX/RX NO 1855\nCONNECTION TEL 912025140467\nSUBADDRESS\nCONNECTION ID\nST. TIME 05/19 13:21\nUSAGE T 04'56\nPGS. 9\nRESULT OK\n\nKIRKLAND & ELLIS LLP\nFax Transmittal\n\n777 South Figueroa Street\nLos Angeles, California 90017\n\nPlease notify us immediately if any pages are not received.\n\nTHE INFORMATION CONTAINED IN THIS COMMUNICATION IS CONFIDENTIAL, MAY\nBE ATTORNEY-CLIENT PRIVILEGED, MAY CONSTITUTE INSIDE INFORMATION, AND\nIS INTENDED ONLY FOR THE USE OF THE ADDRESSEE. UNAUTHORIZED USE,\nDISCLOSURE OR COPYING IS STRICTLY PROHIBITED AND MAY BE UNLAWFUL.\n\nIF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR,\nPLEASE NOTIFY US IMMEDIATELY AT:\n(213) 680-8400.\n\nTo: Company: Fax #: Direct #:\nHonorable Mark Filip Office of the Deputy Attorney General\nUnited States Department of Justice\n\nFrom: Date: Pages w/cover: Fax #: Direct #:\nKenneth W. Starr May 19, 2008 9\n\nMessage:\n\nHOUSE_OVERSIGHT_010731",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "05/19/08 MON 13:26 FAX 1 213 680 8500 KIRKLAND&ELLIS LLP 001",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "*************************\n*** TX REPORT ***\n*************************\n\nTRANSMISSION OK\n\nTX/RX NO 1855\nCONNECTION TEL 912025140467\nSUBADDRESS\nCONNECTION ID\nST. TIME 05/19 13:21\nUSAGE T 04'56\nPGS. 9\nRESULT OK",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "KIRKLAND & ELLIS LLP\nFax Transmittal\n\n777 South Figueroa Street\nLos Angeles, California 90017",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Please notify us immediately if any pages are not received.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "THE INFORMATION CONTAINED IN THIS COMMUNICATION IS CONFIDENTIAL, MAY\nBE ATTORNEY-CLIENT PRIVILEGED, MAY CONSTITUTE INSIDE INFORMATION, AND\nIS INTENDED ONLY FOR THE USE OF THE ADDRESSEE. UNAUTHORIZED USE,\nDISCLOSURE OR COPYING IS STRICTLY PROHIBITED AND MAY BE UNLAWFUL.\n\nIF YOU HAVE RECEIVED THIS COMMUNICATION IN ERROR,\nPLEASE NOTIFY US IMMEDIATELY AT:\n(213) 680-8400.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "To: Company: Fax #: Direct #:\nHonorable Mark Filip Office of the Deputy Attorney General\nUnited States Department of Justice\n\nFrom: Date: Pages w/cover: Fax #: Direct #:\nKenneth W. Starr May 19, 2008 9\n\nMessage:",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010731",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-19"
+    ],
+    "people": [
+      "Honorable Mark Filip",
+      "Kenneth W. Starr"
+    ],
+    "organizations": [
+      "KIRKLAND & ELLIS LLP",
+      "Office of the Deputy Attorney General",
+      "United States Department of Justice"
+    ],
+    "locations": [
+      {
+        "street": "777 South Figueroa Street",
+        "city": "Los Angeles",
+        "state": "California",
+        "zip_code": "90017"
+      }
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010731",
+      "001"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "1 213 680 8500",
+        "(213) 680-8400",
+        "912025140467"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "777 South Figueroa Street, Los Angeles, California 90017"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Fax Transmittal",
+    "sender": "Kenneth W. Starr",
+    "recipient": "Honorable Mark Filip",
+    "subject": null,
+    "date": "2008-05-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010731"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The fax and direct numbers for both the sender and recipient are redacted. The 'Message' section of the form is blank. The number '912025140467' appears next to 'CONNECTION TEL' in the fax report header, likely representing the recipient's fax number with a prefix.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010731.jpg",
+  "house_oversight_id": "010731",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:04:31.432402Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -54,10 +54,14 @@ def update_readme(base_dir: Path) -> bool:
         if not readme_path.exists():
             continue
         
-        # Read README
+        # Read README - use binary mode to avoid encoding issues
         try:
-            with open(readme_path, 'r', encoding='utf-8') as f:
-                content = f.read()
+            with open(readme_path, 'rb') as f:
+                content_bytes = f.read()
+                # Remove BOM if present
+                if content_bytes.startswith(b'\xef\xbb\xbf'):
+                    content_bytes = content_bytes[3:]
+                content = content_bytes.decode('utf-8')
         except Exception as e:
             print(f"Error reading {readme_path}: {e}", file=sys.stderr)
             continue
@@ -94,9 +98,13 @@ def update_readme(base_dir: Path) -> bool:
         # Only write if changed
         if content != original_content:
             try:
-                # Write with UTF-8 encoding without BOM
-                with open(readme_path, 'w', encoding='utf-8', newline='') as f:
-                    f.write(content)
+                # Write with UTF-8 encoding without BOM - use binary mode to avoid encoding issues
+                content_bytes = content.encode('utf-8')
+                # Remove BOM if present
+                if content_bytes.startswith(b'\xef\xbb\xbf'):
+                    content_bytes = content_bytes[3:]
+                with open(readme_path, 'wb') as f:
+                    f.write(content_bytes)
                 print(f"Updated {readme_path.name} with last commit time: {last_commit_time}")
                 updated_count += 1
             except Exception as e:

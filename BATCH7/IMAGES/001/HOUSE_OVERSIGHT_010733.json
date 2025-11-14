@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010733.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of the second page of a typed formal letter on white paper. The letter includes several paragraphs of text, a formal closing, two signatures with typed names and affiliations, and a document identification number in the footer.",
+    "layout": "Standard business letter format. A header with recipient, date, and page number is at the top left. The body consists of five paragraphs. The closing is centered, followed by two signatures side-by-side with typed names and affiliations below. A document number is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Honorable Mark Filip\nMay 27, 2008\nPage 2\n\nto a charge that the State Attorney has not, despite a two year investigation, determined to be\nappropriate. Mr. Epstein's counsel must also successfully expedite a plea of guilty to this charge\non a date prior to July 8, 2008, which is the date presently set by the state court Judge.\n\nFurther, the unnecessary deadline is even more problematic because Mr. Epstein's effort\nto reconcile the state charge and sentence with the terms of the Agreement requires an unusual\nand unprecedented threatened application of federal law. Thus, it places Mr. Epstein in the\nhighly unusual position of having to demand that the State acquiesce to a more severe\npunishment than it had already determined was appropriate.\n\nWe have attempted to resolve these and other issues through the USAO and CEOS,\nincluding raising our concerns about the USAO's inappropriate conduct with respect to this\nmatter. But those avenues have now been shut down. Mr. Sloman's letter purports to prohibit\nany further contact between Mr. Epstein's defense team and U.S. Attorney Acosta, and instead\nrequires us to communicate with the USAO only though Mr. Sloman's subordinates.\n\nWhile it pains us to say this, this misguided prosecution from the outset gives the\nappearance that it may have been politically motivated. Mr. Epstein is a highly successful, self-\nmade businessman and philanthropist who entered the public arena only by virtue of his close\npersonal association with former President Bill Clinton. There is little doubt in our minds that\nthe USAO never would have contemplated a prosecution in this case if Mr. Epstein were just\nanother \"John.\"\n\nU.S. Attorney Acosta previously has stated that he is \"sympathetic\" to our federalism-\nrelated concerns, but he has taken the position that his authority is limited by enforcement\npolicies set forth in Washington, D.C. As expressed in our prior communication to you, we\nbelieve that a complete and independent appraisal and resolution of this case most appropriately\nwould be undertaken by your Office—beginning with the rescission of the arbitrary, unfair, and\nunprecedented deadline that Mr. Sloman demands to have imposed in this case. At the very\nleast, we would appreciate a tolling of the arbitrary timeline imposed on our client by the USAO\nin order to allow time for your office to consider our request that you undertake a review of this\ncase.\n\nThank you for your time and attention.\n\nRespectfully submitted,\n\nKenneth W. Starr\nKirkland & Ellis LLP\n\nJoe D. Whitley\nAlston & Bird LL\n\nHOUSE_OVERSIGHT_010733",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Honorable Mark Filip\nMay 27, 2008\nPage 2",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "to a charge that the State Attorney has not, despite a two year investigation, determined to be\nappropriate. Mr. Epstein's counsel must also successfully expedite a plea of guilty to this charge\non a date prior to July 8, 2008, which is the date presently set by the state court Judge.\n\nFurther, the unnecessary deadline is even more problematic because Mr. Epstein's effort\nto reconcile the state charge and sentence with the terms of the Agreement requires an unusual\nand unprecedented threatened application of federal law. Thus, it places Mr. Epstein in the\nhighly unusual position of having to demand that the State acquiesce to a more severe\npunishment than it had already determined was appropriate.\n\nWe have attempted to resolve these and other issues through the USAO and CEOS,\nincluding raising our concerns about the USAO's inappropriate conduct with respect to this\nmatter. But those avenues have now been shut down. Mr. Sloman's letter purports to prohibit\nany further contact between Mr. Epstein's defense team and U.S. Attorney Acosta, and instead\nrequires us to communicate with the USAO only though Mr. Sloman's subordinates.\n\nWhile it pains us to say this, this misguided prosecution from the outset gives the\nappearance that it may have been politically motivated. Mr. Epstein is a highly successful, self-\nmade businessman and philanthropist who entered the public arena only by virtue of his close\npersonal association with former President Bill Clinton. There is little doubt in our minds that\nthe USAO never would have contemplated a prosecution in this case if Mr. Epstein were just\nanother \"John.\"\n\nU.S. Attorney Acosta previously has stated that he is \"sympathetic\" to our federalism-\nrelated concerns, but he has taken the position that his authority is limited by enforcement\npolicies set forth in Washington, D.C. As expressed in our prior communication to you, we\nbelieve that a complete and independent appraisal and resolution of this case most appropriately\nwould be undertaken by your Office—beginning with the rescission of the arbitrary, unfair, and\nunprecedented deadline that Mr. Sloman demands to have imposed in this case. At the very\nleast, we would appreciate a tolling of the arbitrary timeline imposed on our client by the USAO\nin order to allow time for your office to consider our request that you undertake a review of this\ncase.\n\nThank you for your time and attention.",
+        "type": "typed"
+      },
+      {
+        "region": "closing",
+        "text": "Respectfully submitted,",
+        "type": "typed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Kenneth W. Starr\nKirkland & Ellis LLP",
+        "type": "typed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Joe D. Whitley\nAlston & Bird LL",
+        "type": "typed"
+      },
+      {
+        "region": "signature",
+        "text": "Kenneth W. Starr",
+        "type": "handwritten"
+      },
+      {
+        "region": "signature",
+        "text": "Joe D. Whitley",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010733",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-27",
+      "2008-07-08"
+    ],
+    "people": [
+      "Mark Filip",
+      "Mr. Epstein",
+      "Mr. Sloman",
+      "U.S. Attorney Acosta",
+      "President Bill Clinton",
+      "Kenneth W. Starr",
+      "Joe D. Whitley"
+    ],
+    "organizations": [
+      "State Attorney",
+      "USAO",
+      "CEOS",
+      "Kirkland & Ellis LLP",
+      "Alston & Bird LL",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Washington, D.C."
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010733"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "Kenneth W. Starr",
+      "Joe D. Whitley"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Kenneth W. Starr, Kirkland & Ellis LLP; Joe D. Whitley, Alston & Bird LL",
+    "recipient": "Honorable Mark Filip",
+    "subject": "Legal representation of Mr. Epstein concerning a prosecution by the USAO, requesting a review of the case and a tolling of a deadline.",
+    "date": "2008-05-27",
+    "references": [
+      "HOUSE_OVERSIGHT_010733"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The signatures are stylized but the names are clearly typed below them. The document is page 2 of a longer letter.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010733.jpg",
+  "house_oversight_id": "010733",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:05:36.458389Z",
+    "model": "gemini-2.5-pro"
+  }
+}

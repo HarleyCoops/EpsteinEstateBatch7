@@ -1,0 +1,92 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010729.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document with black text on a white background. The document appears to be a letter or report, identified as page 7. It contains paragraphs, bullet points, a footnote, and a document control number in the footer.",
+    "layout": "Standard portrait layout with a header on the top left, a main body of text, a footnote at the bottom left, and a document identifier on the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Honorable Mark Filip\nMay 19, 2008\nPage 7\n\nGovernment's confidential “list of victims.” Most of these lawsuits seek $50 million in money damages.4\n\n- Assistant U.S. Attorney David Weinstein spoke about the case in great detail to Landon Thomas, a reporter with the New York Times, and revealed confidential information about the Government's allegations against Mr. Epstein. The Assistant U.S. Attorney also revealed the substance of confidential plea negotiations.\n\n- When counsel for Mr. Epstein complained about the media leaks, First Assistant Sloman responded by asserting that “Mr. Thomas was given, pursuant to his request, non-case specific information concerning specific federal statutes.” Based on Mr. Thomas' contemporaneous notes, that assertion appears to be false. For example, Mr. Weinstein told Mr. Thomas that federal authorities believed that Mr. Epstein had lured girls over the telephone and traveled in interstate commerce for the purpose of engaging in underage sex. He recounted to Mr. Thomas the USAO's theory of prosecution against Mr. Epstein, replete with an analysis of the key statutes being considered. Furthermore, after Mr. Epstein's defense team complained about the leak to the USAO, Mr. Weinstein, in Mr. Thomas' own description, then admonished him for talking to the defense, and getting him in trouble. Mr. Weinstein further told him not to believe the “spin” of Mr. Epstein's “high-priced attorneys,” and then, according to Mr. Thomas, Mr. Weinstein forcefully “reminded” Mr. Thomas that all prior conversations were merely hypothetical.\n\nWe are constrained to conclude that the actions of federal officials in this case strike at the heart of one of the vitally important, enduring values in this country: the honest enforcement of federal law, free of political considerations and free of the taint of personal financial motivations on the part of federal prosecutors that, at a minimum, raise the appearance of serious impropriety.\n\nWe were told by U.S. Attorney Acosta that as part of the review he requested, the Department had the authority, and his consent, to make any determination it deemed appropriate regarding this matter, including a decision to decline federal prosecution. Yet, CEOS's only conclusion, based on its limited review of the investigation, is that U.S. Attorney Acosta would not abuse his discretion by proceeding against Mr. Epstein. Thus, the decision of whether\n\n4 As recently as two months ago, Mr. Sloman was still listed publicly as a part of his former law firm. While we assume this was an oversight, Mr. Sloman's identification as part of the firm raises the appearance of impropriety.\n\nHOUSE_OVERSIGHT_010729",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Honorable Mark Filip\nMay 19, 2008\nPage 7",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Government's confidential “list of victims.” Most of these lawsuits seek $50 million in money damages.4\n\n- Assistant U.S. Attorney David Weinstein spoke about the case in great detail to Landon Thomas, a reporter with the New York Times, and revealed confidential information about the Government's allegations against Mr. Epstein. The Assistant U.S. Attorney also revealed the substance of confidential plea negotiations.\n\n- When counsel for Mr. Epstein complained about the media leaks, First Assistant Sloman responded by asserting that “Mr. Thomas was given, pursuant to his request, non-case specific information concerning specific federal statutes.” Based on Mr. Thomas' contemporaneous notes, that assertion appears to be false. For example, Mr. Weinstein told Mr. Thomas that federal authorities believed that Mr. Epstein had lured girls over the telephone and traveled in interstate commerce for the purpose of engaging in underage sex. He recounted to Mr. Thomas the USAO's theory of prosecution against Mr. Epstein, replete with an analysis of the key statutes being considered. Furthermore, after Mr. Epstein's defense team complained about the leak to the USAO, Mr. Weinstein, in Mr. Thomas' own description, then admonished him for talking to the defense, and getting him in trouble. Mr. Weinstein further told him not to believe the “spin” of Mr. Epstein's “high-priced attorneys,” and then, according to Mr. Thomas, Mr. Weinstein forcefully “reminded” Mr. Thomas that all prior conversations were merely hypothetical.\n\nWe are constrained to conclude that the actions of federal officials in this case strike at the heart of one of the vitally important, enduring values in this country: the honest enforcement of federal law, free of political considerations and free of the taint of personal financial motivations on the part of federal prosecutors that, at a minimum, raise the appearance of serious impropriety.\n\nWe were told by U.S. Attorney Acosta that as part of the review he requested, the Department had the authority, and his consent, to make any determination it deemed appropriate regarding this matter, including a decision to decline federal prosecution. Yet, CEOS's only conclusion, based on its limited review of the investigation, is that U.S. Attorney Acosta would not abuse his discretion by proceeding against Mr. Epstein. Thus, the decision of whether",
+        "type": "typed"
+      },
+      {
+        "region": "footnote",
+        "text": "4 As recently as two months ago, Mr. Sloman was still listed publicly as a part of his former law firm. While we assume this was an oversight, Mr. Sloman's identification as part of the firm raises the appearance of impropriety.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010729",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-19"
+    ],
+    "people": [
+      "Mark Filip",
+      "David Weinstein",
+      "Landon Thomas",
+      "Mr. Epstein",
+      "Sloman",
+      "Mr. Thomas",
+      "Acosta"
+    ],
+    "organizations": [
+      "New York Times",
+      "USAO",
+      "Department",
+      "CEOS"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010729",
+      "Page 7"
+    ],
+    "financial_amounts": [
+      "$50 million"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": null,
+    "recipient": "Honorable Mark Filip",
+    "subject": "Investigation concerning actions of federal officials in the case against Mr. Epstein, including media leaks and prosecutorial discretion.",
+    "date": "2008-05-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010729"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be page 7 of a letter or report addressed to Honorable Mark Filip. The content discusses alleged misconduct by federal prosecutors in the case against a 'Mr. Epstein', including leaks to the media and the decision-making process regarding federal prosecution.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010729.jpg",
+  "house_oversight_id": "010729",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:03:48.299889Z",
+    "model": "gemini-2.5-pro"
+  }
+}
