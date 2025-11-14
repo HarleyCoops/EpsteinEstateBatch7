@@ -1,0 +1,205 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010720.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a magazine, likely a society or entertainment publication, featuring an article about pre-Oscar parties and events. The page has a two-column text layout on the left and several photographs with captions on the right. The photographs show various celebrities at what appears to be a red carpet event. The page number and magazine name are at the bottom right.",
+    "layout": "Two-column text on the left, with a vertical stack of images on the right. A footer is present at the bottom of the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Al Pacino and David Mamet were huddled on\na couch as Spike Lee and Meredith Vieira sat\nnearby listening.\n\nAt Warner Bros.’ fancy private dinner for its\nnominees at the Bel Air Hotel, Nicky and I were\ngreeted by David Heyman. Executives Sue Kroll\nand Juli Goodwin brought us over to Sandra\nBullock and CEO Kevin Tsujihara. Again,\neveryone whispered, “Who is winning Best\nPicture?” Gravity’s technical wizardry, revered in\nL.A., was now thought to have the edge.\n\nSpike Jones arrived and was too superstitious\nto discuss his chances for Best Original Screenplay\nfor Her. He won. Don’t worry about Blue Jasmine\nfellow nominee Woody Allen; he was tap dancing\nwith Susan Stroman on Broadway, rehearsing\nBullets Over Broadway. As a man who doesn’t\nbelieve in campaigning for awards, he just might\nshow up to collect a few Tonys.\n\nAn exhausted Alfonso Cuarón was the last to\nappear, with girlfriend Sheherazade Goldsmith.\nHe was fighting a cold and couldn’t wait to get\nback to real, not reel, life.\n\nBrad Grey’s party for Paramount’s nominees\nwas in full swing at Spago Beverly Hills. The Wolf\nof Wall Street’s Marty Scorsese was huddled in\na booth with Brad, marketing maven Megan\nColligan, producer Irwin Winkler, and the\nageless Don Rickles. Jonah Hill’s buddy\nLeonardo DiCaprio had just left, as he was\ngetting a cold too, but he later showed up at the\nBel Air, where Marty was staying, to have drinks\nwith Scorsese and Cuarón in the bar.\n\nNebraska talent Bruce Dern, Will\nForte, June Squibb, cinematographer\nPhedon Papamichael and\nscreenwriter Bob Nelson relaxed\nsince their grueling nine-month\ncampaign, which had begun at\nCannes, was finally over.\n\nRon Meyer, vice\nchairman of Universal,\nhad his annual private\nparty at his Malibu home\nin honor of Graydon Carter.\nBarbra Streisand, Jim Brolin,\nJohn Travolta, Kelly Preston,\nDiane Lane, Robert Downey Jr.,\nand Paul Rudd mingled under a\ntent with interior designer Sandy\nGallin and his new husband\nBryan Fox. Ron’s daughter,\njewelry designer Jennifer Meyer,\ncame alone. It was nanny’s\nnight off, so her husband Tobey\nMaguire stayed home with the\nkids.\n\nLarry Gagosian gave his 17th\nannual art opening and dinner,\n\nwhich is always a hot ticket for the rich and\nhip. This year, art photographer Taryn Simon\nmounted a show titled “Birds of the West Indies”\nafter the seminal taxonomy by ornithologist\nJames Bond. The exhibition also chronicled the\nwomen, weapons, and cars depicted in the Bond\nfilms, in addition to the birds that appear in all 24\nmovies. Even MGM couldn’t dream this up.\n\nDinner followed next door at Mr. Chow’s,\ncomplete with Eva and Michael Chow. Simon’s\nfilmmaker husband Jake Paltrow brought his\nmother Blythe Danner and his sister Gwyneth.\n\nSince the Spielbergs and the Paltrows are\nclose family friends, Kate Capshaw arrived with\nTheo and Sasha Spielberg. Jared Leto came\nwith Terry Richardson. Adrien Brody, Elle\nFanning, Cameron Diaz, John Waters, and\nRobbie Robertson chewed down. Power\ncollectors Eli and Edythe Broad and Bill\nand Maria Bell split chopsticks.\n\nAfter dinner, we migrated to Gagosian’s\nhome. It was raining, it was windy, and\nit was cold. Teetotaler Robbie Robertson\nslipped on wet stone outside the house. He\nwas taken to the hospital that night and\nendured a two-hour operation on three\nbroken ankle bones. Simultaneously,\nNicky Haslam slipped onto a glass table\nand crashed to the floor. Nicky was fine;\nthe table was a goner—so much excitement\nfor one night.\n\nFRIDAY, FEBRUARY 28\n\nWoke up this morning and the eye problem\nhad reached epic proportions as my left eye\nwas now shut. Found an eye doctor to lance the\ninfected eyelid. He gave me enough drugs to get\nme to the Publicist Guild lunch at the Beverly\nWilshire Hotel. Jerry Lewis was receiving\na Lifetime Achievement Award from Carol\nBurnett. Thankfully, I only needed one eye to\ntake all that in.\n\nAt her uncle’s Rodeo Drive store, Roberta\nArmani toasted fellow Italians Marty Scorsese\nand Paolo Sorrentino. The suits Leo wore in\nThe Wolf of Wall Street were designed for him by\nArmani himself.\n\nPaolo Sorrentino was the overwhelming\nfavorite to win Best Foreign Film for his Fellini-\ninspired The Great Beauty, and indeed he won.\n\nArmani’s talent turnout was very impressive.\nCate Blanchett, who has signed with the designer\nas the face of his perfume, was there with Glenn\nClose, Robert DeNiro, and Samuel L. Jackson.\nAll were bedecked in Armani.\n\nWanda McDaniel, the marketing guru for\nArmani, was the very first to dress actresses on\nthe red carpet. Jodie Foster was her muse and\nthat was 25 years ago.\n\nLara\nSpencer\n\nGreta\nGerwig\n\nBette Midler\n\nLaura Dern, Bruce Dern\nand Andrea Beckett\n\nAPRIL 2012 • AVENUE MAGAZINE | 57\n\nHOUSE_OVERSIGHT_010720",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Al Pacino and David Mamet were huddled on\na couch as Spike Lee and Meredith Vieira sat\nnearby listening.\n\nAt Warner Bros.’ fancy private dinner for its\nnominees at the Bel Air Hotel, Nicky and I were\ngreeted by David Heyman. Executives Sue Kroll\nand Juli Goodwin brought us over to Sandra\nBullock and CEO Kevin Tsujihara. Again,\neveryone whispered, “Who is winning Best\nPicture?” Gravity’s technical wizardry, revered in\nL.A., was now thought to have the edge.\n\nSpike Jones arrived and was too superstitious\nto discuss his chances for Best Original Screenplay\nfor Her. He won. Don’t worry about Blue Jasmine\nfellow nominee Woody Allen; he was tap dancing\nwith Susan Stroman on Broadway, rehearsing\nBullets Over Broadway. As a man who doesn’t\nbelieve in campaigning for awards, he just might\nshow up to collect a few Tonys.\n\nAn exhausted Alfonso Cuarón was the last to\nappear, with girlfriend Sheherazade Goldsmith.\nHe was fighting a cold and couldn’t wait to get\nback to real, not reel, life.\n\nBrad Grey’s party for Paramount’s nominees\nwas in full swing at Spago Beverly Hills. The Wolf\nof Wall Street’s Marty Scorsese was huddled in\na booth with Brad, marketing maven Megan\nColligan, producer Irwin Winkler, and the\nageless Don Rickles. Jonah Hill’s buddy\nLeonardo DiCaprio had just left, as he was\ngetting a cold too, but he later showed up at the\nBel Air, where Marty was staying, to have drinks\nwith Scorsese and Cuarón in the bar.\n\nNebraska talent Bruce Dern, Will\nForte, June Squibb, cinematographer\nPhedon Papamichael and\nscreenwriter Bob Nelson relaxed\nsince their grueling nine-month\ncampaign, which had begun at\nCannes, was finally over.\n\nRon Meyer, vice\nchairman of Universal,\nhad his annual private\nparty at his Malibu home\nin honor of Graydon Carter.\nBarbra Streisand, Jim Brolin,\nJohn Travolta, Kelly Preston,\nDiane Lane, Robert Downey Jr.,\nand Paul Rudd mingled under a\ntent with interior designer Sandy\nGallin and his new husband\nBryan Fox. Ron’s daughter,\njewelry designer Jennifer Meyer,\ncame alone. It was nanny’s\nnight off, so her husband Tobey\nMaguire stayed home with the\nkids.\n\nLarry Gagosian gave his 17th\nannual art opening and dinner,\n\nwhich is always a hot ticket for the rich and\nhip. This year, art photographer Taryn Simon\nmounted a show titled “Birds of the West Indies”\nafter the seminal taxonomy by ornithologist\nJames Bond. The exhibition also chronicled the\nwomen, weapons, and cars depicted in the Bond\nfilms, in addition to the birds that appear in all 24\nmovies. Even MGM couldn’t dream this up.\n\nDinner followed next door at Mr. Chow’s,\ncomplete with Eva and Michael Chow. Simon’s\nfilmmaker husband Jake Paltrow brought his\nmother Blythe Danner and his sister Gwyneth.\n\nSince the Spielbergs and the Paltrows are\nclose family friends, Kate Capshaw arrived with\nTheo and Sasha Spielberg. Jared Leto came\nwith Terry Richardson. Adrien Brody, Elle\nFanning, Cameron Diaz, John Waters, and\nRobbie Robertson chewed down. Power\ncollectors Eli and Edythe Broad and Bill\nand Maria Bell split chopsticks.\n\nAfter dinner, we migrated to Gagosian’s\nhome. It was raining, it was windy, and\nit was cold. Teetotaler Robbie Robertson\nslipped on wet stone outside the house. He\nwas taken to the hospital that night and\nendured a two-hour operation on three\nbroken ankle bones. Simultaneously,\nNicky Haslam slipped onto a glass table\nand crashed to the floor. Nicky was fine;\nthe table was a goner—so much excitement\nfor one night.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FRIDAY, FEBRUARY 28",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Woke up this morning and the eye problem\nhad reached epic proportions as my left eye\nwas now shut. Found an eye doctor to lance the\ninfected eyelid. He gave me enough drugs to get\nme to the Publicist Guild lunch at the Beverly\nWilshire Hotel. Jerry Lewis was receiving\na Lifetime Achievement Award from Carol\nBurnett. Thankfully, I only needed one eye to\ntake all that in.\n\nAt her uncle’s Rodeo Drive store, Roberta\nArmani toasted fellow Italians Marty Scorsese\nand Paolo Sorrentino. The suits Leo wore in\nThe Wolf of Wall Street were designed for him by\nArmani himself.\n\nPaolo Sorrentino was the overwhelming\nfavorite to win Best Foreign Film for his Fellini-\ninspired The Great Beauty, and indeed he won.\n\nArmani’s talent turnout was very impressive.\nCate Blanchett, who has signed with the designer\nas the face of his perfume, was there with Glenn\nClose, Robert DeNiro, and Samuel L. Jackson.\nAll were bedecked in Armani.\n\nWanda McDaniel, the marketing guru for\nArmani, was the very first to dress actresses on\nthe red carpet. Jodie Foster was her muse and\nthat was 25 years ago.",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Lara\nSpencer",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Greta\nGerwig",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Bette Midler",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Laura Dern, Bruce Dern\nand Andrea Beckett",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "APRIL 2012 • AVENUE MAGAZINE | 57",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010720",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2012-04",
+      "20XX-02-28"
+    ],
+    "people": [
+      "Al Pacino",
+      "David Mamet",
+      "Spike Lee",
+      "Meredith Vieira",
+      "Nicky",
+      "David Heyman",
+      "Sue Kroll",
+      "Juli Goodwin",
+      "Sandra Bullock",
+      "Kevin Tsujihara",
+      "Spike Jones",
+      "Woody Allen",
+      "Susan Stroman",
+      "Alfonso Cuarón",
+      "Sheherazade Goldsmith",
+      "Brad Grey",
+      "Marty Scorsese",
+      "Brad",
+      "Megan Colligan",
+      "Irwin Winkler",
+      "Don Rickles",
+      "Jonah Hill",
+      "Leonardo DiCaprio",
+      "Bruce Dern",
+      "Will Forte",
+      "June Squibb",
+      "Phedon Papamichael",
+      "Bob Nelson",
+      "Ron Meyer",
+      "Graydon Carter",
+      "Barbra Streisand",
+      "Jim Brolin",
+      "John Travolta",
+      "Kelly Preston",
+      "Diane Lane",
+      "Robert Downey Jr.",
+      "Paul Rudd",
+      "Sandy Gallin",
+      "Bryan Fox",
+      "Jennifer Meyer",
+      "Tobey Maguire",
+      "Larry Gagosian",
+      "Taryn Simon",
+      "James Bond",
+      "Eva Chow",
+      "Michael Chow",
+      "Jake Paltrow",
+      "Blythe Danner",
+      "Gwyneth Paltrow",
+      "Kate Capshaw",
+      "Theo Spielberg",
+      "Sasha Spielberg",
+      "Jared Leto",
+      "Terry Richardson",
+      "Adrien Brody",
+      "Elle Fanning",
+      "Cameron Diaz",
+      "John Waters",
+      "Robbie Robertson",
+      "Eli Broad",
+      "Edythe Broad",
+      "Bill Bell",
+      "Maria Bell",
+      "Nicky Haslam",
+      "Jerry Lewis",
+      "Carol Burnett",
+      "Roberta Armani",
+      "Paolo Sorrentino",
+      "Leo",
+      "Armani",
+      "Fellini",
+      "Cate Blanchett",
+      "Glenn Close",
+      "Robert DeNiro",
+      "Samuel L. Jackson",
+      "Wanda McDaniel",
+      "Jodie Foster",
+      "Lara Spencer",
+      "Greta Gerwig",
+      "Bette Midler",
+      "Laura Dern",
+      "Andrea Beckett"
+    ],
+    "organizations": [
+      "Warner Bros.",
+      "Paramount",
+      "Universal",
+      "MGM",
+      "Publicist Guild",
+      "Armani",
+      "AVENUE MAGAZINE"
+    ],
+    "locations": [
+      "Bel Air Hotel",
+      "L.A.",
+      "Broadway",
+      "Spago Beverly Hills",
+      "Bel Air",
+      "Cannes",
+      "Malibu",
+      "Mr. Chow's",
+      "Gagosian's home",
+      "Beverly Wilshire Hotel",
+      "Rodeo Drive"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010720"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "magazine page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Pre-Oscar parties and celebrity sightings",
+    "date": "2012-04",
+    "references": [
+      "HOUSE_OVERSIGHT_010720"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The year for 'FRIDAY, FEBRUARY 28' is not specified in the text. The magazine issue date is April 2012, which suggests the events described likely took place in late February 2012, just before the 84th Academy Awards.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010720.jpg",
+  "house_oversight_id": "010720",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:59:15.042840Z",
+    "model": "gemini-2.5-pro"
+  }
+}

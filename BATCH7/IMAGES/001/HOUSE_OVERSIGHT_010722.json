@@ -1,0 +1,187 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010722.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a magazine, identified as Avenue Magazine, featuring an article about attending Oscar parties. The page has a two-column layout for the text and a large central photograph of celebrities Anne Hathaway, Jared Leto, and Charlize Theron at an event. Anne Hathaway is holding an Oscar statuette while Jared Leto appears to be photobombing her. A document identifier 'HOUSE_OVERSIGHT_010722' is stamped at the bottom.",
+    "layout": "Two-column text layout with a large photograph spanning both columns in the upper center. Photo captions are present. A footer contains magazine information, and a copyright notice is in the left margin. A document control number is at the very bottom.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "glasses. I greeted each of Lara’s interviewees\nas if they were coming to my house for dinner.\nI never tire of the overwhelming excitement,\nthrongs of eager press, and screaming fans.\nEverything boils down to this moment of\nmass hysteria. It’s always humbling to stand\namong the entertainment giants, wish them\nluck and have them nervously smile back.\nIt’s the bittersweet finale when all of the\ncampaigning is over and you think you won’t\nsee them until their next movie. It’s like the\nlast day of camp.\n\nI was now dateless and alone as Lara Spencer\nwent home suffering from a sore throat.\n\nThose in the know always hang out at the\ndownstairs bar during the broadcast where\nthe sound is turned up on the flat screens.\nThis year, Cate Blanchett’s husband theater\nimpresario Andrew Upton bought me free\ndrinks. I hung out with Cate, her CAA agent\nHylda Queally, the adorable, skinny Sally\nHawkins in a heavily beaded Valentino gown,\nJulia Roberts, and Tom Bernard and Michael\nBarker who have 140 career nominations and\n32 wins.\n\nAfter reassuring Blanchett that her\nstupendous pale beaded Armani Privé gown\nwas the best of the other girls’ pale dresses and\nthat her Oscar would pop against it, she went\non stage to win.\n\nWhile I was at the Oscar broadcast, 160\nVIPs at Graydon Carter’s annual Oscar\nviewing dinner were getting ready for the\nrush of a thousand more party guests. Five\nhundred limos were on the way. Those\nwho watched the awards from the beige\ncircular dining room were Graydon’s\nfriends including: Sofia Vergara, Tom Ford,\nCarolina Herrera, Bruce Weber, Allen\nGrubman, Bob Colacello, Judd Apatow, Jeff\nKlein and John Goldwyn, Rupert Murdoch,\nSteve Newhouse, Les Moonves, and Jimmy\nBuffet.\n\nI ran through the Governor’s Ball and\nfound Bryan Lourd and Fox’s beloved leader\nJim Gianopulos, ushered by Fox Searchlight’s\nMichelle Hooper, sitting at Brad Pitt’s empty\ntable because everyone else was still in the\npress room doing interviews.\n\nI arrived at the Vanity Fair party at its new\nlocation, 8680 Sunset Boulevard, a parking lot\nthat was transformed into an airy glass dome.\nI stood in a corner, ravenously inhaling my\nIn-n-Out burger with ketchup dripping down\nmy chin and of course, Graydon—the adored\nmaestro of the week—came up and so sweetly\nwanted to know how I was doing. It’s a little\ndifficult to respond with a mouthful of food\nbehind dark glasses.\n\nAnne Hathaway and Jared Leto\n\nCharlize Theron\n\nThe stars were huddled together in groups,\nair kissing and congratulating each other. Bill\nMurray, Lupita Nyong’o, Jennifer Lawrence,\nNaomi Watts, Idina Menzel, Sarah Paulson,\nBette Midler and Lady Gaga owned the\ndance floor; Jared Leto passed his Oscar\naround so much he dropped it and it now\nsports a little dent in the head; pregnant Kerry\nWashington ate for two; and the Janes—\nFonda and Buffet—huddled on a couch,\nwhile The Great Gatsby’s production and\ncostume designer, and wife of director Baz\nLuhrmann, Catherine Martin and I posed\nwith her two Oscars. (Including the two she\nwon for Moulin Rouge, she now has four).\n\nEven Madonna has sponsors now. The\nmaterial girl—blinding in 1,000 carats of Neil\nLane’s diamonds—hosted her seventh annual\nawards bash at her manager Guy Oseary’s\nhome with Gucci. Originally super secret, the\nparty is now a headline on Page Six. Madonna\nmade her best effort to cream off the stars\nfrom Graydon’s party.\n\nIn attendance were Paul McCartney, Tom\nBrady and Gisele Bündchen, newly engaged\nAshton Kutcher and Mila Kunis, Serena\nWilliams, Prince, and Pink. Madonna closed\nout her own party by breakdancing with her\nkids and Miley Cyrus, and spinning records\nuntil 7 a.m. for Matthew McConaughey.\n\nMadge, short for majesty, would rather die\nthan entertain press, let alone an adorable\npublicist like moi. Last year, ever so curious,\n\nI was brought as\na guest of a guest\nonly to be frogmarched\nto the door by Oseary, the\nfurious host himself. Dear\nreaders, I did this for you. It has\ntaken me a year to admit—I was\ntoo socially traumatized to report\nmy investigative failure. I now realize that\nI was just a pawn for Oseary’s A-list purity\nfor the night. His own rock status had been\nboosted by signing Bono and U2. Thank God\nmy social stock is still otherwise intact. The\nweek before the Oscars, the real Oscar—de\nla Renta—had invited me to his beachfront\nparadise in the Dominican Republic with\nLord and Lady Astor. In June, the Duke and\nDuchess of Marlborough are expecting me at\nBlenheim Palace. So much for not making the\ncut at Madonna’s.\n\nOnce again, I scored a ride home on a\nfriend’s plane where my dark glasses fit right\nin. Passengers received an email that morning\nrequesting “no jeans.” I thought this was a\nbizarre fashion edict, only to find out the\nindigo dye in denim bleeds onto the jet’s white\nleather chairs.\n\nAs a closing to my 10th annual Oscar diary,\nI can sum up this year’s race as one of intense\nemotions and euphoric pride for our love of\nwhat Americans do best: making the most\nwonderful and culturally enlightening movies\nthat entertain the world. On to Cannes!♦\n\n© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM\n\nAPRIL 2012 • AVENUE MAGAZINE | 59\n\nHOUSE_OVERSIGHT_010722",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "glasses. I greeted each of Lara’s interviewees\nas if they were coming to my house for dinner.\nI never tire of the overwhelming excitement,\nthrongs of eager press, and screaming fans.\nEverything boils down to this moment of\nmass hysteria. It’s always humbling to stand\namong the entertainment giants, wish them\nluck and have them nervously smile back.\nIt’s the bittersweet finale when all of the\ncampaigning is over and you think you won’t\nsee them until their next movie. It’s like the\nlast day of camp.\n\nI was now dateless and alone as Lara Spencer\nwent home suffering from a sore throat.\n\nThose in the know always hang out at the\ndownstairs bar during the broadcast where\nthe sound is turned up on the flat screens.\nThis year, Cate Blanchett’s husband theater\nimpresario Andrew Upton bought me free\ndrinks. I hung out with Cate, her CAA agent\nHylda Queally, the adorable, skinny Sally\nHawkins in a heavily beaded Valentino gown,\nJulia Roberts, and Tom Bernard and Michael\nBarker who have 140 career nominations and\n32 wins.\n\nAfter reassuring Blanchett that her\nstupendous pale beaded Armani Privé gown\nwas the best of the other girls’ pale dresses and\nthat her Oscar would pop against it, she went\non stage to win.\n\nWhile I was at the Oscar broadcast, 160\nVIPs at Graydon Carter’s annual Oscar\nviewing dinner were getting ready for the\nrush of a thousand more party guests. Five\nhundred limos were on the way. Those\nwho watched the awards from the beige\ncircular dining room were Graydon’s\nfriends including: Sofia Vergara, Tom Ford,\nCarolina Herrera, Bruce Weber, Allen\nGrubman, Bob Colacello, Judd Apatow, Jeff\nKlein and John Goldwyn, Rupert Murdoch,\nSteve Newhouse, Les Moonves, and Jimmy\nBuffet.\n\nI ran through the Governor’s Ball and\nfound Bryan Lourd and Fox’s beloved leader\nJim Gianopulos, ushered by Fox Searchlight’s\nMichelle Hooper, sitting at Brad Pitt’s empty\ntable because everyone else was still in the\npress room doing interviews.\n\nI arrived at the Vanity Fair party at its new\nlocation, 8680 Sunset Boulevard, a parking lot\nthat was transformed into an airy glass dome.\nI stood in a corner, ravenously inhaling my\nIn-n-Out burger with ketchup dripping down\nmy chin and of course, Graydon—the adored\nmaestro of the week—came up and so sweetly\nwanted to know how I was doing. It’s a little\ndifficult to respond with a mouthful of food\nbehind dark glasses.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "The stars were huddled together in groups,\nair kissing and congratulating each other. Bill\nMurray, Lupita Nyong’o, Jennifer Lawrence,\nNaomi Watts, Idina Menzel, Sarah Paulson,\nBette Midler and Lady Gaga owned the\ndance floor; Jared Leto passed his Oscar\naround so much he dropped it and it now\nsports a little dent in the head; pregnant Kerry\nWashington ate for two; and the Janes—\nFonda and Buffet—huddled on a couch,\nwhile The Great Gatsby’s production and\ncostume designer, and wife of director Baz\nLuhrmann, Catherine Martin and I posed\nwith her two Oscars. (Including the two she\nwon for Moulin Rouge, she now has four).\n\nEven Madonna has sponsors now. The\nmaterial girl—blinding in 1,000 carats of Neil\nLane’s diamonds—hosted her seventh annual\nawards bash at her manager Guy Oseary’s\nhome with Gucci. Originally super secret, the\nparty is now a headline on Page Six. Madonna\nmade her best effort to cream off the stars\nfrom Graydon’s party.\n\nIn attendance were Paul McCartney, Tom\nBrady and Gisele Bündchen, newly engaged\nAshton Kutcher and Mila Kunis, Serena\nWilliams, Prince, and Pink. Madonna closed\nout her own party by breakdancing with her\nkids and Miley Cyrus, and spinning records\nuntil 7 a.m. for Matthew McConaughey.\n\nMadge, short for majesty, would rather die\nthan entertain press, let alone an adorable\npublicist like moi. Last year, ever so curious,",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "I was brought as\na guest of a guest\nonly to be frogmarched\nto the door by Oseary, the\nfurious host himself. Dear\nreaders, I did this for you. It has\ntaken me a year to admit—I was\ntoo socially traumatized to report\nmy investigative failure. I now realize that\nI was just a pawn for Oseary’s A-list purity\nfor the night. His own rock status had been\nboosted by signing Bono and U2. Thank God\nmy social stock is still otherwise intact. The\nweek before the Oscars, the real Oscar—de\nla Renta—had invited me to his beachfront\nparadise in the Dominican Republic with\nLord and Lady Astor. In June, the Duke and\nDuchess of Marlborough are expecting me at\nBlenheim Palace. So much for not making the\ncut at Madonna’s.\n\nOnce again, I scored a ride home on a\nfriend’s plane where my dark glasses fit right\nin. Passengers received an email that morning\nrequesting “no jeans.” I thought this was a\nbizarre fashion edict, only to find out the\nindigo dye in denim bleeds onto the jet’s white\nleather chairs.\n\nAs a closing to my 10th annual Oscar diary,\nI can sum up this year’s race as one of intense\nemotions and euphoric pride for our love of\nwhat Americans do best: making the most\nwonderful and culturally enlightening movies\nthat entertain the world. On to Cannes!♦",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Anne Hathaway and Jared Leto",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Charlize Theron",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "APRIL 2012 • AVENUE MAGAZINE | 59",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010722",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2013",
+      "2012-04",
+      "June"
+    ],
+    "people": [
+      "Lara Spencer",
+      "Cate Blanchett",
+      "Andrew Upton",
+      "Hylda Queally",
+      "Sally Hawkins",
+      "Julia Roberts",
+      "Tom Bernard",
+      "Michael Barker",
+      "Graydon Carter",
+      "Sofia Vergara",
+      "Tom Ford",
+      "Carolina Herrera",
+      "Bruce Weber",
+      "Allen Grubman",
+      "Bob Colacello",
+      "Judd Apatow",
+      "Jeff Klein",
+      "John Goldwyn",
+      "Rupert Murdoch",
+      "Steve Newhouse",
+      "Les Moonves",
+      "Jimmy Buffet",
+      "Bryan Lourd",
+      "Jim Gianopulos",
+      "Michelle Hooper",
+      "Brad Pitt",
+      "Anne Hathaway",
+      "Jared Leto",
+      "Charlize Theron",
+      "Bill Murray",
+      "Lupita Nyong'o",
+      "Jennifer Lawrence",
+      "Naomi Watts",
+      "Idina Menzel",
+      "Sarah Paulson",
+      "Bette Midler",
+      "Lady Gaga",
+      "Kerry Washington",
+      "Jane Fonda",
+      "Jane Buffet",
+      "Baz Luhrmann",
+      "Catherine Martin",
+      "Madonna",
+      "Neil Lane",
+      "Guy Oseary",
+      "Paul McCartney",
+      "Tom Brady",
+      "Gisele Bündchen",
+      "Ashton Kutcher",
+      "Mila Kunis",
+      "Serena Williams",
+      "Prince",
+      "Pink",
+      "Miley Cyrus",
+      "Matthew McConaughey",
+      "Bono",
+      "Oscar de la Renta",
+      "Lord Astor",
+      "Lady Astor",
+      "Duke of Marlborough",
+      "Duchess of Marlborough"
+    ],
+    "organizations": [
+      "CAA",
+      "Valentino",
+      "Armani Privé",
+      "Fox",
+      "Fox Searchlight",
+      "Vanity Fair",
+      "In-n-Out",
+      "The Great Gatsby",
+      "Moulin Rouge",
+      "Neil Lane",
+      "Gucci",
+      "Page Six",
+      "U2",
+      "STARTRAKSPHOTO.COM",
+      "BFANYC.COM",
+      "AVENUE MAGAZINE",
+      "House Oversight"
+    ],
+    "locations": [
+      "8680 Sunset Boulevard",
+      "Dominican Republic",
+      "Blenheim Palace",
+      "Cannes"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010722"
+    ],
+    "financial_amounts": [
+      "1,000 carats"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "8680 Sunset Boulevard"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier stamp: HOUSE_OVERSIGHT_010722"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "magazine_article",
+    "sender": null,
+    "recipient": null,
+    "subject": "Personal account of attending Oscar parties",
+    "date": "2012-04",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from the April 2012 issue of Avenue Magazine. The copyright notice mentions 2013, which likely refers to the date the photograph was copyrighted, not the publication date of the article. The document has been stamped with a Bates number 'HOUSE_OVERSIGHT_010722', indicating it is part of a collection of documents for the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010722.jpg",
+  "house_oversight_id": "010722",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:00:37.279472Z",
+    "model": "gemini-2.5-pro"
+  }
+}

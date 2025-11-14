@@ -1,0 +1,204 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010721.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a magazine, likely an entertainment or society publication. The top third of the page features a collage of three photographs from a red carpet event, with celebrities identified by captions. The bottom two-thirds contain a multi-column article detailing events and parties, likely related to an awards season like the Oscars. The page has a footer with the magazine name, date, and a document identifier.",
+    "layout": "The layout consists of a header section with photographs, followed by a large, bolded headline. The main body of the text is arranged in two columns. A footer is present at the bottom of the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Graydon Carter and\nAnna Scott Carter\nNaomi\nWatts\nAndre Balazs\nHarvey Weinstein and\nGeorgina Chapman\nSandra Bullock\nTerry Richardson\nI never tire of the overwhelming\nexcitement, throngs of eager press,\nand screaming fans. Everything boils\ndown to this moment of mass hysteria.\nPhilomena producers Gaby Tana and\nTracey Seaward invited me to Steve Coogan’s\nhome where music man Alexandre Desplat\nand Jon Hamm were having beers. Coogan\ncaptivated me with conversation of how he\nand the real Philomena Lee, who was a red\ncarpet regular, took their “full disclosure”\nadoption campaign to the Vatican, meeting\nThe Pope. Only Harvey Weinstein could\nhave pulled off that jaw-dropping marketing\nmiracle.\nTraditionally, there are three private agency\nparties on Friday night—WME, CAA, and\nUTA. They were hosted by Ari Emanuel,\nKevin Huvane, and Jim Berkus and were\npress free, leaving the stars uninhibited and\nhappy. Justin Theroux, about to explode in\nHBO’s miniseries The Leftovers, canoodled\nwith Jennifer Aniston. Past and present\nOscar nominees and winners including\nBen Affleck, Matt Damon, Oprah Winfrey,\nCharlize Theron, Sean Penn, Bradley\nCooper, Jonah Hill, Alexander Payne, Steve\nMcQueen, and Alfonso Cuarón were among\nthe evening’s migrating tribe.\nSATURDAY, MARCH 1\nBarry Diller and Diane von Furstenberg\ncanceled their annual, highly anticipated\noutdoor lunch for Graydon Carter at their\nColdwater Canyon home atop a steep hill\nbecause of impending torrential rain that\nnever came. Three hundred power hungry\nshowbiz executives were sent into a tailspin\nfor an alternative activity.\nLuckily, Sony Pictures Classics’ and\nindustry icons Tom Bernard, and Michael\nBarker took pity on me and invited me to\ntheir table at the Independent Spirit Awards\nunder a wobbly tent that billowed with the\nwind in Santa Monica.\nBob Balaban and I headed to the 6th\nannual Chanel-sponsored dinner hosted\nby the debonair Charles Finch at Madeo.\nGirls donning $20k Chanel dresses included\nAnne Hathaway, Sienna Miller (with baby\ndaddy Tom Sturridge), Lily Collins, Greta\nGerwig and Poppy Delevingne. Jessica de\nRothschild and her director husband Sacha\nGervasi were in attendance as well as Adrien\nBrody, David O. Russell, Oliver Stone, Danny\nHuston, Jean Pigozzi, Ben Silverman, Peter\nMorton, and Elon Musk.\nHarvey and Bob Weinstein along with\nChopard honored their nominees, including\nthe singers in RADiUS-TWC’s Best\nDocumentary winner 20 Feet from Stardom,\nwith a seated dinner at the Montage Hotel in\nthe “Marchesa Ballroom.” (The dining room\nwas rechristened for the evening in honor\nof Harvey’s wife Georgina Chapman’s dress\nlabel.) After dinner, guests were wowed by\na performance from Weinstein’s upcoming\nBroadway musical, Finding Neverland, based\non their Oscar-nominated film about Peter\nPan creator J. M. Barrie. Celebrities Bono, U2,\nMeryl Streep, Julia Roberts, Oprah Winfrey,\nOlivia Wilde and Jason Sudeikis, Christoph\nWaltz, and Taylor Swift gave Neverland’s\nstars, Jason Alexander and Gary Barlow, a\nstanding ovation.\nSUNDAY, MARCH 2\nMy Oscar date this year was GMA’s\nglamorous Lara Spencer. I arrived, as usual,\ntwo hours early at the Dolby Theater in order\nto plant myself on the mother of all red carpets.\nOnly this year, I was incognito with the dark\n58 | AVENUE MAGAZINE • APRIL 2012\n© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM\nHOUSE_OVERSIGHT_010721",
+    "text_regions": [
+      {
+        "region": "photo_caption",
+        "text": "Graydon Carter and\nAnna Scott Carter",
+        "type": "printed"
+      },
+      {
+        "region": "photo_caption",
+        "text": "Naomi\nWatts",
+        "type": "printed"
+      },
+      {
+        "region": "photo_caption",
+        "text": "Andre Balazs",
+        "type": "printed"
+      },
+      {
+        "region": "photo_caption",
+        "text": "Harvey Weinstein and\nGeorgina Chapman",
+        "type": "printed"
+      },
+      {
+        "region": "photo_caption",
+        "text": "Sandra Bullock",
+        "type": "printed"
+      },
+      {
+        "region": "photo_caption",
+        "text": "Terry Richardson",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "I never tire of the overwhelming\nexcitement, throngs of eager press,\nand screaming fans. Everything boils\ndown to this moment of mass hysteria.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Philomena producers Gaby Tana and\nTracey Seaward invited me to Steve Coogan’s\nhome where music man Alexandre Desplat\nand Jon Hamm were having beers. Coogan\ncaptivated me with conversation of how he\nand the real Philomena Lee, who was a red\ncarpet regular, took their “full disclosure”\nadoption campaign to the Vatican, meeting\nThe Pope. Only Harvey Weinstein could\nhave pulled off that jaw-dropping marketing\nmiracle.\nTraditionally, there are three private agency\nparties on Friday night—WME, CAA, and\nUTA. They were hosted by Ari Emanuel,\nKevin Huvane, and Jim Berkus and were\npress free, leaving the stars uninhibited and\nhappy. Justin Theroux, about to explode in\nHBO’s miniseries The Leftovers, canoodled\nwith Jennifer Aniston. Past and present\nOscar nominees and winners including\nBen Affleck, Matt Damon, Oprah Winfrey,\nCharlize Theron, Sean Penn, Bradley\nCooper, Jonah Hill, Alexander Payne, Steve\nMcQueen, and Alfonso Cuarón were among\nthe evening’s migrating tribe.\nSATURDAY, MARCH 1\nBarry Diller and Diane von Furstenberg\ncanceled their annual, highly anticipated\noutdoor lunch for Graydon Carter at their\nColdwater Canyon home atop a steep hill\nbecause of impending torrential rain that\nnever came. Three hundred power hungry\nshowbiz executives were sent into a tailspin\nfor an alternative activity.\nLuckily, Sony Pictures Classics’ and\nindustry icons Tom Bernard, and Michael\nBarker took pity on me and invited me to\ntheir table at the Independent Spirit Awards\nunder a wobbly tent that billowed with the\nwind in Santa Monica.\nBob Balaban and I headed to the 6th\nannual Chanel-sponsored dinner hosted\nby the debonair Charles Finch at Madeo.\nGirls donning $20k Chanel dresses included\nAnne Hathaway, Sienna Miller (with baby\ndaddy Tom Sturridge), Lily Collins, Greta\nGerwig and Poppy Delevingne. Jessica de\nRothschild and her director husband Sacha\nGervasi were in attendance as well as Adrien\nBrody, David O. Russell, Oliver Stone, Danny\nHuston, Jean Pigozzi, Ben Silverman, Peter\nMorton, and Elon Musk.\nHarvey and Bob Weinstein along with\nChopard honored their nominees, including\nthe singers in RADiUS-TWC’s Best\nDocumentary winner 20 Feet from Stardom,\nwith a seated dinner at the Montage Hotel in\nthe “Marchesa Ballroom.” (The dining room\nwas rechristened for the evening in honor\nof Harvey’s wife Georgina Chapman’s dress\nlabel.) After dinner, guests were wowed by\na performance from Weinstein’s upcoming\nBroadway musical, Finding Neverland, based\non their Oscar-nominated film about Peter\nPan creator J. M. Barrie. Celebrities Bono, U2,\nMeryl Streep, Julia Roberts, Oprah Winfrey,\nOlivia Wilde and Jason Sudeikis, Christoph\nWaltz, and Taylor Swift gave Neverland’s\nstars, Jason Alexander and Gary Barlow, a\nstanding ovation.\nSUNDAY, MARCH 2\nMy Oscar date this year was GMA’s\nglamorous Lara Spencer. I arrived, as usual,\ntwo hours early at the Dolby Theater in order\nto plant myself on the mother of all red carpets.\nOnly this year, I was incognito with the dark",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "58 | AVENUE MAGAZINE • APRIL 2012",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010721",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2012-04",
+      "2013",
+      "MARCH 1",
+      "MARCH 2"
+    ],
+    "people": [
+      "Graydon Carter",
+      "Anna Scott Carter",
+      "Naomi Watts",
+      "Andre Balazs",
+      "Harvey Weinstein",
+      "Georgina Chapman",
+      "Sandra Bullock",
+      "Terry Richardson",
+      "Gaby Tana",
+      "Tracey Seaward",
+      "Steve Coogan",
+      "Alexandre Desplat",
+      "Jon Hamm",
+      "Philomena Lee",
+      "The Pope",
+      "Ari Emanuel",
+      "Kevin Huvane",
+      "Jim Berkus",
+      "Justin Theroux",
+      "Jennifer Aniston",
+      "Ben Affleck",
+      "Matt Damon",
+      "Oprah Winfrey",
+      "Charlize Theron",
+      "Sean Penn",
+      "Bradley Cooper",
+      "Jonah Hill",
+      "Alexander Payne",
+      "Steve McQueen",
+      "Alfonso Cuarón",
+      "Barry Diller",
+      "Diane von Furstenberg",
+      "Tom Bernard",
+      "Michael Barker",
+      "Bob Balaban",
+      "Charles Finch",
+      "Anne Hathaway",
+      "Sienna Miller",
+      "Tom Sturridge",
+      "Lily Collins",
+      "Greta Gerwig",
+      "Poppy Delevingne",
+      "Jessica de Rothschild",
+      "Sacha Gervasi",
+      "Adrien Brody",
+      "David O. Russell",
+      "Oliver Stone",
+      "Danny Huston",
+      "Jean Pigozzi",
+      "Ben Silverman",
+      "Peter Morton",
+      "Elon Musk",
+      "Bob Weinstein",
+      "J. M. Barrie",
+      "Bono",
+      "Meryl Streep",
+      "Julia Roberts",
+      "Olivia Wilde",
+      "Jason Sudeikis",
+      "Christoph Waltz",
+      "Taylor Swift",
+      "Jason Alexander",
+      "Gary Barlow",
+      "Lara Spencer"
+    ],
+    "organizations": [
+      "WME",
+      "CAA",
+      "UTA",
+      "HBO",
+      "Sony Pictures Classics",
+      "Chanel",
+      "Chopard",
+      "RADiUS-TWC",
+      "U2",
+      "GMA",
+      "AVENUE MAGAZINE",
+      "STARTRAKSPHOTO.COM",
+      "BFANYC.COM"
+    ],
+    "locations": [
+      "Vatican",
+      "Coldwater Canyon",
+      "Santa Monica",
+      "Madeo",
+      "Montage Hotel",
+      "Dolby Theater"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010721"
+    ],
+    "financial_amounts": [
+      "$20k"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010721"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "magazine_article",
+    "sender": null,
+    "recipient": null,
+    "subject": "Recap of events and parties surrounding an awards ceremony, likely the Oscars.",
+    "date": "2012-04",
+    "references": [
+      "HOUSE_OVERSIGHT_010721"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The article mentions two dates, 'SATURDAY, MARCH 1' and 'SUNDAY, MARCH 2', but does not specify a year for these dates. The magazine issue date is April 2012, while the copyright notice for the photos is 2013, creating a slight discrepancy. The content appears to be a society column detailing celebrity interactions at various parties.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010721.jpg",
+  "house_oversight_id": "010721",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:59:53.350779Z",
+    "model": "gemini-2.5-pro"
+  }
+}
