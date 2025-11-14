@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010524.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a two-page spread from an open book. The left page is numbered 182 and the right page is 183. The text discusses the actions and thoughts of a 'Chief Reiter' concerning a prosecutor named 'Acosta' in relation to the Jeffrey Epstein case. The book's title, 'FILTHY RICH', is visible as a running header on the right page. A document control number, 'HOUSE_OVERSIGHT_010524', is stamped at the bottom right.",
+    "layout": "Two-page spread. The left page (182) shows a chapter heading and the end of several paragraphs. The right page (183) has a header, body text, and a page number. A footer with a document identifier is present at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 48\n\nry reached a verdict that floored\n\nleal that Krischer had offered to\nNow the grand jury was recom-\nged with just one felony count of\n\nof underage girls. The original\ns of unlawful sex acts with minors\nand lascivious molestation—had\n\npstein to prison.\n\nrender on a Sunday, when no one\ngned. A few hours later, he was\nllars bail.\n\not even notified.\n\n182\n\nFILTHY RICH\n\nOnce again, Chief Reiter was outraged. So much so that he\ntook the extraordinary step of calling the FBI and the federal\nprosecutor's office.\n\nAt the time, the federal prosecutor of the Southern District of\nFlorida was a Republican named R. Alexander Acosta. Chief\nReiter recalls being present at Acosta's swearing-in ceremony\nand remembers Acosta's declaration that one of his goals would\nbe the prosecution, to the fullest extent of the law, of anyone\nwho takes advantage of the weak—especially perpetrators of\nsex crimes. Disgusted with Krischer's laissez-faire attitude, Reiter\nrecalls thinking he'd found his man.\n\nIn Acosta, the chief saw a prosecutor who wouldn't shy away\nfrom confronting a man with Jeffrey Epstein's resources and\nconnections.\n\nBut it turned out that Acosta had worked under Ken Starr at\nStarr's high-powered multinational law firm, Kirkland & Ellis.\nAnd while Acosta had a sterling resumé, which included a stint\nclerking for future Supreme Court Justice Samuel Alito, he had\nonly argued two cases before a judge.\n\nAt the time, Reiter did not know this. All he knew was that some-\none had to look much more seriously into Jeffrey Epstein's crimes.\n\nReiter's actions did not necessarily make him a hero—at least,\nnot in every corner of the community he served.\n\n“I had individuals suggest that the department's approach to\nthe investigation and my referral of the investigation to the FBI\nwas more horsepower than the investigation deserved. And I\nhad other individuals suggest that—yeah, the term 'back off'\nprobably fits,” Reiter said in his deposition for B.B. vs. Epstein.\n\n183\n\nHOUSE_OVERSIGHT_010524",
+    "text_regions": [
+      {
+        "region": "body_left_page",
+        "text": "CHAPTER 48\n\nry reached a verdict that floored\n\nleal that Krischer had offered to\nNow the grand jury was recom-\nged with just one felony count of\n\nof underage girls. The original\ns of unlawful sex acts with minors\nand lascivious molestation—had\n\npstein to prison.\n\nrender on a Sunday, when no one\ngned. A few hours later, he was\nllars bail.\n\not even notified.",
+        "type": "printed"
+      },
+      {
+        "region": "footer_left_page",
+        "text": "182",
+        "type": "printed"
+      },
+      {
+        "region": "header_right_page",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_page",
+        "text": "Once again, Chief Reiter was outraged. So much so that he\ntook the extraordinary step of calling the FBI and the federal\nprosecutor's office.\n\nAt the time, the federal prosecutor of the Southern District of\nFlorida was a Republican named R. Alexander Acosta. Chief\nReiter recalls being present at Acosta's swearing-in ceremony\nand remembers Acosta's declaration that one of his goals would\nbe the prosecution, to the fullest extent of the law, of anyone\nwho takes advantage of the weak—especially perpetrators of\nsex crimes. Disgusted with Krischer's laissez-faire attitude, Reiter\nrecalls thinking he'd found his man.\n\nIn Acosta, the chief saw a prosecutor who wouldn't shy away\nfrom confronting a man with Jeffrey Epstein's resources and\nconnections.\n\nBut it turned out that Acosta had worked under Ken Starr at\nStarr's high-powered multinational law firm, Kirkland & Ellis.\nAnd while Acosta had a sterling resumé, which included a stint\nclerking for future Supreme Court Justice Samuel Alito, he had\nonly argued two cases before a judge.\n\nAt the time, Reiter did not know this. All he knew was that some-\none had to look much more seriously into Jeffrey Epstein's crimes.\n\nReiter's actions did not necessarily make him a hero—at least,\nnot in every corner of the community he served.\n\n“I had individuals suggest that the department's approach to\nthe investigation and my referral of the investigation to the FBI\nwas more horsepower than the investigation deserved. And I\nhad other individuals suggest that—yeah, the term 'back off'\nprobably fits,” Reiter said in his deposition for B.B. vs. Epstein.",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right_page",
+        "text": "183",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010524",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Reiter",
+      "Krischer",
+      "R. Alexander Acosta",
+      "Acosta",
+      "Jeffrey Epstein",
+      "Ken Starr",
+      "Samuel Alito",
+      "B.B."
+    ],
+    "organizations": [
+      "FBI",
+      "Kirkland & Ellis",
+      "Supreme Court"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010524"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010524"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Actions of Chief Reiter and prosecutor R. Alexander Acosta in the Jeffrey Epstein case.",
+    "date": null,
+    "references": [
+      "B.B. vs. Epstein"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The image is a photograph of pages 182 and 183 from the book 'FILTHY RICH'. The text on page 182 is partially cut off. The document has been marked with a Bates-style stamp 'HOUSE_OVERSIGHT_010524', indicating it is part of a collection of documents, likely for a congressional investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010524.jpg",
+  "house_oversight_id": "010524",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:09:57.474800Z",
+    "model": "gemini-2.5-pro"
+  }
+}

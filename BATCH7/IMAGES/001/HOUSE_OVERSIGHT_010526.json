@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010526.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a book or bound document. The image shows the inner binding, with page 184 on the left and page 185 on the right. Both pages contain printed text. A document identifier is visible at the bottom right corner.",
+    "layout": "Two-column layout representing a two-page spread. Each page has a header, a main body of text, and a page number at the bottom. A document control number is located in the footer area of the right page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ITTERSON\n\ny in Palm Beach who either made\ners who relayed them to me that I\nnvestigation that we did, which is\nthen refer it to the FBI after the\naid in the deposition. “I had one\ncouple of times about this.”\n: individual in question was a\nl.\ny; this was a case that was really\nThe victims had lifestyles that\nike them believable to the police\n\nids of suggestions to me were\nsaid Reiter. “That he had taken a\nd toward something that could\nve talked several times. Early on\nw, this is an individual [whom] I\nicial capacity and in his official\n\nwasn’t the only one to pressure\niments from a variety of different\nad people tell me, hey, he’s a Palm\ngating a Palm Beacher?” Reiter\nd people that said it was an unfa-\nask the state attorney to remove\nfer it to the FBI.... I had plenty of\nas a mistake.”\nhave done so would have been a\nims but also of his vocation and\ne would serve.\n\n184\n\nFILTHY RICH\n\n“My responsibility was to protect everyone that lives in Palm\nBeach and preserve their constitutional rights and be the police\ndepartment for all,” Reiter said. “And I think that under the law,\nparticularly under the criminal laws, that all people have to, by\nthe nature of our system, be treated exactly alike.”\n\nBut along with handing the case off to the FBI and the US\nattorney, Reiter took another unusual step. He wrote personal\nletters—on Palm Beach PD letterhead—to the parents of the\nvictims in the case.\n\nHe delivered the letters by hand.\n\n185\n\nHOUSE_OVERSIGHT_010526",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "ITTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "y in Palm Beach who either made\ners who relayed them to me that I\nnvestigation that we did, which is\nthen refer it to the FBI after the\naid in the deposition. “I had one\ncouple of times about this.”\n: individual in question was a\nl.\ny; this was a case that was really\nThe victims had lifestyles that\nike them believable to the police\n\nids of suggestions to me were\nsaid Reiter. “That he had taken a\nd toward something that could\nve talked several times. Early on\nw, this is an individual [whom] I\nicial capacity and in his official\n\nwasn’t the only one to pressure\niments from a variety of different\nad people tell me, hey, he’s a Palm\ngating a Palm Beacher?” Reiter\nd people that said it was an unfa-\nask the state attorney to remove\nfer it to the FBI.... I had plenty of\nas a mistake.”\nhave done so would have been a\nims but also of his vocation and\ne would serve.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“My responsibility was to protect everyone that lives in Palm\nBeach and preserve their constitutional rights and be the police\ndepartment for all,” Reiter said. “And I think that under the law,\nparticularly under the criminal laws, that all people have to, by\nthe nature of our system, be treated exactly alike.”\n\nBut along with handing the case off to the FBI and the US\nattorney, Reiter took another unusual step. He wrote personal\nletters—on Palm Beach PD letterhead—to the parents of the\nvictims in the case.\n\nHe delivered the letters by hand.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "184",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "185",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010526",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Reiter"
+    ],
+    "organizations": [
+      "FBI",
+      "US attorney",
+      "Palm Beach PD"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010526"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier: HOUSE_OVERSIGHT_010526"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of a case investigation involving Reiter, the Palm Beach PD, and the FBI.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010526"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a book titled 'FILTHY RICH'. The text on the left page is cut off at the beginning of each line. The content discusses an investigation in Palm Beach and the actions of an individual named Reiter.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010526.jpg",
+  "house_oversight_id": "010526",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:10:49.012586Z",
+    "model": "gemini-2.5-pro"
+  }
+}

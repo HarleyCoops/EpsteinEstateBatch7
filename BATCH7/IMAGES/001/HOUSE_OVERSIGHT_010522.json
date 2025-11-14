@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010522.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a printed book. The left page is partially visible, showing the end of lines of text. The right page is fully visible. The book's gutter and the curve of the pages are apparent. A document label is visible at the bottom of the image.",
+    "layout": "Two-column layout corresponding to two pages of a book. The left page is numbered 180 and the right is 181. Each page has a header, a main body of text, and a page number at the bottom. A document identifier is located in the footer area of the overall image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\nwing depressed and withdrawn\nlessly, her parents watched her\nired the end of their rope, they\nne move, Mary had fallen apart\nin with a bad crowd, ran away\nup with a gang of drug dealers.\nr local police, the dealers blamed\nthe word that they wanted her\n\n,” Mary’s father explained. “We\ne’s still seeing the therapist. And\nShe’s already had to have a seri-\n\nere. On June 28, she was brought\nhadn’t been briefed by the state\n: the prosecutors—and she had\nd.\nound that she was being treated\nwitness or victim.\nl a printout of our daughter’s\nrecalls. “Mary was stunned. She\nccused her of all sort of things; it\nɔstein.\nit we were being watched. Creepy\nm Miami. They would follow us,\nand Mary’s sister. My car was van-\n:ll.”\nefense dream team included Jack\nand Gerald Lefcourt. All of them\nDershowitz and Lefcourt were two\n\n180\n\nFILTHY RICH\n\nof America’s most famous lawyers, and before long, another\ncelebrity lawyer—Ken Starr, the former solicitor general who\nhad had Bill Clinton impeached for perjury—would join Epstein’s\nteam.\n   As far as Mary’s parents were concerned, their daughter had\nwalked into an ambush. Everyone in the courtroom seemed to be\nplaying defense on the side of Jeffrey Epstein. And as for the sec-\nond girl—Alison, who claimed that she had been raped—she\nnever testified in court at all.\n\n181\n\nHOUSE_OVERSIGHT_010522",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "wing depressed and withdrawn\nlessly, her parents watched her\nired the end of their rope, they\nne move, Mary had fallen apart\nin with a bad crowd, ran away\nup with a gang of drug dealers.\nr local police, the dealers blamed\nthe word that they wanted her\n\n,” Mary’s father explained. “We\ne’s still seeing the therapist. And\nShe’s already had to have a seri-\n\nere. On June 28, she was brought\nhadn’t been briefed by the state\n: the prosecutors—and she had\nd.\nound that she was being treated\nwitness or victim.\nl a printout of our daughter’s\nrecalls. “Mary was stunned. She\nccused her of all sort of things; it\nɔstein.\nit we were being watched. Creepy\nm Miami. They would follow us,\nand Mary’s sister. My car was van-\n:ll.”\nefense dream team included Jack\nand Gerald Lefcourt. All of them\nDershowitz and Lefcourt were two",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "180",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "of America’s most famous lawyers, and before long, another\ncelebrity lawyer—Ken Starr, the former solicitor general who\nhad had Bill Clinton impeached for perjury—would join Epstein’s\nteam.\n   As far as Mary’s parents were concerned, their daughter had\nwalked into an ambush. Everyone in the courtroom seemed to be\nplaying defense on the side of Jeffrey Epstein. And as for the sec-\nond girl—Alison, who claimed that she had been raped—she\nnever testified in court at all.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "181",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010522",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "June 28"
+    ],
+    "people": [
+      "Mary",
+      "Jack",
+      "Gerald Lefcourt",
+      "Dershowitz",
+      "Ken Starr",
+      "Bill Clinton",
+      "Epstein",
+      "Jeffrey Epstein",
+      "Alison"
+    ],
+    "organizations": [],
+    "locations": [
+      "Miami"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010522",
+      "180",
+      "181"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010522"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Excerpt from a book",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account related to Jeffrey Epstein's legal case, involving victims named Mary and Alison, and his legal team.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010522"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is an excerpt from a book titled 'FILTHY RICH'. The left page is partially cut off, so the beginning of each line is missing. The text discusses events surrounding Jeffrey Epstein's legal proceedings, mentioning victims and members of his legal team.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010522.jpg",
+  "house_oversight_id": "010522",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:09:09.078081Z",
+    "model": "gemini-2.5-pro"
+  }
+}

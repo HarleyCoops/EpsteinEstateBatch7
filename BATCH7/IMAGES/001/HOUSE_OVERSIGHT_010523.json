@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010523.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of two pages from a book or report. The left page is fully visible, numbered 182, and contains Chapter 48. The right page is partially visible, with the text on the inner margin being obscured by the book's binding and curvature. A document identifier is visible in the footer at the bottom right.",
+    "layout": "Two-page spread from a book. The left page has a chapter heading, a subheading, and several paragraphs of body text, with a page number at the bottom center. The right page has body text. A footer with a document number is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 48\n\nMichael Reiter: July 2006\n\nOn July 28, the grand jury reached a verdict that floored the Palm Beach PD.\nThe original plea deal that Krischer had offered to Epstein had been bad enough. Now the grand jury was recommending that Epstein be charged with just one felony count of solicitation of prostitution.\nThere was no mention of underage girls. The original accusation—four felony counts of unlawful sex acts with minors and one felony count of lewd and lascivious molestation—had simply evaporated.\nIt wasn’t enough to send Epstein to prison.\nEpstein was allowed to surrender on a Sunday, when no one would know he’d been arraigned. A few hours later, he was released on three thousand dollars bail.\nThe Palm Beach PD was not even notified.\n\n182\n\nF\n\nOnce again, Chief Reite\ntook the extraordinary ste\nprosecutor’s office.\nAt the time, the federal\nFlorida was a Republican\nReiter recalls being presen\nand remembers Acosta’s de\nbe the prosecution, to the\nwho takes advantage of th\nsex crimes. Disgusted with\nrecalls thinking he’d found\nIn Acosta, the chief saw\nfrom confronting a man w\nconnections.\nBut it turned out that Ac\nStarr’s high-powered multir\nAnd while Acosta had a ste\nclerking for future Supreme\nonly argued two cases befor\nAt the time, Reiter did not\none had to look much more se\n\nReiter’s actions did not nece\nnot in every corner of the co\n“I had individuals sugges\nthe investigation and my ref\nwas more horsepower than\nhad other individuals sugge\nprobably fits,” Reiter said in l\n\nHOUSE_OVERSIGHT_010523",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "CHAPTER 48",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Michael Reiter: July 2006",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "On July 28, the grand jury reached a verdict that floored the Palm Beach PD.\nThe original plea deal that Krischer had offered to Epstein had been bad enough. Now the grand jury was recommending that Epstein be charged with just one felony count of solicitation of prostitution.\nThere was no mention of underage girls. The original accusation—four felony counts of unlawful sex acts with minors and one felony count of lewd and lascivious molestation—had simply evaporated.\nIt wasn’t enough to send Epstein to prison.\nEpstein was allowed to surrender on a Sunday, when no one would know he’d been arraigned. A few hours later, he was released on three thousand dollars bail.\nThe Palm Beach PD was not even notified.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "F\n\nOnce again, Chief Reite\ntook the extraordinary ste\nprosecutor’s office.\nAt the time, the federal\nFlorida was a Republican\nReiter recalls being presen\nand remembers Acosta’s de\nbe the prosecution, to the\nwho takes advantage of th\nsex crimes. Disgusted with\nrecalls thinking he’d found\nIn Acosta, the chief saw\nfrom confronting a man w\nconnections.\nBut it turned out that Ac\nStarr’s high-powered multir\nAnd while Acosta had a ste\nclerking for future Supreme\nonly argued two cases befor\nAt the time, Reiter did not\none had to look much more se\n\nReiter’s actions did not nece\nnot in every corner of the co\n“I had individuals sugges\nthe investigation and my ref\nwas more horsepower than\nhad other individuals sugge\nprobably fits,” Reiter said in l",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "182",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010523",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-07",
+      "July 28"
+    ],
+    "people": [
+      "Michael Reiter",
+      "Krischer",
+      "Epstein",
+      "Acosta",
+      "Starr"
+    ],
+    "organizations": [
+      "Palm Beach PD",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Palm Beach",
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010523",
+      "182"
+    ],
+    "financial_amounts": [
+      "three thousand dollars"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Events of July 2006 regarding the grand jury verdict on Epstein's case, as recalled by Michael Reiter.",
+    "date": "2006-07",
+    "references": [
+      "HOUSE_OVERSIGHT_010523"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The document is a page from a book or report. The text on the right-hand page is partially cut off by the book's binding, making some words incomplete. The extracted text reflects only the visible portions.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010523.jpg",
+  "house_oversight_id": "010523",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:09:33.172858Z",
+    "model": "gemini-2.5-pro"
+  }
+}

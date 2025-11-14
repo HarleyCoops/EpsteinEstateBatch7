@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010525.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of two pages from an open book or bound document. The left page is fully visible, numbered 184, while the right page is partially visible. The text discusses an investigation and pressure put on a police chief. A document identification number is visible at the bottom right corner.",
+    "layout": "Two-page spread from a book. The left page has a header, body text, and a page number at the bottom. The right page has a partial header and body text. The document identifier is in the bottom right margin.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\n“I had people in the community in Palm Beach who either made comments directly to me or to others who relayed them to me that I didn't need to take the tack in the investigation that we did, which is [to] completely investigate it and then refer it to the FBI after the state case was resolved,” Reiter said in the deposition. “I had one individual who came to see me a couple of times about this.”\n\nAccording to the chief, the individual in question was a prominent Palm Beach politician.\n\n“He said this wasn't necessary; this was a case that was really very minor,” Reiter recalled. “The victims had lifestyles that don't make them—shouldn't make them believable to the police department.”\n\n“I told him that those kinds of suggestions to me were improper and he should stop,” said Reiter. “That he had taken a couple of steps down the road toward something that could eventually constitute a crime. We talked several times. Early on it didn't end favorably. You know, this is an individual [whom] I had to interact with in my official capacity and in his official capacity as well.”\n\nThe Palm Beach politician wasn't the only one to pressure the police chief. “I received comments from a variety of different viewpoints. . . in some cases I had people tell me, hey, he's a Palm Beacher, why are you investigating a Palm Beacher?” Reiter would say when deposed. “I had people that said it was an unfavorable career move for me to ask the state attorney to remove himself from the case and to refer it to the FBI. . . . I had plenty of people that told me that that was a mistake.”\n\nReiter didn't back off. To have done so would have been a betrayal—not only of the victims but also of his vocation and the community he had sworn he would serve.\n\n184\n\nFIL:\n\n“My responsibility was to\nBeach and preserve their con-\ndepartment for all,” Reiter sai\nparticularly under the crimin\nthe nature of our system, be th\n\nBut along with handing t\nattorney, Reiter took another\nletters—on Palm Beach PD\nvictims in the case.\n\nHe delivered the letters by\n\nHOUSE_OVERSIGHT_010525",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FIL:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“I had people in the community in Palm Beach who either made comments directly to me or to others who relayed them to me that I didn't need to take the tack in the investigation that we did, which is [to] completely investigate it and then refer it to the FBI after the state case was resolved,” Reiter said in the deposition. “I had one individual who came to see me a couple of times about this.”\n\nAccording to the chief, the individual in question was a prominent Palm Beach politician.\n\n“He said this wasn't necessary; this was a case that was really very minor,” Reiter recalled. “The victims had lifestyles that don't make them—shouldn't make them believable to the police department.”\n\n“I told him that those kinds of suggestions to me were improper and he should stop,” said Reiter. “That he had taken a couple of steps down the road toward something that could eventually constitute a crime. We talked several times. Early on it didn't end favorably. You know, this is an individual [whom] I had to interact with in my official capacity and in his official capacity as well.”\n\nThe Palm Beach politician wasn't the only one to pressure the police chief. “I received comments from a variety of different viewpoints. . . in some cases I had people tell me, hey, he's a Palm Beacher, why are you investigating a Palm Beacher?” Reiter would say when deposed. “I had people that said it was an unfavorable career move for me to ask the state attorney to remove himself from the case and to refer it to the FBI. . . . I had plenty of people that told me that that was a mistake.”\n\nReiter didn't back off. To have done so would have been a betrayal—not only of the victims but also of his vocation and the community he had sworn he would serve.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“My responsibility was to\nBeach and preserve their con-\ndepartment for all,” Reiter sai\nparticularly under the crimin\nthe nature of our system, be th\n\nBut along with handing t\nattorney, Reiter took another\nletters—on Palm Beach PD\nvictims in the case.\n\nHe delivered the letters by",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "184",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010525",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "Reiter"
+    ],
+    "organizations": [
+      "FBI",
+      "Palm Beach PD"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010525",
+      "184"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010525"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of pressure on Police Chief Reiter during an investigation in Palm Beach.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010525"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The image is of two pages from a book, likely authored by James Patterson as indicated in the header. The right page is partially cut off, resulting in incomplete sentences. The text describes events related to a police investigation and quotes from a deposition by a person named Reiter.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010525.jpg",
+  "house_oversight_id": "010525",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:10:25.239270Z",
+    "model": "gemini-2.5-pro"
+  }
+}
