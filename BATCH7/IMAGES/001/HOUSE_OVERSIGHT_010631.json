@@ -1,0 +1,138 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010631.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a page from a financial disclosure form titled 'Part 2: Filer's Employment Assets and Income'. The filer is identified as Donald J. Trump. The page is numbered 15 of 51. The main content is a table listing various assets, their value, and the income they generate. The table has columns for an item number, description, EIF, attached schedule reference number, value, income type, and income amount. A footer note explains the relationship with an accompanying schedule and a document control number 'HOUSE_OVERSIGHT_010631' is visible at the bottom right.",
+    "layout": "The document has a header section with the filer's name and page number, a main body consisting of a multi-row, multi-column table, and a footer section with explanatory text and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n15 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n013\nDJT AEROSPACE LLC\nUnderlying Assets: aircraft\nLocation: New York, NY\nSee attached schedule\nN/A\n039\n$1,000,001 - $5,000,000\nrent\nNone (or less than $201)\n014\nDJT HOLDINGS LLC\nValue reported reflects bank account only. Entity's other holdings and\nassets are reported elsewhere; see attached schedule. Holding company,\nNew York, NY\nN/A\n042\n$1,000,001 - $5,000,000\ninterest\n$15,001 - $50,000\n017\nDJT OPERATIONS I LLC\nUnderlying Assets: aircraft\nLocation: New York, NY\nSee attached schedule\nN/A\n046\nOver $50,000,000\nrent\n$1,000,001 - $5,000,000\n018\nDT CONNECT II LLC\nUnderlying Assets: aircraft\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n055\n$1,000,001 - $5,000,000\nNone (or less than $201)\n020\nDT DUBAI GOLF MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with DAMAC CRESCENT\nPROPERTIES LLC - value not readily ascertainable.\nManagement company, Dubai, UAE; See attached schedule.\nN/A\n059\n$1,001 - $15,000\nmanagement fees\n$12,984\n021\nDT HOME MARKS INTERNATIONAL LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with RNA RESOURCES\nGROUP LTD, DORYA INTERNATIONAL LLC, HOMESTUDIO\nINTERNATIONAL SA, WONU CO LTD - value not readily\nascertainable.\nLicense holder, New York, NY; See attached schedule.\nN/A\n063\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\n024\nExcel Venture I LLC\nUnderlying Assets: residential rental property\nLocation: St. Martin, French West Indies\nSee attached schedule\nN/A\n098\n$25,000,001 - $50,000,000\nrent\n$100,001 - $1,000,000\n026\nFifty-Seventh Street Associates LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n100\nOver $50,000,000\nrent\nOver $5,000,000\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010631",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n15 of 51\nPart 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n013\nDJT AEROSPACE LLC\nUnderlying Assets: aircraft\nLocation: New York, NY\nSee attached schedule\nN/A\n039\n$1,000,001 - $5,000,000\nrent\nNone (or less than $201)\n014\nDJT HOLDINGS LLC\nValue reported reflects bank account only. Entity's other holdings and\nassets are reported elsewhere; see attached schedule. Holding company,\nNew York, NY\nN/A\n042\n$1,000,001 - $5,000,000\ninterest\n$15,001 - $50,000\n017\nDJT OPERATIONS I LLC\nUnderlying Assets: aircraft\nLocation: New York, NY\nSee attached schedule\nN/A\n046\nOver $50,000,000\nrent\n$1,000,001 - $5,000,000\n018\nDT CONNECT II LLC\nUnderlying Assets: aircraft\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n055\n$1,000,001 - $5,000,000\nNone (or less than $201)\n020\nDT DUBAI GOLF MANAGER LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: management deal with DAMAC CRESCENT\nPROPERTIES LLC - value not readily ascertainable.\nManagement company, Dubai, UAE; See attached schedule.\nN/A\n059\n$1,001 - $15,000\nmanagement fees\n$12,984\n021\nDT HOME MARKS INTERNATIONAL LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: license deal with RNA RESOURCES\nGROUP LTD, DORYA INTERNATIONAL LLC, HOMESTUDIO\nINTERNATIONAL SA, WONU CO LTD - value not readily\nascertainable.\nLicense holder, New York, NY; See attached schedule.\nN/A\n063\n$1,001 - $15,000\nroyalties\n$100,001 - $1,000,000\n024\nExcel Venture I LLC\nUnderlying Assets: residential rental property\nLocation: St. Martin, French West Indies\nSee attached schedule\nN/A\n098\n$25,000,001 - $50,000,000\nrent\n$100,001 - $1,000,000\n026\nFifty-Seventh Street Associates LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n100\nOver $50,000,000\nrent\nOver $5,000,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical\nsequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010631",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DJT AEROSPACE LLC",
+      "DJT HOLDINGS LLC",
+      "DJT OPERATIONS I LLC",
+      "DT CONNECT II LLC",
+      "DT DUBAI GOLF MANAGER LLC",
+      "DAMAC CRESCENT PROPERTIES LLC",
+      "DT HOME MARKS INTERNATIONAL LLC",
+      "RNA RESOURCES GROUP LTD",
+      "DORYA INTERNATIONAL LLC",
+      "HOMESTUDIO INTERNATIONAL SA",
+      "WONU CO LTD",
+      "Excel Venture I LLC",
+      "Fifty-Seventh Street Associates LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Palm Beach, FL",
+      "Dubai, UAE",
+      "St. Martin, French West Indies"
+    ],
+    "document_numbers": [
+      "15 of 51",
+      "013",
+      "039",
+      "014",
+      "042",
+      "017",
+      "046",
+      "018",
+      "055",
+      "020",
+      "059",
+      "021",
+      "063",
+      "024",
+      "098",
+      "026",
+      "100",
+      "HOUSE_OVERSIGHT_010631"
+    ],
+    "financial_amounts": [
+      "$1,000,001 - $5,000,000",
+      "None (or less than $201)",
+      "$1,000,001 - $5,000,000",
+      "$15,001 - $50,000",
+      "Over $50,000,000",
+      "$1,000,001 - $5,000,000",
+      "$1,000,001 - $5,000,000",
+      "None (or less than $201)",
+      "$1,001 - $15,000",
+      "$12,984",
+      "$1,001 - $15,000",
+      "$100,001 - $1,000,000",
+      "$25,000,001 - $50,000,000",
+      "$100,001 - $1,000,000",
+      "Over $50,000,000",
+      "Over $5,000,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "New York, NY",
+        "Palm Beach, FL",
+        "Dubai, UAE",
+        "St. Martin, French West Indies"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010631"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The item numbers in the first column are not sequential (e.g., jumps from 014 to 017), which is explained in the footer note.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010631.jpg",
+  "house_oversight_id": "010631",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:00:09.157390Z",
+    "model": "gemini-2.5-pro"
+  }
+}

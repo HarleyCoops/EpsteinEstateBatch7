@@ -10,14 +10,7 @@ This will run through the night as there are literally thousands of files here.
 
 ### Latest Context Update
 
-**Latest Image Analysis:**
-- TRUMP MENTIONS DETECTED in newly processed images
-- Key characters identified: Trump mentioned in HOUSE_OVERSIGHT_010627.json, Trump mentioned in HOUSE_OVERSIGHT_010625.json, Trump mentioned in HOUSE_OVERSIGHT_010626.json
-- 10 new image analysis files processed
-
-**Latest Text Processing:**
-- 10 new text extraction files processed
-
+Processing files... Analysis summary will appear here as files are processed.
 
 *-Christian*
 
@@ -260,14 +253,7 @@ This enhancement maintains backward compatibility (existing JSONs remain valid) 
 
 ### Latest Context Update
 
-**Latest Image Analysis:**
-- TRUMP MENTIONS DETECTED in newly processed images
-- Key characters identified: Trump mentioned in HOUSE_OVERSIGHT_010627.json, Trump mentioned in HOUSE_OVERSIGHT_010625.json, Trump mentioned in HOUSE_OVERSIGHT_010626.json
-- 10 new image analysis files processed
-
-**Latest Text Processing:**
-- 10 new text extraction files processed
-
+Processing files... Analysis summary will appear here as files are processed.
 
 ### Latest Context Update
 

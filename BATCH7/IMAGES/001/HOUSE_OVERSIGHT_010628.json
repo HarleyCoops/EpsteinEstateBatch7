@@ -1,0 +1,145 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010628.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document titled 'Part 1: Filer's Positions Held Outside United States Government' for Donald J. Trump. It is page 12 of 51 of an OGE Form 278e. The document is a table listing various organizations, their location, type, the position held by the filer, and the dates the position was held.",
+    "layout": "The document has a header section with the form name, filer's name, and page number. The main body is a table with seven columns: '#', 'Organization Name', 'City/State', 'Organization Type', 'Position Held', 'From', and 'To'. A footer contains a note about gaps in the numerical sequence and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n12 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n501\nYorktown Real Estate LLC (F/K/A/ Yorktown Development Associates LLC)\nNew York, NY\nLLC\nMember/President\n09/30/97\n1/19/2017\n502\nThe Fred C. Trump December 16, 1976 Trust F/B/O Donald J. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n504\nThe Fred C. Trump December 16, 1976 Trust F/B/O Robert S. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n505\nThe Fred C. Trump December 16, 1976 Trust F/B/O Elizabeth J. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n509\nFred C. Trump, GRAT Trust- F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nNovember-97\n1/19/2017\n510\nTrust U/W/O Fred C. Trump- F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nApril-01\n1/19/2017\n511\nMaryanne Trump GRAT Trust F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nNovember-97\n1/19/2017\n512\nTrust U/W/O Fred C. Trump- F/B/O the grandchildren of Fred C. Trump\nNew York, NY\nTrust\nTrustee\nApril-01\n1/19/2017\n514\nThe Donald J. Trump grantor Trust - DJT is the Trustee Member - Trustee is Donald J. Trump, Jr.\nNew York, NY\nTrust\nTrustee\nNovember-97\n12/31/2016\n515\nThe Donald J. Trump Revocable Trust\nNew York, NY\nTrust\nTrustee\nApril-14\n1/19/2017\n516\nThe Police Athletic League, Inc.\nNew York, NY\nNon profit\nMember of the Board\nJuly-86\n1/19/2017\n517\nDT Bali Golf Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n518\nDT Bali Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n519\nDT Bali Hotel Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n520\nDT Bali Hotel Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n521\nDT Bali Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n522\nDT Bali Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n523\nDT Connect Europe Limited\nTurnberry, Scotland\nForeign Entity\nDirector\n02/13/15\n1/19/2017\n524\nDT Endeavor I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n525\nDT Endeavor I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n526\nDT Jeddah Technical Services Advisor LLC\nNew York, NY\nLLC\nMember/President\n08/21/15\n10/26/2015\n527\nDT Jeddah Technical Services Advisor Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/21/15\n10/22/2015\n528\nDT Jeddah Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n08/31/15\n11/15/2016\n529\nDT Jeddah Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/31/15\n11/15/2016\n530\nDT Lido Golf Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n531\nDT Lido Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n532\nDT Lido Hotel Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n533\nDT Lido Hotel Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n534\nDT Lido Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n535\nDT Lido Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n536\nDT Marks Bali LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n537\nDT Marks Bali Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n538\nDT Marks Lido LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n539\nDT Marks Lido Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n540\nDT Tower I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n541\nDT Tower I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n542\nDT Tower II LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n543\nDT Tower II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n544\nDT Tower Kolkata LLC\nNew York, NY\nLLC\nMember/President\n11/25/15\n1/19/2017\n545\nDT Tower Kolkata Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n11/25/15\n1/19/2017\n546\nDT Venture I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n547\nDT Venture I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n548\nDT Venture II LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n549\nDT Venture II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n550\nDTTM Operations LLC\nNew York, NY\nLLC\nMember/President\n01/15/16\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010628",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n12 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n501\nYorktown Real Estate LLC (F/K/A/ Yorktown Development Associates LLC)\nNew York, NY\nLLC\nMember/President\n09/30/97\n1/19/2017\n502\nThe Fred C. Trump December 16, 1976 Trust F/B/O Donald J. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n504\nThe Fred C. Trump December 16, 1976 Trust F/B/O Robert S. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n505\nThe Fred C. Trump December 16, 1976 Trust F/B/O Elizabeth J. Trump\nNew York, NY\nTrust\nTrustee\nDecember-76\n1/19/2017\n509\nFred C. Trump, GRAT Trust- F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nNovember-97\n1/19/2017\n510\nTrust U/W/O Fred C. Trump- F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nApril-01\n1/19/2017\n511\nMaryanne Trump GRAT Trust F/B/O Elizabeth Trump Grau\nNew York, NY\nTrust\nTrustee\nNovember-97\n1/19/2017\n512\nTrust U/W/O Fred C. Trump- F/B/O the grandchildren of Fred C. Trump\nNew York, NY\nTrust\nTrustee\nApril-01\n1/19/2017\n514\nThe Donald J. Trump grantor Trust - DJT is the Trustee Member - Trustee is Donald J. Trump, Jr.\nNew York, NY\nTrust\nTrustee\nNovember-97\n12/31/2016\n515\nThe Donald J. Trump Revocable Trust\nNew York, NY\nTrust\nTrustee\nApril-14\n1/19/2017\n516\nThe Police Athletic League, Inc.\nNew York, NY\nNon profit\nMember of the Board\nJuly-86\n1/19/2017\n517\nDT Bali Golf Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n518\nDT Bali Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n519\nDT Bali Hotel Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n520\nDT Bali Hotel Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n521\nDT Bali Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n522\nDT Bali Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n523\nDT Connect Europe Limited\nTurnberry, Scotland\nForeign Entity\nDirector\n02/13/15\n1/19/2017\n524\nDT Endeavor I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n525\nDT Endeavor I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n526\nDT Jeddah Technical Services Advisor LLC\nNew York, NY\nLLC\nMember/President\n08/21/15\n10/26/2015\n527\nDT Jeddah Technical Services Advisor Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/21/15\n10/22/2015\n528\nDT Jeddah Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n08/31/15\n11/15/2016\n529\nDT Jeddah Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/31/15\n11/15/2016\n530\nDT Lido Golf Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n531\nDT Lido Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n532\nDT Lido Hotel Manager LLC\nNew York, NY\nLLC\nPresident\n06/23/15\n1/19/2017\n533\nDT Lido Hotel Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n534\nDT Lido Technical Services Manager LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n535\nDT Lido Technical Services Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n536\nDT Marks Bali LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n537\nDT Marks Bali Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n538\nDT Marks Lido LLC\nNew York, NY\nLLC\nMember/President\n06/23/15\n1/19/2017\n539\nDT Marks Lido Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/23/15\n1/19/2017\n540\nDT Tower I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n541\nDT Tower I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n542\nDT Tower II LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n543\nDT Tower II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n544\nDT Tower Kolkata LLC\nNew York, NY\nLLC\nMember/President\n11/25/15\n1/19/2017\n545\nDT Tower Kolkata Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n11/25/15\n1/19/2017\n546\nDT Venture I LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n547\nDT Venture I Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n548\nDT Venture II LLC\nNew York, NY\nLLC\nPresident\n01/04/16\n1/19/2017\n549\nDT Venture II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/04/16\n1/19/2017\n550\nDTTM Operations LLC\nNew York, NY\nLLC\nMember/President\n01/15/16\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010628",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "1997-09-30",
+      "2017-01-19",
+      "1976-12",
+      "1997-11",
+      "2001-04",
+      "2016-12-31",
+      "2014-04",
+      "1986-07",
+      "2015-06-23",
+      "2015-02-13",
+      "2016-01-04",
+      "2015-08-21",
+      "2015-10-26",
+      "2015-10-22",
+      "2015-08-31",
+      "2016-11-15",
+      "2015-11-25",
+      "2016-01-15"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Fred C. Trump",
+      "Robert S. Trump",
+      "Elizabeth J. Trump",
+      "Elizabeth Trump Grau",
+      "Maryanne Trump",
+      "Donald J. Trump, Jr."
+    ],
+    "organizations": [
+      "Yorktown Real Estate LLC",
+      "Yorktown Development Associates LLC",
+      "The Fred C. Trump December 16, 1976 Trust",
+      "Fred C. Trump, GRAT Trust",
+      "Trust U/W/O Fred C. Trump",
+      "Maryanne Trump GRAT Trust",
+      "The Donald J. Trump grantor Trust",
+      "The Donald J. Trump Revocable Trust",
+      "The Police Athletic League, Inc.",
+      "DT Bali Golf Manager LLC",
+      "DT Bali Golf Manager Member Corp",
+      "DT Bali Hotel Manager LLC",
+      "DT Bali Hotel Manager Member Corp",
+      "DT Bali Technical Services Manager LLC",
+      "DT Bali Technical Services Manager Member Corp",
+      "DT Connect Europe Limited",
+      "DT Endeavor I LLC",
+      "DT Endeavor I Member Corp",
+      "DT Jeddah Technical Services Advisor LLC",
+      "DT Jeddah Technical Services Advisor Member Corp",
+      "DT Jeddah Technical Services Manager LLC",
+      "DT Jeddah Technical Services Manager Member Corp",
+      "DT Lido Golf Manager LLC",
+      "DT Lido Golf Manager Member Corp",
+      "DT Lido Hotel Manager LLC",
+      "DT Lido Hotel Manager Member Corp",
+      "DT Lido Technical Services Manager LLC",
+      "DT Lido Technical Services Manager Member Corp",
+      "DT Marks Bali LLC",
+      "DT Marks Bali Member Corp",
+      "DT Marks Lido LLC",
+      "DT Marks Lido Member Corp",
+      "DT Tower I LLC",
+      "DT Tower I Member Corp",
+      "DT Tower II LLC",
+      "DT Tower II Member Corp",
+      "DT Tower Kolkata LLC",
+      "DT Tower Kolkata Managing Member Corp",
+      "DT Venture I LLC",
+      "DT Venture I Member Corp",
+      "DT Venture II LLC",
+      "DT Venture II Member Corp",
+      "DTTM Operations LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Turnberry, Scotland"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010628",
+      "12 of 51"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists positions held by Donald J. Trump. The numerical sequence of the items in the first column has gaps, which a note at the bottom explains is due to the removal of previously reported items.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010628.jpg",
+  "house_oversight_id": "010628",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:58:28.031942Z",
+    "model": "gemini-2.5-pro"
+  }
+}

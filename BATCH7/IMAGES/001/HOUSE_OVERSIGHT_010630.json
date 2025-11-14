@@ -1,0 +1,145 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010630.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a completed OGE Form 278e, Part 2, titled 'Filer's Employment Assets and Income'. The form lists various assets, their value, and the income they generate. The filer's name is identified as Donald J. Trump. The document is page 14 of 51 and has a Bates number 'HOUSE_OVERSIGHT_010630' at the bottom right.",
+    "layout": "The document has a header section with the form title, filer's name, and page number. The main body is a table with seven columns: '#', 'Description', 'EIF', 'attached schedule (Part 2 - EXHIBIT A) Reference #', 'Value', 'Income Type', and 'Income Amount'. Below the table, there is a footer with a note about an accompanying schedule.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n14 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n002\n40 Wall Street LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n005\nOver $50,000,000\nrent\nOver $5,000,000\n004\n401 North Wabash Venture LLC\nUnderlying Assets: residential & commercial real estate\nLocation: Chicago, IL\nSee attached schedule\nN/A\n008\nOver $50,000,000\nrent\ncondo sales\nOver $5,000,000\n$90,249\n005\n809 NORTH CANON LLC\nUnderlying Assets: residential real estate\nLocation: Beverly Hills, CA\nSee attached schedule\nN/A\n009\n$5,000,001 - $25,000,000\nNone (or less than $201)\n007\n845 UN Limited Partnership\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n012\n$5,000,001 - $25,000,000\nrent\n$1,000,001 - $5,000,000\n008\nCaribusiness Investments, S.R.L.\nUnderlying Assets: land\nLocation: Dominican Republic\nSee attached schedule\nN/A\n025\n$1,000,001 - $5,000,000\nNone (or less than $201)\n010\nCountry Apartments, LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nEntity set up to buy & sell residential real estate, New York, NY; See attached schedule\nN/A\n032\n$1,001 - $15,000\nNone (or less than $201)\n011\nCountry Properties, LLC\nUnderlying Assets: residential real estate\nLocation: Norfolk, VA\nSee attached schedule\nN/A\n034\n$50,001 - $100,000\nNone (or less than $201)\n012\nD B Pace Acquisition, LLC\nUnderlying Assets: land, building and ff&e\nLocation: New York, NY\nSee attached schedule\nN/A\n036\n$1,000,001 - $5,000,000\nNone (or less than $201)\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010630",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n14 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule (Part 2 - EXHIBIT A) Reference #\nValue\nIncome Type\nIncome Amount\n002\n40 Wall Street LLC\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n005\nOver $50,000,000\nrent\nOver $5,000,000\n004\n401 North Wabash Venture LLC\nUnderlying Assets: residential & commercial real estate\nLocation: Chicago, IL\nSee attached schedule\nN/A\n008\nOver $50,000,000\nrent\ncondo sales\nOver $5,000,000\n$90,249\n005\n809 NORTH CANON LLC\nUnderlying Assets: residential real estate\nLocation: Beverly Hills, CA\nSee attached schedule\nN/A\n009\n$5,000,001 - $25,000,000\nNone (or less than $201)\n007\n845 UN Limited Partnership\nUnderlying Assets: commercial real estate\nLocation: New York, NY\nSee attached schedule\nN/A\n012\n$5,000,001 - $25,000,000\nrent\n$1,000,001 - $5,000,000\n008\nCaribusiness Investments, S.R.L.\nUnderlying Assets: land\nLocation: Dominican Republic\nSee attached schedule\nN/A\n025\n$1,000,001 - $5,000,000\nNone (or less than $201)\n010\nCountry Apartments, LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: none\nEntity set up to buy & sell residential real estate, New York, NY; See attached schedule\nN/A\n032\n$1,001 - $15,000\nNone (or less than $201)\n011\nCountry Properties, LLC\nUnderlying Assets: residential real estate\nLocation: Norfolk, VA\nSee attached schedule\nN/A\n034\n$50,001 - $100,000\nNone (or less than $201)\n012\nD B Pace Acquisition, LLC\nUnderlying Assets: land, building and ff&e\nLocation: New York, NY\nSee attached schedule\nN/A\n036\n$1,000,001 - $5,000,000\nNone (or less than $201)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010630",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "40 Wall Street LLC",
+      "401 North Wabash Venture LLC",
+      "809 NORTH CANON LLC",
+      "845 UN Limited Partnership",
+      "Caribusiness Investments, S.R.L.",
+      "Country Apartments, LLC",
+      "Country Properties, LLC",
+      "D B Pace Acquisition, LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Chicago, IL",
+      "Beverly Hills, CA",
+      "Dominican Republic",
+      "Norfolk, VA"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "14 of 51",
+      "HOUSE_OVERSIGHT_010630",
+      "002",
+      "004",
+      "005",
+      "007",
+      "008",
+      "010",
+      "011",
+      "012",
+      "005",
+      "008",
+      "009",
+      "012",
+      "025",
+      "032",
+      "034",
+      "036"
+    ],
+    "financial_amounts": [
+      "Over $50,000,000",
+      "Over $5,000,000",
+      "$90,249",
+      "$5,000,001 - $25,000,000",
+      "None (or less than $201)",
+      "$1,000,001 - $5,000,000",
+      "$1,001 - $15,000",
+      "$50,001 - $100,000",
+      "$1,000,001 - $5,000,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "New York, NY",
+        "Chicago, IL",
+        "Beverly Hills, CA",
+        "Dominican Republic",
+        "Norfolk, VA"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010630"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The footer indicates that the information is reported as of April 15, 2017, and that an accompanying schedule (Part 2 - Exhibit A) contains more details.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010630.jpg",
+  "house_oversight_id": "010630",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:59:36.584738Z",
+    "model": "gemini-2.5-pro"
+  }
+}

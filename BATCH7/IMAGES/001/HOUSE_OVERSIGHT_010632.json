@@ -1,0 +1,119 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010632.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a financial disclosure form titled 'Part 2: Filer's Employment Assets and Income' for Donald J. Trump. The page is numbered 16 of 51 and contains a table listing various assets, their values, and income generated. A document control number 'HOUSE_OVERSIGHT_010632' is visible at the bottom.",
+    "layout": "The document has a header with the filer's name, form part title, and page number. The main body is a table with seven columns and multiple rows detailing financial assets. A footer contains an explanatory note and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filer's Name\nDonald J. Trump\nPage Number\n16 of 51\nPart 2: Filer's Employment Assets and Income\n#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n030\nTRUMP NATIONAL GOLF CLUB - JUPITER\nUnderlying Assets: golf club\nLocation: Jupiter, FL\nSee attached schedule\nN/A\n117\nOver $50,000,000\ngolf related revenue\n$20,131,872\n031\nLAMINGTON FAMILY HOLDINGS LLC\nUnderlying Assets: land\nLocation: Bedminster, NJ\nSee attached schedule\nN/A\n119\n$100,001 - $250,000\nNone (or less than $201)\n032\nTRUMP NATIONAL GOLF CLUB - BEDMINSTER\nUnderlying Assets: golf club\nLocation: Bedminster, NJ\nSee attached schedule\nN/A\n120\nOver $50,000,000\ngolf related revenue\n$19,752,500\n034\nMAR-A-LAGO CLUB, L.L.C.\nUnderlying Assets: resort\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n126\nOver $50,000,000\nresort related revenue\n$37,251,635\n036\nPINE HILL DEVELOPMENT LLC\nUnderlying Assets: golf club\nLocation: Pine Hill, NJ\nSee attached schedule\nN/A\n142\n$100,001 - $250,000\nNone (or less than $201)\n037\nSeven Springs LLC\nUnderlying Assets: real estate\nLocation: Mt. Kisco, NY\nSee attached schedule\nN/A\n153\n$25,000,001 - $50,000,000\ninterest\n$2,501 - $5,000\n038\nTRUMP TURNBERRY\nUnderlying Assets: golf courses and resort\nLocation: Turnberry, Scotland\nSee attached schedule\nN/A\n157\nOver $50,000,000\ngolf related revenue\n$14,487,619\n039\nT International Realty LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: brokerage company - value not readily\nascertainable. Brokerage company, New York, NY; see attached schedule\nN/A\n160\n$250,001 - $500,000\ncommissions\n$3,374,860\n040\nTHC CENTRAL RESERVATIONS LLC\nUnderlying Assets: hotel company\nLocation: New York, NY\nSee attached schedule\nN/A\n167\n$50,001 - $100,000\nNone (or less than $201)\nTHE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010632",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n16 of 51\nPart 2: Filer's Employment Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nattached schedule\n(Part 2 - EXHIBIT A)\nReference #\nValue\nIncome Type\nIncome Amount\n030\nTRUMP NATIONAL GOLF CLUB - JUPITER\nUnderlying Assets: golf club\nLocation: Jupiter, FL\nSee attached schedule\nN/A\n117\nOver $50,000,000\ngolf related revenue\n$20,131,872\n031\nLAMINGTON FAMILY HOLDINGS LLC\nUnderlying Assets: land\nLocation: Bedminster, NJ\nSee attached schedule\nN/A\n119\n$100,001 - $250,000\nNone (or less than $201)\n032\nTRUMP NATIONAL GOLF CLUB - BEDMINSTER\nUnderlying Assets: golf club\nLocation: Bedminster, NJ\nSee attached schedule\nN/A\n120\nOver $50,000,000\ngolf related revenue\n$19,752,500\n034\nMAR-A-LAGO CLUB, L.L.C.\nUnderlying Assets: resort\nLocation: Palm Beach, FL\nSee attached schedule\nN/A\n126\nOver $50,000,000\nresort related revenue\n$37,251,635\n036\nPINE HILL DEVELOPMENT LLC\nUnderlying Assets: golf club\nLocation: Pine Hill, NJ\nSee attached schedule\nN/A\n142\n$100,001 - $250,000\nNone (or less than $201)\n037\nSeven Springs LLC\nUnderlying Assets: real estate\nLocation: Mt. Kisco, NY\nSee attached schedule\nN/A\n153\n$25,000,001 - $50,000,000\ninterest\n$2,501 - $5,000\n038\nTRUMP TURNBERRY\nUnderlying Assets: golf courses and resort\nLocation: Turnberry, Scotland\nSee attached schedule\nN/A\n157\nOver $50,000,000\ngolf related revenue\n$14,487,619\n039\nT International Realty LLC\nValue reported reflects bank account holding only.\nAdditional Underlying Asset: brokerage company - value not readily\nascertainable. Brokerage company, New York, NY; see attached schedule\nN/A\n160\n$250,001 - $500,000\ncommissions\n$3,374,860\n040\nTHC CENTRAL RESERVATIONS LLC\nUnderlying Assets: hotel company\nLocation: New York, NY\nSee attached schedule\nN/A\n167\n$50,001 - $100,000\nNone (or less than $201)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "THE ACCOMPANYING SCHEDULE (PART 2 - EXHIBIT A) IS AN INTEGRAL PART OF THE ABOVE AND SHOULD BE READ IN CONJUNCTION THEREWITH. Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010632",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP NATIONAL GOLF CLUB - JUPITER",
+      "LAMINGTON FAMILY HOLDINGS LLC",
+      "TRUMP NATIONAL GOLF CLUB - BEDMINSTER",
+      "MAR-A-LAGO CLUB, L.L.C.",
+      "PINE HILL DEVELOPMENT LLC",
+      "Seven Springs LLC",
+      "TRUMP TURNBERRY",
+      "T International Realty LLC",
+      "THC CENTRAL RESERVATIONS LLC"
+    ],
+    "locations": [
+      "Jupiter, FL",
+      "Bedminster, NJ",
+      "Palm Beach, FL",
+      "Pine Hill, NJ",
+      "Mt. Kisco, NY",
+      "Turnberry, Scotland",
+      "New York, NY"
+    ],
+    "document_numbers": [
+      "16 of 51",
+      "117",
+      "119",
+      "120",
+      "126",
+      "142",
+      "153",
+      "157",
+      "160",
+      "167",
+      "HOUSE_OVERSIGHT_010632"
+    ],
+    "financial_amounts": [
+      "Over $50,000,000",
+      "$20,131,872",
+      "$100,001 - $250,000",
+      "None (or less than $201)",
+      "$19,752,500",
+      "$37,251,635",
+      "$25,000,001 - $50,000,000",
+      "$2,501 - $5,000",
+      "$14,487,619",
+      "$250,001 - $500,000",
+      "$3,374,860",
+      "$50,001 - $100,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Employment Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "Part 2 - EXHIBIT A"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The numbering of items in the first column is not sequential (e.g., jumps from 032 to 034). A note at the bottom explains this is due to the removal of items no longer reportable.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010632.jpg",
+  "house_oversight_id": "010632",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:00:44.025245Z",
+    "model": "gemini-2.5-pro"
+  }
+}
