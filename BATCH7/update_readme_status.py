@@ -69,8 +69,13 @@ def update_readme(base_dir: Path) -> bool:
         if "{LAST_GIT_COMMIT_TIME}" in content:
             content = content.replace("{LAST_GIT_COMMIT_TIME}", last_commit_time)
         
-        # Also replace any hardcoded timestamp pattern
+        # Also replace any hardcoded timestamp pattern OR corrupted "P25" pattern
         import re
+        
+        # Fix corrupted "P25" pattern first (encoding issue)
+        if 'P25-' in content:
+            content = re.sub(r'P25-\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}', '**Last Update:** ' + last_commit_time, content)
+        
         # Pattern to match: **Last Update:** followed by timestamp (with or without UTC)
         pattern = r'(\*\*Last Update:\*\*\s*)\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(\s*(?:UTC)?\s*\n)'
         if re.search(pattern, content):
@@ -89,7 +94,8 @@ def update_readme(base_dir: Path) -> bool:
         # Only write if changed
         if content != original_content:
             try:
-                with open(readme_path, 'w', encoding='utf-8') as f:
+                # Write with UTF-8 encoding without BOM
+                with open(readme_path, 'w', encoding='utf-8', newline='') as f:
                     f.write(content)
                 print(f"Updated {readme_path.name} with last commit time: {last_commit_time}")
                 updated_count += 1

@@ -1,0 +1,85 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010724.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed letter, identified as page 2. The document is on white paper with black text. It appears to be a formal correspondence related to a legal matter involving Jeffrey Epstein.",
+    "layout": "The document has a header at the top left, followed by the main body of text organized into several paragraphs. There is a line of three asterisks separating paragraphs in the middle of the page. A footer with a document identifier is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Honorable Mark Filip\nMay 19, 2008\nPage 2\n\nBy way of background, we were informed by Mr. Acosta that, at his request, CEOS\nwould be conducting a review to determine whether federal prosecution was both appropriate\nand, in his words, “fair.” That is not what occurred. Instead, CEOS has now acknowledged that\nwe had raised “many compelling arguments” against the USAO’s suggested “novel application”\nof federal law in this matter. Even so, CEOS concluded, in minimalist fashion, that “we do not\nsee anything that says to us categorically that a federal case should not be brought” and that the\nU.S. Attorney “would not be abusing his prosecutorial discretion should he authorize federal\nprosecution of Mr. Epstein,” thus delegating back to Mr. Acosta the decision of whether federal\nprosecution was warranted (emphasis added). Rather than assessing whether prosecution would\nbe appropriate, CEOS, using a low baseline for its evaluation, determined only that “it would not\nbe impossible to prove . . .” certain allegations made against Mr. Epstein. The CEOS review\nfailed to address the significant problems involving the appearance of impermissible selectivity\nthat would necessarily result from a federal prosecution of Mr. Epstein.\n\nWe respect CEOS’s conclusion that its authority to review “misconduct” issues was\nprecluded by Criminal Division practice. We further respect CEOS’s view that it understood its\nmission as significantly limited. Specifically, the contemplated objective was to determine\nwhether the USAO would be abusing its discretion by bringing a federal prosecution rather than\nmaking its own de novo recommendations on the appropriate reach of federal law. However, we\nrespectfully submit that a full review of all the facts is urgently needed at senior levels of the\nJustice Department. In an effort to inform you of the nature of the federal investigation against\nMr. Epstein, we summarize the facts and circumstances of this matter below.\n\nThe two base-level concerns we hold are that (1) federal prosecution of this matter is not\nwarranted based on the purely-local conduct and the unprecedented application of federal\nstatutes to facts such as these and (2) the actions of federal authorities are both highly\nquestionable and give rise to an appearance of substantial impropriety. The issues that we have\nraised, but which have not yet been addressed or resolved by the Department, are more than\nisolated allegations of professional mistakes or misconduct. These issues, instead, affect the\nappearance and administration of criminal justice with profound consequences beyond the\nresolution in the matter at hand.\n\n*\t*\t*\n\nIn a precedent-shattering investigation of Jeffrey Epstein that raises important policy\nquestions—and serious issues as to the fair and honorable enforcement of federal law—the\nUSAO in Miami is considering extending federal law beyond the bounds of precedent and\nreason. Federal prosecutors stretched the underlying facts in ways that raise fundamental\nquestions of basic professionalism. Perhaps most troubling, the USAO in Miami, as a condition\nof deferring prosecution, required a commingling of substantive federal criminal law with a\nproposed civil remedy engineered in a way that appears intended to profit particular lawyers in\n\nHOUSE_OVERSIGHT_010724",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Honorable Mark Filip\nMay 19, 2008\nPage 2",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "By way of background, we were informed by Mr. Acosta that, at his request, CEOS\nwould be conducting a review to determine whether federal prosecution was both appropriate\nand, in his words, “fair.” That is not what occurred. Instead, CEOS has now acknowledged that\nwe had raised “many compelling arguments” against the USAO’s suggested “novel application”\nof federal law in this matter. Even so, CEOS concluded, in minimalist fashion, that “we do not\nsee anything that says to us categorically that a federal case should not be brought” and that the\nU.S. Attorney “would not be abusing his prosecutorial discretion should he authorize federal\nprosecution of Mr. Epstein,” thus delegating back to Mr. Acosta the decision of whether federal\nprosecution was warranted (emphasis added). Rather than assessing whether prosecution would\nbe appropriate, CEOS, using a low baseline for its evaluation, determined only that “it would not\nbe impossible to prove . . .” certain allegations made against Mr. Epstein. The CEOS review\nfailed to address the significant problems involving the appearance of impermissible selectivity\nthat would necessarily result from a federal prosecution of Mr. Epstein.\n\nWe respect CEOS’s conclusion that its authority to review “misconduct” issues was\nprecluded by Criminal Division practice. We further respect CEOS’s view that it understood its\nmission as significantly limited. Specifically, the contemplated objective was to determine\nwhether the USAO would be abusing its discretion by bringing a federal prosecution rather than\nmaking its own de novo recommendations on the appropriate reach of federal law. However, we\nrespectfully submit that a full review of all the facts is urgently needed at senior levels of the\nJustice Department. In an effort to inform you of the nature of the federal investigation against\nMr. Epstein, we summarize the facts and circumstances of this matter below.\n\nThe two base-level concerns we hold are that (1) federal prosecution of this matter is not\nwarranted based on the purely-local conduct and the unprecedented application of federal\nstatutes to facts such as these and (2) the actions of federal authorities are both highly\nquestionable and give rise to an appearance of substantial impropriety. The issues that we have\nraised, but which have not yet been addressed or resolved by the Department, are more than\nisolated allegations of professional mistakes or misconduct. These issues, instead, affect the\nappearance and administration of criminal justice with profound consequences beyond the\nresolution in the matter at hand.\n\n*\t*\t*\n\nIn a precedent-shattering investigation of Jeffrey Epstein that raises important policy\nquestions—and serious issues as to the fair and honorable enforcement of federal law—the\nUSAO in Miami is considering extending federal law beyond the bounds of precedent and\nreason. Federal prosecutors stretched the underlying facts in ways that raise fundamental\nquestions of basic professionalism. Perhaps most troubling, the USAO in Miami, as a condition\nof deferring prosecution, required a commingling of substantive federal criminal law with a\nproposed civil remedy engineered in a way that appears intended to profit particular lawyers in",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010724",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-05-19"
+    ],
+    "people": [
+      "Mark Filip",
+      "Mr. Acosta",
+      "Mr. Epstein",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CEOS",
+      "USAO",
+      "U.S. Attorney",
+      "Criminal Division",
+      "Justice Department",
+      "Department"
+    ],
+    "locations": [
+      "Miami"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010724"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": null,
+    "recipient": "Honorable Mark Filip",
+    "subject": "Federal prosecution of Jeffrey Epstein",
+    "date": "2008-05-19",
+    "references": [
+      "HOUSE_OVERSIGHT_010724"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is page 2 of a letter, so the sender's information is likely on the first page and is not visible here. The content discusses the legal and procedural aspects of a federal investigation into Jeffrey Epstein, specifically questioning the actions and decisions of the USAO in Miami and a review by an entity referred to as CEOS.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010724.jpg",
+  "house_oversight_id": "010724",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:01:32.417911Z",
+    "model": "gemini-2.5-pro"
+  }
+}
