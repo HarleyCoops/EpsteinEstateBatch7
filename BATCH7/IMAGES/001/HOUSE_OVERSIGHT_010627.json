@@ -1,0 +1,187 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010627.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a single page from a financial disclosure form, specifically OGE Form 278e, filed by Donald J. Trump. This page, numbered 11 of 51, lists positions held outside the U.S. government. The document is a table with columns for organization name, location, organization type, position held, and the start and end dates of the position. A Bates stamp 'HOUSE_OVERSIGHT_010627' is visible at the bottom right.",
+    "layout": "The document has a header with the form title, filer's name, and part title. The main body consists of a multi-column table. A footer contains a note about the data, and a document identifier is stamped in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n11 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n454\nTrump Sales & Leasing Chicago Member Corp.\nChicago, IL\nCorporation\nMember/Director/President\n10/20/09 & 10/21/09 & 10/21/09\n1/19/2017\n455\nTrump Scotland Member Inc\nAberdeen, Scotland\nCorporation\nDirector/President/Chairman\n03/01/06\n1/19/2017\n456\nTrump Scotsborough Square LLC\nScotsborough Sq, VA\nLLC\nPresident\n07/07/11\n1/19/2017\n457\nTrump Scotsborough Square Member Corp.\nScotsborough Sq, VA\nCorporation\nPresident/Chairman/Director\n07/07/11\n1/19/2017\n458\nTrump SoHo Hotel Condominium New York\nNew York, NY\nCondominium Association\nMember of the Board\n08/03/07\n1/19/2017\n459\nTrump SoHo Member LLC\nNew York, NY\nLLC\nMember/President\n04/24/06\n1/19/2017\n460\nTrump Toronto Development Inc\nNew York, NY\nCorporation\nPresident/Director/Secretary\n04/02/03\n1/19/2017\n461\nTrump Toronto Hotel Management Corp.\nToronto, CA\nCorporation\nPresident\n05/30/08\n1/19/2017\n462\nTrump Toronto Member Corp. (formally Trump Toronto Management Member Corp)\nNew York, NY\nCorporation\nDirector/Chairman\n03/19/08\n1/19/2017\n463\nTrump Tower Commercial LLC\nNew York, NY\nLLC\nPresident\n12/22/97\n1/19/2017\n464\nTrump Tower Condominium Residential Section\nNew York, NY\nCondominium Association\nPresident\n03/23/83\n1/19/2017\n465\nTrump Tower Managing Member Inc\nNew York, NY\nCorporation\nPresident\n12/22/97\n1/19/2017\n466\nTrump Village Construction Corp.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n467\nTrump Vineyard Estates LLC\nNew York, NY\nLLC\nPresident\n03/18/11\n1/19/2017\n468\nTrump Vineyard Estates Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/18/11\n1/19/2017\n469\nTrump Vineyard Estates Lot 3 Owner LLC (fka Eric Trump Land Holdings LLC)\nNew York, NY\nLLC\nPresident\n08/15/11\n1/19/2017\n470\nTrump Vineyard Estates Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/18/11\n1/19/2017\n471\nTrump Virginia Acquisitions LLC (fka Virginia Acquisitions LLC)\nNew York, NY\nLLC\nMember/President\n3/4/2011 & 1/25/11\n1/19/2017\n472\nTrump Virginia Acquisitions Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/15/11\n1/19/2017\n473\nTrump Virginia Lot 5 LLC\nNew York, NY\nLLC\nPresident\n06/28/11\n1/19/2017\n474\nTrump Virginia Lot 5 Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/28/11\n1/19/2017\n475\nTrump Wine Marks LLC\nNew York, NY\nLLC\nPresident/Secretary/Treasurer\n06/21/11\n1/19/2017\n476\nTrump Wine Marks Member Corp.\nNew York, NY\nCorporation\nDirector & Chairman/ President\n6/21/2011 & 6/21/08\n1/19/2017\n477\nTrump World Productions LLC\nNew York, NY\nLLC\nMember/President\n09/29/11\n1/19/2017\n478\nTrump World Productions Manager Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/29/11\n1/19/2017\n479\nTrump World Publications LLC\nNew York, NY\nLLC\nMember/President\n09/29/11\n1/19/2017\n480\nTrump/New World Property Management LLC\nNew York, NY\nLLC\nPresident\n11/22/00\n1/19/2017\n481\nTrump's Castle Management Corp\nAtlantic City, NJ\nCorporation\nPresident\n03/24/92\n1/19/2017\n482\nTrump Marks White Plains Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n1/19/2017\n484\nTurnberry Scotland Managing Member Corp\nTurnberry, Scotland\nCorporation\nDirector/Chairman/President\n04/09/14\n1/19/2017\n485\nTurnberry Scotland LLC\nTurnberry, Scotland\nLLC\nPresident\n04/09/14\n1/19/2017\n486\nTW Venture I LLC\nPalm Beach, Florida\nLLC\nPresident\n11/19/13\n1/19/2017\n487\nTW Venture II LLC\nDoonbeg, Ireland\nLLC\nPresident\n01/31/14\n1/19/2017\n488\nTW Venture I Managing Member Corp\nPalm Beach, Florida\nCorporation\nPresident/Director/Chairman\n11/19/13\n1/19/2017\n489\nTW Venture II Managing Member Corp\nDoonbeg, Ireland\nCorporation\nPresident/Director/Chairman\n01/31/14\n1/19/2017\n490\nUltimate Air Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Secretary/Director\n4/16/96 & 12/9/1993\n1/19/2017\n491\nUnit 2502 Enterprises Corp\nChicago, IL\nCorporation\nPresident/Director\n07/21/08\n1/19/2017\n492\nUnit 2502 Enterprises LLC\nChicago, IL\nLLC\nMember/President\n7/16/08 & 7/18/08\n1/19/2017\n493\nVH Property Corp (Trump National Golf Club - Los Angeles)\nLos Angeles, CA\nCorporation\nSecretary/President/Director\n9/22/00 & 12/2/02 11/26/02 & 11/25/02\n1/19/2017\n494\nVHPS LLC\nLos Angeles, CA\nLLC\nPresident/Member\n5/28/08 & 12/1/04\n1/19/2017\n495\nWest Palm Operations LLC\nWPB, Florida\nLLC\nMember/President\n8/27/10 & 9/1/10\n1/19/2017\n496\nWexford Hall Inc.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n497\nWhite Course LLC\nMiami, Florida\nLLC\nPresident\n03/20/12\n1/19/2017\n498\nWhite Course Managing Member Corp\nMiami, Florida\nCorporation\nDirector/Chairman/President\n03/20/12\n1/19/2017\n499\nWilshire Hall LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n500\nWollman Rink Operations LLC\nNew York, NY\nLLC\nMember/President\n9/24/01 & 11/1/01\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010627",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n11 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n454\nTrump Sales & Leasing Chicago Member Corp.\nChicago, IL\nCorporation\nMember/Director/President\n10/20/09 & 10/21/09 & 10/21/09\n1/19/2017\n455\nTrump Scotland Member Inc\nAberdeen, Scotland\nCorporation\nDirector/President/Chairman\n03/01/06\n1/19/2017\n456\nTrump Scotsborough Square LLC\nScotsborough Sq, VA\nLLC\nPresident\n07/07/11\n1/19/2017\n457\nTrump Scotsborough Square Member Corp.\nScotsborough Sq, VA\nCorporation\nPresident/Chairman/Director\n07/07/11\n1/19/2017\n458\nTrump SoHo Hotel Condominium New York\nNew York, NY\nCondominium Association\nMember of the Board\n08/03/07\n1/19/2017\n459\nTrump SoHo Member LLC\nNew York, NY\nLLC\nMember/President\n04/24/06\n1/19/2017\n460\nTrump Toronto Development Inc\nNew York, NY\nCorporation\nPresident/Director/Secretary\n04/02/03\n1/19/2017\n461\nTrump Toronto Hotel Management Corp.\nToronto, CA\nCorporation\nPresident\n05/30/08\n1/19/2017\n462\nTrump Toronto Member Corp. (formally Trump Toronto Management Member Corp)\nNew York, NY\nCorporation\nDirector/Chairman\n03/19/08\n1/19/2017\n463\nTrump Tower Commercial LLC\nNew York, NY\nLLC\nPresident\n12/22/97\n1/19/2017\n464\nTrump Tower Condominium Residential Section\nNew York, NY\nCondominium Association\nPresident\n03/23/83\n1/19/2017\n465\nTrump Tower Managing Member Inc\nNew York, NY\nCorporation\nPresident\n12/22/97\n1/19/2017\n466\nTrump Village Construction Corp.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n467\nTrump Vineyard Estates LLC\nNew York, NY\nLLC\nPresident\n03/18/11\n1/19/2017\n468\nTrump Vineyard Estates Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/18/11\n1/19/2017\n469\nTrump Vineyard Estates Lot 3 Owner LLC (fka Eric Trump Land Holdings LLC)\nNew York, NY\nLLC\nPresident\n08/15/11\n1/19/2017\n470\nTrump Vineyard Estates Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/18/11\n1/19/2017\n471\nTrump Virginia Acquisitions LLC (fka Virginia Acquisitions LLC)\nNew York, NY\nLLC\nMember/President\n3/4/2011 & 1/25/11\n1/19/2017\n472\nTrump Virginia Acquisitions Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/15/11\n1/19/2017\n473\nTrump Virginia Lot 5 LLC\nNew York, NY\nLLC\nPresident\n06/28/11\n1/19/2017\n474\nTrump Virginia Lot 5 Manager Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/28/11\n1/19/2017\n475\nTrump Wine Marks LLC\nNew York, NY\nLLC\nPresident/Secretary/Treasurer\n06/21/11\n1/19/2017\n476\nTrump Wine Marks Member Corp.\nNew York, NY\nCorporation\nDirector & Chairman/ President\n6/21/2011 & 6/21/08\n1/19/2017\n477\nTrump World Productions LLC\nNew York, NY\nLLC\nMember/President\n09/29/11\n1/19/2017\n478\nTrump World Productions Manager Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/29/11\n1/19/2017\n479\nTrump World Publications LLC\nNew York, NY\nLLC\nMember/President\n09/29/11\n1/19/2017\n480\nTrump/New World Property Management LLC\nNew York, NY\nLLC\nPresident\n11/22/00\n1/19/2017\n481\nTrump's Castle Management Corp\nAtlantic City, NJ\nCorporation\nPresident\n03/24/92\n1/19/2017\n482\nTrump Marks White Plains Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n1/19/2017\n484\nTurnberry Scotland Managing Member Corp\nTurnberry, Scotland\nCorporation\nDirector/Chairman/President\n04/09/14\n1/19/2017\n485\nTurnberry Scotland LLC\nTurnberry, Scotland\nLLC\nPresident\n04/09/14\n1/19/2017\n486\nTW Venture I LLC\nPalm Beach, Florida\nLLC\nPresident\n11/19/13\n1/19/2017\n487\nTW Venture II LLC\nDoonbeg, Ireland\nLLC\nPresident\n01/31/14\n1/19/2017\n488\nTW Venture I Managing Member Corp\nPalm Beach, Florida\nCorporation\nPresident/Director/Chairman\n11/19/13\n1/19/2017\n489\nTW Venture II Managing Member Corp\nDoonbeg, Ireland\nCorporation\nPresident/Director/Chairman\n01/31/14\n1/19/2017\n490\nUltimate Air Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Secretary/Director\n4/16/96 & 12/9/1993\n1/19/2017\n491\nUnit 2502 Enterprises Corp\nChicago, IL\nCorporation\nPresident/Director\n07/21/08\n1/19/2017\n492\nUnit 2502 Enterprises LLC\nChicago, IL\nLLC\nMember/President\n7/16/08 & 7/18/08\n1/19/2017\n493\nVH Property Corp (Trump National Golf Club - Los Angeles)\nLos Angeles, CA\nCorporation\nSecretary/President/Director\n9/22/00 & 12/2/02 11/26/02 & 11/25/02\n1/19/2017\n494\nVHPS LLC\nLos Angeles, CA\nLLC\nPresident/Member\n5/28/08 & 12/1/04\n1/19/2017\n495\nWest Palm Operations LLC\nWPB, Florida\nLLC\nMember/President\n8/27/10 & 9/1/10\n1/19/2017\n496\nWexford Hall Inc.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n497\nWhite Course LLC\nMiami, Florida\nLLC\nPresident\n03/20/12\n1/19/2017\n498\nWhite Course Managing Member Corp\nMiami, Florida\nCorporation\nDirector/Chairman/President\n03/20/12\n1/19/2017\n499\nWilshire Hall LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n500\nWollman Rink Operations LLC\nNew York, NY\nLLC\nMember/President\n9/24/01 & 11/1/01\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010627",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2009-10-20",
+      "2009-10-21",
+      "2017-01-19",
+      "2006-03-01",
+      "2011-07-07",
+      "2007-08-03",
+      "2006-04-24",
+      "2003-04-02",
+      "2008-05-30",
+      "2008-03-19",
+      "1997-12-22",
+      "1983-03-23",
+      "1969-08-01",
+      "2011-03-18",
+      "2011-08-15",
+      "2011-03-04",
+      "2011-01-25",
+      "2011-03-15",
+      "2011-06-28",
+      "2011-06-21",
+      "2008-06-21",
+      "2011-09-29",
+      "2000-11-22",
+      "1992-03-24",
+      "2007-06-13",
+      "2014-04-09",
+      "2013-11-19",
+      "2014-01-31",
+      "1996-04-16",
+      "1993-12-09",
+      "2008-07-21",
+      "2008-07-16",
+      "2008-07-18",
+      "2000-09-22",
+      "2002-12-02",
+      "2002-11-26",
+      "2002-11-25",
+      "2008-05-28",
+      "2004-12-01",
+      "2010-08-27",
+      "2010-09-01",
+      "2012-03-20",
+      "1995-11-22",
+      "2001-09-24",
+      "2001-11-01"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Eric Trump"
+    ],
+    "organizations": [
+      "Trump Sales & Leasing Chicago Member Corp.",
+      "Trump Scotland Member Inc",
+      "Trump Scotsborough Square LLC",
+      "Trump Scotsborough Square Member Corp.",
+      "Trump SoHo Hotel Condominium New York",
+      "Trump SoHo Member LLC",
+      "Trump Toronto Development Inc",
+      "Trump Toronto Hotel Management Corp.",
+      "Trump Toronto Member Corp. (formally Trump Toronto Management Member Corp)",
+      "Trump Tower Commercial LLC",
+      "Trump Tower Condominium Residential Section",
+      "Trump Tower Managing Member Inc",
+      "Trump Village Construction Corp.",
+      "Trump Vineyard Estates LLC",
+      "Trump Vineyard Estates Manager Corp.",
+      "Trump Vineyard Estates Lot 3 Owner LLC (fka Eric Trump Land Holdings LLC)",
+      "Trump Virginia Acquisitions LLC (fka Virginia Acquisitions LLC)",
+      "Trump Virginia Acquisitions Manager Corp.",
+      "Trump Virginia Lot 5 LLC",
+      "Trump Virginia Lot 5 Manager Corp.",
+      "Trump Wine Marks LLC",
+      "Trump Wine Marks Member Corp.",
+      "Trump World Productions LLC",
+      "Trump World Productions Manager Corp",
+      "Trump World Publications LLC",
+      "Trump/New World Property Management LLC",
+      "Trump's Castle Management Corp",
+      "Trump Marks White Plains Corp",
+      "Turnberry Scotland Managing Member Corp",
+      "Turnberry Scotland LLC",
+      "TW Venture I LLC",
+      "TW Venture II LLC",
+      "TW Venture I Managing Member Corp",
+      "TW Venture II Managing Member Corp",
+      "Ultimate Air Corp.",
+      "Unit 2502 Enterprises Corp",
+      "Unit 2502 Enterprises LLC",
+      "VH Property Corp (Trump National Golf Club - Los Angeles)",
+      "VHPS LLC",
+      "West Palm Operations LLC",
+      "Wexford Hall Inc.",
+      "White Course LLC",
+      "White Course Managing Member Corp",
+      "Wilshire Hall LLC",
+      "Wollman Rink Operations LLC"
+    ],
+    "locations": [
+      "Chicago, IL",
+      "Aberdeen, Scotland",
+      "Scotsborough Sq, VA",
+      "New York, NY",
+      "Toronto, CA",
+      "Atlantic City, NJ",
+      "Turnberry, Scotland",
+      "Palm Beach, Florida",
+      "Doonbeg, Ireland",
+      "Los Angeles, CA",
+      "WPB, Florida",
+      "Miami, Florida"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "11 of 51",
+      "HOUSE_OVERSIGHT_010627"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010627"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 1: Filer's Positions Held Outside United States Government",
+    "date": "2017-01-19",
+    "references": [
+      "OGE Form 278e (March 2014)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The 'From' column contains multiple dates for some entries, which have all been extracted. The note at the bottom explains that gaps in the numerical sequence (e.g., skipping from 482 to 484) are intentional. The form version is March 2014, but the data is current up to January 19, 2017.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010627.jpg",
+  "house_oversight_id": "010627",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:57:31.648198Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010626.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a high-quality scan of a single page from a financial disclosure form, specifically an OGE Form 278e. The page is numbered 10 of 51 and lists positions held by the filer, Donald J. Trump, in various organizations. The data is presented in a tabular format.",
+    "layout": "The document has a header section with the form title, filer's name, and part description. The main body consists of a table with seven columns: '#', 'Organization Name', 'City/State', 'Organization Type', 'Position Held', 'From', and 'To'. A footer contains a note about numerical gaps and a Bates stamp.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n10 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n406\nTrump Marks Waikiki LLC\nNew York, NY\nLLC\nPresident/Member\n04/09/07\n1/19/2017\n407\nTrump Marks Westchester Corp.\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n408\nTrump Marks Westchester LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n409\nTrump Marks White Plains Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n1/19/2017\n410\nTrump Marks White Plains LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n411\nTrump Miami Resort Management LLC\nNew York, NY\nLLC\nPresident/Member\n03/22/12\n1/19/2017\n412\nTrump Miami Resort Management Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/22/12\n1/19/2017\n413\nTrump National Golf Club Colts Neck LLC\nNew York, NY\nLLC\nPresident/Member\n07/10/08\n1/19/2017\n414\nTrump National Golf Club Colts Neck Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n07/10/08\n1/19/2017\n415\nTrump National Golf Club LLC (Trump National Golf Club - Westchester)\nNew York, NY\nLLC\nPresident\n08/02/00\n1/19/2017\n416\nTrump National Golf Club Member Corp\nNew York, NY\nCorporation\nDirector/President/Chairman\n11/09/11\n1/19/2017\n417\nTrump National Golf Club Washington DC LLC\nNew York, NY\nLLC\nPresident\n02/03/09\n1/19/2017\n418\nTrump National Golf Club Washington DC Member Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/03/09\n1/19/2017\n419\nTrump Ocean Manager Inc.\nNew York, NY\nCorporation\nPresident\n09/14/06\n11/10/2016\n420\nTrump Ocean Managing Member LLC\nNew York, NY\nLLC\nPresident\n08/31/06\n10/27/2015\n421\nTrump Old Post Office LLC\nNew York, NY\nLLC\nPresident/Member\n06/30/11\n1/19/2017\n422\nTrump Old Post Office Member Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/30/11\n1/19/2017\n423\nTrump On the Ocean LLC\nNew York, NY\nLLC\nPresident\n9/14/06 & 2/27/2007\n10/28/2015\n424\nTrump Organization LLC\nNew York, NY\nLLC\nChairman and President/Member\n2/1/09 & August, 2000\n1/19/2017\n425\nThe Trump Organization, Inc.\nNew York, NY\nCorporation\nDirector/President/Chairman\n05/01/81\n1/19/2017\n426\nTrump Pageants, Inc.\nNew York, NY\nCorporation\nDirector & Chairman/President\n10/16/96 & 5/1/06\n1/19/2017\n427\nTrump Palace Condominium\nNew York, NY\nCondominium Association\nPresident\n03/27/91\n1/19/2017\n428\nTrump Palace/Parc LLC\nNew York, NY\nLLC\nMember\n10/01/96\n1/19/2017\n429\nTrump Panama Condominium Management LLC\nNew York, NY\nLLC\nPresident/Member\n12/13/10\n1/19/2017\n430\nTrump Panama Condominium Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n12/13/10\n1/19/2017\n431\nTrump Panama Hotel Management LLC\nNew York, NY\nLLC\nMember\n08/05/10\n1/19/2017\n432\nTrump Panama Hotel Management Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n08/05/10\n1/19/2017\n433\nTrump Parc East Condominium\nNew York, NY\nCondominium Association\nPresident\n04/30/98\n1/19/2017\n434\nTrump Park Avenue Acquisition LLC\nNew York, NY\nLLC\nMember/President\nNov. 2004\n1/19/2017\n435\nTrump Park Avenue LLC\nNew York, NY\nLLC\nPresident\n01/31/02\n1/19/2017\n436\nTrump Payroll Chicago LLC\nNew York, NY\nLLC\nPresident\n08/29/07\n1/19/2017\n437\nTrump Payroll Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Secretary/Director\n04/16/96\n1/19/2017\n438\nTrump Phoenix Development LLC\nNew York, NY\nLLC\nPresident/Member\n08/28/03\n1/19/2017\n439\nTrump Plaza LLC\nNew York, NY\nLLC\nMember\n10/27/97\n1/19/2017\n440\nTrump Plaza Member Inc. (F/K/A Trump Plaza Corp.)\nNew York, NY\nCorporation\nDirector/President/Treasurer\n08/02/04\n1/19/2017\n442\nTrump Productions LLC (former Rancho Lien LLC)\nNew York, NY\nLLC\nMember/President\n05/18/06\n1/19/2017\n443\nTrump Production Managing Member Inc\nNew York, NY\nCorporation\nDirector/Chairman/President/Treasurer/Secretary\n05/18/06\n1/19/2017\n444\nTrump Project Management Corp.\nNew York, NY\nCorporation\nPresident\n04/16/96\n11/10/2016\n446\nTrump Realty Services, LLC (f/k/a Trump Mortgage Services LLC (03) & Tower Mortgage Services LLC)\nPalm Beach, Florida\nLLC\nPresident/Member\n05/09/00\n1/19/2017\n447\nTrump Restaurants LLC\nNew York, NY\nLLC\nPresident/Member\n07/31/12\n1/19/2017\n449\nTrump Riverside Management LLC\nNew York, NY\nLLC\nMember\n09/26/00\n1/19/2017\n450\nTrump Ruffin Commercial LLC\nNew York, NY\nLLC\nPresident\n07/25/07\n1/19/2017\n451\nTrump Ruffin LLC\nLas Vegas, NV\nLLC\nPresident\n10/22/02\n1/19/2017\n452\nTrump Ruffin Tower I LLC\nLas Vegas, NV\nLLC\nPresident & Director\n4/8/2005 & 7/12/05\n1/19/2017\n453\nTrump Sales & Leasing Chicago LLC\nChicago, IL\nLLC\nMember/President\n10/20/09 & 10/21/09\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010626",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n10 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n406\nTrump Marks Waikiki LLC\nNew York, NY\nLLC\nPresident/Member\n04/09/07\n1/19/2017\n407\nTrump Marks Westchester Corp.\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n408\nTrump Marks Westchester LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n409\nTrump Marks White Plains Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n1/19/2017\n410\nTrump Marks White Plains LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n411\nTrump Miami Resort Management LLC\nNew York, NY\nLLC\nPresident/Member\n03/22/12\n1/19/2017\n412\nTrump Miami Resort Management Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/22/12\n1/19/2017\n413\nTrump National Golf Club Colts Neck LLC\nNew York, NY\nLLC\nPresident/Member\n07/10/08\n1/19/2017\n414\nTrump National Golf Club Colts Neck Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n07/10/08\n1/19/2017\n415\nTrump National Golf Club LLC (Trump National Golf Club - Westchester)\nNew York, NY\nLLC\nPresident\n08/02/00\n1/19/2017\n416\nTrump National Golf Club Member Corp\nNew York, NY\nCorporation\nDirector/President/Chairman\n11/09/11\n1/19/2017\n417\nTrump National Golf Club Washington DC LLC\nNew York, NY\nLLC\nPresident\n02/03/09\n1/19/2017\n418\nTrump National Golf Club Washington DC Member Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/03/09\n1/19/2017\n419\nTrump Ocean Manager Inc.\nNew York, NY\nCorporation\nPresident\n09/14/06\n11/10/2016\n420\nTrump Ocean Managing Member LLC\nNew York, NY\nLLC\nPresident\n08/31/06\n10/27/2015\n421\nTrump Old Post Office LLC\nNew York, NY\nLLC\nPresident/Member\n06/30/11\n1/19/2017\n422\nTrump Old Post Office Member Corp.\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/30/11\n1/19/2017\n423\nTrump On the Ocean LLC\nNew York, NY\nLLC\nPresident\n9/14/06 & 2/27/2007\n10/28/2015\n424\nTrump Organization LLC\nNew York, NY\nLLC\nChairman and President/Member\n2/1/09 & August, 2000\n1/19/2017\n425\nThe Trump Organization, Inc.\nNew York, NY\nCorporation\nDirector/President/Chairman\n05/01/81\n1/19/2017\n426\nTrump Pageants, Inc.\nNew York, NY\nCorporation\nDirector & Chairman/President\n10/16/96 & 5/1/06\n1/19/2017\n427\nTrump Palace Condominium\nNew York, NY\nCondominium Association\nPresident\n03/27/91\n1/19/2017\n428\nTrump Palace/Parc LLC\nNew York, NY\nLLC\nMember\n10/01/96\n1/19/2017\n429\nTrump Panama Condominium Management LLC\nNew York, NY\nLLC\nPresident/Member\n12/13/10\n1/19/2017\n430\nTrump Panama Condominium Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n12/13/10\n1/19/2017\n431\nTrump Panama Hotel Management LLC\nNew York, NY\nLLC\nMember\n08/05/10\n1/19/2017\n432\nTrump Panama Hotel Management Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n08/05/10\n1/19/2017\n433\nTrump Parc East Condominium\nNew York, NY\nCondominium Association\nPresident\n04/30/98\n1/19/2017\n434\nTrump Park Avenue Acquisition LLC\nNew York, NY\nLLC\nMember/President\nNov. 2004\n1/19/2017\n435\nTrump Park Avenue LLC\nNew York, NY\nLLC\nPresident\n01/31/02\n1/19/2017\n436\nTrump Payroll Chicago LLC\nNew York, NY\nLLC\nPresident\n08/29/07\n1/19/2017\n437\nTrump Payroll Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Secretary/Director\n04/16/96\n1/19/2017\n438\nTrump Phoenix Development LLC\nNew York, NY\nLLC\nPresident/Member\n08/28/03\n1/19/2017\n439\nTrump Plaza LLC\nNew York, NY\nLLC\nMember\n10/27/97\n1/19/2017\n440\nTrump Plaza Member Inc. (F/K/A Trump Plaza Corp.)\nNew York, NY\nCorporation\nDirector/President/Treasurer\n08/02/04\n1/19/2017\n442\nTrump Productions LLC (former Rancho Lien LLC)\nNew York, NY\nLLC\nMember/President\n05/18/06\n1/19/2017\n443\nTrump Production Managing Member Inc\nNew York, NY\nCorporation\nDirector/Chairman/President/Treasurer/Secretary\n05/18/06\n1/19/2017\n444\nTrump Project Management Corp.\nNew York, NY\nCorporation\nPresident\n04/16/96\n11/10/2016\n446\nTrump Realty Services, LLC (f/k/a Trump Mortgage Services LLC (03) & Tower Mortgage Services LLC)\nPalm Beach, Florida\nLLC\nPresident/Member\n05/09/00\n1/19/2017\n447\nTrump Restaurants LLC\nNew York, NY\nLLC\nPresident/Member\n07/31/12\n1/19/2017\n449\nTrump Riverside Management LLC\nNew York, NY\nLLC\nMember\n09/26/00\n1/19/2017\n450\nTrump Ruffin Commercial LLC\nNew York, NY\nLLC\nPresident\n07/25/07\n1/19/2017\n451\nTrump Ruffin LLC\nLas Vegas, NV\nLLC\nPresident\n10/22/02\n1/19/2017\n452\nTrump Ruffin Tower I LLC\nLas Vegas, NV\nLLC\nPresident & Director\n4/8/2005 & 7/12/05\n1/19/2017\n453\nTrump Sales & Leasing Chicago LLC\nChicago, IL\nLLC\nMember/President\n10/20/09 & 10/21/09\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010626",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2007-04-09",
+      "2017-01-19",
+      "2007-06-13",
+      "2012-03-22",
+      "2008-07-10",
+      "2000-08-02",
+      "2011-11-09",
+      "2009-02-03",
+      "2006-09-14",
+      "2016-11-10",
+      "2006-08-31",
+      "2015-10-27",
+      "2011-06-30",
+      "2006-09-14",
+      "2007-02-27",
+      "2015-10-28",
+      "2009-02-01",
+      "2000-08",
+      "1981-05-01",
+      "1996-10-16",
+      "2006-05-01",
+      "1991-03-27",
+      "1996-10-01",
+      "2010-12-13",
+      "2010-08-05",
+      "1998-04-30",
+      "2004-11",
+      "2002-01-31",
+      "2007-08-29",
+      "1996-04-16",
+      "2003-08-28",
+      "1997-10-27",
+      "2004-08-02",
+      "2006-05-18",
+      "2000-05-09",
+      "2012-07-31",
+      "2000-09-26",
+      "2007-07-25",
+      "2002-10-22",
+      "2005-04-08",
+      "2005-07-12",
+      "2009-10-20",
+      "2009-10-21"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Trump Marks Waikiki LLC",
+      "Trump Marks Westchester Corp.",
+      "Trump Marks Westchester LLC",
+      "Trump Marks White Plains Corp",
+      "Trump Marks White Plains LLC",
+      "Trump Miami Resort Management LLC",
+      "Trump Miami Resort Management Member Corp",
+      "Trump National Golf Club Colts Neck LLC",
+      "Trump National Golf Club Colts Neck Member Corp",
+      "Trump National Golf Club LLC (Trump National Golf Club - Westchester)",
+      "Trump National Golf Club Member Corp",
+      "Trump National Golf Club Washington DC LLC",
+      "Trump National Golf Club Washington DC Member Corp.",
+      "Trump Ocean Manager Inc.",
+      "Trump Ocean Managing Member LLC",
+      "Trump Old Post Office LLC",
+      "Trump Old Post Office Member Corp.",
+      "Trump On the Ocean LLC",
+      "Trump Organization LLC",
+      "The Trump Organization, Inc.",
+      "Trump Pageants, Inc.",
+      "Trump Palace Condominium",
+      "Trump Palace/Parc LLC",
+      "Trump Panama Condominium Management LLC",
+      "Trump Panama Condominium Member Corp",
+      "Trump Panama Hotel Management LLC",
+      "Trump Panama Hotel Management Member Corp",
+      "Trump Parc East Condominium",
+      "Trump Park Avenue Acquisition LLC",
+      "Trump Park Avenue LLC",
+      "Trump Payroll Chicago LLC",
+      "Trump Payroll Corp.",
+      "Trump Phoenix Development LLC",
+      "Trump Plaza LLC",
+      "Trump Plaza Member Inc. (F/K/A Trump Plaza Corp.)",
+      "Trump Productions LLC (former Rancho Lien LLC)",
+      "Trump Production Managing Member Inc",
+      "Trump Project Management Corp.",
+      "Trump Realty Services, LLC (f/k/a Trump Mortgage Services LLC (03) & Tower Mortgage Services LLC)",
+      "Trump Restaurants LLC",
+      "Trump Riverside Management LLC",
+      "Trump Ruffin Commercial LLC",
+      "Trump Ruffin LLC",
+      "Trump Ruffin Tower I LLC",
+      "Trump Sales & Leasing Chicago LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Palm Beach, Florida",
+      "Las Vegas, NV",
+      "Chicago, IL"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010626",
+      "10 of 51"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010626"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a public financial disclosure form for Donald J. Trump. The note at the bottom explains that gaps in the numerical sequence of items (e.g., skipping from 440 to 442) are intentional. Some 'From' dates include multiple dates or month/year only.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010626.jpg",
+  "house_oversight_id": "010626",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:56:30.881256Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -13,11 +13,11 @@ As House Oversight Committee documents are analyzed, images are processed, text 
 ### Latest Context Update
 
 **Latest Image Analysis:**
+- TRUMP MENTIONS DETECTED in newly processed images
+- Key characters identified: Trump mentioned in HOUSE_OVERSIGHT_010627.json, Trump mentioned in HOUSE_OVERSIGHT_010625.json, Trump mentioned in HOUSE_OVERSIGHT_010626.json
 - 10 new image analysis files processed
 
 **Latest Text Processing:**
-- TRUMP MENTIONS DETECTED in newly processed text documents
-- Key themes: Jeffrey Epstein's social network, Jeffrey Epstein's properties and lifestyle, Criminal investigation and legal proceedings against Jeffrey Epstein
 - 10 new text extraction files processed
 
 
