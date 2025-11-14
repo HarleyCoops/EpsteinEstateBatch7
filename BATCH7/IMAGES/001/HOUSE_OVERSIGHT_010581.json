@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010581.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page contains four numbered paragraphs (35, 36, 37, and 38). The text discusses legal proceedings involving Jeffrey Epstein, victims' rights under the CVRA, and actions taken by attorneys. The page is numbered '16' at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010581' at the bottom right.",
+    "layout": "Standard single-column text document with numbered paragraphs. A page number is centered at the bottom, and a document control number is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "35. On Friday, June 27, 2008, at approximately 4:15 p.m., AUSA Villafaña received a\ncopy of Epstein’s proposed state plea agreement and learned that the plea was scheduled for 8:30\na.m., Monday, June 30, 2008. AUSA Villafaña called Edwards to provide notice to his clients\nregarding the hearing. AUSA Villafaña did not tell Attorney Edwards that the guilty pleas in\nstate court would bring an end to the possibility of federal prosecution pursuant to the plea\nagreement. See Edwards Affidavit, Exhibit “N”, at ¶6.\n\n36. Under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771, victims of\nfederal crimes – including E.W. and L.M. – are entitled to basic rights during any plea\nbargaining process, including the right to be treated with fairness, the right to confer with\nprosecutors regarding any plea, and the right to be heard regarding any plea. The process that\nwas followed leading to the non-prosecution of Epstein violated these rights of E.W. and L.M.\nSee Emergency Petn. for Victim’s Enforcement of Crime Victim’s Rights, No. 9:08-CV-80736-\nKAM (S.D. Fla. 2008) (Exhibit “P”).\n\n37. Because of the violation of the CVRA, on July 7, 2008, Edwards filed an action in\nthe U.S. District Court for the Southern District of Florida, Case No. 9:08-CV-80736, seeking to\nenforce the rights of E.W. and L.M. That action alleged that the U.S. Attorney’s Office had\nfailed to provide E.W. and L.M. the rights to which they were entitled under the Act, including\nthe right to be notified about a plea agreement and to confer with prosecutors regarding it. See\nid.\n\n38. On July 11, 2008, Edwards took E.W. and L.M. with him to the hearing on the\nCVRA action. It was only at this hearing that both victims learned for the first time that the plea\ndeal was already done with Epstein and that the criminal case against Epstein had been\n\n16\n\nHOUSE_OVERSIGHT_010581",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "35. On Friday, June 27, 2008, at approximately 4:15 p.m., AUSA Villafaña received a\ncopy of Epstein’s proposed state plea agreement and learned that the plea was scheduled for 8:30\na.m., Monday, June 30, 2008. AUSA Villafaña called Edwards to provide notice to his clients\nregarding the hearing. AUSA Villafaña did not tell Attorney Edwards that the guilty pleas in\nstate court would bring an end to the possibility of federal prosecution pursuant to the plea\nagreement. See Edwards Affidavit, Exhibit “N”, at ¶6.\n\n36. Under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771, victims of\nfederal crimes – including E.W. and L.M. – are entitled to basic rights during any plea\nbargaining process, including the right to be treated with fairness, the right to confer with\nprosecutors regarding any plea, and the right to be heard regarding any plea. The process that\nwas followed leading to the non-prosecution of Epstein violated these rights of E.W. and L.M.\nSee Emergency Petn. for Victim’s Enforcement of Crime Victim’s Rights, No. 9:08-CV-80736-\nKAM (S.D. Fla. 2008) (Exhibit “P”).\n\n37. Because of the violation of the CVRA, on July 7, 2008, Edwards filed an action in\nthe U.S. District Court for the Southern District of Florida, Case No. 9:08-CV-80736, seeking to\nenforce the rights of E.W. and L.M. That action alleged that the U.S. Attorney’s Office had\nfailed to provide E.W. and L.M. the rights to which they were entitled under the Act, including\nthe right to be notified about a plea agreement and to confer with prosecutors regarding it. See\nid.\n\n38. On July 11, 2008, Edwards took E.W. and L.M. with him to the hearing on the\nCVRA action. It was only at this hearing that both victims learned for the first time that the plea\ndeal was already done with Epstein and that the criminal case against Epstein had been",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "16",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010581",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-06-27",
+      "2008-06-30",
+      "2008-07-07",
+      "2008-07-11",
+      "2008"
+    ],
+    "people": [
+      "Villafaña",
+      "Epstein",
+      "Edwards",
+      "E.W.",
+      "L.M."
+    ],
+    "organizations": [
+      "U.S. District Court for the Southern District of Florida",
+      "U.S. Attorney’s Office"
+    ],
+    "locations": [
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010581",
+      "18 U.S.C. § 3771",
+      "9:08-CV-80736-KAM",
+      "9:08-CV-80736",
+      "Exhibit “N”",
+      "Exhibit “P”"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier: HOUSE_OVERSIGHT_010581"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Violation of the Crime Victims' Rights Act (CVRA) in the case against Epstein.",
+    "date": null,
+    "references": [
+      "Edwards Affidavit, Exhibit “N”",
+      "Emergency Petn. for Victim’s Enforcement of Crime Victim’s Rights, No. 9:08-CV-80736-KAM (S.D. Fla. 2008) (Exhibit “P”)",
+      "Case No. 9:08-CV-80736"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be part of a larger legal brief or affidavit detailing the timeline and alleged legal violations related to the plea agreement with Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010581.jpg",
+  "house_oversight_id": "010581",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:31:54.853239Z",
+    "model": "gemini-2.5-pro"
+  }
+}

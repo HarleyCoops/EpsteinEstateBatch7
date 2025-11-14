@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010588.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single, typed page from a legal or investigative document. The page is formatted with numbered paragraphs (59 and 60), a centered page number at the bottom, and a document identifier in the bottom right corner. The text is black on a white background.",
+    "layout": "Standard portrait layout with a main body of text, a page number at the bottom center, and a document control number in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "all substantive questions regarding her role in arranging for minor girls to come to Epstein's\nmansion to be sexually abused. Reinhart had previously been an Assistant United States\nAttorney in the U.S. Attorney's Office for the Southern District of Florida when Epstein was\nbeing investigated criminally by Reinhart's office. Reinhart left the United States Attorney's\nOffice and was immediately hired by Epstein to represent Epstein's pilots and certain co-\nconspirators during the civil cases against Epstein. See Edwards Affidavit, Exhibit “N” at ¶11.\n\n59. Edwards also had other lines of legitimate discovery blocked through the efforts\nof Epstein and others. For example, Edwards learned through deposition that Ghislaine Maxwell\nwas involved in managing Epstein's affairs and companies. See deposition of Epstein's house\nmanager Janusz Banziak, February 16, 2010 at page 14, lines 20-23 (Deposition Attachment\n#16); See deposition of Epstein's housekeeper Louella Rabuyo, October 20, 2009, page 9, lines\n17-25 (Deposition Attachment #17); See deposition of Epstein's pilot Larry Eugene Morrison,\nOctober 6, 2009, page 102-103 (Deposition Attachment #18); See deposition of Alfredo\nRodriguez, August 7, 2009, page 302-306 and 348 (Deposition Attachment #8); See also Prince\nAndrew's Friend, Ghislaine Maxwell, Some Underage Girls and A Very Disturbing Story,\nSeptember 23, 2007 by Wendy Leigh, link at\nhttp://www.redicecreations.com/article.php?id=1895OHANNA SJOBERG. Exhibit “AA”.\n\n60. Alfredo Rodriguez testified that Maxwell took photos of girls without the girls'\nknowledge, kept the images on her computer, knew the names of the underage girls and their\nrespective phone numbers and other underage victims were molested by Epstein and Maxwell\ntogether. See Deposition of Rodriguez, Deposition attachment # 8 at 64, 169-170 and 236.\n\n23\n\nHOUSE_OVERSIGHT_010588",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "all substantive questions regarding her role in arranging for minor girls to come to Epstein's\nmansion to be sexually abused. Reinhart had previously been an Assistant United States\nAttorney in the U.S. Attorney's Office for the Southern District of Florida when Epstein was\nbeing investigated criminally by Reinhart's office. Reinhart left the United States Attorney's\nOffice and was immediately hired by Epstein to represent Epstein's pilots and certain co-\nconspirators during the civil cases against Epstein. See Edwards Affidavit, Exhibit “N” at ¶11.\n\n59. Edwards also had other lines of legitimate discovery blocked through the efforts\nof Epstein and others. For example, Edwards learned through deposition that Ghislaine Maxwell\nwas involved in managing Epstein's affairs and companies. See deposition of Epstein's house\nmanager Janusz Banziak, February 16, 2010 at page 14, lines 20-23 (Deposition Attachment\n#16); See deposition of Epstein's housekeeper Louella Rabuyo, October 20, 2009, page 9, lines\n17-25 (Deposition Attachment #17); See deposition of Epstein's pilot Larry Eugene Morrison,\nOctober 6, 2009, page 102-103 (Deposition Attachment #18); See deposition of Alfredo\nRodriguez, August 7, 2009, page 302-306 and 348 (Deposition Attachment #8); See also Prince\nAndrew's Friend, Ghislaine Maxwell, Some Underage Girls and A Very Disturbing Story,\nSeptember 23, 2007 by Wendy Leigh, link at\nhttp://www.redicecreations.com/article.php?id=1895OHANNA SJOBERG. Exhibit “AA”.\n\n60. Alfredo Rodriguez testified that Maxwell took photos of girls without the girls'\nknowledge, kept the images on her computer, knew the names of the underage girls and their\nrespective phone numbers and other underage victims were molested by Epstein and Maxwell\ntogether. See Deposition of Rodriguez, Deposition attachment # 8 at 64, 169-170 and 236.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "23",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010588",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-02-16",
+      "2009-10-20",
+      "2009-10-06",
+      "2009-08-07",
+      "2007-09-23"
+    ],
+    "people": [
+      "Epstein",
+      "Reinhart",
+      "Edwards",
+      "Ghislaine Maxwell",
+      "Janusz Banziak",
+      "Louella Rabuyo",
+      "Larry Eugene Morrison",
+      "Alfredo Rodriguez",
+      "Prince Andrew",
+      "Wendy Leigh",
+      "OHANNA SJOBERG"
+    ],
+    "organizations": [
+      "U.S. Attorney's Office for the Southern District of Florida"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010588",
+      "Exhibit “N”",
+      "Deposition Attachment #16",
+      "Deposition Attachment #17",
+      "Deposition Attachment #18",
+      "Deposition Attachment #8",
+      "Exhibit “AA”"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [],
+      "urls": [
+        "http://www.redicecreations.com/article.php?id=1895OHANNA SJOBERG"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010588"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing or investigative report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation related to Jeffrey Epstein, Ghislaine Maxwell, and associates, detailing efforts to block discovery and testimony from various depositions.",
+    "date": null,
+    "references": [
+      "Edwards Affidavit, Exhibit “N”",
+      "Deposition of Janusz Banziak (Deposition Attachment #16)",
+      "Deposition of Louella Rabuyo (Deposition Attachment #17)",
+      "Deposition of Larry Eugene Morrison (Deposition Attachment #18)",
+      "Deposition of Alfredo Rodriguez (Deposition Attachment #8)",
+      "Article by Wendy Leigh (Exhibit “AA”)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a legal brief or a summary of evidence, citing multiple depositions and exhibits related to the Jeffrey Epstein case. The URL provided in the text contains a space, which is unusual for a URL and may be a typographical error in the original document.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010588.jpg",
+  "house_oversight_id": "010588",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:34:40.308226Z",
+    "model": "gemini-2.5-pro"
+  }
+}

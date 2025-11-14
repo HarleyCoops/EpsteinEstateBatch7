@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010579.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned black and white page of a legal or official document. The text is typewritten and organized into numbered paragraphs. The page number is visible at the bottom center, and a document identifier is at the bottom right.",
+    "layout": "Single column of text with numbered paragraphs, a subheading, a centered page number at the bottom, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "block federal prosecution of Epstein. Nor did the FBI notify E.W. and L.M. of any of the parts of\nthe plea agreement. Nor did the FBI or other federal authorities confer with E.W. and L.M.\nabout the plea. See id.\n\n30. In 2008, Edwards believed in good faith that criminal prosecution of Epstein was\nextremely important to his clients E.W. and L.M. and that they desired to be consulted by the\nFBI and/or other representatives of the federal government about the prosecution of Epstein.\nThe letters that they had received around January 10, 2008, suggested that a criminal\ninvestigation of Epstein was on-going and that they would be contacted before the federal\ngovernment reached any final resolution of that investigation. See id.\n\nEdwards Agrees to Serve as Legal Counsel for Three Victims of Epstein's Sexual\nAssaults\n\n31. In about April 2008, Bradley J. Edwards, Esq., was a licensed attorney in Florida,\npracticing as a sole practitioner. As a former prosecutor, he was well versed in civil cases that\ninvolved criminal acts, including sexual assaults. Three of the many girls Epstein had abused –\nL.M., E.W., and Jane Doe – all requested that Edwards represent them civilly and secure\nappropriate monetary damages against Epstein for repeated acts of sexual abuse while they were\nminor girls. Two of the girls (L.M. and E.W.) also requested that Edwards represent them in\nconnection with a concern that the Federal Bureau of Investigation (FBI) and U.S. Attorney’s\nOffice might be arranging a plea bargain for the criminal offenses committed by Epstein without\nproviding them the legal rights to which they were entitled (including the right to be notified of\nplea discussions and the right to confer with prosecutors about any plea arrangement). See\n\n14\n\nHOUSE_OVERSIGHT_010579",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "block federal prosecution of Epstein. Nor did the FBI notify E.W. and L.M. of any of the parts of\nthe plea agreement. Nor did the FBI or other federal authorities confer with E.W. and L.M.\nabout the plea. See id.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "30. In 2008, Edwards believed in good faith that criminal prosecution of Epstein was\nextremely important to his clients E.W. and L.M. and that they desired to be consulted by the\nFBI and/or other representatives of the federal government about the prosecution of Epstein.\nThe letters that they had received around January 10, 2008, suggested that a criminal\ninvestigation of Epstein was on-going and that they would be contacted before the federal\ngovernment reached any final resolution of that investigation. See id.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Edwards Agrees to Serve as Legal Counsel for Three Victims of Epstein's Sexual\nAssaults",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "31. In about April 2008, Bradley J. Edwards, Esq., was a licensed attorney in Florida,\npracticing as a sole practitioner. As a former prosecutor, he was well versed in civil cases that\ninvolved criminal acts, including sexual assaults. Three of the many girls Epstein had abused –\nL.M., E.W., and Jane Doe – all requested that Edwards represent them civilly and secure\nappropriate monetary damages against Epstein for repeated acts of sexual abuse while they were\nminor girls. Two of the girls (L.M. and E.W.) also requested that Edwards represent them in\nconnection with a concern that the Federal Bureau of Investigation (FBI) and U.S. Attorney’s\nOffice might be arranging a plea bargain for the criminal offenses committed by Epstein without\nproviding them the legal rights to which they were entitled (including the right to be notified of\nplea discussions and the right to confer with prosecutors about any plea arrangement). See",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "14",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010579",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-01-10",
+      "2008-04",
+      "2008"
+    ],
+    "people": [
+      "Epstein",
+      "E.W.",
+      "L.M.",
+      "Edwards",
+      "Bradley J. Edwards, Esq.",
+      "Jane Doe"
+    ],
+    "organizations": [
+      "Federal Bureau of Investigation (FBI)",
+      "U.S. Attorney’s Office"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010579"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Representation of Epstein's victims (E.W., L.M., Jane Doe) by attorney Bradley J. Edwards in civil and criminal matters, and concerns about a federal plea agreement for Epstein.",
+    "date": null,
+    "references": [
+      "See id."
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal filing or report detailing events from 2008 concerning Jeffrey Epstein's case. The individuals E.W., L.M., and Jane Doe are referred to by initials or pseudonym, likely to protect their identities as victims.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010579.jpg",
+  "house_oversight_id": "010579",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:31:07.633682Z",
+    "model": "gemini-2.5-pro"
+  }
+}

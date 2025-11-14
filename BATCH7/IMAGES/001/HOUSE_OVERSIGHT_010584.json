@@ -1,0 +1,91 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010584.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page contains numbered paragraphs from 46 to 50, discussing various civil lawsuits filed against Jeffrey Epstein. The text is in a standard serif font. A page number '19' is centered at the bottom, and a document identifier 'HOUSE_OVERSIGHT_010584' is at the bottom right.",
+    "layout": "Single-column text in a portrait orientation. The main content consists of five numbered paragraphs. A footer contains a page number and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "46. On September 11, 2008, at the request of his client L.M.., Brad Edwards filed a civil\nsuit against Jeffrey Epstein to recover damages for his sexual assault of L.M. See Complaint,\nL.M. v. Epstein, (Exhibit “V”).\n\n47. Jane Doe's federal complaint indicated that she sought damages of more than\n$50,000,000. Listing the amount of damages sought in the complaint was in accord with other\ncivil suits that were filed against Epstein (before any lawsuit filed by Edwards). See Complaint,\nJane Doe #4 v. Epstein (Exhibit “W”) (filed by Herman and Mermelstein, PA).\n\n48. At about the same time as Edwards filed his three lawsuits against Epstein, other\ncivil attorneys were filing similar lawsuits against Epstein. For example, on or about April 14,\n2008 another law firm, Herman and Mermelstein, filed the first civil action against Epstein on\nbehalf of one of its seven clients who were molested by Epstein. The complaints that attorney\nHerman filed on behalf of his seven clients were similar in tenor and tone to the complaint that\nEdwards filed on behalf of his three clients. See id.\n\n49. Over the next year and a half, more than 20 other similar civil actions were filed by\nvarious attorneys against Epstein alleging sexual assault of minor girls. These complaints were\nalso similar in tenor and tone to the complaint that Edwards filed on behalf of his clients. These\ncomplaints are all public record and have not been attached, but are available in this Court’s files\nand the files of the U.S. District Court for the Southern District of Florida.\n\n50. In addition to the complaints filed against Epstein in Florida, a female in New York,\nAva Cordero, filed a lawsuit against Epstein in New York making similar allegations - that\nEpstein paid her for a massage then forced her to give him oral sex and molested her in other\nways when she was only 16 years old. Cordero was born a male, and in her complaint she\n\n19\n\nHOUSE_OVERSIGHT_010584",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "46. On September 11, 2008, at the request of his client L.M.., Brad Edwards filed a civil\nsuit against Jeffrey Epstein to recover damages for his sexual assault of L.M. See Complaint,\nL.M. v. Epstein, (Exhibit “V”).\n\n47. Jane Doe's federal complaint indicated that she sought damages of more than\n$50,000,000. Listing the amount of damages sought in the complaint was in accord with other\ncivil suits that were filed against Epstein (before any lawsuit filed by Edwards). See Complaint,\nJane Doe #4 v. Epstein (Exhibit “W”) (filed by Herman and Mermelstein, PA).\n\n48. At about the same time as Edwards filed his three lawsuits against Epstein, other\ncivil attorneys were filing similar lawsuits against Epstein. For example, on or about April 14,\n2008 another law firm, Herman and Mermelstein, filed the first civil action against Epstein on\nbehalf of one of its seven clients who were molested by Epstein. The complaints that attorney\nHerman filed on behalf of his seven clients were similar in tenor and tone to the complaint that\nEdwards filed on behalf of his three clients. See id.\n\n49. Over the next year and a half, more than 20 other similar civil actions were filed by\nvarious attorneys against Epstein alleging sexual assault of minor girls. These complaints were\nalso similar in tenor and tone to the complaint that Edwards filed on behalf of his clients. These\ncomplaints are all public record and have not been attached, but are available in this Court’s files\nand the files of the U.S. District Court for the Southern District of Florida.\n\n50. In addition to the complaints filed against Epstein in Florida, a female in New York,\nAva Cordero, filed a lawsuit against Epstein in New York making similar allegations - that\nEpstein paid her for a massage then forced her to give him oral sex and molested her in other\nways when she was only 16 years old. Cordero was born a male, and in her complaint she",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "19",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010584",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-09-11",
+      "2008-04-14"
+    ],
+    "people": [
+      "Brad Edwards",
+      "Jeffrey Epstein",
+      "L.M.",
+      "Jane Doe",
+      "Herman",
+      "Mermelstein",
+      "Ava Cordero"
+    ],
+    "organizations": [
+      "Herman and Mermelstein, PA",
+      "U.S. District Court for the Southern District of Florida"
+    ],
+    "locations": [
+      "Florida",
+      "New York",
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010584",
+      "19"
+    ],
+    "financial_amounts": [
+      "$50,000,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Civil lawsuits filed against Jeffrey Epstein by various attorneys and plaintiffs, including Brad Edwards, Herman and Mermelstein, Jane Doe, and Ava Cordero.",
+    "date": null,
+    "references": [
+      "L.M. v. Epstein, (Exhibit “V”)",
+      "Jane Doe #4 v. Epstein (Exhibit “W”)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger legal filing or report detailing the history of litigation against Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010584.jpg",
+  "house_oversight_id": "010584",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:33:06.654909Z",
+    "model": "gemini-2.5-pro"
+  }
+}

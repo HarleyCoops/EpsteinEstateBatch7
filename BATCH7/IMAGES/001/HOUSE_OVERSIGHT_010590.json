@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010590.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010590.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed document with black text on a white background. The page contains numbered paragraphs detailing allegations and information related to individuals named Edwards, Brunel, and Epstein. It includes references to exhibits and other documents. A page number is centered at the bottom, and a document identifier is in the bottom right corner.\",\n    \"layout\": \"The document has a standard portrait layout with a main body of text organized into numbered paragraphs. There is a page number at the bottom center and a document identifier in the bottom right footer.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"Edwards that Brunel might have been procuring two eight-year-old girls for Epstein to sexually abuse. According to widely circulated press reports reviewed by Edwards, Brunel is in his sixties and has a r"
+}

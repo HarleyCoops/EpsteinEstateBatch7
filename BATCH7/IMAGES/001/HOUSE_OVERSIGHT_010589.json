@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010589.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a typed legal document. The page contains two numbered paragraphs, 61 and 62. It discusses legal proceedings involving individuals named Edwards, Maxwell, and Epstein, and references several exhibits. The page number '24' is at the bottom center, and a document identifier 'HOUSE_OVERSIGHT_010589' is in the bottom right corner.",
+    "layout": "Single column of text with two numbered paragraphs. A page number is centered at the bottom, and a document identifier is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "61.      In reasonable reliance on this and other information, Edwards served Maxwell for\ndeposition in 2009. See Deposition Notice attached as Exhibit “BB.” Maxwell was represented\nby Brett Jaffe of the New York firm of Cohen and Gresser, and Edwards understood that her\nattorney was paid for (directly or indirectly) by Epstein. She was reluctant to give her\ndeposition, and Edwards tried to work with her attorney to take her deposition on terms that\nwould be acceptable to both sides. The result was the attached confidentiality agreement, under\nwhich Maxwell agreed to drop any objections to the deposition, attached hereto as Exhibit “CC.”\nMaxwell, however, contrived to avoid the deposition. On June 29, 2010, one day before\nEdwards was to fly to NY to take Maxwell’s deposition, her attorney informed Edwards that\nMaxwell’s mother was deathly ill and Maxwell was consequently flying to England with no\nintention of returning to the United States. Despite that assertion, Ghislaine Maxwell was in fact\nin the country on July 31, 2010, as she attended the wedding of Chelsea Clinton (former\nPresident Clinton’s daughter) and was captured in a photograph taken for OK magazine. Photos\nfrom Issue 809 of the publication See US Weekly dated August 16, 2010 are attached hereto as\nExhibit “DD” and Edwards Affidavit, Exhibit “N” at ¶12.\n\n62.      Maxwell is not the only important witness to lie to avoid deposition by Edwards.\nUpon review of the message pads that were taken from Epstein’s home in the police trash pulls,\nsee Exhibit “J” supra, many were from Jean Luc Brunel, a French citizen and one of Epstein’s\nclosest pals. He left messages for Epstein. One dated 4/1/05 said, “He has a teacher for you to\nteach you how to speak Russian. She is 2x8 years old, not blonde. Lessons are free and you can\nhave your 1st today if you call.” See Messages taken from Jean Luc Brunel are attached hereto as\nExhibit “EE.” In light of these circumstances of the case, this message reasonably suggested to\n\n24\n\nHOUSE_OVERSIGHT_010589",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "61.      In reasonable reliance on this and other information, Edwards served Maxwell for\ndeposition in 2009. See Deposition Notice attached as Exhibit “BB.” Maxwell was represented\nby Brett Jaffe of the New York firm of Cohen and Gresser, and Edwards understood that her\nattorney was paid for (directly or indirectly) by Epstein. She was reluctant to give her\ndeposition, and Edwards tried to work with her attorney to take her deposition on terms that\nwould be acceptable to both sides. The result was the attached confidentiality agreement, under\nwhich Maxwell agreed to drop any objections to the deposition, attached hereto as Exhibit “CC.”\nMaxwell, however, contrived to avoid the deposition. On June 29, 2010, one day before\nEdwards was to fly to NY to take Maxwell’s deposition, her attorney informed Edwards that\nMaxwell’s mother was deathly ill and Maxwell was consequently flying to England with no\nintention of returning to the United States. Despite that assertion, Ghislaine Maxwell was in fact\nin the country on July 31, 2010, as she attended the wedding of Chelsea Clinton (former\nPresident Clinton’s daughter) and was captured in a photograph taken for OK magazine. Photos\nfrom Issue 809 of the publication See US Weekly dated August 16, 2010 are attached hereto as\nExhibit “DD” and Edwards Affidavit, Exhibit “N” at ¶12.\n\n62.      Maxwell is not the only important witness to lie to avoid deposition by Edwards.\nUpon review of the message pads that were taken from Epstein’s home in the police trash pulls,\nsee Exhibit “J” supra, many were from Jean Luc Brunel, a French citizen and one of Epstein’s\nclosest pals. He left messages for Epstein. One dated 4/1/05 said, “He has a teacher for you to\nteach you how to speak Russian. She is 2x8 years old, not blonde. Lessons are free and you can\nhave your 1st today if you call.” See Messages taken from Jean Luc Brunel are attached hereto as\nExhibit “EE.” In light of these circumstances of the case, this message reasonably suggested to",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "24",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010589",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009",
+      "2010-06-29",
+      "2010-07-31",
+      "2010-08-16",
+      "2005-04-01"
+    ],
+    "people": [
+      "Edwards",
+      "Maxwell",
+      "Brett Jaffe",
+      "Epstein",
+      "Ghislaine Maxwell",
+      "Chelsea Clinton",
+      "President Clinton",
+      "Jean Luc Brunel"
+    ],
+    "organizations": [
+      "Cohen and Gresser",
+      "OK magazine",
+      "US Weekly"
+    ],
+    "locations": [
+      "New York",
+      "NY",
+      "England",
+      "United States"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010589",
+      "Exhibit “BB”",
+      "Exhibit “CC”",
+      "Exhibit “DD”",
+      "Exhibit “N”",
+      "Exhibit “J”",
+      "Exhibit “EE”",
+      "Issue 809"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition of Ghislaine Maxwell and related evidence from Jean Luc Brunel.",
+    "date": null,
+    "references": [
+      "Exhibit “BB”",
+      "Exhibit “CC”",
+      "Exhibit “DD”",
+      "Edwards Affidavit, Exhibit “N”",
+      "Exhibit “J”",
+      "Exhibit “EE”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal filing or motion, detailing attempts to depose Ghislaine Maxwell and presenting related evidence concerning Jean Luc Brunel. The text '2x8 years old' is transcribed as it appears but likely means '16 years old'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010589.jpg",
+  "house_oversight_id": "010589",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:35:03.746680Z",
+    "model": "gemini-2.5-pro"
+  }
+}

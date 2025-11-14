@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010585.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"image.png\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed document, likely from a legal or investigative file. The text discusses allegations against Jeffrey Epstein. The page is numbered '20' at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010585' in the bottom right corner.\",\n    \"layout\": \"Standard portrait document layout with numbered paragraphs, a centered page number at the bottom, and a document identifier in the bottom right footer.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"alleges that Epstein told her during the “massage”, “I love how young you are. You have a tight\\nbutt like a baby”. See Jeff Epstein Sued for \\\"Repeated Sexual Assaults\\\" on Teen, New York\\nPost, October 17, 2007, by Dareh Gregorian, link at:\\nhttp://www.nypost.com/p/news/regional/item_44zlWyLUFH7R1OUTKYGPbP;jsessionid=6CA3\\nEBF1BEF68F5DE14BFB2CAA5C37E0. See Article a"
+}

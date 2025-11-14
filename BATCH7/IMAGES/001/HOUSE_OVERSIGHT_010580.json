@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010580.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010580.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed legal document, likely an affidavit or a brief, discussing legal representation and interactions with the U.S. Attorney's Office in a case involving Jeffrey Epstein. The page is numbered 15 and has a document control number in the footer.\",\n    \"layout\": \"The document has a standard legal format with numbered paragraphs. The main body of text is centrally aligned. A page number is centered at the bottom, and a document identifier is in the bottom right corner.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"Affidavit of Bradley J. Edwards, Esq. at ¶1 - 2, ¶4 (hereinafter “Edwards Affidavit”) (Exhibit\\n“N”).\\n\\n32. On June 13, 2008, attorney Edwards agreed to represent E.W.; on July 2, 2008,\\nattorney Edwards agreed to represent Jane Doe; and, on July 7, 2008, attorney Edwards agreed to\\nrepresent L"
+}

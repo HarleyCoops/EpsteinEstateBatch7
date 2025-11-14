@@ -1,0 +1,110 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010587.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is black on a white background. The page contains numbered paragraphs (56, 57, 58), a page number at the bottom center, and a document identifier in the bottom right corner.",
+    "layout": "Standard legal document format with numbered paragraphs, justified text, a centered page number at the bottom, and a document identifier in the footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "fabricating cases of a sexual nature fleecing unsuspecting Florida investors and others out of\nmillions of dollars for cases of a sexual nature with--I'd like to answer your questions; however if\nI--I'm told that if I do so, I risk losing my counsel's representation; therefore I must accept their\nadvice.\" Epstein deposition, March 8, 2010, at 106 (Deposition attachment #10).\n\n56. When Edwards had the opportunity to take Epstein's deposition, he only asked\nreasonable questions, all of which related to the merits of the cases against Epstein. All\ndepositions of Epstein in which Mr. Edwards participated on behalf of his clients are attached to\nthis motion. See Edwards Affidavit, Exhibit “N” at ¶11 and Deposition attachments #1, 6, 7, 10,\n11, 12, and 13. Cf. with Deposition of Epstein taken by an attorney representing BB (one in\nwhich Edwards was not participating), http://www.youtube.com/watch?v=V-dqoEyYXx4; and\nhttp://www.youtube.com/watch?v=YCNiYltW-r0\n\n57. Edwards's efforts to obtain information about Epstein's organization for\nprocuring young girls was also blocked because Epstein's co-conspirators took the Fifth.\nDeposition of Sarah Kellen, March 24, 2010 (hereinafter “Kellen Depo.”) (Deposition\nattachment #14); Deposition of Nadia Marcinkova, April 13, 2010, (Deposition attachment #9);\nDeposition of Adriana Mucinska Ross, March 15, 2010 (hereinafter “Ross Depo.”) (Deposition\nattachment #15). Each of these co-conspirators invoked their respective rights against self-\nincrimination as to all relevant questions, and the depositions have been attached.\n\n58. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve Sarah Kellen was an employee of Epstein's and had been identified as a defendant in at\nleast one of the complaints against Epstein for her role in bringing girls to Epstein's mansion to\nbe abused. At the deposition, she was represented by Bruce Reinhart. She invoked the Fifth on\n\n22\n\nHOUSE_OVERSIGHT_010587",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "fabricating cases of a sexual nature fleecing unsuspecting Florida investors and others out of\nmillions of dollars for cases of a sexual nature with--I'd like to answer your questions; however if\nI--I'm told that if I do so, I risk losing my counsel's representation; therefore I must accept their\nadvice.\" Epstein deposition, March 8, 2010, at 106 (Deposition attachment #10).\n\n56. When Edwards had the opportunity to take Epstein's deposition, he only asked\nreasonable questions, all of which related to the merits of the cases against Epstein. All\ndepositions of Epstein in which Mr. Edwards participated on behalf of his clients are attached to\nthis motion. See Edwards Affidavit, Exhibit “N” at ¶11 and Deposition attachments #1, 6, 7, 10,\n11, 12, and 13. Cf. with Deposition of Epstein taken by an attorney representing BB (one in\nwhich Edwards was not participating), http://www.youtube.com/watch?v=V-dqoEyYXx4; and\nhttp://www.youtube.com/watch?v=YCNiYltW-r0\n\n57. Edwards's efforts to obtain information about Epstein's organization for\nprocuring young girls was also blocked because Epstein's co-conspirators took the Fifth.\nDeposition of Sarah Kellen, March 24, 2010 (hereinafter “Kellen Depo.”) (Deposition\nattachment #14); Deposition of Nadia Marcinkova, April 13, 2010, (Deposition attachment #9);\nDeposition of Adriana Mucinska Ross, March 15, 2010 (hereinafter “Ross Depo.”) (Deposition\nattachment #15). Each of these co-conspirators invoked their respective rights against self-\nincrimination as to all relevant questions, and the depositions have been attached.\n\n58. At all relevant times Edwards has had a good faith basis to believe and did in fact\nbelieve Sarah Kellen was an employee of Epstein's and had been identified as a defendant in at\nleast one of the complaints against Epstein for her role in bringing girls to Epstein's mansion to\nbe abused. At the deposition, she was represented by Bruce Reinhart. She invoked the Fifth on",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "22",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010587",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-03-08",
+      "2010-03-24",
+      "2010-04-13",
+      "2010-03-15"
+    ],
+    "people": [
+      "Epstein",
+      "Edwards",
+      "Mr. Edwards",
+      "BB",
+      "Sarah Kellen",
+      "Nadia Marcinkova",
+      "Adriana Mucinska Ross",
+      "Bruce Reinhart"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "Deposition attachment #10",
+      "Exhibit “N”",
+      "Deposition attachments #1, 6, 7, 10, 11, 12, and 13",
+      "Deposition attachment #14",
+      "Deposition attachment #9",
+      "Deposition attachment #15",
+      "HOUSE_OVERSIGHT_010587",
+      "22"
+    ],
+    "financial_amounts": [
+      "millions of dollars"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [],
+      "urls": [
+        "http://www.youtube.com/watch?v=V-dqoEyYXx4",
+        "http://www.youtube.com/watch?v=YCNiYltW-r0"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Pleading/Motion",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of depositions related to cases against Epstein, including depositions of Epstein and his alleged co-conspirators Sarah Kellen, Nadia Marcinkova, and Adriana Mucinska Ross, who invoked their Fifth Amendment rights.",
+    "date": null,
+    "references": [
+      "Epstein deposition",
+      "Deposition attachment #10",
+      "Edwards Affidavit, Exhibit “N”",
+      "Deposition attachments #1, 6, 7, 10, 11, 12, and 13",
+      "Deposition of Epstein taken by an attorney representing BB",
+      "Deposition of Sarah Kellen",
+      "Deposition attachment #14",
+      "Deposition of Nadia Marcinkova",
+      "Deposition attachment #9",
+      "Deposition of Adriana Mucinska Ross",
+      "Deposition attachment #15"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.985
+  },
+  "notes": "The document appears to be part of a larger legal filing. The context suggests it is arguing a point about the actions of an individual named Edwards in relation to legal proceedings against Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010587.jpg",
+  "house_oversight_id": "010587",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:34:15.490419Z",
+    "model": "gemini-2.5-pro"
+  }
+}

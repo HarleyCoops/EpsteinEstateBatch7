@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010586.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal or investigative document. The page is numbered 21 at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010586' in the bottom right corner. The text is organized into numbered paragraphs (53, 54, and 55) under a centered, underlined heading.",
+    "layout": "The document has a header, a main body of text with numbered paragraphs, a centered page number at the bottom, and a document identifier in the bottom right corner. The text is left-aligned with standard margins.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Epstein’s Obstruction of Normal Discovery and Attacks on His Victims\n\n53. Once Edwards filed his civil complaints for his three clients, he began the normal process of discovery for cases such as these. He sent standard discovery requests to Epstein about his sexual abuse of the minor girls, including requests for admissions, request for production, and interrogatories. See Edwards Affidavit, Exhibit “N”, at ¶¶11-19 and 25.\nRather than answer any substantive questions about his sexual abuse and his conspiracy for procuring minor girls for him to abuse, Epstein invoked his 5th amendment right against self-incrimination. An example of Epstein’s refusal to answer is attached as Composite Exhibit “Z” (original discovery propounded to Epstein and his responses invoking 5th amendment).\n\n54. During the discovery phase of the civil cases filed against Epstein, Epstein’s deposition was taken at least five times. During all of those depositions, Epstein refused to answer any substantive questions about his sexual abuse of minor girls. See, e.g., Deposition Attachments 1, 6 and 7.\n\n55. During these depositions, Epstein further attempted to obstruct legitimate questioning by inserting a variety of irrelevant information about his case. As one of innumerable examples, on March 8, 2010, Mr. Horowitz, representing seven victims, Jane Doe’s 2-8, asked, \"Q: In 2004, did you rub Jane Doe 3’s vagina? A: Excuse me. I’d like to answer that question, as I would like to answer mostly every question you’ve asked me here today; however, upon advice of counsel, I cannot answer that question. They’ve advised me I must assert my Sixth Amendment, Fifth Amendment and Fourteenth Amendment Rights against self--excuse me, against--under the Constitution. And though your partner, Jeffrey Herman, was disbarred after filing this lawsuit [a statement that was untrue], Mr. Edwards’ partner sits in jail for\n\n21\n\nHOUSE_OVERSIGHT_010586",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Epstein’s Obstruction of Normal Discovery and Attacks on His Victims",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "53. Once Edwards filed his civil complaints for his three clients, he began the normal process of discovery for cases such as these. He sent standard discovery requests to Epstein about his sexual abuse of the minor girls, including requests for admissions, request for production, and interrogatories. See Edwards Affidavit, Exhibit “N”, at ¶¶11-19 and 25.\nRather than answer any substantive questions about his sexual abuse and his conspiracy for procuring minor girls for him to abuse, Epstein invoked his 5th amendment right against self-incrimination. An example of Epstein’s refusal to answer is attached as Composite Exhibit “Z” (original discovery propounded to Epstein and his responses invoking 5th amendment).\n\n54. During the discovery phase of the civil cases filed against Epstein, Epstein’s deposition was taken at least five times. During all of those depositions, Epstein refused to answer any substantive questions about his sexual abuse of minor girls. See, e.g., Deposition Attachments 1, 6 and 7.\n\n55. During these depositions, Epstein further attempted to obstruct legitimate questioning by inserting a variety of irrelevant information about his case. As one of innumerable examples, on March 8, 2010, Mr. Horowitz, representing seven victims, Jane Doe’s 2-8, asked, \"Q: In 2004, did you rub Jane Doe 3’s vagina? A: Excuse me. I’d like to answer that question, as I would like to answer mostly every question you’ve asked me here today; however, upon advice of counsel, I cannot answer that question. They’ve advised me I must assert my Sixth Amendment, Fifth Amendment and Fourteenth Amendment Rights against self--excuse me, against--under the Constitution. And though your partner, Jeffrey Herman, was disbarred after filing this lawsuit [a statement that was untrue], Mr. Edwards’ partner sits in jail for",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "21",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010586",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-03-08",
+      "2004"
+    ],
+    "people": [
+      "Epstein",
+      "Edwards",
+      "Mr. Horowitz",
+      "Jane Doe 3",
+      "Jeffrey Herman"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010586"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010586"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Epstein’s Obstruction of Normal Discovery and Attacks on His Victims",
+    "date": null,
+    "references": [
+      "Edwards Affidavit, Exhibit “N”",
+      "Composite Exhibit “Z”",
+      "Deposition Attachments 1, 6 and 7"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be part of a legal filing or report detailing Jeffrey Epstein's behavior during civil litigation. The text in paragraph 55 cuts off mid-sentence.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010586.jpg",
+  "house_oversight_id": "010586",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:33:46.599445Z",
+    "model": "gemini-2.5-pro"
+  }
+}

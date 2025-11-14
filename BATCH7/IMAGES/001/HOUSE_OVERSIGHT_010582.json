@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010582.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, likely a court filing or a report. The page is numbered 17 and contains numbered paragraphs (39 through 42) detailing legal proceedings and agreements related to a defendant named Epstein. The text is typewritten in a serif font.",
+    "layout": "The document has a standard portrait layout with a main body of text, a centered page number at the bottom, and a document identifier in the bottom right corner. The text is organized into numbered paragraphs.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "effectively terminated by the U.S. Attorney's office. See Hearing Transcript, July 11, 2008\n(Exhibit “Q”).\n\n39. Edwards learned that Jane Doe felt so strongly that the plea bargain was\ninappropriate that she made her own determination to appear on a television program and\nexercise her First Amendment rights to criticize the unduly lenient plea bargain Epstein received\nin a criminal case.\n\n40. The CVRA action that Edwards filed was recently administratively closed and\nEdwards filed a Motion to reopen that proceeding. See No. 9:08-CV-80736 (S.D. Fla.).\n\nEpstein's Entry of Guilty Pleas to Sex Offenses\n\n41. Ultimately, on June 30, 2008, in the Fifteenth Judicial Circuit in Palm Beach\nCounty, Florida, defendant Epstein, entered pleas of \"guilty\" to various Florida state crimes\ninvolving the solicitation of minors for prostitution and the procurement of minors for the\npurposes of prostitution. See Plea Colloquy (Exhibit “R”).\n\n42. As a condition of that plea, and in exchange for the Federal Government not\nprosecuting the Defendant, Epstein additionally entered into an agreement with the Federal\nGovernment acknowledging that approximately thirty-four (34) other young girls could receive\npayments from him under the federal statute providing for compensation to victims of child\nsexual abuse, 18 U.S.C. § 2255. As had been agreed months before, the U.S. Attorney's Office\ndid not prosecute Epstein federally for his sexual abuse of these minor girls. See Addendum to\nNon-Prosecution Agreement (Exhibit “S”) (in redacted form to protect the identities of the\nminors involved).\n\n17\n\nHOUSE_OVERSIGHT_010582",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "effectively terminated by the U.S. Attorney's office. See Hearing Transcript, July 11, 2008\n(Exhibit “Q”).\n\n39. Edwards learned that Jane Doe felt so strongly that the plea bargain was\ninappropriate that she made her own determination to appear on a television program and\nexercise her First Amendment rights to criticize the unduly lenient plea bargain Epstein received\nin a criminal case.\n\n40. The CVRA action that Edwards filed was recently administratively closed and\nEdwards filed a Motion to reopen that proceeding. See No. 9:08-CV-80736 (S.D. Fla.).\n\nEpstein's Entry of Guilty Pleas to Sex Offenses\n\n41. Ultimately, on June 30, 2008, in the Fifteenth Judicial Circuit in Palm Beach\nCounty, Florida, defendant Epstein, entered pleas of \"guilty\" to various Florida state crimes\ninvolving the solicitation of minors for prostitution and the procurement of minors for the\npurposes of prostitution. See Plea Colloquy (Exhibit “R”).\n\n42. As a condition of that plea, and in exchange for the Federal Government not\nprosecuting the Defendant, Epstein additionally entered into an agreement with the Federal\nGovernment acknowledging that approximately thirty-four (34) other young girls could receive\npayments from him under the federal statute providing for compensation to victims of child\nsexual abuse, 18 U.S.C. § 2255. As had been agreed months before, the U.S. Attorney's Office\ndid not prosecute Epstein federally for his sexual abuse of these minor girls. See Addendum to\nNon-Prosecution Agreement (Exhibit “S”) (in redacted form to protect the identities of the\nminors involved).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "17",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010582",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-07-11",
+      "2008-06-30"
+    ],
+    "people": [
+      "Edwards",
+      "Jane Doe",
+      "Epstein"
+    ],
+    "organizations": [
+      "U.S. Attorney's office",
+      "Federal Government"
+    ],
+    "locations": [
+      "Palm Beach County, Florida",
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "9:08-CV-80736",
+      "18 U.S.C. § 2255",
+      "HOUSE_OVERSIGHT_010582"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010582"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings involving Edwards, Jane Doe, and Epstein, including plea agreements and civil actions.",
+    "date": null,
+    "references": [
+      "Hearing Transcript (Exhibit “Q”)",
+      "Case No. 9:08-CV-80736 (S.D. Fla.)",
+      "Plea Colloquy (Exhibit “R”)",
+      "Addendum to Non-Prosecution Agreement (Exhibit “S”)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger legal document detailing the history of a case involving Jeffrey Epstein. The text is clear and legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010582.jpg",
+  "house_oversight_id": "010582",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:32:19.267137Z",
+    "model": "gemini-2.5-pro"
+  }
+}

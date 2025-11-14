@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010591.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document, appearing to be from a legal or investigative report. The page contains two numbered paragraphs, 66 and 67. The text is black on a white background. A page number is centered at the bottom, and a document identifier is in the bottom right corner.",
+    "layout": "Standard portrait layout with a main body of text, a page number in the footer, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "66.     In view of this information suggesting Brunel could provide significant evidence\nof Epstein’s trafficking in young girls for sexual abuse, Edwards had Brunel served in New York\nfor deposition. See Notice of Deposition of Jean Luc Brunel attached hereto as Exhibit “II.”\nBefore the deposition took place, Brunel’s attorney (Tama Kudman of West Palm Beach)\ncontacted Edwards to delay the deposition date. Eventually Kudman informed Edwards in\nJanuary 2009 that Brunel had left the country and was back in France with no plans to return.\nThis information was untrue; Brunel was actually staying with Epstein in West Palm Beach. See\nBanasiak deposition, deposition attachment #16 at 154-160 and 172-175; see also pages from\nEpstein’s probation file evidencing Jean Luc Brunel (JLB) staying at his house during that\nrelevant period of time attached Exhibit “JJ”. As a result, Edwards filed a Motion for Contempt,\nattached hereto as Exhibit “KK” (Because Epstein settled this case, the motion was never ruled\nupon.)\n\n67.     Edwards was also informed that Epstein paid for not only Brunel’s representation\nduring the civil process but also paid for legal representation for Sarah Kellen (Epstein’s\nexecutive assistant and procurer of girls for him to abuse), Larry Visoski (Epstein’s personal\npilot), Dave Rogers (Epstein’s personal pilot), Larry Harrison (Epstein’s personal pilot), Louella\nRabuyo (Epstein’s housekeeper), Nadia Marcinkova (Epstein’s live-in sex slave), Ghislaine\nMaxwell (manager of Epstein’s affairs and businesses), Mark Epstein (Epstein’s brother), and\nJanusz Banasiak (Epstein’s house manager) It was nearly impossible to take a deposition of\nsomeone that would have helpful information that was not represented by an attorney paid for by\nEpstein. See Edwards Affidavit, Exhibit “N” at ¶11.\n\n26\n\nHOUSE_OVERSIGHT_010591",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "66.     In view of this information suggesting Brunel could provide significant evidence\nof Epstein’s trafficking in young girls for sexual abuse, Edwards had Brunel served in New York\nfor deposition. See Notice of Deposition of Jean Luc Brunel attached hereto as Exhibit “II.”\nBefore the deposition took place, Brunel’s attorney (Tama Kudman of West Palm Beach)\ncontacted Edwards to delay the deposition date. Eventually Kudman informed Edwards in\nJanuary 2009 that Brunel had left the country and was back in France with no plans to return.\nThis information was untrue; Brunel was actually staying with Epstein in West Palm Beach. See\nBanasiak deposition, deposition attachment #16 at 154-160 and 172-175; see also pages from\nEpstein’s probation file evidencing Jean Luc Brunel (JLB) staying at his house during that\nrelevant period of time attached Exhibit “JJ”. As a result, Edwards filed a Motion for Contempt,\nattached hereto as Exhibit “KK” (Because Epstein settled this case, the motion was never ruled\nupon.)\n\n67.     Edwards was also informed that Epstein paid for not only Brunel’s representation\nduring the civil process but also paid for legal representation for Sarah Kellen (Epstein’s\nexecutive assistant and procurer of girls for him to abuse), Larry Visoski (Epstein’s personal\npilot), Dave Rogers (Epstein’s personal pilot), Larry Harrison (Epstein’s personal pilot), Louella\nRabuyo (Epstein’s housekeeper), Nadia Marcinkova (Epstein’s live-in sex slave), Ghislaine\nMaxwell (manager of Epstein’s affairs and businesses), Mark Epstein (Epstein’s brother), and\nJanusz Banasiak (Epstein’s house manager) It was nearly impossible to take a deposition of\nsomeone that would have helpful information that was not represented by an attorney paid for by\nEpstein. See Edwards Affidavit, Exhibit “N” at ¶11.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "26",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010591",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-01"
+    ],
+    "people": [
+      "Brunel",
+      "Epstein",
+      "Edwards",
+      "Jean Luc Brunel",
+      "Tama Kudman",
+      "Banasiak",
+      "Sarah Kellen",
+      "Larry Visoski",
+      "Dave Rogers",
+      "Larry Harrison",
+      "Louella Rabuyo",
+      "Nadia Marcinkova",
+      "Ghislaine Maxwell",
+      "Mark Epstein",
+      "Janusz Banasiak"
+    ],
+    "organizations": [],
+    "locations": [
+      "New York",
+      "West Palm Beach",
+      "France"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010591",
+      "26",
+      "Exhibit “II”",
+      "Exhibit “JJ”",
+      "Exhibit “KK”",
+      "Exhibit “N”",
+      "deposition attachment #16"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010591"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation related to Jeffrey Epstein, detailing efforts to depose Jean Luc Brunel and Epstein's payment for legal representation for various associates.",
+    "date": null,
+    "references": [
+      "Notice of Deposition of Jean Luc Brunel (Exhibit “II”)",
+      "Banasiak deposition (attachment #16)",
+      "Epstein’s probation file (Exhibit “JJ”)",
+      "Motion for Contempt (Exhibit “KK”)",
+      "Edwards Affidavit (Exhibit “N”)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal filing or an investigative summary related to the Jeffrey Epstein case. All text is clear and legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010591.jpg",
+  "house_oversight_id": "010591",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:35:42.192980Z",
+    "model": "gemini-2.5-pro"
+  }
+}
