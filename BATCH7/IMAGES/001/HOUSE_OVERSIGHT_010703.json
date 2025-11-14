@@ -1,0 +1,120 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010703.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing the ownership structure of various business entities associated with Donald J. Trump. The page is numbered A36 of 47.",
+    "layout": "The document is structured as a form with distinct sections for each business entity, identified by a reference number. Each section lists the entity name, ownership percentages, and the names and roles of the owners. A header contains form information and the filer's name, and a footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA36 of 47\n\nReference #\n\nHas ownership interest in:\n100\nEntity Name\nTRUMP OCEAN MANAGING MEMBER LLC\nTitle\nManaging Member\n\n408 TRUMP OLD POST OFFICE LLC\n\nOwned by:\n% Ownership\n1.00%\nName\nTrump, Donald J.\nOwnership\n1.00%\n\nHas ownership interest in:\nEntity Name\nTRUMP OLD POST OFFICE LLC\nRole\nManaging Member\n\nOwned by:\n% Ownership\n76.725\n22.275\nName\nTRUMP OLD POST OFFICE MEMBER CORP\nDJT HOLDINGS LLC\nTrump Family Members\nRole\nMember\nMember\n\n409 TRUMP OLD POST OFFICE MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n77.5\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\n\nHas ownership interest in:\n22.5\nEntity Name\nTRUMP OLD POST OFFICE LLC\nTrump Family Members\nTitle\nManaging Member\n\n411 TRUMP ORGANIZATION LLC *(3)\n\nAssumed Names:\nD/B/A\nThe Trump Organization\nJurisdiction\nNew York\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n412 TRUMP PAGEANTS, INC. *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nMiss Universe L.P., LLLP\nTitle\nPartner\n\n413 Miss Universe L.P., LLLP\n\nOwned by:\n% Ownership\n2\n98\nName\nTRUMP PAGEANTS, INC.\nDJT Holdings LLC\nRole\nPartner\nPartner\n\n414 TRUMP PALACE/PARC LLC\n\nOwned by:\n% Ownership\n0.1\n99.9\nName\nDJT MEMBER INC\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n\n415 TRUMP PANAMA CONDOMINIUM MANAGEMENT LLC *(3)\n\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PANAMA CONDOMINIUM MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n416 TRUMP PANAMA CONDOMINIUM MEMBER CORP *(3)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP PANAMA CONDOMINIUM MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n417 TRUMP PANAMA HOTEL MANAGEMENT LLC\n\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n418 TRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP PANAMA HOTEL MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n419 TRUMP PARK AVENUE ACQUISITION LLC *(1)\n\nHOUSE_OVERSIGHT_010703",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA36 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n\nHas ownership interest in:\n100\nEntity Name\nTRUMP OCEAN MANAGING MEMBER LLC\nTitle\nManaging Member\n\n408 TRUMP OLD POST OFFICE LLC\n\nOwned by:\n% Ownership\n1.00%\nName\nTrump, Donald J.\nOwnership\n1.00%\n\nHas ownership interest in:\nEntity Name\nTRUMP OLD POST OFFICE LLC\nRole\nManaging Member\n\nOwned by:\n% Ownership\n76.725\n22.275\nName\nTRUMP OLD POST OFFICE MEMBER CORP\nDJT HOLDINGS LLC\nTrump Family Members\nRole\nMember\nMember\n\n409 TRUMP OLD POST OFFICE MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n77.5\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\n\nHas ownership interest in:\n22.5\nEntity Name\nTRUMP OLD POST OFFICE LLC\nTrump Family Members\nTitle\nManaging Member\n\n411 TRUMP ORGANIZATION LLC *(3)\n\nAssumed Names:\nD/B/A\nThe Trump Organization\nJurisdiction\nNew York\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n412 TRUMP PAGEANTS, INC. *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nMiss Universe L.P., LLLP\nTitle\nPartner\n\n413 Miss Universe L.P., LLLP\n\nOwned by:\n% Ownership\n2\n98\nName\nTRUMP PAGEANTS, INC.\nDJT Holdings LLC\nRole\nPartner\nPartner\n\n414 TRUMP PALACE/PARC LLC\n\nOwned by:\n% Ownership\n0.1\n99.9\nName\nDJT MEMBER INC\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n\n415 TRUMP PANAMA CONDOMINIUM MANAGEMENT LLC *(3)\n\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PANAMA CONDOMINIUM MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n416 TRUMP PANAMA CONDOMINIUM MEMBER CORP *(3)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP PANAMA CONDOMINIUM MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n417 TRUMP PANAMA HOTEL MANAGEMENT LLC\n\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n418 TRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP PANAMA HOTEL MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n419 TRUMP PARK AVENUE ACQUISITION LLC *(1)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010703",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump Family Members"
+    ],
+    "organizations": [
+      "TRUMP OCEAN MANAGING MEMBER LLC",
+      "TRUMP OLD POST OFFICE LLC",
+      "TRUMP OLD POST OFFICE MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP ORGANIZATION LLC",
+      "The Trump Organization",
+      "TRUMP PAGEANTS, INC.",
+      "Miss Universe L.P., LLLP",
+      "TRUMP PALACE/PARC LLC",
+      "DJT MEMBER INC",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP PANAMA CONDOMINIUM MANAGEMENT LLC",
+      "TRUMP PANAMA CONDOMINIUM MEMBER CORP",
+      "TRUMP PANAMA HOTEL MANAGEMENT LLC",
+      "TRUMP PANAMA HOTEL MANAGEMENT MEMBER CORP",
+      "TRUMP PARK AVENUE ACQUISITION LLC"
+    ],
+    "locations": [
+      "New York"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A36 of 47",
+      "HOUSE_OVERSIGHT_010703",
+      "408",
+      "409",
+      "411",
+      "412",
+      "413",
+      "414",
+      "415",
+      "416",
+      "417",
+      "418",
+      "419"
+    ],
+    "financial_amounts": [
+      "100",
+      "1.00%",
+      "76.725",
+      "22.275",
+      "77.5",
+      "22.5",
+      "2",
+      "98",
+      "0.1",
+      "99.9",
+      "1",
+      "99"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010703"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger financial disclosure report. The relationships between entities are complex; for example, one entity is listed as having an ownership interest in another, which is then detailed in a separate section. The data for the un-numbered entry between 409 and 411 seems to be a continuation or clarification of entry 409, but it is not explicitly linked.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010703.jpg",
+  "house_oversight_id": "010703",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:50:55.077713Z",
+    "model": "gemini-2.5-pro"
+  }
+}

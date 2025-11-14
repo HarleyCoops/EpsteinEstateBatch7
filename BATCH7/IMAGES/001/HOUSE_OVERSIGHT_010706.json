@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010706.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing the ownership structure of various business entities. The document lists the filer's name as Donald J. Trump and provides a breakdown of ownership percentages and roles in companies with 'Trump' in their names, such as 'TRUMP TOWER COMMERCIAL LLC' and 'TRUMP VINEYARD ESTATES LLC'.",
+    "layout": "The document has a clear, structured layout with a header containing form information and filer details, a main body with columnar data for different entities, and a footer with a document identifier. Each entity is assigned a reference number and details its owners and its own ownership interests.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA39 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS TORONTO LP\n1.00%\nMember\n444 TRUMP TOWER COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP TOWER MANAGING MEMBER INC.\nManaging Member\n99\nThe Trump-Equitable Fifth Avenue Company\nMember\n445 TRUMP TOWER MANAGING MEMBER INC.\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP TOWER COMMERCIAL LLC\n1.00%\nManaging Member\n446 Trump Village Construction Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nStarrett City Associates, L.P.\n1.84%\nPartner\nSpring Creek Plaza LLC\n1.84%\nMember\n447 TRUMP VINEYARD ESTATES LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VINEYARD ESTATES MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VINEYARD ESTATES LOT 3 OWNER LLC\n100.00%\nMember\n448 TRUMP VINEYARD ESTATES LOT 3 OWNER LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP VINEYARD ESTATES LLC\nMember\n449 TRUMP VINEYARD ESTATES MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VINEYARD ESTATES LLC\n1.00%\nManaging Member\n450 TRUMP VIRGINIA ACQUISITIONS LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VIRGINIA ACQUISITIONS MANAGER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VIRGINIA ACQUISITIONS LLC\n1.00%\nManaging Member\n451 TRUMP VIRGINIA ACQUISITIONS MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n452 TRUMP VIRGINIA LOT 5 LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VIRGINIA LOT 5 MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n453 TRUMP VIRGINIA LOT 5 MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHOUSE_OVERSIGHT_010706",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA39 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing Member Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP MARKS TORONTO LP\n1.00%\nMember\n444 TRUMP TOWER COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP TOWER MANAGING MEMBER INC.\nManaging Member\n99\nThe Trump-Equitable Fifth Avenue Company\nMember\n445 TRUMP TOWER MANAGING MEMBER INC.\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP TOWER COMMERCIAL LLC\n1.00%\nManaging Member\n446 Trump Village Construction Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nStarrett City Associates, L.P.\n1.84%\nPartner\nSpring Creek Plaza LLC\n1.84%\nMember\n447 TRUMP VINEYARD ESTATES LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VINEYARD ESTATES MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VINEYARD ESTATES LOT 3 OWNER LLC\n100.00%\nMember\n448 TRUMP VINEYARD ESTATES LOT 3 OWNER LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP VINEYARD ESTATES LLC\nMember\n449 TRUMP VINEYARD ESTATES MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VINEYARD ESTATES LLC\n1.00%\nManaging Member\n450 TRUMP VIRGINIA ACQUISITIONS LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VIRGINIA ACQUISITIONS MANAGER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP VIRGINIA ACQUISITIONS LLC\n1.00%\nManaging Member\n451 TRUMP VIRGINIA ACQUISITIONS MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n452 TRUMP VIRGINIA LOT 5 LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP VIRGINIA LOT 5 MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n453 TRUMP VIRGINIA LOT 5 MANAGER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010706",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS TORONTO LP",
+      "TRUMP TOWER COMMERCIAL LLC",
+      "TRUMP TOWER MANAGING MEMBER INC.",
+      "The Trump-Equitable Fifth Avenue Company",
+      "The Donald J. Trump Revocable Trust",
+      "Trump Village Construction Corp.",
+      "Trump Family Members",
+      "Starrett City Associates, L.P.",
+      "Spring Creek Plaza LLC",
+      "TRUMP VINEYARD ESTATES LLC",
+      "TRUMP VINEYARD ESTATES MANAGER CORP",
+      "DJT HOLDINGS LLC",
+      "TRUMP VINEYARD ESTATES LOT 3 OWNER LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP VIRGINIA ACQUISITIONS LLC",
+      "TRUMP VIRGINIA ACQUISITIONS MANAGER CORP",
+      "DJT Holdings LLC",
+      "TRUMP VIRGINIA LOT 5 LLC",
+      "TRUMP VIRGINIA LOT 5 MANAGER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "A39 of 47",
+      "HOUSE_OVERSIGHT_010706",
+      "444",
+      "445",
+      "446",
+      "447",
+      "448",
+      "449",
+      "450",
+      "451",
+      "452",
+      "453"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1.00%",
+      "1%",
+      "99%",
+      "100%",
+      "1.00%",
+      "25%",
+      "75%",
+      "1.84%",
+      "1.84%",
+      "1%",
+      "99%",
+      "100.00%",
+      "100%",
+      "100%",
+      "1.00%",
+      "1%",
+      "99%",
+      "1.00%",
+      "100%",
+      "1%",
+      "99%",
+      "100%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure of Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with '*(1)' next to their names, which likely refers to a footnote or addendum not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010706.jpg",
+  "house_oversight_id": "010706",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:52:30.249634Z",
+    "model": "gemini-2.5-pro"
+  }
+}

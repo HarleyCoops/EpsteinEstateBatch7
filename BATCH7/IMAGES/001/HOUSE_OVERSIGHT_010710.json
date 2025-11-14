@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010710.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing various business entities, their ownership structures, and associated roles. The document is for Donald J. Trump and is page A43 of 47.",
+    "layout": "The document has a header with form information, filer's name, and page number. The main body is a list of entities, each with a reference number. For each entity, ownership details (percentage, name of owner, and role) are provided in a structured format. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA43 of 47\n\nReference #\nDT BALI GOLF MANAGER\n1.00%\nManaging Member\n\n495 DT BALI HOTEL MANAGER LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI HOTEL MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n496 DT BALI HOTEL MANAGER MEMBER CORP *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT BALI HOTEL MANAGER LLC\n1.00%\nManaging Member\n\n497 DT BALI TECHNICAL SERVICES MANAGER LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI TECHNICAL SERVICES MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n498 DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT BALI TECHNICAL SERVICES MANAGER LLC\n1.00%\nManaging Member\n\n499 DT CONNECT EUROPE LIMITED\n\nOwned by:\n% Ownership\nName\nRole\n100\nGolf Recreation Scotland Limited\nPartner\n\n500 DT ENDEAVOR I LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n503 DT JEDDAH TECHNICAL SERVICES MANAGER LLC *(4)--DISSOLVED 11/15/16\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP\nManaging Member\n99\nTrump, Donald J.\nMember\n\n504 DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP *(4)--DISSOLVED 11/15/16\n\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT JEDDAH TECHNICAL SERVICES MANAGER LLC\n1.00%\nManaging Member\n\n505 DT LIDO GOLF MANAGER LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT LIDO GOLF MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n506 DT LIDO GOLF MANAGER MEMBER CORP *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n\nHOUSE_OVERSIGHT_010710",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA43 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nDT BALI GOLF MANAGER\n1.00%\nManaging Member\n\n495 DT BALI HOTEL MANAGER LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI HOTEL MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n496 DT BALI HOTEL MANAGER MEMBER CORP *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT BALI HOTEL MANAGER LLC\n1.00%\nManaging Member\n\n497 DT BALI TECHNICAL SERVICES MANAGER LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI TECHNICAL SERVICES MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n498 DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT BALI TECHNICAL SERVICES MANAGER LLC\n1.00%\nManaging Member\n\n499 DT CONNECT EUROPE LIMITED\n\nOwned by:\n% Ownership\nName\nRole\n100\nGolf Recreation Scotland Limited\nPartner\n\n500 DT ENDEAVOR I LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n503 DT JEDDAH TECHNICAL SERVICES MANAGER LLC *(4)--DISSOLVED 11/15/16\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP\nManaging Member\n99\nTrump, Donald J.\nMember\n\n504 DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP *(4)--DISSOLVED 11/15/16\n\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT JEDDAH TECHNICAL SERVICES MANAGER LLC\n1.00%\nManaging Member\n\n505 DT LIDO GOLF MANAGER LLC *(4)\n\nOwned by:\n% Ownership\nName\nRole\n1\nDT LIDO GOLF MANAGER MEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n506 DT LIDO GOLF MANAGER MEMBER CORP *(4)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010710",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT BALI GOLF MANAGER",
+      "DT BALI HOTEL MANAGER LLC",
+      "DT BALI HOTEL MANAGER MEMBER CORP",
+      "TTTT VENTURE LLC",
+      "DJT Holdings Managing Member LLC",
+      "DT BALI TECHNICAL SERVICES MANAGER LLC",
+      "DT BALI TECHNICAL SERVICES MANAGER MEMBER CORP",
+      "DT CONNECT EUROPE LIMITED",
+      "Golf Recreation Scotland Limited",
+      "DT ENDEAVOR I LLC",
+      "The Donald J. Trump Revocable Trust",
+      "DT JEDDAH TECHNICAL SERVICES MANAGER LLC",
+      "DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP",
+      "DT LIDO GOLF MANAGER LLC",
+      "DT LIDO GOLF MANAGER MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A43 of 47",
+      "HOUSE_OVERSIGHT_010710",
+      "495",
+      "496",
+      "497",
+      "498",
+      "499",
+      "500",
+      "503",
+      "504",
+      "505",
+      "506"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "100",
+      "100",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010710"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several business entities and their ownership structures. Two entities, DT JEDDAH TECHNICAL SERVICES MANAGER LLC and DT JEDDAH TECHNICAL SERVICES MANAGER MEMBER CORP, are noted as being dissolved on November 15, 2016.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010710.jpg",
+  "house_oversight_id": "010710",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:54:26.857526Z",
+    "model": "gemini-2.5-pro"
+  }
+}

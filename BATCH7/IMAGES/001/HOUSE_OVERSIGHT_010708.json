@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010708.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing the assets and ownership interests of Donald J. Trump. The page is numbered A41 of 47 and lists various corporate entities, their owners, and the percentage of ownership.",
+    "layout": "The document has a clear header with the form title, filer's name, and page number. The main body is structured in a list format, with each entry identified by a reference number and the name of an entity. Under each entity, details about its ownership structure are provided in a tabular format with columns for '% Ownership', 'Name', 'Role', 'Title', and 'Ownership'. A footer at the bottom right contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA41 of 47\n\nReference #\n1\nTW VENTURE II MANAGING\nMEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nTRUMP INTERNATIONAL GOLF\nLINKS - DOONBEG\nOwnership\n100.00%\nTitle\nShareholder\n\n465 TW VENTURE II MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTW VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n466 ULTIMATE AIR CORP. *(3)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n467 UNIT 2502 ENTERPRISES CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nUNIT 2502 ENTERPRISES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n468 UNIT 2502 ENTERPRISES LLC *(5)\n\nOwned by:\n% Ownership\n1\n99\nName\nUNIT 2502 ENTERPRISES CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n469 TRUMP NATIONAL GOLF CLUB - LOS ANGELES\n\nOwned by:\n% Ownership\n100\nName\nRPV DEVELOPMENT LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nVHPS LLC\nOwnership\n100.00%\nTitle\nManaging Member\n\n470 VHPS LLC *(assets & income already disclosed on Part 2 under TRUMP NATIONAL GOLF CLUB - LOS ANGELES; owner of vacant land)\n\nOwned by:\n% Ownership\n100\nName\nTRUMP NATIONAL GOLF CLUB - LOS\nANGELES\nRole\nManaging Member\n\n471 WEST PALM OPERATIONS LLC *(5)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n472 Wexford Hall Inc. *(3)\n\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nShareholder\nShareholder\n\n473 WHITE COURSE LLC *(5)\n\nOwned by:\n% Ownership\n1\n99\nName\nWHITE COURSE MANAGING\nMEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n474 WHITE COURSE MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nWHITE COURSE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n475 Wilshire Hall LLC *(3)\n\nOwned by:\n% Ownership\n25\n75\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nMember\nMember\n\nHOUSE_OVERSIGHT_010708",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA41 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n1\nTW VENTURE II MANAGING\nMEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nTRUMP INTERNATIONAL GOLF\nLINKS - DOONBEG\nOwnership\n100.00%\nTitle\nShareholder\n\n465 TW VENTURE II MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTW VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n466 ULTIMATE AIR CORP. *(3)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n467 UNIT 2502 ENTERPRISES CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nUNIT 2502 ENTERPRISES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n468 UNIT 2502 ENTERPRISES LLC *(5)\n\nOwned by:\n% Ownership\n1\n99\nName\nUNIT 2502 ENTERPRISES CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n469 TRUMP NATIONAL GOLF CLUB - LOS ANGELES\n\nOwned by:\n% Ownership\n100\nName\nRPV DEVELOPMENT LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nVHPS LLC\nOwnership\n100.00%\nTitle\nManaging Member\n\n470 VHPS LLC *(assets & income already disclosed on Part 2 under TRUMP NATIONAL GOLF CLUB - LOS ANGELES; owner of vacant land)\n\nOwned by:\n% Ownership\n100\nName\nTRUMP NATIONAL GOLF CLUB - LOS\nANGELES\nRole\nManaging Member\n\n471 WEST PALM OPERATIONS LLC *(5)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n472 Wexford Hall Inc. *(3)\n\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nShareholder\nShareholder\n\n473 WHITE COURSE LLC *(5)\n\nOwned by:\n% Ownership\n1\n99\nName\nWHITE COURSE MANAGING\nMEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n474 WHITE COURSE MANAGING MEMBER CORP *(1)\n\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nWHITE COURSE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n475 Wilshire Hall LLC *(3)\n\nOwned by:\n% Ownership\n25\n75\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nMember\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010708",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump Family Members"
+    ],
+    "organizations": [
+      "TW VENTURE II MANAGING MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "TRUMP INTERNATIONAL GOLF LINKS - DOONBEG",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TW VENTURE II LLC",
+      "ULTIMATE AIR CORP.",
+      "UNIT 2502 ENTERPRISES CORP",
+      "UNIT 2502 ENTERPRISES LLC",
+      "TRUMP NATIONAL GOLF CLUB - LOS ANGELES",
+      "RPV DEVELOPMENT LLC",
+      "VHPS LLC",
+      "WEST PALM OPERATIONS LLC",
+      "Wexford Hall Inc.",
+      "The Donald J. Trump Revocable Trust",
+      "WHITE COURSE LLC",
+      "WHITE COURSE MANAGING MEMBER CORP",
+      "Wilshire Hall LLC"
+    ],
+    "locations": [
+      "DOONBEG",
+      "LOS ANGELES"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A41 of 47",
+      "HOUSE_OVERSIGHT_010708",
+      "465",
+      "466",
+      "467",
+      "468",
+      "469",
+      "470",
+      "471",
+      "472",
+      "473",
+      "474",
+      "475"
+    ],
+    "financial_amounts": [
+      "100.00%",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "25",
+      "75"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010708"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists numerous entities and their ownership structures. The reference numbers (465-475) appear to be part of a larger list. Some entries have asterisks with numbers in parentheses, e.g., '*(1)', '*(3)', '*(5)', which likely refer to notes or categories not fully explained on this page. One entry for VHPS LLC includes a descriptive note about its assets being disclosed elsewhere.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010708.jpg",
+  "house_oversight_id": "010708",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:53:33.796460Z",
+    "model": "gemini-2.5-pro"
+  }
+}

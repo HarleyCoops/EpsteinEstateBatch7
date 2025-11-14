@@ -1,0 +1,124 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010709.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, specifically an OGE Form 278e. The document lists various business entities, their ownership structure, and the filer's role within them. The page is numbered A42 of 47 and has a footer indicating it is from the House Oversight Committee.",
+    "layout": "The document has a header with form information, a main body with a list of entities identified by a reference number, and a footer with a document identifier. Each entity entry includes details about its owners, ownership percentage, and the filer's role. Some entries also detail ownership interests in other entities.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nPage Number\nA42 of 47\n\nReference #\n\n476 Wollman Rink Operations LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n477 YORKTOWN REAL ESTATE LLC (F/K/A Yorktown Development Associates LLC) *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n478 HWA 555 Owners, LLC\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates I, L.P.\nPartner\n\n479 1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON\nOwned by:\n% Ownership\nName\nRole\n52\nHWA 1290 III LLC\nPartner\n20.2\nHWA 1290 IV LLC\nPartner\n27.8\nHWA 1290 V LLC\nPartner\n\n480 Trump Management Inc.\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\n\n481 HWA 1290 III LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates III,\nPartner\nL.P.\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n52.00%\nPartner\n\n482 HWA 1290 IV LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates IV,\nPartner\nL.P.\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n20.20%\nPartner\n\n483 HWA 1290 V LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates V, L.P.\nPartner\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n27.80%\nPartner\n\n486 Travel Enterprises Management Inc. *(5)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\n490 The Donald J. Trump Company LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n493 DT BALI GOLF MANAGER LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI GOLF MANAGER MEMBER\nManaging Member\nCORP\n99\nTTTT VENTURE LLC\nMember\n\n494 DT BALI GOLF MANAGER MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n\nHOUSE_OVERSIGHT_010709",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nPage Number\nA42 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n\n476 Wollman Rink Operations LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n477 YORKTOWN REAL ESTATE LLC (F/K/A Yorktown Development Associates LLC) *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n478 HWA 555 Owners, LLC\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates I, L.P.\nPartner\n\n479 1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON\nOwned by:\n% Ownership\nName\nRole\n52\nHWA 1290 III LLC\nPartner\n20.2\nHWA 1290 IV LLC\nPartner\n27.8\nHWA 1290 V LLC\nPartner\n\n480 Trump Management Inc.\nOwned by:\n% Ownership\nName\nRole\n25\nThe Donald J. Trump Revocable Trust\nShareholder\n75\nTrump Family Members\nShareholder\n\n481 HWA 1290 III LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates III,\nPartner\nL.P.\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n52.00%\nPartner\n\n482 HWA 1290 IV LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates IV,\nPartner\nL.P.\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n20.20%\nPartner\n\n483 HWA 1290 V LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nHudson Waterfront Associates V, L.P.\nPartner\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n1290 Avenue of the Americas\n27.80%\nPartner\n\n486 Travel Enterprises Management Inc. *(5)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\n490 The Donald J. Trump Company LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n493 DT BALI GOLF MANAGER LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT BALI GOLF MANAGER MEMBER\nManaging Member\nCORP\n99\nTTTT VENTURE LLC\nMember\n\n494 DT BALI GOLF MANAGER MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010709",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Wollman Rink Operations LLC",
+      "DJT Holdings LLC",
+      "YORKTOWN REAL ESTATE LLC",
+      "Yorktown Development Associates LLC",
+      "HWA 555 Owners, LLC",
+      "Hudson Waterfront Associates I, L.P.",
+      "1290 AVENUE OF THE AMERICAS, A TENANCY-IN-COMMON",
+      "HWA 1290 III LLC",
+      "HWA 1290 IV LLC",
+      "HWA 1290 V LLC",
+      "Trump Management Inc.",
+      "The Donald J. Trump Revocable Trust",
+      "Hudson Waterfront Associates III, L.P.",
+      "Hudson Waterfront Associates IV, L.P.",
+      "Hudson Waterfront Associates V, L.P.",
+      "Travel Enterprises Management Inc.",
+      "DJT Holdings Managing Member LLC",
+      "The Donald J. Trump Company LLC",
+      "DT BALI GOLF MANAGER LLC",
+      "DT BALI GOLF MANAGER MEMBER CORP",
+      "TTTT VENTURE LLC",
+      "DT BALI GOLF MANAGER MEMBER CORP"
+    ],
+    "locations": [
+      "1290 Avenue of the Americas"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A42 of 47",
+      "HOUSE_OVERSIGHT_010709",
+      "476",
+      "477",
+      "478",
+      "479",
+      "480",
+      "481",
+      "482",
+      "483",
+      "486",
+      "490",
+      "493",
+      "494"
+    ],
+    "financial_amounts": [
+      "100",
+      "52",
+      "20.2",
+      "27.8",
+      "25",
+      "75",
+      "52.00%",
+      "20.20%",
+      "27.80%",
+      "1",
+      "99"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010709"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The filer's name, Donald J. Trump, was identified from a cropped image provided as a hint, as it was not clearly visible in the main image's corresponding field.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010709.jpg",
+  "house_oversight_id": "010709",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:54:02.083215Z",
+    "model": "gemini-2.5-pro"
+  }
+}

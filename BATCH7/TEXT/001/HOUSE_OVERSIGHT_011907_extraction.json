@@ -1,0 +1,92 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_011907.txt",
+  "content": {
+    "full_text": "From: Nicholas Ribis \nSent: 5/7/2019 1:53:22 PM \nTo: 'J Deevacation@gmail.com] \nSubject: RE: \nImportance: High \nMore bad news for our friend \nFrom: J [mailto:jeevacation@gmail.com] \nSent: Tuesday, May 07, 2019 12:29 AM \nTo: Nicholas Ribis < \nSubject: \nhttps://www.nytimes.com/20 1 9/05/06/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoffhtml?action=click&module=Top%20Stories&pgtype=Homepage  \nplease note \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nHOUSE OVERSIGHT 011907 \n",
+    "sections": [
+      {
+        "section_index": 1,
+        "section_type": "email_header",
+        "text": "From: Nicholas Ribis \nSent: 5/7/2019 1:53:22 PM \nTo: 'J Deevacation@gmail.com] \nSubject: RE: \nImportance: High"
+      },
+      {
+        "section_index": 2,
+        "section_type": "email_body",
+        "text": "More bad news for our friend"
+      },
+      {
+        "section_index": 3,
+        "section_type": "forwarded_email_header",
+        "text": "From: J [mailto:jeevacation@gmail.com] \nSent: Tuesday, May 07, 2019 12:29 AM \nTo: Nicholas Ribis < \nSubject:"
+      },
+      {
+        "section_index": 4,
+        "section_type": "email_body",
+        "text": "https://www.nytimes.com/20 1 9/05/06/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoffhtml?action=click&module=Top%20Stories&pgtype=Homepage"
+      },
+      {
+        "section_index": 5,
+        "section_type": "paragraph",
+        "text": "please note"
+      },
+      {
+        "section_index": 6,
+        "section_type": "disclaimer",
+        "text": "The information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved"
+      },
+      {
+        "section_index": 7,
+        "section_type": "footer",
+        "text": "HOUSE OVERSIGHT 011907"
+      }
+    ]
+  },
+  "metadata": {
+    "document_type": "Email Communication",
+    "participants": [
+      "Nicholas Ribis",
+      "J",
+      "jeevacation@gmail.com",
+      "J Deevacation@gmail.com"
+    ],
+    "date_range": {
+      "earliest": "2019-05-07T00:29:00",
+      "latest": "2019-05-07T13:53:22"
+    },
+    "file_references": [
+      "HOUSE OVERSIGHT 011907"
+    ]
+  },
+  "entities": {
+    "people": [
+      "Nicholas Ribis",
+      "J"
+    ],
+    "organizations": [
+      "JEE",
+      "The New York Times",
+      "House Oversight Committee"
+    ],
+    "locations": [],
+    "dates": [
+      "5/7/2019 1:53:22 PM",
+      "Tuesday, May 07, 2019 12:29 AM",
+      "2019/05/06"
+    ],
+    "events": [
+      "Email communication regarding a New York Times article"
+    ]
+  },
+  "themes": [
+    "Political News",
+    "Confidential Communication",
+    "Trump Inauguration Investigation"
+  ],
+  "confidence": 0.95,
+  "notes": "The document is an email chain. The first email from Nicholas Ribis is a reply to a forwarded message from 'J'. The forwarded message contains a URL to a New York Times article, likely related to the Trump inauguration, based on the URL structure. The URL itself appears to have extra spaces ('20 1 9/05/06', 'p olitics', 'trump -inauguration-step hanie-winston-wolkoffhtml'), which may be transcription errors. The recipient email address for Nicholas Ribis is incomplete. The document includes a standard legal disclaimer and a House Oversight production number.",
+  "file_path": "TEXT\\001\\HOUSE_OVERSIGHT_011907.txt",
+  "house_oversight_id": "011907",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:55:51.203607Z",
+    "model": "gemini-2.5-pro"
+  }
+}

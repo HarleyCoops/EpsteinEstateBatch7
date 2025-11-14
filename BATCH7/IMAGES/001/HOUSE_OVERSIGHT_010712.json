@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010712.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, their ownership structure, and the filer's interest in them. The filer's name is Donald J. Trump. The page is numbered A45 of 47 and has a footer with the identifier 'HOUSE_OVERSIGHT_010712'.",
+    "layout": "The document has a header with form information and the filer's name. The main body consists of a series of numbered entries, each detailing a business entity, its owners, and any ownership interests it holds. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA45 of 47\nReference #\nHas ownership interest in :\nEntity Name\nDT TOWER I LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n517 DT TOWER KOLKATA LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT TOWER KOLKATA MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n518 DT TOWER KOLKATA MANAGING MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT TOWER KOLKATA LLC\nOwnership\n1.00%\nTitle\nMember\n519 DTTM OPERATIONS LLC\nOwned by :\n% Ownership\n1\n99\nName\nDTTM OPERATIONS MANAGING\nMEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\nHas ownership interest in :\nvarious entities as indicated elsewhere in this schedule\n520 DTTM OPERATIONS MANAGING MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in :\nvarious entities as indicated elsewhere in this schedule\n521 EID VENTURE II LLC *(2)\nOwned by :\n% Ownership\n1\n99\nName\nEID VENTURE II MEMBER CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n522 EID VENTURE II MEMBER CORP *(2)\nOwned by :\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nEID VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n523 MOBILE PAYROLL CONSTRUCTION LLC\nOwned by :\n% Ownership\n1\n99\nName\nMOBILE PAYROLL CONSTRUCTION\nMANAGER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n524 MOBILE PAYROLL CONSTRUCTION MANAGER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nMOBILE PAYROLL CONSTRUCTION LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n525 THC DC RESTAURANT HOSPITALITY LLC *(1)\nOwned by :\n% Ownership\n100\nName\nOPO HOTEL MANAGER LLC\nRole\nMember\n528 THC JEDDAH HOTEL MANAGER LLC *(4)--DISSOLVED 11/15/16\nHOUSE_OVERSIGHT_010712",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA45 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nHas ownership interest in :\nEntity Name\nDT TOWER I LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n517 DT TOWER KOLKATA LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT TOWER KOLKATA MANAGING\nMEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n518 DT TOWER KOLKATA MANAGING MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nDT TOWER KOLKATA LLC\nOwnership\n1.00%\nTitle\nMember\n519 DTTM OPERATIONS LLC\nOwned by :\n% Ownership\n1\n99\nName\nDTTM OPERATIONS MANAGING\nMEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\nHas ownership interest in :\nvarious entities as indicated elsewhere in this schedule\n520 DTTM OPERATIONS MANAGING MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in :\nvarious entities as indicated elsewhere in this schedule\n521 EID VENTURE II LLC *(2)\nOwned by :\n% Ownership\n1\n99\nName\nEID VENTURE II MEMBER CORP\nThe Donald J. Trump Revocable Trust\nRole\nManaging Member\nMember\n522 EID VENTURE II MEMBER CORP *(2)\nOwned by :\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nEID VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n523 MOBILE PAYROLL CONSTRUCTION LLC\nOwned by :\n% Ownership\n1\n99\nName\nMOBILE PAYROLL CONSTRUCTION\nMANAGER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n524 MOBILE PAYROLL CONSTRUCTION MANAGER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in :\nEntity Name\nMOBILE PAYROLL CONSTRUCTION LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\n525 THC DC RESTAURANT HOSPITALITY LLC *(1)\nOwned by :\n% Ownership\n100\nName\nOPO HOTEL MANAGER LLC\nRole\nMember\n528 THC JEDDAH HOTEL MANAGER LLC *(4)--DISSOLVED 11/15/16",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010712",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT TOWER I LLC",
+      "DT TOWER KOLKATA LLC",
+      "DT TOWER KOLKATA MANAGING MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "DTTM OPERATIONS MANAGING MEMBER CORP",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "EID VENTURE II LLC",
+      "EID VENTURE II MEMBER CORP",
+      "The Donald J. Trump Revocable Trust",
+      "MOBILE PAYROLL CONSTRUCTION LLC",
+      "MOBILE PAYROLL CONSTRUCTION MANAGER CORP",
+      "THC DC RESTAURANT HOSPITALITY LLC",
+      "OPO HOTEL MANAGER LLC",
+      "THC JEDDAH HOTEL MANAGER LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A45 of 47",
+      "HOUSE_OVERSIGHT_010712",
+      "517",
+      "518",
+      "519",
+      "520",
+      "521",
+      "522",
+      "523",
+      "524",
+      "525",
+      "528"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1",
+      "99",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010712"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a financial disclosure form for Donald J. Trump. It details ownership structures of various LLCs and corporations. Reference numbers for the entities appear to be 517 through 525, and 528. The reference numbers 526 and 527 are missing from this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010712.jpg",
+  "house_oversight_id": "010712",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:55:25.625775Z",
+    "model": "gemini-2.5-pro"
+  }
+}

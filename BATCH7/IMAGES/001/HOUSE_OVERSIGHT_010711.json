@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010711.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form detailing ownership structures of various LLCs and Corporations. The document is titled 'OGE Form 278e' and lists Donald J. Trump as the filer. It contains a series of numbered entries (507 through 516) that outline ownership percentages, owning entities, and their roles (e.g., Managing Member, Shareholder).",
+    "layout": "The document has a header with form information, filer's name, and page number. The main body consists of a list of entities, each with subsections for 'Owned by' and sometimes 'Has ownership interest in'. A footer at the bottom right contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA44 of 47\n\nReference #\nDT LIDO GOLF MANAGER LLC\n1.00%\nManaging Member\n\n507 DT LIDO HOTEL MANAGER LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT LIDO HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n508 DT LIDO HOTEL MANAGER MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT LIDO HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n509 DT LIDO TECHNICAL SERVICES MANAGER LLC\nOwned by:\n% Ownership\n1\nName\nDT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP\nRole\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n510 DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT LIDO TECHNICAL SERVICES MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n511 DT MARKS BALI LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT MARKS BALI MEMBER CORP\nRole\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n\n512 DT MARKS BALI MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT MARKS BALI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n513 DT MARKS LIDO LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT MARKS LIDO MEMBER CORP\nRole\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n\n514 DT MARKS LIDO MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT MARKS LIDO LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n515 DT TOWER I LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT TOWER I MEMBER CORP\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n516 DT TOWER I MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHOUSE_OVERSIGHT_010711",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA44 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nDT LIDO GOLF MANAGER LLC\n1.00%\nManaging Member\n\n507 DT LIDO HOTEL MANAGER LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT LIDO HOTEL MANAGER MEMBER CORP\nRole\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n508 DT LIDO HOTEL MANAGER MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT LIDO HOTEL MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n509 DT LIDO TECHNICAL SERVICES MANAGER LLC\nOwned by:\n% Ownership\n1\nName\nDT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP\nRole\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n\n510 DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT LIDO TECHNICAL SERVICES MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n511 DT MARKS BALI LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT MARKS BALI MEMBER CORP\nRole\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n\n512 DT MARKS BALI MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT MARKS BALI LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n513 DT MARKS LIDO LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT MARKS LIDO MEMBER CORP\nRole\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n\n514 DT MARKS LIDO MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nDT MARKS LIDO LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n515 DT TOWER I LLC *(4)\nOwned by:\n% Ownership\n1\nName\nDT TOWER I MEMBER CORP\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n516 DT TOWER I MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010711",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT LIDO GOLF MANAGER LLC",
+      "DT LIDO HOTEL MANAGER LLC",
+      "DT LIDO HOTEL MANAGER MEMBER CORP",
+      "TTTT VENTURE LLC",
+      "DJT Holdings Managing Member LLC",
+      "DT LIDO TECHNICAL SERVICES MANAGER LLC",
+      "DT LIDO TECHNICAL SERVICES MANAGER MEMBER CORP",
+      "DT MARKS BALI LLC",
+      "DT MARKS BALI MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "DT MARKS LIDO LLC",
+      "DT MARKS LIDO MEMBER CORP",
+      "DT TOWER I LLC",
+      "DT TOWER I MEMBER CORP",
+      "DJT Holdings LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A44 of 47",
+      "HOUSE_OVERSIGHT_010711",
+      "507",
+      "508",
+      "509",
+      "510",
+      "511",
+      "512",
+      "513",
+      "514",
+      "515",
+      "516"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1",
+      "99",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010711"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be part of a larger financial disclosure report, as indicated by the page number 'A44 of 47'. The asterisks with numbers in parentheses, like '*(4)', likely refer to notes or appendices not included in this single page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010711.jpg",
+  "house_oversight_id": "010711",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:54:55.926401Z",
+    "model": "gemini-2.5-pro"
+  }
+}

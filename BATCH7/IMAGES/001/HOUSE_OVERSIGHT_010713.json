@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010713.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, identified as OGE Form 278e. The document lists various corporate entities, their ownership structure, and the filer's role within them. The filer's name is listed as Donald J. Trump. The page is numbered A46 of 47 and has a document identifier 'HOUSE_OVERSIGHT_010713' at the bottom.",
+    "layout": "The document has a clear, structured layout with a header containing form information and filer details. The main body is a list of entities, each with a reference number, name, and details about ownership and roles. A footer contains a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA46 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\n1\nTHC JEDDAH HOTEL MANAGER\nMEMBER CORP\nManaging Member\n99\nTrump, Donald J.\nMember\n529 THC JEDDAH HOTEL MANAGER MEMBER CORP *(4)--DISSOLVED 11/15/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTHC JEDDAH HOTEL MANAGER\nLLC\n1.00%\nManaging\nMember\n530 C DEVELOPMENT VENTURES LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nC DEVELOPMENT VENTURES\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n531 C DEVELOPMENT VENTURES MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nC DEVELOPMENT VENTURES LLC\n1.00%\nManaging\nMember\n532 TC MARKS BUENOS AIRES LLC *(4)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\nName\nRole\n100\nTTTT VENTURE LLC\nMember\n533 DT VENTURE I LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n534 DT VENTURE I MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n535 DT VENTURE II LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n536 DT VENTURE II MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n537 DT TOWER II LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDTTM Operations LLC\nMember\n99\nDT TOWER II MEMBER CORP\nManaging Member\n538 DT TOWER II MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nDT TOWER II LLC\n99.00%\nManaging\nMember\n539 DT ENDEAVOR I MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010713",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA46 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\nName\nRole\n1\nTHC JEDDAH HOTEL MANAGER\nMEMBER CORP\nManaging Member\n99\nTrump, Donald J.\nMember\n529 THC JEDDAH HOTEL MANAGER MEMBER CORP *(4)--DISSOLVED 11/15/16\nOwned by:\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTHC JEDDAH HOTEL MANAGER\nLLC\n1.00%\nManaging\nMember\n530 C DEVELOPMENT VENTURES LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nC DEVELOPMENT VENTURES\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n531 C DEVELOPMENT VENTURES MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nC DEVELOPMENT VENTURES LLC\n1.00%\nManaging\nMember\n532 TC MARKS BUENOS AIRES LLC *(4)--DISSOLVED 1/26/17\nOwned by:\n% Ownership\nName\nRole\n100\nTTTT VENTURE LLC\nMember\n533 DT VENTURE I LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n534 DT VENTURE I MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n535 DT VENTURE II LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n536 DT VENTURE II MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n537 DT TOWER II LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDTTM Operations LLC\nMember\n99\nDT TOWER II MEMBER CORP\nManaging Member\n538 DT TOWER II MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nDT TOWER II LLC\n99.00%\nManaging\nMember\n539 DT ENDEAVOR I MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010713",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-15",
+      "2017-01-26"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump, Donald J."
+    ],
+    "organizations": [
+      "THC JEDDAH HOTEL MANAGER MEMBER CORP",
+      "THC JEDDAH HOTEL MANAGER LLC",
+      "C DEVELOPMENT VENTURES LLC",
+      "C DEVELOPMENT VENTURES MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "TC MARKS BUENOS AIRES LLC",
+      "TTTT VENTURE LLC",
+      "DT VENTURE I LLC",
+      "DJT Holdings LLC",
+      "DT VENTURE I MEMBER CORP",
+      "DT VENTURE II LLC",
+      "DT VENTURE II MEMBER CORP",
+      "DT TOWER II LLC",
+      "DT TOWER II MEMBER CORP",
+      "DT ENDEAVOR I MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A46 of 47",
+      "HOUSE_OVERSIGHT_010713",
+      "529",
+      "530",
+      "531",
+      "532",
+      "533",
+      "534",
+      "535",
+      "536",
+      "537",
+      "538",
+      "539"
+    ],
+    "financial_amounts": [
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "99.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "OGE Form 278e (Public Financial Disclosure Report)",
+    "sender": "Donald J. Trump",
+    "recipient": null,
+    "subject": "Financial Disclosure of Corporate Ownership and Roles",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010713"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with annotations like '*(3)' and '*(4)', and notes two entities as dissolved on specific dates. The ownership percentages are listed as integers or percentages. The last entry, #539, is incomplete on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010713.jpg",
+  "house_oversight_id": "010713",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:55:53.799907Z",
+    "model": "gemini-2.5-pro"
+  }
+}

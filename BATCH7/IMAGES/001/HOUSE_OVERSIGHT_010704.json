@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010704.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically page A37 of 47 from an OGE Form 278e, filed by Donald J. Trump. The page details ownership structures for various business entities, listing the entity name, its owners, their percentage of ownership, and their role or title within the organization. The document is a typed form with filled-in data.",
+    "layout": "The document has a header section with form information, filer's name, and page number. The main body is structured as a list of entities, identified by reference numbers (420 through 431). Each entry details the ownership of the primary entity and, in some cases, other entities in which it holds an interest.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA37 of 47\nReference #\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\nHas ownership interest in:\nEntity Name\nTRUMP PARK AVENUE LLC\nOwnership\n49.90%\nTitle\nMember\n420 TRUMP PARK AVENUE LLC\nName\nGEPT Delmonico LLC\nRole\nMember\nName\nTRUMP PARK AVENUE ACQUISITION LLC\nRole\nMember\nName\nTRUMP DELMONICO LLC\nRole\nManaging Member\n421 TRUMP PAYROLL CHICAGO LLC *(2)\nOwned by:\n% Ownership\n100\nName\n401 North Wabash Venture LLC\nRole\nManaging Member\n422 TRUMP PAYROLL CORP *(2)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n423 TRUMP PHOENIX DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n424 TRUMP PLAZA LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PLAZA MEMBER INC.\nRole\nManaging Member\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n425 TRUMP PLAZA MEMBER INC. *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PLAZA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n426 TRUMP PRODUCTIONS LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PRODUCTIONS MANAGING MEMBER INC.\nRole\nManaging Member\nName\nDJT Holdings LLC\nRole\nMember\n427 TRUMP PRODUCTIONS MANAGING MEMBER INC. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PRODUCTIONS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n428 TRUMP PROJECT MANAGEMENT CORP *(3)--DISSOLVED 11/10/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n429 TRUMP REALTY SERVICES LLC *(5)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n430 Trump Restaurants LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n431 TRUMP RIVERSIDE MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTrump New World Property Management, LLC\nOwnership\n50.00%\nTitle\nManaging Member\nHOUSE_OVERSIGHT_010704",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA37 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\nHas ownership interest in:\nEntity Name\nTRUMP PARK AVENUE LLC\nOwnership\n49.90%\nTitle\nMember\n420 TRUMP PARK AVENUE LLC\nName\nGEPT Delmonico LLC\nRole\nMember\nName\nTRUMP PARK AVENUE ACQUISITION LLC\nRole\nMember\nName\nTRUMP DELMONICO LLC\nRole\nManaging Member\n421 TRUMP PAYROLL CHICAGO LLC *(2)\nOwned by:\n% Ownership\n100\nName\n401 North Wabash Venture LLC\nRole\nManaging Member\n422 TRUMP PAYROLL CORP *(2)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n423 TRUMP PHOENIX DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n424 TRUMP PLAZA LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PLAZA MEMBER INC.\nRole\nManaging Member\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n425 TRUMP PLAZA MEMBER INC. *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PLAZA LLC\nOwnership\n1.00%\nTitle\nManaging Member\n426 TRUMP PRODUCTIONS LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP PRODUCTIONS MANAGING MEMBER INC.\nRole\nManaging Member\nName\nDJT Holdings LLC\nRole\nMember\n427 TRUMP PRODUCTIONS MANAGING MEMBER INC. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP PRODUCTIONS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n428 TRUMP PROJECT MANAGEMENT CORP *(3)--DISSOLVED 11/10/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n429 TRUMP REALTY SERVICES LLC *(5)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n430 Trump Restaurants LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n431 TRUMP RIVERSIDE MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTrump New World Property Management, LLC\nOwnership\n50.00%\nTitle\nManaging Member",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010704",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP PARK AVENUE LLC",
+      "GEPT Delmonico LLC",
+      "TRUMP PARK AVENUE ACQUISITION LLC",
+      "TRUMP DELMONICO LLC",
+      "TRUMP PAYROLL CHICAGO LLC",
+      "401 North Wabash Venture LLC",
+      "TRUMP PAYROLL CORP",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP PHOENIX DEVELOPMENT LLC",
+      "DJT Holdings LLC",
+      "TRUMP PLAZA LLC",
+      "TRUMP PLAZA MEMBER INC.",
+      "TRUMP PRODUCTIONS LLC",
+      "TRUMP PRODUCTIONS MANAGING MEMBER INC.",
+      "TRUMP PROJECT MANAGEMENT CORP",
+      "TRUMP REALTY SERVICES LLC",
+      "Trump Restaurants LLC",
+      "TRUMP RIVERSIDE MANAGEMENT LLC",
+      "Trump New World Property Management, LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A37 of 47",
+      "HOUSE_OVERSIGHT_010704",
+      "420",
+      "421",
+      "422",
+      "423",
+      "424",
+      "425",
+      "426",
+      "427",
+      "428",
+      "429",
+      "430",
+      "431"
+    ],
+    "financial_amounts": [
+      "100%",
+      "49.90%",
+      "1%",
+      "99%",
+      "1.00%",
+      "50.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure of Donald J. Trump - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010704"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with asterisks and numbers in parentheses, e.g., '*(2)', '*(3)', which likely refer to notes or explanations not present on this specific page. One entity, 'TRUMP PROJECT MANAGEMENT CORP', is noted as 'DISSOLVED 11/10/16'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010704.jpg",
+  "house_oversight_id": "010704",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:51:24.678086Z",
+    "model": "gemini-2.5-pro"
+  }
+}

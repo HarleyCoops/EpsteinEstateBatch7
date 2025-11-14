@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010705.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, specifically an OGE Form 278e. The document lists various business entities, detailing ownership percentages and the names of the owning entities or individuals, along with their roles (e.g., Member, Shareholder, Managing Member). The filer's name is identified as Donald J. Trump. The page is numbered A38 of 47 and has a footer with the identifier 'HOUSE_OVERSIGHT_010705'.",
+    "layout": "The document has a structured, tabular layout. Each entry is preceded by a reference number. Information is organized into columns for '% Ownership', 'Name', and 'Role'. Some entries also include a section for 'Has ownership interest in' with details on the 'Entity Name', 'Ownership %', and 'Title'. A header at the top provides form details and the filer's name. A footer at the bottom contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA38 of 47\nReference #\n432 TRUMP RUFFIN COMMERCIAL LLC *(assets & income already disclosed on Part 2 under TRUMP RUFFIN TOWER I LLC; operator of front desk)\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP RUFFIN TOWER I LLC\nManaging Member\n433 TRUMP RUFFIN LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP LAS VEGAS MANAGING\nManaging Member\n49\nMEMBER LLC\n50\nTRUMP LAS VEGAS MEMBER LLC\nMember\nHyde Park, LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP RUFFIN TOWER I LLC\n100.00%\nManaging Member\n434 TRUMP RUFFIN TOWER I LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP RUFFIN LLC\nManaging Member\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP RUFFIN COMMERCIAL LLC\n100.00%\nManaging Member\n435 TRUMP SALES & LEASING CHICAGO LLC *(5)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP SALES & LEASING CHICAGO\nMember\n99\nMEMBER CORP\nDJT Holdings LLC\nMember\n436 TRUMP SALES & LEASING CHICAGO MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP SALES & LEASING\n1.00%\nMember\nCHICAGO LLC\n437 TRUMP SCOTLAND MEMBER INC. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL GOLF\n1.00%\nMember\nLINKS - SCOTLAND\nLLC\n438 TRUMP SCOTSBOROUGH SQUARE LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP SCOTSBOROUGH SQUARE\nManaging Member\n99\nMEMBER CORP.\nDJT HOLDINGS LLC\nMember\n439 TRUMP SCOTSBOROUGH SQUARE MEMBER CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP SCOTSBOROUGH SQUARE\n1.00%\nManaging Member\nLLC\n440 TRUMP SOHO MEMBER LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n441 TRUMP TORONTO DEVELOPMENT, INC. *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n442 TRUMP TORONTO HOTEL MANAGEMENT CORP\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nLLC\n443 TRUMP TORONTO MEMBER CORP *(3)\nHOUSE_OVERSIGHT_010705",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA38 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n432 TRUMP RUFFIN COMMERCIAL LLC *(assets & income already disclosed on Part 2 under TRUMP RUFFIN TOWER I LLC; operator of front desk)\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP RUFFIN TOWER I LLC\nManaging Member\n433 TRUMP RUFFIN LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP LAS VEGAS MANAGING\nManaging Member\n49\nMEMBER LLC\n50\nTRUMP LAS VEGAS MEMBER LLC\nMember\nHyde Park, LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP RUFFIN TOWER I LLC\n100.00%\nManaging Member\n434 TRUMP RUFFIN TOWER I LLC\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP RUFFIN LLC\nManaging Member\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP RUFFIN COMMERCIAL LLC\n100.00%\nManaging Member\n435 TRUMP SALES & LEASING CHICAGO LLC *(5)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP SALES & LEASING CHICAGO\nMember\n99\nMEMBER CORP\nDJT Holdings LLC\nMember\n436 TRUMP SALES & LEASING CHICAGO MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP SALES & LEASING\n1.00%\nMember\nCHICAGO LLC\n437 TRUMP SCOTLAND MEMBER INC. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL GOLF\n1.00%\nMember\nLINKS - SCOTLAND\nLLC\n438 TRUMP SCOTSBOROUGH SQUARE LLC\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP SCOTSBOROUGH SQUARE\nManaging Member\n99\nMEMBER CORP.\nDJT HOLDINGS LLC\nMember\n439 TRUMP SCOTSBOROUGH SQUARE MEMBER CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP SCOTSBOROUGH SQUARE\n1.00%\nManaging Member\nLLC\n440 TRUMP SOHO MEMBER LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n441 TRUMP TORONTO DEVELOPMENT, INC. *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n442 TRUMP TORONTO HOTEL MANAGEMENT CORP\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nLLC\n443 TRUMP TORONTO MEMBER CORP *(3)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010705",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP RUFFIN COMMERCIAL LLC",
+      "TRUMP RUFFIN TOWER I LLC",
+      "TRUMP RUFFIN LLC",
+      "TRUMP LAS VEGAS MANAGING MEMBER LLC",
+      "TRUMP LAS VEGAS MEMBER LLC",
+      "Hyde Park, LLC",
+      "TRUMP SALES & LEASING CHICAGO LLC",
+      "TRUMP SALES & LEASING CHICAGO MEMBER CORP",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP SCOTLAND MEMBER INC.",
+      "TRUMP INTERNATIONAL GOLF LINKS - SCOTLAND LLC",
+      "TRUMP SCOTSBOROUGH SQUARE LLC",
+      "TRUMP SCOTSBOROUGH SQUARE MEMBER CORP.",
+      "DJT HOLDINGS LLC",
+      "TRUMP SOHO MEMBER LLC",
+      "TRUMP TORONTO DEVELOPMENT, INC.",
+      "TRUMP TORONTO HOTEL MANAGEMENT CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP TORONTO MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A38 of 47",
+      "HOUSE_OVERSIGHT_010705",
+      "432",
+      "433",
+      "434",
+      "435",
+      "436",
+      "437",
+      "438",
+      "439",
+      "440",
+      "441",
+      "442",
+      "443"
+    ],
+    "financial_amounts": [
+      "100",
+      "1",
+      "49",
+      "50",
+      "100.00%",
+      "100",
+      "100.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "100",
+      "100",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - OGE Form 278e for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010705"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form detailing ownership structures of various Trump-related entities. All text appears to be machine-printed and is clearly legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010705.jpg",
+  "house_oversight_id": "010705",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:51:55.350984Z",
+    "model": "gemini-2.5-pro"
+  }
+}
