@@ -509,7 +509,9 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     if not api_key.startswith("AIzaSy"):
         print(f"Warning: API key format looks unusual (starts with: {api_key[:6]})", file=sys.stderr)
     
-    http_options = types.HttpOptions(timeout=300)
+    # Timeout is specified in milliseconds. Allow up to 5 minutes per file
+    # to accommodate very large transcripts without tripping API deadlines.
+    http_options = types.HttpOptions(timeout=300_000)
     client = genai.Client(api_key=api_key, http_options=http_options)
     
     # Find all text files recursively, ignoring extraction error artifacts created during retries

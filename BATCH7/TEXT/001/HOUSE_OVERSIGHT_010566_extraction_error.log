@@ -1,10 +1,24 @@
-JSON Parse Error: Expecting value: line 1 column 1 (char 0)
+LLM request failed: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}
 
 ================================================================================
-RAW RESPONSE (first 2000 chars):
+Traceback
 ================================================================================
+Traceback (most recent call last):
+  File "C:\Users\chris\EpsteinEstateBatch7\BATCH7\batch7_process_text.py", line 259, in extract_text_content
+    for chunk in client.models.generate_content_stream(
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 5096, in generate_content_stream
+    for chunk in response:
+                 ^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 4008, in _generate_content_stream
+    for response_dict in self._api_client.request_streamed(
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 693, in request_streamed
+    session_response = self._request(http_request, stream=True)
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 591, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}
 
-
-================================================================================
-ATTEMPTED JSON TEXT:
-================================================================================

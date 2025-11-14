@@ -1,0 +1,173 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010623.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, specifically an OGE Form 278e. The page is numbered 7 of 51 and lists positions held by Donald J. Trump in various organizations outside of the U.S. government. The information is presented in a table format with columns for organization name, location, type, position held, and dates of service.",
+    "layout": "The document has a header with form information, filer's name, and the part title. The main body consists of a multi-column table listing organizations and positions. A footer contains a document identifier and a note about the data.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n7 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n248\nTrump Chicago Managing Member LLC\nNew York, NY\nLLC\nPresident\n10/01/04\n1/19/2017\n249\nTrump Chicago Member LLC\nNew York, NY\nLLC\nPresident\nOctober-04\n1/19/2017\n250\nTrump Chicago Residential Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n251\nTrump Chicago Residential Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017\n252\nTrump Chicago Retail LLC\nNew York, NY\nLLC\nPresident\n10/16/12\n1/19/2017\n253\nTrump Chicago Retail Manager LLC\nNew York, NY\nLLC\nPresident/Member\n10/23/12\n1/19/2017\n254\nTrump Chicago Retail Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/23/12\n1/19/2017\n255\nTrump Classic Cars LLC\nNew York, NY\nLLC\nPresident/Member\n06/24/10\n10/17/2016\n256\nTrump Classic Cars Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/24/10\n10/17/2016\n257\nTrump Commercial Chicago LLC\nNew York, NY\nLLC\nPresident\n08/29/07\n1/19/2017\n260\nTrump CPS Corp\nNew York, NY\nCorporation\nDirector\n11/06/96\n1/19/2017\n261\nTrump CPS LLC\nNew York, NY\nLLC\nMember & President\n11/6/1996 & 11/16/06\n1/19/2017\n262\nTrump Delmonico LLC\nNew York, NY\nLLC\nMember\n11/21/01\n1/19/2017\n263\nTrump Development Services LLC\nNew York, NY\nLLC\nPresident/Member\n09/28/09\n1/19/2017\n264\nTrump Development Services Member Corp.\nNew York, NY\nCorporation\nPresident/Director\n09/28/09\n1/19/2017\n265\nTrump Drinks Israel Holdings LLC\nNew York, NY\nLLC\nMember/President\n05/25/11\n10/26/2015\n266\nTrump Drinks Israel Holdings Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/25/11\n10/22/2015\n267\nTrump Drinks Israel LLC\nNew York, NY\nLLC\nMember/President\n05/25/11\n1/19/2017\n268\nTrump Drinks Israel Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/25/11\n1/19/2017\n269\nTrump Education ULC\nNova Scotia (Canada)\nCorporation\nChairman/Director\n05/28/09\n1/19/2017\n270\nTrump Empire State, Inc.\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n04/18/94\n1/19/2017\n271\nTrump Endeavor 12 LLC (Trump National Doral)\nNew York, NY\nLLC\nPresident\n10/06/11\n1/19/2017\n272\nTrump Endeavor 12 Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n10/06/11\n1/19/2017\n273\nTrump EU Marks LLC\nNew York, NY\nLLC\nMember/President/Secretary/Treasurer\n08/04/11\n1/19/2017\n274\nTrump EU Marks Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n08/04/11\n1/19/2017\n275\nThe Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC)\nNew York, NY\nLLC\nMember\n05/14/09\n1/19/2017\n276\nTrump Ferry Point LLC\nNew York, NY\nLLC\nPresident/Member\n06/04/10\n1/19/2017\n277\nTrump Ferry Point Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/04/10\n1/19/2017\n278\nTrump Florida Management LLC\nNew York, NY\nLLC\nMember\n06/13/05\n1/19/2017\n279\nTrump Florida Manager Corp.\nNew York, NY\nCorporation\nDirector/President\n06/10/05\n1/19/2017\n280\nThe Trump Follies LLC\nNew York, NY\nLLC\nMember & President\n12/14/06\n1/19/2017\n283\nTrump Golf Acquisition LLC\nNew York, NY\nLLC\nMember/President\n04/23/10\n1/19/2017\n284\nTrump Golf Coco Beach LLC\nNew York, NY\nLLC\nMember/President\n12/11/07\n1/19/2017\n285\nTrump Golf Coco Beach Member Corp\nNew York, NY\nCorporation\nDirector/President\n12/11/07\n1/19/2017\n286\nTrump Golf Management LLC\nNew York, NY\nLLC\nMember/President\n01/28/05\n1/19/2017\n287\nTrump Home Marks LLC\nNew York, NY\nLLC\nMember/President\n11/19/09\n1/19/2017\n288\nTrump Home Marks Member Corp\nNew York, NY\nCorporation\nPresident/Director\n11/19/09\n1/19/2017\n289\nTrump Ice LLC\nNew York, NY\nLLC\nPresident/Member\n03/25/04\n1/19/2017\n290\nTrump Ice, Inc.\nNew York, NY\nCorporation\nDirector/President\n03/03/99\n1/19/2017\n293\nTrump International Development LLC\nNew York, NY\nLLC\nMember/President\n11/29/10\n1/19/2017\n294\nTrump International Development Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n11/29/10\n1/19/2017\n295\nTrump International Golf Club LC (Trump International Golf Club - Florida)\nPalm Beach, Florida\nLLC\nMember & President\n5/3/1997 & 11/1/13\n1/19/2017\n296\nTrump International Golf Club Scotland Limited\nAberdeen, Scotland\nForeign Entity\nDirector & Chairman\n1/24/06 & 3/13/06\n1/19/2017\n297\nTrump International Golf Club, Inc.\nPalm Beach, Florida\nCorporation\nPresident/Director/Secretary/Treasurer\n12/09/96\n1/19/2017\n298\nTrump International Hotel and Tower Condominium\nNew York, NY\nCondominium Association\nPresident\nSeptember-98\n1/19/2017\n299\nTrump International Hotel Hawaii LLC\nNew York, NY\nLLC\nPresident\n09/10/09\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010623",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n7 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n248\nTrump Chicago Managing Member LLC\nNew York, NY\nLLC\nPresident\n10/01/04\n1/19/2017\n249\nTrump Chicago Member LLC\nNew York, NY\nLLC\nPresident\nOctober-04\n1/19/2017\n250\nTrump Chicago Residential Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n251\nTrump Chicago Residential Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017\n252\nTrump Chicago Retail LLC\nNew York, NY\nLLC\nPresident\n10/16/12\n1/19/2017\n253\nTrump Chicago Retail Manager LLC\nNew York, NY\nLLC\nPresident/Member\n10/23/12\n1/19/2017\n254\nTrump Chicago Retail Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/23/12\n1/19/2017\n255\nTrump Classic Cars LLC\nNew York, NY\nLLC\nPresident/Member\n06/24/10\n10/17/2016\n256\nTrump Classic Cars Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/24/10\n10/17/2016\n257\nTrump Commercial Chicago LLC\nNew York, NY\nLLC\nPresident\n08/29/07\n1/19/2017\n260\nTrump CPS Corp\nNew York, NY\nCorporation\nDirector\n11/06/96\n1/19/2017\n261\nTrump CPS LLC\nNew York, NY\nLLC\nMember & President\n11/6/1996 & 11/16/06\n1/19/2017\n262\nTrump Delmonico LLC\nNew York, NY\nLLC\nMember\n11/21/01\n1/19/2017\n263\nTrump Development Services LLC\nNew York, NY\nLLC\nPresident/Member\n09/28/09\n1/19/2017\n264\nTrump Development Services Member Corp.\nNew York, NY\nCorporation\nPresident/Director\n09/28/09\n1/19/2017\n265\nTrump Drinks Israel Holdings LLC\nNew York, NY\nLLC\nMember/President\n05/25/11\n10/26/2015\n266\nTrump Drinks Israel Holdings Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/25/11\n10/22/2015\n267\nTrump Drinks Israel LLC\nNew York, NY\nLLC\nMember/President\n05/25/11\n1/19/2017\n268\nTrump Drinks Israel Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/25/11\n1/19/2017\n269\nTrump Education ULC\nNova Scotia (Canada)\nCorporation\nChairman/Director\n05/28/09\n1/19/2017\n270\nTrump Empire State, Inc.\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n04/18/94\n1/19/2017\n271\nTrump Endeavor 12 LLC (Trump National Doral)\nNew York, NY\nLLC\nPresident\n10/06/11\n1/19/2017\n272\nTrump Endeavor 12 Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n10/06/11\n1/19/2017\n273\nTrump EU Marks LLC\nNew York, NY\nLLC\nMember/President/Secretary/Treasurer\n08/04/11\n1/19/2017\n274\nTrump EU Marks Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n08/04/11\n1/19/2017\n275\nThe Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC)\nNew York, NY\nLLC\nMember\n05/14/09\n1/19/2017\n276\nTrump Ferry Point LLC\nNew York, NY\nLLC\nPresident/Member\n06/04/10\n1/19/2017\n277\nTrump Ferry Point Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/04/10\n1/19/2017\n278\nTrump Florida Management LLC\nNew York, NY\nLLC\nMember\n06/13/05\n1/19/2017\n279\nTrump Florida Manager Corp.\nNew York, NY\nCorporation\nDirector/President\n06/10/05\n1/19/2017\n280\nThe Trump Follies LLC\nNew York, NY\nLLC\nMember & President\n12/14/06\n1/19/2017\n283\nTrump Golf Acquisition LLC\nNew York, NY\nLLC\nMember/President\n04/23/10\n1/19/2017\n284\nTrump Golf Coco Beach LLC\nNew York, NY\nLLC\nMember/President\n12/11/07\n1/19/2017\n285\nTrump Golf Coco Beach Member Corp\nNew York, NY\nCorporation\nDirector/President\n12/11/07\n1/19/2017\n286\nTrump Golf Management LLC\nNew York, NY\nLLC\nMember/President\n01/28/05\n1/19/2017\n287\nTrump Home Marks LLC\nNew York, NY\nLLC\nMember/President\n11/19/09\n1/19/2017\n288\nTrump Home Marks Member Corp\nNew York, NY\nCorporation\nPresident/Director\n11/19/09\n1/19/2017\n289\nTrump Ice LLC\nNew York, NY\nLLC\nPresident/Member\n03/25/04\n1/19/2017\n290\nTrump Ice, Inc.\nNew York, NY\nCorporation\nDirector/President\n03/03/99\n1/19/2017\n293\nTrump International Development LLC\nNew York, NY\nLLC\nMember/President\n11/29/10\n1/19/2017\n294\nTrump International Development Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n11/29/10\n1/19/2017\n295\nTrump International Golf Club LC (Trump International Golf Club - Florida)\nPalm Beach, Florida\nLLC\nMember & President\n5/3/1997 & 11/1/13\n1/19/2017\n296\nTrump International Golf Club Scotland Limited\nAberdeen, Scotland\nForeign Entity\nDirector & Chairman\n1/24/06 & 3/13/06\n1/19/2017\n297\nTrump International Golf Club, Inc.\nPalm Beach, Florida\nCorporation\nPresident/Director/Secretary/Treasurer\n12/09/96\n1/19/2017\n298\nTrump International Hotel and Tower Condominium\nNew York, NY\nCondominium Association\nPresident\nSeptember-98\n1/19/2017\n299\nTrump International Hotel Hawaii LLC\nNew York, NY\nLLC\nPresident\n09/10/09\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010623",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2004-10-01",
+      "2017-01-19",
+      "2004-10",
+      "2010-07-08",
+      "2010-06-28",
+      "2012-10-16",
+      "2012-10-23",
+      "2010-06-24",
+      "2016-10-17",
+      "2007-08-29",
+      "1996-11-06",
+      "1996-11-06",
+      "2006-11-16",
+      "2001-11-21",
+      "2009-09-28",
+      "2011-05-25",
+      "2015-10-26",
+      "2015-10-22",
+      "2009-05-28",
+      "1994-04-18",
+      "2011-10-06",
+      "2011-08-04",
+      "2009-05-14",
+      "2010-06-04",
+      "2005-06-13",
+      "2005-06-10",
+      "2006-12-14",
+      "2010-04-23",
+      "2007-12-11",
+      "2005-01-28",
+      "2009-11-19",
+      "2004-03-25",
+      "1999-03-03",
+      "2010-11-29",
+      "1997-05-03",
+      "2013-11-01",
+      "2006-01-24",
+      "2006-03-13",
+      "1996-12-09",
+      "1998-09",
+      "2009-09-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Trump Chicago Managing Member LLC",
+      "Trump Chicago Member LLC",
+      "Trump Chicago Residential Member Corp",
+      "Trump Chicago Residential Manager LLC",
+      "Trump Chicago Retail LLC",
+      "Trump Chicago Retail Manager LLC",
+      "Trump Chicago Retail Member Corp",
+      "Trump Classic Cars LLC",
+      "Trump Classic Cars Member Corp",
+      "Trump Commercial Chicago LLC",
+      "Trump CPS Corp",
+      "Trump CPS LLC",
+      "Trump Delmonico LLC",
+      "Trump Development Services LLC",
+      "Trump Development Services Member Corp.",
+      "Trump Drinks Israel Holdings LLC",
+      "Trump Drinks Israel Holdings Member Corp",
+      "Trump Drinks Israel LLC",
+      "Trump Drinks Israel Member Corp",
+      "Trump Education ULC",
+      "Trump Empire State, Inc.",
+      "Trump Endeavor 12 LLC (Trump National Doral)",
+      "Trump Endeavor 12 Manager Corp",
+      "Trump EU Marks LLC",
+      "Trump EU Marks Member Corp",
+      "The Trump Entrepreneur Initiative LLC (f/k/a Trump University CA LLC)",
+      "Trump Ferry Point LLC",
+      "Trump Ferry Point Member Corp",
+      "Trump Florida Management LLC",
+      "Trump Florida Manager Corp.",
+      "The Trump Follies LLC",
+      "Trump Golf Acquisition LLC",
+      "Trump Golf Coco Beach LLC",
+      "Trump Golf Coco Beach Member Corp",
+      "Trump Golf Management LLC",
+      "Trump Home Marks LLC",
+      "Trump Home Marks Member Corp",
+      "Trump Ice LLC",
+      "Trump Ice, Inc.",
+      "Trump International Development LLC",
+      "Trump International Development Member Corp",
+      "Trump International Golf Club LC (Trump International Golf Club - Florida)",
+      "Trump International Golf Club Scotland Limited",
+      "Trump International Golf Club, Inc.",
+      "Trump International Hotel and Tower Condominium",
+      "Trump International Hotel Hawaii LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Nova Scotia (Canada)",
+      "Palm Beach, Florida",
+      "Aberdeen, Scotland"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "Page 7 of 51",
+      "HOUSE_OVERSIGHT_010623"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 1: Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "OGE Form 278e (March 2014)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a financial disclosure form for Donald J. Trump. A note at the bottom explains that gaps in the numerical sequence of items (e.g., jumping from 257 to 260) are due to the removal of items that are no longer reportable.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010623.jpg",
+  "house_oversight_id": "010623",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:53:36.076983Z",
+    "model": "gemini-2.5-pro"
+  }
+}

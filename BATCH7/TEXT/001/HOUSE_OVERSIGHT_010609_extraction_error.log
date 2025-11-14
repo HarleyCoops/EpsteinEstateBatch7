@@ -1,61 +1,24 @@
-LLM request failed: The read operation timed out
+LLM request failed: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}
 
 ================================================================================
 Traceback
 ================================================================================
 Traceback (most recent call last):
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_transports/default.py", line 101, in map_httpcore_exceptions
-    yield
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_transports/default.py", line 250, in handle_request
-    resp = self._pool.handle_request(req)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 256, in handle_request
-    raise exc from None
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/connection_pool.py", line 236, in handle_request
-    response = connection.handle_request(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/connection.py", line 103, in handle_request
-    return self._connection.handle_request(request)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 136, in handle_request
-    raise exc
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 106, in handle_request
-    ) = self._receive_response_headers(**kwargs)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 177, in _receive_response_headers
-    event = self._receive_event(timeout=timeout)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_sync/http11.py", line 217, in _receive_event
-    data = self._network_stream.read(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_backends/sync.py", line 126, in read
-    with map_exceptions(exc_map):
-  File "/usr/lib/python3.10/contextlib.py", line 153, in __exit__
-    self.gen.throw(typ, value, traceback)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpcore/_exceptions.py", line 14, in map_exceptions
-    raise to_exc(exc) from exc
-httpcore.ReadTimeout: The read operation timed out
-
-The above exception was the direct cause of the following exception:
-
-Traceback (most recent call last):
-  File "/mnt/c/Users/chris/EpsteinEstateBatch7/BATCH7/batch7_process_text.py", line 259, in extract_text_content
+  File "C:\Users\chris\EpsteinEstateBatch7\BATCH7\batch7_process_text.py", line 259, in extract_text_content
     for chunk in client.models.generate_content_stream(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/google/genai/models.py", line 6083, in generate_content_stream
+                 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 5096, in generate_content_stream
     for chunk in response:
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/google/genai/models.py", line 4966, in _generate_content_stream
+                 ^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\models.py", line 4008, in _generate_content_stream
     for response_dict in self._api_client.request_streamed(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/google/genai/_api_client.py", line 774, in request_streamed
+                         ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 693, in request_streamed
     session_response = self._request(http_request, stream=True)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/google/genai/_api_client.py", line 671, in _request
-    response = self._httpx_client.send(httpx_request, stream=stream)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_client.py", line 914, in send
-    response = self._send_handling_auth(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_client.py", line 942, in _send_handling_auth
-    response = self._send_handling_redirects(
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_client.py", line 979, in _send_handling_redirects
-    response = self._send_single_request(request)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_client.py", line 1014, in _send_single_request
-    response = transport.handle_request(request)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_transports/default.py", line 249, in handle_request
-    with map_httpcore_exceptions():
-  File "/usr/lib/python3.10/contextlib.py", line 153, in __exit__
-    self.gen.throw(typ, value, traceback)
-  File "/home/harleycoops/.local/lib/python3.10/site-packages/httpx/_transports/default.py", line 118, in map_httpcore_exceptions
-    raise mapped_exc(message) from exc
-httpx.ReadTimeout: The read operation timed out
+                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\_api_client.py", line 591, in _request
+    errors.APIError.raise_for_response(response)
+  File "C:\Users\chris\AppData\Roaming\Python\Python312\site-packages\google\genai\errors.py", line 101, in raise_for_response
+    raise ClientError(status_code, response_json, response)
+google.genai.errors.ClientError: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}
 

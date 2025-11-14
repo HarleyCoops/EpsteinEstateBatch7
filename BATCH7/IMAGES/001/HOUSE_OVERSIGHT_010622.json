@@ -1,0 +1,165 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010622.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, specifically OGE Form 278e, for Donald J. Trump. The page, numbered 6 of 51, lists positions he held in various organizations outside the United States Government. The information is presented in a table format.",
+    "layout": "The document has a header containing the form number, instructions, filer's name, and the part title. The main body consists of a table with seven columns: '#', 'Organization Name', 'City/State', 'Organization Type', 'Position Held', 'From', and 'To'. Below the table, there is a note explaining gaps in the numerical sequence. A document identifier is located in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n6 of 51\nPart 1: Filer's Positions Held Outside United States Government\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n200\nTIHH Member LLC\nNew York, NY\nLLC\nMember/President\n09/10/09\n1/19/2017\n201\nTIHM Member Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/06\n1/19/2017\n202\nTIHT Chicago Member Acquisition LLC\nNew York, NY\nLLC\nPresident\n06/03/04\n1/19/2017\n203\nTIHT Commercial LLC\nNew York, NY\nLLC\nMember/President\n12/30/98\n1/19/2017\n204\nTIHT Holding Company LLC\nNew York, NY\nLLC\nMember/President\n01/18/05\n1/19/2017\n205\nTIHT Member LLC\nNew York, NY\nLLC\nMember/President\n07/20/06\n1/19/2017\n206\nTipperary Realty Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n11/13/75\n1/19/2017\n207\nTMG Member, LLC\nNew York, NY\nLLC\nMember\n01/15/99\n1/19/2017\n208\nTNGC Charlotte LLC\nNew York, NY\nLLC\nPresident\n10/20/11\n1/19/2017\n209\nTNGC Charlotte Manager Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/20/11\n1/19/2017\n210\nTNGC Dutchess County LLC (fka Trump Marks Classic Cars LLC)\nNew York, NY\nLLC\nPresident\n11/17/09\n1/19/2017\n211\nTNGC Dutchess County Member Corp (fka Trump Marks Classic Cars Member Corp)\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/17/09\n1/19/2017\n212\nTNGC Jupiter Management LLC\nNew York, NY\nLLC\nPresident\n06/26/14\n1/19/2017\n213\nTNGC Jupiter Managing Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/26/14\n1/19/2017\n214\nTNGC Pine Hill LLC (fka Crest Court LLC) (Trump National Golf Club - Philadelphia)\nNew York, NY\nLLC\nPresident\n11/17/09\n1/19/2017\n215\nTNGC Pine Hill Member Corp. (fka Crest Court Member Corp)\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/17/09\n1/19/2017\n216\nToronto Development LLC\nNew York, NY\nLLC\nMember/President\n06/28/01\n1/19/2017\n217\nTP CFD LLC\nNew York, NY\nLLC\nMember/President\n11/28/12\n10/18/2016\n218\nTP CFD Manager Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/28/12\n10/18/2016\n219\nTravel Enterprises Management, Inc (Formerly Toys at Trump, Inc.)\nNew York, NY\nCorporation\nPresident/CEO\n03/24/86\n1/19/2017\n220\nTrump 106 CPS LLC\nNew York, NY\nLLC\nMember/President\n03/28/97\n1/19/2017\n223\nTrump 845 LP LLC\nNew York, NY\nLLC\nMember/President\n09/19/03\n1/19/2017\n224\nTrump 845 UN GP LLC\nNew York, NY\nLLC\nMember/President/Treasurer\n06/20/97\n1/19/2017\n225\nTrump 845 UN MGR Corp\nNew York, NY\nCorporation\nPresident\n10/14/98\n1/19/2017\n226\nTrump 845 UN MGR LLC (F/K/A 845 UN LLC)\nNew York, NY\nLLC\nPresident/Treasurer/Member\n05/14/97\n1/19/2017\n227\nTrump AC Casino Marks LLC\nNew York, NY\nLLC\nPresident/Member\n08/03/10\n1/19/2017\n228\nTrump AC Casino Marks Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n08/03/10\n1/19/2017\n229\nTrump Acquisition Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/06/08\n1/19/2017\n230\nTrump Acquisition, LLC\nNew York, NY\nLLC\nMember/President\n02/06/08\n1/19/2017\n231\nTrump Books LLC\nNew York, NY\nLLC\nMember/President\n10/03/11\n1/19/2017\n232\nTrump Books Manager Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/03/11\n1/19/2017\n233\nTrump Brazil LLC\nNew York, NY\nLLC\nPresident\n09/08/03\n1/19/2017\n234\nTrump Briarcliff Manor Development LLC (formerly Briar Hall Development LLC)\nNew York, NY\nLLC\nPresident/Member\n03/04/96\n1/19/2017\n235\nTrump Canadian Services Inc\nNew York, NY\nCorporation\nPresident/Secretary\nMarch-03\n1/19/2017\n236\nTrump Canouan Estate LLC\nNew York, NY\nLLC\nPresident/Member\n12/19/07\n1/19/2017\n237\nTrump Canouan Estate Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n12/19/07\n1/19/2017\n238\nTrump Caribbean LLC\nNew York, NY\nLLC\nMember\n08/27/01\n1/19/2017\n239\nTrump Carousel LLC\nNew York, NY\nLLC\nPresident/Member\n02/18/10\n1/19/2017\n240\nTrump Carousel Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/18/10\n1/19/2017\n241\nAce Entertainment Holdings Inc (f/k/a Trump Casinos Inc. & Formerly Trump Taj Mahal, Inc.)\nAtlantic City, NJ\nCorporation\nChairman/Treasurer\n08/03/88\n1/19/2017\n242\nTrump Central Park West Corp\nNew York, NY\nCorporation\nPresident\nSeptember-94\n1/19/2017\n243\nTrump Chicago Commercial Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n244\nTrump Chicago Commercial Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017\n245\nTrump Chicago Development LLC\nNew York, NY\nLLC\nPresident/Member\n12/26/01\n1/19/2017\n246\nTrump Chicago Hotel Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n247\nTrump Chicago Hotel Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010622",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n6 of 51\nPart 1: Filer's Positions Held Outside United States Government",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n200\nTIHH Member LLC\nNew York, NY\nLLC\nMember/President\n09/10/09\n1/19/2017\n201\nTIHM Member Corp\nNew York, NY\nCorporation\nPresident/Director\n06/13/06\n1/19/2017\n202\nTIHT Chicago Member Acquisition LLC\nNew York, NY\nLLC\nPresident\n06/03/04\n1/19/2017\n203\nTIHT Commercial LLC\nNew York, NY\nLLC\nMember/President\n12/30/98\n1/19/2017\n204\nTIHT Holding Company LLC\nNew York, NY\nLLC\nMember/President\n01/18/05\n1/19/2017\n205\nTIHT Member LLC\nNew York, NY\nLLC\nMember/President\n07/20/06\n1/19/2017\n206\nTipperary Realty Corp.\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n11/13/75\n1/19/2017\n207\nTMG Member, LLC\nNew York, NY\nLLC\nMember\n01/15/99\n1/19/2017\n208\nTNGC Charlotte LLC\nNew York, NY\nLLC\nPresident\n10/20/11\n1/19/2017\n209\nTNGC Charlotte Manager Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/20/11\n1/19/2017\n210\nTNGC Dutchess County LLC (fka Trump Marks Classic Cars LLC)\nNew York, NY\nLLC\nPresident\n11/17/09\n1/19/2017\n211\nTNGC Dutchess County Member Corp (fka Trump Marks Classic Cars Member Corp)\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/17/09\n1/19/2017\n212\nTNGC Jupiter Management LLC\nNew York, NY\nLLC\nPresident\n06/26/14\n1/19/2017\n213\nTNGC Jupiter Managing Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/26/14\n1/19/2017\n214\nTNGC Pine Hill LLC (fka Crest Court LLC) (Trump National Golf Club - Philadelphia)\nNew York, NY\nLLC\nPresident\n11/17/09\n1/19/2017\n215\nTNGC Pine Hill Member Corp. (fka Crest Court Member Corp)\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/17/09\n1/19/2017\n216\nToronto Development LLC\nNew York, NY\nLLC\nMember/President\n06/28/01\n1/19/2017\n217\nTP CFD LLC\nNew York, NY\nLLC\nMember/President\n11/28/12\n10/18/2016\n218\nTP CFD Manager Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n11/28/12\n10/18/2016\n219\nTravel Enterprises Management, Inc (Formerly Toys at Trump, Inc.)\nNew York, NY\nCorporation\nPresident/CEO\n03/24/86\n1/19/2017\n220\nTrump 106 CPS LLC\nNew York, NY\nLLC\nMember/President\n03/28/97\n1/19/2017\n223\nTrump 845 LP LLC\nNew York, NY\nLLC\nMember/President\n09/19/03\n1/19/2017\n224\nTrump 845 UN GP LLC\nNew York, NY\nLLC\nMember/President/Treasurer\n06/20/97\n1/19/2017\n225\nTrump 845 UN MGR Corp\nNew York, NY\nCorporation\nPresident\n10/14/98\n1/19/2017\n226\nTrump 845 UN MGR LLC (F/K/A 845 UN LLC)\nNew York, NY\nLLC\nPresident/Treasurer/Member\n05/14/97\n1/19/2017\n227\nTrump AC Casino Marks LLC\nNew York, NY\nLLC\nPresident/Member\n08/03/10\n1/19/2017\n228\nTrump AC Casino Marks Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n08/03/10\n1/19/2017\n229\nTrump Acquisition Corp.\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/06/08\n1/19/2017\n230\nTrump Acquisition, LLC\nNew York, NY\nLLC\nMember/President\n02/06/08\n1/19/2017\n231\nTrump Books LLC\nNew York, NY\nLLC\nMember/President\n10/03/11\n1/19/2017\n232\nTrump Books Manager Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n10/03/11\n1/19/2017\n233\nTrump Brazil LLC\nNew York, NY\nLLC\nPresident\n09/08/03\n1/19/2017\n234\nTrump Briarcliff Manor Development LLC (formerly Briar Hall Development LLC)\nNew York, NY\nLLC\nPresident/Member\n03/04/96\n1/19/2017\n235\nTrump Canadian Services Inc\nNew York, NY\nCorporation\nPresident/Secretary\nMarch-03\n1/19/2017\n236\nTrump Canouan Estate LLC\nNew York, NY\nLLC\nPresident/Member\n12/19/07\n1/19/2017\n237\nTrump Canouan Estate Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n12/19/07\n1/19/2017\n238\nTrump Caribbean LLC\nNew York, NY\nLLC\nMember\n08/27/01\n1/19/2017\n239\nTrump Carousel LLC\nNew York, NY\nLLC\nPresident/Member\n02/18/10\n1/19/2017\n240\nTrump Carousel Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n02/18/10\n1/19/2017\n241\nAce Entertainment Holdings Inc (f/k/a Trump Casinos Inc. & Formerly Trump Taj Mahal, Inc.)\nAtlantic City, NJ\nCorporation\nChairman/Treasurer\n08/03/88\n1/19/2017\n242\nTrump Central Park West Corp\nNew York, NY\nCorporation\nPresident\nSeptember-94\n1/19/2017\n243\nTrump Chicago Commercial Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n244\nTrump Chicago Commercial Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017\n245\nTrump Chicago Development LLC\nNew York, NY\nLLC\nPresident/Member\n12/26/01\n1/19/2017\n246\nTrump Chicago Hotel Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/10\n1/19/2017\n247\nTrump Chicago Hotel Manager LLC\nNew York, NY\nLLC\nPresident/Member\n06/28/10\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "HOUSE_OVERSIGHT_010622",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2009-09-10",
+      "2017-01-19",
+      "2006-06-13",
+      "2004-06-03",
+      "1998-12-30",
+      "2005-01-18",
+      "2006-07-20",
+      "1975-11-13",
+      "1999-01-15",
+      "2011-10-20",
+      "2009-11-17",
+      "2014-06-26",
+      "2001-06-28",
+      "2012-11-28",
+      "2016-10-18",
+      "1986-03-24",
+      "1997-03-28",
+      "2003-09-19",
+      "1997-06-20",
+      "1998-10-14",
+      "1997-05-14",
+      "2010-08-03",
+      "2008-02-06",
+      "2011-10-03",
+      "2003-09-08",
+      "1996-03-04",
+      "2003-03",
+      "2007-12-19",
+      "2001-08-27",
+      "2010-02-18",
+      "1988-08-03",
+      "1994-09",
+      "2010-07-08",
+      "2010-06-28",
+      "2001-12-26"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TIHH Member LLC",
+      "TIHM Member Corp",
+      "TIHT Chicago Member Acquisition LLC",
+      "TIHT Commercial LLC",
+      "TIHT Holding Company LLC",
+      "TIHT Member LLC",
+      "Tipperary Realty Corp.",
+      "TMG Member, LLC",
+      "TNGC Charlotte LLC",
+      "TNGC Charlotte Manager Corp",
+      "TNGC Dutchess County LLC (fka Trump Marks Classic Cars LLC)",
+      "TNGC Dutchess County Member Corp (fka Trump Marks Classic Cars Member Corp)",
+      "TNGC Jupiter Management LLC",
+      "TNGC Jupiter Managing Member Corp",
+      "TNGC Pine Hill LLC (fka Crest Court LLC) (Trump National Golf Club - Philadelphia)",
+      "TNGC Pine Hill Member Corp. (fka Crest Court Member Corp)",
+      "Toronto Development LLC",
+      "TP CFD LLC",
+      "TP CFD Manager Corp.",
+      "Travel Enterprises Management, Inc (Formerly Toys at Trump, Inc.)",
+      "Trump 106 CPS LLC",
+      "Trump 845 LP LLC",
+      "Trump 845 UN GP LLC",
+      "Trump 845 UN MGR Corp",
+      "Trump 845 UN MGR LLC (F/K/A 845 UN LLC)",
+      "Trump AC Casino Marks LLC",
+      "Trump AC Casino Marks Member Corp",
+      "Trump Acquisition Corp.",
+      "Trump Acquisition, LLC",
+      "Trump Books LLC",
+      "Trump Books Manager Corp",
+      "Trump Brazil LLC",
+      "Trump Briarcliff Manor Development LLC (formerly Briar Hall Development LLC)",
+      "Trump Canadian Services Inc",
+      "Trump Canouan Estate LLC",
+      "Trump Canouan Estate Member Corp",
+      "Trump Caribbean LLC",
+      "Trump Carousel LLC",
+      "Trump Carousel Member Corp",
+      "Ace Entertainment Holdings Inc (f/k/a Trump Casinos Inc. & Formerly Trump Taj Mahal, Inc.)",
+      "Trump Central Park West Corp",
+      "Trump Chicago Commercial Member Corp",
+      "Trump Chicago Commercial Manager LLC",
+      "Trump Chicago Development LLC",
+      "Trump Chicago Hotel Member Corp",
+      "Trump Chicago Hotel Manager LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Atlantic City, NJ"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "6 of 51",
+      "HOUSE_OVERSIGHT_010622"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010622"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 6 of 51 of an OGE Form 278e for Donald J. Trump. A note at the bottom explains that gaps in the numerical sequence (e.g., jumping from item 220 to 223) are due to the removal of items that are no longer reportable. The dates 'March-03' and 'September-94' lack a specific day.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010622.jpg",
+  "house_oversight_id": "010622",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:52:38.024849Z",
+    "model": "gemini-2.5-pro"
+  }
+}

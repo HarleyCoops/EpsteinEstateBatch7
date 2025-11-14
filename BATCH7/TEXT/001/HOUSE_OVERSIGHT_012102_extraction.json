@@ -1,0 +1,13 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_012102.txt",
+  "file_path": "TEXT\\001\\HOUSE_OVERSIGHT_012102.txt",
+  "content": {
+    "full_text": "From: J [jeevacation@gmail.com] \nSent: 5/7/2019 4:29:00 AM \nTo: Nicholas Ribis \nhttps://www.nytimes.com/20 1 9/05/0 6/us/p olitics/trump -inauguration-step hanie-winston-\nwolkoff.html?action=click&module=Top%20Stories&pgtype=Homepage  \nplease note \nThe information contained in this communication is \nconfidential, may be attorney-client privileged, may \nconstitute inside information, and is intended only for \nthe use of the addressee. It is the property of \nJEE \nUnauthorized use, disclosure or copying of this \ncommunication or any part thereof is strictly prohibited \nand may be unlawful. If you have received this \ncommunication in error, please notify us immediately by \nreturn e-mail or by e-mail to jeevacation@gmail.com, and \ndestroy this communication and all copies thereof, \nincluding all attachments. copyright -all rights reserved \nHOUSE OVERSIGHT 012102 \n"
+  },
+  "error": "LLM request failed: 400 INVALID_ARGUMENT. {'error': {'code': 400, 'message': 'Manually set deadline 1s is too short. Minimum allowed deadline is 10s.', 'status': 'INVALID_ARGUMENT'}}",
+  "house_oversight_id": "012102",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:54:17.431300Z",
+    "model": "gemini-2.5-pro"
+  }
+}

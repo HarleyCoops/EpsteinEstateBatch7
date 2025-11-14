@@ -1,0 +1,152 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010625.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a page from a financial disclosure form, specifically OGE Form 278e, filed by Donald J. Trump. The page, numbered 9 of 51, details positions he held in various organizations outside the United States Government. It is presented as a table listing the organization name, location, type, position held, and the start and end dates of the position.",
+    "layout": "The document has a header with form details and the filer's name. The main body consists of a multi-column table. A footer contains an explanatory note and a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n9 of 51\nPart 1: Filer's Positions Held Outside United States Government\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n356\nTrump Marks LLC\nNew York, NY\nLLC\nPresident\n02/28/05\n1/19/2017\n357\nTrump Marks Magazine Corp\nNew York, NY\nCorporation\nDirector/President\n09/11/07\n11/9/2016\n358\nTrump Marks Magazine LLC\nNew York, NY\nLLC\nPresident/Member\n09/11/07\n11/9/2016\n359\nTrump Marks Mattress LLC\nNew York, NY\nLLC\nPresident/Member\n08/07/08\n1/19/2017\n360\nTrump Marks Mattress Member Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/07/08\n1/19/2017\n361\nTrump Marks Menswear LLC\nNew York, NY\nLLC\nPresident/Member\n08/24/09\n1/19/2017\n362\nTrump Marks Menswear Member Corp\nNew York, NY\nCorporation\nDirector/President\n08/24/09\n1/19/2017\n363\nTrump Marks Mortgage Corp.\nNew York, NY\nCorporation\nPresident/Director\n06/19/07\n1/19/2017\n364\nTrump Marks Mtg LLC\nNew York, NY\nLLC\nPresident/Member\n08/23/07\n1/19/2017\n365\nTrump Marks Mumbai LLC\nNew York, NY\nLLC\nPresident/Member\n10/11/10\n1/19/2017\n366\nTrump Marks Mumbai Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n10/11/10\n1/19/2017\n369\nTrump Marks New Rochelle Corp.\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n370\nTrump Marks New Rochelle LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n371\nTrump Marks Palm Beach Corp.\nNew York, NY\nCorporation\nDirector/President\n06/12/07\n1/19/2017\n372\nTrump Marks Palm Beach LLC\nNew York, NY\nLLC\nPresident/Member\n06/12/07\n1/19/2017\n373\nTrump Marks Panama Corp\nNew York, NY\nCorporation\nDirector/President\n04/26/07\n1/19/2017\n374\nTrump Marks Panama LLC\nNew York, NY\nLLC\nPresident/Member\n04/26/07\n1/19/2017\n375\nTrump Marks Philadelphia Corp\nNew York, NY\nCorporation\nDirector/President\n04/18/07\n1/19/2017\n376\nTrump Marks Philadelphia LLC\nNew York, NY\nLLC\nPresident/Member\n04/18/07\n1/19/2017\n377\nTrump Marks Philippines Corp\nNew York, NY\nCorporation\nDirector/President\n03/03/08\n1/19/2017\n378\nTrump Marks Philippines LLC\nNew York, NY\nLLC\nPresident/Member\n03/03/08\n1/19/2017\n379\nTrump Marks Products LLC\nNew York, NY\nLLC\nPresident/Member\n09/13/10\n1/19/2017\n380\nTrump Marks Products Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/13/10\n1/19/2017\n381\nTrump Marks Puerto Rico I LLC\nNew York, NY\nLLC\nPresident/Member\n12/11/07\n1/19/2017\n382\nTrump Marks Puerto Rico I Member Corp\nNew York, NY\nCorporation\nDirector/President\n12/11/07\n1/19/2017\n383\nTrump Marks Puerto Rico II LLC\nNew York, NY\nLLC\nPresident/Member\n07/08/08\n11/9/2016\n384\nTrump Marks Puerto Rico II Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/08\n11/10/2016\n385\nTrump Marks Punta del Este LLC\nNew York, NY\nLLC\nPresident/Member\n01/05/12\n1/19/2017\n386\nTrump Marks Punta del Este Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n01/05/12\n1/19/2017\n387\nThe Donald J. Trump Company LLC\nNew York, NY\nLLC\nManager\n04/07/14\n1/19/2017\n388\nThe Trump Marks Real Estate Corp\nNew York, NY\nCorporation\nChairman/Director & President\n02/23/07\n1/19/2017\n389\nTrump Marks Real Estate LLC\nNew York, NY\nLLC\nPresident/Member\n08/01/07\n1/19/2017\n390\nTrump Marks SOHO License Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/11/07\n1/19/2017\n391\nTrump Marks SOHO LLC\nNew York, NY\nLLC\nPresident/Member\n06/11/07\n1/19/2017\n394\nTrump Marks Stamford Corp\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n395\nTrump Marks Stamford LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n396\nTrump Marks Sunny Isles I LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n397\nTrump Marks Sunny Isles I Member Corp.\nNew York, NY\nCorporation\nDirector/President\n11/06/07\n1/19/2017\n398\nTrump Marks Sunny Isles II LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n399\nTrump Marks Sunny Isles II Member Corp.\nNew York, NY\nCorporation\nDirector/President\n11/06/07\n1/19/2017\n400\nTrump Marks Tampa Corp\nNew York, NY\nCorporation\nDirector/President\n10/26/07\n1/19/2017\n401\nTrump Marks Tampa LLC\nNew York, NY\nLLC\nPresident/Member\n10/26/07\n1/19/2017\n402\nTrump Marks Toronto Corp\nNew York, NY\nCorporation\nDirector/President\n08/09/07\n1/19/2017\n403\nTrump Marks Toronto LLC\nNew York, NY\nLLC\nPresident/Member\n08/09/07\n1/19/2017\n404\nTrump Marks Toronto LP (formally Trump Toronto Management LP)\nNew York, NY\nPartnership\nPartner\n03/19/08\n1/19/2017\n405\nTrump Marks Waikiki Corp\nNew York, NY\nCorporation\nDirector/President\n04/10/07\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010625",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n9 of 51\nPart 1: Filer's Positions Held Outside United States Government",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n356\nTrump Marks LLC\nNew York, NY\nLLC\nPresident\n02/28/05\n1/19/2017\n357\nTrump Marks Magazine Corp\nNew York, NY\nCorporation\nDirector/President\n09/11/07\n11/9/2016\n358\nTrump Marks Magazine LLC\nNew York, NY\nLLC\nPresident/Member\n09/11/07\n11/9/2016\n359\nTrump Marks Mattress LLC\nNew York, NY\nLLC\nPresident/Member\n08/07/08\n1/19/2017\n360\nTrump Marks Mattress Member Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n08/07/08\n1/19/2017\n361\nTrump Marks Menswear LLC\nNew York, NY\nLLC\nPresident/Member\n08/24/09\n1/19/2017\n362\nTrump Marks Menswear Member Corp\nNew York, NY\nCorporation\nDirector/President\n08/24/09\n1/19/2017\n363\nTrump Marks Mortgage Corp.\nNew York, NY\nCorporation\nPresident/Director\n06/19/07\n1/19/2017\n364\nTrump Marks Mtg LLC\nNew York, NY\nLLC\nPresident/Member\n08/23/07\n1/19/2017\n365\nTrump Marks Mumbai LLC\nNew York, NY\nLLC\nPresident/Member\n10/11/10\n1/19/2017\n366\nTrump Marks Mumbai Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n10/11/10\n1/19/2017\n369\nTrump Marks New Rochelle Corp.\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n370\nTrump Marks New Rochelle LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n371\nTrump Marks Palm Beach Corp.\nNew York, NY\nCorporation\nDirector/President\n06/12/07\n1/19/2017\n372\nTrump Marks Palm Beach LLC\nNew York, NY\nLLC\nPresident/Member\n06/12/07\n1/19/2017\n373\nTrump Marks Panama Corp\nNew York, NY\nCorporation\nDirector/President\n04/26/07\n1/19/2017\n374\nTrump Marks Panama LLC\nNew York, NY\nLLC\nPresident/Member\n04/26/07\n1/19/2017\n375\nTrump Marks Philadelphia Corp\nNew York, NY\nCorporation\nDirector/President\n04/18/07\n1/19/2017\n376\nTrump Marks Philadelphia LLC\nNew York, NY\nLLC\nPresident/Member\n04/18/07\n1/19/2017\n377\nTrump Marks Philippines Corp\nNew York, NY\nCorporation\nDirector/President\n03/03/08\n1/19/2017\n378\nTrump Marks Philippines LLC\nNew York, NY\nLLC\nPresident/Member\n03/03/08\n1/19/2017\n379\nTrump Marks Products LLC\nNew York, NY\nLLC\nPresident/Member\n09/13/10\n1/19/2017\n380\nTrump Marks Products Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/13/10\n1/19/2017\n381\nTrump Marks Puerto Rico I LLC\nNew York, NY\nLLC\nPresident/Member\n12/11/07\n1/19/2017\n382\nTrump Marks Puerto Rico I Member Corp\nNew York, NY\nCorporation\nDirector/President\n12/11/07\n1/19/2017\n383\nTrump Marks Puerto Rico II LLC\nNew York, NY\nLLC\nPresident/Member\n07/08/08\n11/9/2016\n384\nTrump Marks Puerto Rico II Member Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n07/08/08\n11/10/2016\n385\nTrump Marks Punta del Este LLC\nNew York, NY\nLLC\nPresident/Member\n01/05/12\n1/19/2017\n386\nTrump Marks Punta del Este Manager Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n01/05/12\n1/19/2017\n387\nThe Donald J. Trump Company LLC\nNew York, NY\nLLC\nManager\n04/07/14\n1/19/2017\n388\nThe Trump Marks Real Estate Corp\nNew York, NY\nCorporation\nChairman/Director & President\n02/23/07\n1/19/2017\n389\nTrump Marks Real Estate LLC\nNew York, NY\nLLC\nPresident/Member\n08/01/07\n1/19/2017\n390\nTrump Marks SOHO License Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n06/11/07\n1/19/2017\n391\nTrump Marks SOHO LLC\nNew York, NY\nLLC\nPresident/Member\n06/11/07\n1/19/2017\n394\nTrump Marks Stamford Corp\nNew York, NY\nCorporation\nDirector/President\n06/13/07\n1/19/2017\n395\nTrump Marks Stamford LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n396\nTrump Marks Sunny Isles I LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n397\nTrump Marks Sunny Isles I Member Corp.\nNew York, NY\nCorporation\nDirector/President\n11/06/07\n1/19/2017\n398\nTrump Marks Sunny Isles II LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n399\nTrump Marks Sunny Isles II Member Corp.\nNew York, NY\nCorporation\nDirector/President\n11/06/07\n1/19/2017\n400\nTrump Marks Tampa Corp\nNew York, NY\nCorporation\nDirector/President\n10/26/07\n1/19/2017\n401\nTrump Marks Tampa LLC\nNew York, NY\nLLC\nPresident/Member\n10/26/07\n1/19/2017\n402\nTrump Marks Toronto Corp\nNew York, NY\nCorporation\nDirector/President\n08/09/07\n1/19/2017\n403\nTrump Marks Toronto LLC\nNew York, NY\nLLC\nPresident/Member\n08/09/07\n1/19/2017\n404\nTrump Marks Toronto LP (formally Trump Toronto Management LP)\nNew York, NY\nPartnership\nPartner\n03/19/08\n1/19/2017\n405\nTrump Marks Waikiki Corp\nNew York, NY\nCorporation\nDirector/President\n04/10/07\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010625",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2005-02-28",
+      "2017-01-19",
+      "2007-09-11",
+      "2016-11-09",
+      "2008-08-07",
+      "2009-08-24",
+      "2007-06-19",
+      "2007-08-23",
+      "2010-10-11",
+      "2007-06-13",
+      "2007-06-12",
+      "2007-04-26",
+      "2007-04-18",
+      "2008-03-03",
+      "2010-09-13",
+      "2007-12-11",
+      "2008-07-08",
+      "2016-11-10",
+      "2012-01-05",
+      "2014-04-07",
+      "2007-02-23",
+      "2007-08-01",
+      "2007-06-11",
+      "2007-11-06",
+      "2007-10-26",
+      "2007-08-09",
+      "2008-03-19",
+      "2007-04-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Trump Marks LLC",
+      "Trump Marks Magazine Corp",
+      "Trump Marks Magazine LLC",
+      "Trump Marks Mattress LLC",
+      "Trump Marks Mattress Member Corp.",
+      "Trump Marks Menswear LLC",
+      "Trump Marks Menswear Member Corp",
+      "Trump Marks Mortgage Corp.",
+      "Trump Marks Mtg LLC",
+      "Trump Marks Mumbai LLC",
+      "Trump Marks Mumbai Member Corp",
+      "Trump Marks New Rochelle Corp.",
+      "Trump Marks New Rochelle LLC",
+      "Trump Marks Palm Beach Corp.",
+      "Trump Marks Palm Beach LLC",
+      "Trump Marks Panama Corp",
+      "Trump Marks Panama LLC",
+      "Trump Marks Philadelphia Corp",
+      "Trump Marks Philadelphia LLC",
+      "Trump Marks Philippines Corp",
+      "Trump Marks Philippines LLC",
+      "Trump Marks Products LLC",
+      "Trump Marks Products Member Corp",
+      "Trump Marks Puerto Rico I LLC",
+      "Trump Marks Puerto Rico I Member Corp",
+      "Trump Marks Puerto Rico II LLC",
+      "Trump Marks Puerto Rico II Member Corp",
+      "Trump Marks Punta del Este LLC",
+      "Trump Marks Punta del Este Manager Corp",
+      "The Donald J. Trump Company LLC",
+      "The Trump Marks Real Estate Corp",
+      "Trump Marks Real Estate LLC",
+      "Trump Marks SOHO License Corp",
+      "Trump Marks SOHO LLC",
+      "Trump Marks Stamford Corp",
+      "Trump Marks Stamford LLC",
+      "Trump Marks Sunny Isles I LLC",
+      "Trump Marks Sunny Isles I Member Corp.",
+      "Trump Marks Sunny Isles II LLC",
+      "Trump Marks Sunny Isles II Member Corp.",
+      "Trump Marks Tampa Corp",
+      "Trump Marks Tampa LLC",
+      "Trump Marks Toronto Corp",
+      "Trump Marks Toronto LLC",
+      "Trump Marks Toronto LP (formally Trump Toronto Management LP)",
+      "Trump Marks Waikiki Corp"
+    ],
+    "locations": [
+      "New York, NY"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "9 of 51",
+      "HOUSE_OVERSIGHT_010625"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J. Trump",
+    "recipient": null,
+    "subject": "Part 1: Filer's Positions Held Outside United States Government",
+    "date": "2014-03-01",
+    "references": [
+      "HOUSE_OVERSIGHT_010625"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.99,
+    "overall": 0.99
+  },
+  "notes": "The document is page 9 of 51 of a larger report. The numerical sequence of items in the first column has gaps (e.g., jumps from 366 to 369), which is explained by a note at the bottom of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010625.jpg",
+  "house_oversight_id": "010625",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:55:30.349186Z",
+    "model": "gemini-2.5-pro"
+  }
+}

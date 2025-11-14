@@ -1,0 +1,164 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010624.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document titled 'OGE Form 278e (March 2014)'. It is Part 1 of a financial disclosure form for Donald J. Trump, listing positions held outside the United States Government. The document is a table with columns for organization name, location, type, position held, and dates. This is page 8 of 51.",
+    "layout": "The document has a header section with the form title, filer's name, and page number. The main body is a table with seven columns. A footer contains a note about gaps in the numerical sequence and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n8 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n300\nTrump International Hotels Management LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/06\n1/19/2017\n301\nTrump International Management Corp\nNew York, NY\nCorporation\nPresident/Director\n07/02/96\n1/19/2017\n304\nTrump Korean Projects LLC\nNew York, NY\nLLC\nMember\n05/04/99\n1/19/2017\n305\nTrump Las Olas LLC\nNew York, NY\nLLC\nMember\n06/10/05\n1/19/2017\n306\nTrump Las Olas Member Corp\nNew York, NY\nCorporation\nDirector/President\n06/10/05\n1/19/2017\n307\nTrump Las Vegas Corp.\nLas Vegas, NV\nCorporation\nDirector/President\n12/04/09\n1/19/2017\n308\nTrump Las Vegas Development LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/10/02\n1/19/2017\n312\nTrump Las Vegas Managing Member LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/10/02\n1/19/2017\n313\nTrump Las Vegas Member LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/01/02\n1/19/2017\n314\nTrump Las Vegas Sales & Marketing Inc\nLas Vegas, NV\nCorporation\nPresident\n10/08/04\n1/19/2017\n316\nTrump Lauderdale Development 2 LLC\nNew York, NY\nLLC\nMember\n09/08/04\n1/19/2017\n317\nTrump Lauderdale Development LLC\nNew York, NY\nLLC\nPresident & Member\n1/12/04 & 9/22/2003\n1/19/2017\n318\nTrump Management Inc.\nNew York, NY\nCorporation\nDirector & VP\n04/22/69\n1/19/2017\n319\nTrump Marketing LLC\nNew York, NY\nLLC\nMember/President\n02/10/11\n1/19/2017\n320\nTrump Marks Asia Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n03/03/08\n1/19/2017\n321\nTrump Marks Asia LLC\nNew York, NY\nLLC\nPresident\n2/29/2008 11/14/11 & 2/29/08\n1/19/2017\n322\nTrump Marks Atlanta LLC\nNew York, NY\nLLC\nMember/President\n05/01/08\n1/19/2017\n323\nTrump Marks Atlanta Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/01/08\n1/19/2017\n324\nTrump Marks Baja Corp.\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n10/22/2015\n325\nTrump Marks Baja LLC\nNew York, NY\nLLC\nMember & President\n06/13/07\n10/26/2015\n326\nTrump Marks Batumi LLC\nNew York, NY\nLLC\nMember & President\n3/3/11 & 3/9/11\n1/19/2017\n327\nTrump Marks Batumi Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/09/11\n1/19/2017\n328\nTrump Marks Beverages Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/25/07\n10/22/2015\n329\nTrump Marks Beverages LLC\nNew York, NY\nLLC\nMember/President\n09/25/07\n10/26/2015\n330\nTrump Marks Canouan Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/17/07\n1/19/2017\n331\nTrump Marks Canouan LLC\nNew York, NY\nLLC\nMember/President\n05/17/07\n1/19/2017\n332\nTrump Marks Chicago LLC\nNew York, NY\nLLC\nMember/President\n04/14/10\n1/19/2017\n333\nTrump Marks Chicago Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n04/14/10\n1/19/2017\n336\nTrump Marks Dubai Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/13/07\n1/19/2017\n337\nTrump Marks Dubai LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n338\nTrump Marks Egypt Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/17/07\n1/19/2017\n339\nTrump Marks Egypt LLC\nNew York, NY\nLLC\nPresident/Member\n09/17/07\n1/19/2017\n340\nTrump Marks Fine Foods LLC\nNew York, NY\nLLC\nPresident/Member\n09/11/09\n1/19/2017\n341\nTrump Marks Fine Foods Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/11/09\n1/19/2017\n342\nTrump Marks Ft. Lauderdale LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n343\nTrump Marks Ft. Lauderdale Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n11/06/07\n1/19/2017\n346\nTrump Marks GP Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n07/12/05\n1/19/2017\n347\nTrump Marks Holding LP (FKA Trump Marks LP)\nNew York, NY\nPartnership\nPartner\n05/25/05\n1/19/2017\n348\nTrump Marks Hollywood Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n04/10/07\n1/19/2017\n349\nTrump Marks Hollywood LLC\nNew York, NY\nLLC\nPresident/Member\n04/09/07\n1/19/2017\n350\nTrump Marks Istanbul II Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/19/08\n1/19/2017\n351\nTrump Marks Istanbul II LLC\nNew York, NY\nLLC\nPresident/Member\n03/18/08\n1/19/2017\n352\nTrump Marks Jersey City Corp.\nNew York, NY\nCorporation\nDirector/President\n06/27/07\n1/19/2017\n353\nTrump Marks Jersey City LLC\nNew York, NY\nLLC\nPresident/Member\n06/22/07\n1/19/2017\n354\nTrump Marks Las Vegas Corp\nNew York, NY\nCorporation\nDirector/President\n09/10/07\n1/19/2017\n355\nTrump Marks Las Vegas LLC\nNew York, NY\nLLC\nPresident/Member\n09/10/07\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010624",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n8 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n300\nTrump International Hotels Management LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/06\n1/19/2017\n301\nTrump International Management Corp\nNew York, NY\nCorporation\nPresident/Director\n07/02/96\n1/19/2017\n304\nTrump Korean Projects LLC\nNew York, NY\nLLC\nMember\n05/04/99\n1/19/2017\n305\nTrump Las Olas LLC\nNew York, NY\nLLC\nMember\n06/10/05\n1/19/2017\n306\nTrump Las Olas Member Corp\nNew York, NY\nCorporation\nDirector/President\n06/10/05\n1/19/2017\n307\nTrump Las Vegas Corp.\nLas Vegas, NV\nCorporation\nDirector/President\n12/04/09\n1/19/2017\n308\nTrump Las Vegas Development LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/10/02\n1/19/2017\n312\nTrump Las Vegas Managing Member LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/10/02\n1/19/2017\n313\nTrump Las Vegas Member LLC\nLas Vegas, NV\nLLC\nPresident/Member\n10/01/02\n1/19/2017\n314\nTrump Las Vegas Sales & Marketing Inc\nLas Vegas, NV\nCorporation\nPresident\n10/08/04\n1/19/2017\n316\nTrump Lauderdale Development 2 LLC\nNew York, NY\nLLC\nMember\n09/08/04\n1/19/2017\n317\nTrump Lauderdale Development LLC\nNew York, NY\nLLC\nPresident & Member\n1/12/04 & 9/22/2003\n1/19/2017\n318\nTrump Management Inc.\nNew York, NY\nCorporation\nDirector & VP\n04/22/69\n1/19/2017\n319\nTrump Marketing LLC\nNew York, NY\nLLC\nMember/President\n02/10/11\n1/19/2017\n320\nTrump Marks Asia Corp\nNew York, NY\nCorporation\nPresident/Chairman/Director\n03/03/08\n1/19/2017\n321\nTrump Marks Asia LLC\nNew York, NY\nLLC\nPresident\n2/29/2008 11/14/11 & 2/29/08\n1/19/2017\n322\nTrump Marks Atlanta LLC\nNew York, NY\nLLC\nMember/President\n05/01/08\n1/19/2017\n323\nTrump Marks Atlanta Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/01/08\n1/19/2017\n324\nTrump Marks Baja Corp.\nNew York, NY\nCorporation\nPresident/Director\n06/13/07\n10/22/2015\n325\nTrump Marks Baja LLC\nNew York, NY\nLLC\nMember & President\n06/13/07\n10/26/2015\n326\nTrump Marks Batumi LLC\nNew York, NY\nLLC\nMember & President\n3/3/11 & 3/9/11\n1/19/2017\n327\nTrump Marks Batumi Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n03/09/11\n1/19/2017\n328\nTrump Marks Beverages Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/25/07\n10/22/2015\n329\nTrump Marks Beverages LLC\nNew York, NY\nLLC\nMember/President\n09/25/07\n10/26/2015\n330\nTrump Marks Canouan Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n05/17/07\n1/19/2017\n331\nTrump Marks Canouan LLC\nNew York, NY\nLLC\nMember/President\n05/17/07\n1/19/2017\n332\nTrump Marks Chicago LLC\nNew York, NY\nLLC\nMember/President\n04/14/10\n1/19/2017\n333\nTrump Marks Chicago Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n04/14/10\n1/19/2017\n336\nTrump Marks Dubai Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n06/13/07\n1/19/2017\n337\nTrump Marks Dubai LLC\nNew York, NY\nLLC\nPresident/Member\n06/13/07\n1/19/2017\n338\nTrump Marks Egypt Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/17/07\n1/19/2017\n339\nTrump Marks Egypt LLC\nNew York, NY\nLLC\nPresident/Member\n09/17/07\n1/19/2017\n340\nTrump Marks Fine Foods LLC\nNew York, NY\nLLC\nPresident/Member\n09/11/09\n1/19/2017\n341\nTrump Marks Fine Foods Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/11/09\n1/19/2017\n342\nTrump Marks Ft. Lauderdale LLC\nNew York, NY\nLLC\nPresident/Member\n11/06/07\n1/19/2017\n343\nTrump Marks Ft. Lauderdale Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n11/06/07\n1/19/2017\n346\nTrump Marks GP Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n07/12/05\n1/19/2017\n347\nTrump Marks Holding LP (FKA Trump Marks LP)\nNew York, NY\nPartnership\nPartner\n05/25/05\n1/19/2017\n348\nTrump Marks Hollywood Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n04/10/07\n1/19/2017\n349\nTrump Marks Hollywood LLC\nNew York, NY\nLLC\nPresident/Member\n04/09/07\n1/19/2017\n350\nTrump Marks Istanbul II Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/19/08\n1/19/2017\n351\nTrump Marks Istanbul II LLC\nNew York, NY\nLLC\nPresident/Member\n03/18/08\n1/19/2017\n352\nTrump Marks Jersey City Corp.\nNew York, NY\nCorporation\nDirector/President\n06/27/07\n1/19/2017\n353\nTrump Marks Jersey City LLC\nNew York, NY\nLLC\nPresident/Member\n06/22/07\n1/19/2017\n354\nTrump Marks Las Vegas Corp\nNew York, NY\nCorporation\nDirector/President\n09/10/07\n1/19/2017\n355\nTrump Marks Las Vegas LLC\nNew York, NY\nLLC\nPresident/Member\n09/10/07\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010624",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2006-06-13",
+      "2017-01-19",
+      "1996-07-02",
+      "1999-05-04",
+      "2005-06-10",
+      "2009-12-04",
+      "2002-10-10",
+      "2002-10-01",
+      "2004-10-08",
+      "2004-09-08",
+      "2004-01-12",
+      "2003-09-22",
+      "1969-04-22",
+      "2011-02-10",
+      "2008-03-03",
+      "2008-02-29",
+      "2011-11-14",
+      "2008-05-01",
+      "2007-06-13",
+      "2015-10-22",
+      "2015-10-26",
+      "2011-03-03",
+      "2011-03-09",
+      "2011-03-09",
+      "2007-09-25",
+      "2007-05-17",
+      "2010-04-14",
+      "2007-09-17",
+      "2009-09-11",
+      "2007-11-06",
+      "2005-07-12",
+      "2005-05-25",
+      "2007-04-10",
+      "2007-04-09",
+      "2008-03-19",
+      "2008-03-18",
+      "2007-06-27",
+      "2007-06-22",
+      "2007-09-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Trump International Hotels Management LLC",
+      "Trump International Management Corp",
+      "Trump Korean Projects LLC",
+      "Trump Las Olas LLC",
+      "Trump Las Olas Member Corp",
+      "Trump Las Vegas Corp.",
+      "Trump Las Vegas Development LLC",
+      "Trump Las Vegas Managing Member LLC",
+      "Trump Las Vegas Member LLC",
+      "Trump Las Vegas Sales & Marketing Inc",
+      "Trump Lauderdale Development 2 LLC",
+      "Trump Lauderdale Development LLC",
+      "Trump Management Inc.",
+      "Trump Marketing LLC",
+      "Trump Marks Asia Corp",
+      "Trump Marks Asia LLC",
+      "Trump Marks Atlanta LLC",
+      "Trump Marks Atlanta Member Corp",
+      "Trump Marks Baja Corp.",
+      "Trump Marks Baja LLC",
+      "Trump Marks Batumi LLC",
+      "Trump Marks Batumi Member Corp",
+      "Trump Marks Beverages Corp",
+      "Trump Marks Beverages LLC",
+      "Trump Marks Canouan Corp",
+      "Trump Marks Canouan LLC",
+      "Trump Marks Chicago LLC",
+      "Trump Marks Chicago Member Corp",
+      "Trump Marks Dubai Corp",
+      "Trump Marks Dubai LLC",
+      "Trump Marks Egypt Corp",
+      "Trump Marks Egypt LLC",
+      "Trump Marks Fine Foods LLC",
+      "Trump Marks Fine Foods Member Corp",
+      "Trump Marks Ft. Lauderdale LLC",
+      "Trump Marks Ft. Lauderdale Member Corp",
+      "Trump Marks GP Corp",
+      "Trump Marks Holding LP (FKA Trump Marks LP)",
+      "Trump Marks Hollywood Corp",
+      "Trump Marks Hollywood LLC",
+      "Trump Marks Istanbul II Corp.",
+      "Trump Marks Istanbul II LLC",
+      "Trump Marks Jersey City Corp.",
+      "Trump Marks Jersey City LLC",
+      "Trump Marks Las Vegas Corp",
+      "Trump Marks Las Vegas LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "Las Vegas, NV"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "8 of 51",
+      "HOUSE_OVERSIGHT_010624"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Positions Held Outside United States Government",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document contains several entries with multiple 'From' dates, which have been extracted as provided. The numerical sequence of the item numbers (#) has gaps, which is explained by a note at the bottom of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010624.jpg",
+  "house_oversight_id": "010624",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:54:36.667861Z",
+    "model": "gemini-2.5-pro"
+  }
+}

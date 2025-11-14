@@ -1,0 +1,177 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010621.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, page 5 of 51, for Donald J. Trump. The page lists positions held outside the United States Government in a tabular format. The table includes columns for organization name, location, organization type, position held, and the start and end dates of the position.",
+    "layout": "The document has a header with form information, filer's name, and page number. The main body is a table with seven columns. A footer contains a note and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n5 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n153\nTHC Baku Hotel Manager Services LLC\nNew York, NY\nLLC\nPresident/Member\n12/19/14\n1/19/2017\n154\nTHC Baku Hotel Manager Services Member Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n12/19/14\n1/19/2017\n155\nTHC Baku Services LLC\nNew York, NY\nLLC\nMember/President\n12/10/14\n1/19/2017\n156\nTHC Baku Services Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n12/10/14\n1/19/2017\n157\nTHC Barra Hotelaria LTDA.\nBrazil\nForeign Entity\nMember\n04/15/14\n1/19/2017\n158\nTHC Central Reservations LLC\nNew York, NY\nLLC\nMember/President\n09/16/13\n1/19/2017\n159\nTHC Central Reservations Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n09/16/13\n1/19/2017\n160\nTHC China Development LLC (fka Trump China Development LLC)\nNew York, NY\nLLC\nPresident\n02/20/08\n1/19/2017\n162\nTHC Development Brazil Managing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n05/15/13\n1/19/2017\n163\nTHC Development Brazil LLC\nNew York, NY\nLLC\nMember/President\n05/15/13\n1/19/2017\n164\nTHC Dubai II Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n11/20/2015\n165\nTHC Dubai II Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/30/14\n11/20/2015\n166\nTHC Hotel Development LLC\nNew York, NY\nLLC\nMember/President\n10/11/12\n1/19/2017\n167\nTHC IMEA Development LLC\nNew York, NY\nLLC\nPresident\n01/16/12\n1/19/2017\n168\nTHC Miami Restaurant Hospitality Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n02/01/13\n1/19/2017\n169\nTHC Miami Restaurant Hospitality LLC\nNew York, NY\nLLC\nMember/President\n02/01/13\n1/19/2017\n170\nTHC Rio Managing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n04/11/13\n1/19/2017\n171\nTHC Rio Manager LLC\nNew York, NY\nLLC\nMember/President\n04/11/13\n1/19/2017\n172\nTHC Sales & Marketing LLC\nNew York, NY\nLLC\nMember/President\n09/17/13\n1/19/2017\n173\nTHC Sales & Marketing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n09/17/13\n1/19/2017\n174\nTHC China Technical Services Manager Corp\nNew York, NY\nCorporation\nChairman/Director/President\n05/16/14\n1/19/2017\n175\nTHC China Technical Services LLC\nNew York, NY\nLLC\nMember/President\n05/16/14\n1/19/2017\n176\nTHC Qatar Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n177\nTHC Qatar Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/30/14\n10/18/2016\n178\nTHC Services Shenzhen LLC\nNew York, NY\nLLC\nMember/President\n11/25/14\n1/19/2017\n179\nTHC Services Shenzhen Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n11/25/14\n1/19/2017\n180\nTHC Shenzhen Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n11/25/14\n1/19/2017\n181\nTHC Shenzhen Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n11/25/14\n1/19/2017\n182\nTHC Vancouver Management Corp\nNew York, NY\nCorporation\nChairman/Director/President\n01/23/13\n1/19/2017\n183\nTHC Vancouver Payroll ULC\nBritish Columbia (Canada)\nCorporation\nDirector/President\n02/20/15\n1/19/2017\n184\nTHC Venture I LLC\nNew York, NY\nLLC\nMember/President\n03/14/14\n1/19/2017\n185\nTHC Venture II LLC\nNew York, NY\nLLC\nMember/President\n03/14/14\n1/19/2017\n186\nTHC Venture III LLC - N/K/A TTTT Venture LLC\nNew York, NY\nLLC\nPresident\n10/27/14\n1/19/2017\n187\nTHC Venture I Managing Member Corp.\nNew York, NY\nCorporation\nChairman/Director/President\n03/14/14\n1/19/2017\n188\nTHC Venture II Managing Member Corp.\nNew York, NY\nCorporation\nChairman/Director/President\n03/14/14\n1/19/2017\n189\nTHC Venture III Member Corp - N/K/A TTTT Venture Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/27/14\n1/19/2017\n190\nThe Donald J. Trump Foundation, Inc.\nNew York, NY\nNon profit\nDirector\n02/18/87\n1/19/2017\n191\nThe Trump Corporation\nNew York, NY\nCorporation\nDirector/President/Chairman\n07/30/80\n1/19/2017\n192\nThe Trump Follies Member Inc.\nNew York, NY\nCorporation\nChairman/Director/President\n12/13/10\n1/19/2017\n193\nThe Trump Equitable Fifth Avenue Company\nNew York, NY\nPartnership\nPartner\n01/30/80\n1/19/2017\n194\nTIGL Common Area Management Corp\nNew York, NY\nCorporation\nPresident/Director\n02/21/14\n1/19/2017\n195\nTIGL Common Area Management Holdings LLC\nNew York, NY\nLLC\nMember/President\n02/21/14\n12/30/2015\n196\nTIGL Ireland Enterprises Limited (Trump International Golf Links - Doonbeg)\nDoonbeg, Ireland\nForeign Entity\nDirector/President\n02/24/14\n1/19/2017\n197\nTIGL Ireland Management Limited\nDoonbeg, Ireland\nForeign Entity\nPresident/Director\n02/24/14\n1/19/2017\n198\nTIHC Reservations LLC\nNew York, NY\nLLC\nMember/President\n08/09/10\n1/19/2017\n199\nTIHH Member Corp\nNew York, NY\nCorporation\nPresident/Director\n09/10/09\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010621",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 1: Filer's Positions Held Outside United States Government",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n5 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n153\nTHC Baku Hotel Manager Services LLC\nNew York, NY\nLLC\nPresident/Member\n12/19/14\n1/19/2017\n154\nTHC Baku Hotel Manager Services Member Corp.\nNew York, NY\nCorporation\nDirector/Chairman/President\n12/19/14\n1/19/2017\n155\nTHC Baku Services LLC\nNew York, NY\nLLC\nMember/President\n12/10/14\n1/19/2017\n156\nTHC Baku Services Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n12/10/14\n1/19/2017\n157\nTHC Barra Hotelaria LTDA.\nBrazil\nForeign Entity\nMember\n04/15/14\n1/19/2017\n158\nTHC Central Reservations LLC\nNew York, NY\nLLC\nMember/President\n09/16/13\n1/19/2017\n159\nTHC Central Reservations Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n09/16/13\n1/19/2017\n160\nTHC China Development LLC (fka Trump China Development LLC)\nNew York, NY\nLLC\nPresident\n02/20/08\n1/19/2017\n162\nTHC Development Brazil Managing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n05/15/13\n1/19/2017\n163\nTHC Development Brazil LLC\nNew York, NY\nLLC\nMember/President\n05/15/13\n1/19/2017\n164\nTHC Dubai II Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n11/20/2015\n165\nTHC Dubai II Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/30/14\n11/20/2015\n166\nTHC Hotel Development LLC\nNew York, NY\nLLC\nMember/President\n10/11/12\n1/19/2017\n167\nTHC IMEA Development LLC\nNew York, NY\nLLC\nPresident\n01/16/12\n1/19/2017\n168\nTHC Miami Restaurant Hospitality Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n02/01/13\n1/19/2017\n169\nTHC Miami Restaurant Hospitality LLC\nNew York, NY\nLLC\nMember/President\n02/01/13\n1/19/2017\n170\nTHC Rio Managing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n04/11/13\n1/19/2017\n171\nTHC Rio Manager LLC\nNew York, NY\nLLC\nMember/President\n04/11/13\n1/19/2017\n172\nTHC Sales & Marketing LLC\nNew York, NY\nLLC\nMember/President\n09/17/13\n1/19/2017\n173\nTHC Sales & Marketing Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n09/17/13\n1/19/2017\n174\nTHC China Technical Services Manager Corp\nNew York, NY\nCorporation\nChairman/Director/President\n05/16/14\n1/19/2017\n175\nTHC China Technical Services LLC\nNew York, NY\nLLC\nMember/President\n05/16/14\n1/19/2017\n176\nTHC Qatar Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n177\nTHC Qatar Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/30/14\n10/18/2016\n178\nTHC Services Shenzhen LLC\nNew York, NY\nLLC\nMember/President\n11/25/14\n1/19/2017\n179\nTHC Services Shenzhen Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n11/25/14\n1/19/2017\n180\nTHC Shenzhen Hotel Manager LLC\nNew York, NY\nLLC\nMember/President\n11/25/14\n1/19/2017\n181\nTHC Shenzhen Hotel Manager Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n11/25/14\n1/19/2017\n182\nTHC Vancouver Management Corp\nNew York, NY\nCorporation\nChairman/Director/President\n01/23/13\n1/19/2017\n183\nTHC Vancouver Payroll ULC\nBritish Columbia (Canada)\nCorporation\nDirector/President\n02/20/15\n1/19/2017\n184\nTHC Venture I LLC\nNew York, NY\nLLC\nMember/President\n03/14/14\n1/19/2017\n185\nTHC Venture II LLC\nNew York, NY\nLLC\nMember/President\n03/14/14\n1/19/2017\n186\nTHC Venture III LLC - N/K/A TTTT Venture LLC\nNew York, NY\nLLC\nPresident\n10/27/14\n1/19/2017\n187\nTHC Venture I Managing Member Corp.\nNew York, NY\nCorporation\nChairman/Director/President\n03/14/14\n1/19/2017\n188\nTHC Venture II Managing Member Corp.\nNew York, NY\nCorporation\nChairman/Director/President\n03/14/14\n1/19/2017\n189\nTHC Venture III Member Corp - N/K/A TTTT Venture Member Corp\nNew York, NY\nCorporation\nChairman/Director/President\n10/27/14\n1/19/2017\n190\nThe Donald J. Trump Foundation, Inc.\nNew York, NY\nNon profit\nDirector\n02/18/87\n1/19/2017\n191\nThe Trump Corporation\nNew York, NY\nCorporation\nDirector/President/Chairman\n07/30/80\n1/19/2017\n192\nThe Trump Follies Member Inc.\nNew York, NY\nCorporation\nChairman/Director/President\n12/13/10\n1/19/2017\n193\nThe Trump Equitable Fifth Avenue Company\nNew York, NY\nPartnership\nPartner\n01/30/80\n1/19/2017\n194\nTIGL Common Area Management Corp\nNew York, NY\nCorporation\nPresident/Director\n02/21/14\n1/19/2017\n195\nTIGL Common Area Management Holdings LLC\nNew York, NY\nLLC\nMember/President\n02/21/14\n12/30/2015\n196\nTIGL Ireland Enterprises Limited (Trump International Golf Links - Doonbeg)\nDoonbeg, Ireland\nForeign Entity\nDirector/President\n02/24/14\n1/19/2017\n197\nTIGL Ireland Management Limited\nDoonbeg, Ireland\nForeign Entity\nPresident/Director\n02/24/14\n1/19/2017\n198\nTIHC Reservations LLC\nNew York, NY\nLLC\nMember/President\n08/09/10\n1/19/2017\n199\nTIHH Member Corp\nNew York, NY\nCorporation\nPresident/Director\n09/10/09\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010621",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2014-12-19",
+      "2017-01-19",
+      "2014-12-10",
+      "2014-04-15",
+      "2013-09-16",
+      "2008-02-20",
+      "2013-05-15",
+      "2014-10-30",
+      "2015-11-20",
+      "2012-10-11",
+      "2012-01-16",
+      "2013-02-01",
+      "2013-04-11",
+      "2013-09-17",
+      "2014-05-16",
+      "2016-10-18",
+      "2014-11-25",
+      "2013-01-23",
+      "2015-02-20",
+      "2014-03-14",
+      "2014-10-27",
+      "1987-02-18",
+      "1980-07-30",
+      "2010-12-13",
+      "1980-01-30",
+      "2014-02-21",
+      "2015-12-30",
+      "2014-02-24",
+      "2010-08-09",
+      "2009-09-10"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "THC Baku Hotel Manager Services LLC",
+      "THC Baku Hotel Manager Services Member Corp.",
+      "THC Baku Services LLC",
+      "THC Baku Services Member Corp",
+      "THC Barra Hotelaria LTDA.",
+      "THC Central Reservations LLC",
+      "THC Central Reservations Member Corp",
+      "THC China Development LLC (fka Trump China Development LLC)",
+      "THC Development Brazil Managing Member Corp",
+      "THC Development Brazil LLC",
+      "THC Dubai II Hotel Manager LLC",
+      "THC Dubai II Hotel Manager Member Corp",
+      "THC Hotel Development LLC",
+      "THC IMEA Development LLC",
+      "THC Miami Restaurant Hospitality Member Corp",
+      "THC Miami Restaurant Hospitality LLC",
+      "THC Rio Managing Member Corp",
+      "THC Rio Manager LLC",
+      "THC Sales & Marketing LLC",
+      "THC Sales & Marketing Member Corp",
+      "THC China Technical Services Manager Corp",
+      "THC China Technical Services LLC",
+      "THC Qatar Hotel Manager LLC",
+      "THC Qatar Hotel Manager Member Corp",
+      "THC Services Shenzhen LLC",
+      "THC Services Shenzhen Member Corp",
+      "THC Shenzhen Hotel Manager LLC",
+      "THC Shenzhen Hotel Manager Member Corp",
+      "THC Vancouver Management Corp",
+      "THC Vancouver Payroll ULC",
+      "THC Venture I LLC",
+      "THC Venture II LLC",
+      "THC Venture III LLC - N/K/A TTTT Venture LLC",
+      "THC Venture I Managing Member Corp.",
+      "THC Venture II Managing Member Corp.",
+      "THC Venture III Member Corp - N/K/A TTTT Venture Member Corp",
+      "The Donald J. Trump Foundation, Inc.",
+      "The Trump Corporation",
+      "The Trump Follies Member Inc.",
+      "The Trump Equitable Fifth Avenue Company",
+      "TIGL Common Area Management Corp",
+      "TIGL Common Area Management Holdings LLC",
+      "TIGL Ireland Enterprises Limited (Trump International Golf Links - Doonbeg)",
+      "TIGL Ireland Management Limited",
+      "TIHC Reservations LLC",
+      "TIHH Member Corp"
+    ],
+    "locations": [
+      "New York, NY",
+      "Brazil",
+      "British Columbia (Canada)",
+      "Doonbeg, Ireland"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010621",
+      "Page 5 of 51"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 1: Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010621"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.99,
+    "overall": 0.99
+  },
+  "notes": "The document shows gaps in the numerical sequence of items (e.g., skips from 160 to 162), which is explained by a note at the bottom of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010621.jpg",
+  "house_oversight_id": "010621",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:51:40.829035Z",
+    "model": "gemini-2.5-pro"
+  }
+}
