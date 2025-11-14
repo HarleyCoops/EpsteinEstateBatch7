@@ -1,0 +1,125 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010654.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a financial disclosure form, specifically Part 6: Other Assets and Income, from an OGE Form 278e. It lists various assets held by the filer, Donald J. Trump. The form is a table detailing the description of the asset, its value, the type of income generated, and the income amount range. The document is marked as public and includes a page number and a document identifier in the footer.",
+    "layout": "The document has a header section with the form title, filer's name, and page number. The main body is a table with five columns: '#', 'Description', 'EIF', 'Value', 'Income Type', and 'Income Amount'. A footer at the bottom provides the reporting date and a document identifier.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n38 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n6\nAMERICAN WATER WORKS COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n7\nAMERIPRISE FINANCIAL INC\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n8\nAMETEK INC NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n9\nAMGEN INC DTD 5/15/2012\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n10\nAPPLE INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n11\nAPPLE INC DTD 5/6/2014 3\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n12\nBOEING CO COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n13\nBROADCOM LIMITED COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n14\nBURLINGTN NORTH SANTA FE BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n15\nCELGENE CORP COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n16\nCISCO SYS COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$201 - $1,000\n17\nCITIGROUP INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n18\nCOCA COLA CO/THE BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n19\nCOMCAST CORP NEW CL A\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n20\nCONAGRA BRANDS INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n21\nCOSTCO WHSL CORP NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$2,501 - $5,000\n22\nCROWN CASTLE INTERNATION\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n23\nDISCOVER FINANCIAL SERVI\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010654",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n38 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n6\nAMERICAN WATER WORKS COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n7\nAMERIPRISE FINANCIAL INC\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n8\nAMETEK INC NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n9\nAMGEN INC DTD 5/15/2012\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n10\nAPPLE INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n11\nAPPLE INC DTD 5/6/2014 3\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n12\nBOEING CO COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n13\nBROADCOM LIMITED COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n14\nBURLINGTN NORTH SANTA FE BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n15\nCELGENE CORP COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$50,001 - $100,000\n16\nCISCO SYS COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$201 - $1,000\n17\nCITIGROUP INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n18\nCOCA COLA CO/THE BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n19\nCOMCAST CORP NEW CL A\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n20\nCONAGRA BRANDS INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n21\nCOSTCO WHSL CORP NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$2,501 - $5,000\n22\nCROWN CASTLE INTERNATION\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n23\nDISCOVER FINANCIAL SERVI\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010654",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2012-05-15",
+      "2014-05-06",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "AMERICAN WATER WORKS COM",
+      "AMERIPRISE FINANCIAL INC",
+      "AMETEK INC NEW COM",
+      "AMGEN INC",
+      "APPLE INC COM",
+      "APPLE INC",
+      "BOEING CO COM",
+      "BROADCOM LIMITED COM",
+      "BURLINGTN NORTH SANTA FE",
+      "CELGENE CORP COM",
+      "CISCO SYS COM",
+      "CITIGROUP INC COM",
+      "COCA COLA CO/THE",
+      "COMCAST CORP NEW CL A",
+      "CONAGRA BRANDS INC COM",
+      "COSTCO WHSL CORP NEW COM",
+      "CROWN CASTLE INTERNATION",
+      "DISCOVER FINANCIAL SERVI"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "38 of 51",
+      "HOUSE_OVERSIGHT_010654"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$15,001 - $50,000",
+      "$1,001 - $2,500",
+      "$50,001 - $100,000",
+      "$5,001 - $15,000",
+      "$201 - $1,000",
+      "$2,501 - $5,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010654"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The descriptions for 'CROWN CASTLE INTERNATION' and 'DISCOVER FINANCIAL SERVI' appear to be truncated in the image.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010654.jpg",
+  "house_oversight_id": "010654",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:11:58.814330Z",
+    "model": "gemini-2.5-pro"
+  }
+}

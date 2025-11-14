@@ -1,0 +1,127 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010655.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a financial disclosure form, specifically OGE Form 278e, titled 'Part 6: Other Assets and Income'. The filer is identified as Donald J. Trump. The form is a table listing various assets, their value, income type, and income amount. The page number is 39 of 51. A footer indicates the information is reported as of April 15, 2017. A document identifier 'HOUSE_OVERSIGHT_010655' is visible at the bottom right.",
+    "layout": "The document has a header section with the form title, filer's name, and page number. The main body consists of a multi-column table listing financial assets. A footer section provides the reporting date and a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n39 of 51\nPart 6: Other Assets and Income\n# | Description | EIF | Value | Income Type | Income Amount\n--|---|---|---|---|---\n24 | ECOLAB INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n25 | EOG RES INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n26 | EXPRESS SCRIPTS HLDG CO | N/A | None (or less than $1,001) | Capital Gain | $15,001 - $50,000\n27 | EXTRA SPACE STORAGE INC | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n28 | GENERAL ELEC CAP CORP BOND | N/A | None (or less than $1,001) | Interest, Capital Gain | $2,501 - $5,000\n29 | GENERAL ELEC CO COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $50,001 - $100,000\n30 | GENERAL MOTORS FINL CO BOND | N/A | None (or less than $1,001) | Interest, Capital Gain | $201 - $1,000\n31 | GILEAD SCIENCES INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $100,001 - $1,000,000\n32 | HCA HOLDINGS INC COM | N/A | None (or less than $1,001) | Capital Gain | $2,501 - $5,000\n33 | HCA INC DTD 8/1/2011 6.5 | N/A | None (or less than $1,001) | Interest, Capital Gain | $1,001 - $2,500\n34 | HOME DEPOT INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n35 | INTUIT INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n36 | J P MORGAN CHASE & CO CO | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n37 | JARDEN CORP | N/A | None (or less than $1,001) | Capital Gain | $201 - $1,000\n38 | JOHNSON & JOHNSON COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n39 | JPMORGAN CHASE BOND | N/A | None (or less than $1,001) | Interest, Capital Gain | $201 - $1,000\n40 | KRAFT HEINZ CO/THE COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\n41 | L BRANDS INC COM | N/A | None (or less than $1,001) | Dividends, Capital Gain | $15,001 - $50,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010655",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n39 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n24\nECOLAB INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n25\nEOG RES INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n26\nEXPRESS SCRIPTS HLDG CO\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n27\nEXTRA SPACE STORAGE INC\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n28\nGENERAL ELEC CAP CORP BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n29\nGENERAL ELEC CO COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n30\nGENERAL MOTORS FINL CO BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n31\nGILEAD SCIENCES INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$100,001 - $1,000,000\n32\nHCA HOLDINGS INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$2,501 - $5,000\n33\nHCA INC DTD 8/1/2011 6.5\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n34\nHOME DEPOT INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n35\nINTUIT INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n36\nJ P MORGAN CHASE & CO CO\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n37\nJARDEN CORP\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n38\nJOHNSON & JOHNSON COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n39\nJPMORGAN CHASE BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n40\nKRAFT HEINZ CO/THE COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n41\nL BRANDS INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010655",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2017-04-15",
+      "2011-08-01"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "ECOLAB INC",
+      "EOG RES INC",
+      "EXPRESS SCRIPTS HLDG CO",
+      "EXTRA SPACE STORAGE INC",
+      "GENERAL ELEC CAP CORP",
+      "GENERAL ELEC CO",
+      "GENERAL MOTORS FINL CO",
+      "GILEAD SCIENCES INC",
+      "HCA HOLDINGS INC",
+      "HCA INC",
+      "HOME DEPOT INC",
+      "INTUIT INC",
+      "J P MORGAN CHASE & CO",
+      "JARDEN CORP",
+      "JOHNSON & JOHNSON",
+      "JPMORGAN CHASE",
+      "KRAFT HEINZ CO/THE",
+      "L BRANDS INC",
+      "House Oversight Committee"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "39 of 51",
+      "HOUSE_OVERSIGHT_010655"
+    ],
+    "financial_amounts": [
+      "$1,001",
+      "$15,001 - $50,000",
+      "$2,501 - $5,000",
+      "$50,001 - $100,000",
+      "$201 - $1,000",
+      "$100,001 - $1,000,000",
+      "$1,001 - $2,500"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010655"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is a public financial disclosure form. All financial values are reported in ranges, not as exact figures. The 'Value' for all listed assets is 'None (or less than $1,001)', which typically refers to the value of the asset itself, while the 'Income Amount' refers to the income generated by that asset during the reporting period.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010655.jpg",
+  "house_oversight_id": "010655",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:12:32.222862Z",
+    "model": "gemini-2.5-pro"
+  }
+}

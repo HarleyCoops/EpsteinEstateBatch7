@@ -1,0 +1,123 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010659.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a financial disclosure form, specifically OGE Form 278e, Part 6, detailing 'Other Assets and Income' for Donald J. Trump. The document is a table listing various assets, their value, income type, and income amount. The page number is 43 of 51, and it includes a footer with a reporting date and a document identifier.",
+    "layout": "The document has a header section with form information, filer's name, and page number. The main body is a table with six columns: '#', 'Description', 'EIF', 'Value', 'Income Type', and 'Income Amount'. A footer at the bottom provides a reporting date and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n43 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n23\nINTL BK RECON & DEVELOP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n24\nJ P MORGAN CHASE & CO\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n25\nJOHN DEERE CAPITAL CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n26\nMCDONALD'S CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n27\nMCKESSON CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n28\nMORGAN STANLEY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$15,001 - $50,000\n29\nNBCUNIVERSAL MEDIA LLC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n30\nNEW YORK CITY NY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n31\nORACLE CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n32\nPEPSICO INC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n33\nPNC BANK NA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n34\nROYAL BANK OF CANADA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n35\nSHELL INTERNATIONAL FIN\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n36\nTHERMO FISHER SCIENTIFIC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n37\nTORONTO DOMINION BANK\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n38\nTOTAL CAPITAL INTL SA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n39\nTOYOTA MOTOR CREDIT CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n40\nUNITED STATES TREAS NTS\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010659",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n43 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n23\nINTL BK RECON & DEVELOP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n24\nJ P MORGAN CHASE & CO\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n25\nJOHN DEERE CAPITAL CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n26\nMCDONALD'S CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n27\nMCKESSON CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n28\nMORGAN STANLEY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$15,001 - $50,000\n29\nNBCUNIVERSAL MEDIA LLC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n30\nNEW YORK CITY NY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n31\nORACLE CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n32\nPEPSICO INC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n33\nPNC BANK NA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n34\nROYAL BANK OF CANADA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n35\nSHELL INTERNATIONAL FIN\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n36\nTHERMO FISHER SCIENTIFIC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n37\nTORONTO DOMINION BANK\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n38\nTOTAL CAPITAL INTL SA\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000\n39\nTOYOTA MOTOR CREDIT CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n40\nUNITED STATES TREAS NTS\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$5,001 - $15,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010659",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "INTL BK RECON & DEVELOP",
+      "J P MORGAN CHASE & CO",
+      "JOHN DEERE CAPITAL CORP",
+      "MCDONALD'S CORP",
+      "MCKESSON CORP",
+      "MORGAN STANLEY",
+      "NBCUNIVERSAL MEDIA LLC",
+      "ORACLE CORP",
+      "PEPSICO INC",
+      "PNC BANK NA",
+      "ROYAL BANK OF CANADA",
+      "SHELL INTERNATIONAL FIN",
+      "THERMO FISHER SCIENTIFIC",
+      "TORONTO DOMINION BANK",
+      "TOTAL CAPITAL INTL SA",
+      "TOYOTA MOTOR CREDIT CORP",
+      "UNITED STATES TREAS NTS"
+    ],
+    "locations": [
+      "NEW YORK CITY NY"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "43 of 51",
+      "HOUSE_OVERSIGHT_010659"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$1,001 - $2,500",
+      "$2,501 - $5,000",
+      "$5,001 - $15,000",
+      "$201 - $1,000",
+      "$15,001 - $50,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010659"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a standard financial disclosure form. All text is clearly legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010659.jpg",
+  "house_oversight_id": "010659",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:14:46.815640Z",
+    "model": "gemini-2.5-pro"
+  }
+}

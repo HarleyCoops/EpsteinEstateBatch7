@@ -1,0 +1,127 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010653.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a financial disclosure form, specifically OGE Form 278e, Part 6, for Donald J. Trump. It details assets and income held in various brokerage and bank accounts. The form is filled out with typed text and is clearly legible.",
+    "layout": "The document has a header section with form details, filer's name, and page number. The main body consists of a large table with columns for asset description, EIF, value, income type, and income amount. The footer contains a date reference and a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n37 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\nJP MORGAN CLEARING CORP - BROKERAGE ACCOUNT - HOLDINGS\n1\nAPPLE, INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n2\nCATERPILLER INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n3\nMICROSOFT CORP\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n4\nPEPSICO INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n5\nECO TEK 360 INC\n(f/k/a GLOBAL FASHION TECHNOLOGIES)\nN/A\n$1,001 - $15,000\nNone (or less than $201)\n6\nHALLIBURTON COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n7\nPHILLIPS 66 COM\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\nThe Donald J Trump Revocable Trust\n1\nCAPITAL ONE BANK - CHECKING AND SAVINGS (account funded 4/12/2017))\nN/A\nOver $50,000,000\nNone (or less than $201)\nDEUTSCHE ASSET & WEALTH MANAGEMENT A/C 1 BROKERAGE ACCT - HOLDINGS\n1\nADVANCE AUTO PTS INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$2,501 - $5,000\n2\nINVESCO EUROPEAN GROWTH FUND\nY\nNone (or less than $1,001)\n$2,501 - $5,000\n3\nALPHABET INC COM CL A\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n4\nALPHABET INC COM CL C\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n5\nAMAZON COM INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010653",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n37 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\nJP MORGAN CLEARING CORP - BROKERAGE ACCOUNT - HOLDINGS\n1\nAPPLE, INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n2\nCATERPILLER INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n3\nMICROSOFT CORP\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$100,001 - $1,000,000\n4\nPEPSICO INC\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n5\nECO TEK 360 INC\n(f/k/a GLOBAL FASHION TECHNOLOGIES)\nN/A\n$1,001 - $15,000\nNone (or less than $201)\n6\nHALLIBURTON COMPANY\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$15,001 - $50,000\n7\nPHILLIPS 66 COM\nN/A\nNone (or less than $1,001)\nDividends,Capital Gain\n$5,001 - $15,000\nThe Donald J Trump Revocable Trust\n1\nCAPITAL ONE BANK - CHECKING AND SAVINGS (account funded 4/12/2017))\nN/A\nOver $50,000,000\nNone (or less than $201)\nDEUTSCHE ASSET & WEALTH MANAGEMENT A/C 1 BROKERAGE ACCT - HOLDINGS\n1\nADVANCE AUTO PTS INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$2,501 - $5,000\n2\nINVESCO EUROPEAN GROWTH FUND\nY\nNone (or less than $1,001)\n$2,501 - $5,000\n3\nALPHABET INC COM CL A\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n4\nALPHABET INC COM CL C\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n5\nAMAZON COM INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010653",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2017-04-12",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "OGE",
+      "JP MORGAN CLEARING CORP",
+      "APPLE, INC",
+      "CATERPILLER INC",
+      "MICROSOFT CORP",
+      "PEPSICO INC",
+      "ECO TEK 360 INC",
+      "GLOBAL FASHION TECHNOLOGIES",
+      "HALLIBURTON COMPANY",
+      "PHILLIPS 66 COM",
+      "The Donald J Trump Revocable Trust",
+      "CAPITAL ONE BANK",
+      "DEUTSCHE ASSET & WEALTH MANAGEMENT",
+      "ADVANCE AUTO PTS INC COM",
+      "INVESCO EUROPEAN GROWTH FUND",
+      "ALPHABET INC COM CL A",
+      "ALPHABET INC COM CL C",
+      "AMAZON COM INC COM"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "37 of 51",
+      "HOUSE_OVERSIGHT_010653"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$100,001 - $1,000,000",
+      "$15,001 - $50,000",
+      "$1,001 - $15,000",
+      "None (or less than $201)",
+      "$5,001 - $15,000",
+      "Over $50,000,000",
+      "$2,501 - $5,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010653"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income for Donald J. Trump",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a public financial disclosure form. All text is clearly printed and legible. The financial data is presented in ranges as required by the form.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010653.jpg",
+  "house_oversight_id": "010653",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:11:23.108918Z",
+    "model": "gemini-2.5-pro"
+  }
+}

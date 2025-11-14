@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010656.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a single page of a financial disclosure form, specifically an OGE Form 278e. It details 'Other Assets and Income' for the filer, Donald J. Trump. The page is numbered 40 of 51 and contains a table listing various assets, their value, income type, and income amount. The document has a footer indicating the reporting date and a document identifier in the bottom right corner.",
+    "layout": "The document has a clear header section with form information and instructions. Below this, the filer's name and page number are displayed. The main body consists of a table with six columns and multiple rows detailing financial assets. A short note about the reporting date is present below the table, and a document ID is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n40 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n42\nMCKESSON HBOC INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n43\nMEAD JOHNSON NUTRITION C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n44\nMEDIVATION INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n45\nMERCK & CO INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n46\nMICROSOFT CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n47\nMORGAN STANLEY BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n48\nNEWELL BRANDS INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n49\nNEXTERA ENERGY INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n50\nNIKE INC CL B\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n51\nNORFOLK SOUTHERN CORP CO\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n52\nPARKER HANNIFIN CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n53\nPEPSICO INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n54\nPEPSICO INC DTD 2/28/201 BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n55\nPFIZER INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n56\nPHILIP MORRIS INTL INC C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n57\nPROCTER & GAMBLE CO COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n58\nPRUDENTIAL FINL INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n59\nROPER TECHNOLOGIES INC C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010656",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n40 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n42\nMCKESSON HBOC INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n43\nMEAD JOHNSON NUTRITION C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n44\nMEDIVATION INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$15,001 - $50,000\n45\nMERCK & CO INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n46\nMICROSOFT CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n47\nMORGAN STANLEY BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n48\nNEWELL BRANDS INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$201 - $1,000\n49\nNEXTERA ENERGY INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n50\nNIKE INC CL B\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n51\nNORFOLK SOUTHERN CORP CO\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n52\nPARKER HANNIFIN CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n53\nPEPSICO INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n54\nPEPSICO INC DTD 2/28/201 BOND\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n55\nPFIZER INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n56\nPHILIP MORRIS INTL INC C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n57\nPROCTER & GAMBLE CO COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n58\nPRUDENTIAL FINL INC COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n59\nROPER TECHNOLOGIES INC C\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010656",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "MCKESSON HBOC INC",
+      "MEAD JOHNSON NUTRITION",
+      "MEDIVATION INC",
+      "MERCK & CO INC",
+      "MICROSOFT CORP",
+      "MORGAN STANLEY",
+      "NEWELL BRANDS INC",
+      "NEXTERA ENERGY INC",
+      "NIKE INC",
+      "NORFOLK SOUTHERN CORP",
+      "PARKER HANNIFIN CORP",
+      "PEPSICO INC",
+      "PFIZER INC",
+      "PHILIP MORRIS INTL INC",
+      "PROCTER & GAMBLE CO",
+      "PRUDENTIAL FINL INC",
+      "ROPER TECHNOLOGIES INC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "40 of 51",
+      "HOUSE_OVERSIGHT_010656"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$50,001 - $100,000",
+      "$5,001 - $15,000",
+      "$15,001 - $50,000",
+      "$201 - $1,000",
+      "$1,001 - $2,500"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010656"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The date '2/28/201' in row 54 for the Pepsico bond appears to be incomplete, likely missing the last digit of the year. It has been extracted as it appears.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010656.jpg",
+  "house_oversight_id": "010656",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:13:08.943230Z",
+    "model": "gemini-2.5-pro"
+  }
+}

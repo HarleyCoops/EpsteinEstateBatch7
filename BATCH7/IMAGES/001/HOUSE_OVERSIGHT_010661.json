@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010661.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of OGE Form 278e, Part 6, a financial disclosure form for Donald J. Trump. The page, numbered 45 of 51, details 'Other Assets and Income', listing various investment funds and trusts, their values, and income generated. A footnote provides context about a Family Trust.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a table with columns for asset description, EIF, value, income type, and income amount. A footer contains a footnote and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n45 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n13\nSPDR S&P 500 ETF TRUST\nY\n$15,001 - $50,000\n14\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$15,001 - $50,000\n15\nFMI LARGE CAP FUND-INST\nY\n$1,001 - $15,000\n16\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n17\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n18\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n19\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n20\nARTISAN INTL VALUE FD-INS\nY\n$1,001 - $15,000\n21\nJPM MID CAP VALUE FD - L FUND 758\nY\n$1,001 - $15,000\n22\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n23\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000\n24\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n25\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\nFamily Trust 2*\nDividends, Capital Gains\n$5,001 - $15,000\n1\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n2\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n3\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000\n* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010661",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header_table",
+        "text": "Filer's Name\nDonald J. Trump\nPage Number\n45 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n13\nSPDR S&P 500 ETF TRUST\nY\n$15,001 - $50,000\n14\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$15,001 - $50,000\n15\nFMI LARGE CAP FUND-INST\nY\n$1,001 - $15,000\n16\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n17\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n18\nMFS EMERGING MKTS DEBT FD-I\nY\n$1,001 - $15,000\n19\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n20\nARTISAN INTL VALUE FD-INS\nY\n$1,001 - $15,000\n21\nJPM MID CAP VALUE FD - L FUND 758\nY\n$1,001 - $15,000\n22\nJPM SHRT-INT MUNI BND FD - CL L FUND 3602 1.48%\nY\n$15,001 - $50,000\n23\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000\n24\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n25\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\nFamily Trust 2*\nDividends, Capital Gains\n$5,001 - $15,000\n1\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n2\nJPM US LARGE CP CORE PLUS FD - CL I FUND 1002\nY\n$15,001 - $50,000\n3\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010661",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "SPDR",
+      "JPM",
+      "FMI",
+      "NEUBERGER BER",
+      "MFS",
+      "PIMCO",
+      "ARTISAN",
+      "AQR",
+      "PRUDENTIAL",
+      "VANGUARD",
+      "ISHARES INC",
+      "CHILTON",
+      "J.P. Morgan"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "45 of 51",
+      "HOUSE_OVERSIGHT_010661"
+    ],
+    "financial_amounts": [
+      "$15,001 - $50,000",
+      "$1,001 - $15,000",
+      "None (or less than $1,001)",
+      "$5,001 - $15,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010661"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists financial assets in two tables. The first table is numbered 13-25. The second table, under the heading 'Family Trust 2*', is numbered 1-3. The income for the Family Trust is listed as a single entry for the entire trust, not for individual assets within it.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010661.jpg",
+  "house_oversight_id": "010661",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:15:45.711004Z",
+    "model": "gemini-2.5-pro"
+  }
+}

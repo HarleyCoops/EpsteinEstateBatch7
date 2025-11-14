@@ -1,0 +1,134 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010657.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a financial disclosure document, specifically OGE Form 278e, Part 6, titled 'Other Assets and Income'. The form is filled out for Donald J. Trump and lists various assets and the income generated from them in a tabular format. The page number is 41 of 51.",
+    "layout": "The document has a header containing the form title, filer's name, and page number. The main body consists of a large table with columns for item number, description, EIF, value, income type, and income amount. A footer section includes a note about the reporting date and a document control number in the bottom right corner.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nPage Number\nDonald J. Trump\n41 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n60\nSALESFORCE COM INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$5,001 - $15,000\n61\nSCHWAB CHARLES COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$5,001 - $15,000\n62\nSEALED AIR CORP COM NEW\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$201 - $1,000\n63\nSMUCKER J M CO COM NEW\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n64\nT MOBILE US INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$1,001 - $2,500\n65\nTHERMO FISHER SCIENTIFIC\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n66\nTJX COS INC NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n67\nTWENTY FIRST CENTURY FOX\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n68\nUS T NTS DTD 8/15/2012 1\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n69\nV F CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n70\nVISA INC CL A COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n71\nWELLS FARGO & CO NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\nDEUTSCHE ASSET & WEALTH MANAGEMENT A/C 2\nBOND ACCOUNT - HOLDINGS\n1\nAMERICAN EXPRESS CREDIT\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n2\nANHEUSER-BUSCH\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n3\nAPPLE INC DTD 5/3/2013 0\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n4\nAT&T INC DTD 8/18/2011 2\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010657",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n41 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Part 6: Other Assets and Income",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n60\nSALESFORCE COM INC\nN/A\nNone (or less than $1,001)\nCapital Gain\n$5,001 - $15,000\n61\nSCHWAB CHARLES COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$5,001 - $15,000\n62\nSEALED AIR CORP COM NEW\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$201 - $1,000\n63\nSMUCKER J M CO COM NEW\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$1,001 - $2,500\n64\nT MOBILE US INC COM\nN/A\nNone (or less than $1,001)\nCapital Gain\n$1,001 - $2,500\n65\nTHERMO FISHER SCIENTIFIC\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\n66\nTJX COS INC NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n67\nTWENTY FIRST CENTURY FOX\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n68\nUS T NTS DTD 8/15/2012 1\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n69\nV F CORP COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$5,001 - $15,000\n70\nVISA INC CL A COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$50,001 - $100,000\n71\nWELLS FARGO & CO NEW COM\nN/A\nNone (or less than $1,001)\nDividends, Capital Gain\n$15,001 - $50,000\nDEUTSCHE ASSET & WEALTH MANAGEMENT A/C 2\nBOND ACCOUNT - HOLDINGS\n1\nAMERICAN EXPRESS CREDIT\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n2\nANHEUSER-BUSCH\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$1,001 - $2,500\n3\nAPPLE INC DTD 5/3/2013 0\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n4\nAT&T INC DTD 8/18/2011 2\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010657",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15",
+      "2012-08-15",
+      "2013-05-03",
+      "2011-08-18"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "SALESFORCE COM INC",
+      "SCHWAB CHARLES COM",
+      "SEALED AIR CORP COM NEW",
+      "SMUCKER J M CO COM NEW",
+      "T MOBILE US INC COM",
+      "THERMO FISHER SCIENTIFIC",
+      "TJX COS INC NEW COM",
+      "TWENTY FIRST CENTURY FOX",
+      "V F CORP COM",
+      "VISA INC CL A COM",
+      "WELLS FARGO & CO NEW COM",
+      "DEUTSCHE ASSET & WEALTH MANAGEMENT",
+      "AMERICAN EXPRESS CREDIT",
+      "ANHEUSER-BUSCH",
+      "APPLE INC",
+      "AT&T INC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "41 of 51",
+      "HOUSE_OVERSIGHT_010657"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$5,001 - $15,000",
+      "$5,001 - $15,000",
+      "$201 - $1,000",
+      "$1,001 - $2,500",
+      "$1,001 - $2,500",
+      "$15,001 - $50,000",
+      "$50,001 - $100,000",
+      "$5,001 - $15,000",
+      "$1,001 - $2,500",
+      "$5,001 - $15,000",
+      "$50,001 - $100,000",
+      "$15,001 - $50,000",
+      "$2,501 - $5,000",
+      "$1,001 - $2,500",
+      "$2,501 - $5,000",
+      "$2,501 - $5,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "HOUSE_OVERSIGHT_010657"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a public financial disclosure form. The item numbers in the first column are split into two sequences: 60-71, and then 1-4 for a separate account holding.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010657.jpg",
+  "house_oversight_id": "010657",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:13:41.212114Z",
+    "model": "gemini-2.5-pro"
+  }
+}

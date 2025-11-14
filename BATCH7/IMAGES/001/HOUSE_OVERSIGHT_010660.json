@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010660.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "An official government form, OGE Form 278e, detailing Part 6: Other Assets and Income for Donald J. Trump. The document is a table listing various financial assets, their values, and the income they generated. The page is numbered 44 of 51.",
+    "layout": "The document has a header section with form details, filer's name, and page number. The main body consists of a table with six columns: '#', 'Description', 'EIF', 'Value', 'Income Type', and 'Income Amount'. A footer at the bottom contains a footnote and a document identifier.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n44 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n41\nVERIZON COMMUNICATIONS\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n42\nWAL MART STORES INC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n43\nWELLS FARGO & COMPANY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n44\nWESTPAC BANKING CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\nFamily Trust 1*\nDividends, Capital Gains\n$5,001 - $15,000\n1\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n2\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n3\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n4\nDODGE & COX INTL STOCK FD\nY\n$1,001 - $15,000\n5\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000\n6\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n7\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$1,001 - $15,000\n8\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000\n9\nAQR MANAGED FUTURES STR-R6\nY\n$1,001 - $15,000\n10\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n11\nU.S. BANK CASH ACCOUNT\nN/A\n$1,001 - $15,000\n12\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000\n* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010660",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n44 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n41\nVERIZON COMMUNICATIONS\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n42\nWAL MART STORES INC\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$201 - $1,000\n43\nWELLS FARGO & COMPANY\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\n44\nWESTPAC BANKING CORP\nN/A\nNone (or less than $1,001)\nInterest, Capital Gain\n$2,501 - $5,000\nFamily Trust 1*\nDividends, Capital Gains\n$5,001 - $15,000\n1\nISHARES MSCI EAFE INDEX FUND\nY\n$15,001 - $50,000\n2\nDODGE & COX INCOME FD\nY\n$1,001 - $15,000\n3\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n4\nDODGE & COX INTL STOCK FD\nY\n$1,001 - $15,000\n5\nAMG MANAGERS PICTET INTERNATIONAL FUND CLASS I\nY\n$1,001 - $15,000\n6\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n7\nBLACKROCK HIGH YIELD PT-BLAC\nY\n$1,001 - $15,000\n8\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000\n9\nAQR MANAGED FUTURES STR-R6\nY\n$1,001 - $15,000\n10\nPRIMECAP ODYSSEY STOCK FD\nY\n$15,001 - $50,000\n11\nU.S. BANK CASH ACCOUNT\nN/A\n$1,001 - $15,000\n12\nISHARES RUSSELL MIDCAP INDEX FUND\nY\n$15,001 - $50,000",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority. Information being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010660",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "VERIZON COMMUNICATIONS",
+      "WAL MART STORES INC",
+      "WELLS FARGO & COMPANY",
+      "WESTPAC BANKING CORP",
+      "ISHARES MSCI EAFE INDEX FUND",
+      "DODGE & COX INCOME FD",
+      "ISHARES INC MSCI JAPAN NEW",
+      "DODGE & COX INTL STOCK FD",
+      "AMG MANAGERS PICTET INTERNATIONAL FUND CLASS I",
+      "JOHN HAN II-ABS RET CURR-I",
+      "BLACKROCK HIGH YIELD PT-BLAC",
+      "CHILTON STRATEGIC EUROPEAN EQUITIES FD",
+      "AQR MANAGED FUTURES STR-R6",
+      "PRIMECAP ODYSSEY STOCK FD",
+      "U.S. BANK",
+      "ISHARES RUSSELL MIDCAP INDEX FUND",
+      "J.P. Morgan"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "44 of 51",
+      "HOUSE_OVERSIGHT_010660"
+    ],
+    "financial_amounts": [
+      "None (or less than $1,001)",
+      "$2,501 - $5,000",
+      "$201 - $1,000",
+      "$5,001 - $15,000",
+      "$15,001 - $50,000",
+      "$1,001 - $15,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010660"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists assets in two categories. The first category includes individual company stocks. The second category lists assets held within 'Family Trust 1', for which J.P. Morgan is the sole trustee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010660.jpg",
+  "house_oversight_id": "010660",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:15:15.240885Z",
+    "model": "gemini-2.5-pro"
+  }
+}
