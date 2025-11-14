@@ -1,0 +1,83 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010667.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a government form, specifically page 51 of 51 of an OGE Form 278e. The form is titled 'Part 9: Gifts and Travel Reimbursements' and is filled out for Donald J Trump. The form is mostly blank, with 'N/A' entered in the first row.",
+    "layout": "The document has a header section with the form title, filer's name, and page number. The main body consists of a table with columns for '#', 'Source Name', 'City/State', 'Brief Description', and 'Value'. The table has 20 numbered rows. A footer at the bottom right contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 9\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J Trump\nPage Number\n51 of 51\nPart 9: Gifts and Travel Reimbursements\n#\nSource Name\nCity/State\nBrief Description\nValue\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.\nHOUSE_OVERSIGHT_010667",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 9\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header_table",
+        "text": "Filer's Name\nDonald J Trump\nPage Number\n51 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 9: Gifts and Travel Reimbursements\n#\nSource Name\nCity/State\nBrief Description\nValue\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010667",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J Trump"
+    ],
+    "organizations": [
+      "OGE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010667"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010667"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 9: Gifts and Travel Reimbursements",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The form indicates that there are no gifts or travel reimbursements to report, as 'N/A' is entered in the first row and the rest of the form is blank.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010667.jpg",
+  "house_oversight_id": "010667",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:32:25.744033Z",
+    "model": "gemini-2.5-pro"
+  }
+}

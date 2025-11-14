@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010671.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, identified as OGE Form 278e. The page details various business entities, their ownership structure, and related interests. The filer's name is Donald J. Trump. The document is clean, well-structured, and appears to be a standard government form.",
+    "layout": "The document has a header with form information, filer's name, and page number. The main body consists of a list of numbered entries (36 through 47), each detailing a specific business entity. A footer at the bottom contains a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA4 of 47\n\nReference #\nD B Pace Acquisition, LLC\n1.00%\nManaging Member\n\n36 D B Pace Acquisition, LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nD B PACE ACQUISITION MEMBER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n37 Development Member Inc. *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nBriar Hall Operations LLC\n0.10%\nMember\n\n38 DJ Aerospace (Bermuda) Limited *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\n\n39 DJT AEROSPACE LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n40 DJT ENTREPRENEUR MANAGING MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\n0.10%\nManaging Member\n\n41 DJT ENTREPRENEUR MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\n91.90%\nMember\n\n42 DJT HOLDINGS LLC\n\nAssumed Names:\nD/B/A\nJurisdiction\nExpiration Date\nFiling Date\nDJT HOLDINGS LLC\nFlorida\n\nOwned by:\n% Ownership\nName\nRole\n1\nDJT HOLDINGS MANAGING MEMBER LLC\nManaging Member\n99\nThe Donald J. Trump Revocable Trust\nMember\n\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n\n43 DJT HOLDINGS MANAGING MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n\n44 DJT LAND HOLDINGS MEMBER CORP *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\n45 DJT OPERATIONS CX LLC *(5)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n46 DJT OPERATIONS I LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n47 DJT OPERATIONS II LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n\nHOUSE_OVERSIGHT_010671",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA4 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nD B Pace Acquisition, LLC\n1.00%\nManaging Member\n\n36 D B Pace Acquisition, LLC\n\nOwned by:\n% Ownership\nName\nRole\n1\nD B PACE ACQUISITION MEMBER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n37 Development Member Inc. *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nBriar Hall Operations LLC\n0.10%\nMember\n\n38 DJ Aerospace (Bermuda) Limited *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\n\n39 DJT AEROSPACE LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n40 DJT ENTREPRENEUR MANAGING MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\n0.10%\nManaging Member\n\n41 DJT ENTREPRENEUR MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\n91.90%\nMember\n\n42 DJT HOLDINGS LLC\n\nAssumed Names:\nD/B/A\nJurisdiction\nExpiration Date\nFiling Date\nDJT HOLDINGS LLC\nFlorida\n\nOwned by:\n% Ownership\nName\nRole\n1\nDJT HOLDINGS MANAGING MEMBER LLC\nManaging Member\n99\nThe Donald J. Trump Revocable Trust\nMember\n\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n\n43 DJT HOLDINGS MANAGING MEMBER LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n\n44 DJT LAND HOLDINGS MEMBER CORP *(3)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\n\n45 DJT OPERATIONS CX LLC *(5)\n\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n\n46 DJT OPERATIONS I LLC\n\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\n\n47 DJT OPERATIONS II LLC *(1)\n\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010671",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "D B Pace Acquisition, LLC",
+      "D B PACE ACQUISITION MEMBER CORP",
+      "DJT Holdings LLC",
+      "Development Member Inc.",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "Briar Hall Operations LLC",
+      "DJ Aerospace (Bermuda) Limited",
+      "DJT AEROSPACE LLC",
+      "The Donald J. Trump Revocable Trust",
+      "DJT ENTREPRENEUR MANAGING MEMBER LLC",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)",
+      "DJT ENTREPRENEUR MEMBER LLC",
+      "DJT HOLDINGS LLC",
+      "DJT LAND HOLDINGS MEMBER CORP",
+      "DJT OPERATIONS CX LLC",
+      "DJT OPERATIONS I LLC",
+      "DJT OPERATIONS II LLC"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A4 of 47",
+      "HOUSE_OVERSIGHT_010671"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "0.10%",
+      "91.90%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010671"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a comprehensive financial disclosure report, detailing ownership percentages and roles within various corporate entities.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010671.jpg",
+  "house_oversight_id": "010671",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:34:43.770187Z",
+    "model": "gemini-2.5-pro"
+  }
+}

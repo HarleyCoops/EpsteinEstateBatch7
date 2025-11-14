@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010670.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, numbered 23 through 35, detailing their ownership structure. For each entity, it specifies the owners, their percentage of ownership, and their role (e.g., Member, Shareholder). The filer's name, Donald J. Trump, is visible at the top.",
+    "layout": "The document has a clear, structured layout. A header contains form information and the filer's name. The main body consists of a list of numbered entries for different business entities. Each entry is further broken down into sections like 'Owned by' and 'Has ownership interest in', with columns for '% Ownership', 'Name', 'Role', and 'Title'. A footer contains a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA3 of 47\nReference #\n23 Briar Hall Operations LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n0.1\nDevelopment Member Inc.\nMember\n99.9\nDJT Holdings LLC\nMember\n24 BRIARCLIFF PROPERTIES, INC. *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nBRIAR HALL DEVELOPMENT LLC\n0.10%\nMember\n(N/K/A TRUMP BRIARCLIFF\nMANOR DEVELOPMENT LLC)\n25 Caribusiness Investments, S.R.L.\nOwned by :\n% Ownership\nName\nRole\n1\nTHE CARIBUSINESS RE CORP\nMember\n99\nCARIBUSINESS MRE LLC\nMember\n26 CARIBUSINESS MRE LLC *(1)\nOwned by :\n% Ownership\nName\nRole\n1\nTHE CARIBUSINESS RE CORP\nManaging Member\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nCaribusiness Investments, S.R.L.\n99.00%\nMember\n27 Chelsea Hall LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n28 CHICAGO UNIT ACQUISITION LLC *(5)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n29 CHINA TRADEMARK LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n30 Clyde Hall, Inc. *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nShareholder\n75\nTrump Family Members\nShareholder\n31 Coronet Hall, Inc. *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nShareholder\n75\nTrump Family Members\nShareholder\n32 Country Apartments, LLC\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n33 Country Investors LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n34 Country Properties, LLC\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n35 D B PACE ACQUISITION MEMBER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nLLC\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nHOUSE_OVERSIGHT_010670",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA3 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n23 Briar Hall Operations LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n0.1\nDevelopment Member Inc.\nMember\n99.9\nDJT Holdings LLC\nMember\n24 BRIARCLIFF PROPERTIES, INC. *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nBRIAR HALL DEVELOPMENT LLC\n0.10%\nMember\n(N/K/A TRUMP BRIARCLIFF\nMANOR DEVELOPMENT LLC)\n25 Caribusiness Investments, S.R.L.\nOwned by :\n% Ownership\nName\nRole\n1\nTHE CARIBUSINESS RE CORP\nMember\n99\nCARIBUSINESS MRE LLC\nMember\n26 CARIBUSINESS MRE LLC *(1)\nOwned by :\n% Ownership\nName\nRole\n1\nTHE CARIBUSINESS RE CORP\nManaging Member\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nCaribusiness Investments, S.R.L.\n99.00%\nMember\n27 Chelsea Hall LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n28 CHICAGO UNIT ACQUISITION LLC *(5)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n29 CHINA TRADEMARK LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n30 Clyde Hall, Inc. *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nShareholder\n75\nTrump Family Members\nShareholder\n31 Coronet Hall, Inc. *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nShareholder\n75\nTrump Family Members\nShareholder\n32 Country Apartments, LLC\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n33 Country Investors LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n34 Country Properties, LLC\nOwned by :\n% Ownership\nName\nRole\n25\nDJT Holdings LLC\nMember\n75\nTrump Family Members\nMember\n35 D B PACE ACQUISITION MEMBER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER\nShareholder\nLLC\nHas ownership interest in :\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010670",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump Family Members"
+    ],
+    "organizations": [
+      "Briar Hall Operations LLC",
+      "Development Member Inc.",
+      "DJT Holdings LLC",
+      "BRIARCLIFF PROPERTIES, INC.",
+      "DJT HOLDINGS MANAGING MEMBER",
+      "BRIAR HALL DEVELOPMENT LLC",
+      "TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC",
+      "Caribusiness Investments, S.R.L.",
+      "THE CARIBUSINESS RE CORP",
+      "CARIBUSINESS MRE LLC",
+      "Chelsea Hall LLC",
+      "CHICAGO UNIT ACQUISITION LLC",
+      "CHINA TRADEMARK LLC",
+      "Clyde Hall, Inc.",
+      "Coronet Hall, Inc.",
+      "Country Apartments, LLC",
+      "Country Investors LLC",
+      "Country Properties, LLC",
+      "D B PACE ACQUISITION MEMBER CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A3 of 47",
+      "HOUSE_OVERSIGHT_010670"
+    ],
+    "financial_amounts": [
+      "0.1",
+      "99.9",
+      "100",
+      "0.10%",
+      "1",
+      "99",
+      "99.00%",
+      "25",
+      "75"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J. Trump",
+    "recipient": null,
+    "subject": "Public Financial Disclosure Report (OGE Form 278e), Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010670"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a public financial disclosure form detailing ownership in various business entities. The asterisks and numbers in parentheses next to entity names, e.g., '*(3)', likely refer to notes or appendices not included in this single page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010670.jpg",
+  "house_oversight_id": "010670",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:34:14.083650Z",
+    "model": "gemini-2.5-pro"
+  }
+}

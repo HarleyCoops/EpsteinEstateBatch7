@@ -1,0 +1,115 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010669.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, their ownership structure, and the filer's relationship to them. The filer's name is Donald J. Trump. The page is numbered A2 of 47 and has a document identifier 'HOUSE_OVERSIGHT_010669' at the bottom.",
+    "layout": "The document has a header section with form details and filer information, a main body with a numbered list of entities, and a footer with a document identifier. The main body is structured in a list format, with each entry detailing an entity and its ownership.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA2 of 47\nReference #\nTRUMP PAYROLL CHICAGO LLC 100.00% Managing Member\n\n9 809 NORTH CANON LLC\nOwned by:\n% Ownership\n1\nName\n809 NORTH CANON MEMBER CORPORATION\nRole\nManaging Member\n\n10 809 NORTH CANON MEMBER CORPORATION *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\n809 NORTH CANON LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n11 81 Pine Note Holder Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n\n12 845 UN Limited Partnership\nOwned by:\n% Ownership\n60\n40\nName\nTrump 845 LP LLC\nTrump 845 UN GP LLC\nRole\nPartner\nPartner\n\n13 Ace Entertainment Holdings Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n\n14 All County Building Supply & Maintenance Corp. *(3)\nOwned by:\n% Ownership\n75\n25\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nShareholder\nShareholder\n\n15 AVIATION PAYROLL COMPANY *(2)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\n\n16 B. Plaza Realty Corp. *(3)--DISSOLVED 11/10/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n\n17 Beach Haven Apartments #3 LLC *(3)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nMember\nMember\n\n18 Beach Haven Apt #1, Inc. *(1)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nShareholder\nShareholder\nHas ownership interest in:\nEntity Name\nStarrett City Associates, L.P.\nSpring Creek Plaza LLC\nOwnership\n0.86%\n0.86%\nTitle\nPartner\nMember\n\n20 Beach Haven Shopping Center LLC *(3)\nOwned by:\n% Ownership\n25\n75\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nMember\nMember\n\n21 Bedford Hills Corp. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nSeven Springs LLC\nOwnership\n0.10%\nTitle\nMember\n\n22 TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC *(2)\nOwned by:\n% Ownership\n0.1\n99.9\nName\nBRIARCLIFF PROPERTIES, INC.\nDJT HOLDINGS LLC\nRole\nMember\nMember\n\nHOUSE_OVERSIGHT_010669",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA2 of 47\nReference #",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "TRUMP PAYROLL CHICAGO LLC 100.00% Managing Member\n\n9 809 NORTH CANON LLC\nOwned by:\n% Ownership\n1\nName\n809 NORTH CANON MEMBER CORPORATION\nRole\nManaging Member\n\n10 809 NORTH CANON MEMBER CORPORATION *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\n809 NORTH CANON LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n11 81 Pine Note Holder Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n\n12 845 UN Limited Partnership\nOwned by:\n% Ownership\n60\n40\nName\nTrump 845 LP LLC\nTrump 845 UN GP LLC\nRole\nPartner\nPartner\n\n13 Ace Entertainment Holdings Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n\n14 All County Building Supply & Maintenance Corp. *(3)\nOwned by:\n% Ownership\n75\n25\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nShareholder\nShareholder\n\n15 AVIATION PAYROLL COMPANY *(2)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\n\n16 B. Plaza Realty Corp. *(3)--DISSOLVED 11/10/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n\n17 Beach Haven Apartments #3 LLC *(3)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nMember\nMember\n\n18 Beach Haven Apt #1, Inc. *(1)\nOwned by:\n% Ownership\n25\n75\nName\nThe Donald J. Trump Revocable Trust\nTrump Family Members\nRole\nShareholder\nShareholder\nHas ownership interest in:\nEntity Name\nStarrett City Associates, L.P.\nSpring Creek Plaza LLC\nOwnership\n0.86%\n0.86%\nTitle\nPartner\nMember\n\n20 Beach Haven Shopping Center LLC *(3)\nOwned by:\n% Ownership\n25\n75\nName\nDJT Holdings LLC\nTrump Family Members\nRole\nMember\nMember\n\n21 Bedford Hills Corp. *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nSeven Springs LLC\nOwnership\n0.10%\nTitle\nMember\n\n22 TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC *(2)\nOwned by:\n% Ownership\n0.1\n99.9\nName\nBRIARCLIFF PROPERTIES, INC.\nDJT HOLDINGS LLC\nRole\nMember\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010669",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-10"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Trump, Donald J.",
+      "Trump Family Members"
+    ],
+    "organizations": [
+      "TRUMP PAYROLL CHICAGO LLC",
+      "809 NORTH CANON LLC",
+      "809 NORTH CANON MEMBER CORPORATION",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "81 Pine Note Holder Inc.",
+      "DJT Holdings LLC",
+      "845 UN Limited Partnership",
+      "Trump 845 LP LLC",
+      "Trump 845 UN GP LLC",
+      "Ace Entertainment Holdings Inc.",
+      "All County Building Supply & Maintenance Corp.",
+      "AVIATION PAYROLL COMPANY",
+      "B. Plaza Realty Corp.",
+      "Beach Haven Apartments #3 LLC",
+      "The Donald J. Trump Revocable Trust",
+      "Beach Haven Apt #1, Inc.",
+      "Starrett City Associates, L.P.",
+      "Spring Creek Plaza LLC",
+      "Beach Haven Shopping Center LLC",
+      "Bedford Hills Corp.",
+      "Seven Springs LLC",
+      "TRUMP BRIARCLIFF MANOR DEVELOPMENT LLC",
+      "BRIARCLIFF PROPERTIES, INC."
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A2 of 47",
+      "HOUSE_OVERSIGHT_010669"
+    ],
+    "financial_amounts": [
+      "100.00%",
+      "1",
+      "100",
+      "1.00%",
+      "60",
+      "40",
+      "75",
+      "25",
+      "0.86%",
+      "0.10%",
+      "0.1",
+      "99.9"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010669"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The entry for '19' is missing from the numerical sequence. The entry for 'TRUMP PAYROLL CHICAGO LLC' at the top of the body appears to be the end of an entry from the previous page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010669.jpg",
+  "house_oversight_id": "010669",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:33:49.024998Z",
+    "model": "gemini-2.5-pro"
+  }
+}

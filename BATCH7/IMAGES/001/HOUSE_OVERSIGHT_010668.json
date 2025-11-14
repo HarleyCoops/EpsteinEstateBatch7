@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010668.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a financial disclosure document, specifically an attachment to an OGE Form 278e, filed by Donald J. Trump. The page, labeled A1 of 47, details the ownership structure of various business entities. It lists entities, who owns them, the percentage of ownership, and any ownership interests they have in other entities. A document control number 'HOUSE_OVERSIGHT_010668' is stamped at the bottom right.",
+    "layout": "The document has a header containing form information and filer details. The main body is structured as a numbered list of business entities, with sub-sections for 'Owned by' and 'Has ownership interest in', presented in a multi-column format. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA1 of 47\nReference #\nPart 2 disclosed entities with assets over $1,000 or which produced income of over $200. This Schedule (EXHIBIT A) discloses the ownership structure of the entities on Part 2, as well as\nadditional entities that are not disclosed on Part 2, the numerical or text label indicates which reason for non-disclosure\napplies. The numerical labels are as follows: *(1) have no independent value or income and are part of the entity structures listed in Part 2; (2) have no independent value or income and\nprovide back office support functions to other entities; (3) are dormant/inactive; (4) have no independent value or income and exist to hold license deals that are prospective, inactive, or\notherwise do not currently have valuable assets or create income; or (5) have no independent value or income, not inactive nor dormant, not part of an entity structure or license deal.\nThis Schedule is being provided to ensure a complete picture of the assets and holdings of the filer. Gaps in numerical sequence are due to the removal of previously reported items no\nlonger reportable on this exhibit. All of the interests listed below in this exhibit, which were formerly held by Donald J. Trump, directly or indirectly, are now held by The Donald J. Trump\nRevocable Trust.\n\n1 4 SHADOW TREE LANE LLC *(5)\nOwned by:\n% Ownership\nName\nRole\n1\n4 SHADOW TREE LANE MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n2 4 SHADOW TREE LANE MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n4 SHADOW TREE LANE LLC\n1.00%\nManaging Member\n\n3 40 Wall Development Associates, LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n0.1\nParc Consulting, Inc.\nMember\n99.9\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n40 Wall Street LLC\n99.90%\nMember\n40 WALL STREET COMMERCIAL LLC\n100.00%\nMember\n40 Wall Street Member Corp.\n100.00%\nShareholder\n\n4 40 WALL STREET COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n100\n40 Wall Development Associates, LLC\nMember\n\n5 40 Wall Street LLC\nOwned by:\n% Ownership\nName\nRole\n0.1\n40 Wall Street Member Corp.\nManaging Member\n99.9\n40 Wall Development Associates, LLC\nMember\n\n6 40 Wall Street Member Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\n40 Wall Development Associates, LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n40 Wall Street LLC\n0.10%\nManaging Member\n\n7 401 MEZZ VENTURE LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP CHICAGO MANAGING MEMBER LLC\nManaging Member\n49\nTRUMP CHICAGO MEMBER LLC\nMember\n50\nTIHT CHICAGO MEMBER ACQUISITION LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n401 North Wabash Venture LLC\n100.00%\nMember\nTRUMP CHICAGO RETAIL LLC\n100.00%\nMember\n\n8 401 North Wabash Venture LLC\nOwned by:\n% Ownership\nName\nRole\n100\n401 MEZZ VENTURE LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP COMMERCIAL CHICAGO LLC\n100.00%\nMember\n\nHOUSE_OVERSIGHT_010668",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA1 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nPart 2 disclosed entities with assets over $1,000 or which produced income of over $200. This Schedule (EXHIBIT A) discloses the ownership structure of the entities on Part 2, as well as\nadditional entities that are not disclosed on Part 2, the numerical or text label indicates which reason for non-disclosure\napplies. The numerical labels are as follows: *(1) have no independent value or income and are part of the entity structures listed in Part 2; (2) have no independent value or income and\nprovide back office support functions to other entities; (3) are dormant/inactive; (4) have no independent value or income and exist to hold license deals that are prospective, inactive, or\notherwise do not currently have valuable assets or create income; or (5) have no independent value or income, not inactive nor dormant, not part of an entity structure or license deal.\nThis Schedule is being provided to ensure a complete picture of the assets and holdings of the filer. Gaps in numerical sequence are due to the removal of previously reported items no\nlonger reportable on this exhibit. All of the interests listed below in this exhibit, which were formerly held by Donald J. Trump, directly or indirectly, are now held by The Donald J. Trump\nRevocable Trust.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1 4 SHADOW TREE LANE LLC *(5)\nOwned by:\n% Ownership\nName\nRole\n1\n4 SHADOW TREE LANE MEMBER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n\n2 4 SHADOW TREE LANE MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT HOLDINGS MANAGING MEMBER LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n4 SHADOW TREE LANE LLC\n1.00%\nManaging Member\n\n3 40 Wall Development Associates, LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n0.1\nParc Consulting, Inc.\nMember\n99.9\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n40 Wall Street LLC\n99.90%\nMember\n40 WALL STREET COMMERCIAL LLC\n100.00%\nMember\n40 Wall Street Member Corp.\n100.00%\nShareholder\n\n4 40 WALL STREET COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n100\n40 Wall Development Associates, LLC\nMember\n\n5 40 Wall Street LLC\nOwned by:\n% Ownership\nName\nRole\n0.1\n40 Wall Street Member Corp.\nManaging Member\n99.9\n40 Wall Development Associates, LLC\nMember\n\n6 40 Wall Street Member Corp. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\n40 Wall Development Associates, LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n40 Wall Street LLC\n0.10%\nManaging Member\n\n7 401 MEZZ VENTURE LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n1\nTRUMP CHICAGO MANAGING MEMBER LLC\nManaging Member\n49\nTRUMP CHICAGO MEMBER LLC\nMember\n50\nTIHT CHICAGO MEMBER ACQUISITION LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n401 North Wabash Venture LLC\n100.00%\nMember\nTRUMP CHICAGO RETAIL LLC\n100.00%\nMember\n\n8 401 North Wabash Venture LLC\nOwned by:\n% Ownership\nName\nRole\n100\n401 MEZZ VENTURE LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP COMMERCIAL CHICAGO LLC\n100.00%\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010668",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "4 SHADOW TREE LANE LLC",
+      "4 SHADOW TREE LANE MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "40 Wall Development Associates, LLC",
+      "Parc Consulting, Inc.",
+      "The Donald J. Trump Revocable Trust",
+      "40 Wall Street LLC",
+      "40 WALL STREET COMMERCIAL LLC",
+      "40 Wall Street Member Corp.",
+      "401 MEZZ VENTURE LLC",
+      "TRUMP CHICAGO MANAGING MEMBER LLC",
+      "TRUMP CHICAGO MEMBER LLC",
+      "TIHT CHICAGO MEMBER ACQUISITION LLC",
+      "401 North Wabash Venture LLC",
+      "TRUMP CHICAGO RETAIL LLC",
+      "TRUMP COMMERCIAL CHICAGO LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A1 of 47",
+      "HOUSE_OVERSIGHT_010668"
+    ],
+    "financial_amounts": [
+      "$1,000",
+      "$200"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010668"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "financial_disclosure_form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Ownership Structure of Business Entities (EXHIBIT A)",
+    "date": "2014-03",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is an exhibit to an OGE Form 278e, providing detailed ownership information for various entities related to the filer, Donald J. Trump. The numerical labels like *(1) and *(5) are explained in the introductory paragraph.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010668.jpg",
+  "house_oversight_id": "010668",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:33:16.534674Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010673.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a single page from a financial disclosure document, specifically an OGE Form 278e. The filer's name is identified as Donald J. Trump. The page, numbered A6 of 47, details ownership structures of various business entities, listing them by reference number. For each entity, it specifies the owners, their percentage of ownership, and their roles (e.g., Managing Member, Shareholder). A document control number, HOUSE_OVERSIGHT_010673, is visible at the bottom right corner.",
+    "layout": "The document has a structured, tabular layout. A header at the top contains the form title, filer's name, and page number. The main body consists of a series of numbered entries (62 through 73), each detailing a specific business entity. Within each entry, information is organized under headings like 'Owned by:', '% Ownership', 'Name', 'Role', and 'Has ownership interest in:'.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA6 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\n1\nDT DUBAI II GOLF MANAGER\nMEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n62 DT DUBAI II GOLF MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT DUBAI II GOLF MANAGER LLC\n1.00%\nManaging Member\n63 DT HOME MARKS INTERNATIONAL LLC\nOwned by:\n% Ownership\nName\nRole\n1\nDT HOME MARKS INTERNATIONAL\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n64 DT HOME MARKS INTERNATIONAL MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT HOME MARKS INTERNATIONAL\nLLC\n1.00%\nManaging Member\n65 DT INDIA VENTURE LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nDT INDIA VENTURE MANAGING\nMEMBER CORP\nMember\n99\nDTTM OPERATIONS LLC\nMember\n66 DT INDIA VENTURE MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT INDIA VENTURE LLC\n1.00%\nMember\n67 DT MARKS BAKU LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS BAKU MANAGING\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n68 DT MARKS BAKU MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT MARKS BAKU LLC\n1.00%\nManaging Member\n71 DT MARKS DUBAI LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS DUBAI MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n72 DT MARKS DUBAI MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT MARKS DUBAI LLC\n1.00%\nManaging Member\n73 DT MARKS GURGAON LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS GURGAON MANAGING MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\nHOUSE_OVERSIGHT_010673",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA6 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\nName\nRole\n1\nDT DUBAI II GOLF MANAGER\nMEMBER CORP\nManaging Member\n99\nTTTT VENTURE LLC\nMember\n62 DT DUBAI II GOLF MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT DUBAI II GOLF MANAGER LLC\n1.00%\nManaging Member\n63 DT HOME MARKS INTERNATIONAL LLC\nOwned by:\n% Ownership\nName\nRole\n1\nDT HOME MARKS INTERNATIONAL\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n64 DT HOME MARKS INTERNATIONAL MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT HOME MARKS INTERNATIONAL\nLLC\n1.00%\nManaging Member\n65 DT INDIA VENTURE LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nDT INDIA VENTURE MANAGING\nMEMBER CORP\nMember\n99\nDTTM OPERATIONS LLC\nMember\n66 DT INDIA VENTURE MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT INDIA VENTURE LLC\n1.00%\nMember\n67 DT MARKS BAKU LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS BAKU MANAGING\nMEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n68 DT MARKS BAKU MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT MARKS BAKU LLC\n1.00%\nManaging Member\n71 DT MARKS DUBAI LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS DUBAI MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember\n72 DT MARKS DUBAI MEMBER CORP *(4)\nOwned by:\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nMember Corp\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nDT MARKS DUBAI LLC\n1.00%\nManaging Member\n73 DT MARKS GURGAON LLC *(4)\nOwned by:\n% Ownership\nName\nRole\n1\nDT MARKS GURGAON MANAGING MEMBER CORP\nManaging Member\n99\nDTTM OPERATIONS LLC\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010673",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT DUBAI II GOLF MANAGER MEMBER CORP",
+      "DT DUBAI II GOLF MANAGER MEMBER CORP",
+      "TTTT VENTURE LLC",
+      "DJT Holdings Managing Member LLC",
+      "DT DUBAI II GOLF MANAGER LLC",
+      "DT HOME MARKS INTERNATIONAL LLC",
+      "DT HOME MARKS INTERNATIONAL MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DT HOME MARKS INTERNATIONAL MEMBER CORP",
+      "DTTM Operations Managing Member Corp",
+      "DT HOME MARKS INTERNATIONAL LLC",
+      "DT INDIA VENTURE LLC",
+      "DT INDIA VENTURE MANAGING MEMBER CORP",
+      "DT INDIA VENTURE MANAGING MEMBER CORP",
+      "DT MARKS BAKU LLC",
+      "DT MARKS BAKU MANAGING MEMBER CORP",
+      "DT MARKS BAKU MANAGING MEMBER CORP",
+      "DT MARKS DUBAI LLC",
+      "DT MARKS DUBAI MEMBER CORP",
+      "DT MARKS DUBAI MEMBER CORP",
+      "DT MARKS GURGAON LLC",
+      "DT MARKS GURGAON MANAGING MEMBER CORP"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A6 of 47",
+      "HOUSE_OVERSIGHT_010673",
+      "62",
+      "63",
+      "64",
+      "65",
+      "66",
+      "67",
+      "68",
+      "71",
+      "72",
+      "73"
+    ],
+    "financial_amounts": [
+      "1%",
+      "99%",
+      "100%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010673"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be part of a larger set, as indicated by the page number 'A6 of 47'. The asterisks with numbers, e.g., '*(1)', '*(3)', '*(4)', likely refer to footnotes or endnotes that are not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010673.jpg",
+  "house_oversight_id": "010673",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:35:40.248464Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,84 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010665.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page of a government form, specifically an OGE Form 278e, which is a Public Financial Disclosure Report. The page is Part 7, which covers transactions. The filer's name is Donald J Trump, and the page number is 49 of 51. The form is largely blank, with 'N/A' entered in the first row, indicating no transactions to report.",
+    "layout": "The document has a header with the form title and instructions, a section with the filer's name and page number, a main body consisting of a table with numbered rows, and a footer with a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 7\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nPage Number\nDonald J Trump\n49 of 51\nPart 7: Transactions\n#\nDescription\nType\nDate\nAmount\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.\nHOUSE_OVERSIGHT_010665",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 7\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "filer_information",
+        "text": "Filer's Name\nDonald J Trump\nPage Number\n49 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 7: Transactions\n#\nDescription\nType\nDate\nAmount\n1.\nN/A\n2.\n3.\n4.\n5.\n6.\n7.\n8.\n9.\n10.\n11.\n12.\n13.\n14.\n15.\n16.\n17.\n18.\n19.\n20.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010665",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J Trump"
+    ],
+    "organizations": [
+      "OGE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010665",
+      "49 of 51"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010665"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J Trump",
+    "recipient": null,
+    "subject": "Part 7: Transactions - Public Financial Disclosure Report",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010665"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The form indicates no transactions to report for this section, as 'N/A' is entered in the first line and the rest of the table is blank.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010665.jpg",
+  "house_oversight_id": "010665",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:31:27.863212Z",
+    "model": "gemini-2.5-pro"
+  }
+}

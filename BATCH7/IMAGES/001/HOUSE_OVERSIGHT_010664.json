@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010664.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "An image of a financial disclosure form, specifically OGE Form 278e, Part 6, for Donald J. Trump. The form lists 'Other Assets and Income' in a table format, showing descriptions of assets, their values, and other details. The page number is 48 of 51.",
+    "layout": "The document has a header with form information and filer's name, a main body consisting of a table with multiple rows of financial data, and a footer with a note and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n48 of 51\nPart 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n13\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n14\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n15\nARTISAN INTL VALUE FD-INS\nY\n$15,001 - $50,000\n16\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n17\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n18\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000\n19\nJPM MID CAP VALUE FD - L FUND 758\nY\n$15,001 - $50,000\n20\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$50,001 - $100,000\n21\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000\n22\nU.S. BANK CASH ACCOUNT\nN/A\n$15,001 - $50,000\n23\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n24\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\n25\nFMI LARGE CAP FUND\nY\nNone (or less than $1,001)\n* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority.\nInformation being reported is as of April 15, 2017.\nHOUSE_OVERSIGHT_010664",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 6\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n48 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Part 6: Other Assets and Income\n#\nDescription\nEIF\nValue\nIncome Type\nIncome Amount\n13\nISHARES INC MSCI JAPAN NEW\nY\n$1,001 - $15,000\n14\nNEUBERGER BER MU/C OPP-INS\nY\n$15,001 - $50,000\n15\nARTISAN INTL VALUE FD-INS\nY\n$15,001 - $50,000\n16\nPIMCO UNCONSTRAINED BOND-INS\nY\n$1,001 - $15,000\n17\nJOHN HAN II-ABS RET CURR-I\nY\n$1,001 - $15,000\n18\nAQR LONG-SHORT EQUITY-R6\nY\n$1,001 - $15,000\n19\nJPM MID CAP VALUE FD - L FUND 758\nY\n$15,001 - $50,000\n20\nJPM GLBL RES ENH INDEX FD - CL I FUND 3457\nY\n$50,001 - $100,000\n21\nCHILTON STRATEGIC EUROPEAN EQUITIES FD\nY\n$1,001 - $15,000\n22\nU.S. BANK CASH ACCOUNT\nN/A\n$15,001 - $50,000\n23\nPRUDENTIAL TOTAL RETRN BND-Z\nY\nNone (or less than $1,001)\n24\nVANGUARD INTM TRM INV G-ADM\nY\nNone (or less than $1,001)\n25\nFMI LARGE CAP FUND\nY\nNone (or less than $1,001)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "* J.P. Morgan is the sole Trustee. Donald J. Trump retains an income interest only in the Family Trusts and has no investment decision authority.\nInformation being reported is as of April 15, 2017.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010664",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2017-04-15"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "ISHARES INC",
+      "NEUBERGER BER",
+      "ARTISAN INTL",
+      "PIMCO",
+      "JOHN HAN II",
+      "AQR",
+      "JPM",
+      "CHILTON STRATEGIC",
+      "U.S. BANK",
+      "PRUDENTIAL",
+      "VANGUARD",
+      "FMI",
+      "J.P. Morgan"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "48 of 51",
+      "HOUSE_OVERSIGHT_010664"
+    ],
+    "financial_amounts": [
+      "$1,001 - $15,000",
+      "$15,001 - $50,000",
+      "$50,001 - $100,000",
+      "None (or less than $1,001)"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010664"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J. Trump",
+    "recipient": null,
+    "subject": "Part 6: Other Assets and Income",
+    "date": "2017-04-15",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The 'Income Type' and 'Income Amount' columns are empty for all listed assets.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010664.jpg",
+  "house_oversight_id": "010664",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:31:07.934972Z",
+    "model": "gemini-2.5-pro"
+  }
+}

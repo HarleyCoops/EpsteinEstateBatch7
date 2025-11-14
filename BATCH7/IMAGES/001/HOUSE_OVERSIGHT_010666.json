@@ -1,0 +1,164 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010666.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a single page from a financial disclosure form, specifically OGE Form 278e, Part 8: Liabilities, for Donald J. Trump. The page is numbered 50 of 51. It contains a table listing 17 liabilities, detailing the creditor, type of debt, amount, year incurred, interest rate, and term. A footnote and a note are present below the table. A Bates stamp 'HOUSE_OVERSIGHT_010666' is visible at the bottom right corner.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a table with seven columns. Below the table are footnotes and a note. A document control number is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 8\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\n50 of 51\nPart 8: Liabilities\n#\nCreditor Name\nType\nAmount\nYear Incurred\nRate\nTerm\n1.\nLadder Capital Finance LLC\nTrump Tower Commercial LLC - mortgage\nOver $50,000,000\n2012\n4.200%\nMatures in 2022\n2.\nLadder Capital Finance I LLC\n40 Wall Street LLC - loan\nOver $50,000,000\n2015\n3.665%\nMatures in 2025\n3.\nDeutsche Bank Trust Company Americas\nTrump National Doral - mortgage\nOver $50,000,000\n2012\nLIBOR + 1.75% or\nPrime minus .75%\nMatures in 2023\n4.\nDeutsche Bank Trust Company Americas\nTrump National Doral - mortgage\n$5,000,001 - $25,000,000\n2012\nLIBOR + 1.75% or\nPrime minus .75%\nMatures in 2023\n5.\nThe Bank of New York Mellon Trust Company N.A., as trustee\nFifty-Seventh Street Associates LLC - issuer of secured lease bonds\n$500,001 - $1,000,000\n1996\n7.125%\nMatures in 2017\n6.\nInvestors Savings Bank\nTrump Park Avenue LLC - mortgage\n$5,000,001 - $25,000,000\n2010\n3.250%\nMatures in 2020\n7.\nLadder Capital Finance LLC\nTrump Plaza LLC - mortgage\n$5,000,001 - $25,000,000\n2014\n3.850%\nMatures in 2024\n8.\nAmboy Bank\nTrump National Golf Club Colts Neck LLC - mortgage\n$5,000,001 - $25,000,000\n2008\n5.250%\nMatures in 2028\n9.\nChevy Chase Trust Holdings, Inc. as successor in interest to Bondy Way Development\nTrump National Golf Club Washington DC LLC - mortgage\n$5,000,001 - $25,000,000\n2009\n5.500%\nMatures in 2029\n10.\nRoyal Bank America\nSeven Springs - mortgage\n$5,000,001 - $25,000,000\n2000\n4.000%\nMatures in 2019\n11.a.\nUBS Real Estate Investments Inc.*\nTIHT Commercial LLC - mortgage\n$5,000,001 - $25,000,000\n2006\n6.180%\nMatures in 2016\n11.b.\nLadder Capital Finance LLC*\nTIHT Commercial LLC - mortgage\n$5,000,001 - $25,000,000\n2016\n4.050%\nMatures in 2026\n12.\nMerrill Lynch Credit Corporation\n1094 S Ocean Blvd - mortgage\n$100,001 - $250,000\n1994\nSix month LIBOR +\n1.50%\nMatures in 2019\n13.\nMerrill Lynch Credit Corporation\n124 Woodbridge Road - mortgage\n$50,001 - $100,000\n1993\nSix month LIBOR +\n1.75%\nMatures in 2019\n14.\nChicago Unit Acquisition LLC\nTIHT Chicago - springing loan\nOver $50,000,000\n2012\nPrime + 5%\nSpringing loan\n15.\nDeutsche Bank Trust Company Americas\nTIHT Chicago - term loan\n$25,000,001 - $50,000,000\n2012\nLIBOR + 2.00% or\nPrime minus .50%\nMatures in 2024\n16.\nDeutsche Bank Trust Company Americas\nTrump Old Post Office - loan\nOver $50,000,000\n2015\nLIBOR or Prime +\n2.00%\nMatures in 2024\n17.\n(*) UBS Real Estate Investments Inc. mortgage (11.a.) was refinanced by Ladder Capital Finance LLC (11.b.) after the close of the reporting period in 2016.\nNOTE: Reporting date for liabilities is May 31, 2017 per 5 CFR 2634.308(b)(3).\nHOUSE_OVERSIGHT_010666",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 8\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Filer's Name\nDonald J. Trump\nPart 8: Liabilities",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Page Number\n50 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nCreditor Name\nType\nAmount\nYear Incurred\nRate\nTerm\n1.\nLadder Capital Finance LLC\nTrump Tower Commercial LLC - mortgage\nOver $50,000,000\n2012\n4.200%\nMatures in 2022\n2.\nLadder Capital Finance I LLC\n40 Wall Street LLC - loan\nOver $50,000,000\n2015\n3.665%\nMatures in 2025\n3.\nDeutsche Bank Trust Company Americas\nTrump National Doral - mortgage\nOver $50,000,000\n2012\nLIBOR + 1.75% or\nPrime minus .75%\nMatures in 2023\n4.\nDeutsche Bank Trust Company Americas\nTrump National Doral - mortgage\n$5,000,001 - $25,000,000\n2012\nLIBOR + 1.75% or\nPrime minus .75%\nMatures in 2023\n5.\nThe Bank of New York Mellon Trust Company N.A., as trustee\nFifty-Seventh Street Associates LLC - issuer of secured lease bonds\n$500,001 - $1,000,000\n1996\n7.125%\nMatures in 2017\n6.\nInvestors Savings Bank\nTrump Park Avenue LLC - mortgage\n$5,000,001 - $25,000,000\n2010\n3.250%\nMatures in 2020\n7.\nLadder Capital Finance LLC\nTrump Plaza LLC - mortgage\n$5,000,001 - $25,000,000\n2014\n3.850%\nMatures in 2024\n8.\nAmboy Bank\nTrump National Golf Club Colts Neck LLC - mortgage\n$5,000,001 - $25,000,000\n2008\n5.250%\nMatures in 2028\n9.\nChevy Chase Trust Holdings, Inc. as successor in interest to Bondy Way Development\nTrump National Golf Club Washington DC LLC - mortgage\n$5,000,001 - $25,000,000\n2009\n5.500%\nMatures in 2029\n10.\nRoyal Bank America\nSeven Springs - mortgage\n$5,000,001 - $25,000,000\n2000\n4.000%\nMatures in 2019\n11.a.\nUBS Real Estate Investments Inc.*\nTIHT Commercial LLC - mortgage\n$5,000,001 - $25,000,000\n2006\n6.180%\nMatures in 2016\n11.b.\nLadder Capital Finance LLC*\nTIHT Commercial LLC - mortgage\n$5,000,001 - $25,000,000\n2016\n4.050%\nMatures in 2026\n12.\nMerrill Lynch Credit Corporation\n1094 S Ocean Blvd - mortgage\n$100,001 - $250,000\n1994\nSix month LIBOR +\n1.50%\nMatures in 2019\n13.\nMerrill Lynch Credit Corporation\n124 Woodbridge Road - mortgage\n$50,001 - $100,000\n1993\nSix month LIBOR +\n1.75%\nMatures in 2019\n14.\nChicago Unit Acquisition LLC\nTIHT Chicago - springing loan\nOver $50,000,000\n2012\nPrime + 5%\nSpringing loan\n15.\nDeutsche Bank Trust Company Americas\nTIHT Chicago - term loan\n$25,000,001 - $50,000,000\n2012\nLIBOR + 2.00% or\nPrime minus .50%\nMatures in 2024\n16.\nDeutsche Bank Trust Company Americas\nTrump Old Post Office - loan\nOver $50,000,000\n2015\nLIBOR or Prime +\n2.00%\nMatures in 2024\n17.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "(*) UBS Real Estate Investments Inc. mortgage (11.a.) was refinanced by Ladder Capital Finance LLC (11.b.) after the close of the reporting period in 2016.\nNOTE: Reporting date for liabilities is May 31, 2017 per 5 CFR 2634.308(b)(3).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010666",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2012",
+      "2022",
+      "2015",
+      "2025",
+      "2023",
+      "1996",
+      "2017",
+      "2010",
+      "2020",
+      "2014",
+      "2024",
+      "2008",
+      "2028",
+      "2009",
+      "2029",
+      "2000",
+      "2019",
+      "2006",
+      "2016",
+      "2026",
+      "1994",
+      "1993",
+      "2017-05-31"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "Ladder Capital Finance LLC",
+      "Ladder Capital Finance I LLC",
+      "Deutsche Bank Trust Company Americas",
+      "The Bank of New York Mellon Trust Company N.A.",
+      "Investors Savings Bank",
+      "Amboy Bank",
+      "Chevy Chase Trust Holdings, Inc.",
+      "Bondy Way Development",
+      "Royal Bank America",
+      "UBS Real Estate Investments Inc.",
+      "Merrill Lynch Credit Corporation",
+      "Chicago Unit Acquisition LLC",
+      "Trump Tower Commercial LLC",
+      "40 Wall Street LLC",
+      "Trump National Doral",
+      "Fifty-Seventh Street Associates LLC",
+      "Trump Park Avenue LLC",
+      "Trump Plaza LLC",
+      "Trump National Golf Club Colts Neck LLC",
+      "Trump National Golf Club Washington DC LLC",
+      "Seven Springs",
+      "TIHT Commercial LLC",
+      "TIHT Chicago",
+      "Trump Old Post Office"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "50 of 51",
+      "HOUSE_OVERSIGHT_010666",
+      "5 CFR 2634.308(b)(3)"
+    ],
+    "financial_amounts": [
+      "Over $50,000,000",
+      "$5,000,001 - $25,000,000",
+      "$500,001 - $1,000,000",
+      "$100,001 - $250,000",
+      "$50,001 - $100,000",
+      "$25,000,001 - $50,000,000",
+      "4.200%",
+      "3.665%",
+      "LIBOR + 1.75% or Prime minus .75%",
+      "7.125%",
+      "3.250%",
+      "3.850%",
+      "5.250%",
+      "5.500%",
+      "4.000%",
+      "6.180%",
+      "4.050%",
+      "Six month LIBOR + 1.50%",
+      "Six month LIBOR + 1.75%",
+      "Prime + 5%",
+      "LIBOR + 2.00% or Prime minus .50%",
+      "LIBOR or Prime + 2.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010666"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 8: Liabilities for Donald J. Trump",
+    "date": "2017-05-31",
+    "references": [
+      "OGE Form 278e"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form. The primary date for the liabilities listed is noted as May 31, 2017. The form itself is dated March 2014. All text appears to be clearly printed and legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010666.jpg",
+  "house_oversight_id": "010666",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:32:09.505850Z",
+    "model": "gemini-2.5-pro"
+  }
+}

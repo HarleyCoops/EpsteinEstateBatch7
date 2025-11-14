@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010672.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of page A5 of 47 of an OGE Form 278e, a public financial disclosure report. The filer is identified as Donald J. Trump. The page details ownership structures for various business entities, numbered 48 through 61. It lists the entity, its owners, their percentage of ownership, and their roles or titles. A document control number, HOUSE_OVERSIGHT_010672, is visible at the bottom right.",
+    "layout": "The document has a clear header section with form information, filer's name, and page number. The main body is a list of entities, each with sub-sections for ownership details. A footer contains a unique identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA5 of 47\n\nReference #\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n\nHas ownership interest in :\nEntity Name\nTAG AIR INC.\nOwnership\n100.00%\nTitle\nShareholder\n\n48 Donald J Trump Enterprises LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n49 Donald J. Trump Enterprises II LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n50 Donald J. Trump Enterprises III LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n51 DSN LICENSING LLC *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n1\n99\nName\nTrump, Donald J.\nDSN LICENSING MEMBER CORP\nRole\nMember\nManaging Member\n\n52 DSN LICENSING MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDSN LICENSING LLC\nOwnership\n99.00%\nTitle\nManaging Member\n\n53 DT APP WARRANT HOLDING LLC *(3)\nOwned by :\n% Ownership\n1\n99\nName\nDT APP WARRANT HOLDING MANAGING MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n54 DT APP WARRANT HOLDING MANAGING MEMBER CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT APP WARRANT HOLDING LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n55 DT CONNECT II LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT CONNECT II MEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n56 DT CONNECT II MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT CONNECT II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n59 DT DUBAI GOLF MANAGER LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT DUBAI GOLF MANAGER MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n60 DT DUBAI GOLF MANAGER MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT DUBAI GOLF MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n61 DT DUBAI II GOLF MANAGER LLC\n\nHOUSE_OVERSIGHT_010672",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA5 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n\nHas ownership interest in :\nEntity Name\nTAG AIR INC.\nOwnership\n100.00%\nTitle\nShareholder\n\n48 Donald J Trump Enterprises LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n49 Donald J. Trump Enterprises II LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n50 Donald J. Trump Enterprises III LLC *(3)\nOwned by :\n% Ownership\n100\nName\nTrump Family Members\nRole\nMember\n\n51 DSN LICENSING LLC *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n1\n99\nName\nTrump, Donald J.\nDSN LICENSING MEMBER CORP\nRole\nMember\nManaging Member\n\n52 DSN LICENSING MEMBER CORP *(3)--DISSOLVED 11/9/16\nOwned by :\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDSN LICENSING LLC\nOwnership\n99.00%\nTitle\nManaging Member\n\n53 DT APP WARRANT HOLDING LLC *(3)\nOwned by :\n% Ownership\n1\n99\nName\nDT APP WARRANT HOLDING MANAGING MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n54 DT APP WARRANT HOLDING MANAGING MEMBER CORP *(3)\nOwned by :\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT APP WARRANT HOLDING LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n55 DT CONNECT II LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT CONNECT II MEMBER CORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n56 DT CONNECT II MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT CONNECT II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n59 DT DUBAI GOLF MANAGER LLC\nOwned by :\n% Ownership\n1\n99\nName\nDT DUBAI GOLF MANAGER MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n60 DT DUBAI GOLF MANAGER MEMBER CORP *(1)\nOwned by :\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in :\nEntity Name\nDT DUBAI GOLF MANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n61 DT DUBAI II GOLF MANAGER LLC",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010672",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-11-09"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TAG AIR INC.",
+      "The Donald J. Trump Revocable Trust",
+      "Donald J Trump Enterprises LLC",
+      "Donald J. Trump Enterprises II LLC",
+      "Donald J. Trump Enterprises III LLC",
+      "DSN LICENSING LLC",
+      "DSN LICENSING MEMBER CORP",
+      "DT APP WARRANT HOLDING LLC",
+      "DT APP WARRANT HOLDING MANAGING MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "DT CONNECT II LLC",
+      "DT CONNECT II MEMBER CORP",
+      "DJT HOLDINGS LLC",
+      "DT DUBAI GOLF MANAGER LLC",
+      "DT DUBAI GOLF MANAGER MEMBER CORP",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "DT DUBAI II GOLF MANAGER LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A5 of 47",
+      "HOUSE_OVERSIGHT_010672"
+    ],
+    "financial_amounts": [
+      "100.00%",
+      "99.00%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Public Financial Disclosure Report (OGE Form 278e) for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010672"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists several entities with asterisks and numbers in parentheses, such as '*(3)' and '*(1)', which likely refer to notes or explanations in other parts of the full document not visible here. Some entities are noted as 'DISSOLVED 11/9/16'. The term 'Trump Family Members' is used as an owner, which is a general description rather than specific names, in line with the form's instructions.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010672.jpg",
+  "house_oversight_id": "010672",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:35:09.636533Z",
+    "model": "gemini-2.5-pro"
+  }
+}

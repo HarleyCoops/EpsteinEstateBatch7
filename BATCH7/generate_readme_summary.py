@@ -22,37 +22,29 @@ from google import genai
 from google.genai import types
 
 
-PROMPT_SUMMARY = """You are analyzing House Oversight Committee document analysis JSON files that were just processed.
+PROMPT_SUMMARY = """Analyze the provided House Oversight Committee document JSON files and create a summary. Start immediately with the sections below - do NOT add any introduction or preamble text.
 
-Analyze the provided JSON files and create a comprehensive summary focusing on:
+**Latest Image Analysis:**
 
-1. **CHARACTERS**: Who are the key people mentioned? Pay special attention to:
-   - Donald Trump, Trump family members
-   - Jeffrey Epstein, Ghislaine Maxwell
-   - Bill Clinton, Hillary Clinton
-   - Any other notable political or public figures
-   - List names and their roles/context
+[If image files provided, summarize:]
+- Key characters identified: [List names, especially Trump, Epstein, Maxwell, Clinton, etc.]
+- Document types: [What types of images/documents]
+- Notable findings: [Specific details from images]
 
-2. **CONTEXT**: What is happening in these documents?
-   - What type of documents are these? (emails, letters, legal documents, photos, etc.)
-   - What events or situations are described?
-   - What relationships or connections are revealed?
-   - Any notable patterns or themes?
+**Latest Text Processing:**
 
-3. **SETTINGS**: Where and when?
-   - Dates mentioned (especially recent dates)
-   - Locations mentioned
-   - Organizations or institutions involved
-   - Timeline of events if apparent
+[If text files provided, summarize:]
+- Key characters identified: [List names, especially Trump, Epstein, Maxwell, Clinton, etc.]
+- Key themes: [Main topics/themes from documents]
+- Notable findings: [Specific details from text]
 
-4. **KEY FINDINGS**: What stands out?
-   - Any particularly significant or revealing information?
-   - Any connections between people or events?
-   - Any legal or financial implications?
+Focus on:
+- CHARACTERS: Who is mentioned? Pay special attention to Trump, Epstein, Maxwell, Clinton, and other notable figures. List names and context.
+- CONTEXT: What type of documents? What events/situations? What relationships revealed?
+- SETTINGS: Dates mentioned, locations, organizations, timeline
+- KEY FINDINGS: Significant information, connections, legal/financial implications
 
-Format your response as markdown with clear sections. Be specific and detailed. Focus on factual information extracted from the documents. If Trump or other key figures are mentioned, highlight this prominently.
-
-Keep the summary concise but informative - aim for 200-400 words."""
+Be specific and factual. If Trump or key figures are mentioned, highlight prominently. Keep it concise - 200-400 words total. Start directly with "**Latest Image Analysis:**" or "**Latest Text Processing:**" - no intro text."""
 
 
 def load_api_key(base_dir: Path) -> str:
@@ -185,6 +177,22 @@ Please analyze these files and provide the summary as requested above."""
         )
         
         summary = response.text.strip()
+        
+        # Remove markdown code blocks if present
+        if summary.startswith("```markdown"):
+            summary = summary.replace("```markdown", "").replace("```", "").strip()
+        elif summary.startswith("```"):
+            summary = summary.replace("```", "").strip()
+        
+        # Remove any intro text that starts with "This summary" or similar
+        lines = summary.split("\n")
+        if lines and ("This summary" in lines[0] or "Based on" in lines[0] or "The following" in lines[0]):
+            # Find where actual content starts (look for **Latest)
+            for i, line in enumerate(lines):
+                if "**Latest" in line or "###" in line or "##" in line:
+                    summary = "\n".join(lines[i:]).strip()
+                    break
+        
         print(f"Received AI summary ({len(summary)} chars)", file=sys.stderr)
         return summary
         
