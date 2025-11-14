@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010687.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page of a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, their ownership structures, and the filer's role within them. The filer is identified as Donald J. Trump. The page is numbered A20 of 47 and has a document identifier 'HOUSE_OVERSIGHT_010687' at the bottom right.",
+    "layout": "The document has a structured, tabular layout. Each entry is numbered and details an entity, its owners, and any interests it holds in other entities. Columns for names, roles, and ownership percentages are clearly defined.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA20 of 47\nReference #\n1\nTNGC CHARLOTTE MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n224 TNGC CHARLOTTE MANAGER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - CHARLOTTE\nOwnership\n1.00%\nTitle\nManaging Member\n225 TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nOwned by:\n% Ownership\n1\nName\nTNGC DUTCHESS COUNTY MEMBER\nCORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n226 TNGC DUTCHESS COUNTY MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nOwnership\n1.00%\nTitle\nManaging Member\n227 TNGC JUPITER MANAGEMENT LLC\nOwned by:\n% Ownership\n1\nName\nTNGC JUPITER MANAGING MEMBER\nCORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n228 TNGC JUPITER MANAGING MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTNGC JUPITER MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n229 TRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nOwned by:\n% Ownership\n1\nName\nTNGC PINE HILL MEMBER CORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n230 TNGC PINE HILL MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nOwnership\n1.00%\nTitle\nManaging Member\n231 Toronto Development LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n232 TP-CFD MANAGER CORP *(3)--DISSOLVED 10/18/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTP-CFD, LLC\nOwnership\n1.00%\nTitle\nManaging Member\n233 TP-CFD, LLC *(3)--DISSOLVED 10/18/16\nOwned by:\n% Ownership\n1\nName\nTP-CFD MANAGER CORP\nRole\nManaging Member\n99\nTrump, Donald J.\nMember\n234 TRUMP 106 CPS LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n235 Trump 845 LP LLC *(1)\nHOUSE_OVERSIGHT_010687",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA20 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n1\nTNGC CHARLOTTE MANAGER CORP\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n224 TNGC CHARLOTTE MANAGER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - CHARLOTTE\nOwnership\n1.00%\nTitle\nManaging Member\n225 TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nOwned by:\n% Ownership\n1\nName\nTNGC DUTCHESS COUNTY MEMBER\nCORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n226 TNGC DUTCHESS COUNTY MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - HUDSON VALLEY\nOwnership\n1.00%\nTitle\nManaging Member\n227 TNGC JUPITER MANAGEMENT LLC\nOwned by:\n% Ownership\n1\nName\nTNGC JUPITER MANAGING MEMBER\nCORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n228 TNGC JUPITER MANAGING MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTNGC JUPITER MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n229 TRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nOwned by:\n% Ownership\n1\nName\nTNGC PINE HILL MEMBER CORP\nRole\nManaging Member\n99\nDJT HOLDINGS LLC\nMember\n230 TNGC PINE HILL MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL GOLF CLUB - PHILADELPHIA\nOwnership\n1.00%\nTitle\nManaging Member\n231 Toronto Development LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n232 TP-CFD MANAGER CORP *(3)--DISSOLVED 10/18/16\nOwned by:\n% Ownership\n100\nName\nTrump, Donald J.\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTP-CFD, LLC\nOwnership\n1.00%\nTitle\nManaging Member\n233 TP-CFD, LLC *(3)--DISSOLVED 10/18/16\nOwned by:\n% Ownership\n1\nName\nTP-CFD MANAGER CORP\nRole\nManaging Member\n99\nTrump, Donald J.\nMember\n234 TRUMP 106 CPS LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n235 Trump 845 LP LLC *(1)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010687",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-10-18"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TNGC CHARLOTTE MANAGER CORP",
+      "DJT HOLDINGS LLC",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP NATIONAL GOLF CLUB - CHARLOTTE",
+      "TRUMP NATIONAL GOLF CLUB - HUDSON VALLEY",
+      "TNGC DUTCHESS COUNTY MEMBER CORP",
+      "TNGC JUPITER MANAGEMENT LLC",
+      "TNGC JUPITER MANAGING MEMBER CORP",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP NATIONAL GOLF CLUB - PHILADELPHIA",
+      "TNGC PINE HILL MEMBER CORP",
+      "Toronto Development LLC",
+      "DJT Holdings LLC",
+      "TP-CFD MANAGER CORP",
+      "TP-CFD, LLC",
+      "TRUMP 106 CPS LLC",
+      "Trump 845 LP LLC"
+    ],
+    "locations": [
+      "CHARLOTTE",
+      "HUDSON VALLEY",
+      "JUPITER",
+      "PHILADELPHIA",
+      "Toronto"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A20 of 47",
+      "HOUSE_OVERSIGHT_010687",
+      "224",
+      "225",
+      "226",
+      "227",
+      "228",
+      "229",
+      "230",
+      "231",
+      "232",
+      "233",
+      "234",
+      "235"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1.00%",
+      "1%",
+      "99%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010687"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The ownership percentages are listed as '1', '99', and '100', which are interpreted as percentages. The date '10/18/16' is associated with the dissolution of two entities. The document appears to be part of a collection from the House Oversight Committee, as indicated by the footer.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010687.jpg",
+  "house_oversight_id": "010687",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:42:49.572757Z",
+    "model": "gemini-2.5-pro"
+  }
+}

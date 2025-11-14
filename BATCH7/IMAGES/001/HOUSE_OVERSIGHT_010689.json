@@ -1,0 +1,110 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010689.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial disclosure form, specifically OGE Form 278e. The document lists various business entities, their ownership structure, and the roles of the owners. The filer's name is identified as Donald J. Trump. The page is numbered A22 of 47 and has a document identifier 'HOUSE_OVERSIGHT_010689' at the bottom right.",
+    "layout": "The document has a header section with form details and filer information. The main body is a list of entities, each identified by a reference number. For each entity, details about its owners, their percentage of ownership, and their role are provided in a structured format. A footer contains a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA22 of 47\nReference #\n100\nDJT Holdings LLC\nMember\n246 TRUMP CANADIAN SERVICES, INC. *(3)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n247 TRUMP CANOUAN ESTATE LLC *(5)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP CANOUAN ESTATE MEMBER\nCORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n248 TRUMP CANOUAN ESTATE MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CANOUAN ESTATE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n249 TRUMP CARIBBEAN LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n250 TRUMP CAROUSEL LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP CAROUSEL MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n251 TRUMP CAROUSEL MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CAROUSEL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n252 TRUMP CENTRAL PARK WEST CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOne Central Park West Associates\nOwnership\n50.00%\nTitle\nPartner\n253 Trump Chicago Commercial Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CHICAGO COMMERCIAL\nMANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n254 TRUMP CHICAGO COMMERCIAL MANAGER LLC\nOwned by:\n% Ownership\n1\n99\nName\nTrump Chicago Commercial Member\nCorp\nDJT Holdings LLC\nRole\nManaging Member\nMember\n255 TRUMP CHICAGO DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n256 TRUMP CHICAGO HOTEL MANAGER LLC\nOwned by:\n% Ownership\n1\n99\nName\nTrump Chicago Hotel Member Corp\nDJT Holdings LLC\nRole\nManaging Member\nMember\n257 Trump Chicago Hotel Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nHOUSE_OVERSIGHT_010689",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA22 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nDJT Holdings LLC\nMember\n246 TRUMP CANADIAN SERVICES, INC. *(3)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n247 TRUMP CANOUAN ESTATE LLC *(5)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP CANOUAN ESTATE MEMBER\nCORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n248 TRUMP CANOUAN ESTATE MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CANOUAN ESTATE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n249 TRUMP CARIBBEAN LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n250 TRUMP CAROUSEL LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP CAROUSEL MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n251 TRUMP CAROUSEL MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CAROUSEL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n252 TRUMP CENTRAL PARK WEST CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOne Central Park West Associates\nOwnership\n50.00%\nTitle\nPartner\n253 Trump Chicago Commercial Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP CHICAGO COMMERCIAL\nMANAGER LLC\nOwnership\n1.00%\nTitle\nManaging Member\n254 TRUMP CHICAGO COMMERCIAL MANAGER LLC\nOwned by:\n% Ownership\n1\n99\nName\nTrump Chicago Commercial Member\nCorp\nDJT Holdings LLC\nRole\nManaging Member\nMember\n255 TRUMP CHICAGO DEVELOPMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n256 TRUMP CHICAGO HOTEL MANAGER LLC\nOwned by:\n% Ownership\n1\n99\nName\nTrump Chicago Hotel Member Corp\nDJT Holdings LLC\nRole\nManaging Member\nMember\n257 Trump Chicago Hotel Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010689",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DJT Holdings LLC",
+      "TRUMP CANADIAN SERVICES, INC.",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP CANOUAN ESTATE LLC",
+      "TRUMP CANOUAN ESTATE MEMBER CORP",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP CARIBBEAN LLC",
+      "TRUMP CAROUSEL LLC",
+      "TRUMP CAROUSEL MEMBER CORP",
+      "TRUMP CENTRAL PARK WEST CORP",
+      "One Central Park West Associates",
+      "Trump Chicago Commercial Member Corp",
+      "TRUMP CHICAGO COMMERCIAL MANAGER LLC",
+      "TRUMP CHICAGO DEVELOPMENT LLC",
+      "TRUMP CHICAGO HOTEL MANAGER LLC",
+      "Trump Chicago Hotel Member Corp"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A22 of 47",
+      "HOUSE_OVERSIGHT_010689",
+      "246",
+      "247",
+      "248",
+      "249",
+      "250",
+      "251",
+      "252",
+      "253",
+      "254",
+      "255",
+      "256",
+      "257"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1%",
+      "99%",
+      "1.00%",
+      "50.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure Form Part 2 for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010689"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a financial disclosure form detailing various business entities and their ownership structures. The information for entity #257 is incomplete at the bottom of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010689.jpg",
+  "house_oversight_id": "010689",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:43:47.556050Z",
+    "model": "gemini-2.5-pro"
+  }
+}

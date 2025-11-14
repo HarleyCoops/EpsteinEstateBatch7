@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010691.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a high-quality scan of a financial disclosure form, specifically page A24 of 47 from an OGE Form 278e. The document lists various business entities, their ownership structure, and any interests they hold in other entities. The filer's name is identified as Donald J. Trump. The page is clean, well-organized, and fully legible.",
+    "layout": "The document has a structured, form-based layout. A header contains the form number, filer's name, and page number. The main body is divided into numbered sections (270 through 282), each detailing a specific business entity. A footer at the bottom contains a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\n\nPage Number\nA24 of 47\n\nReference #\n99.9\nThe Donald J. Trump Revocable Trust\nMember\n\n270 TRUMP DELMONICO LLC *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n\nHas ownership interest in:\nEntity Name\nTRUMP PARK AVENUE LLC\nOwnership\n50.00%\nTitle\nManaging Member\n\n271 TRUMP DEVELOPMENT SERVICES LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP DEVELOPMENT SERVICES\nMEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n272 TRUMP DEVELOPMENT SERVICES MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP DEVELOPMENT SERVICES\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n275 TRUMP DRINKS ISRAEL LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP DRINKS ISRAEL MEMBER\nCORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n276 TRUMP DRINKS ISRAEL MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP DRINKS ISRAEL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n277 TRUMP EDUCATION ULC *(3)\nOwned by:\n% Ownership\n100\nName\nTHE TRUMP ENTREPRENEUR\nINITIATIVE LLC (NY DOMESTIC)\nRole\nShareholder\n\n278 TRUMP EMPIRE STATE INC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n279 TRUMP NATIONAL DORAL\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP ENDEAVOR 12 MANAGER\nCORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n280 TRUMP ENDEAVOR 12 MANAGER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL DORAL\nOwnership\n1.00%\nTitle\nManaging Member\n\n281 TRUMP EU MARKS LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP EU MARKS MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n282 TRUMP EU MARKS MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n\nHOUSE_OVERSIGHT_010691",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\n\nPage Number\nA24 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n99.9\nThe Donald J. Trump Revocable Trust\nMember\n\n270 TRUMP DELMONICO LLC *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n\nHas ownership interest in:\nEntity Name\nTRUMP PARK AVENUE LLC\nOwnership\n50.00%\nTitle\nManaging Member\n\n271 TRUMP DEVELOPMENT SERVICES LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP DEVELOPMENT SERVICES\nMEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n272 TRUMP DEVELOPMENT SERVICES MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP DEVELOPMENT SERVICES\nLLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n275 TRUMP DRINKS ISRAEL LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP DRINKS ISRAEL MEMBER\nCORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n276 TRUMP DRINKS ISRAEL MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP DRINKS ISRAEL LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n277 TRUMP EDUCATION ULC *(3)\nOwned by:\n% Ownership\n100\nName\nTHE TRUMP ENTREPRENEUR\nINITIATIVE LLC (NY DOMESTIC)\nRole\nShareholder\n\n278 TRUMP EMPIRE STATE INC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n279 TRUMP NATIONAL DORAL\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP ENDEAVOR 12 MANAGER\nCORP\nDJT HOLDINGS LLC\nRole\nManaging Member\nMember\n\n280 TRUMP ENDEAVOR 12 MANAGER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nTRUMP NATIONAL DORAL\nOwnership\n1.00%\nTitle\nManaging Member\n\n281 TRUMP EU MARKS LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP EU MARKS MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n282 TRUMP EU MARKS MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing\nMember Corp\nRole\nShareholder\n\nHas ownership interest in:\nEntity Name\nOwnership\nTitle",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010691",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP DELMONICO LLC",
+      "TRUMP PARK AVENUE LLC",
+      "TRUMP DEVELOPMENT SERVICES LLC",
+      "TRUMP DEVELOPMENT SERVICES MEMBER CORP",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP DRINKS ISRAEL LLC",
+      "TRUMP DRINKS ISRAEL MEMBER CORP",
+      "TRUMP EDUCATION ULC",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)",
+      "TRUMP EMPIRE STATE INC",
+      "TRUMP NATIONAL DORAL",
+      "TRUMP ENDEAVOR 12 MANAGER CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "TRUMP EU MARKS LLC",
+      "TRUMP EU MARKS MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A24 of 47",
+      "HOUSE_OVERSIGHT_010691",
+      "99.9",
+      "270",
+      "271",
+      "272",
+      "275",
+      "276",
+      "277",
+      "278",
+      "279",
+      "280",
+      "281",
+      "282"
+    ],
+    "financial_amounts": [
+      "100%",
+      "50.00%",
+      "1%",
+      "99%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010691"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The entries detail a complex ownership structure involving multiple LLCs and corporations, with DJT Holdings LLC and its variants appearing frequently as owners or members.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010691.jpg",
+  "house_oversight_id": "010691",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:44:54.864866Z",
+    "model": "gemini-2.5-pro"
+  }
+}

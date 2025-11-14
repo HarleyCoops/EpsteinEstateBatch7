@@ -1,0 +1,117 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010690.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a single page from a financial disclosure form, identified as OGE Form 278e. The document lists various business entities, their ownership structure, and the filer's interest in them. The filer's name is Donald J. Trump. The page is numbered A23 of 47 and has a document control number 'HOUSE_OVERSIGHT_010690' at the bottom.",
+    "layout": "The document has a header section with form information, filer's name, and page number. The main body consists of a series of numbered entries (258 through 269), each detailing a business entity. Each entry is structured to show who owns the entity ('Owned by:') and what other entities it has an ownership interest in ('Has ownership interest in:'). The layout uses columns for names, ownership percentages, and roles.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA23 of 47\n\nReference #\nTRUMP CHICAGO HOTEL\n1.00%\nManaging Member\nMANAGER LLC\n\n258 TRUMP CHICAGO MANAGING MEMBER LLC *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS LLC\nMember\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n1.00%\nMember\n\n259 TRUMP CHICAGO MEMBER LLC *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS LLC\nMember\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n49.00%\nMember\n\n260 TRUMP CHICAGO RESIDENTIAL MANAGER LLC\n\nOwned by :\n% Ownership\nName\nRole\n1\nTrump Chicago Residential Member\nManaging Member\n99\nCorp\nDJT Holdings LLC\nMember\n\n261 Trump Chicago Residential Member Corp *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CHICAGO RESIDENTIAL\n1.00%\nManaging Member\nMANAGER LLC\n\n262 TRUMP CHICAGO RETAIL LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of retail space)\n\nOwned by :\n% Ownership\nName\nRole\n100\n401 MEZZ VENTURE LLC\nMember\n\n263 TRUMP CHICAGO RETAIL MANAGER LLC *(3)\n\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP CHICAGO RETAIL MEMBER\nManaging Member\n99\nCORP\nDJT Holdings LLC\nMember\n\n264 TRUMP CHICAGO RETAIL MEMBER CORP *(3)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CHICAGO RETAIL\n1.00%\nManaging Member\nMANAGER LLC\n\n265 TRUMP CLASSIC CARS LLC *(4)--DISSOLVED 10/17/16\n\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP CLASSIC CARS MEMBER\nMember\n99\nCORP\nTrump, Donald J.\nMember\n\n266 TRUMP CLASSIC CARS MEMBER CORP *(4)--DISSOLVED 10/17/16\n\nOwned by :\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CLASSIC CARS LLC\n1.00%\nMember\n\n267 TRUMP COMMERCIAL CHICAGO LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of commercial space)\n\nOwned by :\n% Ownership\nName\nRole\n100\n401 North Wabash Venture LLC\nMember\n\n268 TRUMP CPS CORP *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CPS LLC\n0.10%\nManaging Member\n\n269 TRUMP CPS LLC\n\nOwned by :\n% Ownership\nName\nRole\n0.1\nTRUMP CPS CORP\nManaging Member\n\nHOUSE_OVERSIGHT_010690",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA23 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nTRUMP CHICAGO HOTEL\n1.00%\nManaging Member\nMANAGER LLC\n\n258 TRUMP CHICAGO MANAGING MEMBER LLC *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS LLC\nMember\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n1.00%\nMember\n\n259 TRUMP CHICAGO MEMBER LLC *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT HOLDINGS LLC\nMember\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n49.00%\nMember\n\n260 TRUMP CHICAGO RESIDENTIAL MANAGER LLC\n\nOwned by :\n% Ownership\nName\nRole\n1\nTrump Chicago Residential Member\nManaging Member\n99\nCorp\nDJT Holdings LLC\nMember\n\n261 Trump Chicago Residential Member Corp *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CHICAGO RESIDENTIAL\n1.00%\nManaging Member\nMANAGER LLC\n\n262 TRUMP CHICAGO RETAIL LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of retail space)\n\nOwned by :\n% Ownership\nName\nRole\n100\n401 MEZZ VENTURE LLC\nMember\n\n263 TRUMP CHICAGO RETAIL MANAGER LLC *(3)\n\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP CHICAGO RETAIL MEMBER\nManaging Member\n99\nCORP\nDJT Holdings LLC\nMember\n\n264 TRUMP CHICAGO RETAIL MEMBER CORP *(3)\n\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CHICAGO RETAIL\n1.00%\nManaging Member\nMANAGER LLC\n\n265 TRUMP CLASSIC CARS LLC *(4)--DISSOLVED 10/17/16\n\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP CLASSIC CARS MEMBER\nMember\n99\nCORP\nTrump, Donald J.\nMember\n\n266 TRUMP CLASSIC CARS MEMBER CORP *(4)--DISSOLVED 10/17/16\n\nOwned by :\n% Ownership\nName\nRole\n100\nTrump, Donald J.\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CLASSIC CARS LLC\n1.00%\nMember\n\n267 TRUMP COMMERCIAL CHICAGO LLC *(assets & income already disclosed on Part 2 under 401 North Wabash Venture LLC; operator of commercial space)\n\nOwned by :\n% Ownership\nName\nRole\n100\n401 North Wabash Venture LLC\nMember\n\n268 TRUMP CPS CORP *(1)\n\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\n\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP CPS LLC\n0.10%\nManaging Member\n\n269 TRUMP CPS LLC\n\nOwned by :\n% Ownership\nName\nRole\n0.1\nTRUMP CPS CORP\nManaging Member",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010690",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2016-10-17"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP CHICAGO HOTEL MANAGER LLC",
+      "TRUMP CHICAGO MANAGING MEMBER LLC",
+      "DJT HOLDINGS LLC",
+      "401 MEZZ VENTURE LLC",
+      "TRUMP CHICAGO MEMBER LLC",
+      "TRUMP CHICAGO RESIDENTIAL MANAGER LLC",
+      "Trump Chicago Residential Member Corp",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP CHICAGO RESIDENTIAL MANAGER LLC",
+      "TRUMP CHICAGO RETAIL LLC",
+      "401 North Wabash Venture LLC",
+      "TRUMP CHICAGO RETAIL MANAGER LLC",
+      "TRUMP CHICAGO RETAIL MEMBER CORP",
+      "TRUMP CLASSIC CARS LLC",
+      "TRUMP CLASSIC CARS MEMBER CORP",
+      "TRUMP COMMERCIAL CHICAGO LLC",
+      "TRUMP CPS CORP",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP CPS LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A23 of 47",
+      "HOUSE_OVERSIGHT_010690",
+      "258",
+      "259",
+      "260",
+      "261",
+      "262",
+      "263",
+      "264",
+      "265",
+      "266",
+      "267",
+      "268",
+      "269"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "100",
+      "49.00%",
+      "1",
+      "99",
+      "0.10%",
+      "0.1"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "401 North Wabash Venture LLC"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document details a complex ownership structure involving numerous LLCs and corporations related to Donald J. Trump. Some entities are noted as being dissolved. The ownership percentages are listed, but the value '0.1' for TRUMP CPS LLC is ambiguous as to whether it represents a percentage or another unit.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010690.jpg",
+  "house_oversight_id": "010690",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:44:19.639196Z",
+    "model": "gemini-2.5-pro"
+  }
+}

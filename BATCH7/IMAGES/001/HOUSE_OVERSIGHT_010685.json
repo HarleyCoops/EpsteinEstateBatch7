@@ -1,0 +1,133 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010685.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically an OGE Form 278e, detailing ownership interests for Donald J. Trump. The page is numbered A18 of 47 and lists various corporate entities, their owners, ownership percentages, and roles. The document is typed and has a clean, structured layout.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a list of entities, identified by reference numbers, with details of ownership presented in a tabular or list format. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA18 of 47\n\nReference #\nHas ownership interest in:\nEntity Name\nTRUMP EDUCATION ULC\nOwnership\n100.00%\nTitle\nShareholder\n\n202 THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC) *(1)\nOwned by:\n% Ownership\n0.1\nName\nDJT ENTREPRENEUR MANAGING MEMBER LLC (FORMALLY KNOWN AS DJT UNIVERSITY MANAGING MEMBER LLC)\nRole\nManaging Member\n3.5\nSpitalny, Jonathan\nMember\n4.5\nSexton, Michael\nMember\n91.9\nDJT ENTREPRENEUR MEMBER LLC (FORMALLY KNOWN AS DJT UNIVERSITY MEMBER LLC)\nMember\nHas ownership interest in:\nEntity Name\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC\nOwnership\n100.00%\nTitle\nManaging Member\n\n203 THE TRUMP FOLLIES LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHE TRUMP FOLLIES MEMBER INC.\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n204 THE TRUMP FOLLIES MEMBER INC. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHE TRUMP FOLLIES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n205 The Trump Hotel Corp. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n206 THE TRUMP MARKS REAL ESTATE CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS REAL ESTATE LLC\nOwnership\n1.00%\nTitle\nMember\n\n207 The Trump Organization, Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n208 The Trump-Equitable Fifth Avenue Company\nOwned by:\n% Ownership\n99\nName\nThe Donald J. Trump Revocable Trust\nRole\nPartner\n1\nTIPPERARY REALTY CORPORATION\nPartner\nHas ownership interest in:\nEntity Name\nFifty-Seventh Street Associates LLC\nOwnership\n99.00%\nTitle\nMember\nTRUMP TOWER COMMERCIAL LLC\n99.00%\nMember\n\n209 TIGL COMMON AREA MANAGEMENT CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n211 TRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nOwned by:\n% Ownership\n100\nName\nTW VENTURE II LLC\nRole\nSole Member\n\n212 TIGL IRELAND MANAGEMENT LIMITED *(assets & income already disclosed on Part 2 under TRUMP INTERNATIONAL GOLF LINKS - DOONBEG; operator of suites)\n\nHOUSE_OVERSIGHT_010685",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA18 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nHas ownership interest in:\nEntity Name\nTRUMP EDUCATION ULC\nOwnership\n100.00%\nTitle\nShareholder\n\n202 THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC) *(1)\nOwned by:\n% Ownership\n0.1\nName\nDJT ENTREPRENEUR MANAGING MEMBER LLC (FORMALLY KNOWN AS DJT UNIVERSITY MANAGING MEMBER LLC)\nRole\nManaging Member\n3.5\nSpitalny, Jonathan\nMember\n4.5\nSexton, Michael\nMember\n91.9\nDJT ENTREPRENEUR MEMBER LLC (FORMALLY KNOWN AS DJT UNIVERSITY MEMBER LLC)\nMember\nHas ownership interest in:\nEntity Name\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC\nOwnership\n100.00%\nTitle\nManaging Member\n\n203 THE TRUMP FOLLIES LLC *(3)\nOwned by:\n% Ownership\n1\nName\nTHE TRUMP FOLLIES MEMBER INC.\nRole\nManaging Member\n99\nDJT Holdings LLC\nMember\n\n204 THE TRUMP FOLLIES MEMBER INC. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHE TRUMP FOLLIES LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n205 The Trump Hotel Corp. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n206 THE TRUMP MARKS REAL ESTATE CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP MARKS REAL ESTATE LLC\nOwnership\n1.00%\nTitle\nMember\n\n207 The Trump Organization, Inc. *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n208 The Trump-Equitable Fifth Avenue Company\nOwned by:\n% Ownership\n99\nName\nThe Donald J. Trump Revocable Trust\nRole\nPartner\n1\nTIPPERARY REALTY CORPORATION\nPartner\nHas ownership interest in:\nEntity Name\nFifty-Seventh Street Associates LLC\nOwnership\n99.00%\nTitle\nMember\nTRUMP TOWER COMMERCIAL LLC\n99.00%\nMember\n\n209 TIGL COMMON AREA MANAGEMENT CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\n\n211 TRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nOwned by:\n% Ownership\n100\nName\nTW VENTURE II LLC\nRole\nSole Member\n\n212 TIGL IRELAND MANAGEMENT LIMITED *(assets & income already disclosed on Part 2 under TRUMP INTERNATIONAL GOLF LINKS - DOONBEG; operator of suites)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010685",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump",
+      "Spitalny, Jonathan",
+      "Sexton, Michael"
+    ],
+    "organizations": [
+      "TRUMP EDUCATION ULC",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC",
+      "DJT ENTREPRENEUR MANAGING MEMBER LLC",
+      "DJT UNIVERSITY MANAGING MEMBER LLC",
+      "DJT ENTREPRENEUR MEMBER LLC",
+      "DJT UNIVERSITY MEMBER LLC",
+      "THE TRUMP FOLLIES LLC",
+      "THE TRUMP FOLLIES MEMBER INC.",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "The Trump Hotel Corp.",
+      "THE TRUMP MARKS REAL ESTATE CORP",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP MARKS REAL ESTATE LLC",
+      "The Trump Organization, Inc.",
+      "The Trump-Equitable Fifth Avenue Company",
+      "The Donald J. Trump Revocable Trust",
+      "TIPPERARY REALTY CORPORATION",
+      "Fifty-Seventh Street Associates LLC",
+      "TRUMP TOWER COMMERCIAL LLC",
+      "TIGL COMMON AREA MANAGEMENT CORP",
+      "TRUMP INTERNATIONAL GOLF LINKS - DOONBEG",
+      "TW VENTURE II LLC",
+      "TIGL IRELAND MANAGEMENT LIMITED"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A18 of 47",
+      "HOUSE_OVERSIGHT_010685",
+      "202",
+      "203",
+      "204",
+      "205",
+      "206",
+      "207",
+      "208",
+      "209",
+      "211",
+      "212"
+    ],
+    "financial_amounts": [
+      "100.00%",
+      "0.1",
+      "3.5",
+      "4.5",
+      "91.9",
+      "100.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "100",
+      "100",
+      "1.00%",
+      "100",
+      "99",
+      "1",
+      "99.00%",
+      "99.00%",
+      "100",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure of Ownership Interests for Donald J. Trump",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010685"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists ownership structures for multiple entities. The reference numbers (202, 203, etc.) appear to be internal identifiers for the disclosure form. Some entity names include parenthetical notes, such as '(NY DOMESTIC)' or '(FORMALLY KNOWN AS...)', which have been extracted as part of the name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010685.jpg",
+  "house_oversight_id": "010685",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:41:46.250685Z",
+    "model": "gemini-2.5-pro"
+  }
+}

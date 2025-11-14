@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010688.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, for Donald J. Trump. The page, A21 of 47, details ownership structures for various business entities, listing the entity name, who owns it, the percentage of ownership, and their role. The document is a black and white scan with some highlighted fields.",
+    "layout": "The document has a header with form details and filer's name. The main body is structured into sections, each identified by a reference number and an entity name. Each section contains fields for 'Owned by' and 'Has ownership interest in', with columns for percentage, name, entity name, ownership, title, and role. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA21 of 47\nReference #\nOwned by :\n% Ownership\nName\nRole\nThe Donald J. Trump Revocable Trust\nManaging Member\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n845 UN Limited Partnership\n60.00%\nPartner\n236 TRUMP 845 UN GP LLC *(1)\nOwned by :\n% Ownership\nName\nRole\n0.1\nTRUMP 845 UN MGR CORP\nManaging Member\n99.9\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n845 UN Limited Partnership\n40.00%\nPartner\n237 TRUMP 845 UN MGR CORP\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP 845 UN GP LLC\n0.10%\nManaging Member\n238 TRUMP 845 UN MGR LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nManaging Member\n239 TRUMP AC CASINO MARKS LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP AC CASINO MARKS MEMBER\nManaging Member\n99\nCORP\nDTTM OPERATIONS LLC\nMember\n240 TRUMP AC CASINO MARKS MEMBER CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nMember Corp\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP AC CASINO MARKS LLC\n1.00%\nManaging Member\n241 TRUMP ACQUISITION CORP. *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP ACQUISITION, LLC\n1.00%\nManaging Member\n242 TRUMP ACQUISITION, LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP ACQUISITION CORP.\nManaging Member\n99\nDJT Holdings LLC\nMember\n243 TRUMP BOOKS LLC\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP BOOKS MANAGER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n244 TRUMP BOOKS MANAGER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP BOOKS LLC\n1.00%\nManaging Member\n245 TRUMP BRAZIL LLC *(3)\nOwned by :\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010688",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA21 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by :\n% Ownership\nName\nRole\nThe Donald J. Trump Revocable Trust\nManaging Member\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n845 UN Limited Partnership\n60.00%\nPartner\n236 TRUMP 845 UN GP LLC *(1)\nOwned by :\n% Ownership\nName\nRole\n0.1\nTRUMP 845 UN MGR CORP\nManaging Member\n99.9\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\n845 UN Limited Partnership\n40.00%\nPartner\n237 TRUMP 845 UN MGR CORP\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP 845 UN GP LLC\n0.10%\nManaging Member\n238 TRUMP 845 UN MGR LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nManaging Member\n239 TRUMP AC CASINO MARKS LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP AC CASINO MARKS MEMBER\nManaging Member\n99\nCORP\nDTTM OPERATIONS LLC\nMember\n240 TRUMP AC CASINO MARKS MEMBER CORP *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDTTM Operations Managing\nShareholder\nMember Corp\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP AC CASINO MARKS LLC\n1.00%\nManaging Member\n241 TRUMP ACQUISITION CORP. *(3)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP ACQUISITION, LLC\n1.00%\nManaging Member\n242 TRUMP ACQUISITION, LLC *(3)\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP ACQUISITION CORP.\nManaging Member\n99\nDJT Holdings LLC\nMember\n243 TRUMP BOOKS LLC\nOwned by :\n% Ownership\nName\nRole\n1\nTRUMP BOOKS MANAGER CORP\nManaging Member\n99\nDJT Holdings LLC\nMember\n244 TRUMP BOOKS MANAGER CORP *(1)\nOwned by :\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in :\nEntity Name\nOwnership\nTitle\nTRUMP BOOKS LLC\n1.00%\nManaging Member\n245 TRUMP BRAZIL LLC *(3)\nOwned by :\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010688",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "The Donald J. Trump Revocable Trust",
+      "845 UN Limited Partnership",
+      "TRUMP 845 UN GP LLC",
+      "TRUMP 845 UN MGR CORP",
+      "TRUMP 845 UN MGR LLC",
+      "TRUMP AC CASINO MARKS LLC",
+      "TRUMP AC CASINO MARKS MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP ACQUISITION CORP.",
+      "DJT Holdings LLC",
+      "TRUMP ACQUISITION, LLC",
+      "TRUMP BOOKS LLC",
+      "TRUMP BOOKS MANAGER CORP",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP BRAZIL LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A21 of 47",
+      "HOUSE_OVERSIGHT_010688",
+      "236",
+      "237",
+      "238",
+      "239",
+      "240",
+      "241",
+      "242",
+      "243",
+      "244",
+      "245"
+    ],
+    "financial_amounts": [
+      "60.00%",
+      "0.1",
+      "99.9",
+      "40.00%",
+      "100",
+      "0.10%",
+      "1",
+      "99",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump - Ownership of Business Entities",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010688"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger financial disclosure report. The entries detail complex ownership structures between various LLCs, corporations, and a revocable trust. The asterisks with numbers, like '*(1)' and '*(3)', likely refer to notes or appendices not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010688.jpg",
+  "house_oversight_id": "010688",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:43:16.958816Z",
+    "model": "gemini-2.5-pro"
+  }
+}

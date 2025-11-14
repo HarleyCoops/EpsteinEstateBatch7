@@ -1,0 +1,131 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010684.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure document, specifically an OGE Form 278e, detailing various business entities, their ownership structure, and the roles of individuals or other entities within them. The document is for Donald J. Trump and is page A17 of 47.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a list of entities, identified by a reference number. Each entry details ownership percentages, the names of the owners, their roles, and any ownership interests the entity has in other entities.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA17 of 47\nReference #\n100\nTHC VANCOUVER MANAGEMENT CORP\nMember\n192 THC VENTURE I LLC *(3)\nOwned by:\n% Ownership\n99\n1\nName\nDJT HOLDINGS LLC\nTHC VENTURE I MANAGING MEMBER CORP\nRole\nMember\nMember\n193 THC VENTURE I MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC VENTURE I LLC\nOwnership\n1.00%\nTitle\nManaging Member\n194 THC VENTURE II LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTHC VENTURE II MANAGING MEMBER CORP.\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n195 THC VENTURE II MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n196 THC VENTURE III LLC - N/K/A TTTT Venture LLC *(1)\nOwned by:\n% Ownership\n1\n76.272\n22.728\nName\nTTTT Venture Member Corp\nDTTM OPERATIONS LLC\nTrump Family Members\nRole\nManaging Member\nMember\nMember\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n197 THC VENTURE III MEMBER CORP - N/K/A TTTT Venture Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTTTT VENTURE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n198 THE CARIBUSINESS RE CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nCARIBUSINESS MRE LLC\nOwnership\n1.00%\nTitle\nManaging Member\nCaribusiness Investments, S.R.L.\n1.00%\nMember\n199 The East 61 Street Company, LP\nOwned by:\n% Ownership\n99.9\n0.1\nName\nThe Donald J. Trump Revocable Trust\nPlaza Consulting Corp.\nRole\nPartner\nPartner\n200 THE TRUMP CORPORATION\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n201 THE TRUMP ENTREPRENEUR INITIATIVE LLC\nOwned by:\n% Ownership\n100\nName\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\nRole\nManaging Member\nHOUSE_OVERSIGHT_010684",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPage Number\nA17 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nTHC VANCOUVER MANAGEMENT CORP\nMember\n192 THC VENTURE I LLC *(3)\nOwned by:\n% Ownership\n99\n1\nName\nDJT HOLDINGS LLC\nTHC VENTURE I MANAGING MEMBER CORP\nRole\nMember\nMember\n193 THC VENTURE I MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC VENTURE I LLC\nOwnership\n1.00%\nTitle\nManaging Member\n194 THC VENTURE II LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTHC VENTURE II MANAGING MEMBER CORP.\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n195 THC VENTURE II MANAGING MEMBER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTHC VENTURE II LLC\nOwnership\n1.00%\nTitle\nManaging Member\n196 THC VENTURE III LLC - N/K/A TTTT Venture LLC *(1)\nOwned by:\n% Ownership\n1\n76.272\n22.728\nName\nTTTT Venture Member Corp\nDTTM OPERATIONS LLC\nTrump Family Members\nRole\nManaging Member\nMember\nMember\nHas ownership interest in:\nvarious entities as indicated elsewhere in this schedule\n197 THC VENTURE III MEMBER CORP - N/K/A TTTT Venture Member Corp *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTTTT VENTURE LLC\nOwnership\n1.00%\nTitle\nManaging Member\n198 THE CARIBUSINESS RE CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nCARIBUSINESS MRE LLC\nOwnership\n1.00%\nTitle\nManaging Member\nCaribusiness Investments, S.R.L.\n1.00%\nMember\n199 The East 61 Street Company, LP\nOwned by:\n% Ownership\n99.9\n0.1\nName\nThe Donald J. Trump Revocable Trust\nPlaza Consulting Corp.\nRole\nPartner\nPartner\n200 THE TRUMP CORPORATION\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\n201 THE TRUMP ENTREPRENEUR INITIATIVE LLC\nOwned by:\n% Ownership\n100\nName\nTHE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)\nRole\nManaging Member",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010684",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "THC VANCOUVER MANAGEMENT CORP",
+      "THC VENTURE I LLC",
+      "DJT HOLDINGS LLC",
+      "THC VENTURE I MANAGING MEMBER CORP",
+      "DTTM Operations Managing Member Corp",
+      "THC VENTURE II LLC",
+      "THC VENTURE II MANAGING MEMBER CORP.",
+      "DTTM OPERATIONS LLC",
+      "THC VENTURE III LLC",
+      "TTTT Venture LLC",
+      "TTTT Venture Member Corp",
+      "Trump Family Members",
+      "THC VENTURE III MEMBER CORP",
+      "The Donald J. Trump Revocable Trust",
+      "THE CARIBUSINESS RE CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC",
+      "CARIBUSINESS MRE LLC",
+      "Caribusiness Investments, S.R.L.",
+      "The East 61 Street Company, LP",
+      "Plaza Consulting Corp.",
+      "THE TRUMP CORPORATION",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC",
+      "THE TRUMP ENTREPRENEUR INITIATIVE LLC (NY DOMESTIC)"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A17 of 47",
+      "100",
+      "192",
+      "193",
+      "194",
+      "195",
+      "196",
+      "197",
+      "198",
+      "199",
+      "200",
+      "201",
+      "HOUSE_OVERSIGHT_010684"
+    ],
+    "financial_amounts": [
+      "99",
+      "1",
+      "100",
+      "1.00%",
+      "1",
+      "99",
+      "100",
+      "1.00%",
+      "1",
+      "76.272",
+      "22.728",
+      "100",
+      "1.00%",
+      "100",
+      "1.00%",
+      "1.00%",
+      "99.9",
+      "0.1",
+      "100",
+      "100"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump (Part 2)",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010684"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.985
+  },
+  "notes": "The document lists various business entities and their ownership structures. The term 'Trump Family Members' is listed as an owner but is not specific. The asterisks with numbers like *(3) and *(1) likely refer to notes or explanations not visible on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010684.jpg",
+  "house_oversight_id": "010684",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:41:14.273827Z",
+    "model": "gemini-2.5-pro"
+  }
+}

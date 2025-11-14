@@ -1,0 +1,127 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010686.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically an OGE Form 278e, detailing the ownership structure of various business entities. The filer is identified as Donald J. Trump. The page is numbered A 19 of 47 and lists entities with reference numbers from 213 to 223.",
+    "layout": "The document has a header section with form details and filer information. The main body is a series of entries, each for a specific business entity, detailing its owners and any ownership interests it holds in other entities. A footer contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nPage Number\nDonald J. Trump\nA 19 of 47\nReference #\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nSole Member\n213 TIHC RESERVATIONS LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n214 TIHH MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\n1.00%\nManaging Member\n215 TIHH MEMBER LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nManaging Member\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\n99.00%\nMember\n216 TIHM MEMBER CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTELS MANAGEMENT LLC\n0.10%\nManaging Member\n217 TIHT CHICAGO MEMBER ACQUISITION LLC *(1)\nOwned by:\n% Ownership\nName\nRole\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n50.00%\nMember\n218 TIHT COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n0.01\nTIHT MEMBER LLC\nMember\n99.99\nThe Donald J. Trump Revocable Trust\nManaging Member\n219 TIHT HOLDING COMPANY LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n220 TIHT MEMBER LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTIHT COMMERCIAL LLC\n0.01%\nMember\n221 TIPPERARY REALTY CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHAS ownership interest in:\nEntity Name\nOwnership\nTitle\nThe Trump-Equitable Fifth Avenue Company\n1.00%\nPartner\n222 TMG Member, LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTrump Model Management LLC\n85.00%\nMember\n223 TRUMP NATIONAL GOLF CLUB - CHARLOTTE\nOwned by:\n% Ownership\nName\nRole\nHOUSE_OVERSIGHT_010686",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nPage Number\nDonald J. Trump\nA 19 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nOwned by:\n% Ownership\nName\nRole\n100\nTRUMP INTERNATIONAL GOLF LINKS - DOONBEG\nSole Member\n213 TIHC RESERVATIONS LLC *(3)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n214 TIHH MEMBER CORP *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\n1.00%\nManaging Member\n215 TIHH MEMBER LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nManaging Member\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTEL HAWAII LLC\n99.00%\nMember\n216 TIHM MEMBER CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings Managing Member LLC\nShareholder\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTRUMP INTERNATIONAL HOTELS MANAGEMENT LLC\n0.10%\nManaging Member\n217 TIHT CHICAGO MEMBER ACQUISITION LLC *(1)\nOwned by:\n% Ownership\nName\nRole\nDJT HOLDINGS LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\n401 MEZZ VENTURE LLC\n50.00%\nMember\n218 TIHT COMMERCIAL LLC\nOwned by:\n% Ownership\nName\nRole\n0.01\nTIHT MEMBER LLC\nMember\n99.99\nThe Donald J. Trump Revocable Trust\nManaging Member\n219 TIHT HOLDING COMPANY LLC\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\n220 TIHT MEMBER LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTIHT COMMERCIAL LLC\n0.01%\nMember\n221 TIPPERARY REALTY CORP. *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nThe Donald J. Trump Revocable Trust\nShareholder\nHAS ownership interest in:\nEntity Name\nOwnership\nTitle\nThe Trump-Equitable Fifth Avenue Company\n1.00%\nPartner\n222 TMG Member, LLC *(1)\nOwned by:\n% Ownership\nName\nRole\n100\nDJT Holdings LLC\nMember\nHas ownership interest in:\nEntity Name\nOwnership\nTitle\nTrump Model Management LLC\n85.00%\nMember\n223 TRUMP NATIONAL GOLF CLUB - CHARLOTTE\nOwned by:\n% Ownership\nName\nRole",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010686",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP INTERNATIONAL GOLF LINKS - DOONBEG",
+      "TIHC RESERVATIONS LLC",
+      "DJT Holdings LLC",
+      "TIHH MEMBER CORP",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP INTERNATIONAL HOTEL HAWAII LLC",
+      "TIHH MEMBER LLC",
+      "TIHM MEMBER CORP.",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP INTERNATIONAL HOTELS MANAGEMENT LLC",
+      "TIHT CHICAGO MEMBER ACQUISITION LLC",
+      "DJT HOLDINGS LLC",
+      "401 MEZZ VENTURE LLC",
+      "TIHT COMMERCIAL LLC",
+      "TIHT MEMBER LLC",
+      "TIHT HOLDING COMPANY LLC",
+      "TIPPERARY REALTY CORP.",
+      "The Trump-Equitable Fifth Avenue Company",
+      "TMG Member, LLC",
+      "Trump Model Management LLC",
+      "TRUMP NATIONAL GOLF CLUB - CHARLOTTE"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A 19 of 47",
+      "HOUSE_OVERSIGHT_010686",
+      "213",
+      "214",
+      "215",
+      "216",
+      "217",
+      "218",
+      "219",
+      "220",
+      "221",
+      "222",
+      "223"
+    ],
+    "financial_amounts": [
+      "100",
+      "100",
+      "100",
+      "1.00%",
+      "100",
+      "99.00%",
+      "100",
+      "0.10%",
+      "50.00%",
+      "0.01",
+      "99.99",
+      "100",
+      "100",
+      "0.01%",
+      "100",
+      "1.00%",
+      "100",
+      "85.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Ownership of Business Entities",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010686"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a larger financial disclosure report. The ownership percentages for entry 217 (TIHT CHICAGO MEMBER ACQUISITION LLC) are not explicitly stated for the 'Owned by' section, but it does list an ownership interest it holds. The ownership percentages for entry 218 (TIHT COMMERCIAL LLC) add up to 100 (0.01 + 99.99).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010686.jpg",
+  "house_oversight_id": "010686",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:42:18.163470Z",
+    "model": "gemini-2.5-pro"
+  }
+}

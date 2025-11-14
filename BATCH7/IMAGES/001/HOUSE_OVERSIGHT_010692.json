@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010692.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is a page from a financial disclosure form, specifically OGE Form 278e. It details the ownership structure of various business entities associated with Donald J. Trump. The page lists entities by reference number, showing their owners, ownership percentages, roles, and any interests they hold in other entities. The document is clearly typed and formatted for readability.",
+    "layout": "The document has a standard portrait layout. A header section contains the form number, instructions, filer's name, and page number. The main body consists of a list of numbered entities, with sub-sections for ownership details. A footer at the bottom right contains a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA25 of 47\n\nReference #\nTRUMP EU MARKS LLC\n1.00%\nManaging Member\n\n283 TRUMP FERRY POINT LLC\nAssumed Names:\nD/B/A\nTrump Golf Links Ferry Point\nTrump Golf Links Ferry Point\nJurisdiction\nDelaware\nNew York\nNew York\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP FERRY POINT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n284 TRUMP FERRY POINT MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP FERRY POINT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n285 TRUMP FLORIDA MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP FLORIDA MANAGER CORP\nDJT Holdings LLC\nRole\nMember\nMember\n\n286 TRUMP FLORIDA MANAGER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP FLORIDA MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nMember\n\n287 TRUMP GOLF ACQUISITIONS LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n288 TRUMP GOLF COCO BEACH LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP GOLF COCO BEACH MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n289 TRUMP GOLF COCO BEACH MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP GOLF COCO BEACH LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n290 TRUMP GOLF MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n291 TRUMP HOME MARKS LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP HOME MARKS MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n292 TRUMP HOME MARKS MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP HOME MARKS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n293 TRUMP ICE INC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder\n\nHOUSE_OVERSIGHT_010692",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\n\nInstructions for Part 2\n\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\n\nFiler's Name\nDonald J. Trump\nPage Number\nA25 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\nTRUMP EU MARKS LLC\n1.00%\nManaging Member\n\n283 TRUMP FERRY POINT LLC\nAssumed Names:\nD/B/A\nTrump Golf Links Ferry Point\nTrump Golf Links Ferry Point\nJurisdiction\nDelaware\nNew York\nNew York\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP FERRY POINT MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n284 TRUMP FERRY POINT MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP FERRY POINT LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n285 TRUMP FLORIDA MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP FLORIDA MANAGER CORP\nDJT Holdings LLC\nRole\nMember\nMember\n\n286 TRUMP FLORIDA MANAGER CORP *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP FLORIDA MANAGEMENT LLC\nOwnership\n1.00%\nTitle\nMember\n\n287 TRUMP GOLF ACQUISITIONS LLC\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n288 TRUMP GOLF COCO BEACH LLC *(4)\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP GOLF COCO BEACH MEMBER CORP\nDJT Holdings LLC\nRole\nManaging Member\nMember\n\n289 TRUMP GOLF COCO BEACH MEMBER CORP *(4)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings Managing Member LLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP GOLF COCO BEACH LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n290 TRUMP GOLF MANAGEMENT LLC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nMember\n\n291 TRUMP HOME MARKS LLC\nOwned by:\n% Ownership\n1\n99\nName\nTRUMP HOME MARKS MEMBER CORP\nDTTM OPERATIONS LLC\nRole\nManaging Member\nMember\n\n292 TRUMP HOME MARKS MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDTTM Operations Managing Member Corp\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nTRUMP HOME MARKS LLC\nOwnership\n1.00%\nTitle\nManaging Member\n\n293 TRUMP ICE INC *(3)\nOwned by:\n% Ownership\n100\nName\nDJT Holdings LLC\nRole\nShareholder",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010692",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "TRUMP EU MARKS LLC",
+      "TRUMP FERRY POINT LLC",
+      "Trump Golf Links Ferry Point",
+      "TRUMP FERRY POINT MEMBER CORP",
+      "DJT Holdings LLC",
+      "The Donald J. Trump Revocable Trust",
+      "TRUMP FLORIDA MANAGEMENT LLC",
+      "TRUMP FLORIDA MANAGER CORP",
+      "DJT Holdings Managing Member LLC",
+      "TRUMP GOLF ACQUISITIONS LLC",
+      "TRUMP GOLF COCO BEACH LLC",
+      "TRUMP GOLF COCO BEACH MEMBER CORP",
+      "TRUMP GOLF MANAGEMENT LLC",
+      "TRUMP HOME MARKS LLC",
+      "TRUMP HOME MARKS MEMBER CORP",
+      "DTTM OPERATIONS LLC",
+      "DTTM Operations Managing Member Corp",
+      "TRUMP ICE INC"
+    ],
+    "locations": [
+      "Delaware",
+      "New York"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A25 of 47",
+      "HOUSE_OVERSIGHT_010692",
+      "283",
+      "284",
+      "285",
+      "286",
+      "287",
+      "288",
+      "289",
+      "290",
+      "291",
+      "292",
+      "293"
+    ],
+    "financial_amounts": [
+      "1.00%",
+      "1%",
+      "99%",
+      "100%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure for Donald J. Trump, detailing ownership of various LLCs and Corporations.",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010692"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists entities with reference numbers from 283 to 293. Some entity names have asterisks with numbers in parentheses, like '*(1)', '*(3)', and '*(4)', which likely refer to notes or definitions not present on this specific page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010692.jpg",
+  "house_oversight_id": "010692",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:45:22.495271Z",
+    "model": "gemini-2.5-pro"
+  }
+}
