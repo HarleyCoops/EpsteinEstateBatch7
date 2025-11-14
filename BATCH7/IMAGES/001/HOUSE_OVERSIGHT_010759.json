@@ -1,0 +1,91 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010759.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned black and white page of a legal document. The text is typewritten and appears to be part of a court filing, specifically a response to a motion. The document has a header with case information, a main body of text with legal arguments and citations, and a footer with a document control number.",
+    "layout": "The document follows a standard legal format with a header at the top, a multi-paragraph body of text, and a footer at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 3 of 20\n\ncase. Accordingly, it is impossible for Edwards and Cassell to respond with precision to his\n\nmotion.\n\nThe exceptions that might arguably be in play in this case permit records to be maintained\n\nas confidential in order to:\n\n(i) Prevent a serious and imminent threat to the fair, impartial, and orderly\nadministration of justice;\n(ii) Protect trade secrets;\n(iii) Protect a compelling governmental interest;\n(iv) Obtain evidence to determine legal issues in a case;\n(v) Avoid substantial injury to innocent third parties;\n(vi) Avoid substantial injury to a party by disclosure of matters protected by a\ncommon law or privacy right not generally inherent in the specific type of\nproceeding sought to be closed;\n(vii) Comply with established public policy set forth in the Florida or United\nStates Constitution or statutes or Florida rules or case law . . . .\n\nFla. R. Jud. Admin. 2.420(c)(9) (codifying the holding in Barron v. Florida Freedom\n\nNewspapers, Inc., 531 So.2d 113 (Fla. 1988)). The only exception that seems to even arguably\n\napply here is exception vi, which itself specifically provides that confidentiality is appropriate\n\nonly where disclosure is “not generally inherent in the specific type of proceeding sought to be\n\nclosed” (emphasis added). Of course, this lawsuit is a defamation action – involving\n\na defamation claim by Edwards and Cassell and a defamation counterclaim by\n\nDershowitz. Disclosure, discussion, and debate about the defamatory statements at issue lies at\n\nthe heart of the case. Accordingly, disclosure of these materials is “inherent” in the case itself.\n\nThe principle that defamatory material in a defamation case cannot be sealed is recognized\n\nin Carnegie v. Tedder, 698 So.2d 1310 (2d DCA 1997). Carnegie involved a claim and\n\ncounterclaim between two parties (Carnegie and Tedder), one of whom alleged that disclosure of\n\nHOUSE_OVERSIGHT_010759",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 3 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "case. Accordingly, it is impossible for Edwards and Cassell to respond with precision to his\n\nmotion.\n\nThe exceptions that might arguably be in play in this case permit records to be maintained\n\nas confidential in order to:\n\n(i) Prevent a serious and imminent threat to the fair, impartial, and orderly\nadministration of justice;\n(ii) Protect trade secrets;\n(iii) Protect a compelling governmental interest;\n(iv) Obtain evidence to determine legal issues in a case;\n(v) Avoid substantial injury to innocent third parties;\n(vi) Avoid substantial injury to a party by disclosure of matters protected by a\ncommon law or privacy right not generally inherent in the specific type of\nproceeding sought to be closed;\n(vii) Comply with established public policy set forth in the Florida or United\nStates Constitution or statutes or Florida rules or case law . . . .\n\nFla. R. Jud. Admin. 2.420(c)(9) (codifying the holding in Barron v. Florida Freedom\n\nNewspapers, Inc., 531 So.2d 113 (Fla. 1988)). The only exception that seems to even arguably\n\napply here is exception vi, which itself specifically provides that confidentiality is appropriate\n\nonly where disclosure is “not generally inherent in the specific type of proceeding sought to be\n\nclosed” (emphasis added). Of course, this lawsuit is a defamation action – involving\n\na defamation claim by Edwards and Cassell and a defamation counterclaim by\n\nDershowitz. Disclosure, discussion, and debate about the defamatory statements at issue lies at\n\nthe heart of the case. Accordingly, disclosure of these materials is “inherent” in the case itself.\n\nThe principle that defamatory material in a defamation case cannot be sealed is recognized\n\nin Carnegie v. Tedder, 698 So.2d 1310 (2d DCA 1997). Carnegie involved a claim and\n\ncounterclaim between two parties (Carnegie and Tedder), one of whom alleged that disclosure of",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010759",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1988",
+      "1997"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Cassells",
+      "Barron",
+      "Carnegie",
+      "Tedder"
+    ],
+    "organizations": [
+      "Florida Freedom Newspapers, Inc."
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010759",
+      "Page 3 of 20",
+      "Fla. R. Jud. Admin. 2.420(c)(9)",
+      "531 So.2d 113",
+      "698 So.2d 1310"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Barron v. Florida Freedom Newspapers, Inc., 531 So.2d 113 (Fla. 1988)",
+      "Carnegie v. Tedder, 698 So.2d 1310 (2d DCA 1997)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The name 'Cassells' is used in the header, while 'Cassell' is used in the body. This has been extracted as it appears. The document is page 3 of a 20-page document.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010759.jpg",
+  "house_oversight_id": "010759",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:17:21.215318Z",
+    "model": "gemini-2.5-pro"
+  }
+}

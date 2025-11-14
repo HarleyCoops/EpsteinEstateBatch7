@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010760.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality, black and white image of a single page from a typed legal document. The text is clearly legible and formatted in a standard legal style with a header, body, and footer.",
+    "layout": "The document has a header at the top with case information, a main body of text organized into paragraphs, an indented block quote near the bottom, and a footer at the bottom right with a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 4 of 20\n\nthe materials in the records would be harmful to his professional\nreputation. Carnegie recited subsection vi's restriction on release of materials involving a\nprivacy right, but noted that “statements Tedder alleged were defamatory and damaging were\nallegations in Carnegie's counterclaim for which she seeks damages.\nThese matters were not peripheral to the lawsuit; they were inherent to it.” Id. at 1312. Of\ncourse, exactly the same principle applies here: sexual abuse allegations filed by attorneys\nEdwards and Cassell for their client Ms. Virginia Giuffre are not peripheral to this lawsuit – they\nare inherent to it.\n\nTo see how “inherent” the sexual abuse allegations are to this lawsuit, the Court need\nlook no further than Dershowitz's counterclaim in this case. Count I of Dershowitz's\nCounterclaim (styled as “False Allegations in the Joinder Motion”) contends that Edwards and\nCassell should pay him damages because they “filed a pleading in the Federal Action titled ‘Jane\nDoe #3 and Jane Doe #4’s Motion Pursuant to Rule 21 for Joinder in Action’ . . . .” Dershowitz\nCounterclaim at ¶ 14. Dershowitz's Counterclaim then goes on to quote at length from the\nJoinder Motion. His counterclaim contains, for example, this paragraph recounting the\nallegations:\n\nThe Joinder Motion then goes on to allege – without any supporting evidence – as\nfollows:\n\nOne such powerful individual that Epstein forced then-minor Jane Doe #3 to\nhave sexual relations with was former Harvard Law Professor Alan\nDershowitz, a close friend of Epstein’s and well-known criminal defense\nattorney. Epstein required Jane Doe #3 to have sexual relations with\nDershowitz on numerous occasions while she was a minor, not only in Florida\nbut also on private planes, in New York, New Mexico, and the U.S. Virgin\n\nHOUSE_OVERSIGHT_010760",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 4 of 20",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "the materials in the records would be harmful to his professional\nreputation. Carnegie recited subsection vi's restriction on release of materials involving a\nprivacy right, but noted that “statements Tedder alleged were defamatory and damaging were\nallegations in Carnegie's counterclaim for which she seeks damages.\nThese matters were not peripheral to the lawsuit; they were inherent to it.” Id. at 1312. Of\ncourse, exactly the same principle applies here: sexual abuse allegations filed by attorneys\nEdwards and Cassell for their client Ms. Virginia Giuffre are not peripheral to this lawsuit – they\nare inherent to it.\n\nTo see how “inherent” the sexual abuse allegations are to this lawsuit, the Court need\nlook no further than Dershowitz's counterclaim in this case. Count I of Dershowitz's\nCounterclaim (styled as “False Allegations in the Joinder Motion”) contends that Edwards and\nCassell should pay him damages because they “filed a pleading in the Federal Action titled ‘Jane\nDoe #3 and Jane Doe #4’s Motion Pursuant to Rule 21 for Joinder in Action’ . . . .” Dershowitz\nCounterclaim at ¶ 14. Dershowitz's Counterclaim then goes on to quote at length from the\nJoinder Motion. His counterclaim contains, for example, this paragraph recounting the\nallegations:\n\nThe Joinder Motion then goes on to allege – without any supporting evidence – as\nfollows:\n\nOne such powerful individual that Epstein forced then-minor Jane Doe #3 to\nhave sexual relations with was former Harvard Law Professor Alan\nDershowitz, a close friend of Epstein’s and well-known criminal defense\nattorney. Epstein required Jane Doe #3 to have sexual relations with\nDershowitz on numerous occasions while she was a minor, not only in Florida\nbut also on private planes, in New York, New Mexico, and the U.S. Virgin",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010760",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Carnegie",
+      "Tedder",
+      "Edwards",
+      "Cassell",
+      "Ms. Virginia Giuffre",
+      "Jane Doe #3",
+      "Jane Doe #4",
+      "Epstein",
+      "Alan Dershowitz"
+    ],
+    "organizations": [
+      "Harvard Law"
+    ],
+    "locations": [
+      "Florida",
+      "New York",
+      "New Mexico",
+      "U.S. Virgin"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010760"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010760"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Dershowitz's Counterclaim",
+      "Joinder Motion",
+      "Jane Doe #3 and Jane Doe #4’s Motion Pursuant to Rule 21 for Joinder in Action"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is page 4 of a 20-page legal response. The text is fully legible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010760.jpg",
+  "house_oversight_id": "010760",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:17:43.785452Z",
+    "model": "gemini-2.5-pro"
+  }
+}

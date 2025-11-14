@@ -1,0 +1,91 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010761.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, typed in black text on a white background. The document contains a header with case information, a main body of text with legal arguments, and a footer with a document identifier.",
+    "layout": "The document follows a standard legal filing format with a header at the top, a multi-paragraph body, and a footer at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 5 of 20\n\nIslands. In addition to being a participant in the abuse of Jane Doe #3 and other\nminors, Dershowitz was an eye-witness to the sexual abuse of many other\nminors by Epstein and several of Epstein's coconspirators. Dershowitz would\nlater play a significant role in negotiating the [Non-Prosecution Agreement] on\nEpstein's behalf. Indeed, Dershowitz helped negotiate an agreement that\nprovided immunity from federal prosecution in the Southern District of Florida\nnot only to Epstein, but also to \"any potential coconspirators of Epstein.\" Thus,\nDershowitz helped negotiate an agreement with a provision that provided\nprotection for himself against criminal prosecution in Florida for sexually\nabusing Jane Doe #3. Because this broad immunity wouldhave been\ncontroversial if disclosed, Dershowitz (along with other members of Epstein's\ndefense team) and the Government tried to keep the immunity provision secret\nfrom all of Epstein's victims and the general public, even though such secrecy\nviolated the Crime Victims' Rights Act.\n\nDershowitz Counterclaim at ¶ 15 (quoting Joinder Motion at 4).\n\nRemarkably, having quoted at length from the Joinder Motion in his Counterclaim in this\ncase, Dershowitz now seeks to have that very same language from the Joinder Motion deemed\n\"confidential\" and sealed. Compare Counterclaim at ¶15 (block quotation above) with Motion to\nDetermine Confidentiality, Exhibit A at 4 (composite exhibit with proposed \"confidential\"\ndocument that includes paragraph beginning \"[o]ne such powerful individual that Epstein forced\nthen-minor Jane Doe #3 to have sexual relations with was former Harvard Law Professor Alan\nDershowitz, a close friend of Epstein's . . . .\"). Dershowitz cannot come before this Court and\nfile a counterclaim seeking damages from Edwards and Cassell for alleged defamatory\nstatements and then ask to have those very same statements placed under seal as\n\"confidential.\" See Barron v. Florida Freedom Newspapers, 531 So.2d at 119 (\"although\ngenerally protected by one's privacy right, medical reports and history are no longer protected\n\nHOUSE_OVERSIGHT_010761",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 5 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Islands. In addition to being a participant in the abuse of Jane Doe #3 and other\nminors, Dershowitz was an eye-witness to the sexual abuse of many other\nminors by Epstein and several of Epstein's coconspirators. Dershowitz would\nlater play a significant role in negotiating the [Non-Prosecution Agreement] on\nEpstein's behalf. Indeed, Dershowitz helped negotiate an agreement that\nprovided immunity from federal prosecution in the Southern District of Florida\nnot only to Epstein, but also to \"any potential coconspirators of Epstein.\" Thus,\nDershowitz helped negotiate an agreement with a provision that provided\nprotection for himself against criminal prosecution in Florida for sexually\nabusing Jane Doe #3. Because this broad immunity wouldhave been\ncontroversial if disclosed, Dershowitz (along with other members of Epstein's\ndefense team) and the Government tried to keep the immunity provision secret\nfrom all of Epstein's victims and the general public, even though such secrecy\nviolated the Crime Victims' Rights Act.\n\nDershowitz Counterclaim at ¶ 15 (quoting Joinder Motion at 4).\n\nRemarkably, having quoted at length from the Joinder Motion in his Counterclaim in this\ncase, Dershowitz now seeks to have that very same language from the Joinder Motion deemed\n\"confidential\" and sealed. Compare Counterclaim at ¶15 (block quotation above) with Motion to\nDetermine Confidentiality, Exhibit A at 4 (composite exhibit with proposed \"confidential\"\ndocument that includes paragraph beginning \"[o]ne such powerful individual that Epstein forced\nthen-minor Jane Doe #3 to have sexual relations with was former Harvard Law Professor Alan\nDershowitz, a close friend of Epstein's . . . .\"). Dershowitz cannot come before this Court and\nfile a counterclaim seeking damages from Edwards and Cassell for alleged defamatory\nstatements and then ask to have those very same statements placed under seal as\n\"confidential.\" See Barron v. Florida Freedom Newspapers, 531 So.2d at 119 (\"although\ngenerally protected by one's privacy right, medical reports and history are no longer protected",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010761",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Jane Doe #3",
+      "Epstein",
+      "Alan Dershowitz",
+      "Barron"
+    ],
+    "organizations": [
+      "Harvard Law",
+      "Florida Freedom Newspapers"
+    ],
+    "locations": [
+      "Southern District of Florida",
+      "Florida"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010761",
+      "531 So.2d at 119"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010761"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Dershowitz Counterclaim at ¶ 15",
+      "Joinder Motion at 4",
+      "Motion to Determine Confidentiality, Exhibit A at 4",
+      "Barron v. Florida Freedom Newspapers, 531 So.2d at 119"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be page 5 of a 20-page legal response in the case of Edwards, Bradley vs. Dershowitz. The footer contains a Bates number, indicating it is part of a larger production of documents, likely for discovery or investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010761.jpg",
+  "house_oversight_id": "010761",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:18:07.449470Z",
+    "model": "gemini-2.5-pro"
+  }
+}

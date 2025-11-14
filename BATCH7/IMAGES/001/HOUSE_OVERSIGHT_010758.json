@@ -1,0 +1,88 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010758.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image of a typed legal document. The document is page 2 of a 20-page filing in a court case. The text discusses the legal standards for sealing court records, arguing against a motion to do so.",
+    "layout": "The document has a standard legal format with a header containing case information, a main body of text with justified paragraphs and a centered, bolded section heading, and a footer with a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 2 of 20\n\nthese documents, not only in defamatory statements broadcast worldwide, but also in his\npleadings before this Court and in recent depositions. Indeed, Dershowitz said in his\nmedia interviews that he wants “everything to be made public” and implied that Edwards\nand Cassell had something to hide. Accordingly, Dershowitz has failed to carry his heavy\nburden to justify sealing these presumptively-public documents.\n\nI. DERSHOWITZ HAS NOT JUSTIFIED SEALING ALLEGED\nDEFAMATORY RECORDS THAT ARE INTEGRAL TO THIS\nDEFAMATION CASE.\n\nIn his motion, Dershowitz never recounts the heavy burden that he must carry to seal the\nrecords at issue. To be sure, Florida Rule of Judicial Administration 2.420 allows for the sealing\nof “confidential” materials. But the Rule begins by recounting the overarching principle that\n“[t]he public shall have access to all records of the judicial branch of government, except as\nprovided below.” Fla. R. Jud. Admin. 2.420(a). This rule is a codification of the Florida\nSupreme Court’s admonition that a “a strong presumption of openness exists for all court\nproceedings. A trial is a public event, and the filed records of court proceedings are public\nrecords available for public examination.” Barron v. Florida Freedom Newspapers, Inc., 531\nSo.2d 113, 118 (Fla. 1988) (emphasis added). In light of this presumption of openness, “[t]he\nburden of proof in [closure] proceedings shall always be on the party seeking closure.” Id. To\nobtain a sealing order, the party seeking sealing must carry a “heavy burden.” Id.\n\nRemarkably, Dershowitz fails to acknowledge these well-settled principles. More\nimportant, he even fails to cite (much less discuss) the limited substantive exceptions to this\ngeneral principle of access – and which specific exception he believes applies to this\n\nHOUSE_OVERSIGHT_010758",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 2 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "these documents, not only in defamatory statements broadcast worldwide, but also in his\npleadings before this Court and in recent depositions. Indeed, Dershowitz said in his\nmedia interviews that he wants “everything to be made public” and implied that Edwards\nand Cassell had something to hide. Accordingly, Dershowitz has failed to carry his heavy\nburden to justify sealing these presumptively-public documents.\n\nI. DERSHOWITZ HAS NOT JUSTIFIED SEALING ALLEGED\nDEFAMATORY RECORDS THAT ARE INTEGRAL TO THIS\nDEFAMATION CASE.\n\nIn his motion, Dershowitz never recounts the heavy burden that he must carry to seal the\nrecords at issue. To be sure, Florida Rule of Judicial Administration 2.420 allows for the sealing\nof “confidential” materials. But the Rule begins by recounting the overarching principle that\n“[t]he public shall have access to all records of the judicial branch of government, except as\nprovided below.” Fla. R. Jud. Admin. 2.420(a). This rule is a codification of the Florida\nSupreme Court’s admonition that a “a strong presumption of openness exists for all court\nproceedings. A trial is a public event, and the filed records of court proceedings are public\nrecords available for public examination.” Barron v. Florida Freedom Newspapers, Inc., 531\nSo.2d 113, 118 (Fla. 1988) (emphasis added). In light of this presumption of openness, “[t]he\nburden of proof in [closure] proceedings shall always be on the party seeking closure.” Id. To\nobtain a sealing order, the party seeking sealing must carry a “heavy burden.” Id.\n\nRemarkably, Dershowitz fails to acknowledge these well-settled principles. More\nimportant, he even fails to cite (much less discuss) the limited substantive exceptions to this\ngeneral principle of access – and which specific exception he believes applies to this",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010758",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1988"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Cassells"
+    ],
+    "organizations": [
+      "Florida Supreme Court",
+      "Florida Freedom Newspapers, Inc."
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010758",
+      "Page 2 of 20",
+      "531 So.2d 113, 118"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010758"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassells",
+    "recipient": "The Court",
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Florida Rule of Judicial Administration 2.420",
+      "Barron v. Florida Freedom Newspapers, Inc., 531 So.2d 113, 118 (Fla. 1988)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a legal response in a defamation case. The name 'Cassell' is spelled as both 'Cassells' (in the header) and 'Cassell' (in the body). Both spellings have been extracted as they appear.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010758.jpg",
+  "house_oversight_id": "010758",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:16:56.253933Z",
+    "model": "gemini-2.5-pro"
+  }
+}

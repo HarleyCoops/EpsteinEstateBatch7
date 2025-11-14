@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010768.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a legal document, appearing to be a court filing. The document is typed in a serif font and is formatted with a header, body text, and a footer. The body contains a transcript of a question-and-answer session.",
+    "layout": "The document has a header at the top with case information, a main body of text with an indented question and answer section, and a footer at the bottom right with an identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 12 of 20\n\nScarola) and Dershowitz's extended answer are quoted in full – including Dershowitz's\nreference to the oral sex allegation that he now argues this Court should treat as “confidential”:\n\nQ.      [Y]ou [are] aware that years before December of 2014, when the\n        CVRA pleading was filed, that your name had come up repeatedly in\n        connection with Jeffrey Epstein's abuse of minors, correct? . . .\n\nA.      Let me answer that question. I am aware that never before 2014,\n        end of December, was it ever, ever alleged that I had acted in any\n        way inappropriately with regard to Virginia [Giuffre], that I ever\n        touched her, that I ever met her, that I had ever been with her. I was\n        completely aware of that. There had never been any\n        allegation. She claims under oath that she told you that secretly in\n        2011, but you have produced no notes of any such conversation.\n        You, of course, are a witness to this allegation and will be deposed\n        as a witness to this allegation. I believe it is an entirely false\n        allegation that she told you in 2011 that she had had any sexual\n        contact with me. I think she's lying through her teeth when she\n        says that. And I doubt that your notes will reveal any such\n        information.\n        But if she did tell you that, she would be absolutely, categorically\n        lying. So I am completely aware that never, until the lies were put\n        in a legal pleading at the end of December 2014, it was\n        never alleged that I had any sexual contact with Virginia Roberts.\n        I know that it was alleged that I was a witness to Jeffrey Epstein's\n        alleged abuse and that was false. I was never a witness to any of\n        Jeffrey Epstein's sexual abuse. And I wrote that to you, something\n        that you have falsely denied. And I stand on the record. The record\n        is clear that I have categorically denied I was ever a witness to\n        any abuse, that I ever saw Jeffrey Epstein abusing anybody.\n\n        And -- and the very idea that I would stand and talk to Jeffrey\n        Epstein while he was receiving oral sex from Virginia Roberts,\n        which she swore to under oath, is so outrageous, so preposterous,\n        that even David Boies said he couldn't believe it was true.\n\nMS. McCAWLEY: I object. I object. I'm not going to allow you to reveal\nany conversations that happened in the context of a settlement discussion.\n\nTHE WITNESS: Does she have standing?",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 12 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Scarola) and Dershowitz's extended answer are quoted in full – including Dershowitz's\nreference to the oral sex allegation that he now argues this Court should treat as “confidential”:\n\nQ.      [Y]ou [are] aware that years before December of 2014, when the\n        CVRA pleading was filed, that your name had come up repeatedly in\n        connection with Jeffrey Epstein's abuse of minors, correct? . . .\n\nA.      Let me answer that question. I am aware that never before 2014,\n        end of December, was it ever, ever alleged that I had acted in any\n        way inappropriately with regard to Virginia [Giuffre], that I ever\n        touched her, that I ever met her, that I had ever been with her. I was\n        completely aware of that. There had never been any\n        allegation. She claims under oath that she told you that secretly in\n        2011, but you have produced no notes of any such conversation.\n        You, of course, are a witness to this allegation and will be deposed\n        as a witness to this allegation. I believe it is an entirely false\n        allegation that she told you in 2011 that she had had any sexual\n        contact with me. I think she's lying through her teeth when she\n        says that. And I doubt that your notes will reveal any such\n        information.\n        But if she did tell you that, she would be absolutely, categorically\n        lying. So I am completely aware that never, until the lies were put\n        in a legal pleading at the end of December 2014, it was\n        never alleged that I had any sexual contact with Virginia Roberts.\n        I know that it was alleged that I was a witness to Jeffrey Epstein's\n        alleged abuse and that was false. I was never a witness to any of\n        Jeffrey Epstein's sexual abuse. And I wrote that to you, something\n        that you have falsely denied. And I stand on the record. The record\n        is clear that I have categorically denied I was ever a witness to\n        any abuse, that I ever saw Jeffrey Epstein abusing anybody.\n\n        And -- and the very idea that I would stand and talk to Jeffrey\n        Epstein while he was receiving oral sex from Virginia Roberts,\n        which she swore to under oath, is so outrageous, so preposterous,\n        that even David Boies said he couldn't believe it was true.\n\nMS. McCAWLEY: I object. I object. I'm not going to allow you to reveal\nany conversations that happened in the context of a settlement discussion.\n\nTHE WITNESS: Does she have standing?",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010768",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-12",
+      "2014",
+      "2011"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Scarola",
+      "Virginia [Giuffre]",
+      "Jeffrey Epstein",
+      "Virginia Roberts",
+      "David Boies",
+      "MS. McCAWLEY",
+      "THE WITNESS"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010768"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010768"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Court Filing",
+    "sender": "Edwards and Cassells",
+    "recipient": null,
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal response containing an excerpt from a deposition or testimony. The names Virginia [Giuffre] and Virginia Roberts likely refer to the same individual. The speaker identified as 'A.' and 'THE WITNESS' is likely Dershowitz, based on the context of the document title.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010768.jpg",
+  "house_oversight_id": "010768",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:21:09.162868Z",
+    "model": "gemini-2.5-pro"
+  }
+}

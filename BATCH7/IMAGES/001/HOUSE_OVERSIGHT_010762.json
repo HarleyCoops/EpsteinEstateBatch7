@@ -1,0 +1,92 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010762.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, appearing to be a response or motion in a court case. The document is typed in a standard serif font, is black and white, and has a header with case information, a main body of text, and a footer with a document identifier.",
+    "layout": "Standard US letter format with a header, a main body of text organized into paragraphs and a numbered section, and a footer. The text is justified.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 6 of 20\n\nwhen the medical condition becomes an integral part of the civil proceeding, particularly when\nthe condition is asserted as an issue by the party seeking closure” (emphasis added)).\n\nII. JUDGE MARRA’S ORDER IN HIS CASE DOES NOT REQUIRE THAT\nTHE RECORDS BE SEALED IN THIS CASE.\n\nDershowitz also appears to contend that Judge Marra’s order striking some of the\nmaterials from the records at issue somehow requires that these stricken materials be kept\nconfidential in this case. Dershowitz’s argument misunderstands both the scope of Judge\nMarra’s order and its effect in this case. His argument rests on a truncated – and misleading --\ndescription of the events surrounding Judge Marra’s ruling striking certain documents. A more\ncomplete description makes clear that Judge Marra has not determined the documents are\nsomehow “confidential” even in the federal Crime Victims’ Rights Act case – much less in this\nseparate state defamation action.\n\nEdwards and Cassell filed the federal case pro bono on behalf of two young women who\nwere sexually abused as underage girls by Dershowitz’s close personal friend – Jeffrey\nEpstein. In 2008, Edwards and Casell filed a petition to enforce the rights of “Jane Doe No. 1”\nand “Jane Doe No. 2” under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771, alleging\nthat the Government had failed to provide them rights with regard to a plea arrangement it was\npursuing with Epstein. Jane Doe No. 1 and Jane Doe No. 2 v. United States, No. 9:08-cv-80736\n(S.D. Fla.). In the course of that case, on October 11, 2011, the victims filed discovery requests\nwith the Government, including requests specifically seeking information about Dershowitz,\nPrince Andrew, and others. Further efforts from the Government to avoid any discovery\n\nHOUSE_OVERSIGHT_010762",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 6 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "when the medical condition becomes an integral part of the civil proceeding, particularly when\nthe condition is asserted as an issue by the party seeking closure” (emphasis added)).\n\nII. JUDGE MARRA’S ORDER IN HIS CASE DOES NOT REQUIRE THAT\nTHE RECORDS BE SEALED IN THIS CASE.\n\nDershowitz also appears to contend that Judge Marra’s order striking some of the\nmaterials from the records at issue somehow requires that these stricken materials be kept\nconfidential in this case. Dershowitz’s argument misunderstands both the scope of Judge\nMarra’s order and its effect in this case. His argument rests on a truncated – and misleading --\ndescription of the events surrounding Judge Marra’s ruling striking certain documents. A more\ncomplete description makes clear that Judge Marra has not determined the documents are\nsomehow “confidential” even in the federal Crime Victims’ Rights Act case – much less in this\nseparate state defamation action.\n\nEdwards and Cassell filed the federal case pro bono on behalf of two young women who\nwere sexually abused as underage girls by Dershowitz’s close personal friend – Jeffrey\nEpstein. In 2008, Edwards and Casell filed a petition to enforce the rights of “Jane Doe No. 1”\nand “Jane Doe No. 2” under the Crime Victims’ Rights Act (CVRA), 18 U.S.C. § 3771, alleging\nthat the Government had failed to provide them rights with regard to a plea arrangement it was\npursuing with Epstein. Jane Doe No. 1 and Jane Doe No. 2 v. United States, No. 9:08-cv-80736\n(S.D. Fla.). In the course of that case, on October 11, 2011, the victims filed discovery requests\nwith the Government, including requests specifically seeking information about Dershowitz,\nPrince Andrew, and others. Further efforts from the Government to avoid any discovery",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010762",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-10-11",
+      "2011-10-11"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Judge Marra",
+      "Jeffrey Epstein",
+      "Jane Doe No. 1",
+      "Jane Doe No. 2",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Government",
+      "United States"
+    ],
+    "locations": [
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "9:08-cv-80736",
+      "18 U.S.C. § 3771",
+      "HOUSE_OVERSIGHT_010762"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010762"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassell",
+    "recipient": null,
+    "subject": "Response to Dershowitz’s Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "CACE 15-000072",
+      "9:08-cv-80736"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is page 6 of 20. The name 'Cassell' is spelled two different ways in the text ('Cassells' in the header, 'Cassell' and 'Casell' in the body). The extraction reflects the spellings as they appear in the image.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010762.jpg",
+  "house_oversight_id": "010762",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:18:30.107225Z",
+    "model": "gemini-2.5-pro"
+  }
+}

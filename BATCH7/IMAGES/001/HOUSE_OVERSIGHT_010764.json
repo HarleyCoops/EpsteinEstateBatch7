@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010764.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a single page from a legal document. The page is numbered 8 of 20. The text discusses legal motions and filings in a court case, referencing individuals, dates, and other court documents.",
+    "layout": "The document follows a standard legal filing format with a case caption header at the top, a main body of text organized into paragraphs, and a footer with a document control number at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 8 of 20\n\nBecause the Government now contested the joinder motion, Edwards and\nCassell prepared a more detailed pleading explaining the justification for granting the\nmotion. One week after receiving the Government's objection, on December 30, 2014, Ms.\nGiuffre (i.e., Jane Doe No. 3) and Jane Doe No. 4 filed a motion (and later a corrected motion)\nseeking to join the case. DE 279 and DE 280. (Note: DE 280 is the first of the three documents\nDershowitz seeks to have declared “confidential” in this case.) Uncertain as to the basis for the\nGovernment's objection, the motion briefly proffered the circumstances that would qualify\nthe two women as “victims” eligible to assert rights under the CVRA. See 18 U.S.C. 3771(e)\n(defining “crime victim” protected under the Act). With regard to Ms. Giuffre, the motion\nindicated that when she was a minor, Jeffrey Epstein had trafficked her to Dershowitz and Prince\nAndrew (among others) for sexual purposes. Jane Doe No. 3 stated that she was prepared to\nprove her proffer. See DE 280 at 3 (“If allowed to join this action, Jane Doe No. 3 would prove\nthe following . . . .”). The motion also provided specific reasons why Jane Doe No. 3's\nparticipation was relevant to the case, including the pending discovery issues regarding\nDershowitz and Prince Andrew. DE 280 at 9-10 (explaining several reasons participation of new\nvictims was relevant to existing issues).\n\nAfter the motion was filed, various news organizations published articles about\nit. Dershowitz also made numerous media statements about the filing, including calling Jane\nDoe No. 3 “a serial liar” who “has lied through her teeth about many world\nleaders.” http://www.cnn.com/2015/01/06/us/dershowitz-sex-allegation/. Dershowitz also\nrepeatedly called Edwards and Cassell “two sleazy, unprofessional, disbarable lawyers.” Id. On\n\nHOUSE_OVERSIGHT_010764",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 8 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Because the Government now contested the joinder motion, Edwards and\nCassell prepared a more detailed pleading explaining the justification for granting the\nmotion. One week after receiving the Government's objection, on December 30, 2014, Ms.\nGiuffre (i.e., Jane Doe No. 3) and Jane Doe No. 4 filed a motion (and later a corrected motion)\nseeking to join the case. DE 279 and DE 280. (Note: DE 280 is the first of the three documents\nDershowitz seeks to have declared “confidential” in this case.) Uncertain as to the basis for the\nGovernment's objection, the motion briefly proffered the circumstances that would qualify\nthe two women as “victims” eligible to assert rights under the CVRA. See 18 U.S.C. 3771(e)\n(defining “crime victim” protected under the Act). With regard to Ms. Giuffre, the motion\nindicated that when she was a minor, Jeffrey Epstein had trafficked her to Dershowitz and Prince\nAndrew (among others) for sexual purposes. Jane Doe No. 3 stated that she was prepared to\nprove her proffer. See DE 280 at 3 (“If allowed to join this action, Jane Doe No. 3 would prove\nthe following . . . .”). The motion also provided specific reasons why Jane Doe No. 3's\nparticipation was relevant to the case, including the pending discovery issues regarding\nDershowitz and Prince Andrew. DE 280 at 9-10 (explaining several reasons participation of new\nvictims was relevant to existing issues).\n\nAfter the motion was filed, various news organizations published articles about\nit. Dershowitz also made numerous media statements about the filing, including calling Jane\nDoe No. 3 “a serial liar” who “has lied through her teeth about many world\nleaders.” http://www.cnn.com/2015/01/06/us/dershowitz-sex-allegation/. Dershowitz also\nrepeatedly called Edwards and Cassell “two sleazy, unprofessional, disbarable lawyers.” Id. On",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010764",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-12-30",
+      "2015-01-06"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Giuffre",
+      "Jane Doe No. 3",
+      "Jane Doe No. 4",
+      "Jeffrey Epstein",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Government",
+      "CNN"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "DE 279",
+      "DE 280",
+      "18 U.S.C. 3771(e)",
+      "HOUSE_OVERSIGHT_010764"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Page 8 of 20",
+      "HOUSE_OVERSIGHT_010764"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "CACE 15-000072",
+      "DE 279",
+      "DE 280",
+      "18 U.S.C. 3771(e)",
+      "http://www.cnn.com/2015/01/06/us/dershowitz-sex-allegation/"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is a page from a legal response filed in the case of Edwards, Bradley vs. Dershowitz. It details procedural history related to a motion to join the case by 'Jane Doe No. 3' (Ms. Giuffre) and 'Jane Doe No. 4', and the subsequent media statements made by Dershowitz.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010764.jpg",
+  "house_oversight_id": "010764",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:19:22.935865Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010767.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, typed in black text on a white background. The page is numbered 11 of 20 and includes a case caption, a main body of text with a numbered section heading, and a document identifier in the footer.",
+    "layout": "The document follows a standard legal format with a header at the top, a main body of text, and a footer at the bottom right. The header contains case information and the page number. The body text is justified and includes a centered, bolded, and capitalized section heading.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 11 of 20\n\nparty in that case), not as to her attorneys Edwards and Cassell. See Palm AFC Holdings, Inc. v.\nPalm Beach County, 807 So.2d 703 (4th DCA 2002) (“In order for res judicata to apply four\nidentities must be present: (1) identity of the thing sued for; (2) identity of the cause of action;\n(3) identity of persons and parties; and (4) identity of the quality or capacity of the persons for or\nagainst whom the claim is made.”).\n\nIII. EDWARDS AND CASSELL WILL BE PREJUDICED IF THEY ARE\nBARRED FROM QUOTING FROM THE RECORD WHILE\nDERSHOWITZ IS PERMITTED TO FREELY REFER TO THEM\nWHENEVER HE FINDS IT CONVENIENT.\n\nDershowitz is also incorrect when he asserts that no prejudice will befall Edwards and\nCassell if the records are placed under seal. To the contrary, placing the documents under seal\nwould permit Dershowitz to continue to misrepresent and distort what is contained in those\nrecords while preventing Edwards and Cassell from correcting those misrepresentations.\nDershowitz has repeatedly referred to details in the records when he has found it convenient to\ndo so – treating the records as not confidential in any away. One clear example comes from\nDershowitz’s recent deposition, where he gratuitously injected into the record a reference to a\nportion of Ms. Giuffre’s affidavit about him watching Ms. Giuffre perform oral sex on\nEpstein. And then, having injected that gratuitous reference into the record, he proceeded to try\nto rebut the reference with confidential settlement discussions – but did so by misrepresenting what\nanother attorney (David Boies) had said during the settlement discussions. So that the Court may\nhave the full flavor of the exchange, the narrow question to Dershowitz (by attorney Jack\n\nHOUSE_OVERSIGHT_010767",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 11 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "party in that case), not as to her attorneys Edwards and Cassell. See Palm AFC Holdings, Inc. v.\nPalm Beach County, 807 So.2d 703 (4th DCA 2002) (“In order for res judicata to apply four\nidentities must be present: (1) identity of the thing sued for; (2) identity of the cause of action;\n(3) identity of persons and parties; and (4) identity of the quality or capacity of the persons for or\nagainst whom the claim is made.”).\n\nIII. EDWARDS AND CASSELL WILL BE PREJUDICED IF THEY ARE\nBARRED FROM QUOTING FROM THE RECORD WHILE\nDERSHOWITZ IS PERMITTED TO FREELY REFER TO THEM\nWHENEVER HE FINDS IT CONVENIENT.\n\nDershowitz is also incorrect when he asserts that no prejudice will befall Edwards and\nCassell if the records are placed under seal. To the contrary, placing the documents under seal\nwould permit Dershowitz to continue to misrepresent and distort what is contained in those\nrecords while preventing Edwards and Cassell from correcting those misrepresentations.\nDershowitz has repeatedly referred to details in the records when he has found it convenient to\ndo so – treating the records as not confidential in any away. One clear example comes from\nDershowitz’s recent deposition, where he gratuitously injected into the record a reference to a\nportion of Ms. Giuffre’s affidavit about him watching Ms. Giuffre perform oral sex on\nEpstein. And then, having injected that gratuitous reference into the record, he proceeded to try\nto rebut the reference with confidential settlement discussions – but did so by misrepresenting what\nanother attorney (David Boies) had said during the settlement discussions. So that the Court may\nhave the full flavor of the exchange, the narrow question to Dershowitz (by attorney Jack",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010767",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2002"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Cassells",
+      "Ms. Giuffre",
+      "Epstein",
+      "David Boies",
+      "Jack"
+    ],
+    "organizations": [
+      "Palm AFC Holdings, Inc.",
+      "Palm Beach County",
+      "4th DCA"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "HOUSE_OVERSIGHT_010767",
+      "807 So.2d 703"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "Palm AFC Holdings, Inc. v. Palm Beach County, 807 So.2d 703 (4th DCA 2002)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 11 of a 20-page legal response. The name 'Cassell' is spelled both as 'Cassell' and 'Cassells' in the document. The last line of the body text is cut off mid-sentence.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010767.jpg",
+  "house_oversight_id": "010767",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:20:41.003231Z",
+    "model": "gemini-2.5-pro"
+  }
+}

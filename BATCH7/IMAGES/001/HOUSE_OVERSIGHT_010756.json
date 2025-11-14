@@ -1,0 +1,121 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010756.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A printout of a web article titled \"Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival\" from US News, dated 11/5/2015. The document contains several paragraphs of text, a photograph of a man (presumably Yitzhak Rabin) with his face partially obscured by a white rectangle, and a footer with a URL, page number, and a document control number.",
+    "layout": "Single-column text layout with a header, body text, an embedded image, and a footer. The header contains the date and article title. The footer contains a URL, page number, and a Bates stamp.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "11/5/2015\n\nYitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News\n\nbinational state in which one people ruled another.\n\nHe was uniquely qualified for this adventure. Those to his political right had the strength but not the will to\ntake a calculated risk for peace. Those to his political left had the will but not the strength. He alone, at the\ntime, had the capacity to persuade the divided and wary Israelis to accept a compromise arrangement with\nthe Palestine Liberation Organization that held great promise for peace but also great risk. But the risk was\nseen as a risk from the Arabs, not the risk of Jew killing Jew. What the right-wing fanatics were blind to is\nthat their murderous intransigence threatened the state that gave them succor and its necessary\nacceptance by the world. Without the flame of peace, they would have nothing but bloodshed threatening\nevery Israeli's personal security.\n\n[ZUCKERMAN: The Palestinians' Lies Are Fueling the Violence]\n\nThe debate over security in Israel is different from the quarrel with the extremists. Many moderate people\nall across Israel are concerned about giving up land, because for years their leaders told them this land\nwas essential to their national security. In Israel, security decisions are made in the context of the terrible\nreality that a single Israeli strategic blunder may mean not only military defeat but a genocidal threat to the\nvery existence of the state – one that the world could not forestall, even if it were willing to. Many Israelis\nask: Will the peace process be the beginning of a new future or the beginning of the end?\n\nThe Israelis are determined to avoid another genocide, this time in Israel. The decision to exchange lawfully\ncaptured territory for the promise of peace from those who have constantly threatened violence is fraught\nwith unprecedented risk. Israel will not survive in this neighborhood by superior morality in the absence of\nsuperior real strength. Arab moderation is in direct proportion to Israeli strength. If the Arabs could defeat\nIsrael, who could doubt that sooner or later they would try?\n\nCan Shimon Peres, a durable politician less trusted by Israelis, lead the people in pursuit of Rabin's twin\ngoals of peace and security? He is a consummate international diplomat and served with great distinction\nas prime minister a decade ago. His ardent desire for peace may be part of his problem, for many people\nbelieve he is too eager to cut a deal, too dovish and not skeptical enough about security issues, too\nwrapped up in his own ambitions. So his challenge is to relieve the worries of Israelis as well as meet the\nneeds of the Palestinians.\n\nIn this effort, American support is crucial. Rabin said he was elected to take risks for peace. President\nClinton said, \"If that is your goal, I will do my best to minimize the risks you must take.\" That is the fire of\nfriendship and support that will enable Israel to fulfill what Rabin so bravely began.\n\n'Rabin, The Last Day': Venice Review\nInform\n\nTAGS: Israel, Palestine, Middle East, Judaism\n\n+ More\n\nNews\nRankings & Consumer Advice\n\nhttp://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival\n\n3/4\n\nHOUSE_OVERSIGHT_010756",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "11/5/2015",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival - US News",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "binational state in which one people ruled another.\n\nHe was uniquely qualified for this adventure. Those to his political right had the strength but not the will to\ntake a calculated risk for peace. Those to his political left had the will but not the strength. He alone, at the\ntime, had the capacity to persuade the divided and wary Israelis to accept a compromise arrangement with\nthe Palestine Liberation Organization that held great promise for peace but also great risk. But the risk was\nseen as a risk from the Arabs, not the risk of Jew killing Jew. What the right-wing fanatics were blind to is\nthat their murderous intransigence threatened the state that gave them succor and its necessary\nacceptance by the world. Without the flame of peace, they would have nothing but bloodshed threatening\nevery Israeli's personal security.\n\n[ZUCKERMAN: The Palestinians' Lies Are Fueling the Violence]\n\nThe debate over security in Israel is different from the quarrel with the extremists. Many moderate people\nall across Israel are concerned about giving up land, because for years their leaders told them this land\nwas essential to their national security. In Israel, security decisions are made in the context of the terrible\nreality that a single Israeli strategic blunder may mean not only military defeat but a genocidal threat to the\nvery existence of the state – one that the world could not forestall, even if it were willing to. Many Israelis\nask: Will the peace process be the beginning of a new future or the beginning of the end?\n\nThe Israelis are determined to avoid another genocide, this time in Israel. The decision to exchange lawfully\ncaptured territory for the promise of peace from those who have constantly threatened violence is fraught\nwith unprecedented risk. Israel will not survive in this neighborhood by superior morality in the absence of\nsuperior real strength. Arab moderation is in direct proportion to Israeli strength. If the Arabs could defeat\nIsrael, who could doubt that sooner or later they would try?\n\nCan Shimon Peres, a durable politician less trusted by Israelis, lead the people in pursuit of Rabin's twin\ngoals of peace and security? He is a consummate international diplomat and served with great distinction\nas prime minister a decade ago. His ardent desire for peace may be part of his problem, for many people\nbelieve he is too eager to cut a deal, too dovish and not skeptical enough about security issues, too\nwrapped up in his own ambitions. So his challenge is to relieve the worries of Israelis as well as meet the\nneeds of the Palestinians.\n\nIn this effort, American support is crucial. Rabin said he was elected to take risks for peace. President\nClinton said, \"If that is your goal, I will do my best to minimize the risks you must take.\" That is the fire of\nfriendship and support that will enable Israel to fulfill what Rabin so bravely began.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "'Rabin, The Last Day': Venice Review\nInform",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "TAGS: Israel, Palestine, Middle East, Judaism",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "+ More",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "News\nRankings & Consumer Advice",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "http://www.usnews.com/news/the-report/articles/2015/11/04/yitzhak-rabins-moral-answer-to-the-israeli-dilemma-of-peace-and-survival",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "3/4",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010756",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-11-05"
+    ],
+    "people": [
+      "Yitzhak Rabin",
+      "ZUCKERMAN",
+      "Shimon Peres",
+      "President Clinton"
+    ],
+    "organizations": [
+      "US News",
+      "Palestine Liberation Organization",
+      "House Oversight"
+    ],
+    "locations": [
+      "Israel",
+      "Palestine",
+      "Middle East"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010756"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010756"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "web article printout",
+    "sender": null,
+    "recipient": null,
+    "subject": "Yitzhak Rabin's Moral Answer to the Israeli Dilemma of Peace and Survival",
+    "date": "2015-11-05",
+    "references": [
+      "HOUSE_OVERSIGHT_010756"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The image is a printout of a web article. A white rectangle obscures the face of the person in the photograph. The document has a Bates stamp in the lower right corner, indicating it is part of a formal document production, likely for the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010756.jpg",
+  "house_oversight_id": "010756",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:16:06.546302Z",
+    "model": "gemini-2.5-pro"
+  }
+}

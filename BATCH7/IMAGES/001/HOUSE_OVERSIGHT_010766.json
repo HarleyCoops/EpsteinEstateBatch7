@@ -1,0 +1,89 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010766.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is black on a white background. It appears to be a court filing, specifically a response to a motion. The document has a header with case information, a body of text organized into paragraphs, and a footer with a Bates number.",
+    "layout": "Standard US letter-sized document layout with a header, body text, and a footer. The body consists of two main paragraphs.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 10 of 20\n\nEpstein and the Government owed them CVRA duties), especially considering that the details\ninvolve non-parties who are not related to the respondent Government.” DE 324 at 5 (emphasis\nin original). While Judge Marra struck those allegations, he emphasized that “Jane Doe 3 is free\nto reassert these factual details through proper evidentiary proof, should [the victims]\ndemonstrate a good faith basis for believing that such details are pertinent to a matter presented\nfor the Court’s consideration. Judge Marra then denied Ms. Giuffre’s motion to join the case,\nbut allowed her to participate as trial witness: “The necessary ‘participation’ of [Ms. Giuffre] . . .\nin this case can be satisfied by offering . . . properly supported – and relevant, admissible, and\nnon-cumulative – testimony as needed, whether through testimony at trial . . . or affidavits\nsupported in support [of] the relevancy of discovery requests.” DE 324 at 8 (emphasis\ndeleted). In a supplemental order, Judge Marra stated that the victims “may re-refile these\ndocuments omitting the stricken portions.” DE 325. The victims have recently refiled the\ndocuments.\n\nIn light of this history, Dershowitz is flatly incorrect when he asserts that “Judge Marra’s\nOrder appropriately precludes the unredacted documents from being re-filed in this case on the\npublic docket.” Confidentiality Motion at 3. To the contrary, the Order specifically permits\nfactual details about Dershowitz’s sexual abuse of Ms. Giuffre to be presented in regard to\npertinent matters in the federal CVRA case. And certainly nothing in Judge Marra’s Order could\nrender those documents confidential in this state defamation case, where the central issues swirl\naround Edwards and Cassell’s good faith basis for filing the allegations. Indeed, the order is not\nbinding in any way in this case, because it is res judicata only as to Ms. Giuffre (the moving\n\nHOUSE_OVERSIGHT_010766",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 10 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Epstein and the Government owed them CVRA duties), especially considering that the details\ninvolve non-parties who are not related to the respondent Government.” DE 324 at 5 (emphasis\nin original). While Judge Marra struck those allegations, he emphasized that “Jane Doe 3 is free\nto reassert these factual details through proper evidentiary proof, should [the victims]\ndemonstrate a good faith basis for believing that such details are pertinent to a matter presented\nfor the Court’s consideration. Judge Marra then denied Ms. Giuffre’s motion to join the case,\nbut allowed her to participate as trial witness: “The necessary ‘participation’ of [Ms. Giuffre] . . .\nin this case can be satisfied by offering . . . properly supported – and relevant, admissible, and\nnon-cumulative – testimony as needed, whether through testimony at trial . . . or affidavits\nsupported in support [of] the relevancy of discovery requests.” DE 324 at 8 (emphasis\ndeleted). In a supplemental order, Judge Marra stated that the victims “may re-refile these\ndocuments omitting the stricken portions.” DE 325. The victims have recently refiled the\ndocuments.\n\nIn light of this history, Dershowitz is flatly incorrect when he asserts that “Judge Marra’s\nOrder appropriately precludes the unredacted documents from being re-filed in this case on the\npublic docket.” Confidentiality Motion at 3. To the contrary, the Order specifically permits\nfactual details about Dershowitz’s sexual abuse of Ms. Giuffre to be presented in regard to\npertinent matters in the federal CVRA case. And certainly nothing in Judge Marra’s Order could\nrender those documents confidential in this state defamation case, where the central issues swirl\naround Edwards and Cassell’s good faith basis for filing the allegations. Indeed, the order is not\nbinding in any way in this case, because it is res judicata only as to Ms. Giuffre (the moving",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010766",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Epstein",
+      "Judge Marra",
+      "Jane Doe 3",
+      "Ms. Giuffre",
+      "Cassell"
+    ],
+    "organizations": [
+      "Government",
+      "Court"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "DE 324",
+      "DE 325",
+      "HOUSE_OVERSIGHT_010766"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010766"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassells",
+    "recipient": null,
+    "subject": "Response to Dershowitz’s Motion to Determine Confidentiality of Court Records in the case of Edwards, Bradley vs. Dershowitz",
+    "date": null,
+    "references": [
+      "Case No.: CACE 15-000072",
+      "DE 324",
+      "DE 325",
+      "Confidentiality Motion"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is page 10 of a 20-page filing. The context appears to be a defamation case related to allegations made in a federal CVRA (Crime Victims' Rights Act) case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010766.jpg",
+  "house_oversight_id": "010766",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:20:15.118179Z",
+    "model": "gemini-2.5-pro"
+  }
+}

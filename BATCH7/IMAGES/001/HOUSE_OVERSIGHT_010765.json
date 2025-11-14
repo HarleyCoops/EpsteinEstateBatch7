@@ -1,0 +1,96 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010765.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is black on a white background, formatted in a standard serif font. The document discusses legal proceedings involving several individuals and motions filed in a specific case.",
+    "layout": "The document has a header with case information, a main body of text consisting of two paragraphs, and a footer with a document identification number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 9 of 20\n\nJanuary 5, 2015, Dershowitz filed a motion to intervene to argue to have the allegations stricken. DE 282. Dershowitz also argued that Ms. Giuffre had not provided a sworn affidavit attesting to the truth of her allegations. On January 21, 2015, Edwards and Cassell filed a response for Ms. Giuffre and Jane Doe No. 4. DE 291. (Note: This is the second of the three documents Dershowitz seeks to have kept under seal here.) The response enumerated nine specific reasons why Ms. Giuffre's specific allegations against Dershowitz were relevant to the case, including the fact that Ms. Giuffre needed to establish that she was a “victim” in the case, that pending discovery requests concerning Dershowitz-specific documents were pending, and that Dershowitz's role as a defense attorney in the case was highly relevant to the motive for the Government and defense counsel to conceal the plea deal from the victims. DE 291 at 17-26 & n.17. The response included a detailed affidavit from Ms. Giuffre about the sexual abuse she had suffered from Epstein, Dershowitz, and other powerful persons. DE 291-1. On February 6, 2015, Edwards and Cassell filed a further pleading (and affidavit from Ms. Giuffre, see DE 291-1) in support of her motion to intervene. (Note: this affidavit is the third of the three documents Dershowitz seeks to have declared confidential.)\n\nOn April 7, 2015, Judge Marra denied Ms. Giuffre's motion to join the case. Judge Marra concluded that “at this juncture in the proceedings” details about the sexual abuse she had suffered was unnecessary to making a determination “of whether Jane Doe 3 and Jane Doe 4 should be permitted to join [the other victims'] claim that the Government violated their rights under the CVRA. The factual details regarding with whom and where the Jane Does engaged in sexual activities are impertinent to this central claim (i.e., that they were known victims of Mr.\n\nHOUSE_OVERSIGHT_010765",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records\nPage 9 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "January 5, 2015, Dershowitz filed a motion to intervene to argue to have the allegations stricken. DE 282. Dershowitz also argued that Ms. Giuffre had not provided a sworn affidavit attesting to the truth of her allegations. On January 21, 2015, Edwards and Cassell filed a response for Ms. Giuffre and Jane Doe No. 4. DE 291. (Note: This is the second of the three documents Dershowitz seeks to have kept under seal here.) The response enumerated nine specific reasons why Ms. Giuffre's specific allegations against Dershowitz were relevant to the case, including the fact that Ms. Giuffre needed to establish that she was a “victim” in the case, that pending discovery requests concerning Dershowitz-specific documents were pending, and that Dershowitz's role as a defense attorney in the case was highly relevant to the motive for the Government and defense counsel to conceal the plea deal from the victims. DE 291 at 17-26 & n.17. The response included a detailed affidavit from Ms. Giuffre about the sexual abuse she had suffered from Epstein, Dershowitz, and other powerful persons. DE 291-1. On February 6, 2015, Edwards and Cassell filed a further pleading (and affidavit from Ms. Giuffre, see DE 291-1) in support of her motion to intervene. (Note: this affidavit is the third of the three documents Dershowitz seeks to have declared confidential.)\n\nOn April 7, 2015, Judge Marra denied Ms. Giuffre's motion to join the case. Judge Marra concluded that “at this juncture in the proceedings” details about the sexual abuse she had suffered was unnecessary to making a determination “of whether Jane Doe 3 and Jane Doe 4 should be permitted to join [the other victims'] claim that the Government violated their rights under the CVRA. The factual details regarding with whom and where the Jane Does engaged in sexual activities are impertinent to this central claim (i.e., that they were known victims of Mr.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010765",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-05",
+      "2015-01-21",
+      "2015-02-06",
+      "2015-04-07"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassells",
+      "Ms. Giuffre",
+      "Jane Doe No. 4",
+      "Epstein",
+      "Judge Marra",
+      "Jane Doe 3"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "Page 9 of 20",
+      "DE 282",
+      "DE 291",
+      "DE 291 at 17-26 & n.17",
+      "DE 291-1",
+      "HOUSE_OVERSIGHT_010765"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010765"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Edwards and Cassells Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "CACE 15-000072",
+      "DE 282",
+      "DE 291",
+      "DE 291-1"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a summary or response related to a court case, detailing a series of motions and filings. The final sentence of the body text is cut off.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010765.jpg",
+  "house_oversight_id": "010765",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:19:50.372968Z",
+    "model": "gemini-2.5-pro"
+  }
+}

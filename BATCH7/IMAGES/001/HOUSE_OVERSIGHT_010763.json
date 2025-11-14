@@ -1,0 +1,92 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010763.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is in a serif font, black on a white background. The document has a header, a main body of text, and a footer.",
+    "layout": "The document follows a standard legal filing format with a case caption header at the top, followed by the main body of text in paragraphs, and a document identifier in the footer on the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 7 of 20\n\nfollowed (see generally Docket Entry or “DE” 225-1 at 4-5), ultimately leading to a further\nCourt ruling in June 2013 that the Government should produce documents. DE 189. The\nGovernment then produced about 1,500 pages of largely irrelevant materials to the victims (DE\n225-1 at 5), while simultaneously submitting 14,825 pages of relevant materials under seal to the\nCourt. The Government claimed that these pages were “privileged” for various reasons,\nattaching an abbreviated privilege log.\n\nWhile these discovery issues were pending, in the summer of 2014, Edwards and Cassell,\ncontacted Government counsel to request their agreement to add two additional victims to the\ncase, including Ms. Virginia Giuffre (who was identified in court pleadings as “Jane Doe No.\n3”). Edwards and Cassell sought to have her added to the case via stipulation, which would have\navoided the need to include any detailed facts about her abuse. Weeks went by and the\nGovernment – as it had done on a similar request for a stipulation to add another victim – did not\nrespond to counsel’s request for a stipulation. Finally, on December 10, 2014, despite having\nhad four months to provide a position, the Government responded by email to counsel that it was\nseeking more time, indicating that the Government understood that victims’ counsel might need\nto file a motion with the court on the matter immediately. DE 291 at 3-5. Rather than file a\nmotion immediately, victims’ counsel waited and continued to press the Government for a\nstipulation. See id. at 5. Finally, on December 23, 2014 – more than four months after the initial\nrequest for a stipulated joinder into the case – the Government tersely indicated its objection,\nwithout indicating any reason: “Our position is that we oppose adding new petitioners at this\nstage of the litigation.” See DE 291 at 5.\n\nHOUSE_OVERSIGHT_010763",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Edwards, Bradley vs. Dershowitz\nCase No.: CACE 15-000072\nEdwards and Cassells Response to Dershowitz’s Motion to Determine Confidentiality of Court Records\nPage 7 of 20",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "followed (see generally Docket Entry or “DE” 225-1 at 4-5), ultimately leading to a further\nCourt ruling in June 2013 that the Government should produce documents. DE 189. The\nGovernment then produced about 1,500 pages of largely irrelevant materials to the victims (DE\n225-1 at 5), while simultaneously submitting 14,825 pages of relevant materials under seal to the\nCourt. The Government claimed that these pages were “privileged” for various reasons,\nattaching an abbreviated privilege log.\n\nWhile these discovery issues were pending, in the summer of 2014, Edwards and Cassell,\ncontacted Government counsel to request their agreement to add two additional victims to the\ncase, including Ms. Virginia Giuffre (who was identified in court pleadings as “Jane Doe No.\n3”). Edwards and Cassell sought to have her added to the case via stipulation, which would have\navoided the need to include any detailed facts about her abuse. Weeks went by and the\nGovernment – as it had done on a similar request for a stipulation to add another victim – did not\nrespond to counsel’s request for a stipulation. Finally, on December 10, 2014, despite having\nhad four months to provide a position, the Government responded by email to counsel that it was\nseeking more time, indicating that the Government understood that victims’ counsel might need\nto file a motion with the court on the matter immediately. DE 291 at 3-5. Rather than file a\nmotion immediately, victims’ counsel waited and continued to press the Government for a\nstipulation. See id. at 5. Finally, on December 23, 2014 – more than four months after the initial\nrequest for a stipulated joinder into the case – the Government tersely indicated its objection,\nwithout indicating any reason: “Our position is that we oppose adding new petitioners at this\nstage of the litigation.” See DE 291 at 5.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010763",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2013-06",
+      "2014",
+      "2014-12-10",
+      "2014-12-23"
+    ],
+    "people": [
+      "Edwards, Bradley",
+      "Dershowitz",
+      "Cassell",
+      "Cassells",
+      "Ms. Virginia Giuffre",
+      "Jane Doe No. 3"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "CACE 15-000072",
+      "DE 225-1",
+      "DE 189",
+      "DE 291",
+      "HOUSE_OVERSIGHT_010763"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010763"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Edwards and Cassells",
+    "recipient": "Dershowitz",
+    "subject": "Response to Dershowitz’s Motion to Determine Confidentiality of Court Records",
+    "date": null,
+    "references": [
+      "CACE 15-000072",
+      "DE 225-1",
+      "DE 189",
+      "DE 291"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is page 7 of 20. 'Jane Doe No. 3' is identified as an alias for Ms. Virginia Giuffre. The term 'Government' is used generically and likely refers to a specific governmental legal entity not explicitly named on this page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010763.jpg",
+  "house_oversight_id": "010763",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:18:58.066748Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,97 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010757.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white digital image of the first page of a legal court filing. The document is a response to a motion in a civil case. The text is clearly legible and formatted in a standard legal style with a case caption, title, and body paragraphs.",
+    "layout": "The document has a standard legal format. The top left corner contains filing information. The top right contains the court's name and location. The center features the case caption, listing plaintiffs and the defendant, followed by the case number. Below this is the title of the filing. The main body of the text follows, and a document identifier is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Filing # 34801581 E-Filed 11/23/2015 05:53:31 PM\n\nIN THE CIRCUIT COURT OF THE\nSEVENTEENTH JUDICIAL CIRCUIT, IN\nAND FOR BROWARD COUNTY, FLORIDA\n\nCASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,\n\nPlaintiffs,\n\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.\n\n____________________________________/\n\nPLAINTIFFS/COUNTERCLAIM DEFENDANT EDWARDS AND\nCASSELL'S RESPONSE TO DERSHOWITZ'S MOTION TO DETERMINE\nCONFIDENTIALITY OF COURT RECORDS\n\nPlaintiffs/Counterclaim Defendants Bradley J. Edwards and Paul G. Cassell, by and\nthrough their undersigned attorneys, hereby file this response to Dershowitz's Motion to\nDetermine Confidentiality of Court Records. The records at issue are not confidential, and so the\nCourt should deny Dershowitz's motion in its entirety.\n\nThe court records at issue are three court filings by attorneys Edwards and Cassell\nin which they recite their client's (Mr. Virginia Giuffre's) allegations that she was sexually\nabused by Dershowitz. These records are hardly “confidential” in this defamation case,\nwhere the parties have claims and counterclaims about these sexual abuse\nAllegations. Rather, these records are an important part of this case, since they not only\nsupport the conclusion that Dershowitz abused Ms. Giuffre, but also indisputably establish\nEdwards and Cassell's strong basis for filing the allegations on her behalf. Moreover,\ncontrary to assertions made in Dershowitz's motion, these documents have never been\nfound to be “confidential” by any other court. And Dershowitz has repeatedly referred to\n\nHOUSE_OVERSIGHT_010757",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Filing # 34801581 E-Filed 11/23/2015 05:53:31 PM",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "IN THE CIRCUIT COURT OF THE\nSEVENTEENTH JUDICIAL CIRCUIT, IN\nAND FOR BROWARD COUNTY, FLORIDA",
+        "type": "printed"
+      },
+      {
+        "region": "case_caption",
+        "text": "CASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,\n\nPlaintiffs,\n\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.",
+        "type": "printed"
+      },
+      {
+        "region": "document_title",
+        "text": "PLAINTIFFS/COUNTERCLAIM DEFENDANT EDWARDS AND\nCASSELL'S RESPONSE TO DERSHOWITZ'S MOTION TO DETERMINE\nCONFIDENTIALITY OF COURT RECORDS",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Plaintiffs/Counterclaim Defendants Bradley J. Edwards and Paul G. Cassell, by and\nthrough their undersigned attorneys, hereby file this response to Dershowitz's Motion to\nDetermine Confidentiality of Court Records. The records at issue are not confidential, and so the\nCourt should deny Dershowitz's motion in its entirety.\n\nThe court records at issue are three court filings by attorneys Edwards and Cassell\nin which they recite their client's (Mr. Virginia Giuffre's) allegations that she was sexually\nabused by Dershowitz. These records are hardly “confidential” in this defamation case,\nwhere the parties have claims and counterclaims about these sexual abuse\nAllegations. Rather, these records are an important part of this case, since they not only\nsupport the conclusion that Dershowitz abused Ms. Giuffre, but also indisputably establish\nEdwards and Cassell's strong basis for filing the allegations on her behalf. Moreover,\ncontrary to assertions made in Dershowitz's motion, these documents have never been\nfound to be “confidential” by any other court. And Dershowitz has repeatedly referred to",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010757",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-11-23T17:53:31"
+    ],
+    "people": [
+      "BRADLEY J. EDWARDS",
+      "PAUL G. CASSELL",
+      "ALAN M. DERSHOWITZ",
+      "Virginia Giuffre"
+    ],
+    "organizations": [
+      "CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT"
+    ],
+    "locations": [
+      "BROWARD COUNTY, FLORIDA"
+    ],
+    "document_numbers": [
+      "Filing # 34801581",
+      "CASE NO.: CACE 15-000072",
+      "HOUSE_OVERSIGHT_010757"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Court Filing",
+    "sender": "BRADLEY J. EDWARDS and PAUL G. CASSELL",
+    "recipient": "CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT",
+    "subject": "Response to Dershowitz's Motion to Determine Confidentiality of Court Records",
+    "date": "2015-11-23",
+    "references": [
+      "CASE NO.: CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document refers to a client as 'Mr. Virginia Giuffre's', which appears to be a typographical error for 'Ms. Virginia Giuffre's'. The text has been extracted exactly as it appears in the image.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010757.jpg",
+  "house_oversight_id": "010757",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:16:30.899188Z",
+    "model": "gemini-2.5-pro"
+  }
+}
