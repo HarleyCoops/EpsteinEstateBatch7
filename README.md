@@ -1,6 +1,6 @@
 # Epstein Estate Batch 7: House Oversight Committee Documents
 
-## 🔴 LIVE: Auto-Processing and Publishing
+## LIVE: Auto-Processing and Publishing
 
 **This repository is processing itself and publishing findings in real-time.**
 
@@ -12,7 +12,7 @@ As House Oversight Committee documents are analyzed, images are processed, text 
 
 ---
 
-## 📍 **CLICK INTO THE BATCH7 FOLDER TO SEE ALL IMAGES AND EMAILS AS THEY ARE UPLOADED**
+## **CLICK INTO THE BATCH7 FOLDER TO SEE ALL IMAGES AND EMAILS AS THEY ARE UPLOADED**
 
 All processed documents, images, extracted text, and analysis files are available in the [`BATCH7/`](./BATCH7/) directory.
 
@@ -22,21 +22,54 @@ All processed documents, images, extracted text, and analysis files are availabl
 
 ### Automated Document Processing Pipeline
 
-This repository contains an automated system that processes thousands of House Oversight Committee documents using AI-powered analysis:
+This repository contains an automated system that processes thousands of House Oversight Committee documents using AI-powered analysis. The system runs **two parallel processing streams** simultaneously:
 
-1. **Image Processing** - OCR extraction, visual analysis, and structured data extraction from document images
-2. **Text Processing** - Content extraction, context understanding, and narrative assembly from text files  
-3. **Excel/Spreadsheet Analysis** - Structure analysis, entity extraction, and relationship mapping from native files
+#### Part 1: Image Analysis & Character Building
+
+**All images are being individually analyzed by Gemini 2.5 Pro** with:
+- **OCR Text Extraction** - Full text extraction from every image
+- **Character Building** - For each person identified: "Who is this person? Where else do they appear?"
+- **Visual Analysis** - Document type classification, layout analysis, quality assessment
+- **Structured Data Extraction** - Dates, names, organizations, document numbers, signatures
+
+**Output:** JSON analysis files saved alongside each image in [`BATCH7/IMAGES/001/`](./BATCH7/IMAGES/001/)
+
+These JSON files are machine-readable metadata (not great for human reading, but this is just the first step). Each image gets its own `.json` file with complete analysis. You can see example JSON files in [`BATCH7/IMAGES/001/`](./BATCH7/IMAGES/001/) - look for files ending in `.json`.
+
+#### Part 2: Text Document Processing
+
+**Two major text volumes** are being processed:
+
+1. **Volume 1: 2,905 documents** in [`BATCH7/TEXT/001/`](./BATCH7/TEXT/001/)
+   - Each document is analyzed with OCR, text extraction, and character dossier assembly
+   - Extraction JSON files are saved back to this folder alongside each text file
+   - Content extraction, entity identification, context understanding
+   - Documents are grouped into coherent narratives/stories
+
+2. **Volume 2: Additional text documents** in [`BATCH7/TEXT/002/`](./BATCH7/TEXT/002/)
+   - Similar processing pipeline
+
+**Output:** 
+- Per-file extraction JSON files saved alongside text files
+- Assembled stories/narratives in [`BATCH7/output/text_analysis/letters/`](./BATCH7/output/text_analysis/letters/)
+
+#### Processing Timeline
+
+- **Live Processing:** Files are processed as they are released by the House Oversight Committee
+- **Update Frequency:** All changes are automatically committed and published every 5 minutes
+- **Overnight Processing:** The system runs continuously through the night
+- **Expected Completion:** By Friday morning, all files should be fully processed
+- **Continuous Publishing:** Results publish automatically throughout the night
 
 ### Real-Time Publishing
 
 Every 5 minutes, the system:
 
-- ✅ Analyzes new and modified files
-- ✅ Extracts key findings (people, dates, relationships, notable documents)
-- ✅ Highlights mentions of key figures (especially Trump and other central characters)
-- ✅ Generates detailed commit messages summarizing discoveries
-- ✅ Automatically commits and pushes updates to this public repository
+- Analyzes new and modified files
+- Extracts key findings (people, dates, relationships, notable documents)
+- Highlights mentions of key figures (especially Trump and other central characters)
+- Generates detailed commit messages summarizing discoveries
+- Automatically commits and pushes updates to this public repository
 
 ### Live Summary Feed
 
@@ -54,19 +87,30 @@ Check the commit history to see the live feed of discoveries as they happen.
 
 ## What's Being Processed
 
-### Document Types
+### Document Types & Locations
 
-- **Images** (`BATCH7/IMAGES/`) - Photographs, scanned documents, handwritten notes
-- **Text Files** (`BATCH7/TEXT/`) - Emails, transcripts, conversations, memos
-- **Excel Files** (`BATCH7/NATIVES/`) - Spreadsheets, data tables, financial records
+- **Images** (`BATCH7/IMAGES/001/`) - Photographs, scanned documents, handwritten notes
+  - Each image has a corresponding `.json` file with complete analysis
+  - See example: [`BATCH7/IMAGES/001/HOUSE_OVERSIGHT_010477.json`](./BATCH7/IMAGES/001/HOUSE_OVERSIGHT_010477.json)
+  
+- **Text Files** (`BATCH7/TEXT/001/`) - 2,905 documents including emails, transcripts, conversations, memos
+  - Volume 1: 2,905 documents being processed
+  - Each document gets an extraction JSON file saved back to the folder
+  
+- **Excel Files** (`BATCH7/NATIVES/`) - Spreadsheets, data tables, financial records (when processed)
 
 ### Output Files
 
 All analysis results are saved as JSON files alongside the original documents:
 
-- **Image Analysis** - JSON files saved next to each image with OCR text, identified people, document types, and structured data
-- **Text Analysis** - Extracted content, assembled narratives, and grouped stories
-- **Relationship Maps** - Entity connections, dates, and organizational structures
+- **Image Analysis JSON** (`BATCH7/IMAGES/001/*.json`) - OCR text, identified people, character profiles, document types, structured data
+  - These files are machine-readable metadata (first processing step)
+  - Each image gets comprehensive analysis saved as JSON
+  
+- **Text Extraction JSON** (`BATCH7/TEXT/001/*_extraction.json`) - Extracted content, entities, themes, document structure
+  - Saved alongside each text file
+  
+- **Assembled Stories** (`BATCH7/output/text_analysis/letters/`) - Grouped narratives and coherent story assemblies
 
 ---
 
@@ -74,7 +118,7 @@ All analysis results are saved as JSON files alongside the original documents:
 
 ### Processing Technology
 
-- **AI Model:** Google Gemini 2.5 Pro Flash
+- **AI Model:** Google Gemini 2.5 Pro (for image analysis and character building)
 - **Processing Method:** LLM-powered extraction and analysis
 - **Output Format:** Structured JSON with full provenance tracking
 - **Update Mechanism:** Automated git commits via scheduled webhook
@@ -106,10 +150,13 @@ EpsteinEstateBatch7/
 
 ### Processing Status
 
-- **Processing runs continuously** through the night and day
-- **Thousands of files** are being analyzed systematically
-- **Updates publish every 5 minutes** when new findings are discovered
-- **Processing continues** as long as API credits are available
+- **Dual Processing:** Images and text are being processed **in parallel** simultaneously
+- **Continuous Operation:** Processing runs continuously through the night and day
+- **Volume 1:** 2,905 text documents being analyzed (each saved back to `BATCH7/TEXT/001/`)
+- **Image Processing:** All images in `BATCH7/IMAGES/001/` being analyzed with OCR and character building
+- **Auto-Publishing:** Updates commit and publish every 5 minutes automatically
+- **Expected Completion:** By Friday morning, all files should be fully processed
+- **Live Updates:** Results publish throughout the night as processing continues
 
 ### Data Integrity
 

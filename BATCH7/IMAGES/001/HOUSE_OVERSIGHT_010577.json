@@ -1,0 +1,81 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010577.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality, black and white scan of a typed document. The text is arranged in numbered paragraphs and discusses a legal case involving Jeffrey Epstein.",
+    "layout": "Single-column text with a page number centered at the bottom and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards with some insight into how far-reaching Epstein's power was and how addicted Epstein\nwas to sex with children. See Incident Report, Exhibit “A”.\n\n24. The Palm Beach Police Department also collected Epstein's message pads, which\nprovided other names of people that also knew Epstein's scheme to molest children. See\nMessage Pads (Exhibit “J”) (note: the names of underage females have been redacted to protect\nthe anonymity of the underage sex abuse victims). Those message pads show clear indication\nthat Epstein's staff was frequently working to schedule multiple young girls between the ages of\n12 and 16 years old literally every day, often two or three times per day. Id.\n\n25. In light of all of the information of numerous crimes committed by Epstein,\nEdwards learned that the U.S. Attorney's Office began preparing the filing of federal criminal\ncharges against Epstein. For example, in addition to the witness tampering and money\nlaundering charges the U.S. Attorney's Office prepared an 82-page prosecution memo and a 53-\npage indictment of Epstein related to his sexual abuse of children. On September 19, 2007, at\n12:14 PM, AUSA Villafaña wrote to Epstein's counsel, Jay Lefkowitz, \"Jay - I hate to have to be\nfirm about this, but we need to wrap this up by Monday. I will not miss my indictment date\nwhen this has dragged on for several weeks already and then, if things fall apart, be left in a less\nadvantageous position than before the negotiations. I have had an 82-page pros memo and 53-\npage indictment sitting on the shelf since May to engage in these negotiations. There has to be\nan ending date, and that date is Monday.\" These and other communications are within the\ncorrespondence attached as Composite Exhibit “C.”\n\n26. Edwards learned that rather than face the filing of federal felony criminal charges,\nEpstein (through his attorneys) engaged in plea bargain discussions. As a result of those\n\n12\n\nHOUSE_OVERSIGHT_010577",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Edwards with some insight into how far-reaching Epstein's power was and how addicted Epstein\nwas to sex with children. See Incident Report, Exhibit “A”.\n\n24. The Palm Beach Police Department also collected Epstein's message pads, which\nprovided other names of people that also knew Epstein's scheme to molest children. See\nMessage Pads (Exhibit “J”) (note: the names of underage females have been redacted to protect\nthe anonymity of the underage sex abuse victims). Those message pads show clear indication\nthat Epstein's staff was frequently working to schedule multiple young girls between the ages of\n12 and 16 years old literally every day, often two or three times per day. Id.\n\n25. In light of all of the information of numerous crimes committed by Epstein,\nEdwards learned that the U.S. Attorney's Office began preparing the filing of federal criminal\ncharges against Epstein. For example, in addition to the witness tampering and money\nlaundering charges the U.S. Attorney's Office prepared an 82-page prosecution memo and a 53-\npage indictment of Epstein related to his sexual abuse of children. On September 19, 2007, at\n12:14 PM, AUSA Villafaña wrote to Epstein's counsel, Jay Lefkowitz, \"Jay - I hate to have to be\nfirm about this, but we need to wrap this up by Monday. I will not miss my indictment date\nwhen this has dragged on for several weeks already and then, if things fall apart, be left in a less\nadvantageous position than before the negotiations. I have had an 82-page pros memo and 53-\npage indictment sitting on the shelf since May to engage in these negotiations. There has to be\nan ending date, and that date is Monday.\" These and other communications are within the\ncorrespondence attached as Composite Exhibit “C.”\n\n26. Edwards learned that rather than face the filing of federal felony criminal charges,\nEpstein (through his attorneys) engaged in plea bargain discussions. As a result of those",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "12",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010577",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-09-19"
+    ],
+    "people": [
+      "Edwards",
+      "Epstein",
+      "AUSA Villafaña",
+      "Jay Lefkowitz"
+    ],
+    "organizations": [
+      "The Palm Beach Police Department",
+      "U.S. Attorney's Office"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010577"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Document/Report",
+    "sender": "AUSA Villafaña",
+    "recipient": "Jay Lefkowitz",
+    "subject": "Investigation and potential federal indictment of Jeffrey Epstein for sexual abuse of children, witness tampering, and money laundering.",
+    "date": "2007-09-19",
+    "references": [
+      "Incident Report, Exhibit “A”",
+      "Message Pads (Exhibit “J”)",
+      "Composite Exhibit “C”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a single page from a larger report, as indicated by the page number 12. The sender and recipient are identified from a communication quoted within the text, not from the document's header.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010577.jpg",
+  "house_oversight_id": "010577",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:30:18.204470Z",
+    "model": "gemini-2.5-pro"
+  }
+}

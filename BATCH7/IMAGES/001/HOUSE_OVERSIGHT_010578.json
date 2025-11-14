@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010578.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal or official document. The page contains three numbered paragraphs (27, 28, 29) discussing a legal agreement involving Jeffrey Epstein. There is a page number at the bottom center and a document identifier in the bottom right corner.",
+    "layout": "Standard portrait layout with a main body of text, a centered page number at the bottom, and a document identifier in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "discussions, on September 24, 2007, Epstein signed an agreement with the U.S. Attorney’s\nOffice for the Southern District of Florida. Under the agreement, Epstein agreed to plead guilty\nto an indictment pending against him in the 15th Judicial Circuit in and for Palm Beach County\ncharging him with solicitation of prostitution and procurement of minors for prostitution.\nEpstein also agreed that he would receive a thirty month sentence, including 18 months of jail\ntime and 12 months of community control. In exchange, the U.S. Attorney’s Office agreed not to\npursue any federal charges against Epstein. See Non-Prosecution Agreement (Exhibit “K”).\n\n27.     Part of the Non-Prosecution Agreement that Epstein negotiated was a provision in\nwhich the federal government agreed not to prosecute Epstein’s co-conspirators. The co-\nconspirators procured minor females to be molested by Epstein. One of the co-conspirators -\nNadia Marcinkova -even participated in the sex acts with minors (including E.W.) and Epstein.\nSee Incident Report, Exhibit “A”, at 40-42, 49-51; Deposition of Nadia Marcinkova, April 13,\n2010, (hereinafter “Marcinkova Depo.”) at 11 (Deposition attachment #9).\n\n28.     Under the Non-Prosecution Agreement, Epstein was to use his “best efforts” to\nenter into his guilty pleas by October 26, 2007. However, Edwards learned that Epstein violated\nhis agreement with the U.S. Attorney’s Office to do so and delayed entry of his plea. See Letter\nfrom U.S. Attorney R. Alexander Acosta to Lilly Ann Sanchez, Dec. 19, 2007 (Exhibit “L”).\n\n29.     On January 10, 2008 and again on May 30, 2008 E.W. and L.M. received letters\nfrom the FBI advising them that “[t]his case is currently under investigation. This can be a\nlengthy process and we request your continued patience while we conduct a thorough\ninvestigation.” Letters attached at Composite Exhibit “M”. This document is evidence that the\nFBI did not notify E.W. and L.M. that a plea agreement had already been reached that would\n\n13\n\nHOUSE_OVERSIGHT_010578",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "discussions, on September 24, 2007, Epstein signed an agreement with the U.S. Attorney’s\nOffice for the Southern District of Florida. Under the agreement, Epstein agreed to plead guilty\nto an indictment pending against him in the 15th Judicial Circuit in and for Palm Beach County\ncharging him with solicitation of prostitution and procurement of minors for prostitution.\nEpstein also agreed that he would receive a thirty month sentence, including 18 months of jail\ntime and 12 months of community control. In exchange, the U.S. Attorney’s Office agreed not to\npursue any federal charges against Epstein. See Non-Prosecution Agreement (Exhibit “K”).\n\n27.     Part of the Non-Prosecution Agreement that Epstein negotiated was a provision in\nwhich the federal government agreed not to prosecute Epstein’s co-conspirators. The co-\nconspirators procured minor females to be molested by Epstein. One of the co-conspirators -\nNadia Marcinkova -even participated in the sex acts with minors (including E.W.) and Epstein.\nSee Incident Report, Exhibit “A”, at 40-42, 49-51; Deposition of Nadia Marcinkova, April 13,\n2010, (hereinafter “Marcinkova Depo.”) at 11 (Deposition attachment #9).\n\n28.     Under the Non-Prosecution Agreement, Epstein was to use his “best efforts” to\nenter into his guilty pleas by October 26, 2007. However, Edwards learned that Epstein violated\nhis agreement with the U.S. Attorney’s Office to do so and delayed entry of his plea. See Letter\nfrom U.S. Attorney R. Alexander Acosta to Lilly Ann Sanchez, Dec. 19, 2007 (Exhibit “L”).\n\n29.     On January 10, 2008 and again on May 30, 2008 E.W. and L.M. received letters\nfrom the FBI advising them that “[t]his case is currently under investigation. This can be a\nlengthy process and we request your continued patience while we conduct a thorough\ninvestigation.” Letters attached at Composite Exhibit “M”. This document is evidence that the\nFBI did not notify E.W. and L.M. that a plea agreement had already been reached that would",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "13",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010578",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-09-24",
+      "2010-04-13",
+      "2007-10-26",
+      "2007-12-19",
+      "2008-01-10",
+      "2008-05-30"
+    ],
+    "people": [
+      "Epstein",
+      "Nadia Marcinkova",
+      "E.W.",
+      "Edwards",
+      "R. Alexander Acosta",
+      "Lilly Ann Sanchez",
+      "L.M."
+    ],
+    "organizations": [
+      "U.S. Attorney’s Office for the Southern District of Florida",
+      "U.S. Attorney’s Office",
+      "FBI"
+    ],
+    "locations": [
+      "Southern District of Florida",
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010578",
+      "Exhibit “K”",
+      "Exhibit “A”",
+      "Deposition attachment #9",
+      "Exhibit “L”",
+      "Composite Exhibit “M”"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Document/Report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Details of a Non-Prosecution Agreement involving Jeffrey Epstein, his co-conspirators, and subsequent actions by the U.S. Attorney's Office and the FBI.",
+    "date": null,
+    "references": [
+      "Non-Prosecution Agreement (Exhibit “K”)",
+      "Incident Report, Exhibit “A”",
+      "Deposition of Nadia Marcinkova (Marcinkova Depo.)",
+      "Deposition attachment #9",
+      "Letter from U.S. Attorney R. Alexander Acosta to Lilly Ann Sanchez (Exhibit “L”)",
+      "Letters attached at Composite Exhibit “M”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger report or legal filing, indicated by the page number '13' and references to multiple exhibits. The text describes events related to Jeffrey Epstein's 2007 non-prosecution agreement.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010578.jpg",
+  "house_oversight_id": "010578",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:30:46.210230Z",
+    "model": "gemini-2.5-pro"
+  }
+}
