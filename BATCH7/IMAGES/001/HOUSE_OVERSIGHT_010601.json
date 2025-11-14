@@ -1,0 +1,94 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010601.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text discusses legal arguments related to a case involving Jeffrey Epstein, mentioning punitive damages, a settlement, and a Ponzi scheme. The page is numbered 36 at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010601' in the bottom right corner.",
+    "layout": "A standard portrait-oriented document with a main body of justified text, a centered page number at the bottom, and a document identifier in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "sexually assaulted these girls, he had committed several serious torts against them and would be\nliable to them for appropriate damages. See Preceding Undisputed Facts. Because of the\noutrageousness of Epstein’s sexual abuse of minor girls, Edwards reasonably expected that\nEpstein would also be liable for punitive damages to the girls. Because Edwards could show that\nEpstein had molested children for years and designed a complex premeditated scheme to procure\ndifferent minors everyday to satisfy his addiction to sex with minors, the punitive damages\nwould have to be sufficient to deter him from this illegal conduct that he had engaged in daily for\nyears. Epstein was and is a billionaire. See Complaint, ¶49 (referring to “Palm Beach\nBillionaire”); see also Epstein Deposition, February 17, 2010, at 172-176 (Deposition\nAttachment #7) (taking the Fifth when asked whether he is a billionaire). Accordingly, Edwards\nreasonably believed the punitive damages that would have to be awarded against Epstein would\nhave been substantial enough to punish him severely enough for his past conduct as well as deter\nhim from repeating his offenses in the future. See Edwards Affidavit, Exhibit “N” at ¶19.\n\n85. On July 6, 2010, rather than face trial for the civil suits that had been filed against\nhim by L.M., E.W., and Jane Doe, defendant Epstein settled the cases against him. The terms of\nthe settlement are confidential. The settlement amounts are highly probative in the instant action\nas Epstein bases his claims that Edwards was involved in the Ponzi scheme on Epstein’s inability\nto settle the L.M., E.W., and Jane Doe cases for “minimal value”. His continued inability to\nsettle the claims for “minimal value” after the Ponzi scheme was uncovered would be highly\nprobative in discrediting any causal relationship between the Ponzi scheme and Edwards’s\nsettlement negotiations. See Edwards Affidavit, Exhibit “N” at ¶21.\n\nEdwards Non-Involvement in Fraud by Scott Rothstein\n\n36\n\nHOUSE_OVERSIGHT_010601",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "sexually assaulted these girls, he had committed several serious torts against them and would be\nliable to them for appropriate damages. See Preceding Undisputed Facts. Because of the\noutrageousness of Epstein’s sexual abuse of minor girls, Edwards reasonably expected that\nEpstein would also be liable for punitive damages to the girls. Because Edwards could show that\nEpstein had molested children for years and designed a complex premeditated scheme to procure\ndifferent minors everyday to satisfy his addiction to sex with minors, the punitive damages\nwould have to be sufficient to deter him from this illegal conduct that he had engaged in daily for\nyears. Epstein was and is a billionaire. See Complaint, ¶49 (referring to “Palm Beach\nBillionaire”); see also Epstein Deposition, February 17, 2010, at 172-176 (Deposition\nAttachment #7) (taking the Fifth when asked whether he is a billionaire). Accordingly, Edwards\nreasonably believed the punitive damages that would have to be awarded against Epstein would\nhave been substantial enough to punish him severely enough for his past conduct as well as deter\nhim from repeating his offenses in the future. See Edwards Affidavit, Exhibit “N” at ¶19.\n\n85. On July 6, 2010, rather than face trial for the civil suits that had been filed against\nhim by L.M., E.W., and Jane Doe, defendant Epstein settled the cases against him. The terms of\nthe settlement are confidential. The settlement amounts are highly probative in the instant action\nas Epstein bases his claims that Edwards was involved in the Ponzi scheme on Epstein’s inability\nto settle the L.M., E.W., and Jane Doe cases for “minimal value”. His continued inability to\nsettle the claims for “minimal value” after the Ponzi scheme was uncovered would be highly\nprobative in discrediting any causal relationship between the Ponzi scheme and Edwards’s\nsettlement negotiations. See Edwards Affidavit, Exhibit “N” at ¶21.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Edwards Non-Involvement in Fraud by Scott Rothstein",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "36",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010601",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-02-17",
+      "2010-07-06"
+    ],
+    "people": [
+      "Epstein",
+      "Edwards",
+      "L.M.",
+      "E.W.",
+      "Jane Doe",
+      "Scott Rothstein"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010601",
+      "36"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal arguments concerning Jeffrey Epstein, a settlement with L.M., E.W., and Jane Doe, and allegations of involvement in a Ponzi scheme.",
+    "date": null,
+    "references": [
+      "Preceding Undisputed Facts",
+      "Complaint, ¶49",
+      "Epstein Deposition, February 17, 2010, at 172-176",
+      "Deposition Attachment #7",
+      "Edwards Affidavit, Exhibit “N” at ¶19",
+      "Edwards Affidavit, Exhibit “N” at ¶21"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal filing, possibly a motion or a brief, based on its structure and content. The text 'Edwards Non-Involvement in Fraud by Scott Rothstein' might be a section heading. The individuals 'L.M.' and 'E.W.' are referred to by initials, likely to protect their identities as they may be minors or victims.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010601.jpg",
+  "house_oversight_id": "010601",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:39:38.750906Z",
+    "model": "gemini-2.5-pro"
+  }
+}

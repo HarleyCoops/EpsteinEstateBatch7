@@ -1,0 +1,93 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010602.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single, typed page from a legal or official document. The page contains five numbered paragraphs (86 through 90) discussing a Ponzi scheme run by Scott Rothstein and the involvement of Bradley J. Edwards. The page number '37' is centered at the bottom, and a document identifier 'HOUSE_OVERSIGHT_010602' is in the bottom right corner.",
+    "layout": "The document has a standard portrait layout with numbered paragraphs, a centered page number at the bottom, and a document identifier in the bottom-right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "86.      From in or about 2005, through in or about November 2009, Scott Rothstein\nappears to have run a giant Ponzi scheme at his law firm of Rothstein, Rosenfeldt and Adler P.A.\n(“RRA”). This Ponzi scheme involved Rothstein falsely informing investors that settlement\nagreements had been reached with putative defendants based upon claims of sexual harassment\nand/or whistle-blower actions. Rothstein falsely informed the investors that the potential\nsettlement agreements were available for purchase. Plea Agreement at 2, United States v. Scott\nW. Rothstein, No. 9-60331-CR-COHN (S.D. Fla. Jan. 27, 2010) attached hereto as Exhibit “SS.”\n\n87.      It has been alleged that among other cases that Rothstein used to lure investors\ninto his Ponzi scheme were the cases against Epstein that were being handled by Bradley J.\nEdwards, Esq. Edwards had no knowledge of the fraud or any such use of the Epstein cases. See\nEdwards Affidavit, Exhibit “N” at ¶9.\n\n88.      Bradley J. Edwards, Esq., joined RRA in about April 2009 and left RRA in\nNovember 2009 – a period of less than one year. Edwards would not have joined RRA had he\nbeen aware that Scott Rothstein was running a giant Ponzi scheme at the firm. Edwards left\nRRA shortly after learning of Rothstein’s fraudulent scheme. Id. at ¶8.\n\n89.      At no time prior to the public disclosure of Rothstein’s Ponzi scheme did Edwards\nknow or have reason to believe that Rothstein was using legitimate claims that Edwards was\nprosecuting against Epstein for any fraudulent or otherwise illegitimate purpose. Id. at ¶20.\n\n90.      Edwards never substantively discussed the merits of any of his three cases against\nEpstein with Rothstein. See Deposition of Bradley J. Edwards taken March 23, 2010, at 110-16.\n(hereinafter “Edwards Depo”) (Deposition Attachment #22).\n\n37\n\nHOUSE_OVERSIGHT_010602",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "86.      From in or about 2005, through in or about November 2009, Scott Rothstein\nappears to have run a giant Ponzi scheme at his law firm of Rothstein, Rosenfeldt and Adler P.A.\n(“RRA”). This Ponzi scheme involved Rothstein falsely informing investors that settlement\nagreements had been reached with putative defendants based upon claims of sexual harassment\nand/or whistle-blower actions. Rothstein falsely informed the investors that the potential\nsettlement agreements were available for purchase. Plea Agreement at 2, United States v. Scott\nW. Rothstein, No. 9-60331-CR-COHN (S.D. Fla. Jan. 27, 2010) attached hereto as Exhibit “SS.”\n\n87.      It has been alleged that among other cases that Rothstein used to lure investors\ninto his Ponzi scheme were the cases against Epstein that were being handled by Bradley J.\nEdwards, Esq. Edwards had no knowledge of the fraud or any such use of the Epstein cases. See\nEdwards Affidavit, Exhibit “N” at ¶9.\n\n88.      Bradley J. Edwards, Esq., joined RRA in about April 2009 and left RRA in\nNovember 2009 – a period of less than one year. Edwards would not have joined RRA had he\nbeen aware that Scott Rothstein was running a giant Ponzi scheme at the firm. Edwards left\nRRA shortly after learning of Rothstein’s fraudulent scheme. Id. at ¶8.\n\n89.      At no time prior to the public disclosure of Rothstein’s Ponzi scheme did Edwards\nknow or have reason to believe that Rothstein was using legitimate claims that Edwards was\nprosecuting against Epstein for any fraudulent or otherwise illegitimate purpose. Id. at ¶20.\n\n90.      Edwards never substantively discussed the merits of any of his three cases against\nEpstein with Rothstein. See Deposition of Bradley J. Edwards taken March 23, 2010, at 110-16.\n(hereinafter “Edwards Depo”) (Deposition Attachment #22).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "37",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010602",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2005",
+      "2009-11",
+      "2010-01-27",
+      "2009-04",
+      "2010-03-23"
+    ],
+    "people": [
+      "Scott Rothstein",
+      "Scott W. Rothstein",
+      "Bradley J. Edwards",
+      "Epstein"
+    ],
+    "organizations": [
+      "Rothstein, Rosenfeldt and Adler P.A.",
+      "RRA"
+    ],
+    "locations": [
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "9-60331-CR-COHN",
+      "HOUSE_OVERSIGHT_010602"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations regarding Scott Rothstein's Ponzi scheme and the involvement of Bradley J. Edwards and cases against Epstein.",
+    "date": null,
+    "references": [
+      "Plea Agreement at 2, United States v. Scott W. Rothstein, No. 9-60331-CR-COHN",
+      "Exhibit “SS”",
+      "Edwards Affidavit, Exhibit “N” at ¶9",
+      "Id. at ¶8",
+      "Id. at ¶20",
+      "Deposition of Bradley J. Edwards taken March 23, 2010, at 110-16",
+      "Edwards Depo",
+      "Deposition Attachment #22"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a legal filing or investigative report detailing the timeline and knowledge of individuals related to a major financial fraud.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010602.jpg",
+  "house_oversight_id": "010602",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:40:03.330556Z",
+    "model": "gemini-2.5-pro"
+  }
+}

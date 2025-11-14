@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010603.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a single page from a legal document. The page contains five numbered paragraphs (91-95), a centered heading, a page number, and a document identifier in the footer.",
+    "layout": "The document has a standard legal format with numbered paragraphs. There is a page number centered at the bottom and a document control number at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "91. On July 20, 2010, Bradley Edwards received a letter from the U.S. Attorney’s\n\nOffice for the Southern District of Florida – the office responsible for prosecuting Rothstein’s\n\nPonzi scheme. The letter indicated that law enforcement agencies had determined that Edwards\n\nwas “a victim (or potential victim)” of Scott Rothstein’s federal crimes. The letter informed\n\nEdwards of his rights as a victim of Rothstein’s fraud and promised to keep Edwards informed\n\nabout subsequent developments in Rothstein’s prosecution. See Letter attached hereto as Exhibit\n\n“TT.”\n\n92. Jeffrey Epstein filed a complaint with the Florida Bar against Bradley Edwards,\n\nEsq., raising allegations that Edwards and others were involved in the wrongdoing of Scott\n\nRothstein. After investigating the claim, the Florida Bar dismissed this complaint. See Edwards\n\nAffidavit, Exhibit “N” at ¶23.\n\nEpstein Takes the Fifth When Asked Substantive Questions About His Claims Against Edwards\n\n93. On March 17, 2010, defendant Epstein was deposed about his lawsuit against\n\nEdwards. Rather than answer substantive questions about his lawsuit, Epstein repeatedly\n\ninvoked his Fifth Amendment privilege. See Epstein Depo. taken 3/17/10, Deposition\n\nAttachment #1.\n\n94. In his deposition, Epstein took the Fifth rather than answer the question:\n\n“Specifically what are the allegations against you which you contend Mr. Edwards ginned up?”\n\nId. at 34.\n\n95. In his deposition, Epstein took the Fifth rather than name people in California that\n\nEdwards had tried to depose to increase the settlement value of the civil suit he was handling. Id.\n\nat 37.\n\n38\n\nHOUSE_OVERSIGHT_010603",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "91. On July 20, 2010, Bradley Edwards received a letter from the U.S. Attorney’s\n\nOffice for the Southern District of Florida – the office responsible for prosecuting Rothstein’s\n\nPonzi scheme. The letter indicated that law enforcement agencies had determined that Edwards\n\nwas “a victim (or potential victim)” of Scott Rothstein’s federal crimes. The letter informed\n\nEdwards of his rights as a victim of Rothstein’s fraud and promised to keep Edwards informed\n\nabout subsequent developments in Rothstein’s prosecution. See Letter attached hereto as Exhibit\n\n“TT.”\n\n92. Jeffrey Epstein filed a complaint with the Florida Bar against Bradley Edwards,\n\nEsq., raising allegations that Edwards and others were involved in the wrongdoing of Scott\n\nRothstein. After investigating the claim, the Florida Bar dismissed this complaint. See Edwards\n\nAffidavit, Exhibit “N” at ¶23.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Epstein Takes the Fifth When Asked Substantive Questions About His Claims Against Edwards",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "93. On March 17, 2010, defendant Epstein was deposed about his lawsuit against\n\nEdwards. Rather than answer substantive questions about his lawsuit, Epstein repeatedly\n\ninvoked his Fifth Amendment privilege. See Epstein Depo. taken 3/17/10, Deposition\n\nAttachment #1.\n\n94. In his deposition, Epstein took the Fifth rather than answer the question:\n\n“Specifically what are the allegations against you which you contend Mr. Edwards ginned up?”\n\nId. at 34.\n\n95. In his deposition, Epstein took the Fifth rather than name people in California that\n\nEdwards had tried to depose to increase the settlement value of the civil suit he was handling. Id.\n\nat 37.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "38",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010603",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-07-20",
+      "2010-03-17"
+    ],
+    "people": [
+      "Bradley Edwards",
+      "Scott Rothstein",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "U.S. Attorney’s Office for the Southern District of Florida",
+      "Florida Bar"
+    ],
+    "locations": [
+      "Southern District of Florida",
+      "Florida",
+      "California"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010603",
+      "Exhibit “TT”",
+      "Exhibit “N”",
+      "Deposition Attachment #1"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010603"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings involving Bradley Edwards, Jeffrey Epstein, and Scott Rothstein, including a deposition of Epstein.",
+    "date": null,
+    "references": [
+      "Letter attached hereto as Exhibit “TT”",
+      "Edwards Affidavit, Exhibit “N” at ¶23",
+      "Epstein Depo. taken 3/17/10, Deposition Attachment #1"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a page from a larger legal document, likely a motion or affidavit, detailing events related to a lawsuit between Jeffrey Epstein and Bradley Edwards.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010603.jpg",
+  "house_oversight_id": "010603",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:40:27.733743Z",
+    "model": "gemini-2.5-pro"
+  }
+}

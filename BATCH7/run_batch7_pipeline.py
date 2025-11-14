@@ -29,6 +29,21 @@ from batch7_process_images import process_images
 from batch7_process_text import process_text
 
 
+def _guess_default_base_dir(script_dir: Path) -> Path:
+    """Return the most likely project root that contains TEXT/ etc."""
+    candidates = [
+        script_dir,
+        script_dir / "BATCH7",
+        script_dir / "batch7",
+        script_dir.parent / "BATCH7",
+        script_dir.parent / "batch7",
+    ]
+    for candidate in candidates:
+        if candidate.exists() and any((candidate / subdir).exists() for subdir in ("TEXT", "IMAGES", "NATIVES")):
+            return candidate
+    return script_dir
+
+
 def main() -> None:
     # Load .env from script directory or parent directory
     script_dir = Path(__file__).parent.absolute()
@@ -51,9 +66,9 @@ def main() -> None:
         default="all",
         help="Which processing stage to run (default: all)"
     )
-    # Default base_dir to the directory containing this script
+    # Default base_dir to the detected project root, even if this script lives in /batch7
     script_dir = Path(__file__).parent.absolute()
-    default_base_dir = script_dir if script_dir.name == "BATCH7" else script_dir / "BATCH7"
+    default_base_dir = _guess_default_base_dir(script_dir)
     
     ap.add_argument(
         "--base-dir",

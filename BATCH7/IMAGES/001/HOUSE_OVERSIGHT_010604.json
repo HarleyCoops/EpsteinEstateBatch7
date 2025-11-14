@@ -1,0 +1,84 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010604.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a typed legal document. The page contains numbered paragraphs (96-104) detailing questions asked during a deposition and the subject's response. The text is black on a white background. A page number is centered at the bottom, and a document identifier is in the bottom right corner.",
+    "layout": "Single column of text with numbered paragraphs. A page number is centered in the footer, and a document ID is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "96. In his deposition, Epstein took the Fifth rather than answer the question: “Do you\nknow former President Clinton personally.” Id.\n\n97. In his deposition, Epstein took the Fifth rather than answer the question: “Are you\nnow telling us that there were claims against you that were fabricated by Mr. Edwards?” Id. at\n39.\n\n98. In his deposition, Epstein took the Fifth rather than answer the question, “Well,\nwhich of Mr. Edwards’ cases do you contend were fabricated.” Id.\n\n99. In his deposition, Epstein took the Fifth rather than answer the question: “What is\nthe actual value that you contend the claim of E.W. against you has?” Id. at 45.\n\n100. In his deposition, Epstein took the Fifth rather than answer a question about the\nactual value of the claim of L.M. and Jane Doe against him. Id.\n\n101. In his deposition, taken prior to the settlement of Edwards’s clients claims against\nEpstein, Epstein took the Fifth rather than answer the question: “Is there any pending claim\nagainst you which you contend is fabricated?” Id. at 71.\n\n102. In his deposition, Epstein took the Fifth rather than answer the question: “Did you\never have damaging evidence in your garbage?” Id. at 74.\n\n103. In his deposition, Epstein took the Fifth rather than answer the question: “Did\nsexual assaults ever take place on a private airplane on which you were a passenger?” Id. at 88.\n\n104. In his deposition, Epstein took the Fifth rather than answer the question: “Does a\nflight log kept for a private jet used by you contain the names of celebrities, dignitaries or\ninternational figures?” Id. at 89.\n\n39\n\nHOUSE_OVERSIGHT_010604",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "96. In his deposition, Epstein took the Fifth rather than answer the question: “Do you\nknow former President Clinton personally.” Id.\n\n97. In his deposition, Epstein took the Fifth rather than answer the question: “Are you\nnow telling us that there were claims against you that were fabricated by Mr. Edwards?” Id. at\n39.\n\n98. In his deposition, Epstein took the Fifth rather than answer the question, “Well,\nwhich of Mr. Edwards’ cases do you contend were fabricated.” Id.\n\n99. In his deposition, Epstein took the Fifth rather than answer the question: “What is\nthe actual value that you contend the claim of E.W. against you has?” Id. at 45.\n\n100. In his deposition, Epstein took the Fifth rather than answer a question about the\nactual value of the claim of L.M. and Jane Doe against him. Id.\n\n101. In his deposition, taken prior to the settlement of Edwards’s clients claims against\nEpstein, Epstein took the Fifth rather than answer the question: “Is there any pending claim\nagainst you which you contend is fabricated?” Id. at 71.\n\n102. In his deposition, Epstein took the Fifth rather than answer the question: “Did you\never have damaging evidence in your garbage?” Id. at 74.\n\n103. In his deposition, Epstein took the Fifth rather than answer the question: “Did\nsexual assaults ever take place on a private airplane on which you were a passenger?” Id. at 88.\n\n104. In his deposition, Epstein took the Fifth rather than answer the question: “Does a\nflight log kept for a private jet used by you contain the names of celebrities, dignitaries or\ninternational figures?” Id. at 89.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "39",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010604",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Epstein",
+      "President Clinton",
+      "Mr. Edwards",
+      "E.W.",
+      "L.M.",
+      "Jane Doe"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010604",
+      "39"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Summary of Jeffrey Epstein's deposition, detailing his invocation of the Fifth Amendment in response to various questions.",
+    "date": null,
+    "references": [
+      "Id. at 39",
+      "Id. at 45",
+      "Id. at 71",
+      "Id. at 74",
+      "Id. at 88",
+      "Id. at 89"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be an excerpt from a legal filing, summarizing parts of a deposition. The citations 'Id. at [page number]' refer to the original deposition transcript, which is not included in the image.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010604.jpg",
+  "house_oversight_id": "010604",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:40:51.412209Z",
+    "model": "gemini-2.5-pro"
+  }
+}

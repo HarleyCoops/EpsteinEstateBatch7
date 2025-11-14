@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010600.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page is numbered 35 and contains paragraphs 82, 83, and 84. It discusses allegations of witness harassment by someone named Epstein and the settlement of civil claims. The document has a Bates stamp in the bottom right corner.",
+    "layout": "The document has a standard portrait layout with centered headings, numbered paragraphs of justified text, a centered page number at the bottom, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Epstein's Harassment of Witnesses Against Him\n\n82.       At all relevant times Edwards has a good faith basis to believe and did in fact\nbelieve that Epstein engaged in threatening witnesses. See Incident Report, Exhibit “A” at p. 82,\nU.S. Attorney’s Correspondence, Exhibit “C” - Indictments drafted by Federal Government\nagainst Epstein; and Edwards Affidavit, Exhibit “N” at ¶11.\n\n83.       Despite three no contact orders entered against Epstein (see Exhibit C, supra),\nEdwards learned that Epstein continued to harass his victims. For example, Jane Doe had a trial\nset for her civil case against him on July 19, 2010. As that trial date approached, defendant\nEpstein intimidated her in violation of the judicial no-contact orders. On July 1, 2010, he had a\n“private investigator” tail Jane Doe – following her every move, stopping when she stopped,\ndriving when she drove, refusing to pass when she pulled over. When Jane Doe ultimately drove\nto her home, the “private investigator” then parked in his car approximately 25 feet from Jane\nDoe house and flashed his high beam lights intermittently into the home. Even more\nthreateningly, at about 10:30 p.m., when Jane Doe fled her home in the company of a retired\npolice officer employed by Jane Doe’s counsel, the “private investigator” attempted to follow\nJane Doe despite a request not to do so. The retired officer successfully took evasive action and\nplaced Jane Doe in a secure, undisclosed location that night. Other harassing actions against\nJane Doe also followed. See Motion for Contempt filed by Edwards in Jane Doe v. Epstein\ndetailing the event, including Fisten Affidavit attached to Motion, Composite Exhibit “RR.”\n\nEpstein Settlement of Civil Claims Against Him for Sexual Abuse of Children\n\n84.       The civil cases Edwards filed against Epstein on behalf of L.M., E.W., and Jane\nDoe were reasonably perceived by Edwards to be very strong cases. Because Epstein had\n\n35\n\nHOUSE_OVERSIGHT_010600",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Epstein's Harassment of Witnesses Against Him",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "82.       At all relevant times Edwards has a good faith basis to believe and did in fact\nbelieve that Epstein engaged in threatening witnesses. See Incident Report, Exhibit “A” at p. 82,\nU.S. Attorney’s Correspondence, Exhibit “C” - Indictments drafted by Federal Government\nagainst Epstein; and Edwards Affidavit, Exhibit “N” at ¶11.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "83.       Despite three no contact orders entered against Epstein (see Exhibit C, supra),\nEdwards learned that Epstein continued to harass his victims. For example, Jane Doe had a trial\nset for her civil case against him on July 19, 2010. As that trial date approached, defendant\nEpstein intimidated her in violation of the judicial no-contact orders. On July 1, 2010, he had a\n“private investigator” tail Jane Doe – following her every move, stopping when she stopped,\ndriving when she drove, refusing to pass when she pulled over. When Jane Doe ultimately drove\nto her home, the “private investigator” then parked in his car approximately 25 feet from Jane\nDoe house and flashed his high beam lights intermittently into the home. Even more\nthreateningly, at about 10:30 p.m., when Jane Doe fled her home in the company of a retired\npolice officer employed by Jane Doe’s counsel, the “private investigator” attempted to follow\nJane Doe despite a request not to do so. The retired officer successfully took evasive action and\nplaced Jane Doe in a secure, undisclosed location that night. Other harassing actions against\nJane Doe also followed. See Motion for Contempt filed by Edwards in Jane Doe v. Epstein\ndetailing the event, including Fisten Affidavit attached to Motion, Composite Exhibit “RR.”",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Epstein Settlement of Civil Claims Against Him for Sexual Abuse of Children",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "84.       The civil cases Edwards filed against Epstein on behalf of L.M., E.W., and Jane\nDoe were reasonably perceived by Edwards to be very strong cases. Because Epstein had",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "35",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010600",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-07-19",
+      "2010-07-01"
+    ],
+    "people": [
+      "Epstein",
+      "Edwards",
+      "Jane Doe",
+      "L.M.",
+      "E.W.",
+      "Fisten"
+    ],
+    "organizations": [
+      "U.S. Attorney",
+      "Federal Government"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010600",
+      "Exhibit “A”",
+      "Exhibit “C”",
+      "Exhibit “N”",
+      "Composite Exhibit “RR”"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010600"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations of witness harassment by Epstein and settlement of civil claims.",
+    "date": null,
+    "references": [
+      "Incident Report, Exhibit “A”",
+      "U.S. Attorney’s Correspondence, Exhibit “C”",
+      "Edwards Affidavit, Exhibit “N”",
+      "Motion for Contempt filed by Edwards in Jane Doe v. Epstein",
+      "Fisten Affidavit",
+      "Composite Exhibit “RR”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be part of a larger legal or investigative report. The names L.M. and E.W. are presented as initials, likely to protect their identities.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010600.jpg",
+  "house_oversight_id": "010600",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:39:14.833788Z",
+    "model": "gemini-2.5-pro"
+  }
+}
