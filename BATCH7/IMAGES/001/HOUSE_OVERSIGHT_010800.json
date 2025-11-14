@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010800.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal transcript, arranged in a 2x2 grid. The pages are numbered 245, 247, 246, and 248. The text is a question-and-answer dialogue, typical of a deposition or court hearing, with line numbers running down the left side of each page's text block.",
+    "layout": "The image displays four distinct pages. The top row contains page 245 on the left and page 247 on the right. The bottom row contains page 246 on the left and page 248 on the right. Each page has a page number at the top right. A footer is present at the very bottom of the composite image, containing contact information, a page range, and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "245\n1 that you were in the same place at the same time --\n2 A. First --\n3 Q. -- as Virginia Roberts?\n4 MR. SCOTT: Let him ask the question.\n5 THE WITNESS: Okay.\n6 MR. SCOTT: Then you answer the question.\n7 And Mr. Scarola will try to, you know, keep the\n8 emotion down, I'm sure, so we can get through\n9 this with less acrimony between everybody here.\n10 A. Your client has adamantly refused, as well\n11 as the lawyer --\n12 BY MR. SCAROLA:\n13 Q. No, sir, that's nonresponsive to my\n14 question.\n15 MR. SCOTT: Wait a minute.\n16 BY MR. SCAROLA:\n17 Q. My question is: Do you deny that the\n18 flight logs corroborate that you were in the same\n19 place at the same time as Virginia Roberts?\n20 A. So the question includes the word \"time\"\n21 and, therefore, I must answer in this way. Your\n22 client --\n23 Q. How to build a watch?\n24 MR. SCOTT: Wait a minute, you're cutting\n25 him off. He's been trying to answer the\n\n247\n1 I would be very anxious to see any timeframes when\n2 Virginia Roberts claims she was with me on the\n3 island, claims she was with me on -- at the ranch,\n4 claims she was with me on the airplanes, claims she\n5 was with me in Palm Beach. And they will all\n6 conclusively --\n7 Q. You forgot --\n8 A. -- prove --\n9 Q. -- New York. Didn't you mean New York\n10 also?\n11 A. No, I did not mean New York --\n12 Q. Oh, okay.\n13 A. -- because New York is very different. I\n14 was, in fact, in New York for large periods of time.\n15 I was not, in fact, on the island during the\n16 relevant timeframe. I was not in the airplane in\n17 the relevant timeframe. I was not in Jeffrey\n18 Epstein's Palm Beach home in the relevant timeframe.\n19 And I was once in the ranch but under circumstances\n20 where it would have been absolutely impossible for\n21 me to have had any contact with her.\n22 So if you will give me the timeframe, I\n23 will be happy to answer your question. But without\n24 timeframes, that question is an absolutely\n25 inappropriate question. And the answer to it is no.\n\n246\n1 question.\n2 A. Your client has adamantly refused, and her\n3 lawyers and your clients have refused to give me any\n4 timeframes, any timeframes when your client claims\n5 that she had improper -- falsely claims,\n6 perjuriously claims that she had improper sexual\n7 encounters with me.\n8 So how can you possibly ask me a question\n9 that includes the word \"timeframes\" when your client\n10 has refused -- when Virginia Roberts has refused to\n11 give any timeframes? How can it be possible that\n12 the flight logs show me being in the same time and\n13 same place with her when she has refused to describe\n14 any of the times that she claims to have been in\n15 those places?\n16 So the answer to the question is\n17 categorically no, sir.\n18 BY MR. SCAROLA:\n19 Q. What is the question that you are\n20 answering no to?\n21 A. Whether or not the timeframe shows that I\n22 could have been in the same place at the same time\n23 as your client. Absolutely not. Because we don't\n24 know what times your client -- now, if you know\n25 that, you should have produced them in discovery and\n\n248\n1 Q. Well, Mr. Dershowitz, it might be\n2 inappropriate if you had not repeatedly made the\n3 public statements that the flight logs exonerate\n4 you.\n5 A. They do.\n6 Q. So what I am attempting to find out is the\n7 basis upon which you can contend that the flight\n8 logs exonerate you if you are now telling us you\n9 don't even know when it is that you are alleged to\n10 have been in the same place at the same time as\n11 Virginia Roberts.\n12 A. Okay.\n13 Q. So how -- how can you make both those\n14 statements?\n15 A. Very simple, because I know the timeframe\n16 that Virginia Roberts, A, knew Jeffrey Epstein. And\n17 during that timeframe, I can conclusively prove that\n18 I was never on Jeffrey Epstein's island where she\n19 claimed to have sex with me. That the only time I\n20 was at the ranch was with my wife, with the Ashe\n21 family, with my daughter, the house was under\n22 construction, we just simply stayed outside the\n23 house and looked around. That the manifests show I\n24 was never on Jeffrey Epstein's plane during that\n25 period of time. And the manifests show that I never\n\n18 (Pages 245 to 248)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010800",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "245\n1 that you were in the same place at the same time --\n2 A. First --\n3 Q. -- as Virginia Roberts?\n4 MR. SCOTT: Let him ask the question.\n5 THE WITNESS: Okay.\n6 MR. SCOTT: Then you answer the question.\n7 And Mr. Scarola will try to, you know, keep the\n8 emotion down, I'm sure, so we can get through\n9 this with less acrimony between everybody here.\n10 A. Your client has adamantly refused, as well\n11 as the lawyer --\n12 BY MR. SCAROLA:\n13 Q. No, sir, that's nonresponsive to my\n14 question.\n15 MR. SCOTT: Wait a minute.\n16 BY MR. SCAROLA:\n17 Q. My question is: Do you deny that the\n18 flight logs corroborate that you were in the same\n19 place at the same time as Virginia Roberts?\n20 A. So the question includes the word \"time\"\n21 and, therefore, I must answer in this way. Your\n22 client --\n23 Q. How to build a watch?\n24 MR. SCOTT: Wait a minute, you're cutting\n25 him off. He's been trying to answer the",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "247\n1 I would be very anxious to see any timeframes when\n2 Virginia Roberts claims she was with me on the\n3 island, claims she was with me on -- at the ranch,\n4 claims she was with me on the airplanes, claims she\n5 was with me in Palm Beach. And they will all\n6 conclusively --\n7 Q. You forgot --\n8 A. -- prove --\n9 Q. -- New York. Didn't you mean New York\n10 also?\n11 A. No, I did not mean New York --\n12 Q. Oh, okay.\n13 A. -- because New York is very different. I\n14 was, in fact, in New York for large periods of time.\n15 I was not, in fact, on the island during the\n16 relevant timeframe. I was not in the airplane in\n17 the relevant timeframe. I was not in Jeffrey\n18 Epstein's Palm Beach home in the relevant timeframe.\n19 And I was once in the ranch but under circumstances\n20 where it would have been absolutely impossible for\n21 me to have had any contact with her.\n22 So if you will give me the timeframe, I\n23 will be happy to answer your question. But without\n24 timeframes, that question is an absolutely\n25 inappropriate question. And the answer to it is no.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "246\n1 question.\n2 A. Your client has adamantly refused, and her\n3 lawyers and your clients have refused to give me any\n4 timeframes, any timeframes when your client claims\n5 that she had improper -- falsely claims,\n6 perjuriously claims that she had improper sexual\n7 encounters with me.\n8 So how can you possibly ask me a question\n9 that includes the word \"timeframes\" when your client\n10 has refused -- when Virginia Roberts has refused to\n11 give any timeframes? How can it be possible that\n12 the flight logs show me being in the same time and\n13 same place with her when she has refused to describe\n14 any of the times that she claims to have been in\n15 those places?\n16 So the answer to the question is\n17 categorically no, sir.\n18 BY MR. SCAROLA:\n19 Q. What is the question that you are\n20 answering no to?\n21 A. Whether or not the timeframe shows that I\n22 could have been in the same place at the same time\n23 as your client. Absolutely not. Because we don't\n24 know what times your client -- now, if you know\n25 that, you should have produced them in discovery and",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "248\n1 Q. Well, Mr. Dershowitz, it might be\n2 inappropriate if you had not repeatedly made the\n3 public statements that the flight logs exonerate\n4 you.\n5 A. They do.\n6 Q. So what I am attempting to find out is the\n7 basis upon which you can contend that the flight\n8 logs exonerate you if you are now telling us you\n9 don't even know when it is that you are alleged to\n10 have been in the same place at the same time as\n11 Virginia Roberts.\n12 A. Okay.\n13 Q. So how -- how can you make both those\n14 statements?\n15 A. Very simple, because I know the timeframe\n16 that Virginia Roberts, A, knew Jeffrey Epstein. And\n17 during that timeframe, I can conclusively prove that\n18 I was never on Jeffrey Epstein's island where she\n19 claimed to have sex with me. That the only time I\n20 was at the ranch was with my wife, with the Ashe\n21 family, with my daughter, the house was under\n22 construction, we just simply stayed outside the\n23 house and looked around. That the manifests show I\n24 was never on Jeffrey Epstein's plane during that\n25 period of time. And the manifests show that I never",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "18 (Pages 245 to 248)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010800",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Virginia Roberts",
+      "Mr. Scott",
+      "Mr. Scarola",
+      "Mr. Dershowitz",
+      "Jeffrey Epstein",
+      "Ashe"
+    ],
+    "organizations": [
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "Palm Beach",
+      "New York"
+    ],
+    "document_numbers": [
+      "245",
+      "246",
+      "247",
+      "248",
+      "18",
+      "HOUSE_OVERSIGHT_010800"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier: HOUSE_OVERSIGHT_010800"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "A deposition or hearing involving Mr. Dershowitz regarding allegations made by Virginia Roberts and their connection to Jeffrey Epstein, focusing on timeframes, locations, and the relevance of flight logs.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010800"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages from a larger transcript, specifically pages 245, 246, 247, and 248. The speakers are identified by 'Q.' (Questioner, likely an attorney), 'A.' (Answerer, identified as Mr. Dershowitz), and other attorneys like 'MR. SCOTT' and 'MR. SCAROLA'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010800.jpg",
+  "house_oversight_id": "010800",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:37:12.481608Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010799.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single image displaying four pages of a legal deposition transcript. The pages are numbered 241, 243, 242, and 244, arranged in a two-by-two grid. The text is a question-and-answer format with line numbers. A footer at the bottom contains a website, phone number, page range, and a document identifier.",
+    "layout": "Four-quadrant layout, with page 241 top-left, 243 top-right, 242 bottom-left, and 244 bottom-right. Each quadrant contains a single page of a transcript. A footer spans the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "241\n1        (Discussion off the record.)\n2        THE WITNESS: What's Number 6 then? I'm\n3     confused, there were two.\n4        BY MR. SCAROLA:\n5        Q. Have you ever seen Exhibit Number 6\n6     before?\n7        A. Exhibit Number 6. I don't believe so. It\n8     doesn't look familiar to me.\n9        Q. No?\n10       A. It does not look familiar to me.\n11       Q. Did you bother at any time to review\n12    discovery that was produced by Bradley Edwards and\n13    Paul Cassell responding to requests for information\n14    that supported the allegations of Virginia Roberts?\n15       A. I'm not clear what you're asking.\n16       Q. I want to know --\n17       A. In which case? In which case are we\n18    talking?\n19       Q. This case. This case.\n20       A. Right.\n21       Q. Did you ever bother to review the\n22    discovery produced in this case responding to\n23    requests for all of the information that supported\n24    their belief in the truthfulness of Virginia\n25    Roberts' allegations against you?\n\n243\n1     exonerated by any flight logs that were innocent --\n2     that were complete and accurate, of course.\n3        Q. So you made the public statements\n4     repeatedly that the flight logs would exonerate you\n5     without having examined the flight logs to see\n6     whether they were accurate or not; is that correct?\n7        A. Well, I knew -- I knew that --\n8        Q. Did you say those things without having\n9     examined the flight logs?\n10       A. I said those things having looked at some\n11    of the flight logs at some point in time. But I\n12    knew for sure that the flight logs would exonerate\n13    me because I knew I was never on Jeffrey Epstein's\n14    plane with Virginia Roberts or any other young\n15    underage girls. So, I knew that to an absolute\n16    certainty. And I was prepared to say it. I'm\n17    prepared to say it again under oath here.\n18       And if your clients had simply called me\n19    and told me they were planning to do this, we\n20    wouldn't be here today because I could have shown\n21    them in one day that it was impossible for me to\n22    have had sex with their client on the island, in the\n23    ranch, on the airplanes, in Palm Beach. And they\n24    would have, if they were decent and ethical lawyers,\n25    not filed that.\n\n242\n1        A. I don't know if I reviewed everything.\n2     But I certainly, in preparation for this deposition,\n3     reviewed some of the documents that were produced in\n4     discovery. But I can't say I reviewed them all.\n5        Q. Well, having placed such substantial\n6     emphasis during the course of your public\n7     appearances on the flight logs exonerating you, it\n8     would certainly seem logical that one of the things\n9     that you would want to review would be all of the\n10    available -- all of the available flight logs,\n11    right?\n12       A. No.\n13       MR. SCOTT: Objection, argumentative.\n14       A. No.\n15       BY MR. SCAROLA:\n16       Q. No?\n17       A. No. Look, I knew I was never on a plane\n18    with any underage females under any circumstances.\n19    I knew that. I knew that as certainly as I'm\n20    sitting here today. So, I knew absolutely that if\n21    the manifests and the flight logs were accurate,\n22    they would, of course, exonerate me because I am\n23    totally, completely, unequivocally innocent of any\n24    of these charges.\n25       So of course I knew that I would be\n\n244\n1        And there are cases, legal ethics cases\n2     that say that lawyers are obliged to make that phone\n3     call. Lawyers are obliged to check if it's easy to\n4     check. Lawyers are obliged to, particularly when\n5     they're making extremely heinous charges against a\n6     fellow lawyer, do very, very, detailed\n7     investigations. And they didn't do that in this\n8     case.\n9        Q. I will represent to you that I have handed\n10    you all of the available flight logs produced in the\n11    discovery of this case. Could you show me, please,\n12    which of these flight logs exonerates you?\n13       A. The absence of evidence is evidence of\n14    absence. None of the flight logs have me on an\n15    airplane with Virginia Roberts. None of the flight\n16    logs have me on an airplane during the relevant\n17    period of time when Virginia Roberts claims that she\n18    had sex with me in the presence of another woman.\n19       So, the flight logs clearly exonerate me.\n20    There's absolutely no doubt about that.\n21       Q. Well, the flight logs, in fact, confirm\n22    that you were in the same places at the same time as\n23    Virginia Roberts, don't they?\n24       A. No, they do not.\n25       Q. Do you -- do you deny that they confirm\n\n17 (Pages 241 to 244)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010799",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "241\n1        (Discussion off the record.)\n2        THE WITNESS: What's Number 6 then? I'm\n3     confused, there were two.\n4        BY MR. SCAROLA:\n5        Q. Have you ever seen Exhibit Number 6\n6     before?\n7        A. Exhibit Number 6. I don't believe so. It\n8     doesn't look familiar to me.\n9        Q. No?\n10       A. It does not look familiar to me.\n11       Q. Did you bother at any time to review\n12    discovery that was produced by Bradley Edwards and\n13    Paul Cassell responding to requests for information\n14    that supported the allegations of Virginia Roberts?\n15       A. I'm not clear what you're asking.\n16       Q. I want to know --\n17       A. In which case? In which case are we\n18    talking?\n19       Q. This case. This case.\n20       A. Right.\n21       Q. Did you ever bother to review the\n22    discovery produced in this case responding to\n23    requests for all of the information that supported\n24    their belief in the truthfulness of Virginia\n25    Roberts' allegations against you?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "243\n1     exonerated by any flight logs that were innocent --\n2     that were complete and accurate, of course.\n3        Q. So you made the public statements\n4     repeatedly that the flight logs would exonerate you\n5     without having examined the flight logs to see\n6     whether they were accurate or not; is that correct?\n7        A. Well, I knew -- I knew that --\n8        Q. Did you say those things without having\n9     examined the flight logs?\n10       A. I said those things having looked at some\n11    of the flight logs at some point in time. But I\n12    knew for sure that the flight logs would exonerate\n13    me because I knew I was never on Jeffrey Epstein's\n14    plane with Virginia Roberts or any other young\n15    underage girls. So, I knew that to an absolute\n16    certainty. And I was prepared to say it. I'm\n17    prepared to say it again under oath here.\n18       And if your clients had simply called me\n19    and told me they were planning to do this, we\n20    wouldn't be here today because I could have shown\n21    them in one day that it was impossible for me to\n22    have had sex with their client on the island, in the\n23    ranch, on the airplanes, in Palm Beach. And they\n24    would have, if they were decent and ethical lawyers,\n25    not filed that.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "242\n1        A. I don't know if I reviewed everything.\n2     But I certainly, in preparation for this deposition,\n3     reviewed some of the documents that were produced in\n4     discovery. But I can't say I reviewed them all.\n5        Q. Well, having placed such substantial\n6     emphasis during the course of your public\n7     appearances on the flight logs exonerating you, it\n8     would certainly seem logical that one of the things\n9     that you would want to review would be all of the\n10    available -- all of the available flight logs,\n11    right?\n12       A. No.\n13       MR. SCOTT: Objection, argumentative.\n14       A. No.\n15       BY MR. SCAROLA:\n16       Q. No?\n17       A. No. Look, I knew I was never on a plane\n18    with any underage females under any circumstances.\n19    I knew that. I knew that as certainly as I'm\n20    sitting here today. So, I knew absolutely that if\n21    the manifests and the flight logs were accurate,\n22    they would, of course, exonerate me because I am\n23    totally, completely, unequivocally innocent of any\n24    of these charges.\n25       So of course I knew that I would be",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "244\n1        And there are cases, legal ethics cases\n2     that say that lawyers are obliged to make that phone\n3     call. Lawyers are obliged to check if it's easy to\n4     check. Lawyers are obliged to, particularly when\n5     they're making extremely heinous charges against a\n6     fellow lawyer, do very, very, detailed\n7     investigations. And they didn't do that in this\n8     case.\n9        Q. I will represent to you that I have handed\n10    you all of the available flight logs produced in the\n11    discovery of this case. Could you show me, please,\n12    which of these flight logs exonerates you?\n13       A. The absence of evidence is evidence of\n14    absence. None of the flight logs have me on an\n15    airplane with Virginia Roberts. None of the flight\n16    logs have me on an airplane during the relevant\n17    period of time when Virginia Roberts claims that she\n18    had sex with me in the presence of another woman.\n19       So, the flight logs clearly exonerate me.\n20    There's absolutely no doubt about that.\n21       Q. Well, the flight logs, in fact, confirm\n22    that you were in the same places at the same time as\n23    Virginia Roberts, don't they?\n24       A. No, they do not.\n25       Q. Do you -- do you deny that they confirm",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "17 (Pages 241 to 244)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010799",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SCAROLA",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Jeffrey Epstein",
+      "MR. SCOTT"
+    ],
+    "organizations": [
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "the island",
+      "the ranch",
+      "the airplanes",
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "Exhibit Number 6",
+      "HOUSE_OVERSIGHT_010799",
+      "241",
+      "242",
+      "243",
+      "244",
+      "17"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition concerning allegations by Virginia Roberts, review of discovery, and the relevance of flight logs.",
+    "date": null,
+    "references": [
+      "Exhibit Number 6",
+      "HOUSE_OVERSIGHT_010799"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite image showing four pages of a deposition transcript. The pages are numbered 241, 242, 243, and 244. The questioners are identified as MR. SCAROLA and MR. SCOTT. The witness is not explicitly named on these pages.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010799.jpg",
+  "house_oversight_id": "010799",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:36:39.766203Z",
+    "model": "gemini-2.5-pro"
+  }
+}

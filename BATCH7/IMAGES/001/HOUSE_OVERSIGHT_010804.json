@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010804.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript arranged in a 2x2 grid. The pages are numbered 261, 263, 262, and 264. The text is a question-and-answer format typical of a deposition or hearing. A footer at the bottom contains a website, phone number, and a document identifier.",
+    "layout": "Four-up page layout (2x2 grid). Top-left is page 261, top-right is 263, bottom-left is 262, bottom-right is 264. Each page has numbered lines of text. A footer spans the entire width at the bottom.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "261\n1         often than we usually say.\n2              MR. SCAROLA:  Yes, sir.\n3         BY MR. SCAROLA:\n4              Q.   In interviews on January 4 and January 5,\n5         you claim to have completed the necessary work to\n6         identify documents exonerating you within an hour\n7         after learning of the accusations that were made,\n8         correct?\n9              A.   I don't remember having said that.  But\n10        within a minute, I had clear knowledge that every\n11        document in the world would exonerate me because I\n12        knew for absolute certainty that every aspect of her\n13        allegation was totally false.  That's why I\n14        challenged the other side to produce videos, to\n15        produce photographs.  I knew that there could be no\n16        evidence inculpating me because I knew I was\n17        innocent.  So I knew that all of my records would\n18        prove that.\n19             Facts are facts.  And I just wasn't in any\n20        contact or any sexual contact with Virginia Roberts,\n21        and I knew with absolute certainty that the facts\n22        would completely exonerate me.  And if your clients\n23        had just called me, at the courtesy of simply\n24        calling me, I would have been able to point them to\n25        Professor Michael Porter of the Harvard Business\n\n263\n1              A.   Where?  Where?  Can you point to that?\n2         BY MR. SCAROLA:\n3              Q.   Well, I'm asking you, sir, based upon your\n4         superb memory whether you remember having said --\n5              MR. SCOTT:  No, we're going to do --\n6         BY MR. SCAROLA:\n7              Q.   -- on Jan --\n8              MR. SCOTT:  He's going to take a moment to\n9         review the transcript and -- and that's -- any\n10        witness is entitled to do that.  So why don't\n11        we take a break, he'll review transcript and\n12        we'll come back?  We've been going an hour --\n13             MR. SCAROLA:  Because I haven't asked him\n14        a question about the transcript.\n15             MR. SCOTT:  You've asked --\n16             MR. SCAROLA:  I'm asking him a question\n17        about his recollection.\n18             MR. SCOTT:  Based upon what he said in the\n19        transcript.\n20             MR. SCAROLA:  No, I'm asking him whether\n21        he has a recollection of having made public\n22        statements that within an hour, he had gathered\n23        the documents that proved his innocence,\n24        exonerated him.\n25\n\n262\n1         School.  I would have been able to -- to alert them\n2         to the Ashes.  I would have been able to tell them\n3         that I keep little black books which have all of my\n4         travel information.  Although they were in the\n5         basement of Martha's Vineyard, I would have been\n6         happy to go up and get them.\n7              If they had just simply called me, I would\n8         have been able to persuade them without any doubt\n9         that these allegations were false.  If they needed\n10        any persuading because I believe, as I sit here\n11        today, that they knew they were false at the time --\n12        certainly should have known, but I believe I knew they\n13        were false at the time that they leveled them.\n14             Q.   My question related to your gathering\n15        documents that you claim exonerated you --\n16             A.   That's right.\n17             Q.   -- and your public statements were that\n18        within an hour, you --\n19             A.   Can you --\n20             Q.   -- had gathered the documents --\n21             MR. SCOTT:  Listen to the question.\n22        BY MR. SCAROLA:\n23             Q.   -- you had gathered the documents that\n24        exonerated you, correct?\n25             MR. SCOTT:  You can refer.\n\n264\n1         BY MR. SCAROLA:\n2              Q.   Do you remember having made those\n3         statements?\n4              A.   I do not, but it's true.  I was able to\n5         gather documents literally within an hour.  I was\n6         able to call Tom Ashe.  He was able to access his\n7         daughter's journal notes that I had taught his\n8         daughter's class.  I was able to find out where my\n9         other documents were.\n10             My wife made some phone calls immediately.\n11        We called the Canyon Ranch.  We called and\n12        determined the dates of when I was in Florida.  We\n13        called the Porters.  We very, very, very quickly\n14        were able to gather information that conclusively\n15        would prove that she was lying about me having had\n16        sex with me on the island, in the ranch,\n17        particularly those two I was able to prove\n18        conclusively.\n19             And when a woman lies deliberately and\n20        willfully about two instances where she in great\n21        detail claims she had had sex, I think you can be\n22        clear that you should discount any other -- any\n23        other false allegations.\n24             MR. SCOTT:  We've been going for an hour.\n25        Let's take a break for a few minutes.  Then we\n\n22 (Pages 261 to 264)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010804",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "261\n1         often than we usually say.\n2              MR. SCAROLA:  Yes, sir.\n3         BY MR. SCAROLA:\n4              Q.   In interviews on January 4 and January 5,\n5         you claim to have completed the necessary work to\n6         identify documents exonerating you within an hour\n7         after learning of the accusations that were made,\n8         correct?\n9              A.   I don't remember having said that.  But\n10        within a minute, I had clear knowledge that every\n11        document in the world would exonerate me because I\n12        knew for absolute certainty that every aspect of her\n13        allegation was totally false.  That's why I\n14        challenged the other side to produce videos, to\n15        produce photographs.  I knew that there could be no\n16        evidence inculpating me because I knew I was\n17        innocent.  So I knew that all of my records would\n18        prove that.\n19             Facts are facts.  And I just wasn't in any\n20        contact or any sexual contact with Virginia Roberts,\n21        and I knew with absolute certainty that the facts\n22        would completely exonerate me.  And if your clients\n23        had just called me, at the courtesy of simply\n24        calling me, I would have been able to point them to\n25        Professor Michael Porter of the Harvard Business",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "263\n1              A.   Where?  Where?  Can you point to that?\n2         BY MR. SCAROLA:\n3              Q.   Well, I'm asking you, sir, based upon your\n4         superb memory whether you remember having said --\n5              MR. SCOTT:  No, we're going to do --\n6         BY MR. SCAROLA:\n7              Q.   -- on Jan --\n8              MR. SCOTT:  He's going to take a moment to\n9         review the transcript and -- and that's -- any\n10        witness is entitled to do that.  So why don't\n11        we take a break, he'll review transcript and\n12        we'll come back?  We've been going an hour --\n13             MR. SCAROLA:  Because I haven't asked him\n14        a question about the transcript.\n15             MR. SCOTT:  You've asked --\n16             MR. SCAROLA:  I'm asking him a question\n17        about his recollection.\n18             MR. SCOTT:  Based upon what he said in the\n19        transcript.\n20             MR. SCAROLA:  No, I'm asking him whether\n21        he has a recollection of having made public\n22        statements that within an hour, he had gathered\n23        the documents that proved his innocence,\n24        exonerated him.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "262\n1         School.  I would have been able to -- to alert them\n2         to the Ashes.  I would have been able to tell them\n3         that I keep little black books which have all of my\n4         travel information.  Although they were in the\n5         basement of Martha's Vineyard, I would have been\n6         happy to go up and get them.\n7              If they had just simply called me, I would\n8         have been able to persuade them without any doubt\n9         that these allegations were false.  If they needed\n10        any persuading because I believe, as I sit here\n11        today, that they knew they were false at the time --\n12        certainly should have known, but I believe I knew they\n13        were false at the time that they leveled them.\n14             Q.   My question related to your gathering\n15        documents that you claim exonerated you --\n16             A.   That's right.\n17             Q.   -- and your public statements were that\n18        within an hour, you --\n19             A.   Can you --\n20             Q.   -- had gathered the documents --\n21             MR. SCOTT:  Listen to the question.\n22        BY MR. SCAROLA:\n23             Q.   -- you had gathered the documents that\n24        exonerated you, correct?\n25             MR. SCOTT:  You can refer.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "264\n1         BY MR. SCAROLA:\n2              Q.   Do you remember having made those\n3         statements?\n4              A.   I do not, but it's true.  I was able to\n5         gather documents literally within an hour.  I was\n6         able to call Tom Ashe.  He was able to access his\n7         daughter's journal notes that I had taught his\n8         daughter's class.  I was able to find out where my\n9         other documents were.\n10             My wife made some phone calls immediately.\n11        We called the Canyon Ranch.  We called and\n12        determined the dates of when I was in Florida.  We\n13        called the Porters.  We very, very, very quickly\n14        were able to gather information that conclusively\n15        would prove that she was lying about me having had\n16        sex with me on the island, in the ranch,\n17        particularly those two I was able to prove\n18        conclusively.\n19             And when a woman lies deliberately and\n20        willfully about two instances where she in great\n21        detail claims she had had sex, I think you can be\n22        clear that you should discount any other -- any\n23        other false allegations.\n24             MR. SCOTT:  We've been going for an hour.\n25        Let's take a break for a few minutes.  Then we",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "22 (Pages 261 to 264)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010804",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "January 4",
+      "January 5"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Virginia Roberts",
+      "Professor Michael Porter",
+      "Tom Ashe"
+    ],
+    "organizations": [
+      "Harvard Business School",
+      "Canyon Ranch",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Martha's Vineyard",
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010804",
+      "261",
+      "262",
+      "263",
+      "264",
+      "22"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010804"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding allegations and exonerating documents.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010804"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages from a larger transcript, specifically pages 261 through 264. The document identifier 'HOUSE_OVERSIGHT_010804' appears to be a Bates number.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010804.jpg",
+  "house_oversight_id": "010804",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:39:37.506086Z",
+    "model": "gemini-2.5-pro"
+  }
+}

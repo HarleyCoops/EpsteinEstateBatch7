@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010805.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image displaying four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 265, 267, 266, and 268. The text is a dialogue from a deposition or hearing, with line numbers on the left of each page. A footer at the bottom contains a document identifier, page range, and contact information for a reporting service.",
+    "layout": "Four-page grid layout (2x2). Top-left is page 265, top-right is 267, bottom-left is 266, bottom-right is 268. Each page has a header with the page number, a main body with line-numbered text, and a shared footer at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "265\n1      have another hour.\n2           MR. SCAROLA: I'm almost ready to take a\n3      break.\n4           MR. SCOTT: Okay.\n5           MR. SCAROLA: Could you read back the last\n6      question, please?\n7           First of all, I move to strike the\n8      unresponsive speech.\n9           And now read back the last question, if\n10     you would.\n11          (Requested portion read back as follows:)\n12          THE REPORTER: \"Do you remember having\n13     made those statements?\"\n14          Do you want me to read prior to that?\n15          MR. SCAROLA: No, that's fine. That's the\n16     question that I asked.\n17     BY MR. SCAROLA:\n18          Q. Is the answer yes?\n19          A. I don't remember specifically. I do\n20     generally remember having said that your clients\n21     could have easily discovered conclusive proof that\n22     Virginia Roberts was lying about me and that I\n23     had -- because I knew, of course, it was false --\n24          MR. SCAROLA: Tom --\n25          A. -- been able to uncover such proof.\n\n267\n1      and then explained it but now you have it\n2      directly answered. So we're -- we're at a\n3      break point.\n4           MR. SCAROLA: Thank you.\n5           VIDEOGRAPHER: Going off the record. The\n6      time is approximately 11:01 a.m.\n7      (Recess was held from 11:01 a.m. until 11:23 a.m.)\n8           VIDEOGRAPHER: Going back on the record.\n9      The time is approximately 11:23 a.m.\n10     BY MR. SCAROLA:\n11          Q. When did you last travel from outside the\n12     State of Florida to arrive in Florida?\n13          A. The day before yesterday, I think.\n14          Q. And where did you travel from?\n15          A. New York.\n16          Q. When were you last in Boston, in the\n17     Boston area?\n18          A. About two weeks ago.\n19          Q. So, if anyone had represented that you\n20     were going to be traveling from Boston to Florida\n21     this past weekend, that would have been a\n22     misrepresentation; is that correct?\n23          A. I have no idea what you're talking about.\n24          Q. Well, I'm talking about your personal\n25     travels. If anyone had represented that you were\n\n266\n1           MR. SCAROLA: That has nothing to do with\n2      the question I asked --\n3           MR. SCOTT: Let's take -- let's take a\n4      break like I suggested and we'll come back and\n5      then you can ask your question and -- okay?\n6           MR. SCAROLA: Well, while the question is\n7      pending, I would like an answer to the question\n8      before we break.\n9           MR. SCOTT: Did you answer the question?\n10          THE WITNESS: I thought I did.\n11          A. But what -- could you repeat the question?\n12     I'll try to answer it in a yes or no if I can.\n13     BY MR. SCAROLA:\n14          Q. Did you make the statement that within an\n15     hour of learning of these allegations, you had\n16     gathered documents that completely exonerated you?\n17          A. I don't recall those specific words --\n18          Q. Thank you, sir.\n19          A. -- but the truth --\n20          MR. SCOTT: That's it, and I think he\n21     indicated that before.\n22          MR. SCAROLA: That would be very helpful\n23     if we said that and then we stopped and we can\n24     take a break.\n25          MR. SCOTT: He previously had said that\n\n268\n1      going to travel from Boston to Florida and canceled\n2      travel arrangements from Boston to Florida this past\n3      weekend, that would have been a misrepresentation,\n4      correct?\n5           A. I have no idea what you're talking about.\n6      I'm sorry.\n7           Q. Well, what is it that you don't understand\n8      about that question? Either you were in --\n9           A. The basis --\n10          Q. -- Boston and were planning on traveling\n11     from Boston to Florida this past weekend or the last\n12     time you were in Boston was two weeks ago, so you\n13     couldn't have been planning --\n14          A. I --\n15          Q. -- on traveling from Boston to Florida.\n16          A. I was actually in Boston -- now that I\n17     checked my calendar, I was actually in Boston --\n18     here, I have -- aha. It says -- and my calendar\n19     says I was in Boston. Then it says leave for\n20     Florida, but that got changed. Yes, that got\n21     changed, right.\n22          Q. May I see that, please?\n23          A. No, this is my personal calendar.\n24          Q. Yes, I'm sorry, but if you refer to\n25     anything to refresh your recollection --\n\n23 (Pages 265 to 268)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010805",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "265\n1      have another hour.\n2           MR. SCAROLA: I'm almost ready to take a\n3      break.\n4           MR. SCOTT: Okay.\n5           MR. SCAROLA: Could you read back the last\n6      question, please?\n7           First of all, I move to strike the\n8      unresponsive speech.\n9           And now read back the last question, if\n10     you would.\n11          (Requested portion read back as follows:)\n12          THE REPORTER: \"Do you remember having\n13     made those statements?\"\n14          Do you want me to read prior to that?\n15          MR. SCAROLA: No, that's fine. That's the\n16     question that I asked.\n17     BY MR. SCAROLA:\n18          Q. Is the answer yes?\n19          A. I don't remember specifically. I do\n20     generally remember having said that your clients\n21     could have easily discovered conclusive proof that\n22     Virginia Roberts was lying about me and that I\n23     had -- because I knew, of course, it was false --\n24          MR. SCAROLA: Tom --\n25          A. -- been able to uncover such proof.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "267\n1      and then explained it but now you have it\n2      directly answered. So we're -- we're at a\n3      break point.\n4           MR. SCAROLA: Thank you.\n5           VIDEOGRAPHER: Going off the record. The\n6      time is approximately 11:01 a.m.\n7      (Recess was held from 11:01 a.m. until 11:23 a.m.)\n8           VIDEOGRAPHER: Going back on the record.\n9      The time is approximately 11:23 a.m.\n10     BY MR. SCAROLA:\n11          Q. When did you last travel from outside the\n12     State of Florida to arrive in Florida?\n13          A. The day before yesterday, I think.\n14          Q. And where did you travel from?\n15          A. New York.\n16          Q. When were you last in Boston, in the\n17     Boston area?\n18          A. About two weeks ago.\n19          Q. So, if anyone had represented that you\n20     were going to be traveling from Boston to Florida\n21     this past weekend, that would have been a\n22     misrepresentation; is that correct?\n23          A. I have no idea what you're talking about.\n24          Q. Well, I'm talking about your personal\n25     travels. If anyone had represented that you were",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "266\n1           MR. SCAROLA: That has nothing to do with\n2      the question I asked --\n3           MR. SCOTT: Let's take -- let's take a\n4      break like I suggested and we'll come back and\n5      then you can ask your question and -- okay?\n6           MR. SCAROLA: Well, while the question is\n7      pending, I would like an answer to the question\n8      before we break.\n9           MR. SCOTT: Did you answer the question?\n10          THE WITNESS: I thought I did.\n11          A. But what -- could you repeat the question?\n12     I'll try to answer it in a yes or no if I can.\n13     BY MR. SCAROLA:\n14          Q. Did you make the statement that within an\n15     hour of learning of these allegations, you had\n16     gathered documents that completely exonerated you?\n17          A. I don't recall those specific words --\n18          Q. Thank you, sir.\n19          A. -- but the truth --\n20          MR. SCOTT: That's it, and I think he\n21     indicated that before.\n22          MR. SCAROLA: That would be very helpful\n23     if we said that and then we stopped and we can\n24     take a break.\n25          MR. SCOTT: He previously had said that",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "268\n1      going to travel from Boston to Florida and canceled\n2      travel arrangements from Boston to Florida this past\n3      weekend, that would have been a misrepresentation,\n4      correct?\n5           A. I have no idea what you're talking about.\n6      I'm sorry.\n7           Q. Well, what is it that you don't understand\n8      about that question? Either you were in --\n9           A. The basis --\n10          Q. -- Boston and were planning on traveling\n11     from Boston to Florida this past weekend or the last\n12     time you were in Boston was two weeks ago, so you\n13     couldn't have been planning --\n14          A. I --\n15          Q. -- on traveling from Boston to Florida.\n16          A. I was actually in Boston -- now that I\n17     checked my calendar, I was actually in Boston --\n18     here, I have -- aha. It says -- and my calendar\n19     says I was in Boston. Then it says leave for\n20     Florida, but that got changed. Yes, that got\n21     changed, right.\n22          Q. May I see that, please?\n23          A. No, this is my personal calendar.\n24          Q. Yes, I'm sorry, but if you refer to\n25     anything to refresh your recollection --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "23 (Pages 265 to 268)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010805",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "THE REPORTER",
+      "Virginia Roberts",
+      "Tom",
+      "VIDEOGRAPHER",
+      "THE WITNESS"
+    ],
+    "organizations": [
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "Florida",
+      "New York",
+      "Boston",
+      "Boston area"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010805",
+      "265",
+      "266",
+      "267",
+      "268"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding travel from Boston to Florida and prior statements made by the witness.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010805"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition. The pages are presented out of numerical order in the image (265, 267, 266, 268). The witness's name is not explicitly stated but is referred to as 'THE WITNESS'. The document identifier suggests it is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010805.jpg",
+  "house_oversight_id": "010805",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:40:17.216338Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010801.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image displaying four pages of a legal deposition transcript. The pages are numbered 249, 250, 251, and 252. The text is a question-and-answer dialogue with line numbers on the left of each page.",
+    "layout": "Four-panel layout, two columns with two pages each. Page 249 is top-left, 250 is bottom-left, 251 is top-right, and 252 is bottom-right. A footer is visible at the bottom of the composite image.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "249\n1    flew down to Palm Beach during that relevant period\n2    of time.\n3         So I have a timeframe not that was\n4    provided by your client but that was provided by the\n5    externalities of the case. And that timeframe\n6    coupled with the manifests clearly exonerate me\n7    without any doubt.\n8         Q. I want to make sure that I understood what\n9    you just said. \"I never flew down to Palm Beach\n10   during the relevant timeframe\"?\n11        A. I never flew down and stayed at Jeffrey's\n12   house in Palm Beach during that relevant period of\n13   time.\n14        Q. Okay. So you want to withdraw the\n15   statement that you never flew down to Palm Beach --\n16        MR. SCOTT: Objection.\n17   BY MR. SCAROLA:\n18        Q. -- during that relevant period of time --\n19        A. Let me be --\n20        MR. SCOTT: Objection.\n21   BY MR. SCAROLA:\n22        Q. -- and what you want to say is, \"I never\n23   flew down to Palm Beach and stayed at Jeffrey\n24   Epstein's house during that timeframe period,\"\n25   correct?\n\n250\n1         MR. SCOTT: Objection, argumentative --\n2         A. Let me be --\n3         MR. SCOTT: -- mischaracterization.\n4         A. Let me be clear. A, I never flew down on\n5    Jeffrey Epstein's plane during the relevant period\n6    of time.\n7    BY MR. SCAROLA:\n8         Q. Flew down to where?\n9         A. To Palm Beach or anywhere else. I was\n10   never on Jeffrey Epstein's plane, according to the\n11   flight manifests and according to my own records,\n12   during the relevant period of time.\n13        I have independent records of my travel\n14   which demonstrate that I was not in Jeffrey\n15   Epstein's house during the relevant period of time.\n16   And -- but the -- talking about the manifests, the\n17   manifests conclusively prove that I was never on the\n18   airplane during the relevant period of time.\n19        So I don't know how you can claim that the\n20   manifests show that I was with Virginia Roberts\n21   during the relevant period of time. They do not do\n22   that. And if you would testify under oath to that,\n23   I think you could be subject to pretty -- pretty\n24   scathing cross examination. So your statement is\n25   categorically false, sir.\n\n251\n1         Q. Which of the manifests are you referring\n2    to when you claim what you have claimed about the\n3    manifests, Exhibit Number 6 or Exhibit Number 7?\n4         A. I can only tell you that I have reviewed\n5    the manifests and they show, to me, that I was never\n6    on Jeffrey Epstein's airplane during the relevant\n7    period of time. That's all I can tell you now.\n8         I'm not in a position where I look at all\n9    these documents now. If you point me to any\n10   particular trip that shows that I was on Jeffrey\n11   Epstein's plane, I would be happy to respond to\n12   that.\n13        Q. There are two separate collections of\n14   documents purporting to be flight manifests for\n15   Jeffrey Epstein's plane. When you made the public\n16   statements that you made regarding the flight logs\n17   or manifests exonerating you, were you referring to\n18   Exhibit Number 6 or Exhibit Number 7?\n19        A. I have no recollection as to which\n20   particular exhibits, which are formed for purposes\n21   of the legal case, I had reviewed. I know I had\n22   reviewed the manifests. Not only had I reviewed the\n23   manifests, but others reviewed the manifests and\n24   have conclusively told me that their review of the\n25   manifests shows that I was right.\n\n252\n1         Q. Who else --\n2         MR. SCOTT: Avoid any attorney-client\n3    communications either with Ms. -- you know,\n4    with your current lawyers, please.\n5         THE WITNESS: Okay.\n6    BY MR. SCAROLA:\n7         Q. Who told you that they had reviewed the\n8    manifests and they confirmed your position?\n9         MR. SCOTT: Objection, work product.\n10        MR. SCAROLA: Well, you know, Mr. Scott,\n11   he can't have it both ways. He can't insert\n12   into the record the gratuitous statements that\n13   he inserts into the record regarding others\n14   having corroborated his inaccurate testimony,\n15   and then refuse to tell us who those others\n16   are. It constitutes a waiver of whatever\n17   privilege might exist.\n18        MR. SCOTT: He can -- he can tell who they\n19   are. I'm just saying he can't go into\n20   communications with them.\n21        MR. SCAROLA: Well, he's already said what\n22   the communication was. The communication was\n23   these manifests prove your position.\n24        MR. SCOTT: And he's answered that because\n25   based on his review of them, Mr. Scarola.\n\n19 (Pages 249 to 252)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010801",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "249\n1    flew down to Palm Beach during that relevant period\n2    of time.\n3         So I have a timeframe not that was\n4    provided by your client but that was provided by the\n5    externalities of the case. And that timeframe\n6    coupled with the manifests clearly exonerate me\n7    without any doubt.\n8         Q. I want to make sure that I understood what\n9    you just said. \"I never flew down to Palm Beach\n10   during the relevant timeframe\"?\n11        A. I never flew down and stayed at Jeffrey's\n12   house in Palm Beach during that relevant period of\n13   time.\n14        Q. Okay. So you want to withdraw the\n15   statement that you never flew down to Palm Beach --\n16        MR. SCOTT: Objection.\n17   BY MR. SCAROLA:\n18        Q. -- during that relevant period of time --\n19        A. Let me be --\n20        MR. SCOTT: Objection.\n21   BY MR. SCAROLA:\n22        Q. -- and what you want to say is, \"I never\n23   flew down to Palm Beach and stayed at Jeffrey\n24   Epstein's house during that timeframe period,\"\n25   correct?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "250\n1         MR. SCOTT: Objection, argumentative --\n2         A. Let me be --\n3         MR. SCOTT: -- mischaracterization.\n4         A. Let me be clear. A, I never flew down on\n5    Jeffrey Epstein's plane during the relevant period\n6    of time.\n7    BY MR. SCAROLA:\n8         Q. Flew down to where?\n9         A. To Palm Beach or anywhere else. I was\n10   never on Jeffrey Epstein's plane, according to the\n11   flight manifests and according to my own records,\n12   during the relevant period of time.\n13        I have independent records of my travel\n14   which demonstrate that I was not in Jeffrey\n15   Epstein's house during the relevant period of time.\n16   And -- but the -- talking about the manifests, the\n17   manifests conclusively prove that I was never on the\n18   airplane during the relevant period of time.\n19        So I don't know how you can claim that the\n20   manifests show that I was with Virginia Roberts\n21   during the relevant period of time. They do not do\n22   that. And if you would testify under oath to that,\n23   I think you could be subject to pretty -- pretty\n24   scathing cross examination. So your statement is\n25   categorically false, sir.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "251\n1         Q. Which of the manifests are you referring\n2    to when you claim what you have claimed about the\n3    manifests, Exhibit Number 6 or Exhibit Number 7?\n4         A. I can only tell you that I have reviewed\n5    the manifests and they show, to me, that I was never\n6    on Jeffrey Epstein's airplane during the relevant\n7    period of time. That's all I can tell you now.\n8         I'm not in a position where I look at all\n9    these documents now. If you point me to any\n10   particular trip that shows that I was on Jeffrey\n11   Epstein's plane, I would be happy to respond to\n12   that.\n13        Q. There are two separate collections of\n14   documents purporting to be flight manifests for\n15   Jeffrey Epstein's plane. When you made the public\n16   statements that you made regarding the flight logs\n17   or manifests exonerating you, were you referring to\n18   Exhibit Number 6 or Exhibit Number 7?\n19        A. I have no recollection as to which\n20   particular exhibits, which are formed for purposes\n21   of the legal case, I had reviewed. I know I had\n22   reviewed the manifests. Not only had I reviewed the\n23   manifests, but others reviewed the manifests and\n24   have conclusively told me that their review of the\n25   manifests shows that I was right.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "252\n1         Q. Who else --\n2         MR. SCOTT: Avoid any attorney-client\n3    communications either with Ms. -- you know,\n4    with your current lawyers, please.\n5         THE WITNESS: Okay.\n6    BY MR. SCAROLA:\n7         Q. Who told you that they had reviewed the\n8    manifests and they confirmed your position?\n9         MR. SCOTT: Objection, work product.\n10        MR. SCAROLA: Well, you know, Mr. Scott,\n11   he can't have it both ways. He can't insert\n12   into the record the gratuitous statements that\n13   he inserts into the record regarding others\n14   having corroborated his inaccurate testimony,\n15   and then refuse to tell us who those others\n16   are. It constitutes a waiver of whatever\n17   privilege might exist.\n18        MR. SCOTT: He can -- he can tell who they\n19   are. I'm just saying he can't go into\n20   communications with them.\n21        MR. SCAROLA: Well, he's already said what\n22   the communication was. The communication was\n23   these manifests prove your position.\n24        MR. SCOTT: And he's answered that because\n25   based on his review of them, Mr. Scarola.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "19 (Pages 249 to 252)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010801",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Jeffrey Epstein",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010801",
+      "Exhibit Number 6",
+      "Exhibit Number 7",
+      "249",
+      "250",
+      "251",
+      "252"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888)811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness regarding travel on Jeffrey Epstein's airplane and review of flight manifests.",
+    "date": null,
+    "references": [
+      "Exhibit Number 6",
+      "Exhibit Number 7"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a legal transcript from a deposition. The speakers are identified as 'Q' (Questioner, identified as MR. SCAROLA), 'A' (Answerer/Witness), and MR. SCOTT (likely an attorney for the witness). The witness is also referred to as 'THE WITNESS'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010801.jpg",
+  "house_oversight_id": "010801",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:37:47.682553Z",
+    "model": "gemini-2.5-pro"
+  }
+}

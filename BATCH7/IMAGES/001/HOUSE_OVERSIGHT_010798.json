@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010798.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image displaying four pages of a legal transcript arranged in a two-by-two grid. The pages are numbered 237, 239, 238, and 240. The text is in a question-and-answer format with line numbers on the left margin of each page. At the bottom of the image, there is contact information for a reporting service and a document identifier.",
+    "layout": "The image is a composite of four distinct pages. Page 237 is top-left, 239 is top-right, 238 is bottom-left, and 240 is bottom-right. A central footer contains contact information, and a bottom-right footer contains a document number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "237\n1 A. It was whenever -- I'm not sure I ever saw\n2 the date. He just quickly showed me the e-mail and\n3 I quickly looked at it.\n4 Q. The e-mail that you are referencing, in\n5 fact, occurred after you had begun all of your media\n6 appearances with respect to this filing --\n7 A. Let me be very clear about --\n8 Q. -- didn't it, sir?\n9 A. Let me be very clear about my media\n10 appearances so that I --\n11 Q. How about just answering the questions?\n12 A. I'm trying to answer the question. All of\n13 my media appearances --\n14 Q. The question is: Did it occur before or\n15 after your media -- your media appearances? That\n16 doesn't call for a speech --\n17 A. It came --\n18 Q. -- it calls for before or after.\n19 A. It came before some and after some. It\n20 came, for example, before my appearance on the BBC\n21 because they showed me the e-mail before they\n22 interviewed me for the BBC. So some occurred -- it\n23 occurred before some and it occurred after some.\n24 Q. All right. So it is your assertion that\n25 this single e-mail that you have made reference to\n\n239\n1 MR. SCOTT: I think he's answered that\n2 twice.\n3 A. It came after. It came after.\n4 BY MR. SCAROLA:\n5 Q. Thank you, sir. On January 5, you made\n6 another CNN Live appearance in an interview with\n7 Hala Gorani. Do you recall that?\n8 A. I do not recall the name of the person --\n9 Q. Take a look at the transcript, if you\n10 would, please, page 15.\n11 MR. SCOTT: Take a moment to review the\n12 transcript, please, Mr. Dershowitz.\n13 THE WITNESS: Page 15.\n14 MR. SCOTT: Take your time to review that.\n15 A. Yeah, that name is not familiar to me but,\n16 of course, I remember doing an interview, yes.\n17 BY MR. SCAROLA:\n18 Q. All right, sir. And during the course of\n19 that interview, you said: \"There are flight\n20 manifests. They will prove I was never on any\n21 private airplane with any young woman.\" Correct?\n22 A. Yes.\n23 Q. Go to page 17, if you would.\n24 A. Uh-huh.\n25 Q. At line 4 of transcript of that same\n\n238\n1 where Paul Cassell says \"asks Dershowitz these\n2 questions\" occurred before your -- your media\n3 appearances and after your media appearances; is\n4 that correct?\n5 MR. SCOTT: Objection, form, argumentative\n6 and repetitious.\n7 A. It occurred before some of the media\n8 appearances, and it occurred after some of media\n9 appearances, yes.\n10 BY MR. SCAROLA:\n11 Q. Did it occur before your first media\n12 appearances?\n13 A. My first media appearances came as the\n14 result of phone calls I received from --\n15 Q. That's nonresponsive to my question, sir.\n16 A. -- newspapers --\n17 Q. I didn't ask you anything about what your\n18 first media appearances occurred --\n19 A. Yes, you did.\n20 Q. -- as a result of. I asked you --\n21 MR. SCOTT: Let him ask his question.\n22 BY MR. SCAROLA:\n23 Q. -- whether the e-mail that you claimed to\n24 have seen was sent before or after your first media\n25 appearance?\n\n240\n1 interview, you said: \"She made the whole thing up\n2 out of whole cloth. I can prove it by flight\n3 records. I can prove it by my travel records.\"\n4 Did you make those statements?\n5 A. Yes, and they're absolutely true.\n6 Q. Okay. I am going to hand you every flight\n7 record that has been produced in connection with\n8 this litigation.\n9 A. Uh-huh.\n10 MR. SCAROLA: Could we mark that as the\n11 next composite exhibit, please?\n12 (Thereupon, marked as Plaintiff\n13 Exhibit 6.)\n14 MR. SCAROLA: And mark this as the next\n15 composite exhibit, which will be 7.\n16 MR. SCOTT: These are all the flight\n17 manuals?\n18 MR. SCAROLA: As far as I know.\n19 MR. SCOTT: Okay.\n20 MR. SCAROLA: They're the only ones that\n21 have been produced in discovery. If there are\n22 more, I'm going to be interested to hear about\n23 it.\n24 (Thereupon, marked as Plaintiff\n25 Exhibit 7.)\n\n16 (Pages 237 to 240)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010798",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "237\n1 A. It was whenever -- I'm not sure I ever saw\n2 the date. He just quickly showed me the e-mail and\n3 I quickly looked at it.\n4 Q. The e-mail that you are referencing, in\n5 fact, occurred after you had begun all of your media\n6 appearances with respect to this filing --\n7 A. Let me be very clear about --\n8 Q. -- didn't it, sir?\n9 A. Let me be very clear about my media\n10 appearances so that I --\n11 Q. How about just answering the questions?\n12 A. I'm trying to answer the question. All of\n13 my media appearances --\n14 Q. The question is: Did it occur before or\n15 after your media -- your media appearances? That\n16 doesn't call for a speech --\n17 A. It came --\n18 Q. -- it calls for before or after.\n19 A. It came before some and after some. It\n20 came, for example, before my appearance on the BBC\n21 because they showed me the e-mail before they\n22 interviewed me for the BBC. So some occurred -- it\n23 occurred before some and it occurred after some.\n24 Q. All right. So it is your assertion that\n25 this single e-mail that you have made reference to",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "239\n1 MR. SCOTT: I think he's answered that\n2 twice.\n3 A. It came after. It came after.\n4 BY MR. SCAROLA:\n5 Q. Thank you, sir. On January 5, you made\n6 another CNN Live appearance in an interview with\n7 Hala Gorani. Do you recall that?\n8 A. I do not recall the name of the person --\n9 Q. Take a look at the transcript, if you\n10 would, please, page 15.\n11 MR. SCOTT: Take a moment to review the\n12 transcript, please, Mr. Dershowitz.\n13 THE WITNESS: Page 15.\n14 MR. SCOTT: Take your time to review that.\n15 A. Yeah, that name is not familiar to me but,\n16 of course, I remember doing an interview, yes.\n17 BY MR. SCAROLA:\n18 Q. All right, sir. And during the course of\n19 that interview, you said: \"There are flight\n20 manifests. They will prove I was never on any\n21 private airplane with any young woman.\" Correct?\n22 A. Yes.\n23 Q. Go to page 17, if you would.\n24 A. Uh-huh.\n25 Q. At line 4 of transcript of that same",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "238\n1 where Paul Cassell says \"asks Dershowitz these\n2 questions\" occurred before your -- your media\n3 appearances and after your media appearances; is\n4 that correct?\n5 MR. SCOTT: Objection, form, argumentative\n6 and repetitious.\n7 A. It occurred before some of the media\n8 appearances, and it occurred after some of media\n9 appearances, yes.\n10 BY MR. SCAROLA:\n11 Q. Did it occur before your first media\n12 appearances?\n13 A. My first media appearances came as the\n14 result of phone calls I received from --\n15 Q. That's nonresponsive to my question, sir.\n16 A. -- newspapers --\n17 Q. I didn't ask you anything about what your\n18 first media appearances occurred --\n19 A. Yes, you did.\n20 Q. -- as a result of. I asked you --\n21 MR. SCOTT: Let him ask his question.\n22 BY MR. SCAROLA:\n23 Q. -- whether the e-mail that you claimed to\n24 have seen was sent before or after your first media\n25 appearance?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "240\n1 interview, you said: \"She made the whole thing up\n2 out of whole cloth. I can prove it by flight\n3 records. I can prove it by my travel records.\"\n4 Did you make those statements?\n5 A. Yes, and they're absolutely true.\n6 Q. Okay. I am going to hand you every flight\n7 record that has been produced in connection with\n8 this litigation.\n9 A. Uh-huh.\n10 MR. SCAROLA: Could we mark that as the\n11 next composite exhibit, please?\n12 (Thereupon, marked as Plaintiff\n13 Exhibit 6.)\n14 MR. SCAROLA: And mark this as the next\n15 composite exhibit, which will be 7.\n16 MR. SCOTT: These are all the flight\n17 manuals?\n18 MR. SCAROLA: As far as I know.\n19 MR. SCOTT: Okay.\n20 MR. SCAROLA: They're the only ones that\n21 have been produced in discovery. If there are\n22 more, I'm going to be interested to hear about\n23 it.\n24 (Thereupon, marked as Plaintiff\n25 Exhibit 7.)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "16 (Pages 237 to 240)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010798",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "January 5"
+    ],
+    "people": [
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Mr. Dershowitz",
+      "Hala Gorani",
+      "Paul Cassell"
+    ],
+    "organizations": [
+      "BBC",
+      "CNN",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "237",
+      "239",
+      "238",
+      "240",
+      "16",
+      "HOUSE_OVERSIGHT_010798",
+      "Exhibit 6",
+      "Exhibit 7"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010798"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding the timing of an e-mail relative to media appearances, and statements made during a CNN interview.",
+    "date": null,
+    "references": [
+      "Exhibit 6",
+      "Exhibit 7",
+      "Page 15",
+      "Page 17"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding. The date 'January 5' is mentioned without a year. The pages are presented out of numerical order in the composite image (237, 239, 238, 240).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010798.jpg",
+  "house_oversight_id": "010798",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:35:57.696512Z",
+    "model": "gemini-2.5-pro"
+  }
+}

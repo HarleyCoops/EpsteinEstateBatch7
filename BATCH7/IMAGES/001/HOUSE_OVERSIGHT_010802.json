@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010802.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal deposition transcript. The pages are numbered 253, 255, 254, and 256, arranged in a two-by-two grid. The text is in a standard transcript format with line numbers and speaker attributions. A footer at the bottom contains a reporting company's information and a document control number.",
+    "layout": "The image displays four distinct pages of a document. Page 253 is top-left, 255 is top-right, 254 is bottom-left, and 256 is bottom-right. Each page has a page number at the top center. The main text is a single column with line numbers on the left. A footer spans the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "253\n1      BY MR. SCAROLA:\n2           Q. Who told you that the manifests confirm\n3      the accuracy of your public statements?\n4           MR. SCOTT: If it involves lawyer-client\n5      privilege, don't answer it.\n6           THE WITNESS: Okay.\n7      BY MR. SCAROLA:\n8           Q. You're refusing to answer?\n9           A. No, I would like --\n10          MR. SCOTT: I've instruct you not to answer.\n11          A. -- to answer. But I've been instructed\n12     not to answer. I would like to answer.\n13          You've made a statement --\n14          MR. SCOTT: There's no question pending.\n15          THE WITNESS: But he made a statement --\n16          MR. SCOTT: But there's no question\n17     pending, sir.\n18     BY MR. SCAROLA:\n19          Q. What does it mean to make something up out\n20     of whole cloth?\n21          A. It means that Virginia Roberts and your\n22     clients --\n23          Q. No, sir, I haven't asked you anything\n24     about Virginia Roberts. I haven't asked you\n25     anything about my clients.\n\n255\n1      MR. INDYKE: Objection. This is Darren.\n2      Anything that relates to your conversations\n3      with Jeffrey --\n4           THE REPORTER: He's going to have to speak\n5      up.\n6           MR. SCOTT: You're going to have to speak\n7      up a little bit more, Counsel.\n8           MR. INDYKE: Objection. This is Darren\n9      Indyke. Anything that Alan might have to say\n10     to that, to the extent they are covered under\n11     conversations with Jeffrey Epstein, privileged\n12     under attorney-client privileges as well as\n13     common interest privileges.\n14          MR. SCOTT: Do you understand?\n15          THE WITNESS: I do.\n16     BY MR. SCAROLA:\n17          Q. To which your response was: \"Sure, sure,\n18     certainly I have been his lawyer and I did speak to\n19     him about it. I wanted to make sure that his memory\n20     and mine coordinated about when I was at his island.\n21     He was able to check. I was able to check. I\n22     checked with my friends who went with me.\"\n23          Did you make that answer to that question?\n24          A. Yes.\n25          Q. Disclosing the contents of your\n\n254\n1      I want to know what the words \"making\n2      something up out of whole cloth\" mean.\n3           A. I said those words in the context of\n4      Virginia Roberts.\n5           MR. SCOTT: That's -- that's fine. Go\n6      ahead.\n7      BY MR. SCAROLA:\n8           Q. What do the words mean?\n9           A. That there was absolutely no basis for\n10     Virginia Roberts' claim that she had any sexual\n11     contact with me. That the story was entirely false.\n12     I don't know where the metaphor derives about whole\n13     cloth, but certainly that's the common\n14     understanding. And I repeat under oath that\n15     Virginia Roberts made up the entire story about\n16     having sexual contact with me out of whole cloth.\n17          Q. During the course of the same interview\n18     that we have been referencing with Hala Gorani --\n19     for the record, that's H-A-L-A, G-O-R-A-N-I.\n20          A. What page?\n21          Q. Page 19.\n22          You were asked: \"I'm wondering, have you\n23     spoken to Jeffrey Epstein about this since these\n24     allegations came out in this suit in the United\n25     States? Have conversations happened there?\"\n\n256\n1      communication with Jeffrey Epstein, correct?\n2           A. I disclosed that I had spoken to him to\n3      find out whether he had any records of when I was on\n4      his island. And, yes.\n5           MR. INDYKE: Again, this is Darren Indyke.\n6      Jeffrey does not waive any attorney-client\n7      privileges here.\n8      BY MR. SCAROLA:\n9           Q. Well, the reason why you were able to\n10     answer that question and discuss with the press what\n11     Jeffrey Epstein was telling you was because you\n12     weren't his lawyer at that time, right?\n13          A. No, I was his lawyer at that time. I'm\n14     still his lawyer.\n15          Q. Oh, what were you representing him on\n16     then --\n17          A. The ongoing --\n18          Q. -- that is, on January --\n19          MR. SCOTT: Whoa.\n20     BY MR. SCAROLA:\n21          Q. -- on January 5, 2015?\n22          A. The ongoing --\n23          MR. INDYKE: My objection stands.\n24          MR. SCOTT: You can answer what you were\n25     representing him on, I think.\n\n20 (Pages 253 to 256)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010802",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "253\n1      BY MR. SCAROLA:\n2           Q. Who told you that the manifests confirm\n3      the accuracy of your public statements?\n4           MR. SCOTT: If it involves lawyer-client\n5      privilege, don't answer it.\n6           THE WITNESS: Okay.\n7      BY MR. SCAROLA:\n8           Q. You're refusing to answer?\n9           A. No, I would like --\n10          MR. SCOTT: I've instruct you not to answer.\n11          A. -- to answer. But I've been instructed\n12     not to answer. I would like to answer.\n13          You've made a statement --\n14          MR. SCOTT: There's no question pending.\n15          THE WITNESS: But he made a statement --\n16          MR. SCOTT: But there's no question\n17     pending, sir.\n18     BY MR. SCAROLA:\n19          Q. What does it mean to make something up out\n20     of whole cloth?\n21          A. It means that Virginia Roberts and your\n22     clients --\n23          Q. No, sir, I haven't asked you anything\n24     about Virginia Roberts. I haven't asked you\n25     anything about my clients.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "255\n1      MR. INDYKE: Objection. This is Darren.\n2      Anything that relates to your conversations\n3      with Jeffrey --\n4           THE REPORTER: He's going to have to speak\n5      up.\n6           MR. SCOTT: You're going to have to speak\n7      up a little bit more, Counsel.\n8           MR. INDYKE: Objection. This is Darren\n9      Indyke. Anything that Alan might have to say\n10     to that, to the extent they are covered under\n11     conversations with Jeffrey Epstein, privileged\n12     under attorney-client privileges as well as\n13     common interest privileges.\n14          MR. SCOTT: Do you understand?\n15          THE WITNESS: I do.\n16     BY MR. SCAROLA:\n17          Q. To which your response was: \"Sure, sure,\n18     certainly I have been his lawyer and I did speak to\n19     him about it. I wanted to make sure that his memory\n20     and mine coordinated about when I was at his island.\n21     He was able to check. I was able to check. I\n22     checked with my friends who went with me.\"\n23          Did you make that answer to that question?\n24          A. Yes.\n25          Q. Disclosing the contents of your",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "254\n1      I want to know what the words \"making\n2      something up out of whole cloth\" mean.\n3           A. I said those words in the context of\n4      Virginia Roberts.\n5           MR. SCOTT: That's -- that's fine. Go\n6      ahead.\n7      BY MR. SCAROLA:\n8           Q. What do the words mean?\n9           A. That there was absolutely no basis for\n10     Virginia Roberts' claim that she had any sexual\n11     contact with me. That the story was entirely false.\n12     I don't know where the metaphor derives about whole\n13     cloth, but certainly that's the common\n14     understanding. And I repeat under oath that\n15     Virginia Roberts made up the entire story about\n16     having sexual contact with me out of whole cloth.\n17          Q. During the course of the same interview\n18     that we have been referencing with Hala Gorani --\n19     for the record, that's H-A-L-A, G-O-R-A-N-I.\n20          A. What page?\n21          Q. Page 19.\n22          You were asked: \"I'm wondering, have you\n23     spoken to Jeffrey Epstein about this since these\n24     allegations came out in this suit in the United\n25     States? Have conversations happened there?\"",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "256\n1      communication with Jeffrey Epstein, correct?\n2           A. I disclosed that I had spoken to him to\n3      find out whether he had any records of when I was on\n4      his island. And, yes.\n5           MR. INDYKE: Again, this is Darren Indyke.\n6      Jeffrey does not waive any attorney-client\n7      privileges here.\n8      BY MR. SCAROLA:\n9           Q. Well, the reason why you were able to\n10     answer that question and discuss with the press what\n11     Jeffrey Epstein was telling you was because you\n12     weren't his lawyer at that time, right?\n13          A. No, I was his lawyer at that time. I'm\n14     still his lawyer.\n15          Q. Oh, what were you representing him on\n16     then --\n17          A. The ongoing --\n18          Q. -- that is, on January --\n19          MR. SCOTT: Whoa.\n20     BY MR. SCAROLA:\n21          Q. -- on January 5, 2015?\n22          A. The ongoing --\n23          MR. INDYKE: My objection stands.\n24          MR. SCOTT: You can answer what you were\n25     representing him on, I think.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "20 (Pages 253 to 256)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010802",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-05"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "THE WITNESS",
+      "Virginia Roberts",
+      "MR. INDYKE",
+      "Darren",
+      "Jeffrey",
+      "THE REPORTER",
+      "Alan",
+      "Jeffrey Epstein",
+      "Darren Indyke",
+      "Hala Gorani"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "United States"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010802",
+      "253",
+      "254",
+      "255",
+      "256",
+      "19",
+      "20"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010802"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition concerning statements about Virginia Roberts and Jeffrey Epstein.",
+    "date": "2015-01-05",
+    "references": [
+      "Page 19"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four pages from a larger transcript, specifically pages 253, 254, 255, and 256. The name 'Darren' is identified as 'Darren Indyke'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010802.jpg",
+  "house_oversight_id": "010802",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:38:21.194670Z",
+    "model": "gemini-2.5-pro"
+  }
+}

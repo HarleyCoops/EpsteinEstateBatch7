@@ -1,0 +1,102 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010803.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, numbered 257, 258, 259, and 260. The text is in a question-and-answer format typical of a deposition or legal hearing. The pages are arranged in a 2x2 grid on a single sheet.",
+    "layout": "The image is a composite of four distinct pages. Page 257 is in the top-left quadrant, 259 in the top-right, 258 in the bottom-left, and 260 in the bottom-right. Each page has a page number at the top, numbered lines of text in the body, and a footer at the bottom of the overall image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "257\n1     A. The ongoing issues --\n2         MR. SCOTT: But nothing about\n3     communications.\n4     A. Right. The ongoing issues relating to the\n5  NPA, which continue to this day. And I regard\n6  myself as his lawyer basically on all those -- all\n7  those issues.\n8         BY MR. SCAROLA:\n9     Q. So, when the pleadings were filed in the\n10  Crime Victims Rights Act regarding your conduct in\n11  relationship to Virginia Roberts and Jeffrey\n12  Epstein, you were and still are his lawyer in the\n13  Crime Victim's Rights Act case; is that correct?\n14     A. I certainly am bound by lawyer-client\n15  privilege and communications, yes.\n16     Q. Okay. You go on to say in that same\n17  interview: \"Only once in my life have I been in\n18  that area,\" referring to New Mexico.\n19     A. Yes.\n20     Q. \"Only once in my life did my travel\n21  records show I was in New Mexico.\"\n22     A. Uh-huh.\n23     Q. Is that an accurate statement?\n24     A. To the best of my knowledge. I have no\n25  recollection of being in New Mexico other than\n\n259\n1     Q. -- the last 10 years?\n2     A. I would say 15 --\n3     Q. Last 15 --\n4     A. -- years.\n5     Q. -- how about the last 20 years?\n6     A. I have -- I don't think so.\n7     Q. Okay.\n8     A. As I stand here today, I have no\n9  recollection of ever being in New Mexico except to\n10  visit the Ashes in January of 2000.\n11         I'm 77 years old. I've lived a long life.\n12  It is certainly possible that at some earlier point\n13  in my life -- I mean, I've been in most of the\n14  states. But I have no recollection of ever being in\n15  New Mexico.\n16         And I can tell you unequivocally the only\n17  time I was ever at Jeffrey Epstein's ranch was that\n18  one time with my wife with the Ashes, with my\n19  daughter. And we only stayed there for an hour and\n20  the house was not completed. It was under\n21  construction. And I certainly did not have any\n22  sexual encounter or any encounter with Virginia\n23  Roberts during that visit.\n24         MR. SCAROLA: Move to strike the\n25  unresponsive portions of the answer.\n\n258\n1  during that visit to the Ashes, which was not during\n2  the -- the narrower timeframe.\n3         The narrower timeframe, remember, is\n4  Virginia Roberts meets Jeffrey Epstein in the late\n5  summer, the summer just before she's turning 16, of\n6  1999. She says she didn't commence having sexual\n7  activities with any of Epstein's friends until nine\n8  months later. That would put it in March or April\n9  of 2000. This visit occurred in January of 2000.\n10  It's the only time I recall having been in\n11  New Mexico.\n12     Q. Okay. I want to be sure now. You're not\n13  just saying that you were only at Jeffrey Epstein's\n14  ranch in New Mexico once; you are confirming your\n15  statement on national television that you have only\n16  been in New Mexico one time?\n17     A. My recollection right now is that I was\n18  only there once. I have no -- no other recollection\n19  of -- it's conceivable when I was a very young man,\n20  I could have been there. But I have no recollection\n21  of having been there. It certainly -- certainly I\n22  haven't been there recently. And during the\n23  relevant time period, I know I haven't been there.\n24     Q. \"Recently\" means --\n25     A. Fifteen --\n\n260\n1         MR. SCOTT: We don't agree on that point,\n2  so let's go ahead.\n3         MR. SCAROLA: It's of any help, I can\n4  agree that you don't agree to any of my\n5  objections.\n6         MR. SCOTT: No, that's not true. I mean,\n7  I'm trying to work with you, sir.\n8         I have to tell you, this -- this is\n9  obviously one of the most acrimonious\n10  depositions I've sat through in my 40 plus\n11  years because of the personalities involved\n12  here and because of the personal issues. And\n13  it's quite difficult for everybody in this\n14  room.\n15         MR. SCAROLA: I agree.\n16         MR. SCOTT: And all I'm saying, and my\n17  client is -- who's 77, is trying to defend his\n18  life. And I understand you're trying to\n19  vigorously -- and you're a great lawyer --\n20  represent your clients. And it's -- this is\n21  not the typical deposition. And we're trying\n22  our very best, both of us.\n23         MR. SCAROLA: Thank you. And you're\n24  right, you and I do agree on something.\n25         MR. SCOTT: As you said yesterday, more\n\n21 (Pages 257 to 260)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010803",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "257\n1     A. The ongoing issues --\n2         MR. SCOTT: But nothing about\n3     communications.\n4     A. Right. The ongoing issues relating to the\n5  NPA, which continue to this day. And I regard\n6  myself as his lawyer basically on all those -- all\n7  those issues.\n8         BY MR. SCAROLA:\n9     Q. So, when the pleadings were filed in the\n10  Crime Victims Rights Act regarding your conduct in\n11  relationship to Virginia Roberts and Jeffrey\n12  Epstein, you were and still are his lawyer in the\n13  Crime Victim's Rights Act case; is that correct?\n14     A. I certainly am bound by lawyer-client\n15  privilege and communications, yes.\n16     Q. Okay. You go on to say in that same\n17  interview: \"Only once in my life have I been in\n18  that area,\" referring to New Mexico.\n19     A. Yes.\n20     Q. \"Only once in my life did my travel\n21  records show I was in New Mexico.\"\n22     A. Uh-huh.\n23     Q. Is that an accurate statement?\n24     A. To the best of my knowledge. I have no\n25  recollection of being in New Mexico other than",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "259\n1     Q. -- the last 10 years?\n2     A. I would say 15 --\n3     Q. Last 15 --\n4     A. -- years.\n5     Q. -- how about the last 20 years?\n6     A. I have -- I don't think so.\n7     Q. Okay.\n8     A. As I stand here today, I have no\n9  recollection of ever being in New Mexico except to\n10  visit the Ashes in January of 2000.\n11         I'm 77 years old. I've lived a long life.\n12  It is certainly possible that at some earlier point\n13  in my life -- I mean, I've been in most of the\n14  states. But I have no recollection of ever being in\n15  New Mexico.\n16         And I can tell you unequivocally the only\n17  time I was ever at Jeffrey Epstein's ranch was that\n18  one time with my wife with the Ashes, with my\n19  daughter. And we only stayed there for an hour and\n20  the house was not completed. It was under\n21  construction. And I certainly did not have any\n22  sexual encounter or any encounter with Virginia\n23  Roberts during that visit.\n24         MR. SCAROLA: Move to strike the\n25  unresponsive portions of the answer.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "258\n1  during that visit to the Ashes, which was not during\n2  the -- the narrower timeframe.\n3         The narrower timeframe, remember, is\n4  Virginia Roberts meets Jeffrey Epstein in the late\n5  summer, the summer just before she's turning 16, of\n6  1999. She says she didn't commence having sexual\n7  activities with any of Epstein's friends until nine\n8  months later. That would put it in March or April\n9  of 2000. This visit occurred in January of 2000.\n10  It's the only time I recall having been in\n11  New Mexico.\n12     Q. Okay. I want to be sure now. You're not\n13  just saying that you were only at Jeffrey Epstein's\n14  ranch in New Mexico once; you are confirming your\n15  statement on national television that you have only\n16  been in New Mexico one time?\n17     A. My recollection right now is that I was\n18  only there once. I have no -- no other recollection\n19  of -- it's conceivable when I was a very young man,\n20  I could have been there. But I have no recollection\n21  of having been there. It certainly -- certainly I\n22  haven't been there recently. And during the\n23  relevant time period, I know I haven't been there.\n24     Q. \"Recently\" means --\n25     A. Fifteen --",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "260\n1         MR. SCOTT: We don't agree on that point,\n2  so let's go ahead.\n3         MR. SCAROLA: It's of any help, I can\n4  agree that you don't agree to any of my\n5  objections.\n6         MR. SCOTT: No, that's not true. I mean,\n7  I'm trying to work with you, sir.\n8         I have to tell you, this -- this is\n9  obviously one of the most acrimonious\n10  depositions I've sat through in my 40 plus\n11  years because of the personalities involved\n12  here and because of the personal issues. And\n13  it's quite difficult for everybody in this\n14  room.\n15         MR. SCAROLA: I agree.\n16         MR. SCOTT: And all I'm saying, and my\n17  client is -- who's 77, is trying to defend his\n18  life. And I understand you're trying to\n19  vigorously -- and you're a great lawyer --\n20  represent your clients. And it's -- this is\n21  not the typical deposition. And we're trying\n22  our very best, both of us.\n23         MR. SCAROLA: Thank you. And you're\n24  right, you and I do agree on something.\n25         MR. SCOTT: As you said yesterday, more",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "21 (Pages 257 to 260)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010803",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1999",
+      "2000-01",
+      "2000-03",
+      "2000-04"
+    ],
+    "people": [
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Virginia Roberts",
+      "Jeffrey Epstein",
+      "the Ashes"
+    ],
+    "organizations": [
+      "NPA"
+    ],
+    "locations": [
+      "New Mexico"
+    ],
+    "document_numbers": [
+      "257",
+      "258",
+      "259",
+      "260",
+      "HOUSE_OVERSIGHT_010803"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition regarding conduct in the Crime Victims Rights Act case involving Virginia Roberts and Jeffrey Epstein, and visits to New Mexico.",
+    "date": null,
+    "references": [
+      "Crime Victims Rights Act"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a deposition transcript. The speakers are identified as 'Q' (Questioner, likely MR. SCAROLA), 'A' (Answerer, likely the client of MR. SCOTT), MR. SCOTT, and MR. SCAROLA. The document ID 'HOUSE_OVERSIGHT_010803' suggests it is part of a collection from a House Oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010803.jpg",
+  "house_oversight_id": "010803",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:38:56.455957Z",
+    "model": "gemini-2.5-pro"
+  }
+}
