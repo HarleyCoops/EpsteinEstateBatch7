@@ -1,0 +1,82 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010716.jpg",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A color photograph showing two actors, a woman and a man, posing with Oscar statuettes. The woman, Lupita Nyong'o, is on the left wearing a light blue gown and holding her award. The man, Jared Leto, is next to her, wearing a white tuxedo jacket and black pants, also holding his award with a joyful expression. To their right is a large, oversized Oscar statue. The base of the large statue is surrounded by colorful flowers. Text is overlaid at the bottom of the image.",
+    "layout": "The two individuals are positioned on the left and center of the frame. A large statue is on the right. Text is overlaid in the bottom third of the image, with a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "A.M.P.A.S.\nPeggy Siegal's Oscar Diary\nto Call\nHOUSE_OVERSIGHT_010716",
+    "text_regions": [
+      {
+        "region": "object_label",
+        "text": "A.M.P.A.S.",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Peggy Siegal's Oscar Diary",
+        "type": "printed"
+      },
+      {
+        "region": "title",
+        "text": "to Call",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010716",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Peggy Siegal",
+      "Lupita Nyong'o",
+      "Jared Leto"
+    ],
+    "organizations": [
+      "A.M.P.A.S."
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010716"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010716"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photograph",
+    "sender": null,
+    "recipient": null,
+    "subject": "Peggy Siegal's Oscar Diary",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010716"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The people in the photograph are identified as Lupita Nyong'o and Jared Leto based on general knowledge of the 86th Academy Awards in 2014, though their names are not explicitly printed in the image. The text 'A.M.P.A.S.' is visible on the base of the large Oscar statue.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010716.jpg",
+  "house_oversight_id": "010716",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:56:50.202750Z",
+    "model": "gemini-2.5-pro"
+  }
+}

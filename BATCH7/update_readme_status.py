@@ -7,53 +7,47 @@ with the timestamp of the most recent git commit.
 """
 from __future__ import annotations
 
+import os
 import sys
+import subprocess
 from pathlib import Path
-from datetime import datetime, timezone
-import re
+from datetime import datetime
 
 
-LAST_UPDATE_PATTERNS = [
-    re.compile(r"(\*\*Last Update:\*\*\s*)(.*?)(\s{2,})", re.IGNORECASE),
-    re.compile(r"(\*\*Last Updated:\*\*\s*)(.*?)(\s{2,})", re.IGNORECASE),
-    re.compile(r"(last update was \*\*)(.*?)(\*\*)", re.IGNORECASE),
-]
-
-
-def get_current_timestamp() -> str:
-    """Return a UTC timestamp string for README use."""
-    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M:%S UTC")
-
-
-def update_timestamps(content: str, timestamp: str) -> tuple[str, bool]:
-    """Replace any Last Update markers with the provided timestamp."""
-    updated = False
-    
-    for pattern in LAST_UPDATE_PATTERNS:
-        def replacement(match: re.Match, *, pattern=pattern) -> str:
-            nonlocal updated
-            updated = True
-            suffix = ""
-            if match.lastindex and match.lastindex >= 3:
-                suffix = match.group(3)
-            return f"{match.group(1)}{timestamp}{suffix}"
-        
-        content, count = pattern.subn(replacement, content)
-        if count:
-            updated = True
-    
-    return content, updated
+def get_last_commit_time(base_dir: Path) -> str:
+    """Get the timestamp of the last git commit."""
+    try:
+        result = subprocess.run(
+            ["git", "log", "-1", "--format=%ci"],
+            cwd=base_dir,
+            capture_output=True,
+            text=True,
+            check=False
+        )
+        if result.returncode == 0 and result.stdout.strip():
+            # Parse git timestamp and format it nicely
+            git_time = result.stdout.strip()
+            try:
+                # Git format: "2024-01-15 14:30:00 -0500"
+                dt = datetime.strptime(git_time[:19], "%Y-%m-%d %H:%M:%S")
+                return dt.strftime("%Y-%m-%d %H:%M:%S")
+            except:
+                return git_time[:19] if len(git_time) >= 19 else git_time
+        return "Never"
+    except Exception:
+        return "Unknown"
 
 
 def update_readme(base_dir: Path) -> bool:
-    """Update README.md files with the current timestamp."""
+    """Update README.md files with latest commit time."""
     # Update both root README and BATCH7 README
     readme_files = [
         base_dir / "README.md",  # Root README
         base_dir / "BATCH7" / "README.md"  # BATCH7 README
     ]
     
-    current_timestamp = get_current_timestamp()
+    # Get last commit time
+    last_commit_time = get_last_commit_time(base_dir)
     
     updated_count = 0
     for readme_path in readme_files:
@@ -68,20 +62,45 @@ def update_readme(base_dir: Path) -> bool:
             print(f"Error reading {readme_path}: {e}", file=sys.stderr)
             continue
         
-        updated_content, changed = update_timestamps(content, current_timestamp)
+        # Replace placeholder OR hardcoded timestamp
+        original_content = content
         
-        if changed:
+        # Replace placeholder if it exists
+        if "{LAST_GIT_COMMIT_TIME}" in content:
+            content = content.replace("{LAST_GIT_COMMIT_TIME}", last_commit_time)
+        
+        # Also replace any hardcoded timestamp pattern
+        import re
+        # Pattern to match: **Last Update:** followed by timestamp (with or without UTC)
+        pattern = r'(\*\*Last Update:\*\*\s*)\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(\s*(?:UTC)?\s*\n)'
+        if re.search(pattern, content):
+            content = re.sub(pattern, r'\1' + last_commit_time + r'\2', content)
+        
+        # Pattern for "last update was **timestamp**"
+        pattern2 = r'(last update was \*\*)\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(\s*(?:UTC)?\s*\*\*)'
+        if re.search(pattern2, content, re.IGNORECASE):
+            content = re.sub(pattern2, r'\1' + last_commit_time + r'\2', content, flags=re.IGNORECASE)
+        
+        # More flexible pattern - any timestamp after "Last Update:"
+        pattern3 = r'(\*\*Last Update:\*\*\s*)\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}(.*?\n)'
+        if re.search(pattern3, content):
+            content = re.sub(pattern3, r'\1' + last_commit_time + r'\2', content)
+        
+        # Only write if changed
+        if content != original_content:
             try:
                 with open(readme_path, 'w', encoding='utf-8') as f:
-                    f.write(updated_content)
-                print(f"Updated {readme_path.name} with timestamp: {current_timestamp}")
+                    f.write(content)
+                print(f"Updated {readme_path.name} with last commit time: {last_commit_time}")
                 updated_count += 1
             except Exception as e:
                 print(f"Error writing {readme_path}: {e}", file=sys.stderr)
     
-    if updated_count == 0:
-        print("README files already up to date.")
-    return True
+    if updated_count > 0:
+        return True
+    else:
+        print(f"README files already up to date (last commit: {last_commit_time})")
+        return True
 
 
 def main() -> None:

@@ -1,0 +1,184 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010719.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A magazine page layout featuring a collage of photographs of celebrities at an event, likely related to the Oscars. The page includes text captions identifying the celebrities and several paragraphs of article text describing parties and events. Celebrities pictured include Sienna Miller, Leonardo DiCaprio, Portia de Rossi, Ellen DeGeneres, Michael Fassbender, Bono, Matthew McConaughey, Camila Alves, Barry Diller, Diane von Furstenberg, Lady Gaga, Amy Adams, and Darren Le Gallo.",
+    "layout": "The page has a multi-column layout with a large central collage of photos. Smaller individual photos are placed on the right side. Text is distributed as captions next to the photos and in a main article body on the right side of the page. A large, bolded quote is prominently featured in the lower right quadrant. A footer contains a document number and a copyright notice.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Sienna\nMiller\n\nLeonardo\nDiCaprio\n\nPortia de\nRossi and Ellen\nDeGeneres\n\nMatthew\nMcConaughey and\nCamila Alves\n\nMichael Fassbender\n\nBono\n\nup Chinatown producer Robert Evans. Dom\nPerignon sent the champagne, proving that even\nbehind private dinners, one can now spot a sponsor.\n\nTHURSDAY, FEBRUARY 27\n\nOprah Winfrey slipped into Essence's “Black\nWomen in Hollywood” lunch at the Beverly Hills\nHotel where Cheryl Boone Isaacs, the first black\nfemale president of the Academy, was honored\nwith a Trailblazer Award.\n\nPresident Bill Clinton, in town for the\nfirst United4Humanity gala at Sony Studios\nthat night, had lunch at Larry Gagosian's\nmagnificent modern home in Holmby Hills. It\nwas designed by architect A. Quincy Jones, the\nmentor of Frank Gehry—not to be confused\nwith music legend Quincy Jones, the mentor\nof Michael Jackson. On this night, there were\n\nThis is how you win an\nOscar. You pinpoint\nand connect an\nexact emotion on the\nscreen to an exact\nemotion that moves\n6,000 voters . . .\n\nBarry Diller\nand Diane von\nFurstenberg\n\nAmy Adams and\nDarren Le Gallo\n\n10 parties. English society decorator and Olympic\nparty animal Nicky Haslam flew in from England\nfor the Vanity Fair dinner Sunday night and was my\nescort for this evening. We made it to five parties.\n\nVanity Fair and Sony's “Toast to American\nHustle” at Ago on Melrose was our first stop, to\npay homage to David O. Russell. Inquiring minds,\nincluding hotshot producer Megan Ellison,\nAmy Adams, Sony CEO Michael Lynton and\nco-chairman Amy Pascal, debated who was\nwinning Best Picture. We still didn't know.\n\nCAA's Josh Lieberman was on his way to\nICM's John Burnham's Santa Monica home.\n\nLady\nGaga\n\n© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM\n\nHOUSE_OVERSIGHT_010719",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "Sienna\nMiller",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Leonardo\nDiCaprio",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Portia de\nRossi and Ellen\nDeGeneres",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Matthew\nMcConaughey and\nCamila Alves",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Michael Fassbender",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Bono",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Barry Diller\nand Diane von\nFurstenberg",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Amy Adams and\nDarren Le Gallo",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Lady\nGaga",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "up Chinatown producer Robert Evans. Dom\nPerignon sent the champagne, proving that even\nbehind private dinners, one can now spot a sponsor.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "THURSDAY, FEBRUARY 27",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Oprah Winfrey slipped into Essence's “Black\nWomen in Hollywood” lunch at the Beverly Hills\nHotel where Cheryl Boone Isaacs, the first black\nfemale president of the Academy, was honored\nwith a Trailblazer Award.\n\nPresident Bill Clinton, in town for the\nfirst United4Humanity gala at Sony Studios\nthat night, had lunch at Larry Gagosian's\nmagnificent modern home in Holmby Hills. It\nwas designed by architect A. Quincy Jones, the\nmentor of Frank Gehry—not to be confused\nwith music legend Quincy Jones, the mentor\nof Michael Jackson. On this night, there were",
+        "type": "printed"
+      },
+      {
+        "region": "pull_quote",
+        "text": "This is how you win an\nOscar. You pinpoint\nand connect an\nexact emotion on the\nscreen to an exact\nemotion that moves\n6,000 voters . . .",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "10 parties. English society decorator and Olympic\nparty animal Nicky Haslam flew in from England\nfor the Vanity Fair dinner Sunday night and was my\nescort for this evening. We made it to five parties.\n\nVanity Fair and Sony's “Toast to American\nHustle” at Ago on Melrose was our first stop, to\npay homage to David O. Russell. Inquiring minds,\nincluding hotshot producer Megan Ellison,\nAmy Adams, Sony CEO Michael Lynton and\nco-chairman Amy Pascal, debated who was\nwinning Best Picture. We still didn't know.\n\nCAA's Josh Lieberman was on his way to\nICM's John Burnham's Santa Monica home.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010719",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2013-02-27"
+    ],
+    "people": [
+      "Sienna Miller",
+      "Leonardo DiCaprio",
+      "Portia de Rossi",
+      "Ellen DeGeneres",
+      "Matthew McConaughey",
+      "Camila Alves",
+      "Michael Fassbender",
+      "Bono",
+      "Robert Evans",
+      "Oprah Winfrey",
+      "Cheryl Boone Isaacs",
+      "Bill Clinton",
+      "Larry Gagosian",
+      "A. Quincy Jones",
+      "Frank Gehry",
+      "Quincy Jones",
+      "Michael Jackson",
+      "Barry Diller",
+      "Diane von Furstenberg",
+      "Amy Adams",
+      "Darren Le Gallo",
+      "Nicky Haslam",
+      "David O. Russell",
+      "Megan Ellison",
+      "Michael Lynton",
+      "Amy Pascal",
+      "Josh Lieberman",
+      "John Burnham",
+      "Lady Gaga"
+    ],
+    "organizations": [
+      "Dom Perignon",
+      "Essence",
+      "The Academy",
+      "United4Humanity",
+      "Sony Studios",
+      "Sony",
+      "Vanity Fair",
+      "CAA",
+      "ICM",
+      "STARTRAKSPHOTO.COM",
+      "BFANYC.COM"
+    ],
+    "locations": [
+      "Beverly Hills Hotel",
+      "Holmby Hills",
+      "England",
+      "Ago on Melrose",
+      "Santa Monica"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010719"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "magazine_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Celebrity events and parties, likely surrounding the Oscars.",
+    "date": "2013-02-27",
+    "references": [
+      "HOUSE_OVERSIGHT_010719"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The date 'February 27' is mentioned in the text. The copyright notice indicates the year 2013. It is inferred that the date is February 27, 2013, although the year is not explicitly stated in the same sentence as the date. The document number appears to be a Bates number added for document management purposes.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010719.jpg",
+  "house_oversight_id": "010719",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:58:33.680857Z",
+    "model": "gemini-2.5-pro"
+  }
+}

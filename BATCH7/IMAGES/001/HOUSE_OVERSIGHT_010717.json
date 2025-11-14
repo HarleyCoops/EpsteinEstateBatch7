@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010717.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a magazine, identified as Avenue Magazine, featuring an article about the 86th Academy Awards. The top of the page has three photographs of celebrities at an event, each with a caption. The main body of the page is a two-column article. The bottom right corner has a document identifier stamp.",
+    "layout": "The page has a three-photo header across the top, followed by a two-column text layout for the main article. There is a footer with page number and magazine information, a vertical copyright notice in the right margin, and a document number stamped at the bottom.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "David O. Russell\nand Spike Jones\n\nPeggy Siegal and\nCatherine Martin\n\nSuki Waterhouse\nand Bradley\nCooper\n\nThis was the year absolutely no one could predict Best\nPicture for the 86th Academy Awards: not even me, the\nOscar witch. This made directors Steve McQueen,\nAlfonso Cuaron and David O. Russell very crazy. After\nmonths of screenings, press conferences, lunches, and\nparties, publicists and bloggers had to look these three wise\nmen in the eye and say, “We don’t have a clue.”\n\nThen came the slogan, “It’s time.” That was\nFox Searchlight’s last suggestion on 12 Years\na Slave advertisements that subliminally\nregistered in the hearts and minds of voters\nin the closing days of the studio’s low-key\ncampaign.\n\n“It’s time.” So simple. Says it all. Just like\nthe mantra “Find your voice” that marketing\nhoncho Harvey Weinstein came up with\nthree years ago, which drove The King’s Speech\nto a win.\n\nThis is how you win an Oscar. You pinpoint\nand connect an exact emotion on the screen to\nan exact emotion that moves 6,000 voters who\nare mostly very smart white middle-aged guys.\n\nOn Oscar night, host Ellen DeGeneres joked\nto 43 million viewers, “Possibility number one:\n12 Years a Slave wins Best Picture. Possibility\nnumber two: You’re all racists,” answering\nthe question three hours before the win was\nannounced. DeGeneres then gifted sponsor\n\nSamsung with the world’s most famous selfie\nand tipped a pizza delivery guy $1,000.\n\nThe gripping 12 Years a Slave won Best\nPicture, putting Steve McQueen in the history\nbooks as the first black director, who is also\nBritish, to win an Oscar.\n\nIt took the star power of white heartthrob\nBrad Pitt to get the film financed. Taking\nthe small but heroic role as the slave’s savior,\nBrad then took a backseat by shooting WWII\nfilm, Fury in England, leaving the promotion\nto others.\n\nSteve McQueen’s muse Michael Fassbender,\nwho portrayed a sadistic plantation owner,\nannounced he would not campaign. McQueen,\nChiwetel Ejiofor and an unknown supporting\nactress, Lupita Nyong’o, were left with the\nherculean task of selling a film about slavery that\nwas guaranteed to embarrass every American.\nThis is why their win was so poignant.\n\nWarner Bros.’ wildly popular Gravity had\n\nskyrocketed to $1 billion globally at the box\noffice. This technical game changer propelled\nSandra Bullock into outer space with $70\nmillion of backend profits tucked into her\nspace panties. The beloved thriller landed\ntriumphantly with seven Oscars. Alfonso\nCuarón, who slaved for four years to create\nhis masterpiece, won two statues for directing\nand editing and became the first Latino\ndirector to win. Although Gravity’s producer\nDavid Heyman did not strike gold, this film\nwas one hell of a second act after producing\nall those Harry Potter films.\n\nIn the past four years, David O. Russell\nhas been a serious contender with 25 total\nnominations for his last three films. Hilarious\nand astute American Hustle garnered 10\nnominations, but no wins this year.\n\nThe four acting categories were easy to\npredict. Cate Blanchett wowed the minute\nBlue Jasmine was released in July. This\ninstantaneous phenomenon is known as the\n“Colin-Firth-Daniel-Day-Lewis slam dunk.”\n\nIn November, beautiful darling Jared Leto\nstole everybody’s hearts dressed as a woman\nin Dallas Buyers Club. His long hair, penchant\nfor ’90s grunge, and rock band 30 Seconds to\nMars, made him another instant winner.\n\nMatthew McConaughey’s career renaissance\nbecame “McConaissance.” Mud, Dallas Buyer’s\nClub, Wolf of Wall Street, and finally HBO’s\n\n54 | AVENUE MAGAZINE • APRIL 2012\n\n© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM\n\nHOUSE_OVERSIGHT_010717",
+    "text_regions": [
+      {
+        "region": "caption",
+        "text": "David O. Russell\nand Spike Jones",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Peggy Siegal and\nCatherine Martin",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Suki Waterhouse\nand Bradley\nCooper",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "This was the year absolutely no one could predict Best\nPicture for the 86th Academy Awards: not even me, the\nOscar witch. This made directors Steve McQueen,\nAlfonso Cuaron and David O. Russell very crazy. After\nmonths of screenings, press conferences, lunches, and\nparties, publicists and bloggers had to look these three wise\nmen in the eye and say, “We don’t have a clue.”\n\nThen came the slogan, “It’s time.” That was\nFox Searchlight’s last suggestion on 12 Years\na Slave advertisements that subliminally\nregistered in the hearts and minds of voters\nin the closing days of the studio’s low-key\ncampaign.\n\n“It’s time.” So simple. Says it all. Just like\nthe mantra “Find your voice” that marketing\nhoncho Harvey Weinstein came up with\nthree years ago, which drove The King’s Speech\nto a win.\n\nThis is how you win an Oscar. You pinpoint\nand connect an exact emotion on the screen to\nan exact emotion that moves 6,000 voters who\nare mostly very smart white middle-aged guys.\n\nOn Oscar night, host Ellen DeGeneres joked\nto 43 million viewers, “Possibility number one:\n12 Years a Slave wins Best Picture. Possibility\nnumber two: You’re all racists,” answering\nthe question three hours before the win was\nannounced. DeGeneres then gifted sponsor\n\nSamsung with the world’s most famous selfie\nand tipped a pizza delivery guy $1,000.\n\nThe gripping 12 Years a Slave won Best\nPicture, putting Steve McQueen in the history\nbooks as the first black director, who is also\nBritish, to win an Oscar.\n\nIt took the star power of white heartthrob\nBrad Pitt to get the film financed. Taking\nthe small but heroic role as the slave’s savior,\nBrad then took a backseat by shooting WWII\nfilm, Fury in England, leaving the promotion\nto others.\n\nSteve McQueen’s muse Michael Fassbender,\nwho portrayed a sadistic plantation owner,\nannounced he would not campaign. McQueen,\nChiwetel Ejiofor and an unknown supporting\nactress, Lupita Nyong’o, were left with the\nherculean task of selling a film about slavery that\nwas guaranteed to embarrass every American.\nThis is why their win was so poignant.\n\nWarner Bros.’ wildly popular Gravity had\n\nskyrocketed to $1 billion globally at the box\noffice. This technical game changer propelled\nSandra Bullock into outer space with $70\nmillion of backend profits tucked into her\nspace panties. The beloved thriller landed\ntriumphantly with seven Oscars. Alfonso\nCuarón, who slaved for four years to create\nhis masterpiece, won two statues for directing\nand editing and became the first Latino\ndirector to win. Although Gravity’s producer\nDavid Heyman did not strike gold, this film\nwas one hell of a second act after producing\nall those Harry Potter films.\n\nIn the past four years, David O. Russell\nhas been a serious contender with 25 total\nnominations for his last three films. Hilarious\nand astute American Hustle garnered 10\nnominations, but no wins this year.\n\nThe four acting categories were easy to\npredict. Cate Blanchett wowed the minute\nBlue Jasmine was released in July. This\ninstantaneous phenomenon is known as the\n“Colin-Firth-Daniel-Day-Lewis slam dunk.”\n\nIn November, beautiful darling Jared Leto\nstole everybody’s hearts dressed as a woman\nin Dallas Buyers Club. His long hair, penchant\nfor ’90s grunge, and rock band 30 Seconds to\nMars, made him another instant winner.\n\nMatthew McConaughey’s career renaissance\nbecame “McConaissance.” Mud, Dallas Buyer’s\nClub, Wolf of Wall Street, and finally HBO’s",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "54 | AVENUE MAGAZINE • APRIL 2012",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010717",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2012-04",
+      "2013"
+    ],
+    "people": [
+      "David O. Russell",
+      "Spike Jones",
+      "Peggy Siegal",
+      "Catherine Martin",
+      "Suki Waterhouse",
+      "Bradley Cooper",
+      "Steve McQueen",
+      "Alfonso Cuaron",
+      "Harvey Weinstein",
+      "Ellen DeGeneres",
+      "Brad Pitt",
+      "Michael Fassbender",
+      "Chiwetel Ejiofor",
+      "Lupita Nyong'o",
+      "Sandra Bullock",
+      "David Heyman",
+      "Cate Blanchett",
+      "Colin Firth",
+      "Daniel Day-Lewis",
+      "Jared Leto",
+      "Matthew McConaughey"
+    ],
+    "organizations": [
+      "Fox Searchlight",
+      "Samsung",
+      "Warner Bros.",
+      "HBO",
+      "AVENUE MAGAZINE",
+      "STARTRAKSPHOTO.COM",
+      "BFANYC.COM",
+      "30 Seconds to Mars"
+    ],
+    "locations": [
+      "England"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010717"
+    ],
+    "financial_amounts": [
+      "$1,000",
+      "$1 billion",
+      "$70 million"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier stamp: HOUSE_OVERSIGHT_010717"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "magazine article",
+    "sender": null,
+    "recipient": null,
+    "subject": "86th Academy Awards Recap",
+    "date": "2012-04",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The article discusses the 86th Academy Awards, which took place in March 2014. However, the magazine footer is dated 'APRIL 2012' and the copyright notice is dated '2013'. This is a notable date discrepancy.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010717.jpg",
+  "house_oversight_id": "010717",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:57:25.820727Z",
+    "model": "gemini-2.5-pro"
+  }
+}

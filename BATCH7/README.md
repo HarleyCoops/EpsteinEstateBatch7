@@ -4,7 +4,7 @@
 
 **This CODEBASE is processing itself and publishing itself online.**
 
-As images are analyzed, text is extracted, and details added, the model will start calling out the most obvious crimes. The last update was **2025-11-14 01:55:56 UTC** and the model will publish an update every 5 minutes. All images, text files, and output are all publicly hosted with no changes from the original.
+As images are analyzed, text is extracted, and details added, the model will start calling out the most obvious crimes. The P25-11-13 18:55:56 UTC** and the model will publish an update every 5 minutes. All images, text files, and output are all publicly hosted with no changes from the original.
 
 This will run through the night as there are literally thousands of files here.
 

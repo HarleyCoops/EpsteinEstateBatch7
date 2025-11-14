@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010714.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial disclosure form, specifically OGE Form 278e, detailing ownership interests in various LLCs for Donald J. Trump. The document lists several entities, their owners, ownership percentages, and roles. It also includes a note about how real estate license fees are paid.",
+    "layout": "The document has a header with form information and the filer's name. The main body is structured in a list format, with each entry representing an entity and its ownership details. A footer contains a general note, and a document identifier is at the very bottom.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nPage Number\nDonald J. Trump\nA47 of 47\nReference #\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n540 4T HOLDINGS ONE LLC *(3)\nOwned by:\n% Ownership\n100\nName\nTTTT VENTURE LLC\nRole\nMember\n541 4T HOLDINGS TWO LLC *(3)\nOwned by:\n% Ownership\n100\nName\nTTTT VENTURE LLC\nRole\nMember\n542 STORAGE 106 LLC\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n543 T EXPRESS LLC *(5)\nOwned by:\n% Ownership\n1\n99\nName\nT EXPRESS MANAGER MEMBER CORP\nTTTT VENTURE LLC\nRole\nManaging Member\nMember\n544 T EXPRESS MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nT EXPRESS LLC\nOwnership\n1.00%\nTitle\nManaging\nMember\nReal Estate License Fees (Royalties) are customarily paid to Trump in phases: upon signing of the License Agreement (Upfront Fee), and during various stages of the project's development. Therefore, the amount of License fee income reflected herein is dependent on the phase of that project's development cycle with the majority of payment back-loaded towards project completion.\nHOUSE_OVERSIGHT_010714",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 2\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.",
+        "type": "printed"
+      },
+      {
+        "region": "header_table",
+        "text": "Filer's Name\nPage Number\nDonald J. Trump\nA47 of 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Reference #\n100\nDTTM Operations Managing\nMember Corp\nShareholder\n540 4T HOLDINGS ONE LLC *(3)\nOwned by:\n% Ownership\n100\nName\nTTTT VENTURE LLC\nRole\nMember\n541 4T HOLDINGS TWO LLC *(3)\nOwned by:\n% Ownership\n100\nName\nTTTT VENTURE LLC\nRole\nMember\n542 STORAGE 106 LLC\nOwned by:\n% Ownership\n100\nName\nThe Donald J. Trump Revocable Trust\nRole\nMember\n543 T EXPRESS LLC *(5)\nOwned by:\n% Ownership\n1\n99\nName\nT EXPRESS MANAGER MEMBER CORP\nTTTT VENTURE LLC\nRole\nManaging Member\nMember\n544 T EXPRESS MANAGER MEMBER CORP *(1)\nOwned by:\n% Ownership\n100\nName\nDJT HOLDINGS MANAGING MEMBER\nLLC\nRole\nShareholder\nHas ownership interest in:\nEntity Name\nT EXPRESS LLC\nOwnership\n1.00%\nTitle\nManaging\nMember",
+        "type": "printed"
+      },
+      {
+        "region": "note",
+        "text": "Real Estate License Fees (Royalties) are customarily paid to Trump in phases: upon signing of the License Agreement (Upfront Fee), and during various stages of the project's development. Therefore, the amount of License fee income reflected herein is dependent on the phase of that project's development cycle with the majority of payment back-loaded towards project completion.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010714",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DTTM Operations Managing Member Corp",
+      "4T HOLDINGS ONE LLC",
+      "TTTT VENTURE LLC",
+      "4T HOLDINGS TWO LLC",
+      "STORAGE 106 LLC",
+      "The Donald J. Trump Revocable Trust",
+      "T EXPRESS LLC",
+      "T EXPRESS MANAGER MEMBER CORP",
+      "DJT HOLDINGS MANAGING MEMBER LLC"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "A47 of 47",
+      "HOUSE_OVERSIGHT_010714",
+      "100",
+      "540",
+      "541",
+      "542",
+      "543",
+      "544"
+    ],
+    "financial_amounts": [
+      "100%",
+      "1%",
+      "99%",
+      "1.00%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Financial Disclosure - Part 2: Filer's Positions Held Outside U.S. Government",
+    "date": "2014-03",
+    "references": [
+      "HOUSE_OVERSIGHT_010714"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a larger financial disclosure report, as indicated by the page number 'A47 of 47'. The asterisks next to some entity names, e.g., '*(3)', likely refer to notes or explanations not present on this specific page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010714.jpg",
+  "house_oversight_id": "010714",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:56:15.899142Z",
+    "model": "gemini-2.5-pro"
+  }
+}

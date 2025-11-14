@@ -498,11 +498,11 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
             result = subprocess.run([sys.executable, str(readme_updater)], cwd=base_dir, check=False, capture_output=True, text=True)
             if result.returncode == 0:
                 print(f"Timestamp updated: {result.stdout.strip()}")
-                # Check if README has timestamp changes
-                stdout_status, code_status = run_git_command(["status", "--porcelain", "README.md"], cwd=base_dir)
+                # Check if README files have timestamp changes
+                stdout_status, code_status = run_git_command(["status", "--porcelain", "README.md", "BATCH7/README.md"], cwd=base_dir)
                 if stdout_status.strip():
-                    # Stage and commit the timestamp update
-                    run_git_command(["add", "README.md"], cwd=base_dir)
+                    # Stage both README files
+                    run_git_command(["add", "README.md", "BATCH7/README.md"], cwd=base_dir)
                     timestamp_msg = f"Update README timestamp - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
                     stdout_commit, code_commit = run_git_command(["commit", "-m", timestamp_msg], cwd=base_dir)
                     if code_commit == 0:

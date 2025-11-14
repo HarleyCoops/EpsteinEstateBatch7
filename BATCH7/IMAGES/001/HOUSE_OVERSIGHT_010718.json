@@ -1,0 +1,201 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010718.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a publication, likely a magazine or diary, featuring a two-column text layout interspersed with photographs of celebrities at an event, presumably an awards ceremony like the Oscars. The celebrities in the photos are labeled with captions.",
+    "layout": "Two-column text layout with a large photo collage in the upper right quadrant. A footer is present at the bottom of the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "True Detective collectively earned him Best\nActor by December.\nThe actress who really stole the show\non the campaign circuit was eloquent\ningénue Lupita Nyong'o, who morphed into\na fashion goddess. No one will forget her\nBest Supporting Actress acceptance speech\nwhen she said, “It doesn’t escape me for one\nmoment that so much joy in my life is thanks\nto so much pain in someone else’s.”\n\nTUESDAY, FEBRUARY 25\nI flew to L.A. with some indefinable eye\ninfection that made Olympics reporter Bob\nCostas’ reaction to Botox look attractive. My\nmedical calamity possibly caused by Latisse,\nwhich promotes eyelash growth, caused\nmy eyelids to resemble red golf balls and\nnecessitated the wearing of dark glasses.\nNo, I did not look as cool as Anna Wintour.\nI managed to grope my way through Oscar\nweek in couture Ralph Rucci gowns and furs\nand pretend temporary blindness was “just a\nnew look.”\nOn this, my 30th trip to The Beverly Hills\nHotel, the famous Polo Lounge had finally\nbeen renovated to look exactly like it did\n30 years ago so as not to upset the regulars.\nEach pool cabana now had giant flat screens\ninstalled for watching CNN in the sun. Cate\nBlanchett and Oprah Winfrey were the hot\nOscar week guests.\nI headed over to the Vanity Fair Social Club,\nwith its media-friendly “WeWork Hollywood”\npop-up lounge. Vanity Fair publisher Ed\nMenicheschi, who perfected the Midas touch\nfor masterminding Oscar week sponsorship,\ngreeted me. I participated in a panel discussion\nof Oscar prognosticators about who would\nwin, hosted by Michael Hogan of VF.com with\nAnne Thompson of IndieWire, Sasha Stone\nof Awards Daily, Pete Hammond of Deadline,\nDave Karger of Fandango, Krista Smith of\nVanity Fair, and Kyle Buchanan of Vulture.\nIf you had put fire to our feet we could not\ntell you who was winning Best Picture. Like a\nbunch of nerds all trying to impress each other,\nwe did predict every other category correctly.\nThe town was crawling with stars. So it\nwasn’t shocking to find the most famous\nsitting in the middle of a public restaurant\ndrinking and singing oldies by the Eagles\nand Neil Diamond. That was the scene at\nNobu in L.A. where Bono and U2, here to\nperform Mandela’s theme “Ordinary Love”\nat the Oscars, sat drinking sake and George\nClooney’s Casamigos Tequila with Clooney\nhimself, and Cindy Crawford and Rande\nGerber as they all belted out songs.\n\nSteve McQueen\nwith Bianca\nStigter\n\nJennifer\nLawrence\n\nBrad Pitt and\nAngelina Jolie\n\nAlfonso Cuarón\n\nLupita Nyong'o\n\nGeorge left town soon after, was rumored\nto stop in London to see his new girlfriend,\nOxford-educated British barrister Amal\nAlamuddin, and they headed to an exotic,\nsecluded island for a much-deserved vacation.\nAfter winning the Oscar last year for producing\nArgo, George had a supporting role in Gravity;\nco-produced August: Osage County; and\nstarred in Tomorrowland, which Disney will\nrelease in 2015. He also produced, wrote,\ndirected, and acted in The Monuments Men.\nClooney marched to Berlin, Milan, London,\nand Paris, successfully opening that film.\nWith his Oscar night absence, not only did\nhe make sure Sandra Bullock got all the credit\nshe deserved, but my hunch is that he was\nalso quietly proud of his good friend Brad\nPitt, who produced 12 Years a Slave, Gravity’s\nbiggest competition.\n\nWEDNESDAY, FEBRUARY 26\nAction central was now in the lobby\nof Chateau Marmont where Vanity Fair,\nGraydon Carter, and Benedikt Taschen\n\nhonored world-class photographer Annie\nLeibovitz for the launch of her new sumo-\nsized book, Annie Leibovitz.\nAndré Balazs confided that Annie pulled\nan all-nighter in her pajamas hanging her\nwork. Balazs gave her free reign to install\nher huge iconic portraits throughout the\nhallways and first floor suites that were open\nduring the party.\nPhotographers Mario Testino and Terry\nRichardson browsed as Annie walked\nQuincy Jones on a tour of her larger-than-\nlife exhibition. Sylvester Stallone gazed at his\nown portrait taken 20 years ago, his Dorian\nGray Rocky face now frozen—as in Botox—\nnot the blockbuster animated Disney winner.\nParamount CEO Brad Grey’s wife\nCassandra, Carole Bayer Sager and Lorraine\nSchwartz gave a private dinner at Cassandra’s\nViolet Grey store on Melrose. Jack Nicholson,\nseated with model Erin Wasson and Eva\nMendes, held court as superstar Pharrell\nWilliams (in his Vivienne Westwood\n“Mountain” hat) and Anjelica Huston chatted\n\n© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM\n\nHOUSE_OVERSIGHT_010718",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "True Detective collectively earned him Best\nActor by December.\nThe actress who really stole the show\non the campaign circuit was eloquent\ningénue Lupita Nyong'o, who morphed into\na fashion goddess. No one will forget her\nBest Supporting Actress acceptance speech\nwhen she said, “It doesn’t escape me for one\nmoment that so much joy in my life is thanks\nto so much pain in someone else’s.”",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "TUESDAY, FEBRUARY 25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "I flew to L.A. with some indefinable eye\ninfection that made Olympics reporter Bob\nCostas’ reaction to Botox look attractive. My\nmedical calamity possibly caused by Latisse,\nwhich promotes eyelash growth, caused\nmy eyelids to resemble red golf balls and\nnecessitated the wearing of dark glasses.\nNo, I did not look as cool as Anna Wintour.\nI managed to grope my way through Oscar\nweek in couture Ralph Rucci gowns and furs\nand pretend temporary blindness was “just a\nnew look.”\nOn this, my 30th trip to The Beverly Hills\nHotel, the famous Polo Lounge had finally\nbeen renovated to look exactly like it did\n30 years ago so as not to upset the regulars.\nEach pool cabana now had giant flat screens\ninstalled for watching CNN in the sun. Cate\nBlanchett and Oprah Winfrey were the hot\nOscar week guests.\nI headed over to the Vanity Fair Social Club,\nwith its media-friendly “WeWork Hollywood”\npop-up lounge. Vanity Fair publisher Ed\nMenicheschi, who perfected the Midas touch\nfor masterminding Oscar week sponsorship,\ngreeted me. I participated in a panel discussion\nof Oscar prognosticators about who would\nwin, hosted by Michael Hogan of VF.com with\nAnne Thompson of IndieWire, Sasha Stone\nof Awards Daily, Pete Hammond of Deadline,\nDave Karger of Fandango, Krista Smith of\nVanity Fair, and Kyle Buchanan of Vulture.\nIf you had put fire to our feet we could not\ntell you who was winning Best Picture. Like a\nbunch of nerds all trying to impress each other,\nwe did predict every other category correctly.\nThe town was crawling with stars. So it\nwasn’t shocking to find the most famous\nsitting in the middle of a public restaurant\ndrinking and singing oldies by the Eagles\nand Neil Diamond. That was the scene at\nNobu in L.A. where Bono and U2, here to\nperform Mandela’s theme “Ordinary Love”\nat the Oscars, sat drinking sake and George\nClooney’s Casamigos Tequila with Clooney\nhimself, and Cindy Crawford and Rande\nGerber as they all belted out songs.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "George left town soon after, was rumored\nto stop in London to see his new girlfriend,\nOxford-educated British barrister Amal\nAlamuddin, and they headed to an exotic,\nsecluded island for a much-deserved vacation.\nAfter winning the Oscar last year for producing\nArgo, George had a supporting role in Gravity;\nco-produced August: Osage County; and\nstarred in Tomorrowland, which Disney will\nrelease in 2015. He also produced, wrote,\ndirected, and acted in The Monuments Men.\nClooney marched to Berlin, Milan, London,\nand Paris, successfully opening that film.\nWith his Oscar night absence, not only did\nhe make sure Sandra Bullock got all the credit\nshe deserved, but my hunch is that he was\nalso quietly proud of his good friend Brad\nPitt, who produced 12 Years a Slave, Gravity’s\nbiggest competition.",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "WEDNESDAY, FEBRUARY 26",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Action central was now in the lobby\nof Chateau Marmont where Vanity Fair,\nGraydon Carter, and Benedikt Taschen\nhonored world-class photographer Annie\nLeibovitz for the launch of her new sumo-\nsized book, Annie Leibovitz.\nAndré Balazs confided that Annie pulled\nan all-nighter in her pajamas hanging her\nwork. Balazs gave her free reign to install\nher huge iconic portraits throughout the\nhallways and first floor suites that were open\nduring the party.\nPhotographers Mario Testino and Terry\nRichardson browsed as Annie walked\nQuincy Jones on a tour of her larger-than-\nlife exhibition. Sylvester Stallone gazed at his\nown portrait taken 20 years ago, his Dorian\nGray Rocky face now frozen—as in Botox—\nnot the blockbuster animated Disney winner.\nParamount CEO Brad Grey’s wife\nCassandra, Carole Bayer Sager and Lorraine\nSchwartz gave a private dinner at Cassandra’s\nViolet Grey store on Melrose. Jack Nicholson,\nseated with model Erin Wasson and Eva\nMendes, held court as superstar Pharrell\nWilliams (in his Vivienne Westwood\n“Mountain” hat) and Anjelica Huston chatted",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Steve McQueen\nwith Bianca\nStigter",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Jennifer\nLawrence",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Brad Pitt and\nAngelina Jolie",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Alfonso Cuarón",
+        "type": "printed"
+      },
+      {
+        "region": "caption",
+        "text": "Lupita Nyong'o",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010718",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2013-02-25",
+      "2013-02-26",
+      "2015"
+    ],
+    "people": [
+      "Lupita Nyong'o",
+      "Bob Costas",
+      "Anna Wintour",
+      "Ralph Rucci",
+      "Cate Blanchett",
+      "Oprah Winfrey",
+      "Ed Menicheschi",
+      "Michael Hogan",
+      "Anne Thompson",
+      "Sasha Stone",
+      "Pete Hammond",
+      "Dave Karger",
+      "Krista Smith",
+      "Kyle Buchanan",
+      "Neil Diamond",
+      "Bono",
+      "Mandela",
+      "George Clooney",
+      "Cindy Crawford",
+      "Rande Gerber",
+      "Steve McQueen",
+      "Bianca Stigter",
+      "Jennifer Lawrence",
+      "Brad Pitt",
+      "Angelina Jolie",
+      "Alfonso Cuarón",
+      "Amal Alamuddin",
+      "Sandra Bullock",
+      "Graydon Carter",
+      "Benedikt Taschen",
+      "Annie Leibovitz",
+      "André Balazs",
+      "Mario Testino",
+      "Terry Richardson",
+      "Quincy Jones",
+      "Sylvester Stallone",
+      "Brad Grey",
+      "Cassandra",
+      "Carole Bayer Sager",
+      "Lorraine Schwartz",
+      "Jack Nicholson",
+      "Erin Wasson",
+      "Eva Mendes",
+      "Pharrell Williams",
+      "Vivienne Westwood",
+      "Anjelica Huston"
+    ],
+    "organizations": [
+      "Olympics",
+      "CNN",
+      "Vanity Fair Social Club",
+      "WeWork Hollywood",
+      "Vanity Fair",
+      "VF.com",
+      "IndieWire",
+      "Awards Daily",
+      "Deadline",
+      "Fandango",
+      "Vulture",
+      "Eagles",
+      "U2",
+      "Disney",
+      "Paramount",
+      "STARTRAKSPHOTO.COM",
+      "BFANYC.COM"
+    ],
+    "locations": [
+      "L.A.",
+      "The Beverly Hills Hotel",
+      "Polo Lounge",
+      "Nobu",
+      "London",
+      "Berlin",
+      "Milan",
+      "Paris",
+      "Chateau Marmont",
+      "Melrose"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010718"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "© COPYRIGHT 2013 STARTRAKSPHOTO.COM AND BFANYC.COM"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "publication_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Diary or article about Oscar week events",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010718"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The dates February 25 and 26 do not have a year specified. Based on the context of the films mentioned (e.g., '12 Years a Slave', 'Gravity', 'Argo') and the copyright date of 2013, the events likely took place in February 2014, preceding the 86th Academy Awards. However, the JSON reflects the copyright year for normalization as the most direct evidence.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010718.jpg",
+  "house_oversight_id": "010718",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:58:05.843012Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010715.jpg",
+  "image_analysis": {
+    "type": "photograph",
+    "description": "A photograph of two actors, a woman and a man, standing next to a large Oscar statuette at what appears to be the Academy Awards. The woman, on the left, is wearing a light-colored, sequined gown and is holding an Oscar. She has her mouth open and is looking at the man. The man, in the center, is wearing a white tuxedo jacket and black bow tie, also holding an Oscar, and is looking down at his jacket. To the right is a large Oscar statuette on a pedestal. There are floral arrangements in the scene. The image has text overlaid at the bottom.",
+    "layout": "The two individuals are centrally located. A large statuette is on the right. Text is overlaid across the bottom of the image, with a document identifier in the lower-right corner.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "abc\nA\nabc\nA.M.P.A.S.\nToo Close\nHOUSE_OVERSIGHT_010715",
+    "text_regions": [
+      {
+        "region": "background_logo",
+        "text": "abc",
+        "type": "printed"
+      },
+      {
+        "region": "background_logo",
+        "text": "A",
+        "type": "printed"
+      },
+      {
+        "region": "statuette_base",
+        "text": "A.M.P.A.S.",
+        "type": "printed"
+      },
+      {
+        "region": "overlay",
+        "text": "Too Close",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010715",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Cate Blanchett",
+      "Matthew McConaughey"
+    ],
+    "organizations": [
+      "abc",
+      "A.M.P.A.S."
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010715"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier: HOUSE_OVERSIGHT_010715"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "photo",
+    "sender": null,
+    "recipient": null,
+    "subject": "Photograph of Cate Blanchett and Matthew McConaughey at the Academy Awards",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010715"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The people in the photograph are identifiable as actors Cate Blanchett and Matthew McConaughey at the 86th Academy Awards in 2014. The text 'Too Close' is an overlay and not part of the original photograph. The document number 'HOUSE_OVERSIGHT_010715' suggests this image is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010715.jpg",
+  "house_oversight_id": "010715",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T01:56:33.630619Z",
+    "model": "gemini-2.5-pro"
+  }
+}
