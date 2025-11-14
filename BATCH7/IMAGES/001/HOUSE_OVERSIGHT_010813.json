@@ -1,0 +1,127 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010813.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal deposition transcript, numbered 297, 298, 299, and 300. The pages are arranged in a 2x2 grid. The text is in a question-and-answer format typical of a deposition.",
+    "layout": "The image is a single frame containing four distinct pages arranged in a grid. Page 297 is top-left, 299 is top-right, 298 is bottom-left, and 300 is bottom-right. Each page has a header with the page number, a main body with numbered lines, and a footer at the very bottom of the composite image contains contact information and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "297\n1       Beach police department says.\n2            Q. You never read those reports?\n3            A. I don't know which reports you're\n4       referring to.\n5            Q. All of the reports about Jeffrey Epstein.\n6            MR. SCOTT: Asked and answered yesterday\n7       on this whole line.\n8            A. I probably did not read all the reports on\n9       Jeffrey Epstein. I'm sure I've read some of them.\n10      I do not recall --\n11           MR. SCOTT: Be careful about any work --\n12      attorney-client privilege.\n13           THE WITNESS: Right.\n14           A. I don't remember my name coming up. I was\n15      the lawyer during that period of time.\n16           BY MR. SCAROLA:\n17           Q. To the extent that Bradley Edwards and\n18      Paul Cassell relied upon detailed reports from the\n19      Palm Beach police department in order to assess the\n20      credibility of Virginia Roberts, would it be\n21      reasonable for them to rely upon police reports?\n22           A. I would hope that they would rely on all\n23      the police reports, including the ones that showed\n24      that she was involved in criminal actions, including\n25      the ones that would show that she took money as an\n\n299\n1       this.\n2            A. Excuse me one second.\n3            MR. SCOTT: You know, you think this is\n4       funny and I think this man's -- and I think\n5       this man's --\n6            MR. SCAROLA: I think it's improper for\n7       you to be coaching the witness in the middle of\n8       examination. If you think that there's\n9       something that needs to be brought out, you do\n10      that in cross examination. You don't feed him\n11      information that you want him to be reading in\n12      the middle of my examination of this witness.\n13           MR. SCOTT: No. But it's also true that\n14      under our rules, when you read portions of a\n15      deposition, he has the ability to read other\n16      portions of the deposition which clarify the\n17      answers. That's done in every courtroom on\n18      every time a witness -- you have selected\n19      portions of it that are not accurate based on\n20      other portions and I am having him review them\n21      since you did not offer him the deposition to\n22      review.\n23           MR. SCAROLA: And that's what you do --\n24           MR. SCOTT: And I think that's totally\n25      proper --\n\n298\n1       adult to provide sexual services to people.\n2            I would hope they would look at all the\n3       reports, not just selected portions of those\n4       reports.\n5            Q. Would that include the reports of the\n6       Federal Bureau of Investigation?\n7            A. I would hope so.\n8            Q. Would that include the information\n9       provided by the U.S. Attorney's Office?\n10           A. I would sure hope so, and I could tell you\n11      that the --\n12           Q. Would that include --\n13           A. Let me just say that the U.S. Attorney's\n14      Office has told me unequivocally that my name never\n15      came up in any context of any accusation against me\n16      during the negotiations.\n17           Q. Is this part of your work product that\n18      you're waiving right now?\n19           MR. SWEDER: No, no.\n20           A. My conversation with Jeffrey Sloman is not\n21      work product.\n22           MR. SCOTT: Here's a --\n23           BY MR. SCAROLA:\n24           Q. What is the work product --\n25           MR. SCOTT: Excuse me. Please review\n\n300\n1            MR. SCAROLA: -- in cross examination. It\n2       is --\n3            MR. SCOTT: -- to do. No --\n4            MR. SCAROLA: -- improper.\n5            MR. SCOTT: No.\n6            MR. SCAROLA: There's no question pending\n7       as to which that's relevant. But let's take a\n8       look at what you're showing him.\n9            MR. SCOTT: Sure. Why don't you read it\n10      into the record?\n11           THE WITNESS: I've read it.\n12           MR. SCOTT: Read it into the record so\n13      that Mr. Scarola is advised.\n14           A. \"Okay. When Alan Dershowitz was in the\n15      house, I understand you to say that these local\n16      Palm Beach girls would come over to the house\n17      while he was there, but you're not sure if he\n18      had a massage from any of these girls?\n19           \"Exactly.\n20           \"And what would he do while these girls\n21      were in the house?\n22           \"He would read a book with a glass of\n23      wine by the pool, stay inside.\n24           \"Did he ever talk to any of the girls?\n25           \"I don't know, sir.\n\n31 (Pages 297 to 300)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010813",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "297",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1       Beach police department says.\n2            Q. You never read those reports?\n3            A. I don't know which reports you're\n4       referring to.\n5            Q. All of the reports about Jeffrey Epstein.\n6            MR. SCOTT: Asked and answered yesterday\n7       on this whole line.\n8            A. I probably did not read all the reports on\n9       Jeffrey Epstein. I'm sure I've read some of them.\n10      I do not recall --\n11           MR. SCOTT: Be careful about any work --\n12      attorney-client privilege.\n13           THE WITNESS: Right.\n14           A. I don't remember my name coming up. I was\n15      the lawyer during that period of time.\n16           BY MR. SCAROLA:\n17           Q. To the extent that Bradley Edwards and\n18      Paul Cassell relied upon detailed reports from the\n19      Palm Beach police department in order to assess the\n20      credibility of Virginia Roberts, would it be\n21      reasonable for them to rely upon police reports?\n22           A. I would hope that they would rely on all\n23      the police reports, including the ones that showed\n24      that she was involved in criminal actions, including\n25      the ones that would show that she took money as an",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "299",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1       this.\n2            A. Excuse me one second.\n3            MR. SCOTT: You know, you think this is\n4       funny and I think this man's -- and I think\n5       this man's --\n6            MR. SCAROLA: I think it's improper for\n7       you to be coaching the witness in the middle of\n8       examination. If you think that there's\n9       something that needs to be brought out, you do\n10      that in cross examination. You don't feed him\n11      information that you want him to be reading in\n12      the middle of my examination of this witness.\n13           MR. SCOTT: No. But it's also true that\n14      under our rules, when you read portions of a\n15      deposition, he has the ability to read other\n16      portions of the deposition which clarify the\n17      answers. That's done in every courtroom on\n18      every time a witness -- you have selected\n19      portions of it that are not accurate based on\n20      other portions and I am having him review them\n21      since you did not offer him the deposition to\n22      review.\n23           MR. SCAROLA: And that's what you do --\n24           MR. SCOTT: And I think that's totally\n25      proper --",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "298",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1       adult to provide sexual services to people.\n2            I would hope they would look at all the\n3       reports, not just selected portions of those\n4       reports.\n5            Q. Would that include the reports of the\n6       Federal Bureau of Investigation?\n7            A. I would hope so.\n8            Q. Would that include the information\n9       provided by the U.S. Attorney's Office?\n10           A. I would sure hope so, and I could tell you\n11      that the --\n12           Q. Would that include --\n13           A. Let me just say that the U.S. Attorney's\n14      Office has told me unequivocally that my name never\n15      came up in any context of any accusation against me\n16      during the negotiations.\n17           Q. Is this part of your work product that\n18      you're waiving right now?\n19           MR. SWEDER: No, no.\n20           A. My conversation with Jeffrey Sloman is not\n21      work product.\n22           MR. SCOTT: Here's a --\n23           BY MR. SCAROLA:\n24           Q. What is the work product --\n25           MR. SCOTT: Excuse me. Please review",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "300",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1            MR. SCAROLA: -- in cross examination. It\n2       is --\n3            MR. SCOTT: -- to do. No --\n4            MR. SCAROLA: -- improper.\n5            MR. SCOTT: No.\n6            MR. SCAROLA: There's no question pending\n7       as to which that's relevant. But let's take a\n8       look at what you're showing him.\n9            MR. SCOTT: Sure. Why don't you read it\n10      into the record?\n11           THE WITNESS: I've read it.\n12           MR. SCOTT: Read it into the record so\n13      that Mr. Scarola is advised.\n14           A. \"Okay. When Alan Dershowitz was in the\n15      house, I understand you to say that these local\n16      Palm Beach girls would come over to the house\n17      while he was there, but you're not sure if he\n18      had a massage from any of these girls?\n19           \"Exactly.\n20           \"And what would he do while these girls\n21      were in the house?\n22           \"He would read a book with a glass of\n23      wine by the pool, stay inside.\n24           \"Did he ever talk to any of the girls?\n25           \"I don't know, sir.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "31 (Pages 297 to 300)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010813",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Jeffrey Epstein",
+      "Mr. Scott",
+      "Mr. Scarola",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Mr. Sweder",
+      "Jeffrey Sloman",
+      "Alan Dershowitz"
+    ],
+    "organizations": [
+      "Palm Beach police department",
+      "Federal Bureau of Investigation",
+      "U.S. Attorney's Office",
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010813",
+      "297",
+      "298",
+      "299",
+      "300"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010813"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding reports about Jeffrey Epstein, the credibility of Virginia Roberts, and the presence of Alan Dershowitz.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010813"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a collection of four pages from a larger deposition transcript, indicated by the page numbers 297-300. The Bates number 'HOUSE_OVERSIGHT_010813' suggests it is part of a production to the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010813.jpg",
+  "house_oversight_id": "010813",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:45:29.831618Z",
+    "model": "gemini-2.5-pro"
+  }
+}

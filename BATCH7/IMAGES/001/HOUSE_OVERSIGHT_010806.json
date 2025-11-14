@@ -1,0 +1,118 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010806.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal deposition transcript. The pages are numbered 269, 270, 271, and 272. The text is a question-and-answer format with speaker attributions. A footer at the bottom contains contact information for a reporting service and a document identifier.",
+    "layout": "The image displays four pages in a 2x2 grid. Each page is a single column of text with line numbers on the left margin. Page numbers are centered at the top of each page. A footer spans the bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "269\n1        A.   I have --\n2        Q.   -- during the course of the deposition, I\n3   am permitted to examine it.\n4        A.   I have lawyer-client privileged\n5   information in here, so I can't give it to you. I\n6   can give it to you in a redacted form. I have a\n7   quote from David Boies in here, which I'm sure --\n8             MR. SCOTT: Don't --\n9        A.   -- nobody is going to want to see --\n10            MR. SCOTT: We'll make a copy and give it\n11  to you.\n12            MR. SCAROLA: Thank you. Would you hand\n13  it to your counsel, please.\n14            MR. SCOTT: On that note, hold on to that.\n15            THE WITNESS: But I need that back.\n16            MR. SCOTT: Of course. Don't worry.\n17            MR. SIMPSON: Hold on to it.\n18            MR. SCOTT: That's why I gave it to him\n19  because I'd lose it.\n20       BY MR. SCAROLA:\n21       Q.   Before January 21, 2015, what information\n22  did you have regarding what Bradley Edwards and Paul\n23  Cassell had gathered in the course of investigating\n24  the accuracy of Virginia Roberts' accusations\n25  against you?\n\n271\n1   Cassell had done in the course of their\n2   investigation of the credibility of the accusations\n3   made by Virginia Roberts against you?\n4        A.   Well, first and foremost, the most\n5   important piece of information I had was my firm and\n6   complete knowledge and memory that I had never had\n7   any sexual contact with Virginia Roberts ever under\n8   any circumstances or any other underage girls. So I\n9   knew --\n10       Q.   The question I'm asking, sir --\n11       A.   -- this information --\n12       Q.   -- focuses on what knowledge you had\n13  regarding what Bradley Edwards and Paul Cassell did\n14  in the course of their investigation of the\n15  credibility of the accusations against you made by\n16  Virginia Roberts?\n17       A.   That was the first and most important bit\n18  of information; namely, that I couldn't have done it\n19  and didn't do it. So I knew for sure that they\n20  could not have conducted any kind of valid\n21  investigation.\n22            Second, I knew from -- that they also had\n23  a letter from Mr. Scarola that said that multiple\n24  witnesses had placed me in the presence of Jeffrey\n25  Epstein and underage girls and I knew that\n\n270\n1        A.   Well, first, I knew that anything they\n2   gathered --\n3             MR. INDYKE: Objection to the extent that\n4   requires --\n5             MR. SCOTT: Whoa.\n6             MS. MCCAWLEY: -- you to disclose anything\n7   you gave --\n8             THE COURT REPORTER: I can't hear.\n9             I'm sorry, Mr. Indyke, can you repeat your\n10  objection?\n11            MR. SCOTT: Can you say that a little\n12  louder?\n13            MR. INDYKE: Darren Indyke. I would\n14  object to the extent that your answer would\n15  disclose anything you -- you obtained or\n16  learned or any knowledge you gained in\n17  connection with your representation of Jeffrey\n18  Epstein.\n19            MR. SCOTT: Do you understand that\n20  instruction?\n21            THE WITNESS: I do, yes.\n22            Could you repeat the question?\n23       BY MR. SCAROLA:\n24       Q.   Yes, sir. I want to know what information\n25  you had regarding what Bradley Edwards and Paul\n\n272\n1   Mr. Scarola's letter was a patent lie. And they had\n2   access to that letter and that information.\n3             I also knew they were relying on\n4   depositions of two house people of Jeffrey Epstein.\n5   And I've read these two depositions. And I'm sure I\n6   knew of other -- other information as well.\n7             I knew that they had stated -- I knew that\n8   they had stated publicly, or you had stated publicly\n9   on their behalf as a witness, that you had stated\n10  publicly that you had tried to depose me on these --\n11  on this subject. I knew that that was a blatant lie\n12  and unethical conduct because nobody ever tried to\n13  depose me on this subject.\n14            I had never been accused, nor did I have\n15  any knowledge that anybody had ever falsely accused\n16  me of having any sexual encounters. And I had a\n17  great deal of information on the paucity or\n18  absence of any legitimate investigation. And I also\n19  knew that they hadn't called me, they hadn't tried\n20  to call me, there was no record of an attempt to\n21  call me or e-mail me. My e-mail is available on my\n22  website. My phone number is available on my\n23  website.\n24            The most basic thing they could have done,\n25  as courts have said, when you're accusing somebody\n\nwww.phippsreporting.com\n(888) 811-3408\n24 (Pages 269 to 272)\nHOUSE_OVERSIGHT_010806",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "269\n1        A.   I have --\n2        Q.   -- during the course of the deposition, I\n3   am permitted to examine it.\n4        A.   I have lawyer-client privileged\n5   information in here, so I can't give it to you. I\n6   can give it to you in a redacted form. I have a\n7   quote from David Boies in here, which I'm sure --\n8             MR. SCOTT: Don't --\n9        A.   -- nobody is going to want to see --\n10            MR. SCOTT: We'll make a copy and give it\n11  to you.\n12            MR. SCAROLA: Thank you. Would you hand\n13  it to your counsel, please.\n14            MR. SCOTT: On that note, hold on to that.\n15            THE WITNESS: But I need that back.\n16            MR. SCOTT: Of course. Don't worry.\n17            MR. SIMPSON: Hold on to it.\n18            MR. SCOTT: That's why I gave it to him\n19  because I'd lose it.\n20       BY MR. SCAROLA:\n21       Q.   Before January 21, 2015, what information\n22  did you have regarding what Bradley Edwards and Paul\n23  Cassell had gathered in the course of investigating\n24  the accuracy of Virginia Roberts' accusations\n25  against you?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "271\n1   Cassell had done in the course of their\n2   investigation of the credibility of the accusations\n3   made by Virginia Roberts against you?\n4        A.   Well, first and foremost, the most\n5   important piece of information I had was my firm and\n6   complete knowledge and memory that I had never had\n7   any sexual contact with Virginia Roberts ever under\n8   any circumstances or any other underage girls. So I\n9   knew --\n10       Q.   The question I'm asking, sir --\n11       A.   -- this information --\n12       Q.   -- focuses on what knowledge you had\n13  regarding what Bradley Edwards and Paul Cassell did\n14  in the course of their investigation of the\n15  credibility of the accusations against you made by\n16  Virginia Roberts?\n17       A.   That was the first and most important bit\n18  of information; namely, that I couldn't have done it\n19  and didn't do it. So I knew for sure that they\n20  could not have conducted any kind of valid\n21  investigation.\n22            Second, I knew from -- that they also had\n23  a letter from Mr. Scarola that said that multiple\n24  witnesses had placed me in the presence of Jeffrey\n25  Epstein and underage girls and I knew that",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "270\n1        A.   Well, first, I knew that anything they\n2   gathered --\n3             MR. INDYKE: Objection to the extent that\n4   requires --\n5             MR. SCOTT: Whoa.\n6             MS. MCCAWLEY: -- you to disclose anything\n7   you gave --\n8             THE COURT REPORTER: I can't hear.\n9             I'm sorry, Mr. Indyke, can you repeat your\n10  objection?\n11            MR. SCOTT: Can you say that a little\n12  louder?\n13            MR. INDYKE: Darren Indyke. I would\n14  object to the extent that your answer would\n15  disclose anything you -- you obtained or\n16  learned or any knowledge you gained in\n17  connection with your representation of Jeffrey\n18  Epstein.\n19            MR. SCOTT: Do you understand that\n20  instruction?\n21            THE WITNESS: I do, yes.\n22            Could you repeat the question?\n23       BY MR. SCAROLA:\n24       Q.   Yes, sir. I want to know what information\n25  you had regarding what Bradley Edwards and Paul",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "272\n1   Mr. Scarola's letter was a patent lie. And they had\n2   access to that letter and that information.\n3             I also knew they were relying on\n4   depositions of two house people of Jeffrey Epstein.\n5   And I've read these two depositions. And I'm sure I\n6   knew of other -- other information as well.\n7             I knew that they had stated -- I knew that\n8   they had stated publicly, or you had stated publicly\n9   on their behalf as a witness, that you had stated\n10  publicly that you had tried to depose me on these --\n11  on this subject. I knew that that was a blatant lie\n12  and unethical conduct because nobody ever tried to\n13  depose me on this subject.\n14            I had never been accused, nor did I have\n15  any knowledge that anybody had ever falsely accused\n16  me of having any sexual encounters. And I had a\n17  great deal of information on the paucity or\n18  absence of any legitimate investigation. And I also\n19  knew that they hadn't called me, they hadn't tried\n20  to call me, there was no record of an attempt to\n21  call me or e-mail me. My e-mail is available on my\n22  website. My phone number is available on my\n23  website.\n24            The most basic thing they could have done,\n25  as courts have said, when you're accusing somebody",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "24 (Pages 269 to 272)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010806",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-21"
+    ],
+    "people": [
+      "David Boies",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "THE WITNESS",
+      "MR. SIMPSON",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Jeffrey Epstein",
+      "MR. INDYKE",
+      "MS. MCCAWLEY",
+      "THE COURT REPORTER",
+      "Darren Indyke"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "269",
+      "270",
+      "271",
+      "272",
+      "HOUSE_OVERSIGHT_010806"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010806"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness regarding information gathered by Bradley Edwards and Paul Cassell concerning accusations made by Virginia Roberts.",
+    "date": "2015-01-21",
+    "references": [
+      "HOUSE_OVERSIGHT_010806"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal deposition. The speakers are identified by titles such as 'Q.', 'A.', 'MR. SCOTT', etc. The full names of some individuals are mentioned within the dialogue. The document identifier 'HOUSE_OVERSIGHT_010806' suggests it is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010806.jpg",
+  "house_oversight_id": "010806",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:40:59.935018Z",
+    "model": "gemini-2.5-pro"
+  }
+}

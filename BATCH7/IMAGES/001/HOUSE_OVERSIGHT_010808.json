@@ -1,0 +1,115 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010808.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal transcript, arranged in a 2x2 grid. The pages are numbered 277, 279, 278, and 280. The text is a question-and-answer style dialogue, typical of a deposition or court hearing, with line numbers on the left margin of each page.",
+    "layout": "The image displays four distinct pages. Page 277 is top-left, 279 is top-right, 278 is bottom-left, and 280 is bottom-right. A footer with contact information and a document identifier is visible at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "landscape"
+  },
+  "text_extraction": {
+    "full_text": "277\n1      oils and towels?\n2          \"Answer: Yes, ma'am.\n3          \"Question: And did you ever have occasion\n4      to go upstairs and clean up after the massages?\n5          \"Answer: Yeah, uh-huh.\n6          \"Question: Did you ever find any\n7      vibrators in that area?\n8          \"Answer: Yes. I told him yes.\n9          \"Question: Would you describe for me what\n10     kinds of vibrators you found?\n11         \"Answer: I'm not too familiar with the\n12     names, but they were like big dildos, what they\n13     call the big rubber things like that\n14     (indicating). And I used to go and put my\n15     gloves on and pick them up, put them in the\n16     sink, rinse it off and put it in Ms. Maxwell --\n17     Ms. Maxwell had in her closet, she had like a\n18     laundry basket. And you put laundry in. She\n19     have full of those toys.\"\n20         Is that testimony that exonerates you,\n21     Mr. Dershowitz? Is that what you were referring to?\n22         MR. SCOTT: Let me -- objection to the\n23     form, improper cross-examination by taking\n24     excerpts out of depositions of witnesses.\n25\n\n279\n1      is a third-year student at Harvard, were all there\n2      with me. That was the only time that I stayed over\n3      more than one night. And I never stayed even one\n4      night during the relevant timeframe.\n5          But most importantly, he gives no\n6      timeframe. And clearly his reference to the sex\n7      toys is a reference to the part of the house that I\n8      was never permitted in and never entered.\n9          Q. What is the question that you think you\n10     were answering?\n11         A. Whether --\n12         MR. SCOTT: He was explaining to you\n13     exactly why he felt that that was\n14     inappropriate, which is exactly what you asked\n15     him.\n16         MR. SCAROLA: No, it is not.\n17         MR. SCOTT: Well, it is my recollection,\n18     so I don't know --\n19         MR. SCAROLA: Well, then --\n20         MR. SCOTT: I think he was defending --\n21         MR. SCAROLA: Let me try the same question\n22     over again.\n23         MR. SCOTT: I think he was defending\n24     his -- his position.\n25         THE WITNESS: Right.\n\n278\n1      BY MR. SCAROLA:\n2          Q. Is it your contention that that testimony,\n3      under oath, of your friend, Mr. Epstein's staff\n4      person, exonerates you?\n5          A. First, a little background. Mr. Alessi\n6      was fired for theft of material from Mr. Epstein, so\n7      Mr. Alessi was not on a friendly basis with Jeffrey\n8      Epstein.\n9          Second, the description of the dildos and\n10     sex toys clearly refers to the area of the house\n11     that I was never in, the area of Ms. Maxwell's room,\n12     rather than the area of the room that I stayed in.\n13         Third, he gives no timeframe for the\n14     visits.\n15         And, fourth, he certainly didn't in any\n16     way confirm that I was there while Virginia Roberts\n17     was there. His answer was simply that I was there\n18     from time to time. He's wrong about that. During\n19     the relevant timeframe, I was never in the house.\n20         And even taking outside the relevant\n21     timeframe, the only time I was in the house for more\n22     than one day was when my family, my wife, my son, my\n23     daughter-in-law, my then probably seven or\n24     eight-year-old granddaughter, who just graduated\n25     Harvard, and my probably four-year-old grandson, who\n\n280\n1      BY MR. SCAROLA:\n2          Q. The question was: Is that part of the\n3      time that you claim exonerates you?\n4          A. Well, I think if you read the whole\n5      testimony, it clearly exonerates me and I think that\n6      part of the testimony in no way inculpates me and no\n7      reasonable person reading that could use that as a\n8      basis for making allegations that I had sexual\n9      encounters or misconduct with Virginia Roberts.\n10         So, when -- if that's the best testimony\n11     that your unprofessional clients relied on, then\n12     clearly that exonerates me.\n13         Again, the absence of evidence is evidence\n14     of absence. And the very idea that this is seen as\n15     some basis for concluding that I had sexual\n16     encounters with -- with Virginia Roberts, why wasn't\n17     he asked did he ever see me have a massage by\n18     Virginia Roberts? Did he ever see me have a sexual\n19     encounter with Virginia Roberts? Did he ever go to\n20     the room I was staying in and find any sex toys?\n21         The answers to all those questions, if\n22     truthful, would be no.\n23         Q. What was Mr. Alessi's motive against you?\n24     You've told us he was fired by Jeffrey Epstein, so\n25     he may have had some motive against Mr. Epstein.\n\n26 (Pages 277 to 280)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010808",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "277\n1      oils and towels?\n2          \"Answer: Yes, ma'am.\n3          \"Question: And did you ever have occasion\n4      to go upstairs and clean up after the massages?\n5          \"Answer: Yeah, uh-huh.\n6          \"Question: Did you ever find any\n7      vibrators in that area?\n8          \"Answer: Yes. I told him yes.\n9          \"Question: Would you describe for me what\n10     kinds of vibrators you found?\n11         \"Answer: I'm not too familiar with the\n12     names, but they were like big dildos, what they\n13     call the big rubber things like that\n14     (indicating). And I used to go and put my\n15     gloves on and pick them up, put them in the\n16     sink, rinse it off and put it in Ms. Maxwell --\n17     Ms. Maxwell had in her closet, she had like a\n18     laundry basket. And you put laundry in. She\n19     have full of those toys.\"\n20         Is that testimony that exonerates you,\n21     Mr. Dershowitz? Is that what you were referring to?\n22         MR. SCOTT: Let me -- objection to the\n23     form, improper cross-examination by taking\n24     excerpts out of depositions of witnesses.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "279\n1      is a third-year student at Harvard, were all there\n2      with me. That was the only time that I stayed over\n3      more than one night. And I never stayed even one\n4      night during the relevant timeframe.\n5          But most importantly, he gives no\n6      timeframe. And clearly his reference to the sex\n7      toys is a reference to the part of the house that I\n8      was never permitted in and never entered.\n9          Q. What is the question that you think you\n10     were answering?\n11         A. Whether --\n12         MR. SCOTT: He was explaining to you\n13     exactly why he felt that that was\n14     inappropriate, which is exactly what you asked\n15     him.\n16         MR. SCAROLA: No, it is not.\n17         MR. SCOTT: Well, it is my recollection,\n18     so I don't know --\n19         MR. SCAROLA: Well, then --\n20         MR. SCOTT: I think he was defending --\n21         MR. SCAROLA: Let me try the same question\n22     over again.\n23         MR. SCOTT: I think he was defending\n24     his -- his position.\n25         THE WITNESS: Right.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "278\n1      BY MR. SCAROLA:\n2          Q. Is it your contention that that testimony,\n3      under oath, of your friend, Mr. Epstein's staff\n4      person, exonerates you?\n5          A. First, a little background. Mr. Alessi\n6      was fired for theft of material from Mr. Epstein, so\n7      Mr. Alessi was not on a friendly basis with Jeffrey\n8      Epstein.\n9          Second, the description of the dildos and\n10     sex toys clearly refers to the area of the house\n11     that I was never in, the area of Ms. Maxwell's room,\n12     rather than the area of the room that I stayed in.\n13         Third, he gives no timeframe for the\n14     visits.\n15         And, fourth, he certainly didn't in any\n16     way confirm that I was there while Virginia Roberts\n17     was there. His answer was simply that I was there\n18     from time to time. He's wrong about that. During\n19     the relevant timeframe, I was never in the house.\n20         And even taking outside the relevant\n21     timeframe, the only time I was in the house for more\n22     than one day was when my family, my wife, my son, my\n23     daughter-in-law, my then probably seven or\n24     eight-year-old granddaughter, who just graduated\n25     Harvard, and my probably four-year-old grandson, who",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "280\n1      BY MR. SCAROLA:\n2          Q. The question was: Is that part of the\n3      time that you claim exonerates you?\n4          A. Well, I think if you read the whole\n5      testimony, it clearly exonerates me and I think that\n6      part of the testimony in no way inculpates me and no\n7      reasonable person reading that could use that as a\n8      basis for making allegations that I had sexual\n9      encounters or misconduct with Virginia Roberts.\n10         So, when -- if that's the best testimony\n11     that your unprofessional clients relied on, then\n12     clearly that exonerates me.\n13         Again, the absence of evidence is evidence\n14     of absence. And the very idea that this is seen as\n15     some basis for concluding that I had sexual\n16     encounters with -- with Virginia Roberts, why wasn't\n17     he asked did he ever see me have a massage by\n18     Virginia Roberts? Did he ever see me have a sexual\n19     encounter with Virginia Roberts? Did he ever go to\n20     the room I was staying in and find any sex toys?\n21         The answers to all those questions, if\n22     truthful, would be no.\n23         Q. What was Mr. Alessi's motive against you?\n24     You've told us he was fired by Jeffrey Epstein, so\n25     he may have had some motive against Mr. Epstein.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "26 (Pages 277 to 280)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010808",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Ms. Maxwell",
+      "Mr. Dershowitz",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Mr. Epstein",
+      "Mr. Alessi",
+      "Jeffrey Epstein",
+      "Virginia Roberts",
+      "THE WITNESS"
+    ],
+    "organizations": [
+      "Harvard",
+      "Phipps Reporting"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010808",
+      "277",
+      "278",
+      "279",
+      "280"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or court testimony involving Mr. Dershowitz, regarding testimony from Mr. Alessi about events related to Jeffrey Epstein, Ms. Maxwell, and Virginia Roberts.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010808"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding. The pages are presented out of numerical order in the image (277, 279, 278, 280), but the text has been extracted and organized logically. The content discusses testimony related to the Jeffrey Epstein case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010808.jpg",
+  "house_oversight_id": "010808",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:42:15.970073Z",
+    "model": "gemini-2.5-pro"
+  }
+}

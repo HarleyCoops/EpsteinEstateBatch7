@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010812.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 293, 295, 294, and 296. The text is a dialogue, likely from a deposition or hearing, with line numbers on the left of each page. A footer at the bottom contains contact information for a reporting company, a page range, and a document identifier.",
+    "layout": "Four-column grid, with each column representing a single page of a transcript. Page numbers are at the top of each column. A footer is centered at the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "293\n1 excerpts out of a deposition to try to imply\n2 something when there's other parts that totally\n3 are inconsistent with that. And if you're\n4 going to do that, then he has the ability under\n5 our rules to review the entire transcript of\n6 the deposition and that's what I'm permitting\n7 him to do, just like when we're in court.\n8 MR. SCAROLA: What I am doing,\n9 Mr. Scott -- what I am doing, Mr. Scott --\n10 MR. SCOTT: Have you read that now, sir?\n11 MR. SCAROLA: -- is reviewing the evidence\n12 that was relied upon by Bradley Edwards and by\n13 Paul Cassell in coming to the conclusion that\n14 the allegations that had been made by Virginia\n15 Roberts were, in fact, credible allegations.\n16 MR. SCOTT: And I'm --\n17 MR. SCAROLA: Because your own client has\n18 acknowledged that this is information that was\n19 available to both him and to them back in 2009.\n20 MR. SCOTT: And what I am doing is showing\n21 him portions of the same deposition that\n22 totally take a different position from this\n23 witness from what you have read, so that this\n24 record is a complete record and not a partial\n25 record with your inference only. And I feel\n\n295\n1 Do you remember that testimony having been\n2 given?\n3 A. I assume that when your clients used the\n4 transcript as a basis for their false conclusion\n5 that I was guilty, they read the whole transcripts,\n6 not just the --\n7 BY MR. SCAROLA:\n8 Q. Every word.\n9 MR. SCOTT: Don't interrupt him.\n10 BY MR. SCAROLA:\n11 Q. You don't need to assume that. I will\n12 stipulate they read every word.\n13 MR. SCOTT: Mr. Scarola, he's speaking.\n14 You don't have a right to do this.\n15 A. And if you read every word, you will see\n16 that it's totally exculpatory, that I have no idea\n17 whether there were any young women in one part of\n18 the house when I was in another part of the house.\n19 It's completely consistent with my testimony that I\n20 have never seen any underage women. Let's see.\n21 And if you read the whole transcript,\n22 you'll see, I think:\n23 \"Was Dershowitz ever there when one of the\n24 woman gave a massage?\"\n25 \"I don't remember that.\n\n294\n1 that that's totally appropriate. If we were in\n2 a courtroom, a judge would permit him to do it.\n3 So you have your position and I have mine.\n4 MR. SWEDEN: Can we have the witness read\n5 that?\n6 BY MR. SCAROLA:\n7 Q. Do you recall the following testimony\n8 having been given in that same deposition?\n9 \"Question: All right. This is follow-up\n10 to questioning by Ms. Ezell. Ms. Ezell asked\n11 you about Mr. Dershowitz being present in\n12 Mr. Epstein's home, and I think you said -- I\n13 think you said Mr. Epstein and he and\n14 Mr. Dershowitz were friends?\n15 \"Answer: Yes.\n16 \"Question: She also, I think, asked was\n17 Mr. Dershowitz ever there when one of the young\n18 women who gave a massage was present in the\n19 home?\n20 \"Answer: I don't remember that.\n21 \"Question: That's where I want to clear\n22 up. Is it your testimony that Mr. Dershowitz\n23 was there when any of the women came to\n24 Mr. Epstein's home to give a massage?\n25 \"Answer: Yes.\"\n\n296\n1 \"Were you in -- were you in any way\n2 attempting in your response to imply that\n3 Mr. Dershowitz had a massage by one of these\n4 young ladies?\n5 \"I don't know, sir.\n6 \"You have no knowledge?\n7 \"No, sir.\n8 \"And you certainly weren't implying that\n9 that occurred; you just have no knowledge,\n10 correct?\n11 \"Answer: I don't know.\"\n12 And I would hope that your clients would\n13 be reading the whole thing in context, unlike what\n14 you've tried to do to try to create a false\n15 impression that this testimony in any way exculpates\n16 me.\n17 I have to say if this is what they relied\n18 on, my confirmation of their unethical and\n19 unprofessional conduct has been strongly\n20 corroborated by that and you're helping my case.\n21 BY MR. SCAROLA:\n22 Q. Would it have been reasonable for Bradley\n23 Edwards and Paul Cassell to have relied upon the\n24 detailed reports of Palm Beach police department?\n25 A. I don't know. I don't know what the Palm\n\n30 (Pages 293 to 296)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010812",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "293\n1 excerpts out of a deposition to try to imply\n2 something when there's other parts that totally\n3 are inconsistent with that. And if you're\n4 going to do that, then he has the ability under\n5 our rules to review the entire transcript of\n6 the deposition and that's what I'm permitting\n7 him to do, just like when we're in court.\n8 MR. SCAROLA: What I am doing,\n9 Mr. Scott -- what I am doing, Mr. Scott --\n10 MR. SCOTT: Have you read that now, sir?\n11 MR. SCAROLA: -- is reviewing the evidence\n12 that was relied upon by Bradley Edwards and by\n13 Paul Cassell in coming to the conclusion that\n14 the allegations that had been made by Virginia\n15 Roberts were, in fact, credible allegations.\n16 MR. SCOTT: And I'm --\n17 MR. SCAROLA: Because your own client has\n18 acknowledged that this is information that was\n19 available to both him and to them back in 2009.\n20 MR. SCOTT: And what I am doing is showing\n21 him portions of the same deposition that\n22 totally take a different position from this\n23 witness from what you have read, so that this\n24 record is a complete record and not a partial\n25 record with your inference only. And I feel",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "295\n1 Do you remember that testimony having been\n2 given?\n3 A. I assume that when your clients used the\n4 transcript as a basis for their false conclusion\n5 that I was guilty, they read the whole transcripts,\n6 not just the --\n7 BY MR. SCAROLA:\n8 Q. Every word.\n9 MR. SCOTT: Don't interrupt him.\n10 BY MR. SCAROLA:\n11 Q. You don't need to assume that. I will\n12 stipulate they read every word.\n13 MR. SCOTT: Mr. Scarola, he's speaking.\n14 You don't have a right to do this.\n15 A. And if you read every word, you will see\n16 that it's totally exculpatory, that I have no idea\n17 whether there were any young women in one part of\n18 the house when I was in another part of the house.\n19 It's completely consistent with my testimony that I\n20 have never seen any underage women. Let's see.\n21 And if you read the whole transcript,\n22 you'll see, I think:\n23 \"Was Dershowitz ever there when one of the\n24 woman gave a massage?\"\n25 \"I don't remember that.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "294\n1 that that's totally appropriate. If we were in\n2 a courtroom, a judge would permit him to do it.\n3 So you have your position and I have mine.\n4 MR. SWEDEN: Can we have the witness read\n5 that?\n6 BY MR. SCAROLA:\n7 Q. Do you recall the following testimony\n8 having been given in that same deposition?\n9 \"Question: All right. This is follow-up\n10 to questioning by Ms. Ezell. Ms. Ezell asked\n11 you about Mr. Dershowitz being present in\n12 Mr. Epstein's home, and I think you said -- I\n13 think you said Mr. Epstein and he and\n14 Mr. Dershowitz were friends?\n15 \"Answer: Yes.\n16 \"Question: She also, I think, asked was\n17 Mr. Dershowitz ever there when one of the young\n18 women who gave a massage was present in the\n19 home?\n20 \"Answer: I don't remember that.\n21 \"Question: That's where I want to clear\n22 up. Is it your testimony that Mr. Dershowitz\n23 was there when any of the women came to\n24 Mr. Epstein's home to give a massage?\n25 \"Answer: Yes.\"",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "296\n1 \"Were you in -- were you in any way\n2 attempting in your response to imply that\n3 Mr. Dershowitz had a massage by one of these\n4 young ladies?\n5 \"I don't know, sir.\n6 \"You have no knowledge?\n7 \"No, sir.\n8 \"And you certainly weren't implying that\n9 that occurred; you just have no knowledge,\n10 correct?\n11 \"Answer: I don't know.\"\n12 And I would hope that your clients would\n13 be reading the whole thing in context, unlike what\n14 you've tried to do to try to create a false\n15 impression that this testimony in any way exculpates\n16 me.\n17 I have to say if this is what they relied\n18 on, my confirmation of their unethical and\n19 unprofessional conduct has been strongly\n20 corroborated by that and you're helping my case.\n21 BY MR. SCAROLA:\n22 Q. Would it have been reasonable for Bradley\n23 Edwards and Paul Cassell to have relied upon the\n24 detailed reports of Palm Beach police department?\n25 A. I don't know. I don't know what the Palm",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "30 (Pages 293 to 296)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010812",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009"
+    ],
+    "people": [
+      "Mr. Scarola",
+      "Mr. Scott",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Mr. Sweden",
+      "Ms. Ezell",
+      "Mr. Dershowitz",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "Palm Beach police department",
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "293",
+      "294",
+      "295",
+      "296",
+      "30",
+      "HOUSE_OVERSIGHT_010812"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony involving Mr. Dershowitz, Mr. Epstein, and related allegations.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010812"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document consists of four pages from a transcript, presented out of numerical order (293, 295, 294, 296). The speakers are identified by their last names or as 'Q' (Question) and 'A' (Answer).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010812.jpg",
+  "house_oversight_id": "010812",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:44:47.750458Z",
+    "model": "gemini-2.5-pro"
+  }
+}

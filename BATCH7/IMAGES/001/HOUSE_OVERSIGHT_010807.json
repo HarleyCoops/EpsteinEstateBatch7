@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010807.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single image displaying four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 273, 275, 274, and 276. The text is a question-and-answer format typical of a deposition or court hearing. A footer at the bottom contains contact information and a document identifier.",
+    "layout": "Four-quadrant layout, with page 273 top-left, 275 top-right, 274 bottom-left, and 276 bottom-right. Each page has numbered lines of text.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "273\n1      of outrageous, horrible, inexcusable misconduct, at\n2      least call the person and ask them if they can\n3      disprove it before you file a -- a statement. Not\n4      even asking for a hearing on it, not even basically\n5      seeking to prove it, just -- just putting it in a\n6      pleading as if scrolling on a bathroom stall.\n7          So, yes, I had -- I had a great basis for\n8      making that kind of statement and I repeat it here\n9      today. And we will find out in depositions what\n10     basis they actually had. And I'm anxiously awaiting\n11     Mr. Cassell's deposition this afternoon.\n12         MR. SCAROLA: Move to strike the\n13     non-responsive portion of that answer.\n14         Could I have a standing objection to\n15     unresponsive --\n16         MR. SCOTT: Sure.\n17         MR. SCAROLA: -- answers? That would be\n18     helpful. Thank you. I appreciate that. That\n19     will save us --\n20         MR. SCOTT: Absolutely. No, any time.\n21         MR. SCAROLA: -- save us some time.\n22         MR. SCOTT: Thank you, sir.\n23     BY MR. SCAROLA:\n24         Q. The one portion of what you just said that\n25     directly responded to my question was you knew in\n\n275\n1      your assertion that the testimony of these two\n2      individuals completely exculpates you.\n3          A. Uh-huh.\n4          Q. The following question was asked of --\n5              MR. SCOTT: What you are reading from?\n6              MR. SCAROLA: I'm reading from the\n7      deposition transcript.\n8      BY MR. SCAROLA:\n9          Q. The following question was asked of --\n10             MR. SCOTT: The deposition transcript --\n11     BY MR. SCAROLA:\n12         Q. -- of Mr. Juan -- Mr. Juan Alessi and --\n13             MR. SCOTT: Let me object to the -- first\n14     of all, let me object to this format because he\n15     has not been provided a part of the deposition.\n16     You're reading portions from the deposition --\n17             MR. SCAROLA: Yes, I am.\n18             MR. SCOTT: -- which can be taken out of\n19     context. He has not had the ability to review\n20     the deposition. This is improper.\n21             MR. SCAROLA: Okay.\n22             MR. SCOTT: Cross-examination.\n23     BY MR. SCAROLA:\n24         Q. Do you recall the following questions\n25     having been asked of Mr. Alessi and the following\n\n274\n1      early January of 2015 that Bradley Edwards and Paul\n2      Cassell had the sworn testimony of two -- did you\n3      refer to them as house --\n4          A. House people.\n5          Q. House staff?\n6          A. House staff.\n7          Q. House staff of Jeffrey Epstein's --\n8          A. That's right.\n9          Q. -- correct?\n10         And those two individuals are Juan Alessi\n11     and Alfredo Rodriguez, correct?\n12         A. That's right.\n13         Q. And you, in fact, were aware of the\n14     existence of that testimony from shortly after the\n15     time that the testimony was given, weren't you?\n16         A. Well, I was certainly aware of it at the\n17     time I made these statements.\n18         Q. Yes, sir. But you also knew as far back\n19     as 2009, when this sworn testimony was given, that\n20     you were specifically identified by name in the\n21     sworn testimony of Jeffrey Epstein's house staff\n22     members, right?\n23         A. I was identified by name in a manner that\n24     completely exculpated me, yes.\n25         Q. Okay. Well, let's -- let's take a look at\n\n276\n1      answers have been given during the course of this\n2      deposition which you contend completely exonerates\n3      you?\n4          \"Question: Do you have any recollection\n5      of VR, referring to Virginia Roberts, coming to\n6      the house when Prince Andrew was there?\n7          \"Answer: It could have been, but I'm not\n8      sure.\n9          \"Question: When Mr. Dershowitz was\n10     visiting --\n11         \"Answer: Uh-huh.\n12         \"Question: -- how often did he come?\n13         \"Answer: He came pretty -- pretty often.\n14     I would say at least four or five times a year.\n15         \"Question: And how long would he stay\n16     typically?\n17         \"Answer: Two to three days.\n18         \"Question: Did he have massages sometimes\n19     when he was there?\n20         \"Answer: Yes. A massage was like a treat\n21     for everybody. If they wanted, we call the\n22     massage, and they get -- excuse me -- and they\n23     have a massage.\n24         \"Question: You said that you set up the\n25     massage tables, and would you also set up the\n\n25 (Pages 273 to 276)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010807",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "273\n1      of outrageous, horrible, inexcusable misconduct, at\n2      least call the person and ask them if they can\n3      disprove it before you file a -- a statement. Not\n4      even asking for a hearing on it, not even basically\n5      seeking to prove it, just -- just putting it in a\n6      pleading as if scrolling on a bathroom stall.\n7          So, yes, I had -- I had a great basis for\n8      making that kind of statement and I repeat it here\n9      today. And we will find out in depositions what\n10     basis they actually had. And I'm anxiously awaiting\n11     Mr. Cassell's deposition this afternoon.\n12         MR. SCAROLA: Move to strike the\n13     non-responsive portion of that answer.\n14         Could I have a standing objection to\n15     unresponsive --\n16         MR. SCOTT: Sure.\n17         MR. SCAROLA: -- answers? That would be\n18     helpful. Thank you. I appreciate that. That\n19     will save us --\n20         MR. SCOTT: Absolutely. No, any time.\n21         MR. SCAROLA: -- save us some time.\n22         MR. SCOTT: Thank you, sir.\n23     BY MR. SCAROLA:\n24         Q. The one portion of what you just said that\n25     directly responded to my question was you knew in",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "275\n1      your assertion that the testimony of these two\n2      individuals completely exculpates you.\n3          A. Uh-huh.\n4          Q. The following question was asked of --\n5              MR. SCOTT: What you are reading from?\n6              MR. SCAROLA: I'm reading from the\n7      deposition transcript.\n8      BY MR. SCAROLA:\n9          Q. The following question was asked of --\n10             MR. SCOTT: The deposition transcript --\n11     BY MR. SCAROLA:\n12         Q. -- of Mr. Juan -- Mr. Juan Alessi and --\n13             MR. SCOTT: Let me object to the -- first\n14     of all, let me object to this format because he\n15     has not been provided a part of the deposition.\n16     You're reading portions from the deposition --\n17             MR. SCAROLA: Yes, I am.\n18             MR. SCOTT: -- which can be taken out of\n19     context. He has not had the ability to review\n20     the deposition. This is improper.\n21             MR. SCAROLA: Okay.\n22             MR. SCOTT: Cross-examination.\n23     BY MR. SCAROLA:\n24         Q. Do you recall the following questions\n25     having been asked of Mr. Alessi and the following",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "274\n1      early January of 2015 that Bradley Edwards and Paul\n2      Cassell had the sworn testimony of two -- did you\n3      refer to them as house --\n4          A. House people.\n5          Q. House staff?\n6          A. House staff.\n7          Q. House staff of Jeffrey Epstein's --\n8          A. That's right.\n9          Q. -- correct?\n10         And those two individuals are Juan Alessi\n11     and Alfredo Rodriguez, correct?\n12         A. That's right.\n13         Q. And you, in fact, were aware of the\n14     existence of that testimony from shortly after the\n15     time that the testimony was given, weren't you?\n16         A. Well, I was certainly aware of it at the\n17     time I made these statements.\n18         Q. Yes, sir. But you also knew as far back\n19     as 2009, when this sworn testimony was given, that\n20     you were specifically identified by name in the\n21     sworn testimony of Jeffrey Epstein's house staff\n22     members, right?\n23         A. I was identified by name in a manner that\n24     completely exculpated me, yes.\n25         Q. Okay. Well, let's -- let's take a look at",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "276\n1      answers have been given during the course of this\n2      deposition which you contend completely exonerates\n3      you?\n4          \"Question: Do you have any recollection\n5      of VR, referring to Virginia Roberts, coming to\n6      the house when Prince Andrew was there?\n7          \"Answer: It could have been, but I'm not\n8      sure.\n9          \"Question: When Mr. Dershowitz was\n10     visiting --\n11         \"Answer: Uh-huh.\n12         \"Question: -- how often did he come?\n13         \"Answer: He came pretty -- pretty often.\n14     I would say at least four or five times a year.\n15         \"Question: And how long would he stay\n16     typically?\n17         \"Answer: Two to three days.\n18         \"Question: Did he have massages sometimes\n19     when he was there?\n20         \"Answer: Yes. A massage was like a treat\n21     for everybody. If they wanted, we call the\n22     massage, and they get -- excuse me -- and they\n23     have a massage.\n24         \"Question: You said that you set up the\n25     massage tables, and would you also set up the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "25 (Pages 273 to 276)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010807",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01",
+      "2009"
+    ],
+    "people": [
+      "Mr. Cassell",
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Mr. Juan Alessi",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Jeffrey Epstein",
+      "Alfredo Rodriguez",
+      "Virginia Roberts",
+      "Prince Andrew",
+      "Mr. Dershowitz"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010807",
+      "273",
+      "274",
+      "275",
+      "276"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Cross-examination regarding the sworn testimony of Jeffrey Epstein's house staff, Juan Alessi and Alfredo Rodriguez, and its relevance to the person being questioned, as well as visits by Prince Andrew and Mr. Dershowitz.",
+    "date": null,
+    "references": [
+      "Mr. Cassell's deposition",
+      "deposition transcript"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The image contains four distinct pages of a transcript (273, 274, 275, 276) presented on a single sheet. The page order in the image is not sequential.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010807.jpg",
+  "house_oversight_id": "010807",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:41:39.031290Z",
+    "model": "gemini-2.5-pro"
+  }
+}

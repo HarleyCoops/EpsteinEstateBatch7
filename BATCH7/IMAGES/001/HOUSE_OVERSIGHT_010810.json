@@ -1,0 +1,126 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010810.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal or governmental transcript. The pages are numbered 285, 286, 287, and 288. The text is formatted in two columns with line numbers, typical of a deposition or hearing transcript.",
+    "layout": "The image is a single sheet displaying four distinct pages arranged in a 2x2 grid. The top row contains pages 285 (left) and 287 (right). The bottom row contains pages 286 (left) and 288 (right). Each page has a header with the page number and a main body of text with numbered lines. A footer is visible at the bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "285\n1   relationship with him and he has an ability to\n2   justify and explain his position in response --\n3       MR. SCAROLA: If it's responsive to the\n4   question.\n5       A. It's responsive. And as far as the\n6   filibustering is --\n7       BY MR. SCAROLA:\n8       Q. Do you remember what the question is?\n9       A. -- is concerned, I was here --\n10      Q. Do you remember what the question was?\n11      A. Yes. Yes.\n12      Q. What is the question?\n13      A. The question is -- no, why don't you\n14  repeat the question.\n15      Q. Yes, sir.\n16      A. So --\n17      Q. You know that Bob Josefsberg would not\n18  advance allegations on behalf of a client that that\n19  client had been lent out by Jeffrey Epstein to\n20  satisfy the sexual desires of friends of Jeffrey\n21  Epstein, including academicians, unless Bob\n22  Josefsberg believed those allegations to be true,\n23  right?\n24      A. I believe that -- I know that Bob\n25  Josefsberg would never maintain a friendship with\n\n287\n1   the people who the FBI had put on the -- the list.\n2   I just don't know what his responsibility was.\n3       I can say with confidence that he would\n4   only act ethically and would, A, not represent --\n5   not make any false statements the way your clients\n6   made them, and that I wish your clients had the\n7   ethics of Bob Josefsberg.\n8       Q. You then agree that if Bob Josefsberg\n9   advanced the claims that I have described in a\n10  complaint on behalf of a client, he would not have\n11  done so unless he believed those allegations to be\n12  true, having conducted a fair and reasonable\n13  investigation, correct?\n14      MR. SCOTT: Objection, asked and answered\n15  several times.\n16      A. I don't know the answer to that question\n17  because I don't know the context in which he made\n18  these arguments. All I do know is that he never\n19  would maintain a friendship with me if he believed\n20  in any way that I was one of the people that she had\n21  accused.\n22      BY MR. SCAROLA:\n23      Q. Did Alfredo Rodriguez, another one of your\n24  friend's staff persons, have a motive to lie against\n25  you?\n\n286\n1   me, as he has, if he believed that I was one of\n2   those academicians. Bob Josefsberg knows that I was\n3   not one of those academicians, and the inference of\n4   your question is beneath contempt, sir.\n5       Q. Could we try to answer the question now?\n6       A. The answer is that Bob Josefsberg would\n7   never maintain a friendship with me if he believed\n8   that there was any possibility that I was among the\n9   academicians who she was accusing of sexual\n10  misconduct. I do not believe that she ever accused\n11  me of sexual misconduct to Bob Josefsberg, to the\n12  FBI, to the U.S. attorney, or even, sir, to you and\n13  Bradley Edwards, as she says in 2000, I think, '11.\n14  I think she made up the story on the eve of the\n15  filing in 2014.\n16      Q. You do agree that Bob Josefsberg would not\n17  have advanced the claims that he advanced if he did\n18  not have confidence that they were true, correct?\n19      A. I have no idea what he believed or knew at\n20  the time. I would say this: I know Bob Josefsberg\n21  is an extraordinarily ethical lawyer. I don't know\n22  what his responsibilities were in the case. I don't\n23  know whether his responsibilities were to make those\n24  kinds of judgments or whether his responsibility was\n25  simply to make sure that money was paid to each of\n\n288\n1       A. Alberto Rodriguez --\n2       Q. No, sir, Alfredo Rodriguez.\n3       A. Alfredo Rodriguez, I never knew him by\n4   name. He was, of course, there out -- well outside\n5   of the timeframe of the alleged events in this case.\n6   And so anything that he would be able to testify to\n7   would bear no relationship whatsoever to the -- the\n8   allegations here.\n9       He was criminally prosecuted, to my\n10  memory, for having stolen material and turned it\n11  over to Bradley Edwards is my recollection. And as\n12  the result of that clearly had a motive to lie. And\n13  the same with Mr. Alessi, clearly would have a basis\n14  for believing that they have played a role as\n15  Jeffrey Epstein's lawyer in seeking to do harm to\n16  him.\n17      But again, there's nothing in\n18  Mr. Rodriguez's testimony which is in any way\n19  inculpatory of me. I think he has me sitting and --\n20  and reading a book and drinking a glass of wine.\n21      Q. In the presence of young women?\n22      A. No.\n23      Q. No?\n24      A. I don't --\n25      Q. Do you --\n\n28 (Pages 285 to 288)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010810",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "285",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "287",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "286",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "288",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1   relationship with him and he has an ability to\n2   justify and explain his position in response --\n3       MR. SCAROLA: If it's responsive to the\n4   question.\n5       A. It's responsive. And as far as the\n6   filibustering is --\n7       BY MR. SCAROLA:\n8       Q. Do you remember what the question is?\n9       A. -- is concerned, I was here --\n10      Q. Do you remember what the question was?\n11      A. Yes. Yes.\n12      Q. What is the question?\n13      A. The question is -- no, why don't you\n14  repeat the question.\n15      Q. Yes, sir.\n16      A. So --\n17      Q. You know that Bob Josefsberg would not\n18  advance allegations on behalf of a client that that\n19  client had been lent out by Jeffrey Epstein to\n20  satisfy the sexual desires of friends of Jeffrey\n21  Epstein, including academicians, unless Bob\n22  Josefsberg believed those allegations to be true,\n23  right?\n24      A. I believe that -- I know that Bob\n25  Josefsberg would never maintain a friendship with",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1   the people who the FBI had put on the -- the list.\n2   I just don't know what his responsibility was.\n3       I can say with confidence that he would\n4   only act ethically and would, A, not represent --\n5   not make any false statements the way your clients\n6   made them, and that I wish your clients had the\n7   ethics of Bob Josefsberg.\n8       Q. You then agree that if Bob Josefsberg\n9   advanced the claims that I have described in a\n10  complaint on behalf of a client, he would not have\n11  done so unless he believed those allegations to be\n12  true, having conducted a fair and reasonable\n13  investigation, correct?\n14      MR. SCOTT: Objection, asked and answered\n15  several times.\n16      A. I don't know the answer to that question\n17  because I don't know the context in which he made\n18  these arguments. All I do know is that he never\n19  would maintain a friendship with me if he believed\n20  in any way that I was one of the people that she had\n21  accused.\n22      BY MR. SCAROLA:\n23      Q. Did Alfredo Rodriguez, another one of your\n24  friend's staff persons, have a motive to lie against\n25  you?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1   me, as he has, if he believed that I was one of\n2   those academicians. Bob Josefsberg knows that I was\n3   not one of those academicians, and the inference of\n4   your question is beneath contempt, sir.\n5       Q. Could we try to answer the question now?\n6       A. The answer is that Bob Josefsberg would\n7   never maintain a friendship with me if he believed\n8   that there was any possibility that I was among the\n9   academicians who she was accusing of sexual\n10  misconduct. I do not believe that she ever accused\n11  me of sexual misconduct to Bob Josefsberg, to the\n12  FBI, to the U.S. attorney, or even, sir, to you and\n13  Bradley Edwards, as she says in 2000, I think, '11.\n14  I think she made up the story on the eve of the\n15  filing in 2014.\n16      Q. You do agree that Bob Josefsberg would not\n17  have advanced the claims that he advanced if he did\n18  not have confidence that they were true, correct?\n19      A. I have no idea what he believed or knew at\n20  the time. I would say this: I know Bob Josefsberg\n21  is an extraordinarily ethical lawyer. I don't know\n22  what his responsibilities were in the case. I don't\n23  know whether his responsibilities were to make those\n24  kinds of judgments or whether his responsibility was\n25  simply to make sure that money was paid to each of",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1       A. Alberto Rodriguez --\n2       Q. No, sir, Alfredo Rodriguez.\n3       A. Alfredo Rodriguez, I never knew him by\n4   name. He was, of course, there out -- well outside\n5   of the timeframe of the alleged events in this case.\n6   And so anything that he would be able to testify to\n7   would bear no relationship whatsoever to the -- the\n8   allegations here.\n9       He was criminally prosecuted, to my\n10  memory, for having stolen material and turned it\n11  over to Bradley Edwards is my recollection. And as\n12  the result of that clearly had a motive to lie. And\n13  the same with Mr. Alessi, clearly would have a basis\n14  for believing that they have played a role as\n15  Jeffrey Epstein's lawyer in seeking to do harm to\n16  him.\n17      But again, there's nothing in\n18  Mr. Rodriguez's testimony which is in any way\n19  inculpatory of me. I think he has me sitting and --\n20  and reading a book and drinking a glass of wine.\n21      Q. In the presence of young women?\n22      A. No.\n23      Q. No?\n24      A. I don't --\n25      Q. Do you --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "28 (Pages 285 to 288)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010810",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2000",
+      "2011",
+      "2014"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "Bob Josefsberg",
+      "Jeffrey Epstein",
+      "MR. SCOTT",
+      "Alfredo Rodriguez",
+      "Bradley Edwards",
+      "Alberto Rodriguez",
+      "Mr. Alessi",
+      "Mr. Rodriguez"
+    ],
+    "organizations": [
+      "FBI",
+      "U.S. attorney",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "285",
+      "286",
+      "287",
+      "288",
+      "HOUSE_OVERSIGHT_010810"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Transcript of questioning regarding Bob Josefsberg, Jeffrey Epstein, and Alfredo Rodriguez.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010810"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition or hearing. The speakers are identified as 'Q' (Questioner), 'A' (Answerer), 'MR. SCAROLA', and 'MR. SCOTT'. The content discusses the actions and beliefs of several individuals in relation to allegations involving Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010810.jpg",
+  "house_oversight_id": "010810",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:43:25.113338Z",
+    "model": "gemini-2.5-pro"
+  }
+}

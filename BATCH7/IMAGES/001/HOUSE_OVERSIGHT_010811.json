@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010811.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 289, 291, 290, and 292. The text is a question-and-answer format typical of a deposition or court testimony, with line numbers on the left of each page. The document has a footer with contact information and a document identifier.",
+    "layout": "Four-quadrant layout, displaying four distinct pages on a single sheet. Page 289 is top-left, 291 is top-right, 290 is bottom-left, and 292 is bottom-right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "289\n1        A.  -- believe that.\n2        Q.  -- recall the following testimony --\n3        A.  It wouldn't be true if he said it.\n4        Q.  Yes, sir. Well, do you recall the\n5   following testimony having been given by Mr. Alfredo\n6   Rodriguez in a deposition that was taken on\n7   August 7, 2009?\n8             \"Question: Mr. Rodriguez, you stated last\n9   time that there were guests at the house,\n10  frequent guests from Harvard. Do you remember\n11  that testimony?\n12            \"Answer: Yes, ma'am.\n13            \"Question: Was there a lawyer from\n14  Harvard named Alan Dershowitz?\n15            \"Answer: Yes, ma'am.\n16            \"Question: And are you familiar with the\n17  fact that he's a famous author and famous\n18  lawyer?\n19            \"Answer: Yes, ma'am.\n20            \"Question: How often during the six\n21  months or so that you were there was\n22  Mr. Dershowitz there?\n23            \"Answer: Two or three times.\n24            \"Question: And did you have any knowledge\n25  of why he was visiting there?\n\n291\n1   that testimony?\n2        A.  Yes.\n3             MR. SCOTT: Objection. This is totally\n4   improper cross examination of a witness by\n5   trying to use a deposition. The only purpose\n6   of doing this is to interject this into the\n7   record, which has no relevance and would not be\n8   admissible at trial. And in any case, he never\n9   actually has my client doing any of the things\n10  that you've accused him of.\n11           Go ahead, let's go ahead and do it.\n12           Answer the question. Answer the question.\n13           MR. SCAROLA: He did.\n14       A.  Yes, I remember that.\n15           MR. SCAROLA: He said yes.\n16       A.  Yes, I remember that, yes.\n17       BY MR. SCAROLA:\n18       Q.  And do you know why it was that back in\n19  19 -- excuse me, back in 2009, August of 2009, four\n20  and a half years before you allege that this story\n21  about you was being made up out of whole cloth, that\n22  lawyers representing Jeffrey Epstein's victims,\n23  including Katherine Ezell, E-Z-E-L-L, from Bob\n24  Josefsberg's office, who had filed the complaint\n25  alleging that you had -- excuse me, that Virginia\n\n290\n1             \"Answer: No, ma'am.\n2             \"Question: You don't know whether or not\n3   he was a lawyer acting as a lawyer or whether\n4   he was there as a friend?\n5             \"Answer: I believe as a friend.\n6             \"Question: Were there also young ladies\n7   in the house at the time he was there?\n8             \"Answer: Yes, ma'am.\n9             \"Question: And would those have included,\n10  for instance, Sarah Kellen, Nada Marcinkova?\n11            \"Answer: Yes, ma'am.\n12            \"Question: Were there other young ladies\n13  there when Mr. Dershowitz was there?\n14            \"Answer: Yes, ma'am.\n15            \"Question: Do you have any idea who those\n16  young women were?\n17            \"Answer: No, ma'am.\n18            \"Question: Were there any of these --\n19  excuse me. Were any of these young women that\n20  you have said came to give massages?\n21            \"Answer: Yes, ma'am.\"\n22           Do you recall that testimony having been\n23  given --\n24       A.  Yes.\n25       Q.  -- and those answers having been given to\n\n292\n1   Roberts had been lent out for sexual purposes to\n2   academicians, were asking specific questions about\n3   you? Do you know why it was in 2009 they were doing\n4   that?\n5        A.  I have no idea that it happened. And I\n6   imagine that they had a list of every academic that\n7   was in the house. Probably included --\n8             MR. SCOTT: I want to object to this whole\n9   procedure because you're taking pieces out of\n10  the record and not reading other pieces that\n11  totally absolve my client. For example,\n12  there's testimony by him that says --\n13           MR. SCAROLA: Is this an objection?\n14           MR. SCOTT: Yes, it's a statement into the\n15  record just like you're putting into the\n16  record. There's -- I want to show this to my\n17  client and refresh his memory as to some other\n18  testimony by this witness --\n19           MR. SCAROLA: There's no question pending\n20  as to what you can -- as to what you can\n21  refresh your client's memory. What you are\n22  doing is coaching him.\n23           MR. SCOTT: No, I'm not.\n24           MR. SCAROLA: Improperly.\n25           MR. SCOTT: And you are improperly reading\n\n29 (Pages 289 to 292)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010811",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "289\n1        A.  -- believe that.\n2        Q.  -- recall the following testimony --\n3        A.  It wouldn't be true if he said it.\n4        Q.  Yes, sir. Well, do you recall the\n5   following testimony having been given by Mr. Alfredo\n6   Rodriguez in a deposition that was taken on\n7   August 7, 2009?\n8             \"Question: Mr. Rodriguez, you stated last\n9   time that there were guests at the house,\n10  frequent guests from Harvard. Do you remember\n11  that testimony?\n12            \"Answer: Yes, ma'am.\n13            \"Question: Was there a lawyer from\n14  Harvard named Alan Dershowitz?\n15            \"Answer: Yes, ma'am.\n16            \"Question: And are you familiar with the\n17  fact that he's a famous author and famous\n18  lawyer?\n19            \"Answer: Yes, ma'am.\n20            \"Question: How often during the six\n21  months or so that you were there was\n22  Mr. Dershowitz there?\n23            \"Answer: Two or three times.\n24            \"Question: And did you have any knowledge\n25  of why he was visiting there?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "291\n1   that testimony?\n2        A.  Yes.\n3             MR. SCOTT: Objection. This is totally\n4   improper cross examination of a witness by\n5   trying to use a deposition. The only purpose\n6   of doing this is to interject this into the\n7   record, which has no relevance and would not be\n8   admissible at trial. And in any case, he never\n9   actually has my client doing any of the things\n10  that you've accused him of.\n11           Go ahead, let's go ahead and do it.\n12           Answer the question. Answer the question.\n13           MR. SCAROLA: He did.\n14       A.  Yes, I remember that.\n15           MR. SCAROLA: He said yes.\n16       A.  Yes, I remember that, yes.\n17       BY MR. SCAROLA:\n18       Q.  And do you know why it was that back in\n19  19 -- excuse me, back in 2009, August of 2009, four\n20  and a half years before you allege that this story\n21  about you was being made up out of whole cloth, that\n22  lawyers representing Jeffrey Epstein's victims,\n23  including Katherine Ezell, E-Z-E-L-L, from Bob\n24  Josefsberg's office, who had filed the complaint\n25  alleging that you had -- excuse me, that Virginia",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "290\n1             \"Answer: No, ma'am.\n2             \"Question: You don't know whether or not\n3   he was a lawyer acting as a lawyer or whether\n4   he was there as a friend?\n5             \"Answer: I believe as a friend.\n6             \"Question: Were there also young ladies\n7   in the house at the time he was there?\n8             \"Answer: Yes, ma'am.\n9             \"Question: And would those have included,\n10  for instance, Sarah Kellen, Nada Marcinkova?\n11            \"Answer: Yes, ma'am.\n12            \"Question: Were there other young ladies\n13  there when Mr. Dershowitz was there?\n14            \"Answer: Yes, ma'am.\n15            \"Question: Do you have any idea who those\n16  young women were?\n17            \"Answer: No, ma'am.\n18            \"Question: Were there any of these --\n19  excuse me. Were any of these young women that\n20  you have said came to give massages?\n21            \"Answer: Yes, ma'am.\"\n22           Do you recall that testimony having been\n23  given --\n24       A.  Yes.\n25       Q.  -- and those answers having been given to",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "292\n1   Roberts had been lent out for sexual purposes to\n2   academicians, were asking specific questions about\n3   you? Do you know why it was in 2009 they were doing\n4   that?\n5        A.  I have no idea that it happened. And I\n6   imagine that they had a list of every academic that\n7   was in the house. Probably included --\n8             MR. SCOTT: I want to object to this whole\n9   procedure because you're taking pieces out of\n10  the record and not reading other pieces that\n11  totally absolve my client. For example,\n12  there's testimony by him that says --\n13           MR. SCAROLA: Is this an objection?\n14           MR. SCOTT: Yes, it's a statement into the\n15  record just like you're putting into the\n16  record. There's -- I want to show this to my\n17  client and refresh his memory as to some other\n18  testimony by this witness --\n19           MR. SCAROLA: There's no question pending\n20  as to what you can -- as to what you can\n21  refresh your client's memory. What you are\n22  doing is coaching him.\n23           MR. SCOTT: No, I'm not.\n24           MR. SCAROLA: Improperly.\n25           MR. SCOTT: And you are improperly reading",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "29 (Pages 289 to 292)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010811",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-08-07"
+    ],
+    "people": [
+      "Mr. Alfredo Rodriguez",
+      "Alan Dershowitz",
+      "Mr. Dershowitz",
+      "Sarah Kellen",
+      "Nada Marcinkova",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Jeffrey Epstein",
+      "Katherine Ezell",
+      "Bob Josefsberg",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "Harvard",
+      "Bob Josefsberg's office",
+      "phippsreporting.com"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010811",
+      "289",
+      "290",
+      "291",
+      "292"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding a prior statement by Alfredo Rodriguez about guests at a house, including Alan Dershowitz, and the presence of young women.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010811"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a snippet from a larger legal transcript, specifically pages 289 through 292. The date of the current deposition is not visible, but it references a prior deposition from August 7, 2009.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010811.jpg",
+  "house_oversight_id": "010811",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:44:08.960693Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010809.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in four columns on a single sheet. The pages are numbered 281, 283, 282, and 284. The text is a question-and-answer format typical of a deposition or hearing. A footer contains contact information for a reporting service and a document identification number.",
+    "layout": "Four-column layout, with each column representing a separate page of the transcript. Page numbers are at the top of each column. Line numbers run down the left side of each column's text block. A footer is present at the bottom of the page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "281\n1         What was his motive against you?\n2         A.  I was Jeffrey Epstein's friend and lawyer\n3    and, in fact -- well, I can't get into this. But I\n4    can say this, I gave advice --\n5              MR. SCOTT:  Be careful about anything\n6    involving --\n7              THE WITNESS:  Okay.\n8              MR. SCOTT:  -- Mr. Epstein, please.\n9         A.  He could easily have believed that I was\n10   one of the causes of his firing.\n11        BY MR. SCAROLA:\n12        Q.  So, he was -- he may have been angry at\n13   you because you assisted in getting him fired?\n14        A.  It's --\n15             MR. SCOTT:  Objection,\n16   mischaracterization.\n17        A.  It's conjecture. It's possible. But in\n18   any event, even --\n19        BY MR. SCAROLA:\n20        Q.  It's conjecture, is that what you were\n21   about to say?\n22        A.  I'm saying I have -- I don't know what he\n23   was thinking, but there is a basis for him believing\n24   that. But most -- most important, even if you take\n25   everything he says as true, which it's not, it's\n\n283\n1         A. Yes.\n2         Q. A man who would never undertake to advance\n3    the cause of a client whom he believed to be\n4    incredible, right?\n5         A. Yes. And a man who told me and a man\n6    who --\n7              MR. SCOTT: That's it.\n8         A. Okay. And a man who believes I'm\n9    innocent.\n10        BY MR. SCAROLA:\n11        Q. You know that Bob Josefsberg would never\n12   file charges on behalf of a client alleging that she\n13   was lent out by Jeffrey Epstein for purposes of\n14   sexual abuse while she was a minor to academicians\n15   unless he absolutely had confidence that those\n16   statements were true --\n17             MR. SCOTT: Let me object --\n18        BY MR. SCAROLA:\n19        Q. -- right?\n20             MR. SCOTT: -- that this is completely\n21   irrelevant to the issues in this case.\n22        Whatever Mr. Josefsberg thinks has nothing to\n23   do with this lawsuit. This is all your effort\n24   to try to try to put Josefsberg into this case to try\n25   to give some justification to your position.\n\n282\n1    exculpatory because it has no suggestion that I ever\n2    had any sexual encounter with Virginia Roberts.\n3              And if I were a lawyer reading that --\n4              MR. SCOTT:  It's okay?\n5         A.  -- I certainly would not base this heinous\n6    accusation on that flimsy read.\n7         BY MR. SCAROLA:\n8         Q.  You know the context in which that\n9    deposition was taken, don't you?\n10        A.  I don't recall it as I'm sitting here\n11   today.\n12        Q.  Do you remember that the lawsuit in which\n13   that deposition was taken was a lawsuit in which\n14   Virginia Roberts was being represented by Bob\n15   Josefsberg?\n16        A.  No.\n17        Q.  You know Bob Josefsberg, don't you?\n18        A.  We -- we were classmates at law school.\n19        Q.  You know Bob Josefsberg to be an extremely\n20   ethical, highly professional and extraordinarily\n21   well-respected lawyer, right?\n22        A.  Absolutely, yes.\n23        Q.  Absolutely?\n24        A.  Yeah.\n25        Q.  A man of impeccable honesty and integrity?\n\n284\n1         A. I'll answer that question.\n2         BY MR. SCAROLA:\n3         Q. Thank you.\n4         A. And I also know Bob Josefsberg and know\n5    that he would never maintain a friendship, as he has\n6    with me, if he believed that I was one of the,\n7    quote, academicians --\n8         Q. Well, how about --\n9         A. -- with whom --\n10        Q. -- answering my question --\n11             MR. SCOTT: Wait a minute. No, no, no.\n12        A. You're going to let me finish.\n13        BY MR. SCAROLA:\n14        Q. I know I'm going to go, but I don't have\n15   to like it --\n16             MR. SCOTT: Yeah, but --\n17        BY MR. SCAROLA:\n18        Q. -- when you're not being responsive to the\n19   questions that are being asked.\n20             MR. SCOTT: Yeah, but you're\n21   interjecting --\n22        BY MR. SCAROLA:\n23        Q. And --\n24             MR. SCOTT: You're interjecting questions\n25   that are irrelevant utilizing Bob Josefsberg's\n\n27 (Pages 281 to 284)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010809",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "281\n1         What was his motive against you?\n2         A.  I was Jeffrey Epstein's friend and lawyer\n3    and, in fact -- well, I can't get into this. But I\n4    can say this, I gave advice --\n5              MR. SCOTT:  Be careful about anything\n6    involving --\n7              THE WITNESS:  Okay.\n8              MR. SCOTT:  -- Mr. Epstein, please.\n9         A.  He could easily have believed that I was\n10   one of the causes of his firing.\n11        BY MR. SCAROLA:\n12        Q.  So, he was -- he may have been angry at\n13   you because you assisted in getting him fired?\n14        A.  It's --\n15             MR. SCOTT:  Objection,\n16   mischaracterization.\n17        A.  It's conjecture. It's possible. But in\n18   any event, even --\n19        BY MR. SCAROLA:\n20        Q.  It's conjecture, is that what you were\n21   about to say?\n22        A.  I'm saying I have -- I don't know what he\n23   was thinking, but there is a basis for him believing\n24   that. But most -- most important, even if you take\n25   everything he says as true, which it's not, it's",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "283\n1         A. Yes.\n2         Q. A man who would never undertake to advance\n3    the cause of a client whom he believed to be\n4    incredible, right?\n5         A. Yes. And a man who told me and a man\n6    who --\n7              MR. SCOTT: That's it.\n8         A. Okay. And a man who believes I'm\n9    innocent.\n10        BY MR. SCAROLA:\n11        Q. You know that Bob Josefsberg would never\n12   file charges on behalf of a client alleging that she\n13   was lent out by Jeffrey Epstein for purposes of\n14   sexual abuse while she was a minor to academicians\n15   unless he absolutely had confidence that those\n16   statements were true --\n17             MR. SCOTT: Let me object --\n18        BY MR. SCAROLA:\n19        Q. -- right?\n20             MR. SCOTT: -- that this is completely\n21   irrelevant to the issues in this case.\n22        Whatever Mr. Josefsberg thinks has nothing to\n23   do with this lawsuit. This is all your effort\n24   to try to try to put Josefsberg into this case to try\n25   to give some justification to your position.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "282\n1    exculpatory because it has no suggestion that I ever\n2    had any sexual encounter with Virginia Roberts.\n3              And if I were a lawyer reading that --\n4              MR. SCOTT:  It's okay?\n5         A.  -- I certainly would not base this heinous\n6    accusation on that flimsy read.\n7         BY MR. SCAROLA:\n8         Q.  You know the context in which that\n9    deposition was taken, don't you?\n10        A.  I don't recall it as I'm sitting here\n11   today.\n12        Q.  Do you remember that the lawsuit in which\n13   that deposition was taken was a lawsuit in which\n14   Virginia Roberts was being represented by Bob\n15   Josefsberg?\n16        A.  No.\n17        Q.  You know Bob Josefsberg, don't you?\n18        A.  We -- we were classmates at law school.\n19        Q.  You know Bob Josefsberg to be an extremely\n20   ethical, highly professional and extraordinarily\n21   well-respected lawyer, right?\n22        A.  Absolutely, yes.\n23        Q.  Absolutely?\n24        A.  Yeah.\n25        Q.  A man of impeccable honesty and integrity?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "284\n1         A. I'll answer that question.\n2         BY MR. SCAROLA:\n3         Q. Thank you.\n4         A. And I also know Bob Josefsberg and know\n5    that he would never maintain a friendship, as he has\n6    with me, if he believed that I was one of the,\n7    quote, academicians --\n8         Q. Well, how about --\n9         A. -- with whom --\n10        Q. -- answering my question --\n11             MR. SCOTT: Wait a minute. No, no, no.\n12        A. You're going to let me finish.\n13        BY MR. SCAROLA:\n14        Q. I know I'm going to go, but I don't have\n15   to like it --\n16             MR. SCOTT: Yeah, but --\n17        BY MR. SCAROLA:\n18        Q. -- when you're not being responsive to the\n19   questions that are being asked.\n20             MR. SCOTT: Yeah, but you're\n21   interjecting --\n22        BY MR. SCAROLA:\n23        Q. And --\n24             MR. SCOTT: You're interjecting questions\n25   that are irrelevant utilizing Bob Josefsberg's",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "27 (Pages 281 to 284)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010809",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Jeffrey Epstein",
+      "Mr. Scott",
+      "Mr. Epstein",
+      "Mr. Scarola",
+      "Bob Josefsberg",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "281",
+      "283",
+      "282",
+      "284",
+      "27",
+      "HOUSE_OVERSIGHT_010809"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010809"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony concerning Jeffrey Epstein, Virginia Roberts, and Bob Josefsberg.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010809"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four pages from a transcript, presented out of numerical order (281, 283, 282, 284). The speakers are identified as MR. SCOTT, MR. SCAROLA, and THE WITNESS (who provides the answers 'A.').",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010809.jpg",
+  "house_oversight_id": "010809",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:42:48.926637Z",
+    "model": "gemini-2.5-pro"
+  }
+}
