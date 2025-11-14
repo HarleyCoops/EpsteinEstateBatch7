@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010739.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, typed in a serif font. The page is numbered 5 and includes a header with case information and a footer with a Bates stamp number.",
+    "layout": "The document has a standard legal format with a header at the top, a main body of text with paragraphs and a section heading, a footnote at the bottom of the main text, a page number centered at the bottom, and a Bates stamp in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 5 of 19\n\nIn an effort to cite contrary law to the Court, Jane Doe #3's Response takes remarkable\nliberties in describing what is claimed to be the law to Court. For example, the Response quotes\nCalloway v. Westinghouse Elec. Corp., 115 F.R.D. 73, 74 (M.D. Ga. 1987) for the proposition\nthat “a witness’ interest in his reputation alone . . . does not constitute the required ‘interest\nrelating to the property or transaction which is the subject of the present action’ necessary to\nallow intervention as a matter of right.” Yet what is excised from that quote through the ellipses\nis the most crucial part of the case: “following a finding by a court that he is not credible.”\nCalloway actually stands for the proposition that a witness cannot intervene in a case as of right\nif the Court has found him not credible in one of its orders. This finding has never been made as\nto Prof. Dershowitz either in this Court, or in hundreds of others in which he has appeared.\n\nII. Jane Doe #3's Lies About Prof. Dershowitz\nAre Wholly Irrelevant to This Action\n\nMeanwhile, Jane Doe #3 fails to come up with a single credible reason for naming Prof.\nDershowitz in her Joinder Motion. First, she claims she needed to drag Prof. Dershowitz’s name\nthrough the mud to prove that Jane Doe #3 was a victim of sexual abuse by Jeffrey Epstein. Yet,\nin her Joinder Motion, she states that “[t]he Government was well aware of Jane Doe #3 when it\nwas negotiating the NPA, as it listed her as a victim in the attachment to the NPA.” (DE 279 at\n6.) If she was already listed as a victim on the NPA, why would they need to prove that further\nby adding pages of scurrilous allegations against various individuals? And why did they have to\nmention Prof. Dershowitz by name, when elsewhere they claim that “numerous prominent”\nindividuals also allegedly committed sexual abuse, but keep those alleged figures anonymous?\nThe bad faith against Prof. Dershowitz is apparent¹.\n\n¹ Similarly, Jane Doe #3’s allegations that she named Prince Andrew because of outstanding\n\n5\n\nHOUSE_OVERSIGHT_010739",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 5 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "In an effort to cite contrary law to the Court, Jane Doe #3's Response takes remarkable\nliberties in describing what is claimed to be the law to Court. For example, the Response quotes\nCalloway v. Westinghouse Elec. Corp., 115 F.R.D. 73, 74 (M.D. Ga. 1987) for the proposition\nthat “a witness’ interest in his reputation alone . . . does not constitute the required ‘interest\nrelating to the property or transaction which is the subject of the present action’ necessary to\nallow intervention as a matter of right.” Yet what is excised from that quote through the ellipses\nis the most crucial part of the case: “following a finding by a court that he is not credible.”\nCalloway actually stands for the proposition that a witness cannot intervene in a case as of right\nif the Court has found him not credible in one of its orders. This finding has never been made as\nto Prof. Dershowitz either in this Court, or in hundreds of others in which he has appeared.\n\nII. Jane Doe #3's Lies About Prof. Dershowitz\nAre Wholly Irrelevant to This Action\n\nMeanwhile, Jane Doe #3 fails to come up with a single credible reason for naming Prof.\nDershowitz in her Joinder Motion. First, she claims she needed to drag Prof. Dershowitz’s name\nthrough the mud to prove that Jane Doe #3 was a victim of sexual abuse by Jeffrey Epstein. Yet,\nin her Joinder Motion, she states that “[t]he Government was well aware of Jane Doe #3 when it\nwas negotiating the NPA, as it listed her as a victim in the attachment to the NPA.” (DE 279 at\n6.) If she was already listed as a victim on the NPA, why would they need to prove that further\nby adding pages of scurrilous allegations against various individuals? And why did they have to\nmention Prof. Dershowitz by name, when elsewhere they claim that “numerous prominent”\nindividuals also allegedly committed sexual abuse, but keep those alleged figures anonymous?\nThe bad faith against Prof. Dershowitz is apparent¹.",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "¹ Similarly, Jane Doe #3’s allegations that she named Prince Andrew because of outstanding",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "5",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010739",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1987-01-01",
+      "2015-02-02"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Calloway",
+      "Prof. Dershowitz",
+      "Jeffrey Epstein",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Westinghouse Elec. Corp.",
+      "Government",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "M.D. Ga."
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 5 of 19",
+      "115 F.R.D. 73, 74",
+      "DE 279",
+      "HOUSE_OVERSIGHT_010739"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010739"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": "Court",
+    "subject": "Arguments against Jane Doe #3's claims and legal standing, specifically concerning allegations against Prof. Dershowitz and the legal precedent for intervention in a case.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Calloway v. Westinghouse Elec. Corp., 115 F.R.D. 73",
+      "DE 279"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from a legal response or motion. The footnote appears to be cut off at the end of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010739.jpg",
+  "house_oversight_id": "010739",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:08:16.748286Z",
+    "model": "gemini-2.5-pro"
+  }
+}

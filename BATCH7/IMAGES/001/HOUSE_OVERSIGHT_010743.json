@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010743.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page is numbered 9 of 19. It contains several paragraphs of text, a section heading, a footnote, and identifiers in the header and footer. The text discusses legal claims involving individuals referred to as 'Jane Doe #3', 'Prof. Dershowitz', and 'Epstein'.",
+    "layout": "Standard portrait layout with a header, main body of text, a centered page number at the bottom, a footnote, and a footer identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 9 of 19\n\nFifth, Jane Doe #3 claims that she needed to include Prof. Dershowitz in her filing\nbecause her CVRA claim of “unfair” treatment “implicates a fact-sensitive equitable defense\nwhich must be considered in the factual context of the entire interface between Epstein, the\nrelevant prosecutorial authorities and the federal offense victims.” The “facts” to which this\n“defense” is sensitive, even if Jane Doe #3 is allowed to intervene, are the interactions between\nthe prosecutors and Jane Doe #3, and not anything pertinent to Prof. Dershowitz personally. Nor\nare attorney-client communications between Epstein and his counsel at issue, or the proper\nsubject of discovery in this action under any scenario.\n\nIII. Jane Doe #3’s Efforts to Bolster Her Lies About\nProf. Dershowitz Are Remarkably Thin\n\nSetting aside the utter irrelevancy of the allegations against Prof. Dershowitz, having\ncreated an international imbroglio by their ill-conceived libels of Prof. Dershowitz, one would\nexpect that Jane Doe #3 would be able to muster at least some credible support for their\nallegations. Yet the two “incontestable” facts she leads with in support of her claim that Prof.\nDershowitz is a serial sex abuser are (1) that Mr. Epstein and Prof. Dershowitz were friends; and\n(2) Prof. Dershowitz visited Mr. Epstein’s house. Of course, these supposedly “incontestable”\nfacts are evidence of nothing.\n\nIn the affidavit she submitted to this court, Jane Doe #3’s lack of credibility is readily\napparent. She has now sworn under oath, repeating a fragrant lie that she had previously sold to\na British newspaper: namely that “former President Bill Clinton was present on the island\n[Jeffrey Epstein’s private island] at a time when [Jane Doe #3] was also present on the island.”\n(DE 291-1 at ¶ 53.) In this easily discredited fabrication4, Jane Doe #3 expounded in imaginative\n\n4 The name of the publication is intentionally omitted as Jane Doe # 3 reveals her identity\n\n9\n\nHOUSE_OVERSIGHT_010743",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 9 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Fifth, Jane Doe #3 claims that she needed to include Prof. Dershowitz in her filing\nbecause her CVRA claim of “unfair” treatment “implicates a fact-sensitive equitable defense\nwhich must be considered in the factual context of the entire interface between Epstein, the\nrelevant prosecutorial authorities and the federal offense victims.” The “facts” to which this\n“defense” is sensitive, even if Jane Doe #3 is allowed to intervene, are the interactions between\nthe prosecutors and Jane Doe #3, and not anything pertinent to Prof. Dershowitz personally. Nor\nare attorney-client communications between Epstein and his counsel at issue, or the proper\nsubject of discovery in this action under any scenario.\n\nIII. Jane Doe #3’s Efforts to Bolster Her Lies About\nProf. Dershowitz Are Remarkably Thin\n\nSetting aside the utter irrelevancy of the allegations against Prof. Dershowitz, having\ncreated an international imbroglio by their ill-conceived libels of Prof. Dershowitz, one would\nexpect that Jane Doe #3 would be able to muster at least some credible support for their\nallegations. Yet the two “incontestable” facts she leads with in support of her claim that Prof.\nDershowitz is a serial sex abuser are (1) that Mr. Epstein and Prof. Dershowitz were friends; and\n(2) Prof. Dershowitz visited Mr. Epstein’s house. Of course, these supposedly “incontestable”\nfacts are evidence of nothing.\n\nIn the affidavit she submitted to this court, Jane Doe #3’s lack of credibility is readily\napparent. She has now sworn under oath, repeating a fragrant lie that she had previously sold to\na British newspaper: namely that “former President Bill Clinton was present on the island\n[Jeffrey Epstein’s private island] at a time when [Jane Doe #3] was also present on the island.”\n(DE 291-1 at ¶ 53.) In this easily discredited fabrication4, Jane Doe #3 expounded in imaginative",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "4 The name of the publication is intentionally omitted as Jane Doe # 3 reveals her identity",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "9",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010743",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Epstein",
+      "Mr. Epstein",
+      "Bill Clinton",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [
+      "Jeffrey Epstein’s private island"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 291-1",
+      "HOUSE_OVERSIGHT_010743"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010743"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of Jane Doe #3's claims against Prof. Dershowitz in the context of a CVRA claim related to Epstein.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 291-1"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal brief or motion arguing against the credibility and claims of an individual referred to as 'Jane Doe #3'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010743.jpg",
+  "house_oversight_id": "010743",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:10:09.710043Z",
+    "model": "gemini-2.5-pro"
+  }
+}

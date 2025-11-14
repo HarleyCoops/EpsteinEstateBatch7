@@ -1,0 +1,96 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010740.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, identified as page 6 of 19. The document is typed in a standard serif font and appears to be a court filing. It contains legal arguments referencing individuals by pseudonyms ('Jane Doe') and names ('Prof. Dershowitz', 'Prince Andrew').",
+    "layout": "The page has a header with case information, a main body of text divided into paragraphs, a page number centered at the bottom, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 6 of 19\n\nSecond, Jane Doe #3 claims that she needed to defame Prof. Dershowitz and others in the\nJoinder Motion because of discovery disputes between the government and Jane Doe #1 and Jane\nDoe #2. This does not even make sense, legally or factually. Jane Doe #3’s right to join in this\ncase has nothing to do with Jane Doe #1 and Jane Doe #2’s entitlement to documents in\ndiscovery. In fact, the discovery requests that Jane Doe #3 cites to in her Response as purported\ncover for their sliming of Prof Dershowitz show that their argument is factually bogus. Prof.\nDershowitz is mentioned in only two of twenty-five requests for production propounded by Jane\nDoe #1 and Jane Doe #2. (See Jane Doe #1 and Jane Doe #2’s First Request for Production to\nthe Government Regarding Information Relevant to Their Pending Action Concern [sic] the\nCrime Victims Act, at DE 225-1 at 26-38.) Both requests, nos. 8 and 21 seek his\ncommunications with the government in his role as Mr. Epstein’s defense attorney. There is no\nissue of complicity or knowledge in any misconduct. Moreover, a fact conveniently omitted by\nJane Doe #3 is that Prof. Dershowitz is one of eleven lawyers whose communications Jane Doe\n#1 and Jane Doe #2 sought in the requests for production. As the Court knows, Prof. Dershowitz\nhad no material connection to this case—as to the merits or as to discovery—before he was\ndragged in by Jane Doe #3.\n\nThird, Jane Doe #3 claims that the smears against Prof. Dershowitz are relevant to show\nthat Prof. Dershowitz had a motive to negotiate “confidentiality” and “blank check” provisions\n\ndiscovery requests regarding her belief that Prince Andrew was somehow involved in “lobbying\nefforts to persuade the Government to give him a more favorable plea arrangement,” and because\nher allegations against Prince Andrews occurred in London, therefore “affect[ing] foreign\ncommerce” are patently absurd. (DE 291 at 20 and 18, fn. 10.) Because Jane Doe #3’s other\nallegations are replete with allegations of interstate activity and because implications of Prince\nAndrew’s involvement in “lobbying” for the NPA are entirely nonsensical, it is obvious that the\ninclusion of claims against Prince Andrew were included solely for their intended audience: the\nmedia.\n\n6\n\nHOUSE_OVERSIGHT_010740",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 6 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Second, Jane Doe #3 claims that she needed to defame Prof. Dershowitz and others in the\nJoinder Motion because of discovery disputes between the government and Jane Doe #1 and Jane\nDoe #2. This does not even make sense, legally or factually. Jane Doe #3’s right to join in this\ncase has nothing to do with Jane Doe #1 and Jane Doe #2’s entitlement to documents in\ndiscovery. In fact, the discovery requests that Jane Doe #3 cites to in her Response as purported\ncover for their sliming of Prof Dershowitz show that their argument is factually bogus. Prof.\nDershowitz is mentioned in only two of twenty-five requests for production propounded by Jane\nDoe #1 and Jane Doe #2. (See Jane Doe #1 and Jane Doe #2’s First Request for Production to\nthe Government Regarding Information Relevant to Their Pending Action Concern [sic] the\nCrime Victims Act, at DE 225-1 at 26-38.) Both requests, nos. 8 and 21 seek his\ncommunications with the government in his role as Mr. Epstein’s defense attorney. There is no\nissue of complicity or knowledge in any misconduct. Moreover, a fact conveniently omitted by\nJane Doe #3 is that Prof. Dershowitz is one of eleven lawyers whose communications Jane Doe\n#1 and Jane Doe #2 sought in the requests for production. As the Court knows, Prof. Dershowitz\nhad no material connection to this case—as to the merits or as to discovery—before he was\ndragged in by Jane Doe #3.\n\nThird, Jane Doe #3 claims that the smears against Prof. Dershowitz are relevant to show\nthat Prof. Dershowitz had a motive to negotiate “confidentiality” and “blank check” provisions\n\ndiscovery requests regarding her belief that Prince Andrew was somehow involved in “lobbying\nefforts to persuade the Government to give him a more favorable plea arrangement,” and because\nher allegations against Prince Andrews occurred in London, therefore “affect[ing] foreign\ncommerce” are patently absurd. (DE 291 at 20 and 18, fn. 10.) Because Jane Doe #3’s other\nallegations are replete with allegations of interstate activity and because implications of Prince\nAndrew’s involvement in “lobbying” for the NPA are entirely nonsensical, it is obvious that the\ninclusion of claims against Prince Andrew were included solely for their intended audience: the\nmedia.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "6",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010740",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Jane Doe #1",
+      "Jane Doe #2",
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Mr. Epstein",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Government"
+    ],
+    "locations": [
+      "London"
+    ],
+    "document_numbers": [
+      "9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 225-1",
+      "DE 291",
+      "HOUSE_OVERSIGHT_010740"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010740"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Arguments regarding discovery disputes and allegations against Prof. Dershowitz and Prince Andrew in the context of a Joinder Motion.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 225-1",
+      "DE 291"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal brief or motion arguing against claims made by 'Jane Doe #3'. The text contains legal terminology and references to other court documents (DE 225-1, DE 291).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010740.jpg",
+  "house_oversight_id": "010740",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:08:43.627833Z",
+    "model": "gemini-2.5-pro"
+  }
+}

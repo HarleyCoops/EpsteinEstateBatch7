@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010744.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, identified as page 10 of 19. The document is typed in a serif font and contains a header, a main body of text, a footnote, a page number, and a footer. The content discusses allegations made by a 'Jane Doe #3' concerning meetings with prominent individuals on Jeffrey Epstein's private island.",
+    "layout": "The page has a standard legal document format. A header is at the top, followed by the main body of text. A long footnote, marked with a superscript '5', takes up the lower half of the page. A page number '10' is centered at the bottom, and a footer with an identifier is below that.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 10 of 19\n\ndetail about her fictional meeting with former President Clinton, providing an elaborate\ndescription about how Mr. Clinton and his secret service detail somehow allowed Ghislaine\nMaxwell, then a novice helicopter pilot, to fly all of them to Jeffrey's Epstein's private island on\nEpstein's black helicopter, as well as details about the specific place at the dinner table at which\nshe and Mr. Clinton were seated5. Id. Jane Doe #3 also gave this British newspaper an account\nof yet another fictional meeting on the same island, but this time with former vice president Gore\nand his then wife, Tipper, providing specific details purportedly to enhance the value of her\nfictional story: “The Gores seemed like a beautiful couple when I met them... Jeffrey [Epstein]\ndidn't ask me to give him a massage... I was planning on voting for him when I turned 18. I\nthought he was awesome.” On information and belief, Prof. Dershowitz represents to the Court\ntherein. A copy of the publication, or a link to the article, will be provided to the Court at the\nCourt's request.\n\n5 The article states, in relevant part: “On one occasion,[Jane Doe #3] adds, Epstein did invite two\nyoung brunettes to a dinner which he gave on his Caribbean island for Mr. Clinton shortly after\nhe left office. But, as far as she knows, the ex-President did not take the bait. “I'd have been\nabout 17 at the time,' [Jane Doe #3] says. 'I flew to the Caribbean with Jeffrey and then\nGhislaine Maxwell went to pick up Bill [Clinton] in a huge black helicopter that Jeffrey had\nbought her. She'd always wanted to fly and Jeffrey paid for her to take lessons, and I remember\nshe was very excited because she got her licence around the first year we met. I used to get\nfrightened flying with her but Bill had the Secret Service with him and I remember him talking\nabout what a good job she did. I only ever met Bill twice but Jeffrey had told me that they were\ngood friends. I asked, 'How come?' and he laughed and said, 'He owes me some favours.'\nMaybe he was just joking but it constantly surprised me that people with as much to lose as Bill\nand [Prince] Andrew weren't more careful. Bill must have known about Jeffrey's girls... We all\ndined together that night. Jeffrey was at the head of the table. Bill was at his left. I sat across\nfrom him. [], Ghislaine's bonde British assistant sat at my right. Ghislaine was at Bill's left and\nat the left of Ghislaine there were two olive-skinned brunettes who'd flown with us from New\nYork. I'd never met them before. I'd say they were no older than 17, very innocent-looking...\nMaybe Jeffrey thought they would entertain Bill, but I saw no evidence that he was interested in\nthem. He and Jeffrey and Ghislaine seemed to have a very good relationship. Bill was very\nfunny. He made me laugh a few times. And he and Jeffrey Ghislaine told blokey jokes and the\nbrunettes listed politely and giggled. After dinner I gave Jeffrey an erotic massage. I don't\nremember seeing Bill again on the trip but I assume Ghislaine flew him back.””\n\n10\n\nHOUSE_OVERSIGHT_010744",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 10 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "detail about her fictional meeting with former President Clinton, providing an elaborate\ndescription about how Mr. Clinton and his secret service detail somehow allowed Ghislaine\nMaxwell, then a novice helicopter pilot, to fly all of them to Jeffrey's Epstein's private island on\nEpstein's black helicopter, as well as details about the specific place at the dinner table at which\nshe and Mr. Clinton were seated5. Id. Jane Doe #3 also gave this British newspaper an account\nof yet another fictional meeting on the same island, but this time with former vice president Gore\nand his then wife, Tipper, providing specific details purportedly to enhance the value of her\nfictional story: “The Gores seemed like a beautiful couple when I met them... Jeffrey [Epstein]\ndidn't ask me to give him a massage... I was planning on voting for him when I turned 18. I\nthought he was awesome.” On information and belief, Prof. Dershowitz represents to the Court\ntherein. A copy of the publication, or a link to the article, will be provided to the Court at the\nCourt's request.",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "5 The article states, in relevant part: “On one occasion,[Jane Doe #3] adds, Epstein did invite two\nyoung brunettes to a dinner which he gave on his Caribbean island for Mr. Clinton shortly after\nhe left office. But, as far as she knows, the ex-President did not take the bait. “I'd have been\nabout 17 at the time,' [Jane Doe #3] says. 'I flew to the Caribbean with Jeffrey and then\nGhislaine Maxwell went to pick up Bill [Clinton] in a huge black helicopter that Jeffrey had\nbought her. She'd always wanted to fly and Jeffrey paid for her to take lessons, and I remember\nshe was very excited because she got her licence around the first year we met. I used to get\nfrightened flying with her but Bill had the Secret Service with him and I remember him talking\nabout what a good job she did. I only ever met Bill twice but Jeffrey had told me that they were\ngood friends. I asked, 'How come?' and he laughed and said, 'He owes me some favours.'\nMaybe he was just joking but it constantly surprised me that people with as much to lose as Bill\nand [Prince] Andrew weren't more careful. Bill must have known about Jeffrey's girls... We all\ndined together that night. Jeffrey was at the head of the table. Bill was at his left. I sat across\nfrom him. [], Ghislaine's bonde British assistant sat at my right. Ghislaine was at Bill's left and\nat the left of Ghislaine there were two olive-skinned brunettes who'd flown with us from New\nYork. I'd never met them before. I'd say they were no older than 17, very innocent-looking...\nMaybe Jeffrey thought they would entertain Bill, but I saw no evidence that he was interested in\nthem. He and Jeffrey and Ghislaine seemed to have a very good relationship. Bill was very\nfunny. He made me laugh a few times. And he and Jeffrey Ghislaine told blokey jokes and the\nbrunettes listed politely and giggled. After dinner I gave Jeffrey an erotic massage. I don't\nremember seeing Bill again on the trip but I assume Ghislaine flew him back.””",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "10",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010744",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "President Clinton",
+      "Mr. Clinton",
+      "Ghislaine Maxwell",
+      "Jeffrey Epstein",
+      "Jane Doe #3",
+      "Gore",
+      "Tipper",
+      "Prof. Dershowitz",
+      "Bill",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Secret Service",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Caribbean",
+      "New York"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "HOUSE_OVERSIGHT_010744",
+      "Page 10 of 19"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": "Court",
+    "subject": "Allegations by Jane Doe #3 regarding meetings with Jeffrey Epstein, Bill Clinton, and Al Gore.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "HOUSE_OVERSIGHT_010744"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal brief or motion arguing that statements made by 'Jane Doe #3' are fictional. A footnote quotes an article where Jane Doe #3 describes events in detail. There is a small illegible portion in the footnote, marked as '[]', before 'Ghislaine's bonde British assistant'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010744.jpg",
+  "house_oversight_id": "010744",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:10:41.713861Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,120 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010735.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is the first page of a legal document filed in a United States District Court. The document is a 'Reply in Support of Motion for Limited Intervention' by Alan M. Dershowitz. It is a black and white, text-only document with a standard legal formatting, including a case caption, title, body text, and a footer with a document identifier.",
+    "layout": "The document follows a standard legal filing structure. A header at the top provides docketing information. Below this is the court name and case number. The center of the page features the case caption, listing the plaintiffs and defendant. A title for the specific motion is centered below the caption. The main body of the document consists of several paragraphs of text. A footer at the bottom right contains a unique identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 1 of 19\n\nUNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF FLORIDA\n\nCase No. 08-80736-CIV-MARRA/JOHNSON\n\nJANE DOE #1 AND JANE DOE #2,\n\nPlaintiffs,\n\nvs.\n\nUNITED STATES OF AMERICA,\n\nDefendant.\n\n____________________________________/\n\nREPLY IN SUPPORT OF MOTION\nFOR LIMITED INTERVENTION BY ALAN M. DERSHOWITZ\n\nAlan M. Dershowitz hereby replies in support of his Motion for Limited Intervention (DE 282). Prof. Dershowitz's only interest in joining this case is to strike the false, sensational and irrelevant allegations against him. In its response (DE 290), the government compellingly set forth the many reasons why Jane Does #3 and #4's request, filed over 6 years after the commencement of the CVRA case, should be denied. Jane Doe #3's false allegations against Prof. Dershowitz were not included in her statement to the government, were not made to the FBI when she was initially contacted by that agency, were not included in her civil action against Epstein in 2009, were not included in her recorded interview with her attorneys in 2011 and were not included in her interview with the British press in 2011. These allegations first appeared in Jane Doe #3's Motion for Joinder in December 2014 (DE 279), and therefore have absolutely no relevance as to whether there was a CVRA violation when Epstein and the government executed the Non-Prosecution Agreement in September 2007. The request for limited intervention was initiated to give Dershowitz a voice in the proceedings if and only if the Court allowed the\n\nHOUSE_OVERSIGHT_010735",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 1 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "UNITED STATES DISTRICT COURT\nSOUTHERN DISTRICT OF FLORIDA",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Case No. 08-80736-CIV-MARRA/JOHNSON",
+        "type": "printed"
+      },
+      {
+        "region": "case_caption",
+        "text": "JANE DOE #1 AND JANE DOE #2,\n\nPlaintiffs,\n\nvs.\n\nUNITED STATES OF AMERICA,\n\nDefendant.",
+        "type": "printed"
+      },
+      {
+        "region": "title",
+        "text": "REPLY IN SUPPORT OF MOTION\nFOR LIMITED INTERVENTION BY ALAN M. DERSHOWITZ",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Alan M. Dershowitz hereby replies in support of his Motion for Limited Intervention (DE 282). Prof. Dershowitz's only interest in joining this case is to strike the false, sensational and irrelevant allegations against him. In its response (DE 290), the government compellingly set forth the many reasons why Jane Does #3 and #4's request, filed over 6 years after the commencement of the CVRA case, should be denied. Jane Doe #3's false allegations against Prof. Dershowitz were not included in her statement to the government, were not made to the FBI when she was initially contacted by that agency, were not included in her civil action against Epstein in 2009, were not included in her recorded interview with her attorneys in 2011 and were not included in her interview with the British press in 2011. These allegations first appeared in Jane Doe #3's Motion for Joinder in December 2014 (DE 279), and therefore have absolutely no relevance as to whether there was a CVRA violation when Epstein and the government executed the Non-Prosecution Agreement in September 2007. The request for limited intervention was initiated to give Dershowitz a voice in the proceedings if and only if the Court allowed the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010735",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2014-12",
+      "2011",
+      "2009",
+      "2007-09"
+    ],
+    "people": [
+      "JANE DOE #1",
+      "JANE DOE #2",
+      "ALAN M. DERSHOWITZ",
+      "Jane Does #3",
+      "Jane Does #4",
+      "Jane Doe #3",
+      "Epstein"
+    ],
+    "organizations": [
+      "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA",
+      "UNITED STATES OF AMERICA",
+      "FBI"
+    ],
+    "locations": [
+      "SOUTHERN DISTRICT OF FLORIDA"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Case No. 08-80736-CIV-MARRA/JOHNSON",
+      "DE 282",
+      "DE 290",
+      "DE 279",
+      "HOUSE_OVERSIGHT_010735"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010735"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Alan M. Dershowitz",
+    "recipient": "UNITED STATES DISTRICT COURT SOUTHERN DISTRICT OF FLORIDA",
+    "subject": "Reply in Support of Motion for Limited Intervention",
+    "date": "2015-02-02",
+    "references": [
+      "Case No. 08-80736-CIV-MARRA/JOHNSON",
+      "DE 282",
+      "DE 290",
+      "DE 279"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is the first page of a 19-page filing. The footer 'HOUSE_OVERSIGHT_010735' appears to be a Bates number or identifier added during a document review process, likely by the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010735.jpg",
+  "house_oversight_id": "010735",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:06:29.685964Z",
+    "model": "gemini-2.5-pro"
+  }
+}

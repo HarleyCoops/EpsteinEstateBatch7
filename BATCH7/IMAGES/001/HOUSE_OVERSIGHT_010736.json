@@ -1,0 +1,94 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010736.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality digital image of a single page from a legal document. The text is black on a white background. The document has a header with case information, a main body of text consisting of two paragraphs, a page number centered at the bottom, and a document identifier in the bottom right corner.",
+    "layout": "Standard portrait layout for a legal filing, with a header, body text, and a footer containing a page number and an identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 2 of 19\n\njoinder of Jane Doe 3 and her untimely allegations to the underlying CVRA case. If the Court\nrejects the pending motion for joinder (DE 279), then the Court should strike the scurrilous\nallegations against Dershowitz, or, alternatively, determine the possible mootness of his Motion\nfor Limited Intervention. Of course, if the Court strikes the allegations against him sua sponte,\nProf. Dershowitz will withdraw his motion for limited intervention. However, if the Court grants\nJane Does #3 and #4’s motion for joinder, then Prof. Dershowitz’s motion for limited\nintervention should be granted for such purposes as may be appropriate including submitting a\nmotion to strike or other relief, so as to give him an opportunity to defend himself against these\nmalicious and false allegations. In support of his Reply in Support of his Motion for Limited\nIntervention, Prof. Dershowitz states as follows:\n\nDespite swearing under oath to her falsehoods about Prof. Dershowitz, Jane Doe #3\nstruggles to justify her defamations as having any relevance to the issues in this proceeding. Her\nResponse to Prof. Dershowitz’s Motion for Limited Intervention (DE 291) (herein “Response”)\noffers no legitimate reason for defaming Prof. Dershowitz in her Joinder Motion, and she has no\nright to continue to do so in this Court. Strikingly, the Response does not explain why Jane Doe\n#3, with an obvious financial motive for fabrication of salacious accusations, waited almost\nseven years to lob a stink bomb into a proceeding in which she has no right to participate. The\nResponse does not account for why Jane Doe #3 never once asserted her accusations about Prof.\nDershowitz until a month ago, even though the alleged transgressions supposedly occurred some\nfifteen years ago. Although neither Jane Doe #3 nor anyone else had previously asserted any\nimproper sexual contact with Prof. Dershowitz, now Jane Doe #3 cynically exploits the yoke of\nvictimhood to victimize others.\n\n2\n\nHOUSE_OVERSIGHT_010736",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 2 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "joinder of Jane Doe 3 and her untimely allegations to the underlying CVRA case. If the Court\nrejects the pending motion for joinder (DE 279), then the Court should strike the scurrilous\nallegations against Dershowitz, or, alternatively, determine the possible mootness of his Motion\nfor Limited Intervention. Of course, if the Court strikes the allegations against him sua sponte,\nProf. Dershowitz will withdraw his motion for limited intervention. However, if the Court grants\nJane Does #3 and #4’s motion for joinder, then Prof. Dershowitz’s motion for limited\nintervention should be granted for such purposes as may be appropriate including submitting a\nmotion to strike or other relief, so as to give him an opportunity to defend himself against these\nmalicious and false allegations. In support of his Reply in Support of his Motion for Limited\nIntervention, Prof. Dershowitz states as follows:\n\nDespite swearing under oath to her falsehoods about Prof. Dershowitz, Jane Doe #3\nstruggles to justify her defamations as having any relevance to the issues in this proceeding. Her\nResponse to Prof. Dershowitz’s Motion for Limited Intervention (DE 291) (herein “Response”)\noffers no legitimate reason for defaming Prof. Dershowitz in her Joinder Motion, and she has no\nright to continue to do so in this Court. Strikingly, the Response does not explain why Jane Doe\n#3, with an obvious financial motive for fabrication of salacious accusations, waited almost\nseven years to lob a stink bomb into a proceeding in which she has no right to participate. The\nResponse does not account for why Jane Doe #3 never once asserted her accusations about Prof.\nDershowitz until a month ago, even though the alleged transgressions supposedly occurred some\nfifteen years ago. Although neither Jane Doe #3 nor anyone else had previously asserted any\nimproper sexual contact with Prof. Dershowitz, now Jane Doe #3 cynically exploits the yoke of\nvictimhood to victimize others.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "2",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010736",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Jane Doe 3",
+      "Dershowitz",
+      "Prof. Dershowitz",
+      "Jane Doe #3",
+      "Jane Does #3 and #4"
+    ],
+    "organizations": [
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 2 of 19",
+      "DE 279",
+      "DE 291",
+      "HOUSE_OVERSIGHT_010736"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010736"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": "Court",
+    "subject": "Motion for Limited Intervention and allegations by Jane Doe #3 against Prof. Dershowitz.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 279",
+      "DE 291"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a reply or motion filed on behalf of Prof. Dershowitz in response to allegations made by 'Jane Doe #3'. The Bates number in the footer indicates it is part of a larger production of documents, possibly for a congressional committee like the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010736.jpg",
+  "house_oversight_id": "010736",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:06:55.254036Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010742.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, identified as page 8 of 19. The document is typed in a serif font on a plain white background. It contains a header with case information, a main body of text with several paragraphs, a footnote at the bottom, and a footer with a page number and another identifier.",
+    "layout": "Standard portrait layout with a header, body text, and a footer. The body text is left-aligned. A footnote is present at the bottom of the main text block, and a page number is centered in the footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 8 of 19\n\nMoreover, if the government had any reason to believe that Prof. Dershowitz was involved in\nany criminal activity they would have immediately demanded his recusal rather than continuing\nto work with him as one of Epstein’s attorneys in negotiating a plea bargain.\n\nFourth, Jane Doe #3 then makes the facially absurd and libelous claim that somehow\nProf. Dershowitz must have drafted and benefited from the “co-conspirators” clause of the NPA.\nBut the link between the need to include these allegations and their ability to rescind the “co-\nconspirators” clause goes completely unexplained. The allegations are completely gratuitous, as\nthere is no such link. No such claim existed until fabricated by Jane Doe #3 many years after the\nNPA was signed and fully performed. Additionally, as stated in Prof. Dershowitz’s Supplement\nto his Motion for Limited Intervention, this “co-conspirator” provision “was intended to apply to\nfour alleged co-conspirators, who were named in the original NPA and later redacted at their\nrequest.... Alan Dershowitz was never alleged to be a potential co-conspirator.” (DE 285 at 4³.)\n\nIncredibly, Jane Doe #3’s counsel, Bradley Edwards, agreed with this reading of the NPA\nin his Statement of Undisputed Fact during his own personal lawsuit against Jeffrey Epstein\n(Jeffrey Epstein v. Scott Rothstein and Bradley J. Edwards, lawsuit (Case no. 502009-CA-\n040800)) in Palm Beach County Circuit Court. There, Edwards explained that these co-\nconspirators were certain individuals who “procured minor females to be molested by Epstein.”\n(DE 291-15 at ¶ 27.) Only now, when convenient as a way to try to justify allegations against\nProf. Dershowitz does Edwards argue (on behalf of Jane Doe #3) that the “co-conspirator”\nprovision was actually intended to protect Prof. Dershowitz.\n\n³ Moreover, it is unlikely that anyone who had sexual contact with Jane Doe #3, or any other\nminor involved in the Epstein case, would be considered to be a “co-conspirator.” Instead those\nindividuals would be substantive perpetrators, not covered by the agreement.\n\n8\n\nHOUSE_OVERSIGHT_010742",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 8 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Moreover, if the government had any reason to believe that Prof. Dershowitz was involved in\nany criminal activity they would have immediately demanded his recusal rather than continuing\nto work with him as one of Epstein’s attorneys in negotiating a plea bargain.\n\nFourth, Jane Doe #3 then makes the facially absurd and libelous claim that somehow\nProf. Dershowitz must have drafted and benefited from the “co-conspirators” clause of the NPA.\nBut the link between the need to include these allegations and their ability to rescind the “co-\nconspirators” clause goes completely unexplained. The allegations are completely gratuitous, as\nthere is no such link. No such claim existed until fabricated by Jane Doe #3 many years after the\nNPA was signed and fully performed. Additionally, as stated in Prof. Dershowitz’s Supplement\nto his Motion for Limited Intervention, this “co-conspirator” provision “was intended to apply to\nfour alleged co-conspirators, who were named in the original NPA and later redacted at their\nrequest.... Alan Dershowitz was never alleged to be a potential co-conspirator.” (DE 285 at 4³.)\n\nIncredibly, Jane Doe #3’s counsel, Bradley Edwards, agreed with this reading of the NPA\nin his Statement of Undisputed Fact during his own personal lawsuit against Jeffrey Epstein\n(Jeffrey Epstein v. Scott Rothstein and Bradley J. Edwards, lawsuit (Case no. 502009-CA-\n040800)) in Palm Beach County Circuit Court. There, Edwards explained that these co-\nconspirators were certain individuals who “procured minor females to be molested by Epstein.”\n(DE 291-15 at ¶ 27.) Only now, when convenient as a way to try to justify allegations against\nProf. Dershowitz does Edwards argue (on behalf of Jane Doe #3) that the “co-conspirator”\nprovision was actually intended to protect Prof. Dershowitz.",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "³ Moreover, it is unlikely that anyone who had sexual contact with Jane Doe #3, or any other\nminor involved in the Epstein case, would be considered to be a “co-conspirator.” Instead those\nindividuals would be substantive perpetrators, not covered by the agreement.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "8",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010742",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Prof. Dershowitz",
+      "Epstein",
+      "Jane Doe #3",
+      "Alan Dershowitz",
+      "Bradley Edwards",
+      "Jeffrey Epstein",
+      "Scott Rothstein",
+      "Bradley J. Edwards"
+    ],
+    "organizations": [
+      "Palm Beach County Circuit Court",
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 8 of 19",
+      "DE 285",
+      "Case no. 502009-CA-040800",
+      "DE 291-15",
+      "HOUSE_OVERSIGHT_010742"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010742"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of a Non-Prosecution Agreement (NPA), the 'co-conspirators' clause, and allegations related to Prof. Dershowitz and Jane Doe #3 in the context of the Jeffrey Epstein case.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 285",
+      "Case no. 502009-CA-040800",
+      "DE 291-15"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a legal argument or motion refuting claims made by 'Jane Doe #3' against 'Prof. Dershowitz' regarding his involvement in the Epstein case and the Non-Prosecution Agreement.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010742.jpg",
+  "house_oversight_id": "010742",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:09:42.501622Z",
+    "model": "gemini-2.5-pro"
+  }
+}

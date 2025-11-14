@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010741.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image of a single page from a legal document. The text is typed in a serif font. The page includes a header with case information, a main body of text, a footnote at the bottom, and a footer with a page number and a Bates stamp.",
+    "layout": "Standard legal document format with a header at the top, a main body of text, a footnote separated by a line, and a footer at the bottom containing a centered page number and a Bates stamp in the lower right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 7 of 19\n\ninto the NPA entered into between the government and Mr. Epstein. Again, this argument makes\nno sense in the context of this case.² The inclusion of certain provisions in the agreement simply\nhas nothing to do with whether the government complied with its obligations under the Crime\nVictims’ Rights Act (“CVRA”). If anything, it is the government’s motive that would be at\nissue—although even that point is doubtful—not the defense attorneys’. Moreover, because the\nfirst time Jane Doe #3 made these contemptible allegations against Prof. Dershowitz was in her\nMotion for Joinder in December 2014, those allegations are irrelevant as to the inquiry of\nwhether Jane Doe #3’s rights under the CVRA were violated at the time the NPA was entered.\nThe government confirms that when Jane Doe #3 was contacted by the FBI about this\ninvestigation, she clearly “stated that she did not want to be involved in the federal\ninvestigation.” (DE 290 at 6.) She was not “kept in the dark” as she alleges in her Response.\n(DE 291 at 25.) Instead, she apparently chose to stay in the dark. Moreover, she did not make\nany allegations against Prof. Dershowitz at the time the NPA was entered, nor did she made any\nallegations against Prof. Dershowitz in her action for civil damages in 2009, nor did she make\nany allegations against Prof. Dershowitz in her tape recorded interview with her attorney in\n2011, nor did she make any allegations against Prof. Dershowitz in her interview with the British\npress in 2011. The first time these allegations surfaced were in connection with Jane Doe #3’s\nMotion for Joinder in this action. The allegations have absolutely no relevance to the underlying\nissue of whether Jane Doe #3 was “treated with fairness” when the NPA was entered, as the\nallegations against Prof. Dershowitz did not surface until approximately eight years later.\n\n² Prof. Dershowitz, along with many other lawyers, was involved in negotiating the plea bargain\nunder which Epstein agreed to plead guilty to State charges in exchange for an agreement not to\nprosecute him federally. However, he was not involved in drafting the text of the NPA. In fact,\ntwo other lawyers did the drafting.\n\n7\n\nHOUSE_OVERSIGHT_010741",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 7 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "into the NPA entered into between the government and Mr. Epstein. Again, this argument makes\nno sense in the context of this case.² The inclusion of certain provisions in the agreement simply\nhas nothing to do with whether the government complied with its obligations under the Crime\nVictims’ Rights Act (“CVRA”). If anything, it is the government’s motive that would be at\nissue—although even that point is doubtful—not the defense attorneys’. Moreover, because the\nfirst time Jane Doe #3 made these contemptible allegations against Prof. Dershowitz was in her\nMotion for Joinder in December 2014, those allegations are irrelevant as to the inquiry of\nwhether Jane Doe #3’s rights under the CVRA were violated at the time the NPA was entered.\nThe government confirms that when Jane Doe #3 was contacted by the FBI about this\ninvestigation, she clearly “stated that she did not want to be involved in the federal\ninvestigation.” (DE 290 at 6.) She was not “kept in the dark” as she alleges in her Response.\n(DE 291 at 25.) Instead, she apparently chose to stay in the dark. Moreover, she did not make\nany allegations against Prof. Dershowitz at the time the NPA was entered, nor did she made any\nallegations against Prof. Dershowitz in her action for civil damages in 2009, nor did she make\nany allegations against Prof. Dershowitz in her tape recorded interview with her attorney in\n2011, nor did she make any allegations against Prof. Dershowitz in her interview with the British\npress in 2011. The first time these allegations surfaced were in connection with Jane Doe #3’s\nMotion for Joinder in this action. The allegations have absolutely no relevance to the underlying\nissue of whether Jane Doe #3 was “treated with fairness” when the NPA was entered, as the\nallegations against Prof. Dershowitz did not surface until approximately eight years later.",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "² Prof. Dershowitz, along with many other lawyers, was involved in negotiating the plea bargain\nunder which Epstein agreed to plead guilty to State charges in exchange for an agreement not to\nprosecute him federally. However, he was not involved in drafting the text of the NPA. In fact,\ntwo other lawyers did the drafting.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "7",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010741",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2014-12",
+      "2009",
+      "2011"
+    ],
+    "people": [
+      "Mr. Epstein",
+      "Jane Doe #3",
+      "Prof. Dershowitz"
+    ],
+    "organizations": [
+      "FBI",
+      "British press",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Page 7 of 19",
+      "DE 290",
+      "DE 291",
+      "HOUSE_OVERSIGHT_010741"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010741"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Legal Filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Relevance of Jane Doe #3's allegations against Prof. Dershowitz to the violation of her rights under the Crime Victims' Rights Act (CVRA) concerning a Non-Prosecution Agreement (NPA) with Mr. Epstein.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "DE 290",
+      "DE 291",
+      "Motion for Joinder"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a single page from a larger legal filing. All information has been extracted with high confidence.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010741.jpg",
+  "house_oversight_id": "010741",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:09:13.679299Z",
+    "model": "gemini-2.5-pro"
+  }
+}

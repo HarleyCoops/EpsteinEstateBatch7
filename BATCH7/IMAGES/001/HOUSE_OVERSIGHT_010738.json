@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010738.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a legal document, specifically a court filing. The page is numbered 4 of 19 and contains typed text in a standard serif font. The content discusses a legal motion for intervention in a case.",
+    "layout": "The document follows a standard legal format with a header containing case information, a main body of text with a section heading, a centered page number below the body, and a footer with a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 4 of 19\n\nI. Jane Doe #3's Continued Smears of Prof. Dershowitz Demonstrate His Need to Intervene\n\nDershowitz’s request for intervention stands upon dramatically different circumstances than other intervention motions in this case, or any other case for that matter. Simply put, the scope and tenor of their attacks against Prof. Dershowitz differ both in degree and in kind from other reputational muggings conducted in the case before this Court. Nor is there a single reported decision in federal case law in which the vitriol, severity, and length of the attacks against a nonparty approach those levelled against Prof. Dershowitz here. What has become further apparent is that if Jane Doe #3’s Motion for Joinder is granted and Prof. Dershowitz is not allowed to intervene, Jane Doe #3 and her counsel will proceed with their attacks against him, all the more emboldened with complete impunity.\n\nWhile Jane Doe #3 asks to “prove” her allegations against Prof. Dershowitz, she argues paradoxically that he does not have “any direct interest” in defending these allegations. Instead, she directs Prof. Dershowitz to defend the allegations that she makes in a contrived lawsuit filed by her attorneys against him in Broward County Circuit Court for defamation of them. Moreover, the law cited by Prof. Dershowitz, including the Sackman and Penthouse cases, demonstrates a need and entitlement to intervene to vindicate his legitimate reputational interest that no other party is situated to protect. “The individual’s right to the protection of his own good name reflects no more than our basic concept of essential dignity and worth of every human being – a concept at the root of any decent system of ordered liberty...” Krauser v. Evolution Holdings, Inc., 975 F.Supp. 2d 1247, 1260 (S.D. Fla. 2013); quoting Spencer v. Kemna, 523 U.S. 1, 24 n. 5 (1998) (Stevens, J., dissenting).\n\n4\n\nHOUSE_OVERSIGHT_010738",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 4 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "I. Jane Doe #3's Continued Smears of Prof. Dershowitz Demonstrate His Need to Intervene\n\nDershowitz’s request for intervention stands upon dramatically different circumstances than other intervention motions in this case, or any other case for that matter. Simply put, the scope and tenor of their attacks against Prof. Dershowitz differ both in degree and in kind from other reputational muggings conducted in the case before this Court. Nor is there a single reported decision in federal case law in which the vitriol, severity, and length of the attacks against a nonparty approach those levelled against Prof. Dershowitz here. What has become further apparent is that if Jane Doe #3’s Motion for Joinder is granted and Prof. Dershowitz is not allowed to intervene, Jane Doe #3 and her counsel will proceed with their attacks against him, all the more emboldened with complete impunity.\n\nWhile Jane Doe #3 asks to “prove” her allegations against Prof. Dershowitz, she argues paradoxically that he does not have “any direct interest” in defending these allegations. Instead, she directs Prof. Dershowitz to defend the allegations that she makes in a contrived lawsuit filed by her attorneys against him in Broward County Circuit Court for defamation of them. Moreover, the law cited by Prof. Dershowitz, including the Sackman and Penthouse cases, demonstrates a need and entitlement to intervene to vindicate his legitimate reputational interest that no other party is situated to protect. “The individual’s right to the protection of his own good name reflects no more than our basic concept of essential dignity and worth of every human being – a concept at the root of any decent system of ordered liberty...” Krauser v. Evolution Holdings, Inc., 975 F.Supp. 2d 1247, 1260 (S.D. Fla. 2013); quoting Spencer v. Kemna, 523 U.S. 1, 24 n. 5 (1998) (Stevens, J., dissenting).",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "4",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010738",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02",
+      "2013",
+      "1998"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Sackman",
+      "Krauser",
+      "Spencer",
+      "Stevens, J."
+    ],
+    "organizations": [
+      "Broward County Circuit Court",
+      "Evolution Holdings, Inc."
+    ],
+    "locations": [
+      "S.D. Fla."
+    ],
+    "document_numbers": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "HOUSE_OVERSIGHT_010738",
+      "975 F.Supp. 2d 1247",
+      "523 U.S. 1"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010738"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Jane Doe #3's Continued Smears of Prof. Dershowitz Demonstrate His Need to Intervene",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Krauser v. Evolution Holdings, Inc., 975 F.Supp. 2d 1247, 1260 (S.D. Fla. 2013)",
+      "Spencer v. Kemna, 523 U.S. 1, 24 n. 5 (1998)",
+      "Sackman case",
+      "Penthouse case"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a motion or a supporting memorandum related to Prof. Dershowitz's request to intervene in a legal case involving Jane Doe #3. The footer 'HOUSE_OVERSIGHT_010738' suggests this document was part of a collection reviewed by the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010738.jpg",
+  "house_oversight_id": "010738",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:07:48.420121Z",
+    "model": "gemini-2.5-pro"
+  }
+}

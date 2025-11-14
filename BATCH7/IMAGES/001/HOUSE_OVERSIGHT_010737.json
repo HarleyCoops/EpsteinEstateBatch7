@@ -1,0 +1,90 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010737.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a single page from a legal document. The text is black on a white background, formatted in a standard serif font. The page includes a header with case information, a body of text consisting of two main paragraphs, and a footer with page numbers.",
+    "layout": "The document has a header at the top, a main body of text, a centered page number, and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 3 of 19\n\nAt bottom, Jane Doe #3's Response is nothing but a paper-thin pastiche of conspiracy\ntheory and outright misrepresentation that crumbles upon examination. Invocations of the Fifth\nAmendment by nonparty witnesses in response to innocuous questions about Prof. Dershowitz\nare said to take on a “sinister cast”; yet these same witnesses invoked their right against self-\nincrimination to almost every question asked of them, including their parents' names. Prof.\nDershowitz, as Epstein's former legal counsel, is one of hundreds of people listed in an address\nbook purloined by Jeffrey Epstein's criminal butler; yet because Prof. Dershowitz's name is\ncircled in the address book by an unknown person for unknown reasons, the argument is made\nthat Prof. Dershowitz must have sexually abused a minor. The record shows that while Prof.\nDershowitz and Jane Doe #3 are both separately mentioned in the flight logs of Mr. Epstein's\nprivate plane, they are never listed on the same flight. Plaintiffs, in turn, falsely claim that\nsomehow Prof. Dershowitz single-handedly orchestrated the destruction of logs without any\nevidence of ability or possibility to do so. The increasingly unfounded accusations and insults\nare both sad and irresponsible.\n\nIt is precisely this toxic mix of irrelevancy, malicious falsehood, and empty accusation\nthat justifies Prof. Dershowitz's intervention to, at least, strike the allegations against him. Jane\nDoe #3 never had any need to drag Prof. Dershowitz into this action besides to wrongfully use\nhis good name and international stature to stir up media interest in her filing. This is\nimpertinence, plain and simple, and it has no place in this Court. Prof. Dershowitz therefore\nurges the Court to either allow him to intervene to strike Jane Doe #3's defamatory allegations or\ndeny Jane Doe #3's Joinder Motion so she is no longer afforded the ability to use the docket of\nthis Court to defame others without being held accountable and strike these allegations from the\nrecord.\n\n3\n\nHOUSE_OVERSIGHT_010737",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Case 9:08-cv-80736-KAM Document 306 Entered on FLSD Docket 02/02/2015 Page 3 of 19",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "At bottom, Jane Doe #3's Response is nothing but a paper-thin pastiche of conspiracy\ntheory and outright misrepresentation that crumbles upon examination. Invocations of the Fifth\nAmendment by nonparty witnesses in response to innocuous questions about Prof. Dershowitz\nare said to take on a “sinister cast”; yet these same witnesses invoked their right against self-\nincrimination to almost every question asked of them, including their parents' names. Prof.\nDershowitz, as Epstein's former legal counsel, is one of hundreds of people listed in an address\nbook purloined by Jeffrey Epstein's criminal butler; yet because Prof. Dershowitz's name is\ncircled in the address book by an unknown person for unknown reasons, the argument is made\nthat Prof. Dershowitz must have sexually abused a minor. The record shows that while Prof.\nDershowitz and Jane Doe #3 are both separately mentioned in the flight logs of Mr. Epstein's\nprivate plane, they are never listed on the same flight. Plaintiffs, in turn, falsely claim that\nsomehow Prof. Dershowitz single-handedly orchestrated the destruction of logs without any\nevidence of ability or possibility to do so. The increasingly unfounded accusations and insults\nare both sad and irresponsible.\n\nIt is precisely this toxic mix of irrelevancy, malicious falsehood, and empty accusation\nthat justifies Prof. Dershowitz's intervention to, at least, strike the allegations against him. Jane\nDoe #3 never had any need to drag Prof. Dershowitz into this action besides to wrongfully use\nhis good name and international stature to stir up media interest in her filing. This is\nimpertinence, plain and simple, and it has no place in this Court. Prof. Dershowitz therefore\nurges the Court to either allow him to intervene to strike Jane Doe #3's defamatory allegations or\ndeny Jane Doe #3's Joinder Motion so she is no longer afforded the ability to use the docket of\nthis Court to defame others without being held accountable and strike these allegations from the\nrecord.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "3",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010737",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-02-02"
+    ],
+    "people": [
+      "Jane Doe #3",
+      "Prof. Dershowitz",
+      "Jeffrey Epstein",
+      "Mr. Epstein"
+    ],
+    "organizations": [
+      "Court"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "9:08-cv-80736-KAM",
+      "306",
+      "HOUSE_OVERSIGHT_010737"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010737"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": "Prof. Dershowitz (or his legal representation)",
+    "recipient": "Court",
+    "subject": "Argument against allegations by Jane Doe #3 and request for intervention to strike allegations or deny a Joinder Motion.",
+    "date": "2015-02-02",
+    "references": [
+      "Case 9:08-cv-80736-KAM",
+      "Document 306",
+      "Jane Doe #3's Response",
+      "Jane Doe #3's Joinder Motion"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a response or motion filed on behalf of Prof. Dershowitz in a civil case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010737.jpg",
+  "house_oversight_id": "010737",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:07:20.805984Z",
+    "model": "gemini-2.5-pro"
+  }
+}
