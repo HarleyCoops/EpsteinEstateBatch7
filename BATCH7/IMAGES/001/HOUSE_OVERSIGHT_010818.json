@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010818.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 317, 319, 318, and 320. The text consists of questions and answers, typical of a deposition or hearing. A footer at the bottom contains a document identifier, page range, and contact information for a reporting service.",
+    "layout": "The image displays four distinct pages of a transcript. Page 317 is in the top-left quadrant, page 319 is top-right, page 318 is bottom-left, and page 320 is bottom-right. Each page has numbered lines. A footer spans the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "317\n1     Q. December 11, 2000, PBI to Teterboro,\n2  passengers, Jeffrey Epstein --\n3     A. Wait a second. I have to find it.\n4           MR. SCOTT: Well, let him -- let him read\n5  the exhibit.\n6     A. What -- what's the date?\n7        BY MR. SCAROLA:\n8     Q. December 11.\n9     A. December 11. Yes, I see that.\n10    Q. Palm Beach International Airport to\n11 Teterboro?\n12    A. Right, yeah.\n13    Q. Passengers, Jeffrey Epstein?\n14    A. Right.\n15    Q. GM, a reference to Ghislaine -- excuse me,\n16 Ghislaine Maxwell.\n17    A. Uh-huh.\n18    Q. And ET and Virginia, right?\n19    A. That's what it says, yes, sir.\n20    Q. And then we see three of the same four\n21 passengers leaving the New York area.\n22    A. Uh-huh.\n23    Q. To fly to another destination three days\n24 later on December 14, correct?\n25    A. Yes.\n\n319\n1  that, but that you were in New York at the same time\n2  Jeffrey Epstein --\n3     A. And that Carolyn --\n4     Q. -- and Virginia were in New York and you\n5  were --\n6     A. And that Carolyn arranged for a massage.\n7     Q. -- having a massage.\n8     A. And that my wife arranged for a massage.\n9     Q. No, I didn't say that at all, sir?\n10          MR. SCOTT: Well, that's what he's saying\n11 that the record reflects.\n12    A. The record --\n13          MR. SCOTT: Don't cut him off.\n14    A. -- reflects that Carolyn -- Carolyn always\n15 wanted me to have massages because she thought it\n16 would relax me. I don't like massages particularly,\n17 but when Carolyn arranged massages, almost always we\n18 had them together at the same time. We would have\n19 the same masseuse, sometimes a man, sometimes a\n20 woman, come to the house and give us massages\n21 together.\n22          The idea that my wife would arrange for me\n23 to have a massage with an underage girl for sexual\n24 purposes is so bizarre and absurd as to defy any\n25 kind of credibility, but go on.\n\n318\n1     Q. And let's look at the next page of your\n2  wife's diary for December 13, the period of time\n3  when the flight log shows Jeffrey Epstein and\n4  Virginia in New York --\n5     A. Uh-huh.\n6     Q. -- at the same time when it would appear\n7  that you were in New York. And at the bottom of\n8  this calendar, Wednesday, December 13, A.D.,\n9  massage, right?\n10    A. 10:00 a.m. it says? What is it?\n11    Q. It says 10, 10-A.D. massage?\n12    A. Yeah.\n13    Q. Okay.\n14          Let's go to the next composite.\n15    A. I don't have -- there's another page after\n16 that. Oh, the next composite.\n17    Q. Yes, sir.\n18    A. Yeah.\n19    Q. Composite Number 10.\n20    A. Uh-huh. But -- but I just want to be\n21 clear. So you're saying Carolyn was with me in\n22 New York during that period of time.\n23    Q. No, I'm not saying that at all, sir. I\n24 suggest that when we take a close look at the\n25 calendar, it's going to reveal something other than\n\n320\n1        BY MR. SCAROLA:\n2     Q. Yes. Thank you very much, sir.\n3     A. Go on.\n4     Q. I intend --\n5           MR. SCOTT: Since you're both smiling,\n6  there seems to be some humor that I'm missing\n7  here. I guess I --\n8           MR. SCAROLA: Well, I'm missing the humor\n9  too.\n10       BY MR. SCAROLA:\n11    Q. Let's go to Composite Exhibit Number 10.\n12    A. Yeah.\n13    Q. The first page of that composite exhibit\n14 is a photocopy of pages from your personal calendar\n15 in January 2001, correct?\n16    A. That's right, yes.\n17    Q. Another Court TV appearance on January 11,\n18 correct?\n19    A. January 11.\n20    Q. Yes, sir. Thursday, January 11, entry in\n21 the left-hand column, Court TV.\n22    A. Entry on -- yes, January -- I see it as --\n23 I see it on January 12. I don't see it on\n24 January 11, but...\n\n36 (Pages 317 to 320)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010818",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "317\n1     Q. December 11, 2000, PBI to Teterboro,\n2  passengers, Jeffrey Epstein --\n3     A. Wait a second. I have to find it.\n4           MR. SCOTT: Well, let him -- let him read\n5  the exhibit.\n6     A. What -- what's the date?\n7        BY MR. SCAROLA:\n8     Q. December 11.\n9     A. December 11. Yes, I see that.\n10    Q. Palm Beach International Airport to\n11 Teterboro?\n12    A. Right, yeah.\n13    Q. Passengers, Jeffrey Epstein?\n14    A. Right.\n15    Q. GM, a reference to Ghislaine -- excuse me,\n16 Ghislaine Maxwell.\n17    A. Uh-huh.\n18    Q. And ET and Virginia, right?\n19    A. That's what it says, yes, sir.\n20    Q. And then we see three of the same four\n21 passengers leaving the New York area.\n22    A. Uh-huh.\n23    Q. To fly to another destination three days\n24 later on December 14, correct?\n25    A. Yes.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "319\n1  that, but that you were in New York at the same time\n2  Jeffrey Epstein --\n3     A. And that Carolyn --\n4     Q. -- and Virginia were in New York and you\n5  were --\n6     A. And that Carolyn arranged for a massage.\n7     Q. -- having a massage.\n8     A. And that my wife arranged for a massage.\n9     Q. No, I didn't say that at all, sir?\n10          MR. SCOTT: Well, that's what he's saying\n11 that the record reflects.\n12    A. The record --\n13          MR. SCOTT: Don't cut him off.\n14    A. -- reflects that Carolyn -- Carolyn always\n15 wanted me to have massages because she thought it\n16 would relax me. I don't like massages particularly,\n17 but when Carolyn arranged massages, almost always we\n18 had them together at the same time. We would have\n19 the same masseuse, sometimes a man, sometimes a\n20 woman, come to the house and give us massages\n21 together.\n22          The idea that my wife would arrange for me\n23 to have a massage with an underage girl for sexual\n24 purposes is so bizarre and absurd as to defy any\n25 kind of credibility, but go on.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "318\n1     Q. And let's look at the next page of your\n2  wife's diary for December 13, the period of time\n3  when the flight log shows Jeffrey Epstein and\n4  Virginia in New York --\n5     A. Uh-huh.\n6     Q. -- at the same time when it would appear\n7  that you were in New York. And at the bottom of\n8  this calendar, Wednesday, December 13, A.D.,\n9  massage, right?\n10    A. 10:00 a.m. it says? What is it?\n11    Q. It says 10, 10-A.D. massage?\n12    A. Yeah.\n13    Q. Okay.\n14          Let's go to the next composite.\n15    A. I don't have -- there's another page after\n16 that. Oh, the next composite.\n17    Q. Yes, sir.\n18    A. Yeah.\n19    Q. Composite Number 10.\n20    A. Uh-huh. But -- but I just want to be\n21 clear. So you're saying Carolyn was with me in\n22 New York during that period of time.\n23    Q. No, I'm not saying that at all, sir. I\n24 suggest that when we take a close look at the\n25 calendar, it's going to reveal something other than",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "320\n1        BY MR. SCAROLA:\n2     Q. Yes. Thank you very much, sir.\n3     A. Go on.\n4     Q. I intend --\n5           MR. SCOTT: Since you're both smiling,\n6  there seems to be some humor that I'm missing\n7  here. I guess I --\n8           MR. SCAROLA: Well, I'm missing the humor\n9  too.\n10       BY MR. SCAROLA:\n11    Q. Let's go to Composite Exhibit Number 10.\n12    A. Yeah.\n13    Q. The first page of that composite exhibit\n14 is a photocopy of pages from your personal calendar\n15 in January 2001, correct?\n16    A. That's right, yes.\n17    Q. Another Court TV appearance on January 11,\n18 correct?\n19    A. January 11.\n20    Q. Yes, sir. Thursday, January 11, entry in\n21 the left-hand column, Court TV.\n22    A. Entry on -- yes, January -- I see it as --\n23 I see it on January 12. I don't see it on\n24 January 11, but...",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "36 (Pages 317 to 320)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010818",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2000-12-11",
+      "2000-12-14",
+      "2000-12-13",
+      "2001-01",
+      "2001-01-11",
+      "2001-01-12"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Ghislaine Maxwell",
+      "Virginia",
+      "Carolyn"
+    ],
+    "organizations": [
+      "Court TV",
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "Teterboro",
+      "Palm Beach International Airport",
+      "New York"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010818",
+      "Composite Number 10",
+      "Composite Exhibit Number 10"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding travel logs, calendars, and associations with Jeffrey Epstein, Ghislaine Maxwell, and Virginia.",
+    "date": null,
+    "references": [
+      "Composite Exhibit Number 10"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four pages from a larger transcript, specifically pages 317, 318, 319, and 320. The questioning revolves around flight logs and a personal diary/calendar from December 2000 and January 2001.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010818.jpg",
+  "house_oversight_id": "010818",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:48:43.130262Z",
+    "model": "gemini-2.5-pro"
+  }
+}

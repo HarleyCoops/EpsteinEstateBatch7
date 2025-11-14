@@ -75,28 +75,28 @@ def load_api_key(base_dir: Path) -> str:
     return api_key
 
 
-def get_recent_json_files(base_dir: Path, minutes: int = 5) -> Dict[str, List[Path]]:
-    """Get JSON files modified in the last N minutes."""
+def get_recent_json_files(base_dir: Path, minutes: int = 60) -> Dict[str, List[Path]]:
+    """Get JSON files modified in the last N minutes (default: 60 minutes = 1 hour)."""
     cutoff_time = datetime.now() - timedelta(minutes=minutes)
     recent_files = {
         "images": [],
         "text": []
     }
     
-    # Get image JSON files modified in last 5 minutes
-    images_dir = base_dir / "BATCH7" / "IMAGES" / "001"
-    if images_dir.exists():
-        for json_file in images_dir.glob("*.json"):
+    # Walk entire IMAGES tree (all subdirectories)
+    images_base = base_dir / "BATCH7" / "IMAGES"
+    if images_base.exists():
+        for json_file in images_base.rglob("*.json"):
             mtime = datetime.fromtimestamp(json_file.stat().st_mtime)
             if mtime >= cutoff_time:
                 recent_files["images"].append(json_file)
         # Sort by modification time, most recent first
         recent_files["images"].sort(key=lambda p: p.stat().st_mtime, reverse=True)
     
-    # Get text extraction JSON files modified in last 5 minutes
-    text_dir = base_dir / "BATCH7" / "TEXT" / "001"
-    if text_dir.exists():
-        for json_file in text_dir.glob("*_extraction.json"):
+    # Walk entire TEXT tree (all subdirectories)
+    text_base = base_dir / "BATCH7" / "TEXT"
+    if text_base.exists():
+        for json_file in text_base.rglob("*_extraction.json"):
             mtime = datetime.fromtimestamp(json_file.stat().st_mtime)
             if mtime >= cutoff_time:
                 recent_files["text"].append(json_file)
@@ -118,7 +118,24 @@ def read_json_file(file_path: Path) -> Optional[Dict[str, Any]]:
 def generate_ai_summary(recent_files: Dict[str, List[Path]], api_key: str, base_dir: Path) -> str:
     """Send JSON files to Gemini API and get AI-generated summary."""
     if not recent_files["images"] and not recent_files["text"]:
-        return "No new files processed in the last 5 minutes. Processing continues..."
+        # If no recent files, get the most recent files anyway (last 20 files)
+        # This ensures we always have something to summarize
+        all_images = []
+        all_text = []
+        
+        images_base = base_dir / "BATCH7" / "IMAGES"
+        if images_base.exists():
+            all_images = sorted(images_base.rglob("*.json"), key=lambda p: p.stat().st_mtime, reverse=True)[:10]
+        
+        text_base = base_dir / "BATCH7" / "TEXT"
+        if text_base.exists():
+            all_text = sorted(text_base.rglob("*_extraction.json"), key=lambda p: p.stat().st_mtime, reverse=True)[:10]
+        
+        if not all_images and not all_text:
+            return "Processing files... Analysis summary will appear here as files are processed."
+        
+        # Use the most recent files even if they're older than the window
+        recent_files = {"images": all_images, "text": all_text}
     
     # Collect all JSON content
     json_contents = []
@@ -217,8 +234,9 @@ def update_readme_with_summary(base_dir: Path) -> bool:
     except SystemExit:
         return False
     
-    # Get recent JSON files (last 5 minutes)
-    recent_files = get_recent_json_files(base_dir, minutes=5)
+    # Get recent JSON files (last 60 minutes = 1 hour)
+    # This ensures we catch files even if processing is slower
+    recent_files = get_recent_json_files(base_dir, minutes=60)
     
     # Generate AI summary
     summary_text = generate_ai_summary(recent_files, api_key, base_dir)

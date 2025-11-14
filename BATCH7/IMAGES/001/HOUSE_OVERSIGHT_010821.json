@@ -1,0 +1,126 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010821.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages from a legal document. The pages are numbered 329, 330, 331, and 332. Page 329 contains the end of a deposition transcript. Page 330 contains a Certificate of Oath with a signature and a notary seal. Page 331 contains a Certificate of Reporter. Page 332 contains a letter regarding the transcript. The bottom of the image has a footer with a website, phone number, and a document identifier.",
+    "layout": "The image is a 2x2 grid of four document pages. Top-left is page 329, top-right is 331. Bottom-left is 330, bottom-right is 332. A footer is present at the very bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "329\n1\tMR. SCAROLA: I'm giving you notice as to\n2\twhat you can do to do your homework. Okay?\n3\tThey directly conflict with the witness's\n4\tassertion that the flight logs exonerate him.\n5\tIn fact --\n6\tMR. SCOTT: Wait a minute.\n7\tMR. SCAROLA: -- the flight logs -- the\n8\tflight logs corroborate Virginia Roberts'\n9\tassertions.\n10\tMR. SCOTT: And I thank you very much for\n11\tthat explanation and we look forward to\n12\tresuming this at the appropriate time and\n13\tresponding to that.\n14\tTHE WITNESS: And that is a false\n15\tstatement.\n16\tMR. SCOTT: Thank you.\n17\tVIDEOGRAPHER: Going off the record. The\n18\ttime is approximately 12:26 p.m.\n19\t(The proceedings ADJOURNED at 12:26 p.m.)\n20\n21\n22\n23\n24\n25\n\n331\nCERTIFICATE OF REPORTER\n\nSTATE OF FLORIDA\nCOUNTY OF BROWARD\n\nI, KIMBERLY FONTALVO, Registered\nProfessional Reporter, do hereby certify that I\nwas authorized to and did stenographically report\nthe foregoing videotape deposition of ALAN M.\nDERSHOWITZ; pages 1 through 145; that a review of\nthe transcript was requested; and that the\ntranscript is a true record of my stenographic\nnotes.\nI FURTHER CERTIFY that I am not a\nrelative, employee, attorney, or counsel of any\nof the parties, nor am I a relative or employee\nof any of the parties' attorneys or counsel\nconnected with the action, nor am I financially\ninterested in the action.\nDated this 16th day of October, 2015.\n\nKIMBERLY FONTALVO, RPR, FPR, CLR\n\n330\nCERTIFICATE OF OATH\n\nSTATE OF FLORIDA\nCOUNTY OF BROWARD\n\nI, the undersigned authority, certify\nthat ALAN M. DERSHOWITZ personally appeared\nbefore me and was duly sworn on the 16th day of\nOctober, 2015.\nSigned this 16th day of October, 2015.\n\nKimberly Fontalvo\nKIMBERLY FONTALVO, RPR, FPR, CLR\nNotary Public, State of Florida\nMy Commission No. EE 161994\nExpires: 2/01/16\n\n[Notary Seal: NOTARY PUBLIC STATE OF FLORIDA Kimberly Fontalvo Commission # EE 161994 My Commission Expires Feb 1, 2016]\n\n332\nOctober 16, 2015\n\nCOLE, SCOTT & KISSANE, P.A.\nDadeland Centre II - Suite 1400\n9150 South Dadeland Boulevard\nMiami, Florida 33156\nBY: THOMAS EMERSON SCOTT, JR., ESQ.\nRe: Edwards v. Dershowitz\nPlease take notice that on the 16th day of October,\n2015, you gave your deposition in the above cause.\nAt that time, you did not waive your signature.\nThe above-addressed attorney has ordered a copy of\nthis transcript and will make arrangements with you\nto read their copy. Please execute the Errata\nSheet, which can be found at the back of the\ntranscript, and have it returned to us for\ndistribution to all parties.\nIf you do not read and sign the deposition within a\nreasonable amount of time, the original, which has\nalready been forwarded to the ordering attorney, may\nbe filed with the Clerk of the Court.\nIf you wish to waive your signature now, please sign\nyour name in the blank at the bottom of this letter\nand return to the address listed below.\nVery truly yours,\n\nKIMBERLY FONTALVO, RPR, FPR, CLR\nPhipps Reporting, Inc.\n1615 Forum Place, Suite 500\nWest Palm Beach, Florida 33401\nI do hereby waive my signature.\n\nALAN M. DERSHOWITZ\n\n39 (Pages 329 to 332)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010821",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "329\n1\tMR. SCAROLA: I'm giving you notice as to\n2\twhat you can do to do your homework. Okay?\n3\tThey directly conflict with the witness's\n4\tassertion that the flight logs exonerate him.\n5\tIn fact --\n6\tMR. SCOTT: Wait a minute.\n7\tMR. SCAROLA: -- the flight logs -- the\n8\tflight logs corroborate Virginia Roberts'\n9\tassertions.\n10\tMR. SCOTT: And I thank you very much for\n11\tthat explanation and we look forward to\n12\tresuming this at the appropriate time and\n13\tresponding to that.\n14\tTHE WITNESS: And that is a false\n15\tstatement.\n16\tMR. SCOTT: Thank you.\n17\tVIDEOGRAPHER: Going off the record. The\n18\ttime is approximately 12:26 p.m.\n19\t(The proceedings ADJOURNED at 12:26 p.m.)\n20\n21\n22\n23\n24\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "331\nCERTIFICATE OF REPORTER\n\nSTATE OF FLORIDA\nCOUNTY OF BROWARD\n\nI, KIMBERLY FONTALVO, Registered\nProfessional Reporter, do hereby certify that I\nwas authorized to and did stenographically report\nthe foregoing videotape deposition of ALAN M.\nDERSHOWITZ; pages 1 through 145; that a review of\nthe transcript was requested; and that the\ntranscript is a true record of my stenographic\nnotes.\nI FURTHER CERTIFY that I am not a\nrelative, employee, attorney, or counsel of any\nof the parties, nor am I a relative or employee\nof any of the parties' attorneys or counsel\nconnected with the action, nor am I financially\ninterested in the action.\nDated this 16th day of October, 2015.\n\nKIMBERLY FONTALVO, RPR, FPR, CLR",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "330\nCERTIFICATE OF OATH\n\nSTATE OF FLORIDA\nCOUNTY OF BROWARD\n\nI, the undersigned authority, certify\nthat ALAN M. DERSHOWITZ personally appeared\nbefore me and was duly sworn on the 16th day of\nOctober, 2015.\nSigned this 16th day of October, 2015.",
+        "type": "printed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Kimberly Fontalvo\nKIMBERLY FONTALVO, RPR, FPR, CLR\nNotary Public, State of Florida\nMy Commission No. EE 161994\nExpires: 2/01/16",
+        "type": "handwritten"
+      },
+      {
+        "region": "stamp",
+        "text": "NOTARY PUBLIC STATE OF FLORIDA\nKimberly Fontalvo\nCommission # EE 161994\nMy Commission Expires Feb 1, 2016",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "332\nOctober 16, 2015\n\nCOLE, SCOTT & KISSANE, P.A.\nDadeland Centre II - Suite 1400\n9150 South Dadeland Boulevard\nMiami, Florida 33156\nBY: THOMAS EMERSON SCOTT, JR., ESQ.\nRe: Edwards v. Dershowitz\nPlease take notice that on the 16th day of October,\n2015, you gave your deposition in the above cause.\nAt that time, you did not waive your signature.\nThe above-addressed attorney has ordered a copy of\nthis transcript and will make arrangements with you\nto read their copy. Please execute the Errata\nSheet, which can be found at the back of the\ntranscript, and have it returned to us for\ndistribution to all parties.\nIf you do not read and sign the deposition within a\nreasonable amount of time, the original, which has\nalready been forwarded to the ordering attorney, may\nbe filed with the Clerk of the Court.\nIf you wish to waive your signature now, please sign\nyour name in the blank at the bottom of this letter\nand return to the address listed below.\nVery truly yours,\n\nKIMBERLY FONTALVO, RPR, FPR, CLR\nPhipps Reporting, Inc.\n1615 Forum Place, Suite 500\nWest Palm Beach, Florida 33401\nI do hereby waive my signature.\n\nALAN M. DERSHOWITZ",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "39 (Pages 329 to 332)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010821",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-16",
+      "2016-02-01"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Virginia Roberts",
+      "THE WITNESS",
+      "VIDEOGRAPHER",
+      "KIMBERLY FONTALVO",
+      "ALAN M. DERSHOWITZ",
+      "THOMAS EMERSON SCOTT, JR., ESQ."
+    ],
+    "organizations": [
+      "STATE OF FLORIDA",
+      "COUNTY OF BROWARD",
+      "COLE, SCOTT & KISSANE, P.A.",
+      "Phipps Reporting, Inc."
+    ],
+    "locations": [
+      "Florida",
+      "Broward County",
+      "Miami, Florida",
+      "West Palm Beach, Florida"
+    ],
+    "document_numbers": [
+      "329",
+      "330",
+      "331",
+      "332",
+      "39",
+      "EE 161994",
+      "HOUSE_OVERSIGHT_010821"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "COLE, SCOTT & KISSANE, P.A., Dadeland Centre II - Suite 1400, 9150 South Dadeland Boulevard, Miami, Florida 33156",
+        "Phipps Reporting, Inc., 1615 Forum Place, Suite 500, West Palm Beach, Florida 33401"
+      ]
+    },
+    "signatures": [
+      "Kimberly Fontalvo"
+    ],
+    "stamps_or_markings": [
+      "Circular notary public seal for the State of Florida, for Kimberly Fontalvo, Commission # EE 161994, expiring February 1, 2016."
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript",
+    "sender": "KIMBERLY FONTALVO",
+    "recipient": "ALAN M. DERSHOWITZ",
+    "subject": "Videotape deposition of Alan M. Dershowitz in the case of Edwards v. Dershowitz",
+    "date": "2015-10-16",
+    "references": [
+      "Edwards v. Dershowitz"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages from a larger transcript. The signature on page 330 is handwritten, while all other text is printed. The case name is identified as 'Edwards v. Dershowitz'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010821.jpg",
+  "house_oversight_id": "010821",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:50:37.779852Z",
+    "model": "gemini-2.5-pro"
+  }
+}

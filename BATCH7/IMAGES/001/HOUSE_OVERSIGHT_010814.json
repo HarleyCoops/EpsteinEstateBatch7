@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010814.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document containing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 301, 302, 303, and 304. The text is a dialogue, likely from a deposition or hearing, with line numbers running down the left side of each page. A footer at the bottom contains a website, phone number, page range, and a document identifier.",
+    "layout": "Four-page grid layout on a single sheet. Page 301 is top-left, 303 is top-right, 302 is bottom-left, and 304 is bottom-right. A footer is centered at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "301\n1       \"Certainly he knew they were there?\n2       \"I don't know, sir.\"\n3           That's the best you can do? That's really\n4   the best you can do? You think a professional\n5   lawyer would make these allegations based on \"I\n6   don't know, sir.\"\n7           MR. SCAROLA: Is there a question pending,\n8   Mr. Scott?\n9           MR. SCOTT: He's reading -- you asked him\n10  what he was reading --\n11          MR. SCAROLA: Yes, sir.\n12          MR. SCOTT: -- from and I had him publish\n13  it.\n14          MR. SCAROLA: Yeah, I know, and then he\n15  went on to make a speech. So I know I don't\n16  have to do it, but I'm compelled to move to\n17  strike the unresponsive speeches.\n18          MR. SCOTT: And I consider these to be a\n19  response to the interrogation that you did\n20  taking excerpts improperly and not having the\n21  entire record in front of him, which he's\n22  entitled to do to make that the record is\n23  complete. And I intend to protect him in that\n24  way.\n25\n\n303\n1           A. Let me answer. \"Rely\" connotes to me that\n2   they would place a heavy emphasis on that to the\n3   exclusion of other things and that it would be\n4   enough. And so my answer is, yes, they certainly\n5   should have read all the reports. They certainly\n6   should have read all the transcripts. But they also\n7   should have called me, they should have made other\n8   inquiry, and they should have made sure that they\n9   read all of these depositions and reports in\n10  context.\n11          And if you're implying that there are FBI\n12  reports that in any way inculpate me, that's\n13  inconsistent with the information I have from Former\n14  Chief of Assistant Jeffrey Sloman, who was prepared\n15  to file an affidavit saying that that wasn't the\n16  case but was prevented from doing so by the Justice\n17  Department.\n18          MR. SCOTT: It's about noon now. So I\n19  guess we're heading -- we're wrapping this up?\n20          MR. SCAROLA: Not quite yet.\n21          BY MR. SCAROLA:\n22          Q. You do agree that the allegations that\n23  Virginia Roberts made against Prince Andrew were\n24  well-founded allegations, correct?\n25          A. I have absolutely no idea. I've met\n\n302\n1           BY MR. SCAROLA:\n2           Q. So we have agreed that it was reasonable\n3   for Bradley Edwards and Paul Cassell, in assessing\n4   the credibility of Virginia Roberts, to rely upon\n5   police reports, FBI reports, U.S. Attorney's Office\n6   information, and information from the Palm Beach\n7   County State Attorney's Office, correct?\n8           A. No.\n9           Q. No?\n10          A. No. It would not be enough for them to do\n11  that --\n12          Q. I didn't ask you whether it was enough.\n13          A. You said it was --\n14          Q. I asked you: Would it reasonable for them\n15  to rely upon those sources of information in\n16  assessing the credibility of Virginia Roberts?\n17          A. Not alone, not without looking at --\n18          Q. That wasn't my question.\n19          A. -- other sources of information.\n20          MR. SCOTT: Wait a minute.\n21          BY MR. SCAROLA:\n22          Q. Well, what he's relying upon --\n23          MR. SCOTT: You're not the judge here.\n24  Let him -- ask a question and let him answer it\n25  and not cut him off, please.\n\n304\n1   Prince Andrew on a number of occasions in a public\n2   context. He came and spoke in my class at Harvard\n3   law school. The dean then had a dinner in his -- or\n4   lunch in his honor. I was then invited to a dinner\n5   at the British Consulate.\n6           I've never seen him in the presence of any\n7   underaged women, so I have absolutely no basis for\n8   reaching any conclusion whatsoever about\n9   Prince Andrew.\n10          Q. So you don't know one way or another\n11  whether those allegations are true or false?\n12          A. Neither do you. Nobody would know except\n13  two people, I imagine. But I don't know. Of course\n14  not.\n15          Q. All right.\n16          A. But I presume --\n17          Q. You say you have never seen him --\n18          A. -- people innocent --\n19          Q. -- in the presence of any underaged women,\n20  but you've seen photographs of him in the presence\n21  of an underaged woman, correct?\n22          A. I have, yes.\n23          MR. SCAROLA: May we mark this as the next\n24  numbered exhibit, please.\n25          A. And I want to note --\n\n32 (Pages 301 to 304)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010814",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "301\n1       \"Certainly he knew they were there?\n2       \"I don't know, sir.\"\n3           That's the best you can do? That's really\n4   the best you can do? You think a professional\n5   lawyer would make these allegations based on \"I\n6   don't know, sir.\"\n7           MR. SCAROLA: Is there a question pending,\n8   Mr. Scott?\n9           MR. SCOTT: He's reading -- you asked him\n10  what he was reading --\n11          MR. SCAROLA: Yes, sir.\n12          MR. SCOTT: -- from and I had him publish\n13  it.\n14          MR. SCAROLA: Yeah, I know, and then he\n15  went on to make a speech. So I know I don't\n16  have to do it, but I'm compelled to move to\n17  strike the unresponsive speeches.\n18          MR. SCOTT: And I consider these to be a\n19  response to the interrogation that you did\n20  taking excerpts improperly and not having the\n21  entire record in front of him, which he's\n22  entitled to do to make that the record is\n23  complete. And I intend to protect him in that\n24  way.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "303\n1           A. Let me answer. \"Rely\" connotes to me that\n2   they would place a heavy emphasis on that to the\n3   exclusion of other things and that it would be\n4   enough. And so my answer is, yes, they certainly\n5   should have read all the reports. They certainly\n6   should have read all the transcripts. But they also\n7   should have called me, they should have made other\n8   inquiry, and they should have made sure that they\n9   read all of these depositions and reports in\n10  context.\n11          And if you're implying that there are FBI\n12  reports that in any way inculpate me, that's\n13  inconsistent with the information I have from Former\n14  Chief of Assistant Jeffrey Sloman, who was prepared\n15  to file an affidavit saying that that wasn't the\n16  case but was prevented from doing so by the Justice\n17  Department.\n18          MR. SCOTT: It's about noon now. So I\n19  guess we're heading -- we're wrapping this up?\n20          MR. SCAROLA: Not quite yet.\n21          BY MR. SCAROLA:\n22          Q. You do agree that the allegations that\n23  Virginia Roberts made against Prince Andrew were\n24  well-founded allegations, correct?\n25          A. I have absolutely no idea. I've met",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "302\n1           BY MR. SCAROLA:\n2           Q. So we have agreed that it was reasonable\n3   for Bradley Edwards and Paul Cassell, in assessing\n4   the credibility of Virginia Roberts, to rely upon\n5   police reports, FBI reports, U.S. Attorney's Office\n6   information, and information from the Palm Beach\n7   County State Attorney's Office, correct?\n8           A. No.\n9           Q. No?\n10          A. No. It would not be enough for them to do\n11  that --\n12          Q. I didn't ask you whether it was enough.\n13          A. You said it was --\n14          Q. I asked you: Would it reasonable for them\n15  to rely upon those sources of information in\n16  assessing the credibility of Virginia Roberts?\n17          A. Not alone, not without looking at --\n18          Q. That wasn't my question.\n19          A. -- other sources of information.\n20          MR. SCOTT: Wait a minute.\n21          BY MR. SCAROLA:\n22          Q. Well, what he's relying upon --\n23          MR. SCOTT: You're not the judge here.\n24  Let him -- ask a question and let him answer it\n25  and not cut him off, please.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "304\n1   Prince Andrew on a number of occasions in a public\n2   context. He came and spoke in my class at Harvard\n3   law school. The dean then had a dinner in his -- or\n4   lunch in his honor. I was then invited to a dinner\n5   at the British Consulate.\n6           I've never seen him in the presence of any\n7   underaged women, so I have absolutely no basis for\n8   reaching any conclusion whatsoever about\n9   Prince Andrew.\n10          Q. So you don't know one way or another\n11  whether those allegations are true or false?\n12          A. Neither do you. Nobody would know except\n13  two people, I imagine. But I don't know. Of course\n14  not.\n15          Q. All right.\n16          A. But I presume --\n17          Q. You say you have never seen him --\n18          A. -- people innocent --\n19          Q. -- in the presence of any underaged women,\n20  but you've seen photographs of him in the presence\n21  of an underaged woman, correct?\n22          A. I have, yes.\n23          MR. SCAROLA: May we mark this as the next\n24  numbered exhibit, please.\n25          A. And I want to note --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "32 (Pages 301 to 304)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010814",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MR. SCAROLA",
+      "Mr. Scott",
+      "Bradley Edwards",
+      "Paul Cassell",
+      "Virginia Roberts",
+      "Jeffrey Sloman",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "FBI",
+      "U.S. Attorney's Office",
+      "Palm Beach County State Attorney's Office",
+      "Justice Department",
+      "Harvard law school",
+      "British Consulate",
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010814",
+      "301",
+      "302",
+      "303",
+      "304"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Transcript of a legal proceeding, likely a deposition, involving MR. SCAROLA, MR. SCOTT, and an unnamed witness. The discussion covers the credibility of Virginia Roberts, allegations against Prince Andrew, and the proper sources of information for legal assessment.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010814"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four transcript pages (301-304) onto a single image. The identifier 'HOUSE_OVERSIGHT_010814' suggests it is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010814.jpg",
+  "house_oversight_id": "010814",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:46:08.756104Z",
+    "model": "gemini-2.5-pro"
+  }
+}

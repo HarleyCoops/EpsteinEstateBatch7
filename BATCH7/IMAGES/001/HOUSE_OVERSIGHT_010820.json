@@ -1,0 +1,104 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010820.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 325, 326, 327, and 328. The text is a question-and-answer format typical of a deposition or hearing, with line numbers along the left margin of each page.",
+    "layout": "The image displays four distinct pages of a document. Page 325 is in the top-left quadrant, 327 in the top-right, 326 in the bottom-left, and 328 in the bottom-right. Each page has a header with the page number, a main body with numbered lines of text, and a shared footer at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "325\n1     A. Who's --\n2     Q. -- of Composite Exhibit 10.\n3        MR. SCOTT: Let me see the page you're\n4     talking about so he can --\n5        MR. SCAROLA: I've given you the entire\n6     calendar.\n7        MR. SCOTT: Come on, Jack.\n8        MR. SCAROLA: I've given you the entire\n9     composite --\n10       THE WITNESS: So you're talking about my\n11    wife's --\n12       MR. SCAROLA: Fourth page -- fourth page\n13    of Exhibit 10. You have Exhibit 10, I've given\n14    a copy of that.\n15       MR. SCOTT: I understand it and he has it\n16    front of him and I'm trying to get him to the\n17    right page. Thank you. Please take it down.\n18    BY MR. SCAROLA:\n19    Q. Fourth page, Composite Exhibit 10.\n20    A. Yes.\n21    Q. Friday, January 12.\n22    A. Okay. That's very simple. We were both\n23    in Cambridge and I had a massage in Cambridge. How\n24    do I know that? Because it had basketball. And\n25    that's where I play and watch basketball was in\n\n327\n1     A. Uh-huh.\n2     Q. Okay. Or from 3:30 to 4:15, that would be\n3     a playing time for you in Cambridge; is that\n4     correct?\n5     A. You'd be asking me to speculate. I can't\n6     speculate based on my wife's calendar. It says\n7     utility bill, Reservoir address. That suggests\n8     Cambridge. Reservoir is our house in Cambridge.\n9     Q. So, it would appear that this is another\n10    massage that you got somewhere?\n11    A. But I would like to also say one thing. I\n12    don't -- I at least wonder were these records\n13    available to your clients at the time they made the\n14    false accusations against me or are they\n15    after-the-fact constructs designed to simply try to\n16    find excuses to justify their false allegations? It\n17    seems to me the latter is probably the case.\n18    Q. And you are going to have an opportunity\n19    through your counsel to ask those questions.\n20    A. And we will.\n21    Q. And my clients are anxious to be able to\n22    answer those questions.\n23    A. Not as anxious as I am to hear their\n24    answers.\n25    Q. Okay.\n\n326\n1     Cambridge. So probably I was in Cambridge if it\n2     says B ball 3:30, 4:15 and says Cambridge with Ella,\n3     so I'm sure I was in Cambridge.\n4     Q. All right. So --\n5     A. But I'm -- I'm looking at my wife's\n6     calendar. I can't tell you and nor can you tell me\n7     where I was at that period of time.\n8     Q. So, the basketball entries are references\n9     to your watching basketball in Cambridge?\n10    A. No. They could be playing basketball. I\n11    played basketball in those days --\n12    Q. Watching or playing basketball?\n13       MR. SCOTT: Let him finish his answer,\n14    please.\n15    A. I either watched basketball or played\n16    basketball, yeah. I did not go to basketball games\n17    in New York, to my recollection, unless the Celtics\n18    were in New York and maybe we can check --\n19       MR. SCOTT: You've got about five minutes,\n20    Counsel.\n21    BY MR. SCAROLA:\n22    Q. The Celtics didn't play from 4:15 to 5:00,\n23    did they?\n24    A. No, but I did.\n25    Q. You did?\n\n328\n1        MR. SCOTT: Okay. Let's wrap it up.\n2        MR. SCAROLA: Not quite.\n3        MR. SCOTT: Yeah, it's 12:30. I'm ending\n4     this. That gives you three and a half hours.\n5     We take a lunch break and then we have three\n6     and a half.\n7        MR. SCAROLA: We don't need three and a\n8     half hours for lunch.\n9        MR. SCOTT: No, I didn't say that. I said\n10    we take an hour break and then we have three\n11    and a half hours with your client, just like...\n12       MR. SCAROLA: If -- if that's what you\n13    want to do --\n14       MR. SCOTT: That's the fair thing to do\n15    because that's why we're dividing it equally\n16    and I suggested that --\n17       MR. SCAROLA: I will state -- I will state\n18    for the record that Exhibits 2, 3 and 4 --\n19    excuse me, Exhibits 9, 10, 11 and 12,\n20    composite exhibits, directly conflict with the\n21    witness's assertion --\n22       MR. SCOTT: This is all a speech on your\n23    part.\n24       MR. SCAROLA: It is a speech.\n25       MR. SCOTT: It is a speech and --\n\n38 (Pages 325 to 328)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010820",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "325\n1     A. Who's --\n2     Q. -- of Composite Exhibit 10.\n3        MR. SCOTT: Let me see the page you're\n4     talking about so he can --\n5        MR. SCAROLA: I've given you the entire\n6     calendar.\n7        MR. SCOTT: Come on, Jack.\n8        MR. SCAROLA: I've given you the entire\n9     composite --\n10       THE WITNESS: So you're talking about my\n11    wife's --\n12       MR. SCAROLA: Fourth page -- fourth page\n13    of Exhibit 10. You have Exhibit 10, I've given\n14    a copy of that.\n15       MR. SCOTT: I understand it and he has it\n16    front of him and I'm trying to get him to the\n17    right page. Thank you. Please take it down.\n18    BY MR. SCAROLA:\n19    Q. Fourth page, Composite Exhibit 10.\n20    A. Yes.\n21    Q. Friday, January 12.\n22    A. Okay. That's very simple. We were both\n23    in Cambridge and I had a massage in Cambridge. How\n24    do I know that? Because it had basketball. And\n25    that's where I play and watch basketball was in",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "327\n1     A. Uh-huh.\n2     Q. Okay. Or from 3:30 to 4:15, that would be\n3     a playing time for you in Cambridge; is that\n4     correct?\n5     A. You'd be asking me to speculate. I can't\n6     speculate based on my wife's calendar. It says\n7     utility bill, Reservoir address. That suggests\n8     Cambridge. Reservoir is our house in Cambridge.\n9     Q. So, it would appear that this is another\n10    massage that you got somewhere?\n11    A. But I would like to also say one thing. I\n12    don't -- I at least wonder were these records\n13    available to your clients at the time they made the\n14    false accusations against me or are they\n15    after-the-fact constructs designed to simply try to\n16    find excuses to justify their false allegations? It\n17    seems to me the latter is probably the case.\n18    Q. And you are going to have an opportunity\n19    through your counsel to ask those questions.\n20    A. And we will.\n21    Q. And my clients are anxious to be able to\n22    answer those questions.\n23    A. Not as anxious as I am to hear their\n24    answers.\n25    Q. Okay.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "326\n1     Cambridge. So probably I was in Cambridge if it\n2     says B ball 3:30, 4:15 and says Cambridge with Ella,\n3     so I'm sure I was in Cambridge.\n4     Q. All right. So --\n5     A. But I'm -- I'm looking at my wife's\n6     calendar. I can't tell you and nor can you tell me\n7     where I was at that period of time.\n8     Q. So, the basketball entries are references\n9     to your watching basketball in Cambridge?\n10    A. No. They could be playing basketball. I\n11    played basketball in those days --\n12    Q. Watching or playing basketball?\n13       MR. SCOTT: Let him finish his answer,\n14    please.\n15    A. I either watched basketball or played\n16    basketball, yeah. I did not go to basketball games\n17    in New York, to my recollection, unless the Celtics\n18    were in New York and maybe we can check --\n19       MR. SCOTT: You've got about five minutes,\n20    Counsel.\n21    BY MR. SCAROLA:\n22    Q. The Celtics didn't play from 4:15 to 5:00,\n23    did they?\n24    A. No, but I did.\n25    Q. You did?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "328\n1        MR. SCOTT: Okay. Let's wrap it up.\n2        MR. SCAROLA: Not quite.\n3        MR. SCOTT: Yeah, it's 12:30. I'm ending\n4     this. That gives you three and a half hours.\n5     We take a lunch break and then we have three\n6     and a half.\n7        MR. SCAROLA: We don't need three and a\n8     half hours for lunch.\n9        MR. SCOTT: No, I didn't say that. I said\n10    we take an hour break and then we have three\n11    and a half hours with your client, just like...\n12       MR. SCAROLA: If -- if that's what you\n13    want to do --\n14       MR. SCOTT: That's the fair thing to do\n15    because that's why we're dividing it equally\n16    and I suggested that --\n17       MR. SCAROLA: I will state -- I will state\n18    for the record that Exhibits 2, 3 and 4 --\n19    excuse me, Exhibits 9, 10, 11 and 12,\n20    composite exhibits, directly conflict with the\n21    witness's assertion --\n22       MR. SCOTT: This is all a speech on your\n23    part.\n24       MR. SCAROLA: It is a speech.\n25       MR. SCOTT: It is a speech and --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "38 (Pages 325 to 328)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010820",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "January 12"
+    ],
+    "people": [
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Jack",
+      "THE WITNESS",
+      "Ella"
+    ],
+    "organizations": [
+      "Celtics",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "Cambridge",
+      "New York",
+      "Reservoir"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010820",
+      "Exhibit 10",
+      "Exhibits 2, 3 and 4",
+      "Exhibits 9, 10, 11 and 12"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness regarding their whereabouts on January 12, based on a calendar entry and references to basketball in Cambridge.",
+    "date": null,
+    "references": [
+      "Composite Exhibit 10",
+      "Exhibits 2, 3 and 4",
+      "Exhibits 9, 10, 11 and 12"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition. The speakers are identified as Q (Questioner, likely MR. SCAROLA), A (Answerer, THE WITNESS), MR. SCOTT, and MR. SCAROLA. The page numbering in the footer (38) and the page range (Pages 325 to 328) might indicate this is part of a larger document bundle.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010820.jpg",
+  "house_oversight_id": "010820",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:50:04.177580Z",
+    "model": "gemini-2.5-pro"
+  }
+}

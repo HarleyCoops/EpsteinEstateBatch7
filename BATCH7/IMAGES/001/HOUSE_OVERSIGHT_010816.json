@@ -1,0 +1,128 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010816.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, numbered 309, 310, 311, and 312. The pages are arranged in a two-by-two grid. The text is in a question-and-answer format with numbered lines.",
+    "layout": "The image is a composite of four pages. Each page is formatted in a two-column layout. The left column contains the main body of the transcript, and the right column contains line numbers from 1 to 25. Page numbers are at the top right of each page. A footer is present at the bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "309\n1      BY MR. SCAROLA:\n2           Q. And can you determine from the calendar\n3      entries here where your wife is during the period of\n4      time that's covered by these calendar entries?\n5           A. I would have to look at a particular\n6      entry. If it describes where she is, yes.\n7           Q. Okay. Well, tell me where she is.\n8           A. What day?\n9           MR. SCOTT: Which one? What point?\n10     BY MR. SCAROLA:\n11          Q. The period covered by this calendar\n12     between December 7 and December 13.\n13          A. What year?\n14          Q. You know what, I can't tell you what year\n15     it is from these calendars. So you tell me.\n16          I suggest to you that this is a calendar\n17     from December of 2000, since the next two months at\n18     the top of the calendar are January 2001 and\n19     February 2001. So let's assume that since it is a\n20     page from a calendar that appears to be December of\n21     2000, that it's December of 2000.\n22          That would be a reasonable conclusion,\n23     wouldn't it?\n24          A. I have no idea.\n25          Q. You don't know?\n\n310\n1           A. I don't know. I mean, I don't know -- you\n2      said you don't -- you can't tell what the year is,\n3      so --\n4           Q. Well, I'm telling --\n5           A. -- I can't tell what the year is.\n6           Q. -- you that it appears to be December 2000\n7      because the next two months at the top of the\n8      calendar are January of 2001 and February of 2001.\n9           A. I only see -- I'm sorry, we're probably\n10     looking at different things. I see November 2000,\n11     December 2000. I don't see January or anything like\n12     that. Maybe you can show them to me. Oh, it's on\n13     the first page.\n14          Q. First page, yes, sir.\n15          A. So it's in reverse order.\n16          Yeah, so the pages are in reverse order.\n17     The first page says on top January 2001,\n18     February 2001 and the second page says\n19     November 2000, December 2000, yeah.\n20          Q. So it appears we're looking at\n21     December 2000, correct?\n22          A. When we're looking at which page? When\n23     we --\n24          Q. Both pages.\n25          A. Well, one is January/February and one is\n\n311\n1      December.\n2           Q. One shows the subsequent two months and\n3      the --\n4           A. Okay.\n5           Q. -- other one shows --\n6           A. Yes.\n7           Q. -- the preceding and following month,\n8      correct?\n9           A. Yes, that does look like it's December of\n10     2000, yes.\n11          Q. Okay, sir. So look at the calendar and\n12     tell me where it appears your wife is during this\n13     period of time?\n14          A. The whole period of time?\n15          MR. SCOTT: Please read the exhibit, all\n16     the pages, thoroughly, so that you have a full\n17     context.\n18          A. It says, A.D. in Boston. That means I was\n19     in -- in Boston.\n20          It says Charleston, New York. It says\n21     book fair. It says book fair. It says A.D. in\n22     Boston.\n23          It then says the Halbreiches arrive.\n24     They -- they were probably our guests.\n25\n\n312\n1      BY MR. SCAROLA:\n2           Q. Your guests at home in Cambridge,\n3      Massachusetts, right?\n4           A. No, I don't know. I don't know.\n5      Halbreiches arrive.\n6           And I can't really tell from here where\n7      Carolyn is. McDonalds -- let's see, this is 2000\n8      and what year? 2000. 2000. Yeah, yeah.\n9           So tell me what you're looking for. I'll\n10     try to --\n11          Q. I want to know where your wife was during\n12     this period of time if you can tell from the\n13     calendar entries.\n14          A. Well, she may have been in -- there's\n15     something about Charleston. There's something about\n16     New York. There's something about me being in\n17     Boston. I really can't tell much beyond that.\n18          Q. Okay. So you don't know one way or\n19     another from these calendar entries where your wife\n20     was during this period of time; is that correct?\n21          A. I can't tell that from this entry, no.\n22          Q. What we can tell from the entry in the\n23     bottom right-hand corner --\n24          MR. SCOTT: Which page?\n25          A. Which page?\n\n34 (Pages 309 to 312)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010816",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "309",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      BY MR. SCAROLA:\n2           Q. And can you determine from the calendar\n3      entries here where your wife is during the period of\n4      time that's covered by these calendar entries?\n5           A. I would have to look at a particular\n6      entry. If it describes where she is, yes.\n7           Q. Okay. Well, tell me where she is.\n8           A. What day?\n9           MR. SCOTT: Which one? What point?\n10     BY MR. SCAROLA:\n11          Q. The period covered by this calendar\n12     between December 7 and December 13.\n13          A. What year?\n14          Q. You know what, I can't tell you what year\n15     it is from these calendars. So you tell me.\n16          I suggest to you that this is a calendar\n17     from December of 2000, since the next two months at\n18     the top of the calendar are January 2001 and\n19     February 2001. So let's assume that since it is a\n20     page from a calendar that appears to be December of\n21     2000, that it's December of 2000.\n22          That would be a reasonable conclusion,\n23     wouldn't it?\n24          A. I have no idea.\n25          Q. You don't know?",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "310",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1           A. I don't know. I mean, I don't know -- you\n2      said you don't -- you can't tell what the year is,\n3      so --\n4           Q. Well, I'm telling --\n5           A. -- I can't tell what the year is.\n6           Q. -- you that it appears to be December 2000\n7      because the next two months at the top of the\n8      calendar are January of 2001 and February of 2001.\n9           A. I only see -- I'm sorry, we're probably\n10     looking at different things. I see November 2000,\n11     December 2000. I don't see January or anything like\n12     that. Maybe you can show them to me. Oh, it's on\n13     the first page.\n14          Q. First page, yes, sir.\n15          A. So it's in reverse order.\n16          Yeah, so the pages are in reverse order.\n17     The first page says on top January 2001,\n18     February 2001 and the second page says\n19     November 2000, December 2000, yeah.\n20          Q. So it appears we're looking at\n21     December 2000, correct?\n22          A. When we're looking at which page? When\n23     we --\n24          Q. Both pages.\n25          A. Well, one is January/February and one is",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "311",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      December.\n2           Q. One shows the subsequent two months and\n3      the --\n4           A. Okay.\n5           Q. -- other one shows --\n6           A. Yes.\n7           Q. -- the preceding and following month,\n8      correct?\n9           A. Yes, that does look like it's December of\n10     2000, yes.\n11          Q. Okay, sir. So look at the calendar and\n12     tell me where it appears your wife is during this\n13     period of time?\n14          A. The whole period of time?\n15          MR. SCOTT: Please read the exhibit, all\n16     the pages, thoroughly, so that you have a full\n17     context.\n18          A. It says, A.D. in Boston. That means I was\n19     in -- in Boston.\n20          It says Charleston, New York. It says\n21     book fair. It says book fair. It says A.D. in\n22     Boston.\n23          It then says the Halbreiches arrive.\n24     They -- they were probably our guests.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "312",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1      BY MR. SCAROLA:\n2           Q. Your guests at home in Cambridge,\n3      Massachusetts, right?\n4           A. No, I don't know. I don't know.\n5      Halbreiches arrive.\n6           And I can't really tell from here where\n7      Carolyn is. McDonalds -- let's see, this is 2000\n8      and what year? 2000. 2000. Yeah, yeah.\n9           So tell me what you're looking for. I'll\n10     try to --\n11          Q. I want to know where your wife was during\n12     this period of time if you can tell from the\n13     calendar entries.\n14          A. Well, she may have been in -- there's\n15     something about Charleston. There's something about\n16     New York. There's something about me being in\n17     Boston. I really can't tell much beyond that.\n18          Q. Okay. So you don't know one way or\n19     another from these calendar entries where your wife\n20     was during this period of time; is that correct?\n21          A. I can't tell that from this entry, no.\n22          Q. What we can tell from the entry in the\n23     bottom right-hand corner --\n24          MR. SCOTT: Which page?\n25          A. Which page?",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "34 (Pages 309 to 312)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010816",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2000-12-07",
+      "2000-12-13",
+      "2000-12",
+      "2001-01",
+      "2001-02",
+      "2000-11"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Halbreiches",
+      "Carolyn"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "Boston",
+      "Cambridge, Massachusetts",
+      "Charleston",
+      "New York"
+    ],
+    "document_numbers": [
+      "309",
+      "310",
+      "311",
+      "312",
+      "34",
+      "HOUSE_OVERSIGHT_010816"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness regarding calendar entries from December 2000 to determine the whereabouts of his wife.",
+    "date": "2000-12",
+    "references": [
+      "HOUSE_OVERSIGHT_010816"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a deposition or hearing. The speakers are an attorney (MR. SCAROLA), a witness (A.), and another attorney, likely for the witness (MR. SCOTT). The discussion centers on interpreting a calendar exhibit to ascertain someone's location.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010816.jpg",
+  "house_oversight_id": "010816",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:47:26.849300Z",
+    "model": "gemini-2.5-pro"
+  }
+}

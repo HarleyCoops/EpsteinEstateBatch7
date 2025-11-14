@@ -1,0 +1,132 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010815.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a legal transcript document. The document displays four pages of testimony, numbered 305, 306, 307, and 308. The layout is typical for a deposition transcript, with numbered lines and speaker attributions. The bottom of the image contains footer information, including a reporting company's website and phone number, a page range, and a document identifier.",
+    "layout": "The image is a composite of four pages arranged in a two-by-two grid. Page 305 is top-left, 307 is top-right, 306 is bottom-left, and 308 is bottom-right. Each page has a header with the page number and a body of text with line numbers from 1 to 25. A footer is present at the very bottom of the composite image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "305\n1\tTHE REPORTER: Hold on. Hold on.\n2\tA. -- the absence of any --\n3\tMR. SCOTT: She can't take it down.\n4\tTHE WITNESS: Sorry.\n5\t(Thereupon, marked as Plaintiff\n6\tExhibit 8.)\n7\tTHE REPORTER: It's okay. Go ahead.\n8\tA. And I want to note the absence of any\n9\tphotograph of me with Virginia Roberts.\n10\tBY MR. SCAROLA:\n11\tQ. That's the photograph that you were\n12\treferring to?\n13\tA. I've seen this photograph in the\n14\tnewspapers.\n15\tQ. Yes, sir. And the woman on the far right\n16\tof that photograph, who is that?\n17\tA. Ghislaine Maxwell.\n18\tQ. The woman that you and your friend Jeffrey\n19\tEpstein have traveled with repeatedly, correct?\n20\tA. No. A woman who I may have traveled with\n21\ton two or three occasions. I can't think of more\n22\ttimes than that that I traveled with her, but it's\n23\tpossible. But not -- I wouldn't say repeated\n24\toccasions. I've --\n25\tQ. Well --\n\n307\n1\tTHE WITNESS: Excuse me, I need to a take\n2\ta very quick bathroom break.\n3\tMR. SCAROLA: That's fine.\n4\tTHE WITNESS: Probably be two minutes or\n5\tless than two minutes.\n6\tVIDEOGRAPHER: Going off the record. The\n7\ttime is approximately 12:03 p.m.\n8\t(Sidebar held off the record.)\n9\tMR. SCAROLA: While we're waiting, let me\n10\tmark the next numbered exhibits as well. That\n11\twill save us some time.\n12\tMR. SCOTT: What is this?\n13\tMR. SCAROLA: Her calendar, his calendar.\n14\tMR. SCOTT: Who's calendar is this,\n15\tCarolyn's?\n16\tMR. SCAROLA: Okay. This is Number 10.\n17\tMR. SCOTT: Carolyn's calendar.\n18\t(Thereupon, marked as Plaintiff\n19\tExhibit 10.)\n20\tMR. SCAROLA: This is Number 11.\n21\t(Thereupon, marked as Plaintiff\n22\tExhibit 11.)\n23\tMR. SCAROLA: This is Number 12.\n24\t(Thereupon, marked as Plaintiff\n25\tExhibit 12.)\n\n306\n1\tA. -- probably been in her presence fewer\n2\tthan a dozen times.\n3\tQ. I'm going to hand you --\n4\tA. But just to be clear, what I knew about\n5\tGhislaine Maxwell was that she was the daughter of a\n6\tprominent British publisher.\n7\tQ. I haven't asked you what you knew about\n8\tGhislaine Maxwell. I asked you --\n9\tA. Well, you asked --\n10\tQ. -- whether or not you recognized her in\n11\tthe photograph?\n12\tA. Yes. Yes.\n13\tQ. Thank you very much, sir.\n14\tI'm going to hand you an airport codes log\n15\tthat identifies the airports that are identified by\n16\tabbreviations in the case -- in case that is of some\n17\tassistance to you in answering the next series of\n18\tquestions that I'm about to ask you.\n19\tA. Right.\n20\tQ. And I'm going to hand you this composite\n21\texhibit, which we will mark as the next numbered\n22\tcomposite.\n23\tA. Uh-huh, right.\n24\t(Thereupon, marked as Plaintiff\n25\tExhibit 9.)\n\n308\n1\tBY MR. SCAROLA:\n2\tQ. Mr. Dershowitz, I have handed you a\n3\tcomposite exhibit that is marked as Number 9.\n4\tA. Yes.\n5\tQ. The first document in that composite is a\n6\tpage from --\n7\tMR. SCOTT: Here's Number 9.\n8\tBY MR. SCAROLA:\n9\tQ. -- a page from your wife's calendar; is\n10\tthat correct?\n11\tA. Yes.\n12\tMR. SCOTT: Take a moment to review the\n13\texhibit, please.\n14\tA. Yes, it looks like -- I'm looking at the\n15\tfirst page. It looks like my wife's -- my wife's\n16\thandwriting, yes.\n17\tBY MR. SCAROLA:\n18\tQ. And the second page is another page from\n19\tyour wife's calendar; is that correct?\n20\tA. Looks like it, yes.\n21\tQ. And --\n22\tMR. SCOTT: Take the time to review it\n23\tbefore you answer questions, please.\n24\tA. Right.\n25\n\n33 (Pages 305 to 308)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010815",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "305",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tTHE REPORTER: Hold on. Hold on.\n2\tA. -- the absence of any --\n3\tMR. SCOTT: She can't take it down.\n4\tTHE WITNESS: Sorry.\n5\t(Thereupon, marked as Plaintiff\n6\tExhibit 8.)\n7\tTHE REPORTER: It's okay. Go ahead.\n8\tA. And I want to note the absence of any\n9\tphotograph of me with Virginia Roberts.\n10\tBY MR. SCAROLA:\n11\tQ. That's the photograph that you were\n12\treferring to?\n13\tA. I've seen this photograph in the\n14\tnewspapers.\n15\tQ. Yes, sir. And the woman on the far right\n16\tof that photograph, who is that?\n17\tA. Ghislaine Maxwell.\n18\tQ. The woman that you and your friend Jeffrey\n19\tEpstein have traveled with repeatedly, correct?\n20\tA. No. A woman who I may have traveled with\n21\ton two or three occasions. I can't think of more\n22\ttimes than that that I traveled with her, but it's\n23\tpossible. But not -- I wouldn't say repeated\n24\toccasions. I've --\n25\tQ. Well --",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "307",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tTHE WITNESS: Excuse me, I need to a take\n2\ta very quick bathroom break.\n3\tMR. SCAROLA: That's fine.\n4\tTHE WITNESS: Probably be two minutes or\n5\tless than two minutes.\n6\tVIDEOGRAPHER: Going off the record. The\n7\ttime is approximately 12:03 p.m.\n8\t(Sidebar held off the record.)\n9\tMR. SCAROLA: While we're waiting, let me\n10\tmark the next numbered exhibits as well. That\n11\twill save us some time.\n12\tMR. SCOTT: What is this?\n13\tMR. SCAROLA: Her calendar, his calendar.\n14\tMR. SCOTT: Who's calendar is this,\n15\tCarolyn's?\n16\tMR. SCAROLA: Okay. This is Number 10.\n17\tMR. SCOTT: Carolyn's calendar.\n18\t(Thereupon, marked as Plaintiff\n19\tExhibit 10.)\n20\tMR. SCAROLA: This is Number 11.\n21\t(Thereupon, marked as Plaintiff\n22\tExhibit 11.)\n23\tMR. SCAROLA: This is Number 12.\n24\t(Thereupon, marked as Plaintiff\n25\tExhibit 12.)",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "306",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tA. -- probably been in her presence fewer\n2\tthan a dozen times.\n3\tQ. I'm going to hand you --\n4\tA. But just to be clear, what I knew about\n5\tGhislaine Maxwell was that she was the daughter of a\n6\tprominent British publisher.\n7\tQ. I haven't asked you what you knew about\n8\tGhislaine Maxwell. I asked you --\n9\tA. Well, you asked --\n10\tQ. -- whether or not you recognized her in\n11\tthe photograph?\n12\tA. Yes. Yes.\n13\tQ. Thank you very much, sir.\n14\tI'm going to hand you an airport codes log\n15\tthat identifies the airports that are identified by\n16\tabbreviations in the case -- in case that is of some\n17\tassistance to you in answering the next series of\n18\tquestions that I'm about to ask you.\n19\tA. Right.\n20\tQ. And I'm going to hand you this composite\n21\texhibit, which we will mark as the next numbered\n22\tcomposite.\n23\tA. Uh-huh, right.\n24\t(Thereupon, marked as Plaintiff\n25\tExhibit 9.)",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "308",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tBY MR. SCAROLA:\n2\tQ. Mr. Dershowitz, I have handed you a\n3\tcomposite exhibit that is marked as Number 9.\n4\tA. Yes.\n5\tQ. The first document in that composite is a\n6\tpage from --\n7\tMR. SCOTT: Here's Number 9.\n8\tBY MR. SCAROLA:\n9\tQ. -- a page from your wife's calendar; is\n10\tthat correct?\n11\tA. Yes.\n12\tMR. SCOTT: Take a moment to review the\n13\texhibit, please.\n14\tA. Yes, it looks like -- I'm looking at the\n15\tfirst page. It looks like my wife's -- my wife's\n16\thandwriting, yes.\n17\tBY MR. SCAROLA:\n18\tQ. And the second page is another page from\n19\tyour wife's calendar; is that correct?\n20\tA. Looks like it, yes.\n21\tQ. And --\n22\tMR. SCOTT: Take the time to review it\n23\tbefore you answer questions, please.\n24\tA. Right.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "33 (Pages 305 to 308)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010815",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "THE REPORTER",
+      "MR. SCOTT",
+      "THE WITNESS",
+      "Virginia Roberts",
+      "MR. SCAROLA",
+      "Ghislaine Maxwell",
+      "Jeffrey Epstein",
+      "VIDEOGRAPHER",
+      "Carolyn",
+      "Mr. Dershowitz"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "305",
+      "306",
+      "307",
+      "308",
+      "Exhibit 8",
+      "Exhibit 9",
+      "Exhibit 10",
+      "Exhibit 11",
+      "Exhibit 12",
+      "HOUSE_OVERSIGHT_010815",
+      "33"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition testimony regarding a photograph, Ghislaine Maxwell, and various exhibits.",
+    "date": null,
+    "references": [
+      "Exhibit 8",
+      "Exhibit 9",
+      "Exhibit 10",
+      "Exhibit 11",
+      "Exhibit 12",
+      "HOUSE_OVERSIGHT_010815"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding, likely a deposition. The witness is identified as Mr. Dershowitz on page 308. The time 12:03 p.m. is mentioned but no date is provided. The document identifier 'HOUSE_OVERSIGHT_010815' suggests a connection to the House Oversight Committee and may contain a date (e.g., January 8, 2015), but this is an inference and not explicitly stated in the document text.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010815.jpg",
+  "house_oversight_id": "010815",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:46:44.753325Z",
+    "model": "gemini-2.5-pro"
+  }
+}

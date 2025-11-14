@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010819.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing four pages of a legal transcript, numbered 321, 323, 322, and 324. The pages are arranged in a 2x2 grid. The text is a question-and-answer dialogue from a deposition or hearing, with line numbers on the left of each page. A footer at the bottom contains a website, phone number, and a document identifier.",
+    "layout": "Four-page grid layout on a single sheet. Each page has a header with the page number, a left margin with line numbers, and a main body of text. A footer spans the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "321\n1      BY MR. SCAROLA:\n2          Q. I'm sorry, maybe it is January 12, but\n3      some time between the 11th and 12th, either on the\n4      11th or on the 12th, it's Court TV, correct?\n5          A. No, no, no. You're just totally --\n6          Q. It's the 12th --\n7          A. -- wrong -- it's the 12th, yes.\n8          Q. Okay. Good. Thank you.\n9          A. It's clearly stated on the 12, yeah.\n10         Q. Okay. And then on Friday, the 19th, a\n11     week later, another Court TV appearance, correct?\n12         A. 19th. Yes.\n13         Q. Okay. And on the 26th on Friday,\n14     another Court TV appearance, correct?\n15         A. That's what it says, yes. These were\n16     all --\n17         Q. During this period of time --\n18         MR. SCOTT: Whoa. Let -- let him finish\n19     his answer.\n20         A. These are all scheduled appearances. I\n21     assume that I did them. These -- these were -- when\n22     they requested me to -- to do them, I would do them,\n23     yes.\n24      BY MR. SCAROLA:\n25         Q. Okay. And it looks like you're appearing\n\n323\n1      MR. SCOTT: Wait a minute. Let him get to\n2      it.\n3          A. 2 of the composite. Page 2, and what --\n4      what day are we on?\n5          MR. SWEDER: Do we even have it?\n6          MR. SCOTT: I'm sorry. Excuse me. Do we\n7      have copies of this exhibit?\n8          MR. SCAROLA: I've given you copies of\n9      everything --\n10         THE WITNESS: Were these produced in\n11     discovery?\n12         MR. SCOTT: I assume.\n13         A. Okay. What are we up to? What page?\n14      BY MR. SCAROLA:\n15         Q. Page 2 of Composite Exhibit Number 10.\n16         MR. SCOTT: Okay. Now, stop.\n17      BY MR. SCAROLA:\n18         Q. Tuesday, the 16th.\n19         MR. SCOTT: What year are we talking about\n20     now?\n21         MR. SCAROLA: 2001, the only year covered\n22     in this composite exhibit.\n23         A. Yeah, dinner foreign policy Epstein, that\n24     was dinner we had at Jeffrey Epstein's house with a\n25     group of very distinguished foreign policy experts,\n\n322\n1      on a scheduled basis every Friday during this period\n2      of time?\n3          A. I don't think that was right. Yeah, I\n4      don't think that was right. I think that they\n5      called me when they wanted me. And it may have been\n6      several Fridays in a row, but I think it depended on\n7      breaking news at the --\n8          Q. What is \"scheduled appearance\" --\n9          MR. SCOTT: Well, wait a minute. Let him\n10     finish his questions [sic].\n11         A. It would depend very much on whether there\n12     was a particular trial because I would be the\n13     commentator on the trial, along with other lawyers.\n14     And there were some days when there were trials and\n15     some days when there weren't and I would be\n16     available because I was living in New York at the\n17     time.\n18      BY MR. SCAROLA:\n19         Q. On Tuesday, the 16th, there is an entry\n20     that says Epstein, right?\n21         A. On Tuesday, the 16th?\n22         Q. Yes, sir.\n23         A. Where are we? Which calendar now?\n24         Q. Page 2. Page 2 of the composite, Tuesday,\n25     the 16th, Epstein.\n\n324\n1      yes.\n2      BY MR. SCAROLA:\n3          Q. All right, sir. Let's go to the next\n4      page. I've just focused on this period of time in\n5      January 2001 and on Friday, January 12 --\n6          A. So we're going back to Friday, January 12.\n7      Yeah.\n8          Q. Your wife is in Cambridge, correct?\n9          A. No, I don't think so. My wife was living\n10     in New York with me at the time. I don't see any\n11     record of her being in Cambridge.\n12         She was -- we were living together in\n13     New York at NYU downtown. I was a visiting scholar.\n14     Having been appointed by John Sexton of NYU to be a\n15     visiting scholar, we were there for the year. And\n16     my wife was with me during the year. Our daughter\n17     was in school in New York. She went to Little Red\n18     Schoolhouse in New York. And we had -- our life was\n19     in New York for a period of one year.\n20         Q. And on Friday, January 12, you had another\n21     massage, right?\n22         A. I don't see anything on my record that --\n23         Q. Massage, A.D.?\n24         A. We must be looking at the different pages.\n25         Q. Friday, January 12, page 4 --\n\n37 (Pages 321 to 324)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010819",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "321\n1      BY MR. SCAROLA:\n2          Q. I'm sorry, maybe it is January 12, but\n3      some time between the 11th and 12th, either on the\n4      11th or on the 12th, it's Court TV, correct?\n5          A. No, no, no. You're just totally --\n6          Q. It's the 12th --\n7          A. -- wrong -- it's the 12th, yes.\n8          Q. Okay. Good. Thank you.\n9          A. It's clearly stated on the 12, yeah.\n10         Q. Okay. And then on Friday, the 19th, a\n11     week later, another Court TV appearance, correct?\n12         A. 19th. Yes.\n13         Q. Okay. And on the 26th on Friday,\n14     another Court TV appearance, correct?\n15         A. That's what it says, yes. These were\n16     all --\n17         Q. During this period of time --\n18         MR. SCOTT: Whoa. Let -- let him finish\n19     his answer.\n20         A. These are all scheduled appearances. I\n21     assume that I did them. These -- these were -- when\n22     they requested me to -- to do them, I would do them,\n23     yes.\n24      BY MR. SCAROLA:\n25         Q. Okay. And it looks like you're appearing",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "323\n1      MR. SCOTT: Wait a minute. Let him get to\n2      it.\n3          A. 2 of the composite. Page 2, and what --\n4      what day are we on?\n5          MR. SWEDER: Do we even have it?\n6          MR. SCOTT: I'm sorry. Excuse me. Do we\n7      have copies of this exhibit?\n8          MR. SCAROLA: I've given you copies of\n9      everything --\n10         THE WITNESS: Were these produced in\n11     discovery?\n12         MR. SCOTT: I assume.\n13         A. Okay. What are we up to? What page?\n14      BY MR. SCAROLA:\n15         Q. Page 2 of Composite Exhibit Number 10.\n16         MR. SCOTT: Okay. Now, stop.\n17      BY MR. SCAROLA:\n18         Q. Tuesday, the 16th.\n19         MR. SCOTT: What year are we talking about\n20     now?\n21         MR. SCAROLA: 2001, the only year covered\n22     in this composite exhibit.\n23         A. Yeah, dinner foreign policy Epstein, that\n24     was dinner we had at Jeffrey Epstein's house with a\n25     group of very distinguished foreign policy experts,",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "322\n1      on a scheduled basis every Friday during this period\n2      of time?\n3          A. I don't think that was right. Yeah, I\n4      don't think that was right. I think that they\n5      called me when they wanted me. And it may have been\n6      several Fridays in a row, but I think it depended on\n7      breaking news at the --\n8          Q. What is \"scheduled appearance\" --\n9          MR. SCOTT: Well, wait a minute. Let him\n10     finish his questions [sic].\n11         A. It would depend very much on whether there\n12     was a particular trial because I would be the\n13     commentator on the trial, along with other lawyers.\n14     And there were some days when there were trials and\n15     some days when there weren't and I would be\n16     available because I was living in New York at the\n17     time.\n18      BY MR. SCAROLA:\n19         Q. On Tuesday, the 16th, there is an entry\n20     that says Epstein, right?\n21         A. On Tuesday, the 16th?\n22         Q. Yes, sir.\n23         A. Where are we? Which calendar now?\n24         Q. Page 2. Page 2 of the composite, Tuesday,\n25     the 16th, Epstein.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "324\n1      yes.\n2      BY MR. SCAROLA:\n3          Q. All right, sir. Let's go to the next\n4      page. I've just focused on this period of time in\n5      January 2001 and on Friday, January 12 --\n6          A. So we're going back to Friday, January 12.\n7      Yeah.\n8          Q. Your wife is in Cambridge, correct?\n9          A. No, I don't think so. My wife was living\n10     in New York with me at the time. I don't see any\n11     record of her being in Cambridge.\n12         She was -- we were living together in\n13     New York at NYU downtown. I was a visiting scholar.\n14     Having been appointed by John Sexton of NYU to be a\n15     visiting scholar, we were there for the year. And\n16     my wife was with me during the year. Our daughter\n17     was in school in New York. She went to Little Red\n18     Schoolhouse in New York. And we had -- our life was\n19     in New York for a period of one year.\n20         Q. And on Friday, January 12, you had another\n21     massage, right?\n22         A. I don't see anything on my record that --\n23         Q. Massage, A.D.?\n24         A. We must be looking at the different pages.\n25         Q. Friday, January 12, page 4 --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "37 (Pages 321 to 324)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010819",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2001-01-12",
+      "2001-01-11",
+      "2001-01-19",
+      "2001-01-26",
+      "2001-01-16",
+      "2001-01"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "MR. SWEDER",
+      "THE WITNESS",
+      "Epstein",
+      "Jeffrey Epstein",
+      "John Sexton",
+      "A.D."
+    ],
+    "organizations": [
+      "Court TV",
+      "NYU",
+      "Little Red Schoolhouse",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [
+      "New York",
+      "Cambridge",
+      "NYU downtown"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010819",
+      "Composite Exhibit Number 10",
+      "321",
+      "322",
+      "323",
+      "324",
+      "37"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding events in January 2001, including Court TV appearances and a dinner at Jeffrey Epstein's house.",
+    "date": "2001-01",
+    "references": [
+      "Composite Exhibit Number 10",
+      "HOUSE_OVERSIGHT_010819"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding. The year 2001 is explicitly mentioned as the context for the dates discussed. The name 'A.D.' is mentioned in a question but it's unclear if it refers to a person or something else.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010819.jpg",
+  "house_oversight_id": "010819",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:49:22.097066Z",
+    "model": "gemini-2.5-pro"
+  }
+}

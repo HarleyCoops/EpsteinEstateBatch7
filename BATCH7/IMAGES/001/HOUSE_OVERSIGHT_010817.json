@@ -1,0 +1,118 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010817.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, numbered 313, 314, 315, and 316. The pages are arranged in a two-by-two grid on a single sheet. The text is a question-and-answer format, typical of a deposition or hearing. A footer contains information about the reporting company and a document identifier is present at the bottom right.",
+    "layout": "The image displays four distinct pages of a transcript, arranged in two columns and two rows. Page 313 is top-left, 315 is top-right, 314 is bottom-left, and 316 is bottom-right. Each page has a page number at the top and numbered lines along the left margin. A footer is centered at the bottom of the entire image, and a document ID is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "313\n1      BY MR. SCAROLA:\n2           Q. Of the first page of this composite is\n3      that there is a notation that says Alan Dershowitz\n4      11:45 a.m., New York City, right?\n5           A. Eleven -- A.D. 11:45 and then there's a\n6      word that I can't read.\n7           Q. How about a.m.?\n8           A. Oh, 5:00 a.m., New York City, yes.\n9           Q. Okay. Thank you, sir.\n10          And the next page, where did -- where did\n11     your wife have opera instructions?\n12          A. I have no idea. We go to the opera in\n13     Boston, we go to the opera in New York, we go to the\n14     opera in Florida. We do a lot -- a lot of opera. I\n15     don't know what \"opera instructions\" means.\n16          Maybe it would be best if you asked my\n17     wife about these things. It's her calendar.\n18          Q. I -- I intend to, sir, but --\n19          A. Sure.\n20          Q. -- these are calendars that you produced\n21     as part of the evidence that you contend exonerates\n22     you. So, I assumed that you had some knowledge of\n23     the meaning of these pages.\n24          A. No.\n25          Q. But I may be wrong.\n\n315\n1      BY MR. SCAROLA:\n2           Q. And you would appear in New York --\n3           A. Well, no --\n4           Q. -- for those Court TV appearances --\n5           A. I would appear --\n6           Q. -- on a regular basis, correct?\n7           A. I would appear wherever I was. So when I\n8      was in New York, I appeared in New York, but they\n9      would do it by remote when I was in a different\n10     city. And I clearly did some remotes for Court TV.\n11          Q. In fact, you took an apartment in New York\n12     for purposes of convenience to facilitate your\n13     New York Court TV appearances, correct?\n14          A. Totally false.\n15          Q. Did you have an apartment in New York\n16     during this period of time in December of 2000?\n17          A. I had an apartment for -- I've had an\n18     apartment in New York for 30 -- 30 years or more.\n19     But I certainly didn't take an apartment for\n20     purposes of Court TV, no.\n21          Q. On Tuesday, December 12, the entry is\n22     1:30, Jeff, correct?\n23          A. Right. Yeah.\n24          Q. And that's a reference to Jeffrey Epstein,\n25     correct?\n\n314\n1           A. We have --\n2           Q. So you're telling me that you don't know\n3      where she was and that's --\n4           A. We just -- we just gave you everything we\n5      had --\n6           MR. SCOTT: We provided hundreds and\n7      hundreds of pages. You're picking out one.\n8           BY MR. SCAROLA:\n9           Q. Let's go -- let's go to the next page, if\n10     we could, please, the third page in this composite.\n11          A. The third, okay. Third, okay.\n12          Q. And can we agree that this is a calendar\n13     from December of 2000?\n14          A. Yes.\n15          Q. Can we agree it's your calendar from\n16     December of 2000?\n17          A. That's right, yeah.\n18          Q. And can we also agree that during this\n19     period of time, you were making regular appearances\n20     in New York on Court TV?\n21          MR. SCOTT: Review the document before you\n22     answer the question, please.\n23          A. It says 12/30, Court TV, yes. There was a\n24     period of time where I had a contract with Court TV\n25     and I would appear when they asked me to, yeah.\n\n316\n1           A. I don't -- I don't know.\n2           Q. Well, what other Jeff might it be?\n3           A. I know -- I know many, many Jeffs.\n4           Q. Tell me which other Jeffs it might have\n5      been a reference to --\n6           A. I have no idea.\n7           Q. -- on this calendar page.\n8           A. I just have no idea. I would be\n9      speculating.\n10          Q. During the same period of time on\n11     December 12 when there's a calendar entry that\n12     reflects 1:30, Jeff, we know from the flight logs\n13     that Jeffrey Epstein traveled on December 11 from\n14     Palm Beach International Airport to Teterboro\n15     Airport, which is the private plane facility that\n16     services the New York Metropolitan area.\n17          A. I have no idea.\n18          Q. You don't know?\n19          A. No, I have no idea whether he was on that\n20     plane. I haven't seen the flight log.\n21          Q. Well, I'm calling your attention to the\n22     flight log. It's the next page.\n23          A. It's the next page here?\n24          Q. Yes, sir.\n25          A. Okay.\n\n35 (Pages 313 to 316)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010817",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "313\n1      BY MR. SCAROLA:\n2           Q. Of the first page of this composite is\n3      that there is a notation that says Alan Dershowitz\n4      11:45 a.m., New York City, right?\n5           A. Eleven -- A.D. 11:45 and then there's a\n6      word that I can't read.\n7           Q. How about a.m.?\n8           A. Oh, 5:00 a.m., New York City, yes.\n9           Q. Okay. Thank you, sir.\n10          And the next page, where did -- where did\n11     your wife have opera instructions?\n12          A. I have no idea. We go to the opera in\n13     Boston, we go to the opera in New York, we go to the\n14     opera in Florida. We do a lot -- a lot of opera. I\n15     don't know what \"opera instructions\" means.\n16          Maybe it would be best if you asked my\n17     wife about these things. It's her calendar.\n18          Q. I -- I intend to, sir, but --\n19          A. Sure.\n20          Q. -- these are calendars that you produced\n21     as part of the evidence that you contend exonerates\n22     you. So, I assumed that you had some knowledge of\n23     the meaning of these pages.\n24          A. No.\n25          Q. But I may be wrong.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "315\n1      BY MR. SCAROLA:\n2           Q. And you would appear in New York --\n3           A. Well, no --\n4           Q. -- for those Court TV appearances --\n5           A. I would appear --\n6           Q. -- on a regular basis, correct?\n7           A. I would appear wherever I was. So when I\n8      was in New York, I appeared in New York, but they\n9      would do it by remote when I was in a different\n10     city. And I clearly did some remotes for Court TV.\n11          Q. In fact, you took an apartment in New York\n12     for purposes of convenience to facilitate your\n13     New York Court TV appearances, correct?\n14          A. Totally false.\n15          Q. Did you have an apartment in New York\n16     during this period of time in December of 2000?\n17          A. I had an apartment for -- I've had an\n18     apartment in New York for 30 -- 30 years or more.\n19     But I certainly didn't take an apartment for\n20     purposes of Court TV, no.\n21          Q. On Tuesday, December 12, the entry is\n22     1:30, Jeff, correct?\n23          A. Right. Yeah.\n24          Q. And that's a reference to Jeffrey Epstein,\n25     correct?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "314\n1           A. We have --\n2           Q. So you're telling me that you don't know\n3      where she was and that's --\n4           A. We just -- we just gave you everything we\n5      had --\n6           MR. SCOTT: We provided hundreds and\n7      hundreds of pages. You're picking out one.\n8           BY MR. SCAROLA:\n9           Q. Let's go -- let's go to the next page, if\n10     we could, please, the third page in this composite.\n11          A. The third, okay. Third, okay.\n12          Q. And can we agree that this is a calendar\n13     from December of 2000?\n14          A. Yes.\n15          Q. Can we agree it's your calendar from\n16     December of 2000?\n17          A. That's right, yeah.\n18          Q. And can we also agree that during this\n19     period of time, you were making regular appearances\n20     in New York on Court TV?\n21          MR. SCOTT: Review the document before you\n22     answer the question, please.\n23          A. It says 12/30, Court TV, yes. There was a\n24     period of time where I had a contract with Court TV\n25     and I would appear when they asked me to, yeah.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "316\n1           A. I don't -- I don't know.\n2           Q. Well, what other Jeff might it be?\n3           A. I know -- I know many, many Jeffs.\n4           Q. Tell me which other Jeffs it might have\n5      been a reference to --\n6           A. I have no idea.\n7           Q. -- on this calendar page.\n8           A. I just have no idea. I would be\n9      speculating.\n10          Q. During the same period of time on\n11     December 12 when there's a calendar entry that\n12     reflects 1:30, Jeff, we know from the flight logs\n13     that Jeffrey Epstein traveled on December 11 from\n14     Palm Beach International Airport to Teterboro\n15     Airport, which is the private plane facility that\n16     services the New York Metropolitan area.\n17          A. I have no idea.\n18          Q. You don't know?\n19          A. No, I have no idea whether he was on that\n20     plane. I haven't seen the flight log.\n21          Q. Well, I'm calling your attention to the\n22     flight log. It's the next page.\n23          A. It's the next page here?\n24          Q. Yes, sir.\n25          A. Okay.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "35 (Pages 313 to 316)\n\nwww.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010817",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2000-12",
+      "2000-12-12",
+      "2000-12-30",
+      "2000-12-11"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "Alan Dershowitz",
+      "MR. SCOTT",
+      "Jeff",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Court TV",
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [
+      "New York City",
+      "Boston",
+      "Florida",
+      "New York",
+      "Palm Beach International Airport",
+      "Teterboro Airport",
+      "New York Metropolitan area"
+    ],
+    "document_numbers": [
+      "313",
+      "314",
+      "315",
+      "316",
+      "35",
+      "HOUSE_OVERSIGHT_010817"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010817"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony regarding calendar entries, Court TV appearances, and Jeffrey Epstein.",
+    "date": "2000-12",
+    "references": [
+      "HOUSE_OVERSIGHT_010817"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages from a larger transcript. The year 2000 is inferred for dates like 'December 12' and '12/30' based on the repeated mention of 'December of 2000'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010817.jpg",
+  "house_oversight_id": "010817",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:48:03.865077Z",
+    "model": "gemini-2.5-pro"
+  }
+}

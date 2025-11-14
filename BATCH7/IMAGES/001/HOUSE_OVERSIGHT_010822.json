@@ -1,0 +1,110 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010822.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A blank Errata Sheet form for a transcript. The form is for Alan M. Dershowitz in the matter of Edwards v. Dershowitz, dated October 16, 2015. The sheet is unsigned and has no changes listed. The footer contains contact information for a reporting service and a document identifier.",
+    "layout": "Portrait orientation with a header, a main body consisting of a blank table for corrections, a declaration section, and a footer with contact information and document identifiers.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "333\n\nERRATA SHEET\nDO NOT WRITE ON TRANSCRIPT - ENTER CHANGES HERE\nIn Re: EDWARDS V. DERSHOWITZ\nALAN M. DERSHOWITZ\nOctober 16, 2015\n\nPAGE LINE CHANGE REASON\n\nUnder penalties of perjury, I declare that I have\nread the foregoing document and that the facts\nstated in it are true.\n\nDate ALAN M. DERSHOWITZ\n\n40 (Page 333)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010822",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "333",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "ERRATA SHEET\nDO NOT WRITE ON TRANSCRIPT - ENTER CHANGES HERE\nIn Re: EDWARDS V. DERSHOWITZ\nALAN M. DERSHOWITZ\nOctober 16, 2015",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "PAGE LINE CHANGE REASON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Under penalties of perjury, I declare that I have\nread the foregoing document and that the facts\nstated in it are true.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Date ALAN M. DERSHOWITZ",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "40 (Page 333)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010822",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-16"
+    ],
+    "people": [
+      "EDWARDS",
+      "DERSHOWITZ",
+      "ALAN M. DERSHOWITZ"
+    ],
+    "organizations": [
+      "phippsreporting.com"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "333",
+      "40",
+      "HOUSE_OVERSIGHT_010822"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [
+      "ALAN M. DERSHOWITZ"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "ERRATA SHEET, In Re: EDWARDS V. DERSHOWITZ",
+    "date": "2015-10-16",
+    "references": [
+      "HOUSE_OVERSIGHT_010822"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is a blank form. The name 'ALAN M. DERSHOWITZ' is typed on the signature line, but there is no handwritten signature.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010822.jpg",
+  "house_oversight_id": "010822",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:50:55.786443Z",
+    "model": "gemini-2.5-pro"
+  }
+}
