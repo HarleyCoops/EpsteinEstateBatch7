@@ -1,0 +1,84 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010596.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is organized into numbered paragraphs. There is a page number at the bottom center and a document identifier in the bottom right corner.",
+    "layout": "Single column of text with standard margins. Numbered paragraphs, a centered footer with a page number, and a right-aligned footer with a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "73. Epstein's complaint alleges that Edwards provided notice that he wished to take the deposition of Tommy Mattola. That assertion is untrue. Mr. Mattola's deposition was set by the law firm of Searcy Denny Scarola Barnhart and Shipley. See Edwards Affidavit, Exhibit “N” at ¶16.\n\n74. Edwards gave notice that he intended to take David Copperfield's deposition. Edwards possessed a legitimate basis for doing so. Epstein's housekeeper and one of the only witnesses who did not appear for deposition with an Epstein bought attorney, Alfredo Rodriguez, testified that David Copperfield was a guest at Epstein's house on several occasions. His name also appears frequently in the message pads confiscated from Epstein's house. It has been publicly reported that Copperfield himself has had allegations of sexual misconduct made against him by women claiming he sexually abused them, and one of Epstein's sexual assault victims also alleged that Copperfield had touched her in an improper sexual way while she was at Epstein's house. Mr. Copperfield likely has relevant information and deposition was reasonably calculated to lead to the discovery of admissible evidence. See Edwards Affidavit, Exhibit “N” at ¶17.\n\n75. Epstein also takes issue with Edwards identifying Bill Richardson as a possible witness. Richardson was properly identified as a possible witness because Epstein's personal pilot testified to Richardson joining Epstein at Epstein's New Mexico Ranch. There was information indicating that Epstein had young girls at his ranch which, given the circumstances of the case, raised the reasonable inference he was sexually abusing these girls as he had abused girls in West Palm Beach and elsewhere. Richardson had also returned campaign donations that were given to him by Epstein, indicating that he believed that there was something about Epstein\n\n31\n\nHOUSE_OVERSIGHT_010596",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "73. Epstein's complaint alleges that Edwards provided notice that he wished to take the deposition of Tommy Mattola. That assertion is untrue. Mr. Mattola's deposition was set by the law firm of Searcy Denny Scarola Barnhart and Shipley. See Edwards Affidavit, Exhibit “N” at ¶16.\n\n74. Edwards gave notice that he intended to take David Copperfield's deposition. Edwards possessed a legitimate basis for doing so. Epstein's housekeeper and one of the only witnesses who did not appear for deposition with an Epstein bought attorney, Alfredo Rodriguez, testified that David Copperfield was a guest at Epstein's house on several occasions. His name also appears frequently in the message pads confiscated from Epstein's house. It has been publicly reported that Copperfield himself has had allegations of sexual misconduct made against him by women claiming he sexually abused them, and one of Epstein's sexual assault victims also alleged that Copperfield had touched her in an improper sexual way while she was at Epstein's house. Mr. Copperfield likely has relevant information and deposition was reasonably calculated to lead to the discovery of admissible evidence. See Edwards Affidavit, Exhibit “N” at ¶17.\n\n75. Epstein also takes issue with Edwards identifying Bill Richardson as a possible witness. Richardson was properly identified as a possible witness because Epstein's personal pilot testified to Richardson joining Epstein at Epstein's New Mexico Ranch. There was information indicating that Epstein had young girls at his ranch which, given the circumstances of the case, raised the reasonable inference he was sexually abusing these girls as he had abused girls in West Palm Beach and elsewhere. Richardson had also returned campaign donations that were given to him by Epstein, indicating that he believed that there was something about Epstein",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "31",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010596",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Epstein",
+      "Edwards",
+      "Tommy Mattola",
+      "David Copperfield",
+      "Alfredo Rodriguez",
+      "Bill Richardson"
+    ],
+    "organizations": [
+      "Searcy Denny Scarola Barnhart and Shipley"
+    ],
+    "locations": [
+      "New Mexico Ranch",
+      "West Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010596"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010596"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Justification for deposing potential witnesses including Tommy Mattola, David Copperfield, and Bill Richardson in a case involving Epstein.",
+    "date": null,
+    "references": [
+      "Edwards Affidavit, Exhibit “N” at ¶16",
+      "Edwards Affidavit, Exhibit “N” at ¶17"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a single page, page 31, from a larger legal document. The document identifier 'HOUSE_OVERSIGHT_010596' is a Bates number, indicating it is part of a larger production of documents.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010596.jpg",
+  "house_oversight_id": "010596",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:37:49.361615Z",
+    "model": "gemini-2.5-pro"
+  }
+}

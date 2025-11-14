@@ -1,0 +1,104 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010595.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white image of a typed document page. The text discusses allegations related to Jeffrey Epstein and Alan Dershowitz, citing various sources and exhibits.",
+    "layout": "The document has a single column of text for the main body. There is a page number centered at the bottom and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Talented Mr. Epstein, By Vicky Ward on January, 2005 in Published Work, Vanity Fair (See\narticle attached as Exhibit “OO”); (c) Epstein’s housekeeper Alfredo Rodriguez testified that\nDershowitz stayed at Epstein’s house during the years when Epstein was assaulting minor\nfemales on a daily basis; (d) Rodriguez testified that Dershowitz was at Epstein’s house at times\nwhen underage females where there being molested by Epstein (see Alfredo Rodriguez\ndeposition at 278-280, 385, 426-427); (e) Dershowitz reportedly assisted in attempting to\npersuade the Palm Beach State Attorney’s Office that because the underage females alleged to\nhave been victims of Epstein’s abuse lacked credibility and could not be believed that they were\nat Epstein’s house, when Dershowitz himself was an eyewitness to their presence at the house;\n(f) Jane Doe No. 102 stated generally that Epstein forced her to be sexually exploited by not only\nEpstein but also Epstein’s “adult male peers, including royalty, politicians, academicians,\nbusinessmen, and/or other professional and personal acquaintances” – categories that Dershowitz\nand acquaintances of Dershowitz fall into; (g) during the years 2002-2005 Alan Dershowitz was\non Epstein’s plane on several occasions according to the flight logs produced by Epstein’s pilot\nand information (described above) suggested that sexual assaults may have taken place on the\nplane; (h) Epstein donated $30 Million one year to the university at which Dershowitz teaches.\nBased on this information, Edwards had a reasonable basis to believe that Dershowitz might\nhave relevant information to provide in the cases against Jeffrey Epstein and accordingly\nprovided notice of a possible deposition. See Dershowitz letters to the State Attorney’s office\nattached as Exhibit “PP”; Deposition of Alfredo Rodriguez at 278-280; Flight Logs Exhibit\n“MM”; Exhibits “B” and “OO”; and Edwards Affidavit, Exhibit “N” at ¶14.\n\n30\n\nHOUSE_OVERSIGHT_010595",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Talented Mr. Epstein, By Vicky Ward on January, 2005 in Published Work, Vanity Fair (See\narticle attached as Exhibit “OO”); (c) Epstein’s housekeeper Alfredo Rodriguez testified that\nDershowitz stayed at Epstein’s house during the years when Epstein was assaulting minor\nfemales on a daily basis; (d) Rodriguez testified that Dershowitz was at Epstein’s house at times\nwhen underage females where there being molested by Epstein (see Alfredo Rodriguez\ndeposition at 278-280, 385, 426-427); (e) Dershowitz reportedly assisted in attempting to\npersuade the Palm Beach State Attorney’s Office that because the underage females alleged to\nhave been victims of Epstein’s abuse lacked credibility and could not be believed that they were\nat Epstein’s house, when Dershowitz himself was an eyewitness to their presence at the house;\n(f) Jane Doe No. 102 stated generally that Epstein forced her to be sexually exploited by not only\nEpstein but also Epstein’s “adult male peers, including royalty, politicians, academicians,\nbusinessmen, and/or other professional and personal acquaintances” – categories that Dershowitz\nand acquaintances of Dershowitz fall into; (g) during the years 2002-2005 Alan Dershowitz was\non Epstein’s plane on several occasions according to the flight logs produced by Epstein’s pilot\nand information (described above) suggested that sexual assaults may have taken place on the\nplane; (h) Epstein donated $30 Million one year to the university at which Dershowitz teaches.\nBased on this information, Edwards had a reasonable basis to believe that Dershowitz might\nhave relevant information to provide in the cases against Jeffrey Epstein and accordingly\nprovided notice of a possible deposition. See Dershowitz letters to the State Attorney’s office\nattached as Exhibit “PP”; Deposition of Alfredo Rodriguez at 278-280; Flight Logs Exhibit\n“MM”; Exhibits “B” and “OO”; and Edwards Affidavit, Exhibit “N” at ¶14.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "30",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010595",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2005-01",
+      "2002-2005"
+    ],
+    "people": [
+      "Vicky Ward",
+      "Mr. Epstein",
+      "Alfredo Rodriguez",
+      "Dershowitz",
+      "Jane Doe No. 102",
+      "Alan Dershowitz",
+      "Edwards",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "Published Work",
+      "Vanity Fair",
+      "Palm Beach State Attorney’s Office"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010595",
+      "Exhibit “OO”",
+      "Exhibit “PP”",
+      "Flight Logs Exhibit “MM”",
+      "Exhibits “B” and “OO”",
+      "Edwards Affidavit, Exhibit “N” at ¶14",
+      "Deposition of Alfredo Rodriguez at 278-280, 385, 426-427"
+    ],
+    "financial_amounts": [
+      "$30 Million"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010595"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal filing",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations and evidence related to Jeffrey Epstein and Alan Dershowitz, justifying a deposition of Dershowitz.",
+    "date": null,
+    "references": [
+      "Article: Talented Mr. Epstein, By Vicky Ward",
+      "Exhibit “OO”",
+      "Deposition of Alfredo Rodriguez",
+      "Dershowitz letters to the State Attorney’s office",
+      "Exhibit “PP”",
+      "Flight Logs Exhibit “MM”",
+      "Exhibits “B”",
+      "Edwards Affidavit, Exhibit “N”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be part of a larger legal or investigative file, summarizing evidence to support the deposition of Alan Dershowitz in connection with cases against Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010595.jpg",
+  "house_oversight_id": "010595",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:37:26.090378Z",
+    "model": "gemini-2.5-pro"
+  }
+}

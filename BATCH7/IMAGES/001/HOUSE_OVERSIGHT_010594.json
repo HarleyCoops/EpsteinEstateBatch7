@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010594.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned black and white page of a typed document. The text discusses Jeffrey Epstein's social connections and various allegations involving Donald Trump and others. The document appears to be a legal filing or a summary of evidence, citing exhibits and depositions.",
+    "layout": "The document has a standard portrait layout with justified text in the main body. There is a page number centered at the bottom and a document identifier in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Jeffrey enjoys his social life.\" Jeffrey Epstein: International Moneyman of Mystery; He's pals\nwith a passel of Nobel Prize-winning scientists, CEOs like Leslie Wexner of the Limited,\nsocialite Ghislaine Maxwell, even Donald Trump. But it wasn't until he flew Bill Clinton, Kevin\nSpacey, and Chris Tucker to Africa on his private Boeing 727 that the world began to wonder\nwho he is. By Landon Thomas Jr. (See article attached hereto as Exhibit “NN”) (c) Trump\nallegedly banned Epstein from his Maralago Club in West Palm Beach because Epstein sexually\nassaulted an underage girl at the club; (d) Jane Doe No. 102's complaint alleged that Jane Doe\n102 was initially approached at Trump's Maralago by Ghislaine Maxwell and recruited to be\nMaxwell and Epstein's underage sex slave; (e) Mark Epstein (Jeffrey Epstein's brother) testified\nthat Trump flew on Jeffrey Epstein's plane with him (the same plane that Jane Doe 102 alleged\nwas used to have sex with underage girls); (f) Trump had been to Epstein's home in Palm Beach;\n(g) Epstein's phone directory from his computer contains 14 phone numbers for Donald Trump,\nincluding emergency numbers, car numbers, and numbers to Trump's security guard and\nhouseman. Based on this information, Edwards reasonably believed that Trump might have\nrelevant information to provide in the cases against Jeffrey Epstein and accordingly provided\nnotice of a possible deposition. See deposition of Mark Epstein, September 21, 2009, at 48-50\n(Deposition Attachment #19); See Jane Doe 102 v. Epstein, Exhibit “B”; Exhibit “F”;\n“Exhibit”J”; “N” and See Edwards Affidavit, Exhibit “N” at ¶13.\n\n72.     Edwards provided notice that he intended to depose Alan Dershowitz. Edwards\npossessed a legitimate basis for doing so: (a) Dershowitz is believed to have been friends with\nEpstein for many years; (b) in one news article Dershowitz comments that, “I'm on my 20th\nbook... The only person outside of my immediate family that I send drafts to is Jeffrey” The\n\n29\n\nHOUSE_OVERSIGHT_010594",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Jeffrey enjoys his social life.\" Jeffrey Epstein: International Moneyman of Mystery; He's pals\nwith a passel of Nobel Prize-winning scientists, CEOs like Leslie Wexner of the Limited,\nsocialite Ghislaine Maxwell, even Donald Trump. But it wasn't until he flew Bill Clinton, Kevin\nSpacey, and Chris Tucker to Africa on his private Boeing 727 that the world began to wonder\nwho he is. By Landon Thomas Jr. (See article attached hereto as Exhibit “NN”) (c) Trump\nallegedly banned Epstein from his Maralago Club in West Palm Beach because Epstein sexually\nassaulted an underage girl at the club; (d) Jane Doe No. 102's complaint alleged that Jane Doe\n102 was initially approached at Trump's Maralago by Ghislaine Maxwell and recruited to be\nMaxwell and Epstein's underage sex slave; (e) Mark Epstein (Jeffrey Epstein's brother) testified\nthat Trump flew on Jeffrey Epstein's plane with him (the same plane that Jane Doe 102 alleged\nwas used to have sex with underage girls); (f) Trump had been to Epstein's home in Palm Beach;\n(g) Epstein's phone directory from his computer contains 14 phone numbers for Donald Trump,\nincluding emergency numbers, car numbers, and numbers to Trump's security guard and\nhouseman. Based on this information, Edwards reasonably believed that Trump might have\nrelevant information to provide in the cases against Jeffrey Epstein and accordingly provided\nnotice of a possible deposition. See deposition of Mark Epstein, September 21, 2009, at 48-50\n(Deposition Attachment #19); See Jane Doe 102 v. Epstein, Exhibit “B”; Exhibit “F”;\n“Exhibit”J”; “N” and See Edwards Affidavit, Exhibit “N” at ¶13.\n\n72.     Edwards provided notice that he intended to depose Alan Dershowitz. Edwards\npossessed a legitimate basis for doing so: (a) Dershowitz is believed to have been friends with\nEpstein for many years; (b) in one news article Dershowitz comments that, “I'm on my 20th\nbook... The only person outside of my immediate family that I send drafts to is Jeffrey” The",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "29",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010594",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-09-21"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "Leslie Wexner",
+      "Ghislaine Maxwell",
+      "Donald Trump",
+      "Bill Clinton",
+      "Kevin Spacey",
+      "Chris Tucker",
+      "Landon Thomas Jr.",
+      "Jane Doe No. 102",
+      "Mark Epstein",
+      "Edwards",
+      "Alan Dershowitz"
+    ],
+    "organizations": [
+      "the Limited",
+      "House Oversight"
+    ],
+    "locations": [
+      "Africa",
+      "West Palm Beach",
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010594",
+      "Exhibit “NN”",
+      "Jane Doe No. 102",
+      "Deposition Attachment #19",
+      "Exhibit “B”",
+      "Exhibit “F”",
+      "“Exhibit”J”",
+      "“N”",
+      "¶13"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010594"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations and social connections of Jeffrey Epstein, particularly involving Donald Trump and Alan Dershowitz.",
+    "date": null,
+    "references": [
+      "Exhibit “NN”",
+      "Deposition of Mark Epstein, September 21, 2009",
+      "Deposition Attachment #19",
+      "Jane Doe 102 v. Epstein, Exhibit “B”",
+      "Exhibit “F”",
+      "“Exhibit”J”",
+      "Edwards Affidavit, Exhibit “N”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be part of a larger legal filing, possibly a motion or affidavit, given the numbered paragraphs and references to exhibits and depositions. The document identifier 'HOUSE_OVERSIGHT_010594' suggests it is part of a collection from a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010594.jpg",
+  "house_oversight_id": "010594",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:36:59.569218Z",
+    "model": "gemini-2.5-pro"
+  }
+}

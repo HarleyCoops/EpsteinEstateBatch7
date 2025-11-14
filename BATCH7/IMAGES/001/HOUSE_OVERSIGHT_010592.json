@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010592.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The page is numbered 27 at the bottom center and has a document identifier 'HOUSE_OVERSIGHT_010592' in the bottom right corner. The text is organized into numbered paragraphs (68, 69, 70) and discusses legal proceedings involving Jeffrey Epstein.",
+    "layout": "The document has a standard legal format with numbered paragraphs, a centered page number at the bottom, and a document identifier in the footer. There is a single column of text with standard margins.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "68.     While Epstein and others were preventing any legitimate discovery into his sexual\nabuse of minor girls, at the same time he was engaging (through his attorneys) in brutal\nquestioning of the girls who had filed civil suits against him, questioning so savage that it made\nlocal headlines. See Jane Musgrave, Victims Seeking Sex offender’s Millions See Painful Pasts\nUsed Against Them, Palm Beach Post News, Jan. 23, 2010, available at\nhttp://www.palmbeachpost.com/news/crime/victims-seeking-sex-offenders-millions-see-painful-\npasts-192988.html attached hereto as Exhibit “LL.”\n\nEdwards Pursues Other Lines of Discovery\n\n69.     Because of Epstein’s thwarting of discovery and attacks on Edwards’s clients,\nEdwards was forced to pursue other avenues of discovery. Edwards only pursued legitimate\ndiscovery designed to further the cases filed against Epstein. See Edwards Affidavit, Exhibit\n“N” at ¶11.\n\n70.     Edwards notified Epstein’s attorneys of his intent to take Bill Clinton’s deposition.\nEdwards possessed a legitimate basis for doing so: (a) Clinton was friends with Ghislaine\nMaxwell who was Epstein’s longtime companion and helped to run Epstein’s companies, kept\nimages of naked underage children on her computer, helped to recruit underage children for\nEpstein, engaged in lesbian sex with underage females that she procured for Epstein, and\nphotographed underage females in sexually explicit poses and kept child pornography on her\ncomputer; (b) it was national news when Clinton traveled with Epstein aboard Epstein’s private\nplane to Africa and the news articles classified Clinton as Epstein’s friend. (c) the complaint\nfiled on behalf of Jane Doe No. 102 stated generally that she was required by Epstein to be\nsexually exploited by not only Epstein but also Epstein’s “adult male peers, including royalty,\n\n27\n\nHOUSE_OVERSIGHT_010592",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "68.     While Epstein and others were preventing any legitimate discovery into his sexual\nabuse of minor girls, at the same time he was engaging (through his attorneys) in brutal\nquestioning of the girls who had filed civil suits against him, questioning so savage that it made\nlocal headlines. See Jane Musgrave, Victims Seeking Sex offender’s Millions See Painful Pasts\nUsed Against Them, Palm Beach Post News, Jan. 23, 2010, available at\nhttp://www.palmbeachpost.com/news/crime/victims-seeking-sex-offenders-millions-see-painful-\npasts-192988.html attached hereto as Exhibit “LL.”",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Edwards Pursues Other Lines of Discovery",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "69.     Because of Epstein’s thwarting of discovery and attacks on Edwards’s clients,\nEdwards was forced to pursue other avenues of discovery. Edwards only pursued legitimate\ndiscovery designed to further the cases filed against Epstein. See Edwards Affidavit, Exhibit\n“N” at ¶11.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "70.     Edwards notified Epstein’s attorneys of his intent to take Bill Clinton’s deposition.\nEdwards possessed a legitimate basis for doing so: (a) Clinton was friends with Ghislaine\nMaxwell who was Epstein’s longtime companion and helped to run Epstein’s companies, kept\nimages of naked underage children on her computer, helped to recruit underage children for\nEpstein, engaged in lesbian sex with underage females that she procured for Epstein, and\nphotographed underage females in sexually explicit poses and kept child pornography on her\ncomputer; (b) it was national news when Clinton traveled with Epstein aboard Epstein’s private\nplane to Africa and the news articles classified Clinton as Epstein’s friend. (c) the complaint\nfiled on behalf of Jane Doe No. 102 stated generally that she was required by Epstein to be\nsexually exploited by not only Epstein but also Epstein’s “adult male peers, including royalty,",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "27",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010592",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-01-23"
+    ],
+    "people": [
+      "Epstein",
+      "Jane Musgrave",
+      "Edwards",
+      "Bill Clinton",
+      "Ghislaine Maxwell",
+      "Jane Doe No. 102"
+    ],
+    "organizations": [
+      "Palm Beach Post News",
+      "House Oversight"
+    ],
+    "locations": [
+      "Africa"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010592",
+      "Exhibit “LL”",
+      "Exhibit “N”",
+      "Jane Doe No. 102"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "http://www.palmbeachpost.com/news/crime/victims-seeking-sex-offenders-millions-see-painful-pasts-192988.html"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010592"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings and discovery efforts in cases against Jeffrey Epstein, including the intent to depose Bill Clinton.",
+    "date": "2010-01-23",
+    "references": [
+      "Jane Musgrave, Victims Seeking Sex offender’s Millions See Painful Pasts Used Against Them, Palm Beach Post News",
+      "Edwards Affidavit, Exhibit “N”",
+      "Exhibit “LL”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The text 'Edwards Pursues Other Lines of Discovery' appears to be a section heading and is underlined in the original document. The article title 'Victims Seeking Sex offender’s Millions See Painful Pasts Used Against Them' is italicized in the original document. These formatting details are not preserved in the plain text extraction per standard procedure.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010592.jpg",
+  "house_oversight_id": "010592",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:36:09.613809Z",
+    "model": "gemini-2.5-pro"
+  }
+}

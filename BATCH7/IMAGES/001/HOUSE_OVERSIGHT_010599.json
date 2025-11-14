@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010599.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010599.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single page of a typed legal or investigative document. The page contains a bulleted list followed by a numbered paragraph. There is a page number at the bottom center and a document identifier in the bottom right corner.\",\n    \"layout\": \"Standard portrait layout with a main body of text, a centered footer for the page number, and a right-aligned footer for a document ID.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"He (Epstein) had gone to jail in Florida for"
+}

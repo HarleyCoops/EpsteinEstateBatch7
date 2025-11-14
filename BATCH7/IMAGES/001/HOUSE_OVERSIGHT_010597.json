@@ -1,0 +1,81 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010597.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal document. The text is organized into numbered paragraphs. There is a page number at the bottom center and a document identifier in the bottom right corner.",
+    "layout": "Single column of text with standard margins. A page number is centered at the bottom, and a document ID is in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "with which he did not want to be associated. Richardson was not called to testify nor was he ever\nsubpoenaed to testify. See Edwards Affidavit, Exhibit “N” at ¶18.\n\n76. Edwards learned of allegations that Epstein engaged in sexual abuse of minors on\nhis private aircraft. See Jane Doe 102 Complaint, Exhibit “B.” Accordingly, Edwards pursued\ndiscovery to confirm these allegations.\n\n77. Discovery of the pilot and flight logs was proper in the cases brought by Edwards\nagainst Epstein. Jane Doe filed a federal RICO claim against Epstein that was an active claim\nthrough much of the litigation. The RICO claim alleged that Epstein ran an expansive criminal\nenterprise that involved and depended upon his plane travel. Although Judge Marra dismissed\nthe RICO claim at some point in the federal litigation, the legal team representing\nEdwards’ clients intended to pursue an appeal of that dismissal. Moreover, all of the subjects\nmentioned in the RICO claim remained relevant to other aspects of Jane Doe’s claims against\nEpstein, including in particular her claim for punitive damages. See Edwards Affidavit, Exhibit\n“N” at ¶19.\n\n78. Discovery of the pilot and flight logs was also proper in the cases brought by\nEdwards against Epstein because of the need to obtain evidence of a federal nexus. Edwards’s\nclient Jane Doe was proceeding to trial on a federal claim under 18 U.S.C. § 2255. Section 2255\nis a federal statute which (unlike relevant state statutes) established a minimum level of recovery\nfor victims of the violation of its provisions. Proceeding under the statute, however, required a\n“federal nexus” to the sexual assaults. Jane Doe had two grounds on which to argue that such a\nnexus existed to her abuse by Epstein: first, his use of telephone to arrange for girls to be abused;\nand, second, his travel on planes in interstate commerce. During the course of the litigation,\n\n32\n\nHOUSE_OVERSIGHT_010597",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "with which he did not want to be associated. Richardson was not called to testify nor was he ever\nsubpoenaed to testify. See Edwards Affidavit, Exhibit “N” at ¶18.\n\n76. Edwards learned of allegations that Epstein engaged in sexual abuse of minors on\nhis private aircraft. See Jane Doe 102 Complaint, Exhibit “B.” Accordingly, Edwards pursued\ndiscovery to confirm these allegations.\n\n77. Discovery of the pilot and flight logs was proper in the cases brought by Edwards\nagainst Epstein. Jane Doe filed a federal RICO claim against Epstein that was an active claim\nthrough much of the litigation. The RICO claim alleged that Epstein ran an expansive criminal\nenterprise that involved and depended upon his plane travel. Although Judge Marra dismissed\nthe RICO claim at some point in the federal litigation, the legal team representing\nEdwards’ clients intended to pursue an appeal of that dismissal. Moreover, all of the subjects\nmentioned in the RICO claim remained relevant to other aspects of Jane Doe’s claims against\nEpstein, including in particular her claim for punitive damages. See Edwards Affidavit, Exhibit\n“N” at ¶19.\n\n78. Discovery of the pilot and flight logs was also proper in the cases brought by\nEdwards against Epstein because of the need to obtain evidence of a federal nexus. Edwards’s\nclient Jane Doe was proceeding to trial on a federal claim under 18 U.S.C. § 2255. Section 2255\nis a federal statute which (unlike relevant state statutes) established a minimum level of recovery\nfor victims of the violation of its provisions. Proceeding under the statute, however, required a\n“federal nexus” to the sexual assaults. Jane Doe had two grounds on which to argue that such a\nnexus existed to her abuse by Epstein: first, his use of telephone to arrange for girls to be abused;\nand, second, his travel on planes in interstate commerce. During the course of the litigation,",
+        "type": "printed"
+      },
+      {
+        "region": "footer_page_number",
+        "text": "32",
+        "type": "printed"
+      },
+      {
+        "region": "footer_document_id",
+        "text": "HOUSE_OVERSIGHT_010597",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Richardson",
+      "Edwards",
+      "Epstein",
+      "Jane Doe",
+      "Judge Marra"
+    ],
+    "organizations": [],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010597",
+      "18 U.S.C. § 2255"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010597"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discovery of pilot and flight logs in litigation against Epstein, concerning a RICO claim and a federal claim under 18 U.S.C. § 2255.",
+    "date": null,
+    "references": [
+      "Edwards Affidavit, Exhibit “N” at ¶18",
+      "Jane Doe 102 Complaint, Exhibit “B”",
+      "Edwards Affidavit, Exhibit “N” at ¶19",
+      "18 U.S.C. § 2255"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a single page from a larger legal filing. The content discusses legal strategy and justification for discovery in a case involving Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010597.jpg",
+  "house_oversight_id": "010597",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:38:13.537071Z",
+    "model": "gemini-2.5-pro"
+  }
+}

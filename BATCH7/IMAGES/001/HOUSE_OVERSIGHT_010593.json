@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010593.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed legal or investigative document. The text discusses the connections between Bill Clinton and Jeffrey Epstein, including flights on Epstein's plane and contact information. It also mentions Donald Trump in relation to Epstein, citing message pads and a quote from a Vanity Fair article.",
+    "layout": "The document has a standard portrait layout with a main body of text, a page number centered at the bottom, and a document identifier in the bottom right corner. The text is organized into paragraphs, with one paragraph numbered '71'.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "politicians, academicians, businessmen, and/or other professional and personal acquaintances” –\ncategories Clinton and acquaintances of Clinton fall into. The flight logs showed Clinton\ntraveling on Epstein’s plane on numerous occasions between 2002 and 2005. See Flight logs\nattached hereto as Exhibit “MM.” Clinton traveled on many of those flights with Ghislaine\nMaxwell, Sarah Kellen, and Adriana Mucinska, - all employees and/or co-conspirators of\nEpstein’s that were closely connected to Epstein’s child exploitation and sexual abuse. The\ndocuments clearly show that Clinton frequently flew with Epstein aboard his plane, then\nsuddenly stopped - raising the suspicion that the friendship abruptly ended, perhaps because of\nevents related to Epstein’s sexual abuse of children. Epstein’s personal phone directory from his\ncomputer contains e-mail addresses for Clinton along with 21 phone numbers for him, including\nthose for his assistant (Doug Band), his schedulers, and what appear to be Clinton’s personal\nnumbers. This information certainly leads one to believe that Clinton might well be a source of\nrelevant information and efforts to obtain discovery from him were reasonably calculated to lead\nto admissible evidence. See Exhibits “B”, “F” “AA”, “DD”, and “MM” and Edwards Affidavit,\nExhibit “N” at ¶15.\n\n71.     Bradley J. Edwards, Esq., provided notice that he intended to take the deposition\nof Donald Trump. Edwards possessed a legitimate basis for doing so: (a) The message pads\nconfiscated from Epstein’s home indicated that Trump called Epstein’s West Palm Beach\nmansion on several occasions during the time period most relevant to my Edwards’s clients’\ncomplaints; (b) Trump was quoted in a Vanity Fair article about Epstein as saying \"I've known\nJeff for fifteen years. Terrific guy,\" \"He's a lot of fun to be with. It is even said that he likes\nbeautiful women as much as I do, and many of them are on the younger side. No doubt about it --\n\n28\n\nHOUSE_OVERSIGHT_010593",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "politicians, academicians, businessmen, and/or other professional and personal acquaintances” –\ncategories Clinton and acquaintances of Clinton fall into. The flight logs showed Clinton\ntraveling on Epstein’s plane on numerous occasions between 2002 and 2005. See Flight logs\nattached hereto as Exhibit “MM.” Clinton traveled on many of those flights with Ghislaine\nMaxwell, Sarah Kellen, and Adriana Mucinska, - all employees and/or co-conspirators of\nEpstein’s that were closely connected to Epstein’s child exploitation and sexual abuse. The\ndocuments clearly show that Clinton frequently flew with Epstein aboard his plane, then\nsuddenly stopped - raising the suspicion that the friendship abruptly ended, perhaps because of\nevents related to Epstein’s sexual abuse of children. Epstein’s personal phone directory from his\ncomputer contains e-mail addresses for Clinton along with 21 phone numbers for him, including\nthose for his assistant (Doug Band), his schedulers, and what appear to be Clinton’s personal\nnumbers. This information certainly leads one to believe that Clinton might well be a source of\nrelevant information and efforts to obtain discovery from him were reasonably calculated to lead\nto admissible evidence. See Exhibits “B”, “F” “AA”, “DD”, and “MM” and Edwards Affidavit,\nExhibit “N” at ¶15.\n\n71.     Bradley J. Edwards, Esq., provided notice that he intended to take the deposition\nof Donald Trump. Edwards possessed a legitimate basis for doing so: (a) The message pads\nconfiscated from Epstein’s home indicated that Trump called Epstein’s West Palm Beach\nmansion on several occasions during the time period most relevant to my Edwards’s clients’\ncomplaints; (b) Trump was quoted in a Vanity Fair article about Epstein as saying \"I've known\nJeff for fifteen years. Terrific guy,\" \"He's a lot of fun to be with. It is even said that he likes\nbeautiful women as much as I do, and many of them are on the younger side. No doubt about it --",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "28",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010593",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2002",
+      "2005"
+    ],
+    "people": [
+      "Clinton",
+      "Epstein",
+      "Ghislaine Maxwell",
+      "Sarah Kellen",
+      "Adriana Mucinska",
+      "Doug Band",
+      "Bradley J. Edwards",
+      "Donald Trump",
+      "Jeff"
+    ],
+    "organizations": [
+      "Vanity Fair"
+    ],
+    "locations": [
+      "West Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010593",
+      "Exhibit “MM”",
+      "Exhibit “B”",
+      "Exhibit “F”",
+      "Exhibit “AA”",
+      "Exhibit “DD”",
+      "Exhibit “N”"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Connections of Clinton and Trump to Jeffrey Epstein",
+    "date": null,
+    "references": [
+      "Exhibit “MM”",
+      "Exhibit “B”",
+      "Exhibit “F”",
+      "Exhibit “AA”",
+      "Exhibit “DD”",
+      "Exhibit “N”",
+      "Edwards Affidavit",
+      "Vanity Fair article"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a legal filing or investigative report, given the numbered paragraphs and references to exhibits and affidavits. The name 'Clinton' likely refers to former U.S. President Bill Clinton, although this is not explicitly stated. 'Jeff' is inferred to be Jeffrey Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010593.jpg",
+  "house_oversight_id": "010593",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:36:33.227182Z",
+    "model": "gemini-2.5-pro"
+  }
+}

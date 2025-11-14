@@ -478,16 +478,24 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
     
     print("Pushed successfully!")
     
-    # Update README with latest commit time
+    # Update README with latest commit time and summary
     try:
         import subprocess
+        # Update timestamp
         readme_updater = base_dir / "BATCH7" / "update_readme_status.py"
         if not readme_updater.exists():
             readme_updater = base_dir / "update_readme_status.py"
         if readme_updater.exists():
             subprocess.run([sys.executable, str(readme_updater)], cwd=base_dir, check=False)
+        
+        # Update summary from JSON files
+        summary_generator = base_dir / "BATCH7" / "generate_readme_summary.py"
+        if not summary_generator.exists():
+            summary_generator = base_dir / "generate_readme_summary.py"
+        if summary_generator.exists():
+            subprocess.run([sys.executable, str(summary_generator)], cwd=base_dir, check=False)
     except Exception as e:
-        print(f"Note: Could not update README status: {e}")
+        print(f"Note: Could not update README: {e}")
     
     return True
 

@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010598.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a typed document, likely a legal filing or report. The text is organized into numbered paragraphs and a bulleted list. A page number is centered at the bottom, and a document identifier is in the bottom right corner.",
+    "layout": "Single column of text with standard margins. Paragraphs are numbered. A page number is at the bottom center, and a document ID is at the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Edwards anticipated that Epstein would argue that Jane Doe's proof of the federal nexus was\ninadequate. These fears were realized when Epstein filed a summary judgment motion raising\nthis argument. In response, the other attorneys and Edwards representing Jane Doe used the\nflight log evidence to respond to Epstein's summary judgment motion, explaining that the flight\nlogs demonstrated that Epstein had traveled in interstate commerce for the purpose of facilitating\nhis sexual assaults. Because Epstein chose to settle the case before trial, Judge Marra did not\nrule on the summary judgment motion.\n\n79. Edwards had further reason to believe and did in fact believe that the pilot and\nflight logs might contain relevant evidence for the cases against Epstein. Jane Doe No. 102's\ncomplaint outlined Epstein's daily sexual exploitation and abuse of underage minors as young as\n12 years old and alleged that Epstein's plane was used to transport underage females to be\nsexually abused by him and his friends. The flight logs accordingly were a potential source of\ninformation about either additional girls who were victims of Epstein's abuse or friends of\nEpstein who may have witnessed or even participated in the abuse. Based on this\ninformation, Edwards reasonably pursued the flight logs in discovery.\n\n80. In the fall of 2009, Epstein gave a recorded interview to George Rush, a reporter\nwith the New York Daily News about pending legal proceedings. In that interview, Epstein\ndemonstrated an utter lack of remorse for his crimes (but indirectly admitted his crimes) by\nstating:\n\n    • People do not like it when people make good and that was one reason he (Epstein)\n      was being targeted by civil suits filed by young girls in Florida;\n\n    • He (Epstein) had done nothing wrong;\n\n33\n\nHOUSE_OVERSIGHT_010598",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Edwards anticipated that Epstein would argue that Jane Doe's proof of the federal nexus was\ninadequate. These fears were realized when Epstein filed a summary judgment motion raising\nthis argument. In response, the other attorneys and Edwards representing Jane Doe used the\nflight log evidence to respond to Epstein's summary judgment motion, explaining that the flight\nlogs demonstrated that Epstein had traveled in interstate commerce for the purpose of facilitating\nhis sexual assaults. Because Epstein chose to settle the case before trial, Judge Marra did not\nrule on the summary judgment motion.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "79. Edwards had further reason to believe and did in fact believe that the pilot and\nflight logs might contain relevant evidence for the cases against Epstein. Jane Doe No. 102's\ncomplaint outlined Epstein's daily sexual exploitation and abuse of underage minors as young as\n12 years old and alleged that Epstein's plane was used to transport underage females to be\nsexually abused by him and his friends. The flight logs accordingly were a potential source of\ninformation about either additional girls who were victims of Epstein's abuse or friends of\nEpstein who may have witnessed or even participated in the abuse. Based on this\ninformation, Edwards reasonably pursued the flight logs in discovery.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "80. In the fall of 2009, Epstein gave a recorded interview to George Rush, a reporter\nwith the New York Daily News about pending legal proceedings. In that interview, Epstein\ndemonstrated an utter lack of remorse for his crimes (but indirectly admitted his crimes) by\nstating:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "• People do not like it when people make good and that was one reason he (Epstein)\n  was being targeted by civil suits filed by young girls in Florida;\n\n• He (Epstein) had done nothing wrong;",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "33",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010598",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-fall"
+    ],
+    "people": [
+      "Edwards",
+      "Epstein",
+      "Jane Doe",
+      "Judge Marra",
+      "Jane Doe No. 102",
+      "George Rush"
+    ],
+    "organizations": [
+      "New York Daily News"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010598"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010598"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings involving Epstein, focusing on the use of flight logs as evidence and an interview given by Epstein.",
+    "date": null,
+    "references": [
+      "Jane Doe No. 102's complaint"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be part of a larger legal filing or report, detailing the history and justification for certain legal actions in a case against Epstein.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010598.jpg",
+  "house_oversight_id": "010598",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:38:35.731091Z",
+    "model": "gemini-2.5-pro"
+  }
+}
