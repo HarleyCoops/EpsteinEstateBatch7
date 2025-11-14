@@ -1,0 +1,176 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010617.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image is a completed United States Office of Government Ethics (OGE) Form 278e, an Executive Branch Personnel Public Financial Disclosure Report. The form is filled out for Donald J. Trump, identifying his position as President of the United States of America. It includes typed information for the filer's details and handwritten signatures and dates for certification and review sections. A document identifier, 'HOUSE_OVERSIGHT_010617', is visible at the bottom right corner.",
+    "layout": "The document follows a standard government form structure. It has a header with the form title and issuing agency, a main body for filer information, and several sections at the bottom for certifications and reviews, each with designated spaces for signatures and dates.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nU.S. Office of Government Ethics; 5 C.F.R. part 2634 | Form Approved: OMB No. (3209-0001)\nReport Type:\nYear (Annual Report only):\nDate of Appointment/Termination: January 20, 2017\n\nUNITED STATES OFFICE OF\nGOVERNMENT ETHICS\n★\nPreventing Conflicts of Interest\nin the Executive Branch\n\nExecutive Branch Personnel Public Financial Disclosure Report (OGE Form 278e)\n\nFiler's Information\nLast Name\nTrump\nFirst Name\nDonald\nMI\nJ\nPosition\nPresident of the United States of America\nAgency\n\nOther Federal Government Positions Held During the Preceding 12 Months:\nN/A\n\nName of Congressional Committee Considering Nomination (Nominees only):\nN/A\n\nFiler's Certification - I certify that the statements I have made in this report are true, complete and correct to the best of my knowledge:\nSignature:\n[Signature]\nDate:\nJUNE 14/2017\n\nAgency Ethics Official's Opinion – On the basis of information contained in this report, I conclude that the filer is in compliance with applicable laws and regulations (subject to any comments below)\nSignature:\nStefan C Passantino\nDate:\nJune 14, 2017\n\nOther Review Conducted By:\nSignature:\nDate:\n\nU.S. Office of Government Ethics Certification (if required):\nSignature:\nWalter M. Shaub, Jr.\nDate:\n6/16/17\n\nComments of Reviewing Officials:\n\nHOUSE_OVERSIGHT_010617",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nU.S. Office of Government Ethics; 5 C.F.R. part 2634 | Form Approved: OMB No. (3209-0001)",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "UNITED STATES OFFICE OF\nGOVERNMENT ETHICS\n★\nPreventing Conflicts of Interest\nin the Executive Branch",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Report Type:\nYear (Annual Report only):\nDate of Appointment/Termination:",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "January 20, 2017",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Executive Branch Personnel Public Financial Disclosure Report (OGE Form 278e)",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Filer's Information\nLast Name\nFirst Name\nMI\nPosition\nAgency",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Trump\nDonald\nJ\nPresident of the United States of America",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Other Federal Government Positions Held During the Preceding 12 Months:\nN/A",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "Name of Congressional Committee Considering Nomination (Nominees only):\nN/A",
+        "type": "typed"
+      },
+      {
+        "region": "certification_section",
+        "text": "Filer's Certification - I certify that the statements I have made in this report are true, complete and correct to the best of my knowledge:\nSignature:\nDate:",
+        "type": "printed"
+      },
+      {
+        "region": "certification_section",
+        "text": "[Signature]",
+        "type": "handwritten"
+      },
+      {
+        "region": "certification_section",
+        "text": "JUNE 14/2017",
+        "type": "handwritten"
+      },
+      {
+        "region": "certification_section",
+        "text": "Agency Ethics Official's Opinion – On the basis of information contained in this report, I conclude that the filer is in compliance with applicable laws and regulations (subject to any comments below)\nSignature:\nDate:",
+        "type": "printed"
+      },
+      {
+        "region": "certification_section",
+        "text": "Stefan C Passantino",
+        "type": "handwritten"
+      },
+      {
+        "region": "certification_section",
+        "text": "June 14, 2017",
+        "type": "handwritten"
+      },
+      {
+        "region": "certification_section",
+        "text": "Other Review Conducted By:\nSignature:\nDate:",
+        "type": "printed"
+      },
+      {
+        "region": "certification_section",
+        "text": "U.S. Office of Government Ethics Certification (if required):\nSignature:\nDate:",
+        "type": "printed"
+      },
+      {
+        "region": "certification_section",
+        "text": "Walter M. Shaub, Jr.",
+        "type": "handwritten"
+      },
+      {
+        "region": "certification_section",
+        "text": "6/16/17",
+        "type": "handwritten"
+      },
+      {
+        "region": "body",
+        "text": "Comments of Reviewing Officials:",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010617",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2017-01-20",
+      "2017-06-14",
+      "2017-06-16"
+    ],
+    "people": [
+      "Donald J Trump",
+      "Stefan C Passantino",
+      "Walter M. Shaub, Jr."
+    ],
+    "organizations": [
+      "U.S. Office of Government Ethics",
+      "United States Office of Government Ethics"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "OGE Form 278e",
+      "OMB No. (3209-0001)",
+      "HOUSE_OVERSIGHT_010617"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [
+      "Illegible signature for Filer's Certification",
+      "Stefan C Passantino",
+      "Walter M. Shaub, Jr."
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": "Donald J Trump",
+    "recipient": "U.S. Office of Government Ethics",
+    "subject": "Executive Branch Personnel Public Financial Disclosure Report",
+    "date": "2017-06-14",
+    "references": [
+      "HOUSE_OVERSIGHT_010617"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The filer's signature is heavily stylized and illegible. The names of the reviewing officials have been transcribed based on the visible handwriting.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010617.jpg",
+  "house_oversight_id": "010617",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:47:55.080911Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,180 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010618.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document titled 'OGE Form 278e', Part 1, listing positions held by Donald J. Trump outside the United States Government. The document is a table detailing the organization name, location, type, position held, and the start and end dates of the position.",
+    "layout": "The document has a header with form information and the filer's name. The main body is a table with seven columns: '#', 'Organization Name', 'City/State', 'Organization Type', 'Position Held', 'From', and 'To'. A footer contains a note about numerical gaps and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n2 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n1\n4 Shadow Tree Lane LLC\nNew York, NY\nLLC\nPresident\n09/26/12\n1/19/2017\n2\n4 Shadow Tree Lane Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/26/12\n1/19/2017\n3\n40 Wall Development Associates LLC\nNew York, NY\nLLC\nMember & President\n4/11/95 & 8/11/03\n1/19/2017\n4\n40 Wall Street Commercial LLC\nNew York, NY\nLLC\nPresident\n08/27/09\n1/19/2017\n5\n40 Wall Street LLC\nNew York, NY\nLLC\nPresident\n04/23/98\n1/19/2017\n6\n40 Wall Street Member Corp\nNew York, NY\nCorporation\nPresident/Director\n04/29/98\n1/19/2017\n7\n3126 Corporation\nNew York, NY\nCorporation\nPresident/Director\n06/01/99\n1/19/2017\n8\n401 Mezz Venture LLC\nNew York, NY\nLLC\nPresident\n10/01/04\n1/19/2017\n9\n401 North Wabash Venture LLC\nNew York, NY\nLLC\nMember & President\n5/22/02 & 10/1/04\n1/19/2017\n12\n809 North Canon LLC\nNew York, NY\nLLC\nPresident\n12/13/06\n1/19/2017\n13\n809 North Canon Member Corporation\nNew York, NY\nCorporation\nPresident/Director\n12/13/06\n1/19/2017\n14\n81 Pine Note Holder Inc\nNew York, NY\nCorporation\nPresident/Director/Secretary\n06/30/99\n1/19/2017\n15\nAviation Payroll Company\nNew York, NY\nCorporation\nPresident/Chairman\n08/09/12\n1/19/2017\n16\nB Plaza Realty Corp.\nNew York, NY\nCorporation\nDirector/President\n07/14/81\n11/10/2016\n17\nBedford Hills Corp\nNew York, NY\nCorporation\nDirector & President/Treasurer/Secretary\n8/3/1995 & 4/16/96\n1/19/2017\n18\nBriar Hall Operations LLC\nNew York, NY\nLLC\nMember\n01/09/97\n1/19/2017\n19\nBriarcliff Properties, Inc.\nNew York, NY\nCorporation\nDirector & President/Treasurer/Secretary\n1/17/1996 & 4/16/96\n1/19/2017\n20\nCaribusiness MRE LLC\nNew York, NY\nLLC\nMember\n03/13/13\n1/19/2017\n21\nCaribusiness RE Corp, The\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/12/15\n1/19/2017\n22\nChelsea Hall LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n23\nChicago Unit Acquisition LLC\nNew York, NY\nLLC\nMember/President\n12/15/05\n1/19/2017\n24\nChina Trademark LLC\nNew York, NY\nLLC\nMember/President\n06/17/08\n1/19/2017\n25\nCoronet Hall Inc.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n26\nDevelopment Member Inc.\nNew York, NY\nCorporation\nPresident/Secretary & Director\n10/24/1996 & 11/4/96\n1/19/2017\n27\nD B Pace Acquisition, LLC\nSouth Carolina\nLLC\nMember/President\n11/12/14\n1/19/2017\n28\nD B Pace Acquisition Member Corp\nNew York, NY\nCorporation\nChairman/President/Director\n11/07/14\n1/19/2017\n29\nDJT Aerospace LLC\nAtlantic City, NJ\nLLC\nMember/President\n06/02/10\n1/19/2017\n30\nDJT Aerospace (Bermuda) Limited\nBermuda\nForeign Corporation\nPresident/Director\n03/09/94\n1/19/2017\n31\nDJT Entrepreneur Managing Member LLC (f/k/a DJT University Managing Member LLC)\nNew York, NY\nLLC\nMember & President\n10/25/04\n1/19/2017\n32\nDJT Entrepreneur Member LLC (f/k/a DJT University Member LLC)\nNew York, NY\nLLC\nMember & President\n10/25/04\n1/19/2017\n33\nDJT Holdings LLC\nNew York, NY\nLLC\nMember & President\n11/29/2010 & 12/2/2010\n1/19/2017\n34\nDJT Holdings Managing Member LLC\nNew York, NY\nLLC\nMember & President\n12/02/10\n1/19/2017\n35\nDJT Land Holdings Member Corp\nNew York, NY\nCorporation\nPresident /Director\n01/16/12\n1/19/2017\n36\nDJT Operations I LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/15/10\n1/19/2017\n37\nDJT Operations II LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/15/10\n1/19/2017\n38\nDJT Operations CX LLC\nWaterbury, CT\nLLC\nMember/President\n09/12/12\n1/19/2017\n39\nDSN Licensing LLC (fka Trump Marks Network LLC)\nNew York, NY\nLLC\nMember/President\n02/26/09\n11/9/2016\n40\nDSN Licensing Member Corp (fka Trump Marks Network Member Inc)\nNew York, NY\nCorporation\nDirector/Chairman & President\n2/14/2009 & 2/26/09\n11/9/2016\n41\nDT APP Warrant Holding LLC\nNew York, NY\nLLC\nMember/President\n03/02/12\n1/19/2017\n42\nDT APP Warrant Holding Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/02/12\n1/19/2017\n43\nDT Connect II LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/31/14\n1/19/2017\n44\nDT Connect II Member Corp\nPalm Beach, Florida\nCorporation\nDirector/Chairman/President\n07/31/14\n1/19/2017\n45\nDT Connect LLC\nPalm Beach, Florida\nLLC\nMember/President\n02/27/12\n10/26/2015\n46\nDT Connect Managing Member Corp\nPalm Beach, Florida\nCorporation\nDirector/Chairman/President\n02/27/12\n10/22/2015\n47\nDT Dubai Golf Manager LLC\nNew York, NY\nLLC\nMember/President\n03/20/13\n1/19/2017\n48\nDT Dubai Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/20/13\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010618",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "Page Number\n2 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n1\n4 Shadow Tree Lane LLC\nNew York, NY\nLLC\nPresident\n09/26/12\n1/19/2017\n2\n4 Shadow Tree Lane Member Corp\nNew York, NY\nCorporation\nPresident/Director/Chairman\n09/26/12\n1/19/2017\n3\n40 Wall Development Associates LLC\nNew York, NY\nLLC\nMember & President\n4/11/95 & 8/11/03\n1/19/2017\n4\n40 Wall Street Commercial LLC\nNew York, NY\nLLC\nPresident\n08/27/09\n1/19/2017\n5\n40 Wall Street LLC\nNew York, NY\nLLC\nPresident\n04/23/98\n1/19/2017\n6\n40 Wall Street Member Corp\nNew York, NY\nCorporation\nPresident/Director\n04/29/98\n1/19/2017\n7\n3126 Corporation\nNew York, NY\nCorporation\nPresident/Director\n06/01/99\n1/19/2017\n8\n401 Mezz Venture LLC\nNew York, NY\nLLC\nPresident\n10/01/04\n1/19/2017\n9\n401 North Wabash Venture LLC\nNew York, NY\nLLC\nMember & President\n5/22/02 & 10/1/04\n1/19/2017\n12\n809 North Canon LLC\nNew York, NY\nLLC\nPresident\n12/13/06\n1/19/2017\n13\n809 North Canon Member Corporation\nNew York, NY\nCorporation\nPresident/Director\n12/13/06\n1/19/2017\n14\n81 Pine Note Holder Inc\nNew York, NY\nCorporation\nPresident/Director/Secretary\n06/30/99\n1/19/2017\n15\nAviation Payroll Company\nNew York, NY\nCorporation\nPresident/Chairman\n08/09/12\n1/19/2017\n16\nB Plaza Realty Corp.\nNew York, NY\nCorporation\nDirector/President\n07/14/81\n11/10/2016\n17\nBedford Hills Corp\nNew York, NY\nCorporation\nDirector & President/Treasurer/Secretary\n8/3/1995 & 4/16/96\n1/19/2017\n18\nBriar Hall Operations LLC\nNew York, NY\nLLC\nMember\n01/09/97\n1/19/2017\n19\nBriarcliff Properties, Inc.\nNew York, NY\nCorporation\nDirector & President/Treasurer/Secretary\n1/17/1996 & 4/16/96\n1/19/2017\n20\nCaribusiness MRE LLC\nNew York, NY\nLLC\nMember\n03/13/13\n1/19/2017\n21\nCaribusiness RE Corp, The\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/12/15\n1/19/2017\n22\nChelsea Hall LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n23\nChicago Unit Acquisition LLC\nNew York, NY\nLLC\nMember/President\n12/15/05\n1/19/2017\n24\nChina Trademark LLC\nNew York, NY\nLLC\nMember/President\n06/17/08\n1/19/2017\n25\nCoronet Hall Inc.\nNew York, NY\nCorporation\nDirector/Vice President\n08/01/69\n1/19/2017\n26\nDevelopment Member Inc.\nNew York, NY\nCorporation\nPresident/Secretary & Director\n10/24/1996 & 11/4/96\n1/19/2017\n27\nD B Pace Acquisition, LLC\nSouth Carolina\nLLC\nMember/President\n11/12/14\n1/19/2017\n28\nD B Pace Acquisition Member Corp\nNew York, NY\nCorporation\nChairman/President/Director\n11/07/14\n1/19/2017\n29\nDJT Aerospace LLC\nAtlantic City, NJ\nLLC\nMember/President\n06/02/10\n1/19/2017\n30\nDJT Aerospace (Bermuda) Limited\nBermuda\nForeign Corporation\nPresident/Director\n03/09/94\n1/19/2017\n31\nDJT Entrepreneur Managing Member LLC (f/k/a DJT University Managing Member LLC)\nNew York, NY\nLLC\nMember & President\n10/25/04\n1/19/2017\n32\nDJT Entrepreneur Member LLC (f/k/a DJT University Member LLC)\nNew York, NY\nLLC\nMember & President\n10/25/04\n1/19/2017\n33\nDJT Holdings LLC\nNew York, NY\nLLC\nMember & President\n11/29/2010 & 12/2/2010\n1/19/2017\n34\nDJT Holdings Managing Member LLC\nNew York, NY\nLLC\nMember & President\n12/02/10\n1/19/2017\n35\nDJT Land Holdings Member Corp\nNew York, NY\nCorporation\nPresident /Director\n01/16/12\n1/19/2017\n36\nDJT Operations I LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/15/10\n1/19/2017\n37\nDJT Operations II LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/15/10\n1/19/2017\n38\nDJT Operations CX LLC\nWaterbury, CT\nLLC\nMember/President\n09/12/12\n1/19/2017\n39\nDSN Licensing LLC (fka Trump Marks Network LLC)\nNew York, NY\nLLC\nMember/President\n02/26/09\n11/9/2016\n40\nDSN Licensing Member Corp (fka Trump Marks Network Member Inc)\nNew York, NY\nCorporation\nDirector/Chairman & President\n2/14/2009 & 2/26/09\n11/9/2016\n41\nDT APP Warrant Holding LLC\nNew York, NY\nLLC\nMember/President\n03/02/12\n1/19/2017\n42\nDT APP Warrant Holding Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/02/12\n1/19/2017\n43\nDT Connect II LLC\nPalm Beach, Florida\nLLC\nMember/President\n07/31/14\n1/19/2017\n44\nDT Connect II Member Corp\nPalm Beach, Florida\nCorporation\nDirector/Chairman/President\n07/31/14\n1/19/2017\n45\nDT Connect LLC\nPalm Beach, Florida\nLLC\nMember/President\n02/27/12\n10/26/2015\n46\nDT Connect Managing Member Corp\nPalm Beach, Florida\nCorporation\nDirector/Chairman/President\n02/27/12\n10/22/2015\n47\nDT Dubai Golf Manager LLC\nNew York, NY\nLLC\nMember/President\n03/20/13\n1/19/2017\n48\nDT Dubai Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/20/13\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010618",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03-01",
+      "2012-09-26",
+      "2017-01-19",
+      "1995-04-11",
+      "2003-08-11",
+      "2009-08-27",
+      "1998-04-23",
+      "1998-04-29",
+      "1999-06-01",
+      "2004-10-01",
+      "2002-05-22",
+      "2006-12-13",
+      "1999-06-30",
+      "2012-08-09",
+      "1981-07-14",
+      "2016-11-10",
+      "1995-08-03",
+      "1996-04-16",
+      "1997-01-09",
+      "1996-01-17",
+      "2013-03-13",
+      "2015-03-12",
+      "1995-11-22",
+      "2005-12-15",
+      "2008-06-17",
+      "1969-08-01",
+      "1996-10-24",
+      "1996-11-04",
+      "2014-11-12",
+      "2014-11-07",
+      "2010-06-02",
+      "1994-03-09",
+      "2004-10-25",
+      "2010-11-29",
+      "2010-12-02",
+      "2010-12-02",
+      "2012-01-16",
+      "2010-07-15",
+      "2012-09-12",
+      "2009-02-26",
+      "2016-11-09",
+      "2009-02-14",
+      "2012-03-02",
+      "2014-07-31",
+      "2012-02-27",
+      "2015-10-26",
+      "2015-10-22",
+      "2013-03-20"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "4 Shadow Tree Lane LLC",
+      "4 Shadow Tree Lane Member Corp",
+      "40 Wall Development Associates LLC",
+      "40 Wall Street Commercial LLC",
+      "40 Wall Street LLC",
+      "40 Wall Street Member Corp",
+      "3126 Corporation",
+      "401 Mezz Venture LLC",
+      "401 North Wabash Venture LLC",
+      "809 North Canon LLC",
+      "809 North Canon Member Corporation",
+      "81 Pine Note Holder Inc",
+      "Aviation Payroll Company",
+      "B Plaza Realty Corp.",
+      "Bedford Hills Corp",
+      "Briar Hall Operations LLC",
+      "Briarcliff Properties, Inc.",
+      "Caribusiness MRE LLC",
+      "Caribusiness RE Corp, The",
+      "Chelsea Hall LLC",
+      "Chicago Unit Acquisition LLC",
+      "China Trademark LLC",
+      "Coronet Hall Inc.",
+      "Development Member Inc.",
+      "D B Pace Acquisition, LLC",
+      "D B Pace Acquisition Member Corp",
+      "DJT Aerospace LLC",
+      "DJT Aerospace (Bermuda) Limited",
+      "DJT Entrepreneur Managing Member LLC (f/k/a DJT University Managing Member LLC)",
+      "DJT Entrepreneur Member LLC (f/k/a DJT University Member LLC)",
+      "DJT Holdings LLC",
+      "DJT Holdings Managing Member LLC",
+      "DJT Land Holdings Member Corp",
+      "DJT Operations I LLC",
+      "DJT Operations II LLC",
+      "DJT Operations CX LLC",
+      "DSN Licensing LLC (fka Trump Marks Network LLC)",
+      "DSN Licensing Member Corp (fka Trump Marks Network Member Inc)",
+      "DT APP Warrant Holding LLC",
+      "DT APP Warrant Holding Managing Member Corp",
+      "DT Connect II LLC",
+      "DT Connect II Member Corp",
+      "DT Connect LLC",
+      "DT Connect Managing Member Corp",
+      "DT Dubai Golf Manager LLC",
+      "DT Dubai Golf Manager Member Corp"
+    ],
+    "locations": [
+      "New York, NY",
+      "South Carolina",
+      "Atlantic City, NJ",
+      "Bermuda",
+      "Palm Beach, Florida",
+      "Waterbury, CT"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010618",
+      "OGE Form 278e"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "OGE Form 278e (March 2014)"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document lists positions held by Donald J. Trump. There are gaps in the numerical sequence of the item numbers (e.g., jumps from 9 to 12), which a note at the bottom explains is due to the removal of previously reported items. Some 'From' dates contain multiple dates separated by '&'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010618.jpg",
+  "house_oversight_id": "010618",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:48:49.906310Z",
+    "model": "gemini-2.5-pro"
+  }
+}

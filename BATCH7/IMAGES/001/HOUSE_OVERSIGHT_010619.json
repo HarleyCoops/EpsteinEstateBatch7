@@ -1,0 +1,164 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010619.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "This is an image of a completed government form titled 'OGE Form 278e'. The specific section shown is 'Part 1: Filer's Positions Held Outside United States Government' for the filer 'Donald J. Trump'. The document is a table listing various organizations, their location, type, the position held by the filer, and the dates of service. It is page 3 of 51. A footer notes that gaps in the numerical sequence are intentional. A document identifier 'HOUSE_OVERSIGHT_010619' is present at the bottom right.",
+    "layout": "The document has a header with the form title and filer's name. The main body is a table with seven columns: '#', 'Organization Name', 'City/State', 'Organization Type', 'Position Held', 'From', and 'To'. A footer contains an explanatory note and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government\nPage Number\n3 of 51\n#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n49\nDT Dubai II Golf Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n50\nDT Dubai II Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n51\nDT Home Marks International LLC\nNew York, NY\nLLC\nMember/President\n07/12/13\n1/19/2017\n52\nDT Home Marks International Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n07/12/13\n1/19/2017\n53\nDT India Venture LLC\nNew York, NY\nLLC\nMember/President\n01/09/12\n1/19/2017\n54\nDT India Venture Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/09/12\n1/19/2017\n55\nDT Marks Baku LLC\nNew York, NY\nLLC\nMember/President\n04/10/12\n1/19/2017\n56\nDT Marks Baku Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n04/10/12\n1/19/2017\n57\nDT Marks Dubai LLC\nNew York, NY\nLLC\nMember/President\n09/05/13\n1/19/2017\n58\nDT Marks Dubai Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/05/13\n1/19/2017\n59\nDT Marks Dubai II LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n60\nDT Marks Dubai II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n11/20/2015\n61\nDT Marks Gurgaon LLC\nNew York, NY\nLLC\nMember/President\n10/28/14\n1/19/2017\n62\nDT Marks Gurgaon Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n63\nDT Marks Jersey City LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n64\nDT Marks Jupiter LLC\nNew York, NY\nLLC\nMember/President\n08/29/14\n1/19/2017\n65\nDT Marks Qatar LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n66\nDT Marks Qatar Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n67\nDT Marks Products International LLC\nNew York, NY\nLLC\nMember/President\n09/13/13\n1/19/2017\n68\nDT Marks Products International Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/13/13\n1/19/2017\n69\nDT Marks Pune LLC\nNew York, NY\nLLC\nMember/President\n01/09/12\n1/19/2017\n70\nDT Marks Pune Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/09/12\n1/19/2017\n71\nDT MARKS PUNE II LLC\nNew York, NY\nLLC\nMember/President\n06/18/14\n1/19/2017\n72\nDT Marks Pune II Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/18/14\n1/19/2017\n73\nDT Marks Rio LLC\nNew York, NY\nLLC\nMember/President\n03/09/12\n1/19/2017\n74\nDT Marks Rio Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/09/12\n1/19/2017\n75\nDT Marks Vancouver LP\nNew York, NY\nPartnership\nPartner/President\n01/22/13\n1/19/2017\n76\nDT Marks Vancouver Manager Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/22/13\n1/19/2017\n77\nDT Marks Worli LLC\nNew York, NY\nLLC\nMember/President\n05/21/13\n1/19/2017\n78\nDT Marks Worli Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n05/21/13\n1/19/2017\n79\nDT Tower Gurgaon LLC\nNew York, NY\nLLC\nMember/President\n03/09/15\n1/19/2017\n80\nDT Tower Gurgaon Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/09/15\n1/19/2017\n81\nDTW Venture LLC\nNew York, NY\nLLC\nMember\n03/14/14\n1/19/2017\n82\nDTW Venture Managing Member Corp\nNew York, NY\nCorporation\nDirector/President\n03/14/14\n1/19/2017\n83\nEast 61 St Company, L.P., The\nNew York, NY\nPartnership\nPartner\n12/06/96\n1/19/2017\n84\nEID Venture I LLC\nNew York, NY\nLLC\nMember\n05/01/13\n1/19/2017\n85\nEID Venture I Corporation\nNew York, NY\nCorporation\nPresident/Director\n05/01/13\n1/19/2017\n86\nExcel Venture I LLC\nSt. Martin, French West Indies\nLLC\nPresident/Secretary/Treasurer/Member\n07/01/13\n1/19/2017\n87\nExcel Venture I Corp.\nSt. Martin, French West Indies\nCorporation\nDirector/Chairman/President\n07/01/13\n1/19/2017\n88\nFifty Seven Management Corp\nNew York, NY\nCorporation\nDirector/Chairman\n08/23/12\n1/19/2017\n89\nFifty Seventh Street Associates LLC\nNew York, NY\nLLC\nPresident\n11/30/95\n1/19/2017\n90\nFirst Member, Inc.\nNew York, NY\nCorporation\nPresident\n09/26/96\n1/19/2017\n91\nFlights, Inc. (Formerly Trump Flights, Inc.)\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n07/01/99\n1/19/2017\n92\nFlorida Properties Management LLC\nPalm Beach, Florida\nLLC\nMember\n12/17/01\n1/19/2017\n93\nFontainbleu Apartments LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n94\nGolf Productions LLC\nNew York, NY\nLLC\nMember/President\n06/16/09\n1/19/2017\nGaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.\nHOUSE_OVERSIGHT_010619",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "OGE Form 278e (March 2014)\nInstructions for Part 1\nNote: This is a public form. Do not include account numbers, street addresses, or family member names. See instructions for required information.\nFiler's Name\nDonald J. Trump\nPart 1: Filer's Positions Held Outside United States Government",
+        "type": "printed"
+      },
+      {
+        "region": "page_number",
+        "text": "Page Number\n3 of 51",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "#\nOrganization Name\nCity/State\nOrganization Type\nPosition Held\nFrom\nTo\n49\nDT Dubai II Golf Manager LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n50\nDT Dubai II Golf Manager Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n51\nDT Home Marks International LLC\nNew York, NY\nLLC\nMember/President\n07/12/13\n1/19/2017\n52\nDT Home Marks International Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n07/12/13\n1/19/2017\n53\nDT India Venture LLC\nNew York, NY\nLLC\nMember/President\n01/09/12\n1/19/2017\n54\nDT India Venture Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/09/12\n1/19/2017\n55\nDT Marks Baku LLC\nNew York, NY\nLLC\nMember/President\n04/10/12\n1/19/2017\n56\nDT Marks Baku Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n04/10/12\n1/19/2017\n57\nDT Marks Dubai LLC\nNew York, NY\nLLC\nMember/President\n09/05/13\n1/19/2017\n58\nDT Marks Dubai Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/05/13\n1/19/2017\n59\nDT Marks Dubai II LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n60\nDT Marks Dubai II Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n11/20/2015\n61\nDT Marks Gurgaon LLC\nNew York, NY\nLLC\nMember/President\n10/28/14\n1/19/2017\n62\nDT Marks Gurgaon Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n63\nDT Marks Jersey City LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n64\nDT Marks Jupiter LLC\nNew York, NY\nLLC\nMember/President\n08/29/14\n1/19/2017\n65\nDT Marks Qatar LLC\nNew York, NY\nLLC\nMember/President\n10/30/14\n1/19/2017\n66\nDT Marks Qatar Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n10/30/14\n1/19/2017\n67\nDT Marks Products International LLC\nNew York, NY\nLLC\nMember/President\n09/13/13\n1/19/2017\n68\nDT Marks Products International Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n09/13/13\n1/19/2017\n69\nDT Marks Pune LLC\nNew York, NY\nLLC\nMember/President\n01/09/12\n1/19/2017\n70\nDT Marks Pune Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/09/12\n1/19/2017\n71\nDT MARKS PUNE II LLC\nNew York, NY\nLLC\nMember/President\n06/18/14\n1/19/2017\n72\nDT Marks Pune II Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n06/18/14\n1/19/2017\n73\nDT Marks Rio LLC\nNew York, NY\nLLC\nMember/President\n03/09/12\n1/19/2017\n74\nDT Marks Rio Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/09/12\n1/19/2017\n75\nDT Marks Vancouver LP\nNew York, NY\nPartnership\nPartner/President\n01/22/13\n1/19/2017\n76\nDT Marks Vancouver Manager Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n01/22/13\n1/19/2017\n77\nDT Marks Worli LLC\nNew York, NY\nLLC\nMember/President\n05/21/13\n1/19/2017\n78\nDT Marks Worli Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n05/21/13\n1/19/2017\n79\nDT Tower Gurgaon LLC\nNew York, NY\nLLC\nMember/President\n03/09/15\n1/19/2017\n80\nDT Tower Gurgaon Managing Member Corp\nNew York, NY\nCorporation\nDirector/Chairman/President\n03/09/15\n1/19/2017\n81\nDTW Venture LLC\nNew York, NY\nLLC\nMember\n03/14/14\n1/19/2017\n82\nDTW Venture Managing Member Corp\nNew York, NY\nCorporation\nDirector/President\n03/14/14\n1/19/2017\n83\nEast 61 St Company, L.P., The\nNew York, NY\nPartnership\nPartner\n12/06/96\n1/19/2017\n84\nEID Venture I LLC\nNew York, NY\nLLC\nMember\n05/01/13\n1/19/2017\n85\nEID Venture I Corporation\nNew York, NY\nCorporation\nPresident/Director\n05/01/13\n1/19/2017\n86\nExcel Venture I LLC\nSt. Martin, French West Indies\nLLC\nPresident/Secretary/Treasurer/Member\n07/01/13\n1/19/2017\n87\nExcel Venture I Corp.\nSt. Martin, French West Indies\nCorporation\nDirector/Chairman/President\n07/01/13\n1/19/2017\n88\nFifty Seven Management Corp\nNew York, NY\nCorporation\nDirector/Chairman\n08/23/12\n1/19/2017\n89\nFifty Seventh Street Associates LLC\nNew York, NY\nLLC\nPresident\n11/30/95\n1/19/2017\n90\nFirst Member, Inc.\nNew York, NY\nCorporation\nPresident\n09/26/96\n1/19/2017\n91\nFlights, Inc. (Formerly Trump Flights, Inc.)\nNew York, NY\nCorporation\nPresident/Treasurer/Director\n07/01/99\n1/19/2017\n92\nFlorida Properties Management LLC\nPalm Beach, Florida\nLLC\nMember\n12/17/01\n1/19/2017\n93\nFontainbleu Apartments LLC\nNew York, NY\nLLC\nMember\n11/22/95\n1/19/2017\n94\nGolf Productions LLC\nNew York, NY\nLLC\nMember/President\n06/16/09\n1/19/2017",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.",
+        "type": "printed"
+      },
+      {
+        "region": "document_identifier",
+        "text": "HOUSE_OVERSIGHT_010619",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2014-03",
+      "2014-10-30",
+      "2017-01-19",
+      "2013-07-12",
+      "2012-01-09",
+      "2012-04-10",
+      "2013-09-05",
+      "2015-11-20",
+      "2014-10-28",
+      "2014-08-29",
+      "2013-09-13",
+      "2014-06-18",
+      "2012-03-09",
+      "2013-01-22",
+      "2013-05-21",
+      "2015-03-09",
+      "2014-03-14",
+      "1996-12-06",
+      "2013-05-01",
+      "2013-07-01",
+      "2012-08-23",
+      "1995-11-30",
+      "1996-09-26",
+      "1999-07-01",
+      "2001-12-17",
+      "1995-11-22",
+      "2009-06-16"
+    ],
+    "people": [
+      "Donald J. Trump"
+    ],
+    "organizations": [
+      "DT Dubai II Golf Manager LLC",
+      "DT Dubai II Golf Manager Member Corp",
+      "DT Home Marks International LLC",
+      "DT Home Marks International Member Corp",
+      "DT India Venture LLC",
+      "DT India Venture Managing Member Corp",
+      "DT Marks Baku LLC",
+      "DT Marks Baku Managing Member Corp",
+      "DT Marks Dubai LLC",
+      "DT Marks Dubai Member Corp",
+      "DT Marks Dubai II LLC",
+      "DT Marks Dubai II Member Corp",
+      "DT Marks Gurgaon LLC",
+      "DT Marks Gurgaon Managing Member Corp",
+      "DT Marks Jersey City LLC",
+      "DT Marks Jupiter LLC",
+      "DT Marks Qatar LLC",
+      "DT Marks Qatar Member Corp",
+      "DT Marks Products International LLC",
+      "DT Marks Products International Member Corp",
+      "DT Marks Pune LLC",
+      "DT Marks Pune Managing Member Corp",
+      "DT MARKS PUNE II LLC",
+      "DT Marks Pune II Managing Member Corp",
+      "DT Marks Rio LLC",
+      "DT Marks Rio Member Corp",
+      "DT Marks Vancouver LP",
+      "DT Marks Vancouver Manager Corp",
+      "DT Marks Worli LLC",
+      "DT Marks Worli Member Corp",
+      "DT Tower Gurgaon LLC",
+      "DT Tower Gurgaon Managing Member Corp",
+      "DTW Venture LLC",
+      "DTW Venture Managing Member Corp",
+      "East 61 St Company, L.P., The",
+      "EID Venture I LLC",
+      "EID Venture I Corporation",
+      "Excel Venture I LLC",
+      "Excel Venture I Corp.",
+      "Fifty Seven Management Corp",
+      "Fifty Seventh Street Associates LLC",
+      "First Member, Inc.",
+      "Flights, Inc. (Formerly Trump Flights, Inc.)",
+      "Florida Properties Management LLC",
+      "Fontainbleu Apartments LLC",
+      "Golf Productions LLC"
+    ],
+    "locations": [
+      "New York, NY",
+      "St. Martin, French West Indies",
+      "Palm Beach, Florida"
+    ],
+    "document_numbers": [
+      "OGE Form 278e",
+      "HOUSE_OVERSIGHT_010619",
+      "3 of 51"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010619"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "form",
+    "sender": null,
+    "recipient": null,
+    "subject": "Part 1: Filer's Positions Held Outside United States Government",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010619"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.99,
+    "overall": 0.99
+  },
+  "notes": "The document is a public financial disclosure form (OGE Form 278e) for Donald J. Trump. A note at the bottom explains that 'Gaps in numerical sequence are due to the removal of previously reported items no longer reportable on this part.' The 'To' date for nearly all positions is January 19, 2017, which corresponds to the day before his presidential inauguration.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010619.jpg",
+  "house_oversight_id": "010619",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:49:46.139419Z",
+    "model": "gemini-2.5-pro"
+  }
+}

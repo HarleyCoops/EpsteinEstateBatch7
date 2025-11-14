@@ -4,9 +4,13 @@
 
 **This CODEBASE is processing itself and publishing itself online.**
 
-As images are analyzed, text is extracted, and details added, the model will start calling out the most obvious crimes. The last update was **2025-11-13 17:15:55** and the model will publish an update every 5 minutes. All images, text files, and output are all publicly hosted with no changes from the original.
+As images are analyzed, text is extracted, and details added, the model will start calling out the most obvious crimes. The last update was **{LAST_GIT_COMMIT_TIME}** and the model will publish an update every 5 minutes. All images, text files, and output are all publicly hosted with no changes from the original.
 
 This will run through the night as there are literally thousands of files here.
+
+### Latest Context Update
+
+Processing files... Analysis summary will appear here as files are processed.
 
 *-Christian*
 
@@ -250,7 +254,6 @@ This enhancement maintains backward compatibility (existing JSONs remain valid) 
 ### Latest Context Update
 
 Processing files... Analysis summary will appear here as files are processed.
-
 
 ### Latest Context Update
 

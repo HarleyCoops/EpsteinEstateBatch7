@@ -1,0 +1,166 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010616.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page document titled 'Research Analysts' from Bank of America Merrill Lynch. The page is laid out in two columns and lists the names, titles, locations, phone numbers, and email addresses of various analysts. The document has a decorative blue geometric header and a footer containing a page number, document title, date, company logo, and a document identifier.",
+    "layout": "Two-column format with a main header and a footer. The left column is longer than the right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Research Analysts\nUS\nRalph Axel\nRates Strategist\nMLPF&S\n+1 646 855 6226\nralph.axel@baml.com\nShyam S.Rajan\nRates Strategist\nMLPF&S\n+1 646 855 9808\nshyam.rajan@baml.com\nJohn Shin\nFX Strategist\nMLPF&S\n+1 646 855 9342\njoong.s.shin@baml.com\nIan Gordon\nFX Strategist\nMLPF&S\n+1 646 855 8749\nian.gordon@baml.com\nVadim Iaralov\nFX Strategist\nMLPF&S\n+1 646 855 8732\nvadim.iaralov@baml.com\nEurope\nRalf Preusser, CFA\nRates Strategist\nMLI (UK)\n+44 20 7995 7331\nralf.preusser@baml.com\nRuben Segura-Cayuela\nEurope Economist\nMLI (UK)\n+44 20 7995 2102\nruben.segura-cayuela@baml.com\nMark Capleton\nRates Strategist\nMLI (UK)\n+44 20 7995 6118\nmark.capleton@baml.com\nAthanasios Vamvakidis\nFX Strategist\nMLI (UK)\n+44 20 7995 0790\nathanasios.vamvakidis@baml.com\nKamal Sharma\nFX Strategist\nMLI (UK)\n+44 20 7996 4855\nksharma32@baml.com\nMyria Kyriacou\nFX Strategist\nMLI (UK)\n+44 20 7996 1728\nmyria.kyriacou@baml.com\nRuairi Hourihane\nRates Strategist\nMLI (UK)\n+44 20 7995 9531\nruairi.hourihane@baml.com\nSebastien Cross\nRates Strategist\nMLI (UK)\n+44 20 7996 7561\nsebastien.cross@baml.com\nPac Rim\nTony Morriss\nRates Strategist\nMerrill Lynch (Australia)\n+61 2 9226 5023\ntony.morriss@baml.com\nAdarsh Sinha\nFX Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 7155\nadarsh.sinha@baml.com\nShuichi Ohsaki\nRates Strategist\nMerrill Lynch (Japan)\n+81 3 6225 7747\nshuichi.ohsaki@baml.com\nYang Chen\nRates Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 8695\nychen8@baml.com\nShusuke Yamada, CFA\nFX Strategist\nMerrill Lynch (Japan)\n+81 3 6225 8515\nshusuke.yamada@baml.com\nGlobal Emerging Markets\nClaudio Irigoyen\nLatAm FI/FX Strategy/Economist\nMLPF&S\n+1 646 855 1734\nclaudio.irigoyen@baml.com\nDavid Hauner, CFA\nEEMEA Cross Asset Strategist\nMLI (UK)\n+44 20 7996 1241\ndavid.hauner@baml.com\nClaudio Piron\nEmerging Asia FI/FX Strategist\nMerrill Lynch (Singapore)\n+65 6591 0401\nclaudio.piron@baml.com\nTrading ideas and investment strategies discussed\nherein may give rise to significant risk and are not\nsuitable for all investors. Investors should have\nexperience in FX markets and the financial resources\nto absorb any losses arising from applying these ideas\nor strategies.\n8 Liquid Insight | 22 September 2016\nBank of America\nMerrill Lynch\nHOUSE_OVERSIGHT_010616",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Research Analysts",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "US\nRalph Axel\nRates Strategist\nMLPF&S\n+1 646 855 6226\nralph.axel@baml.com\nShyam S.Rajan\nRates Strategist\nMLPF&S\n+1 646 855 9808\nshyam.rajan@baml.com\nJohn Shin\nFX Strategist\nMLPF&S\n+1 646 855 9342\njoong.s.shin@baml.com\nIan Gordon\nFX Strategist\nMLPF&S\n+1 646 855 8749\nian.gordon@baml.com\nVadim Iaralov\nFX Strategist\nMLPF&S\n+1 646 855 8732\nvadim.iaralov@baml.com\nEurope\nRalf Preusser, CFA\nRates Strategist\nMLI (UK)\n+44 20 7995 7331\nralf.preusser@baml.com\nRuben Segura-Cayuela\nEurope Economist\nMLI (UK)\n+44 20 7995 2102\nruben.segura-cayuela@baml.com\nMark Capleton\nRates Strategist\nMLI (UK)\n+44 20 7995 6118\nmark.capleton@baml.com\nAthanasios Vamvakidis\nFX Strategist\nMLI (UK)\n+44 20 7995 0790\nathanasios.vamvakidis@baml.com\nKamal Sharma\nFX Strategist\nMLI (UK)\n+44 20 7996 4855\nksharma32@baml.com\nMyria Kyriacou\nFX Strategist\nMLI (UK)\n+44 20 7996 1728\nmyria.kyriacou@baml.com\nRuairi Hourihane\nRates Strategist\nMLI (UK)\n+44 20 7995 9531\nruairi.hourihane@baml.com\nSebastien Cross\nRates Strategist\nMLI (UK)\n+44 20 7996 7561\nsebastien.cross@baml.com\nPac Rim\nTony Morriss\nRates Strategist\nMerrill Lynch (Australia)\n+61 2 9226 5023\ntony.morriss@baml.com\nAdarsh Sinha\nFX Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 7155\nadarsh.sinha@baml.com\nShuichi Ohsaki\nRates Strategist\nMerrill Lynch (Japan)\n+81 3 6225 7747\nshuichi.ohsaki@baml.com\nYang Chen\nRates Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 8695\nychen8@baml.com\nShusuke Yamada, CFA\nFX Strategist\nMerrill Lynch (Japan)\n+81 3 6225 8515\nshusuke.yamada@baml.com\nGlobal Emerging Markets\nClaudio Irigoyen\nLatAm FI/FX Strategy/Economist\nMLPF&S\n+1 646 855 1734\nclaudio.irigoyen@baml.com\nDavid Hauner, CFA\nEEMEA Cross Asset Strategist\nMLI (UK)\n+44 20 7996 1241\ndavid.hauner@baml.com\nClaudio Piron\nEmerging Asia FI/FX Strategist\nMerrill Lynch (Singapore)\n+65 6591 0401\nclaudio.piron@baml.com",
+        "type": "printed"
+      },
+      {
+        "region": "disclaimer",
+        "text": "Trading ideas and investment strategies discussed\nherein may give rise to significant risk and are not\nsuitable for all investors. Investors should have\nexperience in FX markets and the financial resources\nto absorb any losses arising from applying these ideas\nor strategies.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "8 Liquid Insight | 22 September 2016\nBank of America\nMerrill Lynch\nHOUSE_OVERSIGHT_010616",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2016-09-22"
+    ],
+    "people": [
+      "Ralph Axel",
+      "Shyam S.Rajan",
+      "John Shin",
+      "Ian Gordon",
+      "Vadim Iaralov",
+      "Ralf Preusser, CFA",
+      "Ruben Segura-Cayuela",
+      "Mark Capleton",
+      "Athanasios Vamvakidis",
+      "Kamal Sharma",
+      "Myria Kyriacou",
+      "Ruairi Hourihane",
+      "Sebastien Cross",
+      "Tony Morriss",
+      "Adarsh Sinha",
+      "Shuichi Ohsaki",
+      "Yang Chen",
+      "Shusuke Yamada, CFA",
+      "Claudio Irigoyen",
+      "David Hauner, CFA",
+      "Claudio Piron"
+    ],
+    "organizations": [
+      "Bank of America Merrill Lynch",
+      "MLPF&S",
+      "MLI (UK)",
+      "Merrill Lynch (Australia)",
+      "Merrill Lynch (Hong Kong)",
+      "Merrill Lynch (Japan)",
+      "Merrill Lynch (Singapore)"
+    ],
+    "locations": [
+      "US",
+      "Europe",
+      "UK",
+      "Pac Rim",
+      "Australia",
+      "Hong Kong",
+      "Japan",
+      "Global Emerging Markets",
+      "LatAm",
+      "EEMEA",
+      "Emerging Asia",
+      "Singapore"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010616",
+      "8"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "+1 646 855 6226",
+        "+1 646 855 9808",
+        "+1 646 855 9342",
+        "+1 646 855 8749",
+        "+1 646 855 8732",
+        "+44 20 7995 7331",
+        "+44 20 7995 2102",
+        "+44 20 7995 6118",
+        "+44 20 7995 0790",
+        "+44 20 7996 4855",
+        "+44 20 7996 1728",
+        "+44 20 7995 9531",
+        "+44 20 7996 7561",
+        "+61 2 9226 5023",
+        "+852 3508 7155",
+        "+81 3 6225 7747",
+        "+852 3508 8695",
+        "+81 3 6225 8515",
+        "+1 646 855 1734",
+        "+44 20 7996 1241",
+        "+65 6591 0401"
+      ],
+      "email_addresses": [
+        "ralph.axel@baml.com",
+        "shyam.rajan@baml.com",
+        "joong.s.shin@baml.com",
+        "ian.gordon@baml.com",
+        "vadim.iaralov@baml.com",
+        "ralf.preusser@baml.com",
+        "ruben.segura-cayuela@baml.com",
+        "mark.capleton@baml.com",
+        "athanasios.vamvakidis@baml.com",
+        "ksharma32@baml.com",
+        "myria.kyriacou@baml.com",
+        "ruairi.hourihane@baml.com",
+        "sebastien.cross@baml.com",
+        "tony.morriss@baml.com",
+        "adarsh.sinha@baml.com",
+        "shuichi.ohsaki@baml.com",
+        "ychen8@baml.com",
+        "shusuke.yamada@baml.com",
+        "claudio.irigoyen@baml.com",
+        "david.hauner@baml.com",
+        "claudio.piron@baml.com"
+      ],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010616"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "contact list",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "Research Analysts",
+    "date": "2016-09-22",
+    "references": [
+      "HOUSE_OVERSIGHT_010616"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.99,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a page from a larger report titled 'Liquid Insight'. The identifier 'HOUSE_OVERSIGHT_010616' suggests it is part of a collection of documents related to a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010616.jpg",
+  "house_oversight_id": "010616",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:47:26.453230Z",
+    "model": "gemini-2.5-pro"
+  }
+}

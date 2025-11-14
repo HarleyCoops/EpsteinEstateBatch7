@@ -174,68 +174,73 @@ def generate_summary_text(recent_files: Dict[str, List[Path]], base_dir: Path) -
 
 
 def update_readme_with_summary(base_dir: Path) -> bool:
-    """Update README.md with latest summary from JSON files."""
-    readme_path = base_dir / "README.md"
-    
-    if not readme_path.exists():
-        print(f"README.md not found at {readme_path}", file=sys.stderr)
-        return False
+    """Update README.md files with latest summary from JSON files."""
+    # Update both root README and BATCH7 README
+    readme_files = [
+        base_dir / "README.md",  # Root README (main, less technical)
+        base_dir / "BATCH7" / "README.md"  # BATCH7 README (more verbose/technical)
+    ]
     
     # Get recent JSON files
     recent_files = get_recent_json_files(base_dir, max_files=10)
     
-    # Generate summary
+    # Generate summary (same for both)
     summary_text = generate_summary_text(recent_files, base_dir)
     
-    # Read README
-    try:
-        with open(readme_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        print(f"Error reading README: {e}", file=sys.stderr)
-        return False
-    
-    # Replace the summary section (look for "### Latest Context Update")
-    import re
-    
-    # Pattern to find the summary section
-    pattern = r'(### Latest Context Update\n\n)(.*?)(\n\n---)'
-    
-    if re.search(pattern, content, re.DOTALL):
-        # Replace existing summary section
-        updated_content = re.sub(
-            pattern,
-            r'\1' + summary_text + r'\3',
-            content,
-            flags=re.DOTALL
-        )
-    elif "{LATEST_SUMMARY}" in content:
-        # Replace placeholder if it exists
-        updated_content = content.replace("{LATEST_SUMMARY}", summary_text)
-    else:
-        # If neither exists, add it after status line
-        status_section = "Status: Processing continues as long as API credits are available"
-        if status_section in content:
-            updated_content = content.replace(
-                status_section,
-                f"{status_section}\n\n### Latest Context Update\n\n{summary_text}\n"
-            )
-        else:
-            # Fallback: append to end
-            updated_content = content + f"\n\n### Latest Context Update\n\n{summary_text}\n"
-    
-    # Only write if changed
-    if updated_content != content:
+    updated_count = 0
+    for readme_path in readme_files:
+        if not readme_path.exists():
+            continue
+        
+        # Read README
         try:
-            with open(readme_path, 'w', encoding='utf-8') as f:
-                f.write(updated_content)
-            print(f"Updated README.md with latest summary")
-            return True
+            with open(readme_path, 'r', encoding='utf-8') as f:
+                content = f.read()
         except Exception as e:
-            print(f"Error writing README: {e}", file=sys.stderr)
-            return False
+            print(f"Error reading {readme_path}: {e}", file=sys.stderr)
+            continue
+        
+        # Replace the summary section (look for "### Latest Context Update")
+        import re
+        
+        # Pattern to find the summary section (more flexible - handles different endings)
+        pattern = r'(### Latest Context Update\n\n)(.*?)(\n\n(?:---|\*\s*-Christian\*|##))'
+        
+        updated_content = content
+        if re.search(pattern, content, re.DOTALL):
+            # Replace existing summary section
+            updated_content = re.sub(
+                pattern,
+                r'\1' + summary_text + r'\3',
+                content,
+                flags=re.DOTALL
+            )
+        elif "{LATEST_SUMMARY}" in content:
+            # Replace placeholder if it exists
+            updated_content = content.replace("{LATEST_SUMMARY}", summary_text)
+        else:
+            # If neither exists, try to add it after status line
+            status_section = "Status: Processing continues as long as API credits are available"
+            if status_section in content:
+                updated_content = content.replace(
+                    status_section,
+                    f"{status_section}\n\n### Latest Context Update\n\n{summary_text}\n"
+                )
+            else:
+                # Fallback: append to end
+                updated_content = content + f"\n\n### Latest Context Update\n\n{summary_text}\n"
+        
+        # Only write if changed
+        if updated_content != content:
+            try:
+                with open(readme_path, 'w', encoding='utf-8') as f:
+                    f.write(updated_content)
+                print(f"Updated {readme_path.name} with latest summary")
+                updated_count += 1
+            except Exception as e:
+                print(f"Error writing {readme_path}: {e}", file=sys.stderr)
     
-    return True
+    return updated_count > 0
 
 
 def main() -> None:

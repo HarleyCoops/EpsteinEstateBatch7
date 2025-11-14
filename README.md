@@ -13,13 +13,11 @@ As House Oversight Committee documents are analyzed, images are processed, text 
 ### Latest Context Update
 
 **Latest Image Analysis:**
-- TRUMP MENTIONS DETECTED in newly processed images
-- Key characters identified: Trump mentioned in HOUSE_OVERSIGHT_010610.json, Hillary Clinton identified in HOUSE_OVERSIGHT_010610.json, Trump mentioned in HOUSE_OVERSIGHT_010609.json
 - 10 new image analysis files processed
 
 **Latest Text Processing:**
 - TRUMP MENTIONS DETECTED in newly processed text documents
-- Key themes: Jeffrey Epstein's properties and lifestyle, Jeffrey Epstein's social network, Criminal investigation and legal proceedings against Jeffrey Epstein
+- Key themes: Jeffrey Epstein's social network, Jeffrey Epstein's properties and lifestyle, Criminal investigation and legal proceedings against Jeffrey Epstein
 - 10 new text extraction files processed
 
 
@@ -197,7 +195,7 @@ For questions about this repository or the processing pipeline, see the technica
 
 ---
 
-**Last Updated:** {LAST_GIT_COMMIT_TIME}  
+**Last Updated:** 2025-11-13 17:45:58  
 **Next Update:** Within 5 minutes  
 **Processing Status:** Active
 

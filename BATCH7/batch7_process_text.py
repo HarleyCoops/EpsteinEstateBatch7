@@ -16,11 +16,12 @@ import sys
 import json
 import argparse
 from pathlib import Path
-from typing import Dict, List, Any
+from typing import Dict, List, Any, Optional
 from dotenv import load_dotenv
 
 from google import genai
 from google.genai import types
+import traceback
 
 
 PROMPT_TEXT_EXTRACTION = """You are analyzing a text file from House Oversight Committee documentation.
@@ -162,6 +163,59 @@ def _is_extraction_error_artifact(path: Path) -> bool:
     return "_extraction_error" in stem
 
 
+def _log_extraction_error(
+    text_path: Path,
+    message: str,
+    *,
+    raw_response: str = "",
+    attempted_json: str = "",
+    extra_sections: Optional[Dict[str, str]] = None,
+) -> Path:
+    """Write a structured log file describing why extraction failed."""
+    error_file = text_path.parent / f"{text_path.stem}_extraction_error.log"
+    with open(error_file, "w", encoding="utf-8") as f:
+        f.write(message.strip() + "\n\n")
+        if extra_sections:
+            for title, content in extra_sections.items():
+                f.write("=" * 80 + "\n")
+                f.write(f"{title}\n")
+                f.write("=" * 80 + "\n")
+                f.write(content.strip() + "\n\n")
+        if raw_response:
+            f.write("=" * 80 + "\n")
+            f.write("RAW RESPONSE (first 2000 chars):\n")
+            f.write("=" * 80 + "\n")
+            f.write(raw_response[:2000] + "\n\n")
+        if attempted_json:
+            f.write("=" * 80 + "\n")
+            f.write("ATTEMPTED JSON TEXT:\n")
+            f.write("=" * 80 + "\n")
+            f.write(attempted_json[:2000] + "\n")
+    return error_file
+
+
+def _build_fallback_result(
+    text_path: Path,
+    text_content: str,
+    error_message: str,
+    *,
+    raw_preview: str = "",
+    extra_fields: Optional[Dict[str, Any]] = None,
+) -> Dict[str, Any]:
+    """Return a minimal extraction payload when the LLM response fails."""
+    fallback: Dict[str, Any] = {
+        "file_name": text_path.name,
+        "file_path": str(text_path.relative_to(text_path.parents[2])),
+        "content": {"full_text": text_content},
+        "error": error_message,
+    }
+    if raw_preview:
+        fallback["raw_response_preview"] = raw_preview
+    if extra_fields:
+        fallback.update(extra_fields)
+    return fallback
+
+
 def extract_text_content(text_path: Path, client, save_per_file: bool = True) -> Dict[str, Any]:
     """Extract and structure content from a text file.
     
@@ -196,73 +250,130 @@ def extract_text_content(text_path: Path, client, save_per_file: bool = True) ->
     )
     
     out = ""
-    for chunk in client.models.generate_content_stream(
-        model="gemini-2.5-pro",
-        contents=contents,
-        config=cfg,
-    ):
-        if chunk.text:
-            out += chunk.text
-    
-    # Parse JSON response with better error handling
-    result = None
-    json_text = out.strip()
-    
-    # Try to extract JSON from markdown code blocks if present
-    if "```json" in json_text:
-        json_start = json_text.find("```json") + 7
-        json_end = json_text.find("```", json_start)
-        if json_end > json_start:
-            json_text = json_text[json_start:json_end].strip()
-    elif "```" in json_text:
-        # Try generic code block
-        json_start = json_text.find("```") + 3
-        json_end = json_text.find("```", json_start)
-        if json_end > json_start:
-            json_text = json_text[json_start:json_end].strip()
-    
-    # Try to find JSON object boundaries if response has extra text
-    if not json_text.startswith("{"):
-        json_start = json_text.find("{")
-        if json_start >= 0:
-            json_text = json_text[json_start:]
-            # Find matching closing brace
-            brace_count = 0
-            for i, char in enumerate(json_text):
-                if char == "{":
-                    brace_count += 1
-                elif char == "}":
-                    brace_count -= 1
-                    if brace_count == 0:
-                        json_text = json_text[:i+1]
-                        break
+    blocked_reason = None
+    blocked_message = None
+    stream_exception: Optional[Exception] = None
+    stream_traceback = ""
     
     try:
-        result = json.loads(json_text)
-    except json.JSONDecodeError as e:
-        # Log the error and raw response for debugging
-        error_file = text_path.parent / f"{text_path.stem}_extraction_error.log"
-        with open(error_file, "w", encoding="utf-8") as f:
-            f.write(f"JSON Parse Error: {e}\n\n")
-            f.write("=" * 80 + "\n")
-            f.write("RAW RESPONSE (first 2000 chars):\n")
-            f.write("=" * 80 + "\n")
-            f.write(out[:2000])
-            f.write("\n\n" + "=" * 80 + "\n")
-            f.write("ATTEMPTED JSON TEXT:\n")
-            f.write("=" * 80 + "\n")
-            f.write(json_text[:2000])
+        for chunk in client.models.generate_content_stream(
+            model="gemini-2.5-pro",
+            contents=contents,
+            config=cfg,
+        ):
+            prompt_feedback = getattr(chunk, "prompt_feedback", None)
+            if prompt_feedback and prompt_feedback.block_reason:
+                block_enum = prompt_feedback.block_reason
+                blocked_reason = (
+                    block_enum.value if hasattr(block_enum, "value") else str(block_enum)
+                )
+                blocked_message = prompt_feedback.block_reason_message or ""
+                break
+            
+            if chunk.candidates:
+                candidate = chunk.candidates[0]
+                if candidate.finish_reason == types.FinishReason.SAFETY:
+                    blocked_reason = "SAFETY"
+                    blocked_message = "Model stopped early due to safety filters."
+                    break
+            
+            if chunk.text:
+                out += chunk.text
+    except Exception as exc:
+        stream_exception = exc
+        stream_traceback = traceback.format_exc()
+    
+    # Parse JSON response with better error handling
+    result: Optional[Dict[str, Any]] = None
+    
+    if blocked_reason or stream_exception:
+        if blocked_reason:
+            message = f"LLM response blocked ({blocked_reason})"
+            if blocked_message:
+                message += f": {blocked_message}"
+            error_file = _log_extraction_error(
+                text_path,
+                message,
+                extra_sections={
+                    "Note": "Gemini refused to fulfill the request due to safety filters."
+                },
+            )
+            print(f"    Warning: {message}. Error saved to {error_file.name}")
+            result = _build_fallback_result(
+                text_path,
+                text_content,
+                message,
+                extra_fields={
+                    "blocked_reason": blocked_reason,
+                    "blocked_message": blocked_message,
+                },
+            )
+        else:
+            message = f"LLM request failed: {stream_exception}"
+            error_file = _log_extraction_error(
+                text_path,
+                message,
+                extra_sections={"Traceback": stream_traceback},
+                raw_response=out,
+            )
+            print(f"    Warning: {message}. Error saved to {error_file.name}")
+            result = _build_fallback_result(
+                text_path,
+                text_content,
+                message,
+                raw_preview=out[:500],
+            )
+    else:
+        json_text = out.strip()
         
-        print(f"    Warning: Failed to parse JSON for {text_path.name}. Error saved to {error_file.name}")
+        # Try to extract JSON from markdown code blocks if present
+        if "```json" in json_text:
+            json_start = json_text.find("```json") + 7
+            json_end = json_text.find("```", json_start)
+            if json_end > json_start:
+                json_text = json_text[json_start:json_end].strip()
+        elif "```" in json_text:
+            # Try generic code block
+            json_start = json_text.find("```") + 3
+            json_end = json_text.find("```", json_start)
+            if json_end > json_start:
+                json_text = json_text[json_start:json_end].strip()
         
-        # Fallback: return basic structure with full text
-        result = {
-            "file_name": text_path.name,
-            "file_path": str(text_path.relative_to(text_path.parents[2])),
-            "content": {"full_text": text_content},
-            "error": f"Failed to parse LLM response: {str(e)}",
-            "raw_response_preview": out[:500] if len(out) > 500 else out
-        }
+        # Try to find JSON object boundaries if response has extra text
+        if not json_text.startswith("{"):
+            json_start = json_text.find("{")
+            if json_start >= 0:
+                json_text = json_text[json_start:]
+                # Find matching closing brace
+                brace_count = 0
+                for i, char in enumerate(json_text):
+                    if char == "{":
+                        brace_count += 1
+                    elif char == "}":
+                        brace_count -= 1
+                        if brace_count == 0:
+                            json_text = json_text[:i+1]
+                            break
+        
+        try:
+            result = json.loads(json_text)
+        except json.JSONDecodeError as e:
+            # Log the error and raw response for debugging
+            error_file = _log_extraction_error(
+                text_path,
+                f"JSON Parse Error: {e}",
+                raw_response=out,
+                attempted_json=json_text,
+            )
+            print(f"    Warning: Failed to parse JSON for {text_path.name}. Error saved to {error_file.name}")
+            
+            # Fallback: return basic structure with full text
+            result = _build_fallback_result(
+                text_path,
+                text_content,
+                f"Failed to parse LLM response: {str(e)}",
+                raw_preview=out[:500],
+            )
     
     if result:
         # Add required fields if not present
@@ -398,7 +509,8 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     if not api_key.startswith("AIzaSy"):
         print(f"Warning: API key format looks unusual (starts with: {api_key[:6]})", file=sys.stderr)
     
-    client = genai.Client(api_key=api_key)
+    http_options = types.HttpOptions(timeout=300)
+    client = genai.Client(api_key=api_key, http_options=http_options)
     
     # Find all text files recursively, ignoring extraction error artifacts created during retries
     all_text_files = list(text_dir.rglob("*.txt"))

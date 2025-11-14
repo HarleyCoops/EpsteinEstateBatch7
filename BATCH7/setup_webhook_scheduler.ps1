@@ -42,7 +42,14 @@ if ($ExistingTask) {
 }
 
 # Create action (run Python script)
-$Action = New-ScheduledTaskAction -Execute $PythonExe -Argument "`"$ScriptPath`" --once" -WorkingDirectory $ScriptDir
+# Use pythonw.exe if available (runs without window), otherwise use python.exe
+$PythonExeHidden = $PythonExe -replace "python\.exe$", "pythonw.exe"
+if (-not (Test-Path $PythonExeHidden)) {
+    $PythonExeHidden = $PythonExe
+    Write-Host "Note: pythonw.exe not found, using python.exe (may show window)" -ForegroundColor Yellow
+}
+
+$Action = New-ScheduledTaskAction -Execute $PythonExeHidden -Argument "`"$ScriptPath`" --once" -WorkingDirectory $ScriptDir
 
 # Create trigger (every 5 minutes)
 # Start immediately, repeat every IntervalMinutes, for 365 days
@@ -51,17 +58,22 @@ $RepetitionInterval = New-TimeSpan -Minutes $IntervalMinutes
 $RepetitionDuration = New-TimeSpan -Days 365
 $Trigger = New-ScheduledTaskTrigger -Once -At $StartTime -RepetitionInterval $RepetitionInterval -RepetitionDuration $RepetitionDuration
 
-# Create settings
-$Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable
+# Create principal (run whether user is logged on or not, highest privileges)
+$Principal = New-ScheduledTaskPrincipal -UserId "$env:USERDOMAIN\$env:USERNAME" -LogonType S4U -RunLevel Highest
+
+# Create settings (run hidden, don't stop on battery, start when available)
+$Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable -Hidden
 
 # Register the task
 try {
-    Register-ScheduledTask -TaskName $TaskName -Action $Action -Trigger $Trigger -Settings $Settings -Description "Auto-commit webhook for BATCH7 pipeline - commits changes every $IntervalMinutes minutes" | Out-Null
+    Register-ScheduledTask -TaskName $TaskName -Action $Action -Trigger $Trigger -Settings $Settings -Principal $Principal -Description "Auto-commit webhook for BATCH7 pipeline - commits changes every $IntervalMinutes minutes" | Out-Null
     Write-Host "`nScheduled task created successfully!" -ForegroundColor Green
     Write-Host "`nTask Details:" -ForegroundColor Cyan
     Write-Host "  Name: $TaskName"
     Write-Host "  Runs: Every $IntervalMinutes minutes"
-    Write-Host "  Command: $PythonExe `"$ScriptPath`" --once"
+    Write-Host "  Command: $PythonExeHidden `"$ScriptPath`" --once"
+    Write-Host "  Runs Hidden: Yes (no popup window)"
+    Write-Host "  Runs When Computer Off: No (requires computer to be on)"
     Write-Host "`nTo manage the task:" -ForegroundColor Yellow
     Write-Host "  View: Get-ScheduledTask -TaskName $TaskName"
     Write-Host "  Run now: Start-ScheduledTask -TaskName $TaskName"

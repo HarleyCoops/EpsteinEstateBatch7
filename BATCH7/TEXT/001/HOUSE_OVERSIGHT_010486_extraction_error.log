@@ -1,10 +1,7 @@
-JSON Parse Error: Expecting value: line 1 column 1 (char 0)
+LLM response blocked (PROHIBITED_CONTENT)
 
 ================================================================================
-RAW RESPONSE (first 2000 chars):
+Note
 ================================================================================
+Gemini refused to fulfill the request due to safety filters.
 
-
-================================================================================
-ATTEMPTED JSON TEXT:
-================================================================================
