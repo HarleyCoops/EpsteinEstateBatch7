@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010507.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image showing two pages side-by-side, appearing to be from a book or a bound report. The left page contains printed text from a narrative, while the right page shows a portion of what looks like a typed police report. The document has a footer with an identification number.",
+    "layout": "Two-page spread. The left page has a header, body text, and a footer with a page number. The right page has a header and body text. A document identifier is in the footer of the overall image.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nEven so, Reiter was beginning to wonder if Krischer was stacking the deck in Epstein's favor—if, thanks to the sway prosecutors have over grand juries, assembling such a jury wasn't an excellent way to let Epstein off with the lightest punishment possible.\n\nAnother unusual thing: the way Barry Krischer and the lawyers working for him ignored Chief Reiter's multiple phone calls as well as Detective Recarey's—even though the police had been hearing from Epstein's own lawyers.\n\n“[Krischer] and I had an excellent relationship,” Chief Reiter said in his deposition. “I was the speaker at his swearing-in ceremony. And that he wouldn't return my phone calls—I mean, it was clear to me by his actions that he could not objectively look at this case.”\n\nIn the incident report he ended up writing, Detective Recarey remembered a phone call that he received from Guy Fronstin, one of the lawyers representing Epstein.\n\nIt was a message Epstein wanted to send, something central to the case that demanded explanation. The whole shit show swirling around him was just a misunderstanding—a misrepresentation— of Epstein's actual interests and intentions.\n\nFronstin says Mr. Epstein is very passionate about massages, Detective Recarey would write.\n\nAnd: Mr. Epstein had donated over $100,000 to the Ballet of Florida for massages.\n\nAnd: The massages are therapeutic and spiritually sound for him. That is why he has had so many massages.\n\n166\n\nPalm Beach Police Depar\nby Detective Joseph Reca\n\nOn April 13 and April 14, 2\neral occasions with ASA [\nWeiss and ASA [Lanna] B\nvictims needed to report for\nwere left on their voicemai\nhours of 9:00 am and 11:30\nWeiss and ASA Belohlavek\ncall as I had not heard from\nthe time and date of the Gra\n\nAt approximately 12:30\nney's Office and Located AS\ntheir offices. I entered ASA\nme that she was going to re\nan offer was made to the I\n\nHOUSE_OVERSIGHT_010507",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Even so, Reiter was beginning to wonder if Krischer was stacking the deck in Epstein's favor—if, thanks to the sway prosecutors have over grand juries, assembling such a jury wasn't an excellent way to let Epstein off with the lightest punishment possible.\n\nAnother unusual thing: the way Barry Krischer and the lawyers working for him ignored Chief Reiter's multiple phone calls as well as Detective Recarey's—even though the police had been hearing from Epstein's own lawyers.\n\n“[Krischer] and I had an excellent relationship,” Chief Reiter said in his deposition. “I was the speaker at his swearing-in ceremony. And that he wouldn't return my phone calls—I mean, it was clear to me by his actions that he could not objectively look at this case.”\n\nIn the incident report he ended up writing, Detective Recarey remembered a phone call that he received from Guy Fronstin, one of the lawyers representing Epstein.\n\nIt was a message Epstein wanted to send, something central to the case that demanded explanation. The whole shit show swirling around him was just a misunderstanding—a misrepresentation— of Epstein's actual interests and intentions.\n\nFronstin says Mr. Epstein is very passionate about massages, Detective Recarey would write.\n\nAnd: Mr. Epstein had donated over $100,000 to the Ballet of Florida for massages.\n\nAnd: The massages are therapeutic and spiritually sound for him. That is why he has had so many massages.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "166",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_header",
+        "text": "Palm Beach Police Depar\nby Detective Joseph Reca",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_body",
+        "text": "On April 13 and April 14, 2\neral occasions with ASA [\nWeiss and ASA [Lanna] B\nvictims needed to report for\nwere left on their voicemai\nhours of 9:00 am and 11:30\nWeiss and ASA Belohlavek\ncall as I had not heard from\nthe time and date of the Gra\n\nAt approximately 12:30\nney's Office and Located AS\ntheir offices. I entered ASA\nme that she was going to re\nan offer was made to the I",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010507",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "April 13",
+      "April 14"
+    ],
+    "people": [
+      "James Patterson",
+      "Reiter",
+      "Krischer",
+      "Epstein",
+      "Barry Krischer",
+      "Detective Recarey",
+      "Guy Fronstin",
+      "Mr. Epstein",
+      "Detective Joseph Reca[rey]",
+      "Weiss",
+      "ASA [Lanna] B",
+      "ASA Belohlavek"
+    ],
+    "organizations": [
+      "Ballet of Florida",
+      "Palm Beach Police Depar[tment]"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010507",
+      "166"
+    ],
+    "financial_amounts": [
+      "over $100,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation and interactions related to a case involving Epstein, Krischer, and the police.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010507"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The image contains two distinct documents. The left is a page from a narrative book, likely by James Patterson. The right is a portion of a separate document, likely a police report, which is partially cut off by the edge of the page, making some text incomplete.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010507.jpg",
+  "house_oversight_id": "010507",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:02:50.945497Z",
+    "model": "gemini-2.5-pro"
+  }
+}

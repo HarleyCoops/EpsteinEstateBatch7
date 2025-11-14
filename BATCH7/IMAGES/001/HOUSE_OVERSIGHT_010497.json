@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010497.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A photograph of a single page from a book, showing two columns of printed text. The page is slightly curved at the spine, which is visible in the center. The bottom of the image includes a document identifier.",
-    "layout": "Two-column text layout. A header is present at the top of each column, a page number at the bottom of the left column, and a document identifier at the bottom right of the entire image.",
+    "description": "A black and white photograph of a single page from an open book. The page contains two columns of text. The page number is visible at the bottom center, and there are headers at the top of each column. A document identifier is stamped at the bottom right of the image.",
+    "layout": "The page is divided into two vertical columns of text. There is a header at the top of each column, a page number centered at the bottom, and a document control number in the bottom right margin.",
     "quality": "high",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "JAMES PATTERSON\n\nFILT\n\ngood life. Parties in Vegas; weekends in the Hamptons; affairs with beautiful women that end up getting splashed all over the tabloids.\n\nIt makes sense that, once upon a time, he and Epstein would have gotten along.\n\n\"As for the girls,\" Meister says, \"that was just business. He'd seat them strategically at client dinners. When he went to the movies, he'd take three or four girls with him. They'd take turns massaging his back, arms, and legs.\"\n\nAccording to Meister, Epstein used to boast that he \"liked to go into insane asylums because he liked to fuck crazy women.\"\n\n\"Who knows if it's true?\" Meister adds. \"But I'm telling you, he used to say it.\"\n\nFrom time to time, Epstein's friends and acquaintances would see sides of Epstein that he'd grown much less shy about sharing.\n\nEpstein encouraged Alan Dershowitz to invest with a prominent hedge-fund manager named Orin Kramer. Dershowitz did, and he made a lot of money at first. But in 2008, the fund Dershowitz had invested in lost a substantial amount. Afterward, according to a former associate of Epstein's, Epstein appeared in Kramer's midtown Manhattan office. There, sources say, he told Kramer: \"It's very much in your interest to make Alan Dershowitz whole.\"\n\nEpstein's intervention worked, and Dershowitz recovered his money.\n\nTo people who'd known Epstein back in the 1980s, this kind of behavior was out of character. But the thing about Epstein was that you never could figure him out. One minute he was charming.\n\nThe most charming man you'd threat, and bluster. Something numbers: this many parties, t connection to Victoria's Secret,\n\nThrow in the modeling ag you plug in the parties. The sce But the thing is, Eyes Wide Shu Epstein, getting on that plan moment in Caddyshack—the c out from his hole in the golf Epstein was like the mole in a g a matter of time before he'd be to ask yourself was, are peopl als? Or are their morals like shed (along with all the other everyday working people have Eyes Wide Shut world?\n\nTodd Meister, who was marri heiress Samantha Boardman editorial director James Truma loud:\n\n\"How does a yutz like Epste At Harry Cipriani, the ques\n\n154\n\nHOUSE_OVERSIGHT_010497",
+    "full_text": "JAMES PATTERSON\n\nFILT\n\ngood life. Parties in Vegas; weekends in the Hamptons; affairs with beautiful women that end up getting splashed all over the tabloids.\n\nIt makes sense that, once upon a time, he and Epstein would have gotten along.\n\n“As for the girls,” Meister says, “that was just business. He’d seat them strategically at client dinners. When he went to the movies, he’d take three or four girls with him. They’d take turns massaging his back, arms, and legs.”\n\nAccording to Meister, Epstein used to boast that he “liked to go into insane asylums because he liked to fuck crazy women.”\n\n“Who knows if it’s true?” Meister adds. “But I’m telling you, he used to say it.”\n\nFrom time to time, Epstein’s friends and acquaintances would see sides of Epstein that he’d grown much less shy about sharing.\n\nEpstein encouraged Alan Dershowitz to invest with a prominent hedge-fund manager named Orin Kramer. Dershowitz did, and he made a lot of money at first. But in 2008, the fund Dershowitz had invested in lost a substantial amount. Afterward, according to a former associate of Epstein’s, Epstein appeared in Kramer’s midtown Manhattan office. There, sources say, he told Kramer: “It’s very much in your interest to make Alan Dershowitz whole.”\n\nEpstein’s intervention worked, and Dershowitz recovered his money.\n\nTo people who’d known Epstein back in the 1980s, this kind of behavior was out of character. But the thing about Epstein was that you never could figure him out. One minute he was charming,\n\nThe most charming man you’d threat, and bluster. Something numbers: this many parties, t connection to Victoria’s Secret,\n\nThrow in the modeling ag you plug in the parties. The sce But the thing is, Eyes Wide Shu Epstein, getting on that plan moment in Caddyshack—the c out from his hole in the golf Epstein was like the mole in a g a matter of time before he’d be to ask yourself was, are peopl als? Or are their morals like shed (along with all the other everyday working people have Eyes Wide Shut world?\n\nTodd Meister, who was marri heiress Samantha Boardman editorial director James Truma loud:\n\n“How does a yutz like Epste At Harry Cipriani, the ques\n\n154\n\nHOUSE_OVERSIGHT_010497",
     "text_regions": [
       {
         "region": "header",
@@ -22,12 +22,12 @@
       },
       {
         "region": "body",
-        "text": "good life. Parties in Vegas; weekends in the Hamptons; affairs with beautiful women that end up getting splashed all over the tabloids.\n\nIt makes sense that, once upon a time, he and Epstein would have gotten along.\n\n\"As for the girls,\" Meister says, \"that was just business. He'd seat them strategically at client dinners. When he went to the movies, he'd take three or four girls with him. They'd take turns massaging his back, arms, and legs.\"\n\nAccording to Meister, Epstein used to boast that he \"liked to go into insane asylums because he liked to fuck crazy women.\"\n\n\"Who knows if it's true?\" Meister adds. \"But I'm telling you, he used to say it.\"\n\nFrom time to time, Epstein's friends and acquaintances would see sides of Epstein that he'd grown much less shy about sharing.\n\nEpstein encouraged Alan Dershowitz to invest with a prominent hedge-fund manager named Orin Kramer. Dershowitz did, and he made a lot of money at first. But in 2008, the fund Dershowitz had invested in lost a substantial amount. Afterward, according to a former associate of Epstein's, Epstein appeared in Kramer's midtown Manhattan office. There, sources say, he told Kramer: \"It's very much in your interest to make Alan Dershowitz whole.\"\n\nEpstein's intervention worked, and Dershowitz recovered his money.\n\nTo people who'd known Epstein back in the 1980s, this kind of behavior was out of character. But the thing about Epstein was that you never could figure him out. One minute he was charming.",
+        "text": "good life. Parties in Vegas; weekends in the Hamptons; affairs with beautiful women that end up getting splashed all over the tabloids.\n\nIt makes sense that, once upon a time, he and Epstein would have gotten along.\n\n“As for the girls,” Meister says, “that was just business. He’d seat them strategically at client dinners. When he went to the movies, he’d take three or four girls with him. They’d take turns massaging his back, arms, and legs.”\n\nAccording to Meister, Epstein used to boast that he “liked to go into insane asylums because he liked to fuck crazy women.”\n\n“Who knows if it’s true?” Meister adds. “But I’m telling you, he used to say it.”\n\nFrom time to time, Epstein’s friends and acquaintances would see sides of Epstein that he’d grown much less shy about sharing.\n\nEpstein encouraged Alan Dershowitz to invest with a prominent hedge-fund manager named Orin Kramer. Dershowitz did, and he made a lot of money at first. But in 2008, the fund Dershowitz had invested in lost a substantial amount. Afterward, according to a former associate of Epstein’s, Epstein appeared in Kramer’s midtown Manhattan office. There, sources say, he told Kramer: “It’s very much in your interest to make Alan Dershowitz whole.”\n\nEpstein’s intervention worked, and Dershowitz recovered his money.\n\nTo people who’d known Epstein back in the 1980s, this kind of behavior was out of character. But the thing about Epstein was that you never could figure him out. One minute he was charming,",
         "type": "printed"
       },
       {
         "region": "body",
-        "text": "The most charming man you'd threat, and bluster. Something numbers: this many parties, t connection to Victoria's Secret,\n\nThrow in the modeling ag you plug in the parties. The sce But the thing is, Eyes Wide Shu Epstein, getting on that plan moment in Caddyshack—the c out from his hole in the golf Epstein was like the mole in a g a matter of time before he'd be to ask yourself was, are peopl als? Or are their morals like shed (along with all the other everyday working people have Eyes Wide Shut world?\n\nTodd Meister, who was marri heiress Samantha Boardman editorial director James Truma loud:\n\n\"How does a yutz like Epste At Harry Cipriani, the ques",
+        "text": "The most charming man you’d threat, and bluster. Something numbers: this many parties, t connection to Victoria’s Secret,\n\nThrow in the modeling ag you plug in the parties. The sce But the thing is, Eyes Wide Shu Epstein, getting on that plan moment in Caddyshack—the c out from his hole in the golf Epstein was like the mole in a g a matter of time before he’d be to ask yourself was, are peopl als? Or are their morals like shed (along with all the other everyday working people have Eyes Wide Shut world?\n\nTodd Meister, who was marri heiress Samantha Boardman editorial director James Truma loud:\n\n“How does a yutz like Epste At Harry Cipriani, the ques",
         "type": "printed"
       },
       {
@@ -58,7 +58,8 @@
       "James Truma"
     ],
     "organizations": [
-      "Victoria's Secret"
+      "Victoria’s Secret",
+      "House Oversight"
     ],
     "locations": [
       "Vegas",
@@ -85,7 +86,7 @@
     "document_type": "book_page",
     "sender": null,
     "recipient": null,
-    "subject": "Account of Jeffrey Epstein's behavior, relationships, and financial dealings, including interactions with Meister and Alan Dershowitz.",
+    "subject": "Anecdotes and information about Epstein's behavior, relationships, and business dealings, including interactions with Meister, Alan Dershowitz, and Orin Kramer.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010497"
@@ -96,11 +97,11 @@
     "structured_data": 0.99,
     "overall": 0.98
   },
-  "notes": "The image is a photograph of a page from the book 'Filth' by James Patterson. The text in the right column is partially cut off at the right margin. The name 'James Truma' is likely a typo in the book for James Truman. The document identifier 'HOUSE_OVERSIGHT_010497' indicates this page was part of evidence or documentation for the House Oversight Committee.",
+  "notes": "The image is a page from a book, likely 'Filth' by James Patterson, based on the headers. The text on the right-hand side is partially cut off. The document number 'HOUSE_OVERSIGHT_010497' indicates this page was included as evidence or documentation in a House Oversight Committee investigation.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010497.jpg",
   "house_oversight_id": "010497",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:49:11.636285Z",
+    "processed_at": "2025-11-13T23:58:48.813780Z",
     "model": "gemini-2.5-pro"
   }
 }

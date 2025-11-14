@@ -2,8 +2,8 @@
   "file_name": "HOUSE_OVERSIGHT_010499.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A black and white document page that appears to be a section divider. The text 'PART IV' and 'The Investigation' is centered in the upper portion of the page. A prominent vertical scanning artifact, appearing as a dark, blurred column, runs down the left side of the page. The bottom of the page has a solid black band. A document identifier is present in the bottom right corner.",
-    "layout": "The page has a simple layout with a main title section centered vertically and horizontally in the upper half, and a footer in the bottom right. The majority of the page is blank white space.",
+    "description": "A document page that appears to be a section divider or title page. The text is centered in the upper half of the page. There is a prominent dark vertical artifact along the left side, likely from the spine of a bound document being scanned. A dark, textured horizontal band is present at the very bottom of the page.",
+    "layout": "Centered text in the upper portion of the page with a footer at the bottom right.",
     "quality": "medium",
     "orientation": "portrait"
   },
@@ -44,7 +44,7 @@
     ]
   },
   "document_metadata": {
-    "document_type": "Section Divider Page",
+    "document_type": "section_divider",
     "sender": null,
     "recipient": null,
     "subject": "PART IV The Investigation",
@@ -55,14 +55,14 @@
   },
   "confidence": {
     "text_extraction": 1.0,
-    "structured_data": 0.95,
-    "overall": 0.98
+    "structured_data": 1.0,
+    "overall": 1.0
   },
-  "notes": "The image contains significant scanning artifacts, including a dark vertical line along the left side and a black bar at the bottom, but these do not obscure any text.",
+  "notes": "The image contains significant scanning artifacts, including a dark vertical band on the left and a dark horizontal band at the bottom, which do not obscure any text.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010499.jpg",
   "house_oversight_id": "010499",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:49:58.295670Z",
+    "processed_at": "2025-11-13T23:59:32.682213Z",
     "model": "gemini-2.5-pro"
   }
 }

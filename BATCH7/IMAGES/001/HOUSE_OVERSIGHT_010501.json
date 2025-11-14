@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010501.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned image of a page from a book, likely non-fiction. The image shows page 160 on the left and a partial view of the next page on the right. The text discusses an investigation involving Jeffrey Epstein. A document control number is visible at the very bottom.",
-    "layout": "The image displays a two-page spread from a book. The left page (160) has a header, a main body of text, and a page number at the bottom. The right page has a chapter or section title and a paragraph of text with a large drop cap, but is partially cut off. The book's gutter is visible in the center. A footer with a document number is at the bottom of the entire image.",
+    "description": "A high-quality scan or photograph of two pages from an open book. The left page (160) is fully visible, while the right page is partially visible. The text discusses an investigation involving Jeffrey Epstein. A document control number is visible at the bottom right.",
+    "layout": "The image displays a two-page spread from a book. The left page contains a header, a main body of text, and a page number at the bottom. The right page has a section title and body text starting with a large drop cap 'F'. A footer with a document identifier is present at the very bottom of the image.",
     "quality": "high",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "JAMES PATTERSON\n\nthat involved a very noteworthy person and that involved a num-\nber of underage females,” Reiter would say in his deposition for\nthe suit that was later settled by Epstein. “That it was of a sexual\nnature. I was concerned that we had not reached all of the vic-\ntims, and we hadn’t, I’m sure, at this point. I told him that I felt\nlike the suspect would probably become aware of the investiga-\ntion at some point and that we should probably expect some con-\ntact from… Mr. Epstein’s lawyers. And I told him that I wanted\nto keep him very well informed on this and that I hoped that he\nwould do the same. And that we would have to have more con-\ntact in making sure it was handled responsibly, intelligently, and\nappropriately as it moved forward.”\n\nReiter would say that Epstein’s name did not seem to ring a\nbell with the state attorney. But shortly afterward, the chief\nbecame aware that in certain powerful circles his investigation\nwas being looked upon unfavorably. “I had many people-related\nconversations… on the cocktail-party circuit that suggested we\napproach this in a way that wasn’t necessary,” he would say.\n\nMichael Reiter was a good cop. A good man. But he was about\nto discover that when it came to men with the power and influ-\nence Epstein wielded, fairness under the law was a relative, mal-\nleable concept.\n\n160\n\nDetective Recarey: Feb\n\nFor months, Joe Reca\nbeen brought to Eps\nand car-rental records\naccording to a source withi\nwould identify forty-seven\non El Brillo Way.\n\nRecarey interviewed or\nDavid Rogers, as well as Eps\nHe also spoke to a woman w\nIt turned out that Epste\nactual Swedish deep-tissue n\nfor him and his friends, t\nthem.\n\nDid anything untoward\nEpstein ever asked the woma\n\nHOUSE_OVERSIGHT_010501",
+    "full_text": "JAMES PATTERSON\n\nthat involved a very noteworthy person and that involved a num-\nber of underage females,” Reiter would say in his deposition for\nthe suit that was later settled by Epstein. “That it was of a sexual\nnature. I was concerned that we had not reached all of the vic-\ntims, and we hadn’t, I’m sure, at this point. I told him that I felt\nlike the suspect would probably become aware of the investiga-\ntion at some point and that we should probably expect some con-\ntact from . . . Mr. Epstein’s lawyers. And I told him that I wanted\nto keep him very well informed on this and that I hoped that he\nwould do the same. And that we would have to have more con-\ntact in making sure it was handled responsibly, intelligently, and\nappropriately as it moved forward.”\n  Reiter would say that Epstein’s name did not seem to ring a\nbell with the state attorney. But shortly afterward, the chief\nbecame aware that in certain powerful circles his investigation\nwas being looked upon unfavorably. “I had many people-related\nconversations . . . on the cocktail-party circuit that suggested we\napproach this in a way that wasn’t necessary,” he would say.\n  Michael Reiter was a good cop. A good man. But he was about\nto discover that when it came to men with the power and influ-\nence Epstein wielded, fairness under the law was a relative, mal-\nleable concept.\n\n160\n\nDetective Recarey: Feb\n\nFor months, Joe Reca\nbeen brought to Eps\nand car-rental records\naccording to a source withi\nwould identify forty-seven\non El Brillo Way.\n  Recarey interviewed or\nDavid Rogers, as well as Eps\nHe also spoke to a woman w\nIt turned out that Epste\nactual Swedish deep-tissue m\nfor him and his friends, t\nthem.\n  Did anything untoward\nEpstein ever asked the woma\n\nHOUSE_OVERSIGHT_010501",
     "text_regions": [
       {
         "region": "header",
@@ -17,17 +17,22 @@
       },
       {
         "region": "body",
-        "text": "that involved a very noteworthy person and that involved a num-\nber of underage females,” Reiter would say in his deposition for\nthe suit that was later settled by Epstein. “That it was of a sexual\nnature. I was concerned that we had not reached all of the vic-\ntims, and we hadn’t, I’m sure, at this point. I told him that I felt\nlike the suspect would probably become aware of the investiga-\ntion at some point and that we should probably expect some con-\ntact from… Mr. Epstein’s lawyers. And I told him that I wanted\nto keep him very well informed on this and that I hoped that he\nwould do the same. And that we would have to have more con-\ntact in making sure it was handled responsibly, intelligently, and\nappropriately as it moved forward.”\n\nReiter would say that Epstein’s name did not seem to ring a\nbell with the state attorney. But shortly afterward, the chief\nbecame aware that in certain powerful circles his investigation\nwas being looked upon unfavorably. “I had many people-related\nconversations… on the cocktail-party circuit that suggested we\napproach this in a way that wasn’t necessary,” he would say.\n\nMichael Reiter was a good cop. A good man. But he was about\nto discover that when it came to men with the power and influ-\nence Epstein wielded, fairness under the law was a relative, mal-\nleable concept.",
-        "type": "printed"
-      },
-      {
-        "region": "body",
-        "text": "Detective Recarey: Feb\n\nFor months, Joe Reca\nbeen brought to Eps\nand car-rental records\naccording to a source withi\nwould identify forty-seven\non El Brillo Way.\n\nRecarey interviewed or\nDavid Rogers, as well as Eps\nHe also spoke to a woman w\nIt turned out that Epste\nactual Swedish deep-tissue n\nfor him and his friends, t\nthem.\n\nDid anything untoward\nEpstein ever asked the woma",
+        "text": "that involved a very noteworthy person and that involved a num-\nber of underage females,” Reiter would say in his deposition for\nthe suit that was later settled by Epstein. “That it was of a sexual\nnature. I was concerned that we had not reached all of the vic-\ntims, and we hadn’t, I’m sure, at this point. I told him that I felt\nlike the suspect would probably become aware of the investiga-\ntion at some point and that we should probably expect some con-\ntact from . . . Mr. Epstein’s lawyers. And I told him that I wanted\nto keep him very well informed on this and that I hoped that he\nwould do the same. And that we would have to have more con-\ntact in making sure it was handled responsibly, intelligently, and\nappropriately as it moved forward.”\n  Reiter would say that Epstein’s name did not seem to ring a\nbell with the state attorney. But shortly afterward, the chief\nbecame aware that in certain powerful circles his investigation\nwas being looked upon unfavorably. “I had many people-related\nconversations . . . on the cocktail-party circuit that suggested we\napproach this in a way that wasn’t necessary,” he would say.\n  Michael Reiter was a good cop. A good man. But he was about\nto discover that when it came to men with the power and influ-\nence Epstein wielded, fairness under the law was a relative, mal-\nleable concept.",
         "type": "printed"
       },
       {
         "region": "footer",
         "text": "160",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Detective Recarey: Feb",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "For months, Joe Reca\nbeen brought to Eps\nand car-rental records\naccording to a source withi\nwould identify forty-seven\non El Brillo Way.\n  Recarey interviewed or\nDavid Rogers, as well as Eps\nHe also spoke to a woman w\nIt turned out that Epste\nactual Swedish deep-tissue m\nfor him and his friends, t\nthem.\n  Did anything untoward\nEpstein ever asked the woma",
         "type": "printed"
       },
       {
@@ -42,16 +47,16 @@
       "February"
     ],
     "people": [
-      "JAMES PATTERSON",
+      "James Patterson",
       "Reiter",
       "Epstein",
+      "Mr. Epstein",
       "Michael Reiter",
-      "Joe Recarey",
+      "Joe Reca[rey]",
+      "Recarey",
       "David Rogers"
     ],
-    "organizations": [
-      "state attorney"
-    ],
+    "organizations": [],
     "locations": [
       "El Brillo Way"
     ],
@@ -67,14 +72,14 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "HOUSE_OVERSIGHT_010501"
+      "Document control number: HOUSE_OVERSIGHT_010501"
     ]
   },
   "document_metadata": {
-    "document_type": "Book Page",
+    "document_type": "Book excerpt",
     "sender": null,
     "recipient": null,
-    "subject": "Investigation into Jeffrey Epstein involving underage females and interactions with law enforcement.",
+    "subject": "Investigation into Jeffrey Epstein, involving individuals named Reiter and Recarey.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010501"
@@ -85,11 +90,11 @@
     "structured_data": 0.95,
     "overall": 0.97
   },
-  "notes": "The image is a page from a book, identified by the author's name 'JAMES PATTERSON' and page number '160'. The text on the right-hand page is incomplete as the page is cut off. The document number at the bottom indicates this book page was used as an exhibit or evidence for the House Oversight Committee.",
+  "notes": "The image is a scan of pages from a book, likely 'Filthy Rich' by James Patterson, which was entered into the House Oversight Committee records. The text on the right-hand page is partially cut off.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010501.jpg",
   "house_oversight_id": "010501",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:50:43.594207Z",
+    "processed_at": "2025-11-14T00:00:18.032575Z",
     "model": "gemini-2.5-pro"
   }
 }

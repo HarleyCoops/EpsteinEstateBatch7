@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010521.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned page from a book or report. The page contains printed text in a serif font, laid out in two columns. The left column is fully visible, while the right column is partially cut off. The page has a header, a page number, and a document identifier in the footer.",
+    "layout": "Two-column text layout. A header is centered at the top of the page, with a single letter in the top right margin. The main body of text is in two columns. A page number is centered in the footer, and a document identifier is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\nF\ngotten into more fights there, growing depressed and withdrawn from her sister and parents. Helplessly, her parents watched her spiral out of control. As they neared the end of their rope, they sent her out of state. But after the move, Mary had fallen apart completely. She used drugs, fell in with a bad crowd, ran away from her relatives, and shacked up with a gang of drug dealers.\nWhen the gang was busted by local police, the dealers blamed Mary for snitching and put out the word that they wanted her dead.\n“We had to move her again,” Mary’s father explained. “We finally got her into therapy—she’s still seeing the therapist. And worst of all, she developed HPV. She’s already had to have a serious operation.”\nMary’s troubles didn’t end there. On June 28, she was brought in front of the grand jury. She hadn’t been briefed by the state attorney—she hadn’t even met the prosecutors—and she had no idea what she would be asked.\nAlmost immediately, she found that she was being treated more like a criminal than like a witness or victim.\n“The prosecutor produced a printout of our daughter’s Myspace page,” Mary’s father recalls. “Mary was stunned. She began to cry. The prosecutor accused her of all sort of things; it was like she was working for Epstein.\n“All this time, we knew that we were being watched. Creepy guys. Private investigators from Miami. They would follow us, scaring the hell out of my wife and Mary’s sister. My car was vandalized. It was like living in hell.”\nBy this point, Epstein’s defense dream team included Jack Goldberger, Alan Dershowitz, and Gerald Lefcourt. All of them had excellent track records. Dershowitz and Lefcourt were two\nof America’s most famous\ncelebrity lawyer—Ken Sta\nhad had Bill Clinton impeac\nteam.\nAs far as Mary’s parents\nwalked into an ambush. Eve\nplaying defense on the side\nond girl—Alison, who cla:\nnever testified in court at al\n180\nHOUSE_OVERSIGHT_010521",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "margin",
+        "text": "F",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "gotten into more fights there, growing depressed and withdrawn from her sister and parents. Helplessly, her parents watched her spiral out of control. As they neared the end of their rope, they sent her out of state. But after the move, Mary had fallen apart completely. She used drugs, fell in with a bad crowd, ran away from her relatives, and shacked up with a gang of drug dealers.\nWhen the gang was busted by local police, the dealers blamed Mary for snitching and put out the word that they wanted her dead.\n“We had to move her again,” Mary’s father explained. “We finally got her into therapy—she’s still seeing the therapist. And worst of all, she developed HPV. She’s already had to have a serious operation.”\nMary’s troubles didn’t end there. On June 28, she was brought in front of the grand jury. She hadn’t been briefed by the state attorney—she hadn’t even met the prosecutors—and she had no idea what she would be asked.\nAlmost immediately, she found that she was being treated more like a criminal than like a witness or victim.\n“The prosecutor produced a printout of our daughter’s Myspace page,” Mary’s father recalls. “Mary was stunned. She began to cry. The prosecutor accused her of all sort of things; it was like she was working for Epstein.\n“All this time, we knew that we were being watched. Creepy guys. Private investigators from Miami. They would follow us, scaring the hell out of my wife and Mary’s sister. My car was vandalized. It was like living in hell.”\nBy this point, Epstein’s defense dream team included Jack Goldberger, Alan Dershowitz, and Gerald Lefcourt. All of them had excellent track records. Dershowitz and Lefcourt were two",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "of America’s most famous\ncelebrity lawyer—Ken Sta\nhad had Bill Clinton impeac\nteam.\nAs far as Mary’s parents\nwalked into an ambush. Eve\nplaying defense on the side\nond girl—Alison, who cla:\nnever testified in court at al",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "180",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010521",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "06-28"
+    ],
+    "people": [
+      "James Patterson",
+      "Mary",
+      "Epstein",
+      "Jack Goldberger",
+      "Alan Dershowitz",
+      "Gerald Lefcourt",
+      "Ken Sta[rr]",
+      "Bill Clinton",
+      "Alison"
+    ],
+    "organizations": [
+      "Myspace"
+    ],
+    "locations": [
+      "Miami"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010521",
+      "180"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of events involving a person named Mary, her family, legal troubles, and Jeffrey Epstein's defense team.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010521"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The document appears to be a page from a book, possibly authored by James Patterson, whose name is in the header. The text on the right side of the page is partially cut off, making some names and sentences incomplete. The document identifier 'HOUSE_OVERSIGHT_010521' suggests it is part of a collection of documents related to a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010521.jpg",
+  "house_oversight_id": "010521",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:08:46.877045Z",
+    "model": "gemini-2.5-pro"
+  }
+}

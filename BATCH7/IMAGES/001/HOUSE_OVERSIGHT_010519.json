@@ -1,0 +1,97 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010519.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white photograph of an open book, showing two pages. The left page is numbered 178 and contains a paragraph of text. The right page has a chapter or section heading and several paragraphs of text, some of which are cut off at the right margin. The image includes the curve of the pages into the book's spine. A document identifier is visible at the very bottom of the image.",
+    "layout": "Two-page spread of a book. The left page has a header and a page number at the bottom. The right page has a section title and body text with a drop cap at the beginning of the first paragraph. A footer with a document number is at the bottom of the entire image.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nbridge to his home in Palm Beach. So in a sense we failed to get the story. But the fact that Epstein would call a news program from his plane and command them to order the program's traffic helicopter away—that says something about the man's arro- gance. And maybe his temper.\"\n\n178\n\nMary: July 2006\n\nOn June 29, assistant s\nDetective Recarey th\nwould be going to a\nconvened for July 19.\nOn July 12, Recarey spok\nthat she still hadn't heard fr\ntoo, was odd, since Recarey\nupon to testify.\nShe was back in Palm Bea\nout-of-state relatives.\nAll in all, it had been a ve\n\"What has happened to\nfather would say.\nMary had been sent to a\nher it was the wrong place at\n\nHOUSE_OVERSIGHT_010519",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "bridge to his home in Palm Beach. So in a sense we failed to get the story. But the fact that Epstein would call a news program from his plane and command them to order the program's traffic helicopter away—that says something about the man's arro- gance. And maybe his temper.\"",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "178",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Mary: July 2006",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "On June 29, assistant s\nDetective Recarey th\nwould be going to a\nconvened for July 19.\nOn July 12, Recarey spok\nthat she still hadn't heard fr\ntoo, was odd, since Recarey\nupon to testify.\nShe was back in Palm Bea\nout-of-state relatives.\nAll in all, it had been a ve\n\"What has happened to\nfather would say.\nMary had been sent to a\nher it was the wrong place at",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010519",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-07",
+      "2006-06-29",
+      "2006-07-19",
+      "2006-07-12"
+    ],
+    "people": [
+      "James Patterson",
+      "Epstein",
+      "Mary",
+      "Recarey"
+    ],
+    "organizations": [],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010519",
+      "178"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "book_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Account of events involving Epstein and a person named Mary in June/July 2006.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010519"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The image is a photograph of pages from a book, likely 'Filthy Rich' by James Patterson. The text on the right-hand page is partially cut off at the margin, making some sentences incomplete.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010519.jpg",
+  "house_oversight_id": "010519",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:08:01.532009Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010502.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A high-quality photograph of a two-page spread from an open book or report. The left page is numbered 160 and the right page is 161. The text discusses an investigation related to Jeffrey Epstein. A document control number is visible at the bottom right.",
-    "layout": "Two-page spread with a header on the left page, a chapter title and subtitle on the right page, body text on both pages, and page numbers at the bottom of each page. A document identifier is in the footer area of the right page.",
+    "description": "A high-quality photograph of an open book, showing two pages (160 and 161). The text is black on a white background. The book's spine is visible in the center, and a portion of the dark, textured cover is visible at the bottom of the pages.",
+    "layout": "Two-page spread. Page 160 is on the left, and page 161 is on the right. Each page has a header or chapter title, body text, and a page number at the bottom. A document identifier is present in the bottom margin.",
     "quality": "high",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "ATTERSON\n\nperson and that involved a num-\nr would say in his deposition for\n/ Epstein. “That it was of a sexual\nve had not reached all of the vic-\nat this point. I told him that I felt\nly become aware of the investiga-\nshould probably expect some con-\ners. And I told him that I wanted\nd on this and that I hoped that he\nwe would have to have more con-\ndled responsibly, intelligently, and\nvard.”\ntein’s name did not seem to ring a\n. But shortly afterward, the chief\n› powerful circles his investigation\norably. “I had many people-related\ntail-party circuit that suggested we\nvasn’t necessary,” he would say.\nd cop. A good man. But he was about\ne to men with the power and influ-\nss under the law was a relative, mal-\n\n160\n\nCHAPTER 41\n\nDetective Recarey: February 2006\n\nFor months, Joe Recarey’s been interviewing girls who’d\nbeen brought to Epstein’s house, subpoenaing telephone\nand car-rental records, conducting surveillance. Ultimately,\naccording to a source within the Palm Beach PD, the department\nwould identify forty-seven underage girls who’d been molested\non El Brillo Way.\n\nRecarey interviewed one of Epstein’s pilots, a man named\nDavid Rogers, as well as Epstein’s houseman, Alfredo Rodriguez.\nHe also spoke to a woman who really was a massage therapist.\n\nIt turned out that Epstein paid just one hundred dollars for\nactual Swedish deep-tissue massages that the therapist provided\nfor him and his friends, the lawyer Alan Dershowitz among\nthem.\n\nDid anything untoward ever happen? Recarey asked. Had\nEpstein ever asked the woman to rub his chest?\n\n161\n\nHOUSE_OVERSIGHT_010502",
+    "full_text": "ATTERSON\n\n' person and that involved a num-\nr would say in his deposition for\n/ Epstein. “That it was of a sexual\nve had not reached all of the vic-\nat this point. I told him that I felt\nly become aware of the investiga-\nshould probably expect some con-\nvers. And I told him that I wanted\nd on this and that I hoped that he\nwe would have to have more con-\ndled responsibly, intelligently, and\nvard.”\ntein’s name did not seem to ring a\n. But shortly afterward, the chief\n› powerful circles his investigation\norably. “I had many people-related\ntail-party circuit that suggested we\nvasn’t necessary,” he would say.\nd cop. A good man. But he was about\ne to men with the power and influ-\nss under the law was a relative, mal-\n\n160\n\nCHAPTER 41\n\nDetective Recarey: February 2006\n\nFor months, Joe Recarey’s been interviewing girls who’d\nbeen brought to Epstein’s house, subpoenaing telephone\nand car-rental records, conducting surveillance. Ultimately,\naccording to a source within the Palm Beach PD, the department\nwould identify forty-seven underage girls who’d been molested\non El Brillo Way.\n\nRecarey interviewed one of Epstein’s pilots, a man named\nDavid Rogers, as well as Epstein’s houseman, Alfredo Rodriguez.\nHe also spoke to a woman who really was a massage therapist.\n\nIt turned out that Epstein paid just one hundred dollars for\nactual Swedish deep-tissue massages that the therapist provided\nfor him and his friends, the lawyer Alan Dershowitz among\nthem.\n\nDid anything untoward ever happen? Recarey asked. Had\nEpstein ever asked the woman to rub his chest?\n\n161\n\nHOUSE_OVERSIGHT_010502",
     "text_regions": [
       {
         "region": "header",
@@ -17,7 +17,7 @@
       },
       {
         "region": "body",
-        "text": "person and that involved a num-\nr would say in his deposition for\n/ Epstein. “That it was of a sexual\nve had not reached all of the vic-\nat this point. I told him that I felt\nly become aware of the investiga-\nshould probably expect some con-\ners. And I told him that I wanted\nd on this and that I hoped that he\nwe would have to have more con-\ndled responsibly, intelligently, and\nvard.”\ntein’s name did not seem to ring a\n. But shortly afterward, the chief\n› powerful circles his investigation\norably. “I had many people-related\ntail-party circuit that suggested we\nvasn’t necessary,” he would say.\nd cop. A good man. But he was about\ne to men with the power and influ-\nss under the law was a relative, mal-",
+        "text": "' person and that involved a num-\nr would say in his deposition for\n/ Epstein. “That it was of a sexual\nve had not reached all of the vic-\nat this point. I told him that I felt\nly become aware of the investiga-\nshould probably expect some con-\nvers. And I told him that I wanted\nd on this and that I hoped that he\nwe would have to have more con-\ndled responsibly, intelligently, and\nvard.”\ntein’s name did not seem to ring a\n. But shortly afterward, the chief\n› powerful circles his investigation\norably. “I had many people-related\ntail-party circuit that suggested we\nvasn’t necessary,” he would say.\nd cop. A good man. But he was about\ne to men with the power and influ-\nss under the law was a relative, mal-",
         "type": "printed"
       },
       {
@@ -57,10 +57,8 @@
       "2006-02"
     ],
     "people": [
-      "ATTERSON",
       "Epstein",
       "Joe Recarey",
-      "Recarey",
       "David Rogers",
       "Alfredo Rodriguez",
       "Alan Dershowitz"
@@ -80,20 +78,16 @@
     "contact_info": {
       "phone_numbers": [],
       "email_addresses": [],
-      "addresses": [
-        "El Brillo Way"
-      ]
+      "addresses": []
     },
     "signatures": [],
-    "stamps_or_markings": [
-      "HOUSE_OVERSIGHT_010502"
-    ]
+    "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "Book/Report Page",
+    "document_type": "book_or_report_page",
     "sender": null,
     "recipient": null,
-    "subject": "Investigation into Jeffrey Epstein, interviews conducted by Detective Joe Recarey",
+    "subject": "Investigation into Jeffrey Epstein by Detective Joe Recarey",
     "date": "2006-02",
     "references": [
       "HOUSE_OVERSIGHT_010502"
@@ -104,11 +98,11 @@
     "structured_data": 0.98,
     "overall": 0.98
   },
-  "notes": "The image is a photograph of pages from a book or a bound report, not an original document itself. The text on the left page is cut off at the beginning and end of lines, indicating it's a continuation of a previous page and continues onto the next. The document number in the footer suggests this book/report was submitted as evidence or documentation to the House Oversight Committee.",
+  "notes": "The text on the left page is cut off at the left margin, resulting in incomplete words and sentences. The footer 'HOUSE_OVERSIGHT_010502' appears to be a Bates number or document identifier, indicating this is part of a larger collection of evidence or documentation.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010502.jpg",
   "house_oversight_id": "010502",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:51:07.393262Z",
+    "processed_at": "2025-11-14T00:00:42.105907Z",
     "model": "gemini-2.5-pro"
   }
 }

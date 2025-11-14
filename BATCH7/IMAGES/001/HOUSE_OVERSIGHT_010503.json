@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010503.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned image of a page from a book or report. The page is open, showing the left page (page 162) and the inner margin of the right page. The text discusses an investigation related to Epstein, involving a detective named Recarey, witness tampering, and a private investigator. The right page begins a new section about Barry Krischer. The document has a header, a page number, and a footer with a document identifier.",
-    "layout": "The main content is on the left page, formatted in a single column of justified text. The right page shows a new section heading and the beginning of a paragraph, partially obscured by the page curl. A header is at the top left, a page number at the bottom center, and a document identifier at the bottom right.",
+    "description": "A scanned image of a page from a book. The page is divided into two main text areas. The left side contains the main body of text, while the right side appears to start a new section or chapter. The page number and a document identifier are visible at the bottom.",
+    "layout": "The main text is on the left page of an open book. A new section with a large drop cap 'S' begins on the right page. A header is at the top of the left page, a page number is at the bottom center, and a document identifier is in the bottom right corner.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "JAMES PATTERSON\n\nNo, she told him. She wasn't Epstein's type. The girls she'd\nseen at his house were very thin and beautiful and did not have\ntattoos. This massage therapist had several tattoos that were vis-\nible, and on quite a few occasions Epstein and Ghislaine Max-\nwell had made negative comments about them.\n\nAccording to a Palm Beach Police Department Incident Report\nfiled by Recarey on July 25, 2006, the detective had also heard\nfrom Mary's father, who said that a private eye had been to his\nhouse, photographing his family and chasing visitors away.\n\nMary's dad had gotten the license plate—Florida E79-4EG.\n\nRecarey traced it back to one Ivan Robles of West Palm Beach.\nRobles turned out to be a licensed private investigator.\n\nRecarey informed the state's attorney's office.\n\nAlison also contacted Recarey and told him that she'd been\napproached by someone who was in touch with Epstein. Alison\nhad been told that she'd receive money if she would refuse to\ncooperate with the police.\n\nThose who help him will be compensated, she was told,\naccording to Detective Recarey's incident report. “And those who\nhurt him will be dealt with.”\n\nRecarey reassured the girl and told her that tampering with a\nwitness in a case like this was a serious, arrestable offense.\n\nThen he told an assistant state attorney.\n\nThe detective was leaving no i undotted and no t uncrossed.\n\nBut he did wonder if the state attorney's office itself had\nbecome part of the problem.\n\n162\n\nBarry Krischer: April\n\nState attorney Barry l\nbefore taking his post\nin and around Palm\n1992 and 1996, he had run\nand 2004. During the cou\n1970 with a three-year sti\nBrooklyn, he received a nu\nfrom the Legal Aid Society\nwith the juvenile justice sy\nprotection team; the Peace\nnor Jeb Bush, for his work\ntime achievement award fi\nmember of the National D\nwas not necessarily averse\nIn 2003, he launched an in\n\nHOUSE_OVERSIGHT_010503",
+    "full_text": "JAMES PATTERSON\n\nNo, she told him. She wasn't Epstein's type. The girls she'd\nseen at his house were very thin and beautiful and did not have\ntattoos. This massage therapist had several tattoos that were vis-\nible, and on quite a few occasions Epstein and Ghislaine Max-\nwell had made negative comments about them.\nAccording to a Palm Beach Police Department Incident Report\nfiled by Recarey on July 25, 2006, the detective had also heard\nfrom Mary's father, who said that a private eye had been to his\nhouse, photographing his family and chasing visitors away.\nMary's dad had gotten the license plate—Florida E79-4EG.\nRecarey traced it back to one Ivan Robles of West Palm Beach.\nRobles turned out to be a licensed private investigator.\nRecarey informed the state's attorney's office.\nAlison also contacted Recarey and told him that she'd been\napproached by someone who was in touch with Epstein. Alison\nhad been told that she'd receive money if she would refuse to\ncooperate with the police.\nThose who help him will be compensated, she was told,\naccording to Detective Recarey's incident report. \"And those who\nhurt him will be dealt with.\"\nRecarey reassured the girl and told her that tampering with a\nwitness in a case like this was a serious, arrestable offense.\nThen he told an assistant state attorney.\nThe detective was leaving no i undotted and no t uncrossed.\nBut he did wonder if the state attorney's office itself had\nbecome part of the problem.\n\n162\n\nBarry Krischer: April\n\nState attorney Barry l\nbefore taking his post\nin and around Palm\n1992 and 1996, he had run\nand 2004. During the cou\n1970 with a three-year sti\nBrooklyn, he received a nu\nfrom the Legal Aid Society\nwith the juvenile justice sy\nprotection team; the Peace\nnor Jeb Bush, for his work\ntime achievement award fi\nmember of the National D\nwas not necessarily averse\nIn 2003, he launched an in\n\nHOUSE_OVERSIGHT_010503",
     "text_regions": [
       {
         "region": "header",
@@ -17,7 +17,7 @@
       },
       {
         "region": "body",
-        "text": "No, she told him. She wasn't Epstein's type. The girls she'd\nseen at his house were very thin and beautiful and did not have\ntattoos. This massage therapist had several tattoos that were vis-\nible, and on quite a few occasions Epstein and Ghislaine Max-\nwell had made negative comments about them.\n\nAccording to a Palm Beach Police Department Incident Report\nfiled by Recarey on July 25, 2006, the detective had also heard\nfrom Mary's father, who said that a private eye had been to his\nhouse, photographing his family and chasing visitors away.\n\nMary's dad had gotten the license plate—Florida E79-4EG.\n\nRecarey traced it back to one Ivan Robles of West Palm Beach.\nRobles turned out to be a licensed private investigator.\n\nRecarey informed the state's attorney's office.\n\nAlison also contacted Recarey and told him that she'd been\napproached by someone who was in touch with Epstein. Alison\nhad been told that she'd receive money if she would refuse to\ncooperate with the police.\n\nThose who help him will be compensated, she was told,\naccording to Detective Recarey's incident report. “And those who\nhurt him will be dealt with.”\n\nRecarey reassured the girl and told her that tampering with a\nwitness in a case like this was a serious, arrestable offense.\n\nThen he told an assistant state attorney.\n\nThe detective was leaving no i undotted and no t uncrossed.\n\nBut he did wonder if the state attorney's office itself had\nbecome part of the problem.",
+        "text": "No, she told him. She wasn't Epstein's type. The girls she'd\nseen at his house were very thin and beautiful and did not have\ntattoos. This massage therapist had several tattoos that were vis-\nible, and on quite a few occasions Epstein and Ghislaine Max-\nwell had made negative comments about them.\nAccording to a Palm Beach Police Department Incident Report\nfiled by Recarey on July 25, 2006, the detective had also heard\nfrom Mary's father, who said that a private eye had been to his\nhouse, photographing his family and chasing visitors away.\nMary's dad had gotten the license plate—Florida E79-4EG.\nRecarey traced it back to one Ivan Robles of West Palm Beach.\nRobles turned out to be a licensed private investigator.\nRecarey informed the state's attorney's office.\nAlison also contacted Recarey and told him that she'd been\napproached by someone who was in touch with Epstein. Alison\nhad been told that she'd receive money if she would refuse to\ncooperate with the police.\nThose who help him will be compensated, she was told,\naccording to Detective Recarey's incident report. \"And those who\nhurt him will be dealt with.\"\nRecarey reassured the girl and told her that tampering with a\nwitness in a case like this was a serious, arrestable offense.\nThen he told an assistant state attorney.\nThe detective was leaving no i undotted and no t uncrossed.\nBut he did wonder if the state attorney's office itself had\nbecome part of the problem.",
         "type": "printed"
       },
       {
@@ -59,19 +59,17 @@
     ],
     "organizations": [
       "Palm Beach Police Department",
-      "state's attorney's office",
       "Legal Aid Society",
       "National D[unclear]"
     ],
     "locations": [
-      "Palm Beach",
-      "Florida",
       "West Palm Beach",
+      "Florida",
+      "Palm",
       "Brooklyn"
     ],
     "document_numbers": [
       "HOUSE_OVERSIGHT_010503",
-      "162",
       "E79-4EG"
     ],
     "financial_amounts": [],
@@ -84,13 +82,12 @@
     "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "Book/Report Page",
+    "document_type": "Book Page",
     "sender": null,
     "recipient": null,
-    "subject": "Investigation involving Epstein, witness tampering, and a private investigator.",
+    "subject": "Investigation details involving Epstein, including witness tampering and surveillance.",
     "date": "2006-07-25",
     "references": [
-      "HOUSE_OVERSIGHT_010503",
       "Palm Beach Police Department Incident Report"
     ]
   },
@@ -99,11 +96,11 @@
     "structured_data": 0.9,
     "overall": 0.92
   },
-  "notes": "The image is a scan of a page from a book, likely 'Filthy Rich' by James Patterson, which is part of the House Oversight Committee's records. The text on the right-hand page is partially cut off, making some words and sentences incomplete. The document identifier 'HOUSE_OVERSIGHT_010503' is clearly visible in the footer.",
+  "notes": "The document is a page from a book, likely non-fiction, discussing events related to Jeffrey Epstein. The text on the right-hand page is partially cut off, making it difficult to read in its entirety. The document identifier 'HOUSE_OVERSIGHT_010503' suggests this book page was submitted as evidence or documentation to the House Oversight Committee.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010503.jpg",
   "house_oversight_id": "010503",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:51:34.064573Z",
+    "processed_at": "2025-11-14T00:01:07.082310Z",
     "model": "gemini-2.5-pro"
   }
 }

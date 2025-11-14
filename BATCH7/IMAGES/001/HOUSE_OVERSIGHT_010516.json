@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010516.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-contrast, black-and-white scan of a two-page spread from a book or report. The left page is numbered 174 and the right page is 175. The text discusses a legal case involving Jeffrey Epstein. The book's binding is visible in the center, causing some text curvature. A document identifier is present at the bottom right corner.",
+    "layout": "Two-page spread. The left page (174) contains a single column of text. The right page (175) features a chapter heading, a subheading, and the main body of text. Page numbers are at the bottom of each page. A document identifier is at the bottom right of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TTERSON\n\nfor it; this is an adult male in his\ntact with children of the ages of\nsomebody who we have to stop.\naid, in the state attorney's office,\nded to investigate and prosecute\ndidn't have too many facts early\nout I knew that there were multi-\nectives they were believable. So\nr. Epstein became aware of the\nrs contacted the state attorney's\n\nand I believe it was Mr. Dershow-\nior of the discussions of this case\ncompletely. [At] one point he sug-\ntein] a notice to appear, which\nior. He just completely changed\nversation about this[—when] he\nfrey Epstein—till when he had\ntein's reputation and his wealth,\nunusual.\nor knew him very well, the state\ne he could not objectively make\nhat is why I wrote it.\n\n174\n\nCHAPTER 46\n\nDetective Recarey: May 2006\n\nChief Reiter's letter to the state attorney had no perceptible\neffect.\n  Krischer did not recuse himself from the case. No\narrest warrant was issued. And on the afternoon of May 3, Detec-\ntive Recarey received a telephone call from assistant state attor-\nney Daliah Weiss, who advised him that she had been taken off\nthe Epstein case.\n  Weiss had been the perfect person to prosecute Epstein. As a\nmember of the special victims unit, she focused on sex crimes\nand crimes against children, prosecuting high-profile cases involv-\ning rape, aggravated child abuse, and neglect. But Epstein had\nadded another lawyer, a man named Jack Goldberger, and made\nGoldberger his attorney of record.\n  Goldberger was friendly with Barry Krischer—and an asso-\nciate of Goldberger's was married to Daliah Weiss.\n\n175\n\nHOUSE_OVERSIGHT_010516",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "TTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "for it; this is an adult male in his\ntact with children of the ages of\nsomebody who we have to stop.\naid, in the state attorney's office,\nded to investigate and prosecute\ndidn't have too many facts early\nout I knew that there were multi-\nectives they were believable. So\nr. Epstein became aware of the\nrs contacted the state attorney's\n\nand I believe it was Mr. Dershow-\nior of the discussions of this case\ncompletely. [At] one point he sug-\ntein] a notice to appear, which\nior. He just completely changed\nversation about this[—when] he\nfrey Epstein—till when he had\ntein's reputation and his wealth,\nunusual.\nor knew him very well, the state\ne he could not objectively make\nhat is why I wrote it.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "174",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 46",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Detective Recarey: May 2006",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Chief Reiter's letter to the state attorney had no perceptible\neffect.\n  Krischer did not recuse himself from the case. No\narrest warrant was issued. And on the afternoon of May 3, Detec-\ntive Recarey received a telephone call from assistant state attor-\nney Daliah Weiss, who advised him that she had been taken off\nthe Epstein case.\n  Weiss had been the perfect person to prosecute Epstein. As a\nmember of the special victims unit, she focused on sex crimes\nand crimes against children, prosecuting high-profile cases involv-\ning rape, aggravated child abuse, and neglect. But Epstein had\nadded another lawyer, a man named Jack Goldberger, and made\nGoldberger his attorney of record.\n  Goldberger was friendly with Barry Krischer—and an asso-\nciate of Goldberger's was married to Daliah Weiss.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "175",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010516",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-05",
+      "2006-05-03"
+    ],
+    "people": [
+      "Epstein",
+      "Mr. Dershow",
+      "Recarey",
+      "Reiter",
+      "Krischer",
+      "Daliah Weiss",
+      "Jack Goldberger",
+      "Barry Krischer"
+    ],
+    "organizations": [
+      "state attorney's office",
+      "special victims unit"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010516"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010516"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation and prosecution related to the Epstein case, including personnel changes and potential conflicts of interest.",
+    "date": "2006-05",
+    "references": [
+      "HOUSE_OVERSIGHT_010516"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be an excerpt from a book or a detailed report. The text on the left page is cut off at the beginning of each line, suggesting it's the continuation of a paragraph from a previous page. The header 'TTERSON' is likely an incomplete name, possibly 'PATTERSON'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010516.jpg",
+  "house_oversight_id": "010516",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:06:42.717888Z",
+    "model": "gemini-2.5-pro"
+  }
+}

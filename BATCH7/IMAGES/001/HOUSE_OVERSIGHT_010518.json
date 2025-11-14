@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010518.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of an open book, displaying pages 176 and 177. The text is printed in black on white paper. The book's spine is visible in the center, causing some curvature of the text. At the bottom of the image, a dark, textured surface is visible, and a document identifier 'HOUSE_OVERSIGHT_010518' is present in the bottom right corner.",
+    "layout": "Two-page spread. Page 176 is on the left, and page 177 is on the right. Each page has a main body of text. Page 177 has a header, and both pages have page numbers at the bottom. A document identifier is in the footer area.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TTERSON\n\nanted to remove Weiss from the\nd way to do it.\nRecarey met with ASA Lanna\nr boss, Barry Krischer, had asked\nand jury. Recarey told Belohlavek\nst warrants for Epstein, Sarah Kel-\nBeach PD had finished its investi-\nd had been waiting since then for\nd her once more to issue the war-\nined, saying that the original offer\nld lawyer had been resubmitted to\nply came, she would call.\n, Recarey received several calls\nn that he was being followed by a\n-tailed so aggressively that other\nroad. Recarey ran the plates and\ntered to one Zachary Bechard of\n\nate eye.\n\nIm Beach,” says Tim Malloy, who\nr in South Florida at the time.\nht around the time that Michael\narry Krischer to recuse himself\nknow what Epstein looked like,\nures taken by the British tabloids,\new first broke. But we didn’t have\nl have was a contact in the hangar\n\n176\n\nFILTHY RICH\n\n“I don’t know how much you know about Palm Beach Inter-\nnational Airport. It’s the kind of place that has private hangars,\nvalet parking, and waiting lounges that look as chic as anything\nyou’ll see in Manhattan. It’s an airport for the rich, basically.\nSaudi princes, heads of state. Powerful men who value their pri-\nvacy. You can bring limousines onto the tarmac. And we found\nout Epstein was very secretive about his dealings there. He didn’t\nwant anyone to know the tail numbers on his planes.\n “But our contact didn’t like Epstein. And he was horrified by\nhow young the girls around Epstein were. So thanks to him, we\nhad the 727’s tail number, and thanks to one other source—\nsomeone I won’t say too much about here—we had Epstein’s\nflight plan for a certain trip he was making. We knew he was\ngoing to land at the airport. And so our producer climbed into\nthe station’s traffic helicopter and told the pilot to hover at five\nhundred feet a quarter mile south of the field.\n “Our cameraman had a telephoto lens. The idea was to get a\ntight shot, on video, of Epstein deplaning. And for a moment we\ndid get the shot: Epstein, with the collar of his cashmere coat\nflipped up over his neck, about to run down the steps into a cart\nthat was waiting for him.\n “Then he saw our helicopter, with the station’s markings.\n “I was doing a live voice-over on Epstein’s arrival. It was the\nfirst video anyone had on him up to that point. But Epstein had\nrun back onto the plane. Then, during the next commercial\nbreak, my producer told me through my headpiece: ‘Jeffrey\nEpstein wants us to stop taking his picture. In fact, he wants to\ntalk to you.’\n “The cameraman kept rolling. And eventually Epstein got\nout, got into a car with tinted windows, and was driven over the\n\n177\n\nHOUSE_OVERSIGHT_010518",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "TTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "anted to remove Weiss from the\nd way to do it.\nRecarey met with ASA Lanna\nr boss, Barry Krischer, had asked\nand jury. Recarey told Belohlavek\nst warrants for Epstein, Sarah Kel-\nBeach PD had finished its investi-\nd had been waiting since then for\nd her once more to issue the war-\nined, saying that the original offer\nld lawyer had been resubmitted to\nply came, she would call.\n, Recarey received several calls\nn that he was being followed by a\n-tailed so aggressively that other\nroad. Recarey ran the plates and\ntered to one Zachary Bechard of\n\nate eye.\n\nIm Beach,” says Tim Malloy, who\nr in South Florida at the time.\nht around the time that Michael\narry Krischer to recuse himself\nknow what Epstein looked like,\nures taken by the British tabloids,\new first broke. But we didn’t have\nl have was a contact in the hangar",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "176",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“I don’t know how much you know about Palm Beach Inter-\nnational Airport. It’s the kind of place that has private hangars,\nvalet parking, and waiting lounges that look as chic as anything\nyou’ll see in Manhattan. It’s an airport for the rich, basically.\nSaudi princes, heads of state. Powerful men who value their pri-\nvacy. You can bring limousines onto the tarmac. And we found\nout Epstein was very secretive about his dealings there. He didn’t\nwant anyone to know the tail numbers on his planes.\n “But our contact didn’t like Epstein. And he was horrified by\nhow young the girls around Epstein were. So thanks to him, we\nhad the 727’s tail number, and thanks to one other source—\nsomeone I won’t say too much about here—we had Epstein’s\nflight plan for a certain trip he was making. We knew he was\ngoing to land at the airport. And so our producer climbed into\nthe station’s traffic helicopter and told the pilot to hover at five\nhundred feet a quarter mile south of the field.\n “Our cameraman had a telephoto lens. The idea was to get a\ntight shot, on video, of Epstein deplaning. And for a moment we\ndid get the shot: Epstein, with the collar of his cashmere coat\nflipped up over his neck, about to run down the steps into a cart\nthat was waiting for him.\n “Then he saw our helicopter, with the station’s markings.\n “I was doing a live voice-over on Epstein’s arrival. It was the\nfirst video anyone had on him up to that point. But Epstein had\nrun back onto the plane. Then, during the next commercial\nbreak, my producer told me through my headpiece: ‘Jeffrey\nEpstein wants us to stop taking his picture. In fact, he wants to\ntalk to you.’\n “The cameraman kept rolling. And eventually Epstein got\nout, got into a car with tinted windows, and was driven over the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "177",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010518",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Weiss",
+      "Recarey",
+      "Lanna",
+      "Barry Krischer",
+      "Belohlavek",
+      "Epstein",
+      "Sarah Kel-",
+      "Zachary Bechard",
+      "Tim Malloy",
+      "Michael",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "ASA",
+      "Beach PD",
+      "British tabloids"
+    ],
+    "locations": [
+      "South Florida",
+      "Palm Beach International Airport",
+      "Manhattan"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010518",
+      "176",
+      "177"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document identifier: HOUSE_OVERSIGHT_010518"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation and media coverage of Jeffrey Epstein, including events at Palm Beach International Airport.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010518"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The document is a photograph of pages 176 and 177 from the book 'Filthy Rich' by James Patterson. Some text on the left margin of page 176 is cut off. The name 'Sarah Kel-' is likely incomplete. The name 'Michael' is mentioned without a last name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010518.jpg",
+  "house_oversight_id": "010518",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:07:41.463374Z",
+    "model": "gemini-2.5-pro"
+  }
+}

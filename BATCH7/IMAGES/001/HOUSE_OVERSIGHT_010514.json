@@ -1,0 +1,100 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010514.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scan of a two-page spread from a book or a bound document. The left page is numbered 172 and the right page is 173. The content appears to be a transcript of a question-and-answer session or testimony, possibly related to a legal case involving Jeffrey Epstein. The document has a footer with an identifier 'HOUSE_OVERSIGHT_010514'.",
+    "layout": "Two-page spread with a central gutter. The left page (172) contains a chapter heading and fragmented text. The right page (173) contains a header, the main body of text in a Q&A format, a page number, and a footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 45\n\nMichael Reiter in B.B. vs.\ngainst Jeffrey Epstein:\n\na letter to state attorney Barry\na what we'll mark as exhibit 3. Let\nad through this letter again to help\n\n2006, I'm assuming based on what\nu had had some conversations with\nby phone—correct?—prior to this\n\nrson and by phone.\nMay—May 1, 2006—you felt the\nis that correct?\n\n172\n\nFILTHY RICH\n\nQ: Can you tell us why?\n\nA: Well, I felt the handling—and just continued to feel that the way the state attorney's office handled this case was extremely unusual. I knew that Mr. Krischer was making decisions about this case. I felt that his objectivity was lacking, and I felt that the appropriate way, after reading the statute that governed the assignment of cases to other circuits—I felt that his action met the standard. I used some of the words from the statute in here. And I attempted to call him, and he wouldn't return my phone calls.\n\nThe detective attempted to contact—his contact in the state attorney's office, Lanna Belohlavek, however you pronounce that...and she wouldn't return his calls. So I wrote the letter in hope that he would think about his situation and realize that his objectivity was insufficient to prosecute the case and ask the governor to appoint someone else. And I felt like that was necessary for a fair prosecution of our case that had been submitted to him.\n\nQ: Could you tell us, explain to us, why you felt that his objectivity may be lacking in regards to this prosecution...? In other words, what evidence did you see here, uncover, that you felt made it potentially nonobjective?\n\nA: Well...when I first told him about the case, and I realized that it was a serious case, [that] there were multiple victims, [and] that the suspect was very well known, I told him about it. And we were—it was in person. I talked to him after a meeting that he and I were both involved in. And I had known him to be a victim advocate and to protect the rights of children. Well, I know that he even wrote a portion of the statute that addresses those issues. And when I told him\n\n173\n\nHOUSE_OVERSIGHT_010514",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "CHAPTER 45\n\nMichael Reiter in B.B. vs.\ngainst Jeffrey Epstein:\n\na letter to state attorney Barry\na what we'll mark as exhibit 3. Let\nad through this letter again to help\n\n2006, I'm assuming based on what\nu had had some conversations with\nby phone—correct?—prior to this\n\nrson and by phone.\nMay—May 1, 2006—you felt the\nis that correct?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Q: Can you tell us why?\n\nA: Well, I felt the handling—and just continued to feel that the way the state attorney's office handled this case was extremely unusual. I knew that Mr. Krischer was making decisions about this case. I felt that his objectivity was lacking, and I felt that the appropriate way, after reading the statute that governed the assignment of cases to other circuits—I felt that his action met the standard. I used some of the words from the statute in here. And I attempted to call him, and he wouldn't return my phone calls.\n\nThe detective attempted to contact—his contact in the state attorney's office, Lanna Belohlavek, however you pronounce that...and she wouldn't return his calls. So I wrote the letter in hope that he would think about his situation and realize that his objectivity was insufficient to prosecute the case and ask the governor to appoint someone else. And I felt like that was necessary for a fair prosecution of our case that had been submitted to him.\n\nQ: Could you tell us, explain to us, why you felt that his objectivity may be lacking in regards to this prosecution...? In other words, what evidence did you see here, uncover, that you felt made it potentially nonobjective?\n\nA: Well...when I first told him about the case, and I realized that it was a serious case, [that] there were multiple victims, [and] that the suspect was very well known, I told him about it. And we were—it was in person. I talked to him after a meeting that he and I were both involved in. And I had known him to be a victim advocate and to protect the rights of children. Well, I know that he even wrote a portion of the statute that addresses those issues. And when I told him",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "172",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "173",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010514",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-05-01",
+      "2006"
+    ],
+    "people": [
+      "Michael Reiter",
+      "Jeffrey Epstein",
+      "Barry",
+      "Mr. Krischer",
+      "Lanna Belohlavek"
+    ],
+    "organizations": [
+      "state attorney's office",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010514",
+      "172",
+      "173",
+      "CHAPTER 45"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Testimony of Michael Reiter regarding the handling of the Jeffrey Epstein case by the state attorney's office.",
+    "date": "2006-05-01",
+    "references": [
+      "exhibit 3",
+      "B.B. vs. [a]gainst Jeffrey Epstein"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The text on the left page (172) is fragmented, suggesting it is the end of a previous section of the transcript. The document appears to be from the book 'Filthy Rich' but is also marked with a House Oversight committee document number.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010514.jpg",
+  "house_oversight_id": "010514",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:05:52.967943Z",
+    "model": "gemini-2.5-pro"
+  }
+}

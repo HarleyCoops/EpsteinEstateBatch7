@@ -1,5 +1,17 @@
 # BATCH7 Pipeline: House Oversight Committee Document Processing
 
+## Auto-Processing Status
+
+**This CODEBASE is processing itself and publishing itself online.**
+
+As images are analyzed, text is extracted, and details added, the model will start calling out the most obvious crimes. The last update was **{LAST_GIT_COMMIT_TIME}** and the model will publish an update every 5 minutes. All images, text files, and output are all publicly hosted with no changes from the original.
+
+This will run through the night as there are literally thousands of files here.
+
+*-Christian*
+
+---
+
 ## Overview
 
 This pipeline processes House Oversight Committee documents using the same LLM-based extraction and analysis approach as the Dorle's Stories pipeline, but adapted for official government documentation.
@@ -139,7 +151,7 @@ See `TASK_BREAKDOWN.md` for verbose 21-step implementation plan covering:
 
 ## Auto-Commit Webhook
 
-The pipeline includes an automatic commit system that runs every 30 minutes to commit changes with verbose, time-stamped messages describing the latest findings.
+The pipeline includes an automatic commit system that runs every 5 minutes to commit changes with verbose, time-stamped messages describing the latest findings.
 
 ### Quick Setup
 

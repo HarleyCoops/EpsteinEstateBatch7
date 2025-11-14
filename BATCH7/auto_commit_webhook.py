@@ -2,7 +2,7 @@
 """
 Auto-commit webhook for BATCH7 pipeline.
 
-This script runs every 30 minutes (via scheduler) and:
+This script runs every 5 minutes (via scheduler) and:
 1. Checks for git changes in the repository
 2. Analyzes new/modified outputs to generate descriptive commit messages
 3. Commits changes with verbose, time-stamped messages
@@ -105,18 +105,34 @@ def analyze_image_output(file_path: Path) -> Dict[str, Any]:
             data = json.load(f)
         
         structured = data.get("structured_data", {})
+        people_list = structured.get("people", [])
+        
+        # Extract key characters, especially Trump
+        trump_mentions = []
+        key_characters = []
+        for person in people_list:
+            person_lower = str(person).lower()
+            if "trump" in person_lower:
+                trump_mentions.append(person)
+            elif any(keyword in person_lower for keyword in ["epstein", "maxwell", "clinton", "biden", "giuliani", "baron", "ivanka", "jared"]):
+                key_characters.append(person)
+        
         summary = {
             "file": file_path.name,
             "document_type": data.get("image_analysis", {}).get("type", "unknown"),
             "has_text": bool(data.get("text_extraction", {}).get("full_text")),
             "entities": {
-                "people": len(structured.get("people", [])),
+                "people": len(people_list),
+                "people_list": people_list[:10],  # First 10 people
                 "organizations": len(structured.get("organizations", [])),
                 "dates": len(structured.get("dates", []))
             },
             "document_numbers": len(structured.get("document_numbers", [])),
             "has_signatures": len(structured.get("signatures", [])) > 0,
-            "quality": data.get("image_analysis", {}).get("quality", "unknown")
+            "quality": data.get("image_analysis", {}).get("quality", "unknown"),
+            "trump_mentions": trump_mentions,
+            "key_characters": key_characters[:5],  # Top 5 key characters
+            "full_text_preview": (data.get("text_extraction", {}).get("full_text", "") or "")[:200]  # First 200 chars
         }
         return summary
     except Exception as e:
@@ -189,6 +205,12 @@ def generate_commit_message(changes: Dict[str, List[str]], base_dir: Path) -> st
     """Generate a verbose commit message describing the latest findings."""
     timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
     
+    # Collect all key findings across files
+    all_trump_mentions = []
+    all_key_characters = []
+    all_people = []
+    processing_status = []
+    
     message_parts = [
         f"Pipeline Update: {timestamp}",
         "",
@@ -222,24 +244,89 @@ def generate_commit_message(changes: Dict[str, List[str]], base_dir: Path) -> st
     image_json_files = [f for f in changes["added"] + changes["modified"] 
                        if f.endswith(".json") and "/IMAGES/" in f.replace("\\", "/")]
     if image_json_files:
+        processing_status.append(f"Analyzing {len(image_json_files)} image(s)")
         message_parts.append("IMAGES PROCESSING:")
-        image_summaries = []
-        for file in image_json_files[:10]:  # Limit to 10 most recent
+        message_parts.append(f"Processing {len(image_json_files)} new image analysis file(s)...")
+        message_parts.append("")
+        
+        # Collect key findings
+        trump_findings = []
+        character_findings = []
+        notable_docs = []
+        
+        for file in image_json_files[:20]:  # Check up to 20 most recent
             file_path = base_dir / file
             if file_path.exists():
                 summary = analyze_image_output(file_path)
                 if "error" not in summary:
-                    doc_type = summary.get("document_type", "unknown")
-                    has_text = "YES" if summary.get("has_text") else "NO"
-                    people_count = summary.get("entities", {}).get("people", 0)
-                    image_summaries.append(
-                        f"  • {summary['file']}: {doc_type}, text: {has_text}, "
-                        f"{people_count} people identified"
-                    )
-        if image_summaries:
-            message_parts.extend(image_summaries[:10])  # Show top 10
-        else:
-            message_parts.append(f"  • {len(image_json_files)} new/modified image analysis file(s)")
+                    # Collect Trump mentions
+                    if summary.get("trump_mentions"):
+                        for mention in summary["trump_mentions"]:
+                            if mention not in all_trump_mentions:
+                                all_trump_mentions.append(mention)
+                                trump_findings.append({
+                                    "file": summary['file'],
+                                    "name": mention,
+                                    "doc_type": summary.get("document_type", "unknown")
+                                })
+                    
+                    # Collect key characters
+                    if summary.get("key_characters"):
+                        for char in summary["key_characters"]:
+                            if char not in all_key_characters:
+                                all_key_characters.append(char)
+                                character_findings.append({
+                                    "file": summary['file'],
+                                    "name": char
+                                })
+                    
+                    # Collect all people
+                    people_list = summary.get("entities", {}).get("people_list", [])
+                    for person in people_list:
+                        if person not in all_people:
+                            all_people.append(person)
+                    
+                    # Note notable documents
+                    if summary.get("trump_mentions") or summary.get("key_characters") or summary.get("has_signatures"):
+                        notable_docs.append({
+                            "file": summary['file'],
+                            "type": summary.get("document_type", "unknown"),
+                            "people_count": summary.get("entities", {}).get("people", 0),
+                            "has_trump": bool(summary.get("trump_mentions")),
+                            "has_signatures": summary.get("has_signatures", False)
+                        })
+        
+        # Highlight Trump findings prominently
+        if trump_findings:
+            message_parts.append("KEY FINDINGS - TRUMP MENTIONS:")
+            for finding in trump_findings[:5]:  # Top 5 Trump mentions
+                message_parts.append(f"  • {finding['name']} mentioned in {finding['file']} ({finding['doc_type']})")
+            message_parts.append("")
+        
+        # Highlight other key characters
+        if character_findings:
+            message_parts.append("KEY CHARACTERS IDENTIFIED:")
+            for finding in character_findings[:5]:  # Top 5 characters
+                message_parts.append(f"  • {finding['name']} in {finding['file']}")
+            message_parts.append("")
+        
+        # Summary of notable documents
+        if notable_docs:
+            message_parts.append("NOTABLE DOCUMENTS:")
+            for doc in notable_docs[:5]:
+                flags = []
+                if doc["has_trump"]:
+                    flags.append("TRUMP")
+                if doc["has_signatures"]:
+                    flags.append("SIGNED")
+                flag_str = f" [{', '.join(flags)}]" if flags else ""
+                message_parts.append(f"  • {doc['file']}: {doc['type']}, {doc['people_count']} people{flag_str}")
+            message_parts.append("")
+        
+        # Overall stats
+        message_parts.append(f"Total people identified across all images: {len(all_people)}")
+        if all_trump_mentions:
+            message_parts.append(f"Trump mentions found: {len(all_trump_mentions)}")
         message_parts.append("")
     
     # Analyze text outputs
@@ -296,13 +383,27 @@ def generate_commit_message(changes: Dict[str, List[str]], base_dir: Path) -> st
     
     # Summary statistics
     message_parts.append("=== SUMMARY ===")
+    if processing_status:
+        message_parts.append("Current Status:")
+        for status in processing_status:
+            message_parts.append(f"  • {status}")
+        message_parts.append("")
+    
     message_parts.append(f"Modified files: {len(changes['modified'])}")
     message_parts.append(f"New files: {len(changes['added'])}")
     message_parts.append(f"Untracked files: {len(changes['untracked'])}")
     if changes["deleted"]:
         message_parts.append(f"Deleted files: {len(changes['deleted'])}")
     message_parts.append("")
+    
+    # Add catchier closing
+    if all_trump_mentions:
+        message_parts.append("---")
+        message_parts.append("The evidence continues to mount. More documents analyzed, more connections revealed.")
+        message_parts.append("")
+    
     message_parts.append(f"Auto-committed at {timestamp}")
+    message_parts.append("Processing continues through the night...")
     
     return "\n".join(message_parts)
 
@@ -376,6 +477,18 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
         return False
     
     print("Pushed successfully!")
+    
+    # Update README with latest commit time
+    try:
+        import subprocess
+        readme_updater = base_dir / "BATCH7" / "update_readme_status.py"
+        if not readme_updater.exists():
+            readme_updater = base_dir / "update_readme_status.py"
+        if readme_updater.exists():
+            subprocess.run([sys.executable, str(readme_updater)], cwd=base_dir, check=False)
+    except Exception as e:
+        print(f"Note: Could not update README status: {e}")
+    
     return True
 
 
@@ -397,8 +510,8 @@ def main() -> None:
     parser.add_argument(
         "--interval",
         type=int,
-        default=30,
-        help="Interval in minutes (default: 30)"
+        default=5,
+        help="Interval in minutes (default: 5)"
     )
     parser.add_argument(
         "--once",

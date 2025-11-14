@@ -16,7 +16,8 @@ python auto_commit_webhook.py --once
 ### 3. Set Up Scheduler
 ```powershell
 # Run PowerShell as Administrator
-.\setup_webhook_scheduler.ps1
+
+
 ```
 
 ## Verify It Works
@@ -34,7 +35,7 @@ git log --oneline -5
 
 ## What It Does
 
-Every 30 minutes, the webhook:
+Every 5 minutes, the webhook:
 1. Checks for git changes
 2. Analyzes new outputs (JSON files, letters, etc.)
 3. Generates verbose commit message with findings

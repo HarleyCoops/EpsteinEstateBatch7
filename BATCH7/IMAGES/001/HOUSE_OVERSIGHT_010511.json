@@ -1,0 +1,127 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010511.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scan of a two-page spread from a book. The left page contains printed text from the book itself. The right page displays a scanned image of a letter on official letterhead from the Town of Palm Beach Police Department.",
+    "layout": "Two-page spread. The left page has a header, body text, and a page number at the bottom. The right page is a formal letter with a letterhead, recipient address, body, and closing.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nUnder “[Do] you wanna lose your virginity”: “I already lost it.”\nOne of the victims has been caught with drugs and arrested.\nShe’s also been caught stealing from Victoria’s Secret. From the\nstate attorney’s perspective, these girls look like compromised\nwomen. And if what they say about Epstein is true, wouldn’t that\nmake them prostitutes?\n\nAs witnesses, they would be weak, while the lawyers on\nEpstein’s side were exceptionally strong.\n\nAlan Dershowitz had represented Claus von Bülow, the Brit-\nish socialite who was acquitted of the murder of his wife, Sunny.\nDershowitz had been on O. J. Simpson’s team when the former\nfootball star was acquitted of the murders of his ex-wife, Nicole\nBrown Simpson and Nicole’s friend Ronald Lyle Goldman. And\nrich as von Bülow and Simpson had been, neither one had had\nthe resources that Epstein was willing and able to deploy in his\nown defense.\n\nNeither of them had been intimate friends with his lawyer.\n\nAs far as Reiter was concerned, none of that mattered. Even if\nEpstein thought that the girls he’d molested were eighteen years\nold—even if they had lied to him—it didn’t matter under Flor-\nida law. The chief grew worried that in Epstein’s case exceptions\nwere being made, and he grew even more concerned with each\nunreturned call that he made to the state attorney’s office.\n\nOn May 1, the Palm Beach PD asked the state attorney’s office\nto issue an arrest warrant for Jeffrey Epstein.\n\nThat same day, Chief Reiter took the extraordinary step of\nwriting Barry Krischer a letter all but demanding that he recuse\nhimself from the case.\n\n170\n\nTOWN OF\nPOLICE D[EPARTMENT]\nA NATIONAL AND STATE ACC[REDITED AGENCY]\n\nPERSONAL AND CONFIDENTIAL\n\nMr. Barry E. Krischer, State Attorney\nOffice of the State Attorney\nFifteenth Judicial Circuit\n401 North Dixie Highway\nWest Palm Beach, FL 33401\n\nDear Mr. Krischer,\n\nPlease find enclosed the probable cause [affidavit]\nresulting from the Palm Beach Police Depa[rtment's investigation]. The submissio[n was made by Detectives]\nKellen and Haley Robson. [This follows]\nAssistant State Attorney Lanna Belohlavek['s review of the Palm]\nBeach Police Department's presentation fo[r prosecution].\n\nI know that you agree that it is our shared\npublic interest by discharging our duties wi[thout fear or favor]. [It is with]\nprior observation to you that I continue to fin[d your office's handling of this matter]\nunusual. It is regrettable that I am forced [to make these observations, but my]\nrecent telephone calls to you and those of [your staff]\nhave been unanswered and messages ren[dered no response].\n\nAfter giving this much thought and consider[ation, I have concluded that the]\ncourse that your office's handling of this [case has taken provides]\nsufficient reason exists to require your dis[qualification from these]\ncases.\n\nSir[cerely],\n\n[Signature]\n\nMi[chael S. Reiter]\nCh[ief of Police]\n\nMSR/mt\n\n345 South County Road • Palm Beach, Florida 33480-4443 • (\n\nHOUSE_OVERSIGHT_010511",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Under “[Do] you wanna lose your virginity”: “I already lost it.”\nOne of the victims has been caught with drugs and arrested.\nShe’s also been caught stealing from Victoria’s Secret. From the\nstate attorney’s perspective, these girls look like compromised\nwomen. And if what they say about Epstein is true, wouldn’t that\nmake them prostitutes?\n\nAs witnesses, they would be weak, while the lawyers on\nEpstein’s side were exceptionally strong.\n\nAlan Dershowitz had represented Claus von Bülow, the Brit-\nish socialite who was acquitted of the murder of his wife, Sunny.\nDershowitz had been on O. J. Simpson’s team when the former\nfootball star was acquitted of the murders of his ex-wife, Nicole\nBrown Simpson and Nicole’s friend Ronald Lyle Goldman. And\nrich as von Bülow and Simpson had been, neither one had had\nthe resources that Epstein was willing and able to deploy in his\nown defense.\n\nNeither of them had been intimate friends with his lawyer.\n\nAs far as Reiter was concerned, none of that mattered. Even if\nEpstein thought that the girls he’d molested were eighteen years\nold—even if they had lied to him—it didn’t matter under Flor-\nida law. The chief grew worried that in Epstein’s case exceptions\nwere being made, and he grew even more concerned with each\nunreturned call that he made to the state attorney’s office.\n\nOn May 1, the Palm Beach PD asked the state attorney’s office\nto issue an arrest warrant for Jeffrey Epstein.\n\nThat same day, Chief Reiter took the extraordinary step of\nwriting Barry Krischer a letter all but demanding that he recuse\nhimself from the case.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "170",
+        "type": "printed"
+      },
+      {
+        "region": "letterhead",
+        "text": "TOWN OF\nPOLICE D[EPARTMENT]\nA NATIONAL AND STATE ACC[REDITED AGENCY]",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "PERSONAL AND CONFIDENTIAL\n\nMr. Barry E. Krischer, State Attorney\nOffice of the State Attorney\nFifteenth Judicial Circuit\n401 North Dixie Highway\nWest Palm Beach, FL 33401\n\nDear Mr. Krischer,\n\nPlease find enclosed the probable cause [affidavit]\nresulting from the Palm Beach Police Depa[rtment's investigation]. The submissio[n was made by Detectives]\nKellen and Haley Robson. [This follows]\nAssistant State Attorney Lanna Belohlavek['s review of the Palm]\nBeach Police Department's presentation fo[r prosecution].\n\nI know that you agree that it is our shared\npublic interest by discharging our duties wi[thout fear or favor]. [It is with]\nprior observation to you that I continue to fin[d your office's handling of this matter]\nunusual. It is regrettable that I am forced [to make these observations, but my]\nrecent telephone calls to you and those of [your staff]\nhave been unanswered and messages ren[dered no response].\n\nAfter giving this much thought and consider[ation, I have concluded that the]\ncourse that your office's handling of this [case has taken provides]\nsufficient reason exists to require your dis[qualification from these]\ncases.",
+        "type": "typed"
+      },
+      {
+        "region": "closing",
+        "text": "Sir[cerely],\n\n[Signature]\n\nMi[chael S. Reiter]\nCh[ief of Police]\n\nMSR/mt",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "345 South County Road • Palm Beach, Florida 33480-4443 • (",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010511",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-05-01"
+    ],
+    "people": [
+      "James Patterson",
+      "Jeffrey Epstein",
+      "Alan Dershowitz",
+      "Claus von Bülow",
+      "Sunny von Bülow",
+      "O. J. Simpson",
+      "Nicole Brown Simpson",
+      "Ronald Lyle Goldman",
+      "Reiter",
+      "Barry Krischer",
+      "Kellen",
+      "Haley Robson",
+      "Lanna Belohlavek",
+      "Michael S. Reiter"
+    ],
+    "organizations": [
+      "Victoria's Secret",
+      "Palm Beach PD",
+      "State Attorney's Office",
+      "TOWN OF PALM BEACH POLICE DEPARTMENT",
+      "Office of the State Attorney",
+      "Fifteenth Judicial Circuit"
+    ],
+    "locations": [
+      "Florida",
+      "West Palm Beach, FL",
+      "Palm Beach, Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010511"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "401 North Dixie Highway\nWest Palm Beach, FL 33401",
+        "345 South County Road • Palm Beach, Florida 33480-4443"
+      ]
+    },
+    "signatures": [
+      "Mi[chael S. Reiter]"
+    ],
+    "stamps_or_markings": [
+      "Seal of the Town of Palm Beach, Florida"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Michael S. Reiter, Chief of Police, Town of Palm Beach Police Department",
+    "recipient": "Mr. Barry E. Krischer, State Attorney",
+    "subject": "Concerns regarding the handling of the Jeffrey Epstein investigation and a request for recusal.",
+    "date": "2006-05-01",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The image is a composite of a page from a book (left) and a letter (right). The book text provides context for the letter. The letter on the right is partially obscured or cut off along the right margin, requiring interpretation for the missing text. The date of the letter is inferred from the text on the left page. The sender's full name and title are partially obscured but inferred from context and common knowledge of the case.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010511.jpg",
+  "house_oversight_id": "010511",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:04:36.622841Z",
+    "model": "gemini-2.5-pro"
+  }
+}

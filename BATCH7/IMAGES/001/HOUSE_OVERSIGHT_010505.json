@@ -1,0 +1,98 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010505.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a single page from a book or bound document. The page contains printed text in a serif font, arranged in two columns. The right edge of the page is slightly curved and obscured due to the book's binding. The page number is visible at the bottom center, and a document control number is in the bottom right corner.",
+    "layout": "The page has a header at the top, a main body of text in two columns, a page number at the bottom center, and a footer with a document identifier in the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nof, and means of obtaining, oxycodone and hydrocodone. (A few years after Limbaugh's arrest, which coincided with Chief Reit- er's investigation into Jeffrey Epstein, the talk-show host settled with prosecutors, agreed to submit to random drug testing, and gave up his firearms permit.)\n\nKrischer himself, however, had been accused of sexual misconduct.\n\nIn October of 1992, Jodi Bergeron, a legal secretary who'd worked for Krischer, filed a sexual harassment lawsuit against him in the Palm Beach County circuit court. That suit was dismissed, but a few months later, the woman took Krischer to federal court, accusing him of making unwanted advances and demanding recompense for battery, negligence, invasion of privacy, and emotional distress.\n\nKrischer had placed his hands, violently, inside her blouse, the woman said. He'd forcibly fondled her breasts, forcibly kissed her, and rubbed her shoulders while brushing her buttocks with his hands and knees, all while accompanying the gestures with verbal advances.\n\nWhen she declined those advances, the woman claimed, Krischer fired her.\n\nKrischer denied the allegations. At the time, he was making his first run for the state attorney's office. The charges were politically motivated, he said. Members of a local chapter of NOW—the National Organization for Women—had stood by the lawyer, cit- ing his efforts to stop domestic violence, among his other virtues.\n\n“I am here to support Barry Krischer for the work his office did in my daughter's case,” one woman said during a rally that took place in front of the courthouse. “Her murderer received the maximum sentence, a life sentence.”\n\nThe second lawsuit had also been dismissed—after Krischer's\n\nformer law firm agreed\nsand dollars in legal fees\n\nNow Chief Reiter and D[unclear]\ntheir own questions abo[unclear]\nwanted to charge Epstein\nbehavior and four cour[unclear]\nminor—felony charges\nbehind bars in the case c[unclear]\nKellen would be charged\n\nThis was not the pla[unclear]\nfor Jeffrey Epstein.\n\nIn cases involving th[unclear]\nattorneys tend to have s[unclear]\nBut instead of granting h[unclear]\nthe police that he would\nasked to consider a broad\n\nIn a case such as Epste[unclear]\ning in and of itself. But v[unclear]\nonly required in capital cas[unclear]\nmay also be called in o[unclear]\ninvolving crimes committ[unclear]\nwasn't a public official, an[unclear]\ncerned, the only controver[unclear]\nthat Epstein was rich an[unclear]\nB.B. vs. Epstein, Chief Reit[unclear]\necutor had to make sure t[unclear]\nable doubt. And Krischer\nof the young women who'[unclear]\n\n164\n\nHOUSE_OVERSIGHT_010505",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "of, and means of obtaining, oxycodone and hydrocodone. (A few years after Limbaugh's arrest, which coincided with Chief Reit- er's investigation into Jeffrey Epstein, the talk-show host settled with prosecutors, agreed to submit to random drug testing, and gave up his firearms permit.)\n\nKrischer himself, however, had been accused of sexual misconduct.\n\nIn October of 1992, Jodi Bergeron, a legal secretary who'd worked for Krischer, filed a sexual harassment lawsuit against him in the Palm Beach County circuit court. That suit was dismissed, but a few months later, the woman took Krischer to federal court, accusing him of making unwanted advances and demanding recompense for battery, negligence, invasion of privacy, and emotional distress.\n\nKrischer had placed his hands, violently, inside her blouse, the woman said. He'd forcibly fondled her breasts, forcibly kissed her, and rubbed her shoulders while brushing her buttocks with his hands and knees, all while accompanying the gestures with verbal advances.\n\nWhen she declined those advances, the woman claimed, Krischer fired her.\n\nKrischer denied the allegations. At the time, he was making his first run for the state attorney's office. The charges were politically motivated, he said. Members of a local chapter of NOW—the National Organization for Women—had stood by the lawyer, cit- ing his efforts to stop domestic violence, among his other virtues.\n\n“I am here to support Barry Krischer for the work his office did in my daughter's case,” one woman said during a rally that took place in front of the courthouse. “Her murderer received the maximum sentence, a life sentence.”\n\nThe second lawsuit had also been dismissed—after Krischer's",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "former law firm agreed\nsand dollars in legal fees\n\nNow Chief Reiter and D[unclear]\ntheir own questions abo[unclear]\nwanted to charge Epstein\nbehavior and four cour[unclear]\nminor—felony charges\nbehind bars in the case c[unclear]\nKellen would be charged\n\nThis was not the pla[unclear]\nfor Jeffrey Epstein.\n\nIn cases involving th[unclear]\nattorneys tend to have s[unclear]\nBut instead of granting h[unclear]\nthe police that he would\nasked to consider a broad\n\nIn a case such as Epste[unclear]\ning in and of itself. But v[unclear]\nonly required in capital cas[unclear]\nmay also be called in o[unclear]\ninvolving crimes committ[unclear]\nwasn't a public official, an[unclear]\ncerned, the only controver[unclear]\nthat Epstein was rich an[unclear]\nB.B. vs. Epstein, Chief Reit[unclear]\necutor had to make sure t[unclear]\nable doubt. And Krischer\nof the young women who'[unclear]",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "164",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010505",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "1992-10"
+    ],
+    "people": [
+      "JAMES PATTERSON",
+      "Limbaugh",
+      "Chief Reiter",
+      "Jeffrey Epstein",
+      "Krischer",
+      "Jodi Bergeron",
+      "Barry Krischer",
+      "Kellen"
+    ],
+    "organizations": [
+      "National Organization for Women",
+      "NOW"
+    ],
+    "locations": [
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010505",
+      "164"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010505"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Allegations against Krischer and context related to the Jeffrey Epstein investigation.",
+    "date": null,
+    "references": [
+      "B.B. vs. Epstein"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The text in the right column is partially cut off due to the curvature of the page near the book's spine, making several lines incomplete and difficult to read.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010505.jpg",
+  "house_oversight_id": "010505",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:02:01.430665Z",
+    "model": "gemini-2.5-pro"
+  }
+}

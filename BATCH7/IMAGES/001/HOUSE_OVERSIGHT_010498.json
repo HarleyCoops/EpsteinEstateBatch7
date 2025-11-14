@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010498.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A high-contrast, black and white scan of a two-page spread from a printed book. Page 154 is on the left and page 155 is on the right. The text discusses Jeffrey Epstein. A document control number is visible at the bottom.",
-    "layout": "Two-column layout corresponding to two pages of a book, with a header at the top of each page, the main body of text, and a page number at the bottom of each page. A footer with a document number is at the very bottom of the image.",
+    "description": "A high-contrast, black and white scan of a two-page spread from a printed book. The left page is numbered 154 and the right page is 155. The book's spine is visible in the center, causing some text to curve into the gutter. A Bates stamp 'HOUSE_OVERSIGHT_010498' is visible at the bottom right corner.",
+    "layout": "Two-column layout representing a two-page spread of a book. Page number 154 is on the left, and 155 is on the right. Headers are present at the top of each page, and page numbers are at the bottom.",
     "quality": "high",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "TERSON\n\nds in the Hamptons; affairs with\ng splashed all over the tabloids.\nn a time, he and Epstein would\n\n's, “that was just business. He'd\ndinners. When he went to the\nirls with him. They'd take turns\ngs.”\nn used to boast that he “liked to\nhe liked to fuck crazy women.”\neister adds. “But I'm telling you,\n\nriends and acquaintances would\nown much less shy about sharing.\nshowitz to invest with a prominent\nn Kramer. Dershowitz did, and he\nin 2008, the fund Dershowitz had\nunt. Afterward, according to a for-\nin appeared in Kramer's midtown\nsay, he told Kramer: “It's very much\nrshowitz whole.”\nced, and Dershowitz recovered his\n\nin back in the 1980s, this kind of\n. But the thing about Epstein was\n1 out. One minute he was charming.\n\n154\n\nFILTHY RICH\n\nThe most charming man you'd ever meet. The next he was snarl,\nthreat, and bluster. Something didn't add up. So you'd run the\nnumbers: this many parties, that many women. Even with the\nconnection to Victoria's Secret, the women didn't add up, either.\n   Throw in the modeling agency, it makes more sense. Then\nyou plug in the parties. The scene brings Eyes Wide Shut to mind.\nBut the thing is, Eyes Wide Shut only works in the shadows. For\nEpstein, getting on that plane with Clinton was more like a\nmoment in Caddyshack—the one in which the groundhog peeks\nout from his hole in the golf course. From there on in, Jeffrey\nEpstein was like the mole in a game of whack-a-mole. It was only\na matter of time before he'd be caught. But the question you had\nto ask yourself was, are people like Epstein born without mor-\nals? Or are their morals like snakeskin—just something they\nshed (along with all the other basic, day-to-day concerns that\neveryday working people have) as they make their way into that\nEyes Wide Shut world?\n\nTodd Meister, who was married to Nicky Hilton and stole the\nheiress Samantha Boardman away from Condé Nast's former\neditorial director James Truman, should know. He wonders out\nloud:\n   “How does a yutz like Epstein get beautiful women?”\n   At Harry Cipriani, the question lingers in the air.\n\n155\n\nHOUSE_OVERSIGHT_010498",
+    "full_text": "TERSON\n\nds in the Hamptons; affairs with\nng splashed all over the tabloids.\non a time, he and Epstein would\n\n's, “that was just business. He'd\ndinners. When he went to the\nirls with him. They'd take turns\negs.”\nn used to boast that he “liked to\nhe liked to fuck crazy women.”\neister adds. “But I’m telling you,\n\nriends and acquaintances would\nown much less shy about sharing.\nshowitz to invest with a prominent\nn Kramer. Dershowitz did, and he\nin 2008, the fund Dershowitz had\nount. Afterward, according to a for-\nan appeared in Kramer’s midtown\nsay, he told Kramer: “It’s very much\nrshowitz whole.”\nted, and Dershowitz recovered his\n\nin back in the 1980s, this kind of\n: But the thing about Epstein was\nout. One minute he was charming.\n\n154\n\nFILTHY RICH\n\nThe most charming man you’d ever meet. The next he was snarl,\nthreat, and bluster. Something didn’t add up. So you’d run the\nnumbers: this many parties, that many women. Even with the\nconnection to Victoria’s Secret, the women didn’t add up, either.\n\nThrow in the modeling agency, it makes more sense. Then\nyou plug in the parties. The scene brings Eyes Wide Shut to mind.\nBut the thing is, Eyes Wide Shut only works in the shadows. For\nEpstein, getting on that plane with Clinton was more like a\nmoment in Caddyshack—the one in which the groundhog peeks\nout from his hole in the golf course. From there on in, Jeffrey\nEpstein was like the mole in a game of whack-a-mole. It was only\na matter of time before he’d be caught. But the question you had\nto ask yourself was, are people like Epstein born without mor-\nals? Or are their morals like snakeskin—just something they\nshed (along with all the other basic, day-to-day concerns that\neveryday working people have) as they make their way into that\nEyes Wide Shut world?\n\nTodd Meister, who was married to Nicky Hilton and stole the\nheiress Samantha Boardman away from Condé Nast’s former\neditorial director James Truman, should know. He wonders out\nloud:\n\n“How does a yutz like Epstein get beautiful women?”\nAt Harry Cipriani, the question lingers in the air.\n\n155\n\nHOUSE_OVERSIGHT_010498",
     "text_regions": [
       {
         "region": "header",
@@ -17,7 +17,7 @@
       },
       {
         "region": "body",
-        "text": "ds in the Hamptons; affairs with\ng splashed all over the tabloids.\nn a time, he and Epstein would\n\n's, “that was just business. He'd\ndinners. When he went to the\nirls with him. They'd take turns\ngs.”\nn used to boast that he “liked to\nhe liked to fuck crazy women.”\neister adds. “But I'm telling you,\n\nriends and acquaintances would\nown much less shy about sharing.\nshowitz to invest with a prominent\nn Kramer. Dershowitz did, and he\nin 2008, the fund Dershowitz had\nunt. Afterward, according to a for-\nin appeared in Kramer's midtown\nsay, he told Kramer: “It's very much\nrshowitz whole.”\nced, and Dershowitz recovered his\n\nin back in the 1980s, this kind of\n. But the thing about Epstein was\n1 out. One minute he was charming.",
+        "text": "ds in the Hamptons; affairs with\nng splashed all over the tabloids.\non a time, he and Epstein would\n\n's, “that was just business. He'd\ndinners. When he went to the\nirls with him. They'd take turns\negs.”\nn used to boast that he “liked to\nhe liked to fuck crazy women.”\neister adds. “But I’m telling you,\n\nriends and acquaintances would\nown much less shy about sharing.\nshowitz to invest with a prominent\nn Kramer. Dershowitz did, and he\nin 2008, the fund Dershowitz had\nount. Afterward, according to a for-\nan appeared in Kramer’s midtown\nsay, he told Kramer: “It’s very much\nrshowitz whole.”\nted, and Dershowitz recovered his\n\nin back in the 1980s, this kind of\n: But the thing about Epstein was\nout. One minute he was charming.",
         "type": "printed"
       },
       {
@@ -32,7 +32,7 @@
       },
       {
         "region": "body",
-        "text": "The most charming man you'd ever meet. The next he was snarl,\nthreat, and bluster. Something didn't add up. So you'd run the\nnumbers: this many parties, that many women. Even with the\nconnection to Victoria's Secret, the women didn't add up, either.\n   Throw in the modeling agency, it makes more sense. Then\nyou plug in the parties. The scene brings Eyes Wide Shut to mind.\nBut the thing is, Eyes Wide Shut only works in the shadows. For\nEpstein, getting on that plane with Clinton was more like a\nmoment in Caddyshack—the one in which the groundhog peeks\nout from his hole in the golf course. From there on in, Jeffrey\nEpstein was like the mole in a game of whack-a-mole. It was only\na matter of time before he'd be caught. But the question you had\nto ask yourself was, are people like Epstein born without mor-\nals? Or are their morals like snakeskin—just something they\nshed (along with all the other basic, day-to-day concerns that\neveryday working people have) as they make their way into that\nEyes Wide Shut world?\n\nTodd Meister, who was married to Nicky Hilton and stole the\nheiress Samantha Boardman away from Condé Nast's former\neditorial director James Truman, should know. He wonders out\nloud:\n   “How does a yutz like Epstein get beautiful women?”\n   At Harry Cipriani, the question lingers in the air.",
+        "text": "The most charming man you’d ever meet. The next he was snarl,\nthreat, and bluster. Something didn’t add up. So you’d run the\nnumbers: this many parties, that many women. Even with the\nconnection to Victoria’s Secret, the women didn’t add up, either.\n\nThrow in the modeling agency, it makes more sense. Then\nyou plug in the parties. The scene brings Eyes Wide Shut to mind.\nBut the thing is, Eyes Wide Shut only works in the shadows. For\nEpstein, getting on that plane with Clinton was more like a\nmoment in Caddyshack—the one in which the groundhog peeks\nout from his hole in the golf course. From there on in, Jeffrey\nEpstein was like the mole in a game of whack-a-mole. It was only\na matter of time before he’d be caught. But the question you had\nto ask yourself was, are people like Epstein born without mor-\nals? Or are their morals like snakeskin—just something they\nshed (along with all the other basic, day-to-day concerns that\neveryday working people have) as they make their way into that\nEyes Wide Shut world?\n\nTodd Meister, who was married to Nicky Hilton and stole the\nheiress Samantha Boardman away from Condé Nast’s former\neditorial director James Truman, should know. He wonders out\nloud:\n\n“How does a yutz like Epstein get beautiful women?”\nAt Harry Cipriani, the question lingers in the air.",
         "type": "printed"
       },
       {
@@ -41,9 +41,9 @@
         "type": "printed"
       },
       {
-        "region": "footer",
+        "region": "stamp",
         "text": "HOUSE_OVERSIGHT_010498",
-        "type": "printed"
+        "type": "typed"
       }
     ]
   },
@@ -54,8 +54,8 @@
     ],
     "people": [
       "Epstein",
-      "Dershowitz",
       "Kramer",
+      "Dershowitz",
       "Clinton",
       "Jeffrey Epstein",
       "Todd Meister",
@@ -65,17 +65,14 @@
       "Harry Cipriani"
     ],
     "organizations": [
-      "Victoria's Secret",
-      "Condé Nast",
-      "HOUSE_OVERSIGHT"
+      "Victoria’s Secret",
+      "Condé Nast"
     ],
     "locations": [
       "Hamptons"
     ],
     "document_numbers": [
-      "HOUSE_OVERSIGHT_010498",
-      "154",
-      "155"
+      "HOUSE_OVERSIGHT_010498"
     ],
     "financial_amounts": [],
     "contact_info": {
@@ -89,25 +86,23 @@
     ]
   },
   "document_metadata": {
-    "document_type": "Book Excerpt",
+    "document_type": "Book excerpt",
     "sender": null,
     "recipient": null,
-    "subject": "An account of Jeffrey Epstein's character, connections, and activities.",
+    "subject": "Anecdotes and observations regarding Jeffrey Epstein's character, connections, and business dealings.",
     "date": null,
-    "references": [
-      "HOUSE_OVERSIGHT_010498"
-    ]
+    "references": []
   },
   "confidence": {
-    "text_extraction": 0.98,
-    "structured_data": 0.95,
-    "overall": 0.97
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
   },
-  "notes": "The image is a scan of pages 154 and 155 from a book titled 'Filthy Rich'. The text on the left page is partially cut off by the edge of the image. The document number in the footer indicates this excerpt was part of a collection of documents for the House Oversight Committee.",
+  "notes": "The document is a scan of pages 154 and 155 from a book titled 'Filthy Rich'. The text on the left page is partially cut off at the beginning of each line due to the page margin. The Bates stamp indicates this book excerpt is part of a larger collection of documents from the House Oversight Committee.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010498.jpg",
   "house_oversight_id": "010498",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:49:40.558498Z",
+    "processed_at": "2025-11-13T23:59:16.555137Z",
     "model": "gemini-2.5-pro"
   }
 }

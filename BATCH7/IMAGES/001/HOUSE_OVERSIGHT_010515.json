@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010515.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white photograph of an open book or bound document. The image shows two pages, with the left page numbered 174 and the right page having a footer with a document number. The text appears to be from a book or a transcript.",
+    "layout": "Two-page spread. The left page is fully visible, while the right page is partially visible and curved towards the spine of the book. There is a header on the left page, a chapter-like title on the right page, and footers on both pages.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\noriginally, he said, “Let’s go for it; this is an adult male in his fifties who’s had sexual contact with children of the ages of the victims.” He said this is somebody who we have to stop. And whatever we need, he said, in the state attorney’s office, we have a unit that’s equipped to investigate and prosecute these kinds of cases. And I didn’t have too many facts early on when I talked with him, but I knew that there were multiple victims and to our detectives they were believable. So when time went on and Mr. Epstein became aware of the investigation and his lawyers contacted the state attorney’s office, they told me that.\n\nAnd from that point on, and I believe it was Mr. Dershowitz initially, the tone and tenor of the discussions of this case with Mr. Krischer changed completely. [At] one point he suggested that we write [Epstein] a notice to appear, which would be for a misdemeanor. He just completely changed from not only our first conversation about this[—when] he didn’t know the name Jeffrey Epstein—till when he had been informed on Mr. Epstein’s reputation and his wealth, and I just thought that very unusual.\n\nI feel like I know him or knew him very well, the state attorney, and I just felt like he could not objectively make decisions about this case: that is why I wrote it.\n\n174\n\nDetective Recarey: May\n\nChief Reiter’s letter to th[e] effect.\n\nKrischer did not [know an] arrest warrant was issued. A[t that] tive Recarey received a telep[hone call from Attor]ney Daliah Weiss, who advis[ed him on] the Epstein case.\n\nWeiss had been the perfe[ct] member of the special victir[ns unit] and crimes against children, p[rosecut]ing rape, aggravated child a[buse]. [Epstein] added another lawyer, a man [named] Goldberger his attorney of re[cord].\n\nGoldberger was friendly v[ery] ciate of Goldberger’s was mar[ried to]",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "originally, he said, “Let’s go for it; this is an adult male in his fifties who’s had sexual contact with children of the ages of the victims.” He said this is somebody who we have to stop. And whatever we need, he said, in the state attorney’s office, we have a unit that’s equipped to investigate and prosecute these kinds of cases. And I didn’t have too many facts early on when I talked with him, but I knew that there were multiple victims and to our detectives they were believable. So when time went on and Mr. Epstein became aware of the investigation and his lawyers contacted the state attorney’s office, they told me that.\n\nAnd from that point on, and I believe it was Mr. Dershowitz initially, the tone and tenor of the discussions of this case with Mr. Krischer changed completely. [At] one point he suggested that we write [Epstein] a notice to appear, which would be for a misdemeanor. He just completely changed from not only our first conversation about this[—when] he didn’t know the name Jeffrey Epstein—till when he had been informed on Mr. Epstein’s reputation and his wealth, and I just thought that very unusual.\n\nI feel like I know him or knew him very well, the state attorney, and I just felt like he could not objectively make decisions about this case: that is why I wrote it.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "174",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Detective Recarey: May",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Chief Reiter’s letter to th[e] effect.\n\nKrischer did not [know an] arrest warrant was issued. A[t that] tive Recarey received a telep[hone call from Attor]ney Daliah Weiss, who advis[ed him on] the Epstein case.\n\nWeiss had been the perfe[ct] member of the special victir[ns unit] and crimes against children, p[rosecut]ing rape, aggravated child a[buse]. [Epstein] added another lawyer, a man [named] Goldberger his attorney of re[cord].\n\nGoldberger was friendly v[ery] ciate of Goldberger’s was mar[ried to]",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010515",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "May"
+    ],
+    "people": [
+      "JAMES PATTERSON",
+      "Mr. Epstein",
+      "Mr. Dershowitz",
+      "Mr. Krischer",
+      "Jeffrey Epstein",
+      "Detective Recarey",
+      "Chief Reiter",
+      "Daliah Weiss",
+      "Goldberger"
+    ],
+    "organizations": [
+      "state attorney’s office"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010515",
+      "174"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book or Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of the Jeffrey Epstein case, including interactions with Mr. Krischer and Mr. Dershowitz.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010515"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.9,
+    "overall": 0.92
+  },
+  "notes": "The image is of an open book, so the text on the right-hand page is partially obscured and distorted by the curve of the page into the spine. The text in the obscured areas has been transcribed to the best of my ability, with uncertain parts noted.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010515.jpg",
+  "house_oversight_id": "010515",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:06:16.716099Z",
+    "model": "gemini-2.5-pro"
+  }
+}

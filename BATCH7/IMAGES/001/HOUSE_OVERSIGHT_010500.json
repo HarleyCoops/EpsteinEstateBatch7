@@ -2,8 +2,8 @@
   "file_name": "HOUSE_OVERSIGHT_010500.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A scanned page from a book or report. The page contains a chapter heading, a subheading with a name and date, several paragraphs of text, a page number, and a document identifier at the bottom. The left side of the image shows the deep shadow of the book's spine, indicating it was scanned from a bound volume.",
-    "layout": "The page has a header at the top right, a subheading below it, a main body of text, a page number centered at the bottom, and a document identifier in the bottom right corner.",
+    "description": "A scanned page from a book or report. The image shows the text on the right-hand page, with the inner margin and the curve of the page near the spine visible on the left. The text is black on a white background. A page number is centered at the bottom, and a document identifier is at the bottom right corner.",
+    "layout": "The page has a chapter heading at the top, a subheading below it, and the main body of text. A page number is in the footer, and a document identifier is in the bottom margin.",
     "quality": "high",
     "orientation": "portrait"
   },
@@ -49,7 +49,8 @@
       "Jeffrey Epstein"
     ],
     "organizations": [
-      "The state attorney's office"
+      "The state attorney's office",
+      "HOUSE_OVERSIGHT"
     ],
     "locations": [
       "Palm Beach"
@@ -69,10 +70,10 @@
     ]
   },
   "document_metadata": {
-    "document_type": "Book/Report Page",
+    "document_type": "report",
     "sender": null,
     "recipient": null,
-    "subject": "Investigation against Jeffrey Epstein in Palm Beach.",
+    "subject": "Investigation into Jeffrey Epstein by Michael Reiter's team in January 2006.",
     "date": "2006-01",
     "references": [
       "HOUSE_OVERSIGHT_010500"
@@ -83,11 +84,11 @@
     "structured_data": 0.98,
     "overall": 0.98
   },
-  "notes": "The document appears to be a page from a book or a narrative report detailing an investigation. The text mentions several individuals and describes the status of a case against Jeffrey Epstein in January 2006.",
+  "notes": "The document appears to be a page from a narrative report or book detailing an investigation. The identifier 'HOUSE_OVERSIGHT_010500' suggests it is part of a larger set of documents related to a House Oversight Committee investigation.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010500.jpg",
   "house_oversight_id": "010500",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:50:18.806117Z",
+    "processed_at": "2025-11-13T23:59:53.027618Z",
     "model": "gemini-2.5-pro"
   }
 }

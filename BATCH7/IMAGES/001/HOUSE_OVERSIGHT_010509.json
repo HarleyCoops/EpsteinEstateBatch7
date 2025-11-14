@@ -1,0 +1,98 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010509.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned or photographed page from a book or bound document. The page has printed text, with a visible curve and shadow in the gutter (inner margin). The text is arranged in two columns, though the right column is only partially visible. The page number is at the bottom center, and a document identifier is at the bottom right.",
+    "layout": "Two-column layout on a single page. A header is at the top, the main body of text is in the columns, a page number is at the bottom center, and a document identifier is at the bottom right corner.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nAtty Alan Dershowitz. The offer is 1 count of Agg Assault with intent to commit a felony, five years probation, with adjudication withheld. Epstein would have to submit to psychiatric/sexual evaluation and no unsupervised visits with minors. When asked about all the other victims, ASA Belohlavek stated that was the only offer made as to one victim, [Mary]. ASA Belohlavek['s] cell phone rang and went to voice mail. She checked her voice mail and played the message on speaker. The caller identified himself as Atty Guy Fronstin and acknowledged the deal made between them. Fronstin stated in the message, he spoke with his client, Jeffrey Epstein, and would agree to this deal. Fronstin asked to call off the grand jury as they would accept this deal. Belohlavek stated a probable cause would be needed to book Epstein in the county jail and would let me know as to when it was needed. I explained my disapproval of the deal and not being consulted prior to the deal being offered. However I expressed that was only my opinion and the final approval would come from the Chief of Police. She explained to have Chief Reiter call Barry Krischer about the deal. I left the area and returned to the police station where I briefed the Chief about the deal offered.\nI checked my voice mail messages and discovered a message from [the] stepmother for the victim [Mary]. She was calling because the State Attorney's Office still had not returned any of her calls as to when they are needed for this case. I then called ASA Belohlavek's office and left messages for her to call the victims on this case and explain to them what the State Attorney's Office had done.\n\nMichael Reiter: May 20\n\nA plea offer?\nChief Reiter is o\nsands of hours of wo\nevidence. But instead of goin\nsee Epstein get off with a m\nand a psych exam.\nWhy?\nAlan Dershowitz has pre\npieces of evidence—printou\nIn her “About Me” colu\nMary has written “Ass and e\nUnder “Ever drank” an\n“Yeah.”\nUnder “Ever shoplifted”:\nUnder “Ever skinny dipp\n\n168\n\nHOUSE_OVERSIGHT_010509",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body_left_column",
+        "text": "Atty Alan Dershowitz. The offer is 1 count of Agg Assault with intent to commit a felony, five years probation, with adjudication withheld. Epstein would have to submit to psychiatric/sexual evaluation and no unsupervised visits with minors. When asked about all the other victims, ASA Belohlavek stated that was the only offer made as to one victim, [Mary]. ASA Belohlavek['s] cell phone rang and went to voice mail. She checked her voice mail and played the message on speaker. The caller identified himself as Atty Guy Fronstin and acknowledged the deal made between them. Fronstin stated in the message, he spoke with his client, Jeffrey Epstein, and would agree to this deal. Fronstin asked to call off the grand jury as they would accept this deal. Belohlavek stated a probable cause would be needed to book Epstein in the county jail and would let me know as to when it was needed. I explained my disapproval of the deal and not being consulted prior to the deal being offered. However I expressed that was only my opinion and the final approval would come from the Chief of Police. She explained to have Chief Reiter call Barry Krischer about the deal. I left the area and returned to the police station where I briefed the Chief about the deal offered.\nI checked my voice mail messages and discovered a message from [the] stepmother for the victim [Mary]. She was calling because the State Attorney's Office still had not returned any of her calls as to when they are needed for this case. I then called ASA Belohlavek's office and left messages for her to call the victims on this case and explain to them what the State Attorney's Office had done.",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_column",
+        "text": "Michael Reiter: May 20\n\nA plea offer?\nChief Reiter is o\nsands of hours of wo\nevidence. But instead of goin\nsee Epstein get off with a m\nand a psych exam.\nWhy?\nAlan Dershowitz has pre\npieces of evidence—printou\nIn her “About Me” colu\nMary has written “Ass and e\nUnder “Ever drank” an\n“Yeah.”\nUnder “Ever shoplifted”:\nUnder “Ever skinny dipp",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "168",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010509",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "May 20"
+    ],
+    "people": [
+      "James Patterson",
+      "Alan Dershowitz",
+      "Epstein",
+      "ASA Belohlavek",
+      "Mary",
+      "Atty Guy Fronstin",
+      "Jeffrey Epstein",
+      "Chief Reiter",
+      "Barry Krischer",
+      "Michael Reiter"
+    ],
+    "organizations": [
+      "State Attorney's Office"
+    ],
+    "locations": [
+      "county jail",
+      "police station"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010509",
+      "168"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Plea deal negotiations concerning Jeffrey Epstein.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010509"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The document appears to be a page from the book 'Filthy Rich' by James Patterson, which details events related to the Jeffrey Epstein case. The text on the right side of the page is partially cut off. The date 'May 20' is incomplete as the year is not visible.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010509.jpg",
+  "house_oversight_id": "010509",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:03:41.999886Z",
+    "model": "gemini-2.5-pro"
+  }
+}

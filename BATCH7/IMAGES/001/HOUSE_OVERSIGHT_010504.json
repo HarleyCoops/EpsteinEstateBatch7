@@ -1,0 +1,114 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010504.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of two pages from a book or report. The left page, numbered 162, is partially visible. The right page, numbered 163, is fully visible and contains the start of 'CHAPTER 42'. The text discusses individuals including Epstein, Ghislaine Maxwell, and Barry Krischer. A document identifier 'HOUSE_OVERSIGHT_010504' is visible at the bottom right.",
+    "layout": "Two-page spread from a book. The left page (162) is partially cut off. The right page (163) has a chapter heading, a subheading, and a main body of text. Page numbers are at the bottom of each page. A document footer is at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\nEpstein's type. The girls she'd\nand beautiful and did not have\nad several tattoos that were vis-\nis Epstein and Ghislaine Max-\ns about them.\nlice Department Incident Report\n6, the detective had also heard\nit a private eye had been to his\nand chasing visitors away.\nense plate — Florida E79-4EG.\nIvan Robles of West Palm Beach.\nd private investigator.\nattorney's office.\ney and told him that she'd been\nis in touch with Epstein. Alison\ne money if she would refuse to\n\nbe compensated, she was told,\nincident report. “And those who\n\nnd told her that tampering with a\nserious, arrestable offense.\nte attorney.\ni undotted and no t uncrossed.\nstate attorney's office itself had\n\n162\n\nCHAPTER 42\n\nBarry Krischer: April 2006\n\nState attorney Barry Krischer was an elected official, but\nbefore taking his post, he'd been a lawyer in private practice\nin and around Palm Beach. Elected twice to his office, in\n1992 and 1996, he had run unopposed for state attorney in 2000\nand 2004. During the course of his long career, which began in\n1970 with a three-year stint in the district attorney's office in\nBrooklyn, he received a number of awards: the pro bono award\nfrom the Legal Aid Society of Palm Beach County for his service\nwith the juvenile justice system and for his work with the child\nprotection team; the Peace at Home award, presented by Gover-\nnor Jeb Bush, for his work with victims of family violence; a life-\ntime achievement award from the Florida Bar. He was a board\nmember of the National District Attorneys Association. And he\nwas not necessarily averse to going after the rich and powerful.\nIn 2003, he launched an investigation into Rush Limbaugh's use\n\n163\n\nHOUSE_OVERSIGHT_010504",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Epstein's type. The girls she'd\nand beautiful and did not have\nad several tattoos that were vis-\nis Epstein and Ghislaine Max-\ns about them.\nlice Department Incident Report\n6, the detective had also heard\nit a private eye had been to his\nand chasing visitors away.\nense plate — Florida E79-4EG.\nIvan Robles of West Palm Beach.\nd private investigator.\nattorney's office.\ney and told him that she'd been\nis in touch with Epstein. Alison\ne money if she would refuse to\n\nbe compensated, she was told,\nincident report. “And those who\n\nnd told her that tampering with a\nserious, arrestable offense.\nte attorney.\ni undotted and no t uncrossed.\nstate attorney's office itself had",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "162",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 42",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Barry Krischer: April 2006\n\nState attorney Barry Krischer was an elected official, but\nbefore taking his post, he'd been a lawyer in private practice\nin and around Palm Beach. Elected twice to his office, in\n1992 and 1996, he had run unopposed for state attorney in 2000\nand 2004. During the course of his long career, which began in\n1970 with a three-year stint in the district attorney's office in\nBrooklyn, he received a number of awards: the pro bono award\nfrom the Legal Aid Society of Palm Beach County for his service\nwith the juvenile justice system and for his work with the child\nprotection team; the Peace at Home award, presented by Gover-\nnor Jeb Bush, for his work with victims of family violence; a life-\ntime achievement award from the Florida Bar. He was a board\nmember of the National District Attorneys Association. And he\nwas not necessarily averse to going after the rich and powerful.\nIn 2003, he launched an investigation into Rush Limbaugh's use",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "163",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010504",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-04",
+      "1992",
+      "1996",
+      "2000",
+      "2004",
+      "1970",
+      "2003"
+    ],
+    "people": [
+      "Epstein",
+      "Ghislaine Max",
+      "Ivan Robles",
+      "Alison",
+      "Barry Krischer",
+      "Jeb Bush",
+      "Rush Limbaugh"
+    ],
+    "organizations": [
+      "Legal Aid Society of Palm Beach County",
+      "Florida Bar",
+      "National District Attorneys Association"
+    ],
+    "locations": [
+      "West Palm Beach",
+      "Palm Beach",
+      "Brooklyn"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010504",
+      "E79-4EG"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "book_or_report_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Biography and career of Barry Krischer; events related to an investigation involving Epstein.",
+    "date": "2006-04",
+    "references": [
+      "HOUSE_OVERSIGHT_010504"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The left page of the document is partially cut off, resulting in incomplete sentences and context. The name 'Ghislaine Max' is likely 'Ghislaine Maxwell', but is transcribed as it appears. The name 'TERSON' in the header of the left page may be part of a larger title or author's name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010504.jpg",
+  "house_oversight_id": "010504",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:01:32.968022Z",
+    "model": "gemini-2.5-pro"
+  }
+}

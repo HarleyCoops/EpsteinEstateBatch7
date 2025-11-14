@@ -1,6 +1,6 @@
 # Auto-Commit Webhook Setup Guide
 
-This guide explains how to set up an automatic commit system that runs every 30 minutes, analyzes pipeline outputs, and commits changes with verbose, time-stamped messages describing the latest findings.
+This guide explains how to set up an automatic commit system that runs every 5 minutes, analyzes pipeline outputs, and commits changes with verbose, time-stamped messages describing the latest findings.
 
 ## Overview
 
@@ -59,7 +59,7 @@ Start-ScheduledTask -TaskName "BATCH7_AutoCommit_Webhook"
 4. **Triggers Tab:**
    - Click **New**
    - Begin: `At startup` or `On a schedule` (choose a start time)
-   - Check **Repeat task every**: `30 minutes`
+   - Check **Repeat task every**: `5 minutes`
    - Duration: `Indefinitely`
 
 5. **Actions Tab:**
@@ -235,9 +235,9 @@ For Linux/macOS, use cron instead:
 crontab -e
 ```
 
-2. **Add this line (runs every 30 minutes):**
+2. **Add this line (runs every 5 minutes):**
 ```
-*/30 * * * * cd /path/to/EpsteinEstateBatch7/BATCH7 && /usr/bin/python3 auto_commit_webhook.py --once >> /tmp/batch7_webhook.log 2>&1
+*/5 * * * * cd /path/to/EpsteinEstateBatch7/BATCH7 && /usr/bin/python3 auto_commit_webhook.py --once >> /tmp/batch7_webhook.log 2>&1
 ```
 
 3. **Or use systemd timer** (more robust):
@@ -262,7 +262,7 @@ Description=BATCH7 Auto-Commit Webhook Timer
 
 [Timer]
 OnBootSec=5min
-OnUnitActiveSec=30min
+OnUnitActiveSec=5min
 
 [Install]
 WantedBy=timers.target
@@ -311,7 +311,7 @@ subprocess.run(["python", "auto_commit_webhook.py", "--once"])
 2. Run manually once to verify it works
 3. Set up scheduled task
 4. Monitor first few commits to ensure messages are informative
-5. Adjust interval if needed (30 minutes is default)
+5. Adjust interval if needed (5 minutes is default)
 
 ## Support
 

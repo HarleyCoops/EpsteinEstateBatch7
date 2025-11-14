@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010520.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a bound book or report. The left page is numbered 178 and shows the end of a paragraph. The right page is numbered 179 and begins 'CHAPTER 47'. The inner binding of the book is visible as a dark, curved shadow, partially obscuring the text near the spine. A document identifier is present at the bottom right.",
+    "layout": "Two-page spread with a header on the left page, page numbers at the bottom of each page, a chapter title and body text on the right page, and a footer with a document number on the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ITTERSON\n\nh. So in a sense we failed to get\nein would call a news program\nem to order the program's traffic\nmething about the man's arro-\n\nCHAPTER 47\n\nMary: July 2006\n\nOn June 29, assistant state attorney Lanna Belohlavek told\nDetective Recarey that despite his protestations, the case\nwould be going to a grand jury after all. One had been\nconvened for July 19.\nOn July 12, Recarey spoke with Mary's stepmother, who said\nthat she still hadn't heard from the state attorney's office. This,\ntoo, was odd, since Recarey knew that Mary would be called\nupon to testify.\nShe was back in Palm Beach now, after months of living with\nout-of-state relatives.\nAll in all, it had been a very tough year for Mary.\n\"What has happened to my daughter's life is criminal,\" her\nfather would say.\nMary had been sent to a school for troubled children. For\nher it was the wrong place at the worst time in her life. She had\n\n178\n179\n\nHOUSE_OVERSIGHT_010520",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "ITTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "h. So in a sense we failed to get\nein would call a news program\nem to order the program's traffic\nmething about the man's arro-",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "178",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 47",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Mary: July 2006\n\nOn June 29, assistant state attorney Lanna Belohlavek told\nDetective Recarey that despite his protestations, the case\nwould be going to a grand jury after all. One had been\nconvened for July 19.\nOn July 12, Recarey spoke with Mary's stepmother, who said\nthat she still hadn't heard from the state attorney's office. This,\ntoo, was odd, since Recarey knew that Mary would be called\nupon to testify.\nShe was back in Palm Beach now, after months of living with\nout-of-state relatives.\nAll in all, it had been a very tough year for Mary.\n\"What has happened to my daughter's life is criminal,\" her\nfather would say.\nMary had been sent to a school for troubled children. For\nher it was the wrong place at the worst time in her life. She had",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "179",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010520",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-07",
+      "2006-06-29",
+      "2006-07-19",
+      "2006-07-12"
+    ],
+    "people": [
+      "Lanna Belohlavek",
+      "Detective Recarey",
+      "Mary",
+      "Mary's stepmother",
+      "Mary's father"
+    ],
+    "organizations": [
+      "state attorney's office"
+    ],
+    "locations": [
+      "Palm Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010520",
+      "178",
+      "179"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010520"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Events in July 2006 concerning a grand jury case involving a person named Mary.",
+    "date": "2006-07",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is a scan of two pages from a book or report. The text on the left page (178) is partially cut off by the edge of the page and the book's binding. The dates without a year are assumed to be from 2006 based on the context provided by the subheading 'Mary: July 2006'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010520.jpg",
+  "house_oversight_id": "010520",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:08:24.021741Z",
+    "model": "gemini-2.5-pro"
+  }
+}

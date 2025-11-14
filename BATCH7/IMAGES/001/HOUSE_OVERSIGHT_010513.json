@@ -1,0 +1,99 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010513.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a single page from a bound document, appearing to be a transcript of a legal deposition. The page is slightly curved towards the central binding. The text is laid out in a standard book format with a chapter heading, body text, and page number.",
+    "layout": "The page has a main body of text, a chapter heading at the top, a page number at the bottom center, a document identifier in the bottom right footer, and a file marker in the top right margin. The body text is a question-and-answer format transcript.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "FIL\n\nQ: Can you tell us why?\nA: Well, I felt the handling—\nway the state attorney's offi\nunusual. I knew that M\nabout this case. I felt tha\nfelt that the appropriate\ngoverned the assignment\nthat his action met the st\nfrom the statute in here. A\nwouldn't return my phone\nThe detective attempt\nstate attorney's office, Lai\nnounce that…and she w\nthe letter in hope that he w\nrealize that his objectivity\ncase and ask the governor\nlike that was necessary for\nhad been submitted to him\nQ: Could you tell us, explain\ntivity may be lacking in r\nother words, what evidenc\nyou felt made it potentially\nA: Well…when I first told h\nthat it was a serious case, |\n[and] that the suspect was\nit. And we were—it was i\nmeeting that he and I we\nknown him to be a victim\nof children. Well, I know th\nstatute that addresses tho\n\nCHAPTER 45\n\nVideotaped Deposition of Michael Reiter in B.B. vs.\nEpstein, a civil lawsuit against Jeffrey Epstein:\nNovember 23, 2009\n\nQ: At some point you sent a letter to state attorney Barry\nKrischer. Let me show you what we'll mark as exhibit 3. Let\nme give you a chance to read through this letter again to help\nrefresh your recollection.\n\nA: I've read it.\n\nQ: At this point, in May of 2006, I'm assuming based on what\nyou told us before that you had had some conversations with\nBarry Krischer directly…by phone—correct?—prior to this\nletter.\n\nA: I had conversations in person and by phone.\n\nQ: Okay. But nonetheless in May—May 1, 2006—you felt the\nneed to write this letter; is that correct?\n\nA: Yes.\n\n172\n\nHOUSE_OVERSIGHT_010513",
+    "text_regions": [
+      {
+        "region": "margin_top_right",
+        "text": "FIL",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 45",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Videotaped Deposition of Michael Reiter in B.B. vs.\nEpstein, a civil lawsuit against Jeffrey Epstein:\nNovember 23, 2009\n\nQ: At some point you sent a letter to state attorney Barry\nKrischer. Let me show you what we'll mark as exhibit 3. Let\nme give you a chance to read through this letter again to help\nrefresh your recollection.\n\nA: I've read it.\n\nQ: At this point, in May of 2006, I'm assuming based on what\nyou told us before that you had had some conversations with\nBarry Krischer directly…by phone—correct?—prior to this\nletter.\n\nA: I had conversations in person and by phone.\n\nQ: Okay. But nonetheless in May—May 1, 2006—you felt the\nneed to write this letter; is that correct?\n\nA: Yes.",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_column",
+        "text": "Q: Can you tell us why?\nA: Well, I felt the handling—\nway the state attorney's offi\nunusual. I knew that M\nabout this case. I felt tha\nfelt that the appropriate\ngoverned the assignment\nthat his action met the st\nfrom the statute in here. A\nwouldn't return my phone\nThe detective attempt\nstate attorney's office, Lai\nnounce that…and she w\nthe letter in hope that he w\nrealize that his objectivity\ncase and ask the governor\nlike that was necessary for\nhad been submitted to him\nQ: Could you tell us, explain\ntivity may be lacking in r\nother words, what evidenc\nyou felt made it potentially\nA: Well…when I first told h\nthat it was a serious case, |\n[and] that the suspect was\nit. And we were—it was i\nmeeting that he and I we\nknown him to be a victim\nof children. Well, I know th\nstatute that addresses tho",
+        "type": "printed"
+      },
+      {
+        "region": "footer_center",
+        "text": "172",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right",
+        "text": "HOUSE_OVERSIGHT_010513",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2009-11-23",
+      "2006-05",
+      "2006-05-01"
+    ],
+    "people": [
+      "Michael Reiter",
+      "B.B.",
+      "Jeffrey Epstein",
+      "Barry Krischer"
+    ],
+    "organizations": [
+      "state attorney's office",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010513",
+      "172"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "FIL"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Videotaped Deposition of Michael Reiter in B.B. vs. Epstein, a civil lawsuit against Jeffrey Epstein",
+    "date": "2009-11-23",
+    "references": [
+      "exhibit 3"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The text on the right-hand side of the page is partially cut off due to the page margin and scanning.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010513.jpg",
+  "house_oversight_id": "010513",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:05:28.758819Z",
+    "model": "gemini-2.5-pro"
+  }
+}

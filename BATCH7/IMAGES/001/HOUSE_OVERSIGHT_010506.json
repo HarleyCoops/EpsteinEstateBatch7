@@ -1,0 +1,109 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010506.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of two facing pages from a printed book. The left page is numbered 164 and the right page is numbered 165. The text discusses legal proceedings involving individuals named Krischer and Epstein. A document label 'HOUSE_OVERSIGHT_010506' is visible at the bottom right.",
+    "layout": "Two-page book spread. The left page (164) shows the right-hand column of text. The right page (165) shows the full page of text with a header and page number. A footer label is present at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ITTERSON\n\nodone and hydrocodone. (A few hich coincided with Chief Reit-stein, the talk-show host settled nit to random drug testing, and\n\nhad been accused of sexual\n\nron, a legal secretary who'd worked sment lawsuit against him in the That suit was dismissed, but a few Krischer to federal court, accusing es and demanding recompense for ivacy, and emotional distress.\nnds, violently, inside her blouse, ndled her breasts, forcibly kissed while brushing her buttocks with accompanying the gestures with\n\nadvances, the woman claimed,\n\nns. At the time, he was making his office. The charges were politically of a local chapter of NOW—the nen—had stood by the lawyer, cit-violence, among his other virtues.\ny Krischer for the work his office ne woman said during a rally that urthouse. “Her murderer received sentence.”\no been dismissed—after Krischer’s\n\n164\n\nFILTHY RICH\n\nformer law firm agreed to pay Bergeron’s attorney seven thou-sand dollars in legal fees.\n\nNow Chief Reiter and Detective Recarey were beginning to have their own questions about Barry Krischer. The Palm Beach PD wanted to charge Epstein with one count of lewd and lascivious behavior and four counts of unlawful sexual activity with a minor—felony charges that would have amounted to years behind bars in the case of a conviction. Wendy Dobbs and Sarah Kellen would be charged as accomplices.\nThis was not the plan that Krischer seemed to have in mind for Jeffrey Epstein.\nIn cases involving the sexual abuse of minors, prosecuting attorneys tend to have suspects arrested, then push for a trial. But instead of granting his approval for an arrest, Krischer told the police that he would convene a grand jury, which would be asked to consider a broad range of charges.\nIn a case such as Epstein’s, this was highly unusual. Not damn-ing in and of itself. But very strange. In Florida, grand juries are only required in capital cases. At the state attorney’s discretion, they may also be called in controversial cases—for instance, cases involving crimes committed by public officials. But Jeffrey Epstein wasn’t a public official, and as far as the Palm Beach PD was con-cerned, the only controversial thing about the case they’d built was that Epstein was rich and well connected. In his deposition for B.B. vs. Epstein, Chief Reiter rel ayed Krischer’s concerns: the pros-ecutor had to make sure that his case was solid, beyond a reason-able doubt. And Krischer did have his doubts about the credibility of the young women who’d be called to testify against Epstein.\n\n165\n\nHOUSE_OVERSIGHT_010506",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "ITTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "odone and hydrocodone. (A few hich coincided with Chief Reit-stein, the talk-show host settled nit to random drug testing, and\n\nhad been accused of sexual\n\nron, a legal secretary who'd worked sment lawsuit against him in the That suit was dismissed, but a few Krischer to federal court, accusing es and demanding recompense for ivacy, and emotional distress.\nnds, violently, inside her blouse, ndled her breasts, forcibly kissed while brushing her buttocks with accompanying the gestures with\n\nadvances, the woman claimed,\n\nns. At the time, he was making his office. The charges were politically of a local chapter of NOW—the nen—had stood by the lawyer, cit-violence, among his other virtues.\ny Krischer for the work his office ne woman said during a rally that urthouse. “Her murderer received sentence.”\no been dismissed—after Krischer’s",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "164",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "former law firm agreed to pay Bergeron’s attorney seven thou-sand dollars in legal fees.\n\nNow Chief Reiter and Detective Recarey were beginning to have their own questions about Barry Krischer. The Palm Beach PD wanted to charge Epstein with one count of lewd and lascivious behavior and four counts of unlawful sexual activity with a minor—felony charges that would have amounted to years behind bars in the case of a conviction. Wendy Dobbs and Sarah Kellen would be charged as accomplices.\nThis was not the plan that Krischer seemed to have in mind for Jeffrey Epstein.\nIn cases involving the sexual abuse of minors, prosecuting attorneys tend to have suspects arrested, then push for a trial. But instead of granting his approval for an arrest, Krischer told the police that he would convene a grand jury, which would be asked to consider a broad range of charges.\nIn a case such as Epstein’s, this was highly unusual. Not damn-ing in and of itself. But very strange. In Florida, grand juries are only required in capital cases. At the state attorney’s discretion, they may also be called in controversial cases—for instance, cases involving crimes committed by public officials. But Jeffrey Epstein wasn’t a public official, and as far as the Palm Beach PD was con-cerned, the only controversial thing about the case they’d built was that Epstein was rich and well connected. In his deposition for B.B. vs. Epstein, Chief Reiter rel ayed Krischer’s concerns: the pros-ecutor had to make sure that his case was solid, beyond a reason-able doubt. And Krischer did have his doubts about the credibility of the young women who’d be called to testify against Epstein.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "165",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010506",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Chief Reiter",
+      "Bergeron",
+      "Barry Krischer",
+      "Epstein",
+      "Detective Recarey",
+      "Wendy Dobbs",
+      "Sarah Kellen",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "NOW",
+      "Palm Beach PD"
+    ],
+    "locations": [
+      "Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010506",
+      "164",
+      "165"
+    ],
+    "financial_amounts": [
+      "seven thousand dollars"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document label: HOUSE_OVERSIGHT_010506"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book pages",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings and investigation related to Jeffrey Epstein, Barry Krischer, and the Palm Beach PD.",
+    "date": null,
+    "references": [
+      "B.B. vs. Epstein"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The text on the left page (164) is cut off at the left margin, resulting in incomplete words and sentences. The book title appears to be 'FILTHY RICH'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010506.jpg",
+  "house_oversight_id": "010506",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:02:27.099781Z",
+    "model": "gemini-2.5-pro"
+  }
+}

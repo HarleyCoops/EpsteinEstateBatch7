@@ -4,7 +4,7 @@
 param(
     [string]$PythonPath = "python",
     [string]$ScriptPath = "",
-    [int]$IntervalMinutes = 30
+    [int]$IntervalMinutes = 5
 )
 
 # Get script directory
@@ -44,8 +44,12 @@ if ($ExistingTask) {
 # Create action (run Python script)
 $Action = New-ScheduledTaskAction -Execute $PythonExe -Argument "`"$ScriptPath`" --once" -WorkingDirectory $ScriptDir
 
-# Create trigger (every 30 minutes)
-$Trigger = New-ScheduledTaskTrigger -RepetitionInterval (New-TimeSpan -Minutes $IntervalMinutes) -RepetitionDuration (New-TimeSpan -Days 365) -At (Get-Date)
+# Create trigger (every 5 minutes)
+# Start immediately, repeat every IntervalMinutes, for 365 days
+$StartTime = Get-Date
+$RepetitionInterval = New-TimeSpan -Minutes $IntervalMinutes
+$RepetitionDuration = New-TimeSpan -Days 365
+$Trigger = New-ScheduledTaskTrigger -Once -At $StartTime -RepetitionInterval $RepetitionInterval -RepetitionDuration $RepetitionDuration
 
 # Create settings
 $Settings = New-ScheduledTaskSettingsSet -AllowStartIfOnBatteries -DontStopIfGoingOnBatteries -StartWhenAvailable

@@ -1,43 +1,43 @@
 {
   "file_name": "HOUSE_OVERSIGHT_010493.jpg",
   "image_analysis": {
-    "type": "photograph",
-    "description": "A photograph of a single page from a bound document or book. The page features four distinct photographs, each with a descriptive caption below it. To the right of the photographs, there is a column of text that is partially cut off. The page has a glossy finish and is slightly curved. A dark green binder or cover is visible on the left and bottom edges of the frame. A document identifier is printed at the very bottom of the page.",
-    "layout": "The page is laid out with a primary column on the left containing four vertically stacked photographs and their captions. A secondary column of body text is on the right, partially visible. A footer at the bottom contains a document number.",
+    "type": "document",
+    "description": "A photograph of a page from a book or report. The page contains four distinct photographs with captions, arranged in a collage format. The photos depict various individuals at different events or locations. A column of text on the right side of the page is partially cut off. A document identifier is visible at the bottom of the page.",
+    "layout": "The page has a multi-column layout. Four photographs with their respective captions occupy the left and central parts of the page. A column of body text is on the far right, partially obscured. A footer containing a document number is centered at the bottom.",
     "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "Sarah (formerly Kellen/\nKensington) and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)\n\nGood flight!\n\nNadia Marcinkova and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)\n\nMichael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)\n\nRetired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)\n\nguests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe 1\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct\n\nHOUSE_OVERSIGHT_010493",
+    "full_text": "Sarah (formerly Kellen/\nKensington) and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nKE Sportswire via AP Images)\n\nGood flight!\n\nNadia Marcinkova and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)\n\nMichael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)\n\nRetired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)\n\nguests a\nture of a\nThe j\nMort Zu\nMicroso\namong 1\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe 1\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct\n\nHOUSE_OVERSIGHT_010493",
     "text_regions": [
       {
-        "region": "caption_1",
-        "text": "Sarah (formerly Kellen/\nKensington) and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nSportswire via AP Images)",
+        "region": "caption",
+        "text": "Sarah (formerly Kellen/\nKensington) and husband,\nNASCAR driver Brian Vickers,\narrive on the red carpet at the 141st\nrunning of the Kentucky Derby\nat Churchill Downs in Louisville,\nKentucky. (Jeff Moreland / Icon\nKE Sportswire via AP Images)",
         "type": "printed"
       },
       {
-        "region": "image_text_1",
+        "region": "image_overlay",
         "text": "Good flight!",
         "type": "printed"
       },
       {
-        "region": "caption_2",
+        "region": "caption",
         "text": "Nadia Marcinkova and Larry\nVisoski, Epstein's personal\npilot, in what appears to be\nthe cockpit of a Gulfstream\nG-II (YouTube)",
         "type": "printed"
       },
       {
-        "region": "caption_3",
+        "region": "caption",
         "text": "Michael and Janet Reiter at the Palm\nBeach Police Foundation Policemen's\nBall at Mar-a-Lago, January\n2012 (Debbie Schatz / Palm Beach\nDaily News / ZUMAPRESS.com)",
         "type": "printed"
       },
       {
-        "region": "caption_4",
+        "region": "caption",
         "text": "Retired Palm Beach police\ndetective Joe Recarey,\nNovember 2013 (Meghan\nMcCarthy / Palm Beach Daily\nNews / ZUMAPRESS.com)",
         "type": "printed"
       },
       {
         "region": "body",
-        "text": "guests a\nture of a\nThe j\nMort Zu\nMicroso\namong t\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe 1\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct",
+        "text": "guests a\nture of a\nThe j\nMort Zu\nMicroso\namong 1\nseveral c\nscientist\nShe'd ha\nwith Var\ninformat\nto form t\nIn th\nWha\nartist, h\nswipe hi\nter saw a\nThe 1\nIt wa\nhis office\n\nEpstein (\nnal char\ninclude\nwhen he\nShe'd\none of h\nOn doct",
         "type": "printed"
       },
       {
@@ -53,7 +53,8 @@
       "2013-11"
     ],
     "people": [
-      "Sarah (formerly Kellen/Kensington)",
+      "Sarah Kellen",
+      "Sarah Kensington",
       "Brian Vickers",
       "Jeff Moreland",
       "Nadia Marcinkova",
@@ -65,7 +66,7 @@
       "Joe Recarey",
       "Meghan McCarthy",
       "Mort Zu[ckerman]",
-      "Var[gas]"
+      "Var[da]"
     ],
     "organizations": [
       "NASCAR",
@@ -95,10 +96,10 @@
     "stamps_or_markings": []
   },
   "document_metadata": {
-    "document_type": "exhibit_page",
+    "document_type": "photo_collage",
     "sender": null,
     "recipient": null,
-    "subject": "Photographs of individuals related to an investigation or report, possibly concerning Jeffrey Epstein.",
+    "subject": "Photographs of individuals including Brian Vickers, Nadia Marcinkova, Larry Visoski, Michael and Janet Reiter, and Joe Recarey.",
     "date": null,
     "references": [
       "HOUSE_OVERSIGHT_010493"
@@ -109,11 +110,11 @@
     "structured_data": 0.9,
     "overall": 0.92
   },
-  "notes": "The image is a photograph of a page, not a direct scan, leading to some glare and curvature. The text in the right-hand column is incomplete as it is cut off by the edge of the frame. Some names in the right column are partially cut off and have been inferred based on common knowledge associated with the subject matter (e.g., 'Mort Zu' likely being Mort Zuckerman, 'Microso' being Microsoft, 'Var' being Vargas).",
+  "notes": "The image is a single page from a larger document, identified by the footer 'HOUSE_OVERSIGHT_010493'. The text in the right-hand column is partially cut off, making it incomplete. The name 'Kensington' is provided as an alternative to 'Kellen'. Inferred names from the cut-off text are noted in brackets.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010493.jpg",
   "house_oversight_id": "010493",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:47:27.215096Z",
+    "processed_at": "2025-11-13T23:57:04.560051Z",
     "model": "gemini-2.5-pro"
   }
 }

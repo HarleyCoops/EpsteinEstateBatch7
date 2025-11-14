@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010510.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of an open book or bound document, showing two pages side-by-side. The left page is numbered 168 and the right page is 169. The text discusses a legal case, a plea deal, and evidence. The binding of the book is visible in the center, creating a shadow. A document identifier is present in the bottom right corner.",
+    "layout": "Two-page spread from a book. Page 168 is on the left, and page 169 is on the right. Both pages have a header/page number, body text, and a footer with a document ID.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\ner is 1 count of Agg Assault\nv, five years probation, with\nwould have to submit to psy-\nno unsupervised visits with\nall the other victims, ASA\nonly offer made as to one vic-\n1 cell phone rang and went to\nice mail and played the mes-\nlentified himself as Atty Guy\ne deal made between them.\n, he spoke with his client, Jef-\nto this deal. Fronstin asked to\nhey would accept this deal.\nause would be needed to book\nwould let me know as to when\nlisapproval of the deal and not\ndeal being offered. However I\npinion and the final approval\nPolice. She explained to have\nher about the deal. I left the\nce station where I briefed the\n\nnessages and discovered a mes-\nor the victim [Mary]. She was\nttorney's Office still had not\nɔ when they are needed for this\nlavek's office and left messages\nthis case and explain to them\nce had done.\n\n168\n\nCHAPTER 44\n\nMichael Reiter: May 2006\n\nA plea offer?\nChief Reiter is outraged. His team has logged thou-\nsands of hours of work. They've assembled mountains of\nevidence. But instead of going to trial, the state attorney wants to\nsee Epstein get off with a misdemeanor, five years of probation,\nand a psych exam.\nWhy?\nAlan Dershowitz has presented the prosecutors with his own\npieces of evidence — printouts from the victims' Myspace pages.\nIn her “About Me” column, under “Best physical feature,”\nMary has written “Ass and eyes.”\nUnder “Ever drank” and “Ever smoked pot,” she's written\n“Yeah.”\nUnder “Ever shoplifted”: “Lots.”\nUnder “Ever skinny dipped”: “Yeah.”\n\n169\n\nHOUSE_OVERSIGHT_010510",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "er is 1 count of Agg Assault\nv, five years probation, with\nwould have to submit to psy-\nno unsupervised visits with\nall the other victims, ASA\nonly offer made as to one vic-\n1 cell phone rang and went to\nice mail and played the mes-\nlentified himself as Atty Guy\ne deal made between them.\n, he spoke with his client, Jef-\nto this deal. Fronstin asked to\nhey would accept this deal.\nause would be needed to book\nwould let me know as to when\nlisapproval of the deal and not\ndeal being offered. However I\npinion and the final approval\nPolice. She explained to have\nher about the deal. I left the\nce station where I briefed the\n\nnessages and discovered a mes-\nor the victim [Mary]. She was\nttorney's Office still had not\nɔ when they are needed for this\nlavek's office and left messages\nthis case and explain to them\nce had done.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "168",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 44",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Michael Reiter: May 2006",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "A plea offer?\nChief Reiter is outraged. His team has logged thou-\nsands of hours of work. They've assembled mountains of\nevidence. But instead of going to trial, the state attorney wants to\nsee Epstein get off with a misdemeanor, five years of probation,\nand a psych exam.\nWhy?\nAlan Dershowitz has presented the prosecutors with his own\npieces of evidence — printouts from the victims' Myspace pages.\nIn her “About Me” column, under “Best physical feature,”\nMary has written “Ass and eyes.”\nUnder “Ever drank” and “Ever smoked pot,” she's written\n“Yeah.”\nUnder “Ever shoplifted”: “Lots.”\nUnder “Ever skinny dipped”: “Yeah.”",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "169",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010510",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-05"
+    ],
+    "people": [
+      "TERSON",
+      "Atty Guy",
+      "Jef",
+      "Fronstin",
+      "Mary",
+      "Michael Reiter",
+      "Epstein",
+      "Alan Dershowitz"
+    ],
+    "organizations": [
+      "Attorney's Office",
+      "Police",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010510",
+      "168",
+      "169"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Plea deal negotiations and evidence in the Epstein case",
+    "date": "2006-05",
+    "references": [
+      "HOUSE_OVERSIGHT_010510"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The document appears to be part of a larger report or book, likely submitted as evidence to the House Oversight Committee, as indicated by the footer. The text on the left page is incomplete, continuing from a previous page. 'Jef' is a partial name. 'Atty Guy' may be a description rather than a formal name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010510.jpg",
+  "house_oversight_id": "010510",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:04:06.279397Z",
+    "model": "gemini-2.5-pro"
+  }
+}

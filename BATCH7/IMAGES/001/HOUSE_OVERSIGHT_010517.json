@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010517.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a printed book. The left page is numbered 176 and the right is 177. The text discusses events related to Jeffrey Epstein, including legal proceedings, surveillance, and media coverage. A document identifier 'HOUSE_OVERSIGHT_010517' is visible at the bottom.",
+    "layout": "Two-page book spread with headers, body text, and page numbers. A document label is present at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nFILTH\n\nIf Epstein’s legal team had wanted to remove Weiss from the case, this would have been a good way to do it.\n\nNine days later, Detective Recarey met with ASA Lanna Belohlavek, who told him that her boss, Barry Krischer, had asked her again to take the case to the grand jury. Recarey told Belohlavek that he had already requested arrest warrants for Epstein, Sarah Kellen, and Wendy Dobbs. The Palm Beach PD had finished its investigation months earlier, he said, and had been waiting since then for the case to move forward. He asked her once more to issue the warrants. Once again Belohlavek declined, saying that the original offer her office had made to Epstein’s old lawyer had been resubmitted to the new lawyer. When Epstein’s reply came, she would call.\n\nWhile waiting for that call, Recarey received several calls from Mary’s father, who told him that he was being followed by a green Chevrolet Monte Carlo—tailed so aggressively that other vehicles were being run off the road. Recarey ran the plates and found that the Chevy was registered to one Zachary Bechard of Jupiter, Florida.\n\nBechard was a licensed private eye.\n\n“A funny thing happened in Palm Beach,” says Tim Malloy, who was working as a TV newscaster in South Florida at the time.\n\n“This would have been right around the time that Michael Reiter sent his letter asking Barry Krischer to recuse himself from the case. I didn’t even know what Epstein looked like, really, at the time. We had pictures taken by the British tabloids, where the link to Prince Andrew first broke. But we didn’t have too many of them. What we did have was a contact in the hangar where Epstein kept his 727.\n\n176\n\n“I don’t know how much y national Airport. It’s the kind valet parking, and waiting loun you’ll see in Manhattan. It’s a Saudi princes, heads of state. P vacy. You can bring limousine: out Epstein was very secretive a want anyone to know the tail n\n\n“But our contact didn’t like how young the girls around Ep had the 727’s tail number, an someone I won’t say too mucl flight plan for a certain trip h going to land at the airport. A the station’s traffic helicopter a hundred feet a quarter mile sou\n\n“Our cameraman had a tele tight shot, on video, of Epstein did get the shot: Epstein, with flipped up over his neck, about that was waiting for him.\n\n“Then he saw our helicopter\n\n“I was doing a live voice-ove first video anyone had on him i run back onto the plane. The: break, my producer told me Epstein wants us to stop taking talk to you.’\n\n“The cameraman kept rolli out, got into a car with tinted w\n\n17\n\nHOUSE_OVERSIGHT_010517",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "If Epstein’s legal team had wanted to remove Weiss from the case, this would have been a good way to do it.\n\nNine days later, Detective Recarey met with ASA Lanna Belohlavek, who told him that her boss, Barry Krischer, had asked her again to take the case to the grand jury. Recarey told Belohlavek that he had already requested arrest warrants for Epstein, Sarah Kellen, and Wendy Dobbs. The Palm Beach PD had finished its investigation months earlier, he said, and had been waiting since then for the case to move forward. He asked her once more to issue the warrants. Once again Belohlavek declined, saying that the original offer her office had made to Epstein’s old lawyer had been resubmitted to the new lawyer. When Epstein’s reply came, she would call.\n\nWhile waiting for that call, Recarey received several calls from Mary’s father, who told him that he was being followed by a green Chevrolet Monte Carlo—tailed so aggressively that other vehicles were being run off the road. Recarey ran the plates and found that the Chevy was registered to one Zachary Bechard of Jupiter, Florida.\n\nBechard was a licensed private eye.\n\n“A funny thing happened in Palm Beach,” says Tim Malloy, who was working as a TV newscaster in South Florida at the time.\n\n“This would have been right around the time that Michael Reiter sent his letter asking Barry Krischer to recuse himself from the case. I didn’t even know what Epstein looked like, really, at the time. We had pictures taken by the British tabloids, where the link to Prince Andrew first broke. But we didn’t have too many of them. What we did have was a contact in the hangar where Epstein kept his 727.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“I don’t know how much y national Airport. It’s the kind valet parking, and waiting loun you’ll see in Manhattan. It’s a Saudi princes, heads of state. P vacy. You can bring limousine: out Epstein was very secretive a want anyone to know the tail n\n\n“But our contact didn’t like how young the girls around Ep had the 727’s tail number, an someone I won’t say too mucl flight plan for a certain trip h going to land at the airport. A the station’s traffic helicopter a hundred feet a quarter mile sou\n\n“Our cameraman had a tele tight shot, on video, of Epstein did get the shot: Epstein, with flipped up over his neck, about that was waiting for him.\n\n“Then he saw our helicopter\n\n“I was doing a live voice-ove first video anyone had on him i run back onto the plane. The: break, my producer told me Epstein wants us to stop taking talk to you.’\n\n“The cameraman kept rolli out, got into a car with tinted w",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "176",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "17",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010517",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "James Patterson",
+      "Epstein",
+      "Weiss",
+      "Detective Recarey",
+      "ASA Lanna Belohlavek",
+      "Barry Krischer",
+      "Sarah Kellen",
+      "Wendy Dobbs",
+      "Mary",
+      "Zachary Bechard",
+      "Tim Malloy",
+      "Michael Reiter",
+      "Prince Andrew"
+    ],
+    "organizations": [
+      "Palm Beach PD",
+      "British tabloids",
+      "House Oversight"
+    ],
+    "locations": [
+      "Jupiter, Florida",
+      "Palm Beach",
+      "South Florida",
+      "Manhattan"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010517",
+      "176",
+      "177"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "Jupiter, Florida"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010517"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation and media coverage of Jeffrey Epstein",
+    "date": null,
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The document is an excerpt from a book, likely 'Filth' by James Patterson, based on the headers. The right page is partially cut off, leading to incomplete sentences at the end of lines. The page number on the right is also partially cut off, showing '17' instead of '177'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010517.jpg",
+  "house_oversight_id": "010517",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:07:13.694099Z",
+    "model": "gemini-2.5-pro"
+  }
+}

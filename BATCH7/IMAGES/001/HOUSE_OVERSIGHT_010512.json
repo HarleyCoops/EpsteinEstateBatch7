@@ -1,0 +1,140 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010512.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing two pages side-by-side. The left page is a portion of a printed book, page number 170, with text discussing legal matters and Jeffrey Epstein. The right page is a formal letter from the Town of Palm Beach Police Department, dated May 1, 2006, addressed to State Attorney Barry E. Krischer. The letter concerns the submission of case files related to Jeffrey Epstein. A document identifier 'HOUSE_OVERSIGHT_010512' is visible at the bottom right.",
+    "layout": "Two-page spread. The left page contains a single column of text. The right page is a standard business letter with a header, recipient address, date, body, and signature block.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "TERSON\n\nour virginity”: “I already lost it.”\naught with drugs and arrested.\n'om Victoria’s Secret. From the\ne girls look like compromised\nut Epstein is true, wouldn’t that\n\ne weak, while the lawyers on\nstrong.\n\nnted Claus von Bülow, the Brit-\nf the murder of his wife, Sunny.\nmpson’s team when the former\ne murders of his ex-wife, Nicole\nend Ronald Lyle Goldman. And\nhad been, neither one had had\nvilling and able to deploy in his\n\ntimate friends with his lawyer.\ned, none of that mattered. Even if\ne’d molested were eighteen years\nm—it didn’t matter under Flor-\nthat in Epstein’s case exceptions\neven more concerned with each\nthe state attorney’s office.\nD asked the state attorney’s office\nffrey Epstein.\nr took the extraordinary step of\nall but demanding that he recuse\n\n170\n\nTOWN OF PALM BEACH\nPOLICE DEPARTMENT\nA NATIONAL AND STATE ACCREDITED LAW ENFORCEMENT AGENCY\n\nMay 1, 2006\n\nPERSONAL AND CONFIDENTIAL\n\nMr. Barry E. Krischer, State Attorney\nOffice of the State Attorney\nFifteenth Judicial Circuit\n401 North Dixie Highway\nWest Palm Beach, FL 33401\n\nDear Mr. Krischer,\n\nPlease find enclosed the probable cause affidavits and case filing packages thus far resulting from the Palm Beach Police Department's investigation of Jeffrey Epstein, Sarah Kellen and Haley Robson. The submission of these documents are both in response to Assistant State Attorney Lanna Belohlavek's request for them and to serve as the Palm Beach Police Department's presentation for prosecution.\n\nI know that you agree that it is our shared responsibility to seek justice and to serve the public interest by discharging our duties with fairness and accountability. I must renew my prior observation to you that I continue to find your office's treatment of these cases highly unusual. It is regrettable that I am forced to communicate in this manner but my most recent telephone calls to you and those of the lead detective to your assigned attorneys have been unanswered and messages remain unreturned.\n\nAfter giving this much thought and consideration, I must urge you to examine the unusual course that your office's handling of this matter has taken and consider if good and sufficient reason exists to require your disqualification from the prosecution of these cases.\n\nSincerely,\n\nMichael S. Reiter\nMichael S. Reiter\nChief of Police\n\nMSR:nt\n\n345 South County Road • Palm Beach, Florida 33480-4443 • (561) 838-5400 • Fax (561) 835-4700 • www.palmbeachpolice.com\n\nHOUSE_OVERSIGHT_010512",
+    "text_regions": [
+      {
+        "region": "left_page_header",
+        "text": "TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "left_page_body",
+        "text": "our virginity”: “I already lost it.”\naught with drugs and arrested.\n'om Victoria’s Secret. From the\ne girls look like compromised\nut Epstein is true, wouldn’t that\n\ne weak, while the lawyers on\nstrong.\n\nnted Claus von Bülow, the Brit-\nf the murder of his wife, Sunny.\nmpson’s team when the former\ne murders of his ex-wife, Nicole\nend Ronald Lyle Goldman. And\nhad been, neither one had had\nvilling and able to deploy in his\n\ntimate friends with his lawyer.\ned, none of that mattered. Even if\ne’d molested were eighteen years\nm—it didn’t matter under Flor-\nthat in Epstein’s case exceptions\neven more concerned with each\nthe state attorney’s office.\nD asked the state attorney’s office\nffrey Epstein.\nr took the extraordinary step of\nall but demanding that he recuse",
+        "type": "printed"
+      },
+      {
+        "region": "left_page_footer",
+        "text": "170",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_header",
+        "text": "TOWN OF PALM BEACH\nPOLICE DEPARTMENT\nA NATIONAL AND STATE ACCREDITED LAW ENFORCEMENT AGENCY",
+        "type": "printed"
+      },
+      {
+        "region": "right_page_date",
+        "text": "May 1, 2006",
+        "type": "typed"
+      },
+      {
+        "region": "right_page_recipient_address",
+        "text": "PERSONAL AND CONFIDENTIAL\n\nMr. Barry E. Krischer, State Attorney\nOffice of the State Attorney\nFifteenth Judicial Circuit\n401 North Dixie Highway\nWest Palm Beach, FL 33401",
+        "type": "typed"
+      },
+      {
+        "region": "right_page_body",
+        "text": "Dear Mr. Krischer,\n\nPlease find enclosed the probable cause affidavits and case filing packages thus far resulting from the Palm Beach Police Department's investigation of Jeffrey Epstein, Sarah Kellen and Haley Robson. The submission of these documents are both in response to Assistant State Attorney Lanna Belohlavek's request for them and to serve as the Palm Beach Police Department's presentation for prosecution.\n\nI know that you agree that it is our shared responsibility to seek justice and to serve the public interest by discharging our duties with fairness and accountability. I must renew my prior observation to you that I continue to find your office's treatment of these cases highly unusual. It is regrettable that I am forced to communicate in this manner but my most recent telephone calls to you and those of the lead detective to your assigned attorneys have been unanswered and messages remain unreturned.\n\nAfter giving this much thought and consideration, I must urge you to examine the unusual course that your office's handling of this matter has taken and consider if good and sufficient reason exists to require your disqualification from the prosecution of these cases.",
+        "type": "typed"
+      },
+      {
+        "region": "right_page_closing",
+        "text": "Sincerely,\n\nMichael S. Reiter\nMichael S. Reiter\nChief of Police",
+        "type": "typed"
+      },
+      {
+        "region": "right_page_initials",
+        "text": "MSR:nt",
+        "type": "typed"
+      },
+      {
+        "region": "right_page_footer",
+        "text": "345 South County Road • Palm Beach, Florida 33480-4443 • (561) 838-5400 • Fax (561) 835-4700 • www.palmbeachpolice.com",
+        "type": "printed"
+      },
+      {
+        "region": "document_identifier",
+        "text": "HOUSE_OVERSIGHT_010512",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-05-01"
+    ],
+    "people": [
+      "Claus von Bülow",
+      "Sunny",
+      "Nicole",
+      "Ronald Lyle Goldman",
+      "Jeffrey Epstein",
+      "Barry E. Krischer",
+      "Sarah Kellen",
+      "Haley Robson",
+      "Lanna Belohlavek",
+      "Michael S. Reiter"
+    ],
+    "organizations": [
+      "Victoria’s Secret",
+      "Town of Palm Beach Police Department",
+      "Office of the State Attorney",
+      "Fifteenth Judicial Circuit"
+    ],
+    "locations": [
+      "West Palm Beach, FL 33401",
+      "Palm Beach, Florida 33480-4443"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010512",
+      "170"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(561) 838-5400",
+        "(561) 835-4700"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "401 North Dixie Highway, West Palm Beach, FL 33401",
+        "345 South County Road, Palm Beach, Florida 33480-4443"
+      ]
+    },
+    "signatures": [
+      "Michael S. Reiter"
+    ],
+    "stamps_or_markings": [
+      "Seal of the Town of Palm Beach, Florida, 1935",
+      "Palm Beach Florida Police seal"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Michael S. Reiter, Chief of Police, Town of Palm Beach Police Department",
+    "recipient": "Mr. Barry E. Krischer, State Attorney",
+    "subject": "Submission of probable cause affidavits and case filing packages for the investigation of Jeffrey Epstein, Sarah Kellen, and Haley Robson, and concerns about the State Attorney's Office's handling of the cases.",
+    "date": "2006-05-01",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The image contains two distinct documents: a page from a book (left) and a formal letter (right). The text from the left page is partially cut off at the margins. The letter on the right is fully visible and provides the primary context for the document.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010512.jpg",
+  "house_oversight_id": "010512",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:05:07.049735Z",
+    "model": "gemini-2.5-pro"
+  }
+}

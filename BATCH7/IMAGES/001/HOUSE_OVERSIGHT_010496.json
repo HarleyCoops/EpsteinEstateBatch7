@@ -2,13 +2,13 @@
   "file_name": "HOUSE_OVERSIGHT_010496.jpg",
   "image_analysis": {
     "type": "document",
-    "description": "A black and white scan of an open book, displaying two pages side-by-side. Page 152 is on the left and page 153 is on the right. The book's binding is visible in the center. The text appears to be from a non-fiction book or biography. A document control number is visible at the bottom of the image.",
-    "layout": "Two-page spread from a book. Page 152 on the left contains the end of a chapter. Page 153 on the right begins 'CHAPTER 39'. Page numbers are at the bottom of each page. A document identifier is in the footer area of the overall image.",
-    "quality": "high",
+    "description": "A black and white scan of a two-page spread from a printed book. The left page is numbered 152 and the right page is 153. The book's binding is visible in the center, causing some text to be obscured and the pages to curve. A document control number is stamped at the bottom of the image.",
+    "layout": "Two-column layout, corresponding to two pages of a book. Page 152 is on the left, and page 153 is on the right. Each page has a header, a main body of text, and a page number at the bottom. There is a document identifier at the very bottom of the image frame.",
+    "quality": "medium",
     "orientation": "portrait"
   },
   "text_extraction": {
-    "full_text": "ITTERSON\n\ngot to speak to Carter directly.\ning women. And we still get to\n\nte down the rest of what Carter\nl her. “I’m Canadian.”\nin the March issue, still created a\nlented Mr. Epstein” in a sly refer-\nlebrated suspense novel The Tal-\ntion, by Anthony Minghella, was\nnity Fair’s readers. For Graydon\nIs Epstein some sort of scam artist,\nn enough. And throughout the\ners wouldn’t miss as they drew\nstein’s life story. It came through\nt paragraph of Ward’s 7,500-word\nut there is something innocent,\nEpstein.”\nnt was rather ironic—so much so\nopposite.\n\n152\n\nCHAPTER 39\n\nTodd Meister: June 2015\n\nHarry Cipriani, on Fifth Avenue, is a New York institu-\ntion. The restaurant began its life as an American out-\npost of Harry’s Bar—which was itself a famous American\noutpost in Venice. Located inside the Sherry-Netherland hotel,\nit’s a theme restaurant—the theme being money. And today, a\nhedge-fund manager named Todd Meister is talking about a very\nwealthy man—Jeffrey Epstein—whom he knows through his\nfather, Epstein’s sometime friend Bob Meister.\n“I’ve known Jeffrey since I was nineteen,” Meister says. “So\nlet me tell you what I know—whatever everyone knows and\neverybody else says. First off, he’s no billionaire. Second off—\nand here’s why—he has no clue how to invest. He has people do\nthat for him.”\nMeister knows how to invest. He does it for other people and, as\nthe son of a superrich father, for himself. He also knows about the\n\n153\n\nHOUSE_OVERSIGHT_010496",
+    "full_text": "ITTERSON\n\ngot to speak to Carter directly.\ning women. And we still get to\n\nte down the rest of what Carter\nl her. “I’m Canadian.”\nin the March issue, still created a\nlented Mr. Epstein” in a sly refer-\nlebrated suspense novel The Tal-\ntion, by Anthony Minghella, was\nnity Fair’s readers. For Graydon\nIs Epstein some sort of scam artist,\nn enough. And throughout the\ners wouldn’t miss as they drew\nostein’s life story. It came through\nt paragraph of Ward’s 7,500-word\nut there is something innocent,\nEpstein.”\nnt was rather ironic—so much so\nopposite.\n\n152\n\nCHAPTER 39\n\nTodd Meister: June 2015\n\nHarry Cipriani, on Fifth Avenue, is a New York institu-\ntion. The restaurant began its life as an American out-\npost of Harry’s Bar—which was itself a famous American\noutpost in Venice. Located inside the Sherry-Netherland hotel,\nit’s a theme restaurant—the theme being money. And today, a\nhedge-fund manager named Todd Meister is talking about a very\nwealthy man—Jeffrey Epstein—whom he knows through his\nfather, Epstein’s sometime friend Bob Meister.\n“I’ve known Jeffrey since I was nineteen,” Meister says. “So\nlet me tell you what I know—whatever everyone knows and\neverybody else says. First off, he’s no billionaire. Second off—\nand here’s why—he has no clue how to invest. He has people do\nthat for him.”\nMeister knows how to invest. He does it for other people and, as\nthe son of a superrich father, for himself. He also knows about the\n\n153\n\nHOUSE_OVERSIGHT_010496",
     "text_regions": [
       {
         "region": "header",
@@ -16,12 +16,12 @@
         "type": "printed"
       },
       {
-        "region": "body_left_page",
-        "text": "got to speak to Carter directly.\ning women. And we still get to\n\nte down the rest of what Carter\nl her. “I’m Canadian.”\nin the March issue, still created a\nlented Mr. Epstein” in a sly refer-\nlebrated suspense novel The Tal-\ntion, by Anthony Minghella, was\nnity Fair’s readers. For Graydon\nIs Epstein some sort of scam artist,\nn enough. And throughout the\ners wouldn’t miss as they drew\nstein’s life story. It came through\nt paragraph of Ward’s 7,500-word\nut there is something innocent,\nEpstein.”\nnt was rather ironic—so much so\nopposite.",
+        "region": "body",
+        "text": "got to speak to Carter directly.\ning women. And we still get to\n\nte down the rest of what Carter\nl her. “I’m Canadian.”\nin the March issue, still created a\nlented Mr. Epstein” in a sly refer-\nlebrated suspense novel The Tal-\ntion, by Anthony Minghella, was\nnity Fair’s readers. For Graydon\nIs Epstein some sort of scam artist,\nn enough. And throughout the\ners wouldn’t miss as they drew\nostein’s life story. It came through\nt paragraph of Ward’s 7,500-word\nut there is something innocent,\nEpstein.”\nnt was rather ironic—so much so\nopposite.",
         "type": "printed"
       },
       {
-        "region": "footer_left_page",
+        "region": "footer",
         "text": "152",
         "type": "printed"
       },
@@ -31,17 +31,17 @@
         "type": "printed"
       },
       {
-        "region": "sub_header",
+        "region": "header",
         "text": "Todd Meister: June 2015",
         "type": "printed"
       },
       {
-        "region": "body_right_page",
+        "region": "body",
         "text": "Harry Cipriani, on Fifth Avenue, is a New York institu-\ntion. The restaurant began its life as an American out-\npost of Harry’s Bar—which was itself a famous American\noutpost in Venice. Located inside the Sherry-Netherland hotel,\nit’s a theme restaurant—the theme being money. And today, a\nhedge-fund manager named Todd Meister is talking about a very\nwealthy man—Jeffrey Epstein—whom he knows through his\nfather, Epstein’s sometime friend Bob Meister.\n“I’ve known Jeffrey since I was nineteen,” Meister says. “So\nlet me tell you what I know—whatever everyone knows and\neverybody else says. First off, he’s no billionaire. Second off—\nand here’s why—he has no clue how to invest. He has people do\nthat for him.”\nMeister knows how to invest. He does it for other people and, as\nthe son of a superrich father, for himself. He also knows about the",
         "type": "printed"
       },
       {
-        "region": "footer_right_page",
+        "region": "footer",
         "text": "153",
         "type": "printed"
       },
@@ -79,9 +79,7 @@
       "Venice"
     ],
     "document_numbers": [
-      "HOUSE_OVERSIGHT_010496",
-      "152",
-      "153"
+      "HOUSE_OVERSIGHT_010496"
     ],
     "financial_amounts": [],
     "contact_info": {
@@ -91,29 +89,27 @@
     },
     "signatures": [],
     "stamps_or_markings": [
-      "Document identifier 'HOUSE_OVERSIGHT_010496' at the bottom of the image."
+      "HOUSE_OVERSIGHT_010496"
     ]
   },
   "document_metadata": {
-    "document_type": "Book Excerpt",
+    "document_type": "Book excerpt",
     "sender": null,
     "recipient": null,
-    "subject": "An account by Todd Meister regarding his knowledge of Jeffrey Epstein, including his financial status and investment abilities.",
+    "subject": "An interview or account by Todd Meister regarding Jeffrey Epstein, dated June 2015.",
     "date": "2015-06",
-    "references": [
-      "HOUSE_OVERSIGHT_010496"
-    ]
+    "references": []
   },
   "confidence": {
     "text_extraction": 0.98,
     "structured_data": 0.99,
     "overall": 0.98
   },
-  "notes": "The text on the left page (152) is cut off at the beginning of each line, making it an incomplete fragment of a larger text. The text on the right page (153) appears to be the beginning of a new chapter.",
+  "notes": "The image is a scan of two pages from a book, identified as pages 152 and 153. The text on the left page is partially cut off by the edge of the scan. The document has a Bates stamp 'HOUSE_OVERSIGHT_010496' at the bottom, indicating it is part of a collection of documents, likely from the House Oversight Committee.",
   "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010496.jpg",
   "house_oversight_id": "010496",
   "processing_metadata": {
-    "processed_at": "2025-11-13T20:48:45.124975Z",
+    "processed_at": "2025-11-13T23:58:23.331869Z",
     "model": "gemini-2.5-pro"
   }
 }

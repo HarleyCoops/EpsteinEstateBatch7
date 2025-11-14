@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010508.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a two-page spread from a book or bound report. The left page is numbered 166 and its text is partially cut off by the inner margin. The right page is numbered 167 and begins with 'CHAPTER 43', followed by what appears to be a police report. A document identifier 'HOUSE_OVERSIGHT_010508' is visible at the bottom right.",
+    "layout": "Two-page spread with a central gutter. Each page has a page number at the bottom. The right page has a chapter heading, a title, and paragraphs of body text. The bottom of the image has a footer with a document number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "[T]TERSON\n\ning to wonder if Krischer was\nfavor—if, thanks to the sway\nuries, assembling such a jury\nostein off with the lightest pun-\n\nway Barry Krischer and the law-\nief Reiter's multiple phone calls\neven though the police had been\nvers.\nellent relationship,” Chief Reiter\n: speaker at his swearing-in cere-\nurn my phone calls—I mean, it\nhat he could not objectively look\n\nd up writing, Detective Recarey\nhe received from Guy Fronstin,\nEpstein.\nnted to send, something central to\ntion. The whole shit show swirling\nstanding—a misrepresentation—\nntentions.\n; very passionate about massages,\n\nted over $100,000 to the Ballet of\n\nrapeutic and spiritually sound for\nnany massages.\n\n166\n\nCHAPTER 43\n\nPalm Beach Police Department Incident Report Filed\nby Detective Joseph Recarey: July 25, 2006\n\nOn April 13 and April 14, 2006, I attempted contact on sev-\neral occasions with ASA [assistant state attorney Daliah]\nWeiss and ASA [Lanna] Belohlavek to ascertain when the\nvictims needed to report for Grand Jury testimony. Messages\nwere left on their voicemail. On April 17, 2006, during the\nhours of 9:00 am and 11:30 am I again left messages for ASA\nWeiss and ASA Belohlavek for either of them to return my\ncall as I had not heard from the State Attorney's Office as to\nthe time and date of the Grand Jury.\n\nAt approximately 12:30 pm, I went to the State Attor-\nney's Office and Located ASA Weiss and ASA Belohlavek in\ntheir offices. I entered ASA Belohlavek's office who informed\nme that she was going to return my call. She explained that\nan offer was made to the Defense, Atty Guy Fronstin and\n\n167\n\nHOUSE_OVERSIGHT_010508",
+    "text_regions": [
+      {
+        "region": "body_left_page",
+        "text": "[T]TERSON\n\ning to wonder if Krischer was\nfavor—if, thanks to the sway\nuries, assembling such a jury\nostein off with the lightest pun-\n\nway Barry Krischer and the law-\nief Reiter's multiple phone calls\neven though the police had been\nvers.\nellent relationship,” Chief Reiter\n: speaker at his swearing-in cere-\nurn my phone calls—I mean, it\nhat he could not objectively look\n\nd up writing, Detective Recarey\nhe received from Guy Fronstin,\nEpstein.\nnted to send, something central to\ntion. The whole shit show swirling\nstanding—a misrepresentation—\nntentions.\n; very passionate about massages,\n\nted over $100,000 to the Ballet of\n\nrapeutic and spiritually sound for\nnany massages.",
+        "type": "printed"
+      },
+      {
+        "region": "footer_left_page",
+        "text": "166",
+        "type": "printed"
+      },
+      {
+        "region": "header_right_page",
+        "text": "CHAPTER 43",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_page",
+        "text": "Palm Beach Police Department Incident Report Filed\nby Detective Joseph Recarey: July 25, 2006\n\nOn April 13 and April 14, 2006, I attempted contact on sev-\neral occasions with ASA [assistant state attorney Daliah]\nWeiss and ASA [Lanna] Belohlavek to ascertain when the\nvictims needed to report for Grand Jury testimony. Messages\nwere left on their voicemail. On April 17, 2006, during the\nhours of 9:00 am and 11:30 am I again left messages for ASA\nWeiss and ASA Belohlavek for either of them to return my\ncall as I had not heard from the State Attorney's Office as to\nthe time and date of the Grand Jury.\n\nAt approximately 12:30 pm, I went to the State Attor-\nney's Office and Located ASA Weiss and ASA Belohlavek in\ntheir offices. I entered ASA Belohlavek's office who informed\nme that she was going to return my call. She explained that\nan offer was made to the Defense, Atty Guy Fronstin and",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right_page",
+        "text": "167",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010508",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-07-25",
+      "2006-04-13",
+      "2006-04-14",
+      "2006-04-17"
+    ],
+    "people": [
+      "Krischer",
+      "Barry Krischer",
+      "Reiter",
+      "Chief Reiter",
+      "Detective Recarey",
+      "Guy Fronstin",
+      "Epstein",
+      "Joseph Recarey",
+      "Daliah Weiss",
+      "Lanna Belohlavek"
+    ],
+    "organizations": [
+      "Ballet",
+      "Palm Beach Police Department",
+      "State Attorney's Office",
+      "Grand Jury",
+      "Defense"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010508"
+    ],
+    "financial_amounts": [
+      "$100,000"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Incident Report",
+    "sender": "Detective Joseph Recarey",
+    "recipient": null,
+    "subject": "Palm Beach Police Department Incident Report regarding contact with State Attorney's Office",
+    "date": "2006-07-25",
+    "references": [
+      "HOUSE_OVERSIGHT_010508"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The text on the left page (166) is partially cut off by the book's gutter, making the beginning of each line unreadable. The content on the left page appears to be narrative text from a book, while the right page contains a formal document, an incident report.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010508.jpg",
+  "house_oversight_id": "010508",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:03:14.886425Z",
+    "model": "gemini-2.5-pro"
+  }
+}
