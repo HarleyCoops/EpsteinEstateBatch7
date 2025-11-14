@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010531.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of an open book or bound document, showing two pages of printed text. The left page (190) is fully visible, while the right page (1) is partially visible as it curves into the spine. The document has a footer at the bottom right with the text 'HOUSE_OVERSIGHT_010531'.",
+    "layout": "Two-page spread. The left page contains a chapter heading, a subheading, body text, and a page number at the bottom. The right page contains a page number at the top and body text.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 50\n\nJane Doe: February 2008\n\nAs a result of the non-prosecution agreement, a fifty-three-count indictment that federal prosecutors had prepared against Jeffrey Epstein—one that claimed he’d abused dozens of underage women—never was filed.\nBut as far as lawyers representing Epstein’s victims were concerned, the fact that those victims were not consulted about the non-prosecution agreement was inexcusable. The “government deliberately kept crime victims ‘in the dark’ so that it could enter into a plea arrangement designed to prevent the victims from raising any objections,” they would argue, in documents filed on February 10, 2016. For nine months, the lawyers claimed, from the time that the NPA was signed, on September 24, 2007, Krischer’s office, “doing Epstein’s bidding, [had] concealed the NPA’s existence from victim[s]” and continued to do so until the\n\n190\n\n1\n\nmoment that Epstein had\nfinally did June 30, 2008.\nIn the interim, accordi\nwere only told, “This case i\nA lawsuit that Bradley\nFort Lauderdale, filed in J\nRights Act, or CVRA (titl\nwhich states that “victims\ning the right to be heard i\nbe precluded from court pr\nfairly.”\nAccording to him, pros\nof the victims. Edwards, v\nknew that this suit against\nmonetary recovery of any\nalso knew that if the gover\nentered into a contract tha\nrights of Epstein’s victims,\nhave been improper in and\nremedy would have been to\nwhile it is difficult to know\ncontract is overturned, one\ncould prosecute Epstein fo\nstatute of limitations on tho\nAt the time of this wr\nthrough the courts. It has\nBleak House—the Charles I\nis so massive and so comple\neveryone involved into the n\n\nHOUSE_OVERSIGHT_010531",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CHAPTER 50",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Jane Doe: February 2008",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "As a result of the non-prosecution agreement, a fifty-three-\ncount indictment that federal prosecutors had prepared\nagainst Jeffrey Epstein—one that claimed he’d abused\ndozens of underage women—never was filed.\nBut as far as lawyers representing Epstein’s victims were con-\ncerned, the fact that those victims were not consulted about the\nnon-prosecution agreement was inexcusable. The “government\ndeliberately kept crime victims ‘in the dark’ so that it could enter\ninto a plea arrangement designed to prevent the victims from\nraising any objections,” they would argue, in documents filed on\nFebruary 10, 2016. For nine months, the lawyers claimed, from\nthe time that the NPA was signed, on September 24, 2007,\nKrischer’s office, “doing Epstein’s bidding, [had] concealed the\nNPA’s existence from victim[s]” and continued to do so until the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "190",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "1",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "moment that Epstein had\nfinally did June 30, 2008.\nIn the interim, accordi\nwere only told, “This case i\nA lawsuit that Bradley\nFort Lauderdale, filed in J\nRights Act, or CVRA (titl\nwhich states that “victims\ning the right to be heard i\nbe precluded from court pr\nfairly.”\nAccording to him, pros\nof the victims. Edwards, v\nknew that this suit against\nmonetary recovery of any\nalso knew that if the gover\nentered into a contract tha\nrights of Epstein’s victims,\nhave been improper in and\nremedy would have been to\nwhile it is difficult to know\ncontract is overturned, one\ncould prosecute Epstein fo\nstatute of limitations on tho\nAt the time of this wr\nthrough the courts. It has\nBleak House—the Charles I\nis so massive and so comple\neveryone involved into the n",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010531",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-02",
+      "2016-02-10",
+      "2007-09-24",
+      "2008-06-30"
+    ],
+    "people": [
+      "Jane Doe",
+      "Jeffrey Epstein",
+      "Krischer",
+      "Bradley",
+      "Edwards"
+    ],
+    "organizations": [
+      "Krischer’s office"
+    ],
+    "locations": [
+      "Fort Lauderdale"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010531",
+      "190",
+      "1"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book or Report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Non-prosecution agreement (NPA) concerning Jeffrey Epstein and its impact on his victims.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010531"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The text on the right page is partially cut off by the book's binding, leading to incomplete lines of text. The document appears to be a narrative account, possibly from a book or an investigative report, rather than a primary legal document itself.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010531.jpg",
+  "house_oversight_id": "010531",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:13:05.886125Z",
+    "model": "gemini-2.5-pro"
+  }
+}

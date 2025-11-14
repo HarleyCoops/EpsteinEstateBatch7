@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010529.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a two-page spread from an open book. The book's gutter is visible in the center, separating page 188 on the left from page 189 on the right. The text is printed in a serif font. The bottom of the image shows a dark, textured surface, possibly the book's cover or the surface it is resting on.",
+    "layout": "Two-column layout corresponding to two pages of a book. Each page has a header, a main body of text, and a footer with a page number. A document identifier is present in the bottom right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nFILT\n\ncauses had made him a player on that side of the political aisle. He had a famous Republican, Bill Clinton's nemesis, Ken Starr, work-ing the other side. And just to make sure they'd covered the bases, Epstein's team also recruited Roy Black—the lawyer who'd cleared William Kennedy Smith of rape and kept Rush Limbaugh out of prison for his alleged illegal drug use—and Jay Lefkowitz, a defense attorney who'd worked with US attorney R. Alexander Acosta at Ken Starr's law firm.\n\nAnd so in September, the US attorney's office reached a for-mal agreement with Epstein's team: the United States would defer federal prosecution in favor of prosecution by the state of Florida.\n\nA non-prosecution agreement (NPA) was drafted; among other things, it assured Epstein that he would not be prosecuted in the Southern District of Florida for felony offenses involving the sexual abuse of underage girls. (By that point, thirty known victims had been discovered.) Instead it allowed him to plead guilty to state felony offenses for solicitation of prostitution and the procurement of minors for prostitution. The NPA established a procedure that allowed Epstein's victims to sue him in civil court and took the extraordinary step of ensuring that “any potential co-conspirators” of Epstein's would be immune from prosecution.\n\n“In consideration of Epstein's agreement to plead guilty and to provide compensation in the manner described above, if Epstein successfully fulfills all of the terms and conditions of this agreement, the United States also agrees that it will not institute any criminal charges against any potential co-conspira-tors of Epstein,” the agreement stated, mentioning Sarah Kellen and Nadia Marcinkova by name.\n\n188\n\n“The parties anticipate tha\npart of any public record,” t\nUnited States receives a Freed\nany compulsory process comm\nment, it will provide notice\ndisclosure.”\n\nRemarkably, despite assur\nfeds, none of the victims was (\nthis NPA.\n\nIf Epstein did not sign the a\ncount indictment and a decade\nteam of lawyers had gotten him\nted all the teeth in South Florid:\n\nFor all his protestations of ir\nin the world to agree to an NPA.\n\nOn September 24, 2007, Eps\nOnce again, none of the v\nnotified.\n\n189\n\nHOUSE_OVERSIGHT_010529",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILT",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "causes had made him a player on that side of the political aisle. He had a famous Republican, Bill Clinton's nemesis, Ken Starr, work-ing the other side. And just to make sure they'd covered the bases, Epstein's team also recruited Roy Black—the lawyer who'd cleared William Kennedy Smith of rape and kept Rush Limbaugh out of prison for his alleged illegal drug use—and Jay Lefkowitz, a defense attorney who'd worked with US attorney R. Alexander Acosta at Ken Starr's law firm.\n\nAnd so in September, the US attorney's office reached a for-mal agreement with Epstein's team: the United States would defer federal prosecution in favor of prosecution by the state of Florida.\n\nA non-prosecution agreement (NPA) was drafted; among other things, it assured Epstein that he would not be prosecuted in the Southern District of Florida for felony offenses involving the sexual abuse of underage girls. (By that point, thirty known victims had been discovered.) Instead it allowed him to plead guilty to state felony offenses for solicitation of prostitution and the procurement of minors for prostitution. The NPA established a procedure that allowed Epstein's victims to sue him in civil court and took the extraordinary step of ensuring that “any potential co-conspirators” of Epstein's would be immune from prosecution.\n\n“In consideration of Epstein's agreement to plead guilty and to provide compensation in the manner described above, if Epstein successfully fulfills all of the terms and conditions of this agreement, the United States also agrees that it will not institute any criminal charges against any potential co-conspira-tors of Epstein,” the agreement stated, mentioning Sarah Kellen and Nadia Marcinkova by name.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“The parties anticipate tha\npart of any public record,” t\nUnited States receives a Freed\nany compulsory process comm\nment, it will provide notice\ndisclosure.”\n\nRemarkably, despite assur\nfeds, none of the victims was (\nthis NPA.\n\nIf Epstein did not sign the a\ncount indictment and a decade\nteam of lawyers had gotten him\nted all the teeth in South Florid:\n\nFor all his protestations of ir\nin the world to agree to an NPA.\n\nOn September 24, 2007, Eps\nOnce again, none of the v\nnotified.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "188",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "189",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010529",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-09-24"
+    ],
+    "people": [
+      "James Patterson",
+      "Bill Clinton",
+      "Ken Starr",
+      "Epstein",
+      "Roy Black",
+      "William Kennedy Smith",
+      "Rush Limbaugh",
+      "Jay Lefkowitz",
+      "R. Alexander Acosta",
+      "Sarah Kellen",
+      "Nadia Marcinkova"
+    ],
+    "organizations": [
+      "US attorney's office",
+      "United States",
+      "Southern District of Florida",
+      "Ken Starr's law firm"
+    ],
+    "locations": [
+      "Florida",
+      "South Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010529",
+      "188",
+      "189"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Book Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Non-prosecution agreement (NPA) with Jeffrey Epstein",
+    "date": "2007-09-24",
+    "references": [
+      "HOUSE_OVERSIGHT_010529"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a page from the book 'Filthy Rich' by James Patterson, which has been submitted as evidence to the House Oversight committee, as indicated by the footer stamp. The text on the right page is partially cut off at the right margin.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010529.jpg",
+  "house_oversight_id": "010529",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:12:12.739565Z",
+    "model": "gemini-2.5-pro"
+  }
+}

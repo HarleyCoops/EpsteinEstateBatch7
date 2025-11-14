@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010527.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A composite image showing a scanned letter on the left and a portion of a printed book page on the right. The letter is from the Town of Palm Beach Police Department, dated July 24, 2006, and discusses the Jeffrey Epstein case with the father of a victim. The recipient's name and address are redacted. The book page on the right also discusses Jeffrey Epstein. A document control number is visible at the bottom right.",
+    "layout": "The image is vertically split. The left two-thirds contains a formal letter on letterhead. The right one-third shows the inner margin and text of a book page. A footer with an identifier is at the very bottom.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "SEAL OF THE TOWN OF PALM BEACH FLORIDA\nTOWN OF PALM BEACH\nPOLICE DEPARTMENT\nFLORIDA POLICE\nA NATIONAL AND STATE ACCREDITED LAW ENFORCEMENT AGENCY\nJuly 24, 2006\nHAND DELIVERED\nDear Mr. [REDACTED]\nYour daughter [REDACTED] was the victim of a crime which has been investigated by the Palm Beach Police Department and subsequently referred for prosecution to the Palm Beach County State Attorney's Office. You may be aware that Jeffrey Epstein was indicted on charges of solicitation for prostitution by a State of Florida grand jury last week and turned himself in at the Palm Beach County jail on July 23, 2006. While I do not speak for them, it is my understanding that is the full context in which the Palm Beach County State Attorney's Office intends to address the charges that involved the crime in which your daughter was victim.\nPlease know that it is the role and responsibility of law enforcement to investigate crime and to refer appropriate charges to the prosecutor for consideration. I believe that the Palm Beach Police Department has acted competently and responsibly in carrying out this role. Should you have any questions concerning the state prosecution of this matter, they are best addressed by the Palm Beach County State Attorney's Office.\nI do not feel that justice has been sufficiently served by the indictment that has been issued. Therefore, please know that his matter has been referred to the Federal Bureau of Investigation to determine if violations of federal law have occurred. In the event that the FBI should choose to pursue this matter, the Palm Beach Police Department will assist them in their investigation of potential violations of federal law.\nPlease feel free to contact me at (561) 838-5460 should you have any questions.\nSincerely,\nMichael S. Reiter\nMichael S. Reiter\nChief of Police\nMSR:nl\n345 South County Road - Palm Beach, Florida 33480-4413 - (561) 838-5460 - Fax (561) 835-4700 - www.palmbeachpolice.com\nJeffrey Epstein: Septem.\nIn the winter of 2013, Sco\ndle school principal from\nbe sentenced to the m\nyears in prison, with ten ye\ning guilty to one charge of se\nBlake's crime? He sent se\nton Beach police officer who v\nboy. But in a sense, Blake v\ntenced to life. The case was a\ntreatment regular Florida foll\nwith a minor. But nothing a\nand the plea deal he mana\nextraordinary.\nEpstein had bought himse\nassembled. His connections\nHOUSE_OVERSIGHT_010527",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "SEAL OF THE TOWN OF PALM BEACH FLORIDA\nTOWN OF PALM BEACH\nPOLICE DEPARTMENT\nFLORIDA POLICE\nA NATIONAL AND STATE ACCREDITED LAW ENFORCEMENT AGENCY",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "July 24, 2006\n\nHAND DELIVERED\n\nDear Mr. [REDACTED]\n\nYour daughter [REDACTED] was the victim of a crime which has been investigated by the Palm Beach Police Department and subsequently referred for prosecution to the Palm Beach County State Attorney's Office. You may be aware that Jeffrey Epstein was indicted on charges of solicitation for prostitution by a State of Florida grand jury last week and turned himself in at the Palm Beach County jail on July 23, 2006. While I do not speak for them, it is my understanding that is the full context in which the Palm Beach County State Attorney's Office intends to address the charges that involved the crime in which your daughter was victim.\n\nPlease know that it is the role and responsibility of law enforcement to investigate crime and to refer appropriate charges to the prosecutor for consideration. I believe that the Palm Beach Police Department has acted competently and responsibly in carrying out this role. Should you have any questions concerning the state prosecution of this matter, they are best addressed by the Palm Beach County State Attorney's Office.\n\nI do not feel that justice has been sufficiently served by the indictment that has been issued. Therefore, please know that his matter has been referred to the Federal Bureau of Investigation to determine if violations of federal law have occurred. In the event that the FBI should choose to pursue this matter, the Palm Beach Police Department will assist them in their investigation of potential violations of federal law.\n\nPlease feel free to contact me at (561) 838-5460 should you have any questions.\n\nSincerely,",
+        "type": "typed"
+      },
+      {
+        "region": "signature_block",
+        "text": "Michael S. Reiter\nMichael S. Reiter\nChief of Police",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer",
+        "text": "MSR:nl\n\n345 South County Road - Palm Beach, Florida 33480-4413 - (561) 838-5460 - Fax (561) 835-4700 - www.palmbeachpolice.com",
+        "type": "typed"
+      },
+      {
+        "region": "right_panel_text",
+        "text": "Jeffrey Epstein: Septem.\n\nIn the winter of 2013, Sco\ndle school principal from\nbe sentenced to the m\nyears in prison, with ten ye\ning guilty to one charge of se\nBlake's crime? He sent se\nton Beach police officer who v\nboy. But in a sense, Blake v\ntenced to life. The case was a\ntreatment regular Florida foll\nwith a minor. But nothing a\nand the plea deal he mana\nextraordinary.\nEpstein had bought himse\nassembled. His connections",
+        "type": "printed"
+      },
+      {
+        "region": "document_label",
+        "text": "HOUSE_OVERSIGHT_010527",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-07-24",
+      "2006-07-23",
+      "2013"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "Michael S. Reiter",
+      "Blake"
+    ],
+    "organizations": [
+      "Town of Palm Beach Police Department",
+      "Palm Beach County State Attorney's Office",
+      "State of Florida grand jury",
+      "Federal Bureau of Investigation (FBI)"
+    ],
+    "locations": [
+      "Palm Beach, Florida",
+      "Palm Beach County jail"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010527"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(561) 838-5460",
+        "(561) 835-4700"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "345 South County Road - Palm Beach, Florida 33480-4413"
+      ]
+    },
+    "signatures": [
+      "Michael S. Reiter"
+    ],
+    "stamps_or_markings": [
+      "Seal of the Town of Palm Beach, Florida",
+      "Florida Police seal"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "Michael S. Reiter, Chief of Police, Town of Palm Beach Police Department",
+    "recipient": "Mr. [REDACTED]",
+    "subject": "Investigation and prosecution of Jeffrey Epstein, and referral of the matter to the FBI.",
+    "date": "2006-07-24",
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The recipient's name and address, as well as the victim's name, have been redacted from the letter. The text on the right side of the image is from a separate document, likely a book, and is incomplete.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010527.jpg",
+  "house_oversight_id": "010527",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:11:17.465537Z",
+    "model": "gemini-2.5-pro"
+  }
+}

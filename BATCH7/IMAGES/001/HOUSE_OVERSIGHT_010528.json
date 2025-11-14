@@ -1,0 +1,133 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010528.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "The image displays two pages side-by-side, as if from an open book or file. The left page is a letter on what appears to be Palm Beach Police Department letterhead. The right page is a page from a book, specifically Chapter 49, discussing Jeffrey Epstein. The bottom right corner of the image has a document identifier label.",
+    "layout": "Two-page spread. The left page is a formal letter, and the right page is a book chapter. The pages are joined at a central binding.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "LM BEACH\nARTMENT\nD LAW ENFORCEMENT AGENCY\n4, 2006\n\n[Police Seal with text 'FLORIDA POLICE']\n\nwhich has been investigated by the Palm\nferred for prosecution to the Palm Beach\nware that Jeffrey Epstein was indicted on\nof Florida grand jury last week and turned\n23, 2006. While I do not speak for them,\nin which the Palm Beach County State\nes that involved the crime in which your\n\ny of law enforcement to investigate crime\nutor for consideration. I believe that the\netently and responsibly in carrying out this\ng the state prosecution of this matter, they\nState Attorney's Office.\n\nserved by the indictment that has been\nhas been referred to the Federal Bureau\neral law have occurred. In the event that\nPalm Beach Police Department will assist\nof federal law.\n\nO should you have any questions.\n\nely,\n\n[Handwritten signature: heul S. Reiter]\n\nl S. Reiter\nf Police\n\n38-5460 • Fax (561) 835-4700 • www.palmbeachpolice.com\n\nCHAPTER 49\n\nJeffrey Epstein: September 2007\n\nIn the winter of 2013, Scott Blake, a forty-seven-year-old mid-\ndle school principal from Palm Beach Gardens, Florida, would\nbe sentenced to the minimum mandatory sentence—ten\nyears in prison, with ten years of probation on top—for plead-\ning guilty to one charge of soliciting sex with a minor.\n\nBlake's crime? He sent sexually charged messages to a Boyn-\nton Beach police officer who was pretending to be a fifteen-year-old\nboy. But in a sense, Blake was lucky: he could have been sen-\ntenced to life. The case was an interesting example of the kind of\ntreatment regular Florida folks could expect just for soliciting sex\nwith a minor. But nothing about Jeffrey Epstein was regular—\nand the plea deal he managed to strike in 2007 was simply\nextraordinary.\n\nEpstein had bought himself one of the best defense teams ever\nassembled. His connections and contributions to Democratic\n\n187\n\nHOUSE_OVERSIGHT_010528",
+    "text_regions": [
+      {
+        "region": "header_left_page",
+        "text": "LM BEACH\nARTMENT\nD LAW ENFORCEMENT AGENCY\n4, 2006",
+        "type": "printed"
+      },
+      {
+        "region": "stamp_left_page",
+        "text": "[Police Seal with text 'FLORIDA POLICE']",
+        "type": "printed"
+      },
+      {
+        "region": "body_left_page",
+        "text": "which has been investigated by the Palm\nferred for prosecution to the Palm Beach\nware that Jeffrey Epstein was indicted on\nof Florida grand jury last week and turned\n23, 2006. While I do not speak for them,\nin which the Palm Beach County State\nes that involved the crime in which your\n\ny of law enforcement to investigate crime\nutor for consideration. I believe that the\netently and responsibly in carrying out this\ng the state prosecution of this matter, they\nState Attorney's Office.\n\nserved by the indictment that has been\nhas been referred to the Federal Bureau\neral law have occurred. In the event that\nPalm Beach Police Department will assist\nof federal law.\n\nO should you have any questions.\n\nely,",
+        "type": "printed"
+      },
+      {
+        "region": "signature_block_left_page",
+        "text": "[Handwritten signature: heul S. Reiter]\nl S. Reiter\nf Police",
+        "type": "handwritten"
+      },
+      {
+        "region": "footer_left_page",
+        "text": "38-5460 • Fax (561) 835-4700 • www.palmbeachpolice.com",
+        "type": "printed"
+      },
+      {
+        "region": "header_right_page",
+        "text": "CHAPTER 49",
+        "type": "printed"
+      },
+      {
+        "region": "title_right_page",
+        "text": "Jeffrey Epstein: September 2007",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_page",
+        "text": "In the winter of 2013, Scott Blake, a forty-seven-year-old mid-\ndle school principal from Palm Beach Gardens, Florida, would\nbe sentenced to the minimum mandatory sentence—ten\nyears in prison, with ten years of probation on top—for plead-\ning guilty to one charge of soliciting sex with a minor.\n\nBlake's crime? He sent sexually charged messages to a Boyn-\nton Beach police officer who was pretending to be a fifteen-year-old\nboy. But in a sense, Blake was lucky: he could have been sen-\ntenced to life. The case was an interesting example of the kind of\ntreatment regular Florida folks could expect just for soliciting sex\nwith a minor. But nothing about Jeffrey Epstein was regular—\nand the plea deal he managed to strike in 2007 was simply\nextraordinary.\n\nEpstein had bought himself one of the best defense teams ever\nassembled. His connections and contributions to Democratic",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right_page",
+        "text": "187",
+        "type": "printed"
+      },
+      {
+        "region": "document_label",
+        "text": "HOUSE_OVERSIGHT_010528",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006-06-23",
+      "2006-07-04",
+      "2007-09",
+      "2013"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "S. Reiter",
+      "Scott Blake"
+    ],
+    "organizations": [
+      "Palm Beach Police Department",
+      "Palm Beach County State Attorney's Office",
+      "Federal Bureau [of Investigation]",
+      "Boynton Beach police"
+    ],
+    "locations": [
+      "Palm Beach",
+      "Florida",
+      "Palm Beach Gardens, Florida",
+      "Boynton Beach"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010528",
+      "187"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "[unclear]38-5460",
+        "(561) 835-4700"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.palmbeachpolice.com"
+      ]
+    },
+    "signatures": [
+      "heul S. Reiter"
+    ],
+    "stamps_or_markings": [
+      "Palm Beach Police Department seal"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Composite image of a letter and a book page",
+    "sender": "S. Reiter, [Chief] of Police",
+    "recipient": null,
+    "subject": "Investigation and indictment of Jeffrey Epstein",
+    "date": "2006-07-04",
+    "references": [
+      "HOUSE_OVERSIGHT_010528"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The image contains two distinct documents. The left is a letter from the Palm Beach Police Department, dated July 4, 2006, regarding the Jeffrey Epstein case. The text is partially cut off on the left margin. The right page is from a book, Chapter 49, which also discusses Jeffrey Epstein and contrasts his case with that of Scott Blake. The document identifier 'HOUSE_OVERSIGHT_010528' applies to the entire image scan. The full name of the police department is inferred from context and the website in the footer. The date '4, 2006' is interpreted as July 4, 2006, a common format, but could be another month. The date '23, 2006' is interpreted as June 23, 2006, based on the context of 'last week'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010528.jpg",
+  "house_oversight_id": "010528",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:11:45.579864Z",
+    "model": "gemini-2.5-pro"
+  }
+}

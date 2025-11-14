@@ -1,0 +1,105 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010530.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-contrast, black and white scan of two pages from a book, showing pages 188 and 189. The image captures the text on both pages, the page numbers, headers, and the book's inner margin/binding. A document identifier is visible at the bottom right.",
+    "layout": "Two-page spread from a book. The left page (188) is partially visible, while the right page (189) is fully visible. There are headers at the top of each page, body text in paragraphs, and page numbers at the bottom center of each page. A footer with a document number is at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "'TERSON\n\nthat side of the political aisle. He\nnton's nemesis, Ken Starr, work-\nke sure they'd covered the bases,\nRoy Black—the lawyer who'd\nof rape and kept Rush Limbaugh\nil drug use—and Jay Lefkowitz,\n. with US attorney R. Alexander\n\ns attorney's office reached a for-\nteam: the United States would\nor of prosecution by the state of\n\nent (NPA) was drafted; among\nthat he would not be prosecuted\nida for felony offenses involving\nrls. (By that point, thirty known\nInstead it allowed him to plead\nor solicitation of prostitution and\nprostitution. The NPA established\nein's victims to sue him in civil\niary step of ensuring that “any\npstein's would be immune from\n\nn's agreement to plead guilty and\nthe manner described above, if\nl of the terms and conditions of\nates also agrees that it will not\nagainst any potential co-conspira-\nt stated, mentioning Sarah Kellen\nle.\n\n188\n\nFILTHY RICH\n\n“The parties anticipate that this agreement will not be made\npart of any public record,” the document concludes. “If the\nUnited States receives a Freedom of Information Act request or\nany compulsory process commanding the disclosure of the agree-\nment, it will provide notice to Epstein before making that\ndisclosure.”\n\nRemarkably, despite assurances they’d received from the\nfeds, none of the victims was consulted prior to the drafting of\nthis NPA.\n\nIf Epstein did not sign the agreement, he faced a fifty-seven-\ncount indictment and a decade or more in prison. But Epstein’s\nteam of lawyers had gotten him a deal so sweet it could have rot-\nted all the teeth in South Florida.\n\nFor all his protestations of innocence, there was every reason\nin the world to agree to an NPA.\n\nOn September 24, 2007, Epstein did sign it.\n\nOnce again, none of the victims had been consulted or\nnotified.\n\n189\n\nHOUSE_OVERSIGHT_010530",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "'TERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "that side of the political aisle. He\nnton's nemesis, Ken Starr, work-\nke sure they'd covered the bases,\nRoy Black—the lawyer who'd\nof rape and kept Rush Limbaugh\nil drug use—and Jay Lefkowitz,\n. with US attorney R. Alexander\n\ns attorney's office reached a for-\nteam: the United States would\nor of prosecution by the state of\n\nent (NPA) was drafted; among\nthat he would not be prosecuted\nida for felony offenses involving\nrls. (By that point, thirty known\nInstead it allowed him to plead\nor solicitation of prostitution and\nprostitution. The NPA established\nein's victims to sue him in civil\niary step of ensuring that “any\npstein's would be immune from\n\nn's agreement to plead guilty and\nthe manner described above, if\nl of the terms and conditions of\nates also agrees that it will not\nagainst any potential co-conspira-\nt stated, mentioning Sarah Kellen\nle.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "“The parties anticipate that this agreement will not be made\npart of any public record,” the document concludes. “If the\nUnited States receives a Freedom of Information Act request or\nany compulsory process commanding the disclosure of the agree-\nment, it will provide notice to Epstein before making that\ndisclosure.”\n\nRemarkably, despite assurances they’d received from the\nfeds, none of the victims was consulted prior to the drafting of\nthis NPA.\n\nIf Epstein did not sign the agreement, he faced a fifty-seven-\ncount indictment and a decade or more in prison. But Epstein’s\nteam of lawyers had gotten him a deal so sweet it could have rot-\nted all the teeth in South Florida.\n\nFor all his protestations of innocence, there was every reason\nin the world to agree to an NPA.\n\nOn September 24, 2007, Epstein did sign it.\n\nOnce again, none of the victims had been consulted or\nnotified.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "188",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "189",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010530",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-09-24"
+    ],
+    "people": [
+      "Ken Starr",
+      "Roy Black",
+      "Rush Limbaugh",
+      "Jay Lefkowitz",
+      "R. Alexander",
+      "Epstein",
+      "Sarah Kellen"
+    ],
+    "organizations": [
+      "United States"
+    ],
+    "locations": [
+      "South Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010530"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010530"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Jeffrey Epstein's Non-Prosecution Agreement (NPA)",
+    "date": "2007-09-24",
+    "references": [
+      "HOUSE_OVERSIGHT_010530"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The image is a scan of pages 188 and 189 from the book 'Filthy Rich' by James Patterson. The left page is partially cut off. The text discusses the legal team and circumstances surrounding Jeffrey Epstein's 2007 non-prosecution agreement (NPA).",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010530.jpg",
+  "house_oversight_id": "010530",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:12:40.689196Z",
+    "model": "gemini-2.5-pro"
+  }
+}

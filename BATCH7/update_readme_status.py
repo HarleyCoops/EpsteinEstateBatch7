@@ -39,41 +39,46 @@ def get_last_commit_time(base_dir: Path) -> str:
 
 
 def update_readme(base_dir: Path) -> bool:
-    """Update README.md with latest commit time."""
-    readme_path = base_dir / "BATCH7" / "README.md"
-    if not readme_path.exists():
-        readme_path = base_dir / "README.md"
-    
-    if not readme_path.exists():
-        print(f"Error: README.md not found at {readme_path}", file=sys.stderr)
-        return False
+    """Update README.md files with latest commit time."""
+    # Update both root README and BATCH7 README
+    readme_files = [
+        base_dir / "README.md",  # Root README
+        base_dir / "BATCH7" / "README.md"  # BATCH7 README
+    ]
     
     # Get last commit time
     last_commit_time = get_last_commit_time(base_dir)
     
-    # Read README
-    try:
-        with open(readme_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-    except Exception as e:
-        print(f"Error reading README: {e}", file=sys.stderr)
-        return False
-    
-    # Replace placeholder
-    updated_content = content.replace("{LAST_GIT_COMMIT_TIME}", last_commit_time)
-    
-    # Only write if changed
-    if updated_content != content:
+    updated_count = 0
+    for readme_path in readme_files:
+        if not readme_path.exists():
+            continue
+        
+        # Read README
         try:
-            with open(readme_path, 'w', encoding='utf-8') as f:
-                f.write(updated_content)
-            print(f"Updated README.md with last commit time: {last_commit_time}")
-            return True
+            with open(readme_path, 'r', encoding='utf-8') as f:
+                content = f.read()
         except Exception as e:
-            print(f"Error writing README: {e}", file=sys.stderr)
-            return False
+            print(f"Error reading {readme_path}: {e}", file=sys.stderr)
+            continue
+        
+        # Replace placeholder
+        updated_content = content.replace("{LAST_GIT_COMMIT_TIME}", last_commit_time)
+        
+        # Only write if changed
+        if updated_content != content:
+            try:
+                with open(readme_path, 'w', encoding='utf-8') as f:
+                    f.write(updated_content)
+                print(f"Updated {readme_path.name} with last commit time: {last_commit_time}")
+                updated_count += 1
+            except Exception as e:
+                print(f"Error writing {readme_path}: {e}", file=sys.stderr)
+    
+    if updated_count > 0:
+        return True
     else:
-        print(f"README.md already up to date (last commit: {last_commit_time})")
+        print(f"README files already up to date (last commit: {last_commit_time})")
         return True
 
 

@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010532.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of a two-page spread from an open book. The left page is numbered 190 and displays the chapter heading 'CHAPTER 50' and the beginning of a paragraph. The right page is numbered 191 and has a running header 'FILTHY RICH' with several paragraphs of text. The book's spine is visible in the center, causing some curvature to the pages. At the very bottom of the image, there is a black bar with the text 'HOUSE_OVERSIGHT_010532', likely a Bates stamp or document identifier.",
+    "layout": "Two-page book spread. The left page (190) has a chapter title and body text. The right page (191) has a header, body text, and a page number. A footer with a document identifier is present at the bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "FILTHY RICH\n\nmoment that Epstein had to plead guilty in court, which he\nfinally did June 30, 2008.\n\nIn the interim, according to their lawyers, Epstein's victims\nwere only told, “This case is currently under investigation.”\n\nA lawsuit that Bradley Edwards, a victims' rights attorney in\nFort Lauderdale, filed in July of 2008 cited the Crime Victims'\nRights Act, or CVRA (title 18, section 3771, of the US Code),\nwhich states that “victims of federal crimes have rights, includ-\ning the right to be heard in court, and most particularly, not to\nbe precluded from court proceedings, and the right to be treated\nfairly.”\n\nAccording to him, prosecutors had violated the CVRA rights\nof the victims. Edwards, who said he was working pro bono,\nknew that this suit against the government would not allow for\nmonetary recovery of any sort (including lawyers' fees). But he\nalso knew that if the government, urged by Jeffrey Epstein, had\nentered into a contract that improperly or illegally violated the\nrights of Epstein's victims, then that contract, by nature, would\nhave been improper in and of itself—in which case, the only\nremedy would have been to have the contract invalidated. And\nwhile it is difficult to know what, exactly, would happen if the\ncontract is overturned, one possibility is that the government\ncould prosecute Epstein for crimes against his victims, if the\nstatute of limitations on those crimes has not expired.\n\nAt the time of this writing, that case is winding its way\nthrough the courts. It has all the earmarks of a modern-day\nBleak House—the Charles Dickens novel about a legal case that\nis so massive and so complex that it drags on forever and drags\neveryone involved into the mire.\n\n191\n\nCHAPTER 50\n\nsecution agreement, a fifty-three-\nederal prosecutors had prepared\n—one that claimed he'd abused\never was filed.\nenting Epstein's victims were con-\nims were not consulted about the\nis inexcusable. The “government\n'in the dark' so that it could enter\nned to prevent the victims from\nould argue, in documents filed on\nonths, the lawyers claimed, from\nsigned, on September 24, 2007,\nin's bidding, [had] concealed the\n” and continued to do so until the\n\n190\n\nHOUSE_OVERSIGHT_010532",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "moment that Epstein had to plead guilty in court, which he\nfinally did June 30, 2008.\n\nIn the interim, according to their lawyers, Epstein's victims\nwere only told, “This case is currently under investigation.”\n\nA lawsuit that Bradley Edwards, a victims' rights attorney in\nFort Lauderdale, filed in July of 2008 cited the Crime Victims'\nRights Act, or CVRA (title 18, section 3771, of the US Code),\nwhich states that “victims of federal crimes have rights, includ-\ning the right to be heard in court, and most particularly, not to\nbe precluded from court proceedings, and the right to be treated\nfairly.”\n\nAccording to him, prosecutors had violated the CVRA rights\nof the victims. Edwards, who said he was working pro bono,\nknew that this suit against the government would not allow for\nmonetary recovery of any sort (including lawyers' fees). But he\nalso knew that if the government, urged by Jeffrey Epstein, had\nentered into a contract that improperly or illegally violated the\nrights of Epstein's victims, then that contract, by nature, would\nhave been improper in and of itself—in which case, the only\nremedy would have been to have the contract invalidated. And\nwhile it is difficult to know what, exactly, would happen if the\ncontract is overturned, one possibility is that the government\ncould prosecute Epstein for crimes against his victims, if the\nstatute of limitations on those crimes has not expired.\n\nAt the time of this writing, that case is winding its way\nthrough the courts. It has all the earmarks of a modern-day\nBleak House—the Charles Dickens novel about a legal case that\nis so massive and so complex that it drags on forever and drags\neveryone involved into the mire.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "191",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 50",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "secution agreement, a fifty-three-\nederal prosecutors had prepared\n—one that claimed he'd abused\never was filed.\nenting Epstein's victims were con-\nims were not consulted about the\nis inexcusable. The “government\n'in the dark' so that it could enter\nned to prevent the victims from\nould argue, in documents filed on\nonths, the lawyers claimed, from\nsigned, on September 24, 2007,\nin's bidding, [had] concealed the\n” and continued to do so until the",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "190",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010532",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-06-30",
+      "2008-07",
+      "2007-09-24"
+    ],
+    "people": [
+      "Epstein",
+      "Bradley Edwards",
+      "Jeffrey Epstein",
+      "Charles Dickens"
+    ],
+    "organizations": [],
+    "locations": [
+      "Fort Lauderdale"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010532",
+      "190",
+      "191"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010532"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings involving Jeffrey Epstein, a plea agreement, and a lawsuit filed by victims' attorney Bradley Edwards citing the Crime Victims' Rights Act (CVRA).",
+    "date": null,
+    "references": [
+      "Crime Victims' Rights Act",
+      "CVRA",
+      "title 18, section 3771, of the US Code",
+      "Bleak House"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The image is a scan of two pages from a book, likely part of a larger collection of evidence or documentation, as indicated by the 'HOUSE_OVERSIGHT' stamp. The text on the left page is cut off at the beginning and end of each line due to the page margin.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010532.jpg",
+  "house_oversight_id": "010532",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:13:32.893544Z",
+    "model": "gemini-2.5-pro"
+  }
+}
