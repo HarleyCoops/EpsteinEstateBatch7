@@ -1,0 +1,144 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010612.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial report or newsletter, likely an internal or client-facing document. It details closed, new, and existing financial trades in rates and foreign exchange (FX). The document has a blue geometric header, black text on a white background, and a footer with a logo and a document identifier.",
+    "layout": "Single-column text layout with distinct sections for closed trades, new trades, and existing open trades. Subheadings are used to categorize trades by asset class (Rates, FX).",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Closed at 902 (10 Mar 2016): Buy AUD/KRW, entry: 832, target: 920, stop: 859 (revised from 790)\n\nClosed at 38.25 (18 Apr 2016): Sell TRY/JPY, entry: 43.40, target: 36.15, stop: 45.25\n\nClosed at 8.27: Sell USD/NOK spot 8.685, target: 8.27, stop-loss: 8.60 (revised from 9.00)\n\nNew trades\n\nRates:\nMar17 FRA-OIS widener, entry: 6.25bp, target: 10bp, stop loss: 4bp (21 Sep 2016)\n* Despite recent tightening, richness of bonds vs OIS, upcoming TLTRO & corporate issuance point to renewed widening.\n\nExisting open trades\n\nFor a complete list of our open trade recommendations, as well as our trade recommendations closed over the last 12 months, please see: Global Rates and FX Weekly: Central banks still the only game in town 15 September 2016\n\nRates:\nPay 5y5y forward 3s6s basis, entry: 11.3bp, target: 13.3bp, stop: 10.3bp (10 Aug 2016)\n* Bank hedging flows on the back of sharp pickup in corp issuance suggests the widening of 3s6s basis is structural. It also hedges any aggressive ECB easing in Sep\n\nBuy 6m30y ATMF+25bp/+50bp/+75 bp payer ladders for a net premium of €950k on €100m notional (or 3.3 bp) (20 Jul 2016)\n*30y rates are at risk from the ECB tomorrow, especially if tweaks to the capital key are flagged already\n\nBuy 3-year 3.5% ZC RPI inflation caps, entry: 26.0c; current 37.5c (21 Oct 2015)\n*Sterling vulnerability due to the UK's large current account deficit makes being long inflation volatility attractive. Pairing this trade with a long-standing recommendation to be short 30-year UK breakevens is an attractive way to finance it.\n\nClosed at 0 (22 Jul 2016): Buy 167 Aug RXU6 call and buy 162 put, cost 118 cents (16 Jun 2016)\n\nClosed at 55bp (12 Jul 2016): OATei 2018/2027 flattener; entry: 78.5bp, target: 40bp; stop-loss: 100bp (11 Mar 2016)\n\nFX:\nShort EURUSD 6m 1.0740/1.1500 risk reversal, cost: 0 (off 1.1077 spot)(6 Jul 2016)\n*EUR downside risks are underpriced. We think the post-referendum risk rally is overdone and could be at risk. Potential shocks include Brexit uncertainty, turbulence in Italy's banking sector, and political paralysis in Spain.\n\nClosed 1.0840 (1 Jul 2016): Buy 3m EURCHF 1.08/1.03 put spread for 0.76% Eur (7.75/8.05 ag 10.45 vols off 1.0930 spot)(1 Apr 2016)\n\n4 Liquid Insight | 22 September 2016\n\nBank of America\nMerrill Lynch\n\nHOUSE_OVERSIGHT_010612",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Closed at 902 (10 Mar 2016): Buy AUD/KRW, entry: 832, target: 920, stop: 859 (revised from 790)\n\nClosed at 38.25 (18 Apr 2016): Sell TRY/JPY, entry: 43.40, target: 36.15, stop: 45.25\n\nClosed at 8.27: Sell USD/NOK spot 8.685, target: 8.27, stop-loss: 8.60 (revised from 9.00)",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "New trades\n\nRates:\nMar17 FRA-OIS widener, entry: 6.25bp, target: 10bp, stop loss: 4bp (21 Sep 2016)\n* Despite recent tightening, richness of bonds vs OIS, upcoming TLTRO & corporate issuance point to renewed widening.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Existing open trades\n\nFor a complete list of our open trade recommendations, as well as our trade recommendations closed over the last 12 months, please see: Global Rates and FX Weekly: Central banks still the only game in town 15 September 2016\n\nRates:\nPay 5y5y forward 3s6s basis, entry: 11.3bp, target: 13.3bp, stop: 10.3bp (10 Aug 2016)\n* Bank hedging flows on the back of sharp pickup in corp issuance suggests the widening of 3s6s basis is structural. It also hedges any aggressive ECB easing in Sep\n\nBuy 6m30y ATMF+25bp/+50bp/+75 bp payer ladders for a net premium of €950k on €100m notional (or 3.3 bp) (20 Jul 2016)\n*30y rates are at risk from the ECB tomorrow, especially if tweaks to the capital key are flagged already\n\nBuy 3-year 3.5% ZC RPI inflation caps, entry: 26.0c; current 37.5c (21 Oct 2015)\n*Sterling vulnerability due to the UK's large current account deficit makes being long inflation volatility attractive. Pairing this trade with a long-standing recommendation to be short 30-year UK breakevens is an attractive way to finance it.\n\nClosed at 0 (22 Jul 2016): Buy 167 Aug RXU6 call and buy 162 put, cost 118 cents (16 Jun 2016)\n\nClosed at 55bp (12 Jul 2016): OATei 2018/2027 flattener; entry: 78.5bp, target: 40bp; stop-loss: 100bp (11 Mar 2016)\n\nFX:\nShort EURUSD 6m 1.0740/1.1500 risk reversal, cost: 0 (off 1.1077 spot)(6 Jul 2016)\n*EUR downside risks are underpriced. We think the post-referendum risk rally is overdone and could be at risk. Potential shocks include Brexit uncertainty, turbulence in Italy's banking sector, and political paralysis in Spain.\n\nClosed 1.0840 (1 Jul 2016): Buy 3m EURCHF 1.08/1.03 put spread for 0.76% Eur (7.75/8.05 ag 10.45 vols off 1.0930 spot)(1 Apr 2016)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "4 Liquid Insight | 22 September 2016\n\nBank of America\nMerrill Lynch\n\nHOUSE_OVERSIGHT_010612",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2016-03-10",
+      "2016-04-18",
+      "2016-09-21",
+      "2016-09-15",
+      "2016-08-10",
+      "2016-07-20",
+      "2015-10-21",
+      "2016-07-22",
+      "2016-06-16",
+      "2016-07-12",
+      "2016-03-11",
+      "2016-07-06",
+      "2016-07-01",
+      "2016-04-01",
+      "2016-09-22"
+    ],
+    "people": [],
+    "organizations": [
+      "Bank of America Merrill Lynch",
+      "ECB"
+    ],
+    "locations": [
+      "UK",
+      "Italy",
+      "Spain"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010612"
+    ],
+    "financial_amounts": [
+      "902",
+      "832",
+      "920",
+      "859",
+      "790",
+      "38.25",
+      "43.40",
+      "36.15",
+      "45.25",
+      "8.27",
+      "8.685",
+      "8.60",
+      "9.00",
+      "6.25bp",
+      "10bp",
+      "4bp",
+      "11.3bp",
+      "13.3bp",
+      "10.3bp",
+      "+25bp",
+      "+50bp",
+      "+75 bp",
+      "€950k",
+      "€100m",
+      "3.3 bp",
+      "3.5%",
+      "26.0c",
+      "37.5c",
+      "118 cents",
+      "55bp",
+      "78.5bp",
+      "40bp",
+      "100bp",
+      "1.0740",
+      "1.1500",
+      "1.1077",
+      "1.0840",
+      "1.08",
+      "1.03",
+      "0.76% Eur",
+      "7.75",
+      "8.05",
+      "10.45",
+      "1.0930"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010612"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "financial report",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "New and Existing Financial Trade Recommendations",
+    "date": "2016-09-22",
+    "references": [
+      "Global Rates and FX Weekly: Central banks still the only game in town 15 September 2016"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a recurring publication titled 'Liquid Insight'. The primary date of the document is September 22, 2016, as indicated in the footer.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010612.jpg",
+  "house_oversight_id": "010612",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:44:37.760819Z",
+    "model": "gemini-2.5-pro"
+  }
+}

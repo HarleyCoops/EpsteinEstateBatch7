@@ -195,16 +195,30 @@ def update_readme_with_summary(base_dir: Path) -> bool:
         print(f"Error reading README: {e}", file=sys.stderr)
         return False
     
-    # Replace the {LATEST_SUMMARY} placeholder
-    if "{LATEST_SUMMARY}" in content:
+    # Replace the summary section (look for "### Latest Context Update")
+    import re
+    
+    # Pattern to find the summary section
+    pattern = r'(### Latest Context Update\n\n)(.*?)(\n\n---)'
+    
+    if re.search(pattern, content, re.DOTALL):
+        # Replace existing summary section
+        updated_content = re.sub(
+            pattern,
+            r'\1' + summary_text + r'\3',
+            content,
+            flags=re.DOTALL
+        )
+    elif "{LATEST_SUMMARY}" in content:
+        # Replace placeholder if it exists
         updated_content = content.replace("{LATEST_SUMMARY}", summary_text)
     else:
-        # If placeholder doesn't exist, add it after status line
+        # If neither exists, add it after status line
         status_section = "Status: Processing continues as long as API credits are available"
         if status_section in content:
             updated_content = content.replace(
                 status_section,
-                f"{status_section}\n\n### Latest Context Update\n\n{summary_text}"
+                f"{status_section}\n\n### Latest Context Update\n\n{summary_text}\n"
             )
         else:
             # Fallback: append to end

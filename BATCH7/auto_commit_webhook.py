@@ -437,20 +437,42 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
     # Generate commit message
     commit_message = generate_commit_message(changes, base_dir)
     
+    # Update README with latest summary BEFORE committing
+    # Timestamp will be updated AFTER commit (so it shows the new commit time)
+    print("Updating README with latest summary...")
+    readme_updated = False
+    try:
+        import subprocess
+        # Update summary from JSON files first (needs current files)
+        summary_generator = base_dir / "BATCH7" / "generate_readme_summary.py"
+        if not summary_generator.exists():
+            summary_generator = base_dir / "generate_readme_summary.py"
+        if summary_generator.exists():
+            result = subprocess.run([sys.executable, str(summary_generator)], cwd=base_dir, check=False, capture_output=True, text=True)
+            if result.returncode == 0:
+                print(f"Summary updated: {result.stdout.strip()}")
+                readme_updated = True
+            else:
+                print(f"Summary update error: {result.stderr}", file=sys.stderr)
+    except Exception as e:
+        print(f"Note: Could not update README summary: {e}", file=sys.stderr)
+    
     if dry_run:
         print("\n=== DRY RUN - Would commit with message: ===")
         print(commit_message)
+        if readme_updated:
+            print("\n(README would be updated and included in this commit)")
         print("\n=== END DRY RUN ===")
         return True
     
-    # Stage all changes
+    # Stage all changes (including README if it was updated)
     print("Staging changes...")
     stdout, code = run_git_command(["add", "-A"], cwd=base_dir)
     if code != 0:
         print(f"Error staging changes: {stdout}", file=sys.stderr)
         return False
     
-    # Commit
+    # Commit (includes README update if it happened)
     print("Committing changes...")
     stdout, code = run_git_command(
         ["commit", "-m", commit_message],
@@ -465,7 +487,34 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
     
     print(f"Committed successfully: {stdout[:100]}...")
     
-    # Push to remote
+    # Update timestamp with THIS commit's time (now that we have a new commit)
+    print("Updating README timestamp with latest commit time...")
+    try:
+        import subprocess
+        readme_updater = base_dir / "BATCH7" / "update_readme_status.py"
+        if not readme_updater.exists():
+            readme_updater = base_dir / "update_readme_status.py"
+        if readme_updater.exists():
+            result = subprocess.run([sys.executable, str(readme_updater)], cwd=base_dir, check=False, capture_output=True, text=True)
+            if result.returncode == 0:
+                print(f"Timestamp updated: {result.stdout.strip()}")
+                # Check if README has timestamp changes
+                stdout_status, code_status = run_git_command(["status", "--porcelain", "README.md"], cwd=base_dir)
+                if stdout_status.strip():
+                    # Stage and commit the timestamp update
+                    run_git_command(["add", "README.md"], cwd=base_dir)
+                    timestamp_msg = f"Update README timestamp - {datetime.now().strftime('%Y-%m-%d %H:%M:%S')}"
+                    stdout_commit, code_commit = run_git_command(["commit", "-m", timestamp_msg], cwd=base_dir)
+                    if code_commit == 0:
+                        print("Timestamp commit successful")
+                    else:
+                        print(f"Note: Timestamp commit had issues: {stdout_commit}", file=sys.stderr)
+            else:
+                print(f"Timestamp update error: {result.stderr}", file=sys.stderr)
+    except Exception as e:
+        print(f"Note: Could not update timestamp: {e}", file=sys.stderr)
+    
+    # Push to remote (all commits including README updates)
     print(f"Pushing to remote (branch: {current_branch})...")
     stdout, code = run_git_command(
         ["push", "origin", current_branch],
@@ -477,25 +526,6 @@ def commit_and_push(base_dir: Path, dry_run: bool = False) -> bool:
         return False
     
     print("Pushed successfully!")
-    
-    # Update README with latest commit time and summary
-    try:
-        import subprocess
-        # Update timestamp
-        readme_updater = base_dir / "BATCH7" / "update_readme_status.py"
-        if not readme_updater.exists():
-            readme_updater = base_dir / "update_readme_status.py"
-        if readme_updater.exists():
-            subprocess.run([sys.executable, str(readme_updater)], cwd=base_dir, check=False)
-        
-        # Update summary from JSON files
-        summary_generator = base_dir / "BATCH7" / "generate_readme_summary.py"
-        if not summary_generator.exists():
-            summary_generator = base_dir / "generate_readme_summary.py"
-        if summary_generator.exists():
-            subprocess.run([sys.executable, str(summary_generator)], cwd=base_dir, check=False)
-    except Exception as e:
-        print(f"Note: Could not update README: {e}")
     
     return True
 

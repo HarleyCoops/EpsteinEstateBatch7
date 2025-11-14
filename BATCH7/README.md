@@ -245,3 +245,13 @@ That feeds character intelligence without running a separate agent.
 
 This enhancement maintains backward compatibility (existing JSONs remain valid) while enabling more targeted extraction for different document types.
 
+
+
+### Latest Context Update
+
+Processing files... Analysis summary will appear here as files are processed.
+
+
+### Latest Context Update
+
+Processing files... Analysis summary will appear here as files are processed.

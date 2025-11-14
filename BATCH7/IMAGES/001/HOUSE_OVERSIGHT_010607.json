@@ -1,0 +1,106 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010607.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single-page document titled 'CERTIFICATE OF SERVICE'. The document is typed, with a handwritten date and a signature. It certifies that a copy of a foregoing document was served. A page number is at the bottom center, and a document identifier is at the bottom right.",
+    "layout": "Portrait orientation with a centered title, a body of text, a signature block on the right, and a footer with a page number and document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CERTIFICATE OF SERVICE\n\nI HEREBY CERTIFY that on November 4th, 2010 a copy of the foregoing has been served via Fax and U.S. Mail to all those on the attached service list.\n\nJack Scarola\nSearcy, Denney, Scarola, Barnhart & Shipley\n2139 Palm Beach Lakes Blvd\nWest Palm Beach, FL 33409\n(561) 686-6300\n(561) 684-5816 (fax)\n\nBy:\n\nJACK SCAROLA\nFlorida Bar No.: 169440\n\n42\n\nHOUSE_OVERSIGHT_010607",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CERTIFICATE OF SERVICE",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "I HEREBY CERTIFY that on November 4th, 2010 a copy of the foregoing has been served via Fax and U.S. Mail to all those on the attached service list.",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "4th",
+        "type": "handwritten"
+      },
+      {
+        "region": "signature_block",
+        "text": "Jack Scarola\nSearcy, Denney, Scarola, Barnhart & Shipley\n2139 Palm Beach Lakes Blvd\nWest Palm Beach, FL 33409\n(561) 686-6300\n(561) 684-5816 (fax)\n\nBy:",
+        "type": "typed"
+      },
+      {
+        "region": "signature_block",
+        "text": "JACK SCAROLA\nFlorida Bar No.: 169440",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "42",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010607",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2010-11-04"
+    ],
+    "people": [
+      "Jack Scarola"
+    ],
+    "organizations": [
+      "Searcy, Denney, Scarola, Barnhart & Shipley"
+    ],
+    "locations": [
+      "2139 Palm Beach Lakes Blvd, West Palm Beach, FL 33409"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010607",
+      "169440",
+      "42"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(561) 686-6300",
+        "(561) 684-5816"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "Jack Scarola\nSearcy, Denney, Scarola, Barnhart & Shipley\n2139 Palm Beach Lakes Blvd\nWest Palm Beach, FL 33409"
+      ]
+    },
+    "signatures": [
+      "JACK SCAROLA"
+    ],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Certificate of Service",
+    "sender": "Jack Scarola",
+    "recipient": null,
+    "subject": "Certification of service of a document via Fax and U.S. Mail.",
+    "date": "2010-11-04",
+    "references": [
+      "HOUSE_OVERSIGHT_010607"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The day '4th' in the date 'November 4th, 2010' is handwritten. The recipient is noted as 'all those on the attached service list', which is not included in this image.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010607.jpg",
+  "house_oversight_id": "010607",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:41:51.375713Z",
+    "model": "gemini-2.5-pro"
+  }
+}

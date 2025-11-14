@@ -1,0 +1,193 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010611.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A page from a financial research report titled 'Liquid Insight' by Bank of America Merrill Lynch, dated 22 September 2016. The document discusses the Bank of Mexico's expected interest rate hike and provides key trade ideas for rates and foreign exchange (FX). It includes two charts: 'Chart 3: Net speculative USD/MXN position in CFTC' and 'Chart 4: Bank of Mexico expected to hike'.",
+    "layout": "The document has a single-column layout with a header containing a blue graphic element. The main body of text is on the left, with two charts stacked vertically on the right. The footer contains the publisher's name, document title, date, and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "The Bank of Mexico will meet on 29 September, and a 50bp rate hike is already priced in\n(Chart 4). A stronger hike, perhaps of 75bp, or a 50bp rate hike accompanied by a\nhawkish statement could lead to MXN strengthening in the very short run.\n\nChart 3: Net speculative USD/MXN position in CFTC\n\nChart 4: Bank of Mexico expected to hike\n\nSource: BofA Merrill Lynch Global Research, Bloomberg\n\nSource: BofA Merrill Lynch Global Research, Bloomberg\n\nNotable Rates and FX Research\n* Global Rates & Currencies 2016 Year Ahead, 23 November 2015\n* USD/MXN builds momentum, FX Quant Trader, 19 Sep 2016\n* Central banks still the only game in town, Global Rates and FX Weekly, 15 Sep 2016\n* Land of the rising bond yield, US Rates Weekly, 16 Sep 2016\n* Policy uncertainty, Liquid Cross Border Flows, 19 Sep 2016\n\nKey trade ideas\nTop Rates and FX trades for 2016\nFor rationale and details, refer to Global Rates & Currencies 2016 Year Ahead: The\n“Great Divorce”, 23 November, 2015\n\nRates:\nBuy US 30y TIPS, entry: 1.2%, target: 70bp, stop loss: 1.55%\nClosed at 101bp (3 Mar 2016): Short USD 5y5y vs EUR 5y5y, entry: 115 bp, target: 160\nbp, stop-loss: 90 bp (3 Sep 2015)\nLong $100mn 6m5y ATMF UK vs $100.75mn US rates straddles, net take-in: $126K,\ntarget: +450K, stop: -$225K\nSell 3y Fannie Mae debt vs Treasuries, entry: 6bp, stop: 2bp, target: 20bp\nClosed at 11bp - Long 12m Treasury bills vs OIS, entry: 1bp, target: -10bp, stop: 7bp\n\nFX:\nClosed at 6.5630 (26 May 2016): Buy USD/CNH 6m forward outright, entry: 6.5260,\nstop: 6.40\nLong a 12m USD/CNH forward outright, entry: 6.7485, target 7.00, stop: 6.67, current:\n6.7420 (26 May 2016)\nClosed at 0% - Buy EUR/USD 3m 1.10 call with a 16 Dec 1.1050 window KO, cost:\n0.55% EUR (spot: 1.0690)\nBuy 1y EUR/USD<1.00, USD/JPY<120 dual digital, cost: 7.0% USD (spot: 1.0690, 122.80)\n\nBank of America\nMerrill Lynch\n\nLiquid Insight | 22 September 2016\n\n3\n\nHOUSE_OVERSIGHT_010611",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "The Bank of Mexico will meet on 29 September, and a 50bp rate hike is already priced in\n(Chart 4). A stronger hike, perhaps of 75bp, or a 50bp rate hike accompanied by a\nhawkish statement could lead to MXN strengthening in the very short run.",
+        "type": "printed"
+      },
+      {
+        "region": "chart_title",
+        "text": "Chart 3: Net speculative USD/MXN position in CFTC",
+        "type": "printed"
+      },
+      {
+        "region": "chart_title",
+        "text": "Chart 4: Bank of Mexico expected to hike",
+        "type": "printed"
+      },
+      {
+        "region": "chart_legend",
+        "text": "Net Dollar position\nMXN",
+        "type": "printed"
+      },
+      {
+        "region": "chart_legend",
+        "text": "spread\n1y TIIE\nONR",
+        "type": "printed"
+      },
+      {
+        "region": "footnote",
+        "text": "Source: BofA Merrill Lynch Global Research, Bloomberg",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Notable Rates and FX Research",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "* Global Rates & Currencies 2016 Year Ahead, 23 November 2015\n* USD/MXN builds momentum, FX Quant Trader, 19 Sep 2016\n* Central banks still the only game in town, Global Rates and FX Weekly, 15 Sep 2016\n* Land of the rising bond yield, US Rates Weekly, 16 Sep 2016\n* Policy uncertainty, Liquid Cross Border Flows, 19 Sep 2016",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Key trade ideas\nTop Rates and FX trades for 2016",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "For rationale and details, refer to Global Rates & Currencies 2016 Year Ahead: The\n“Great Divorce”, 23 November, 2015",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Rates:\nBuy US 30y TIPS, entry: 1.2%, target: 70bp, stop loss: 1.55%\nClosed at 101bp (3 Mar 2016): Short USD 5y5y vs EUR 5y5y, entry: 115 bp, target: 160\nbp, stop-loss: 90 bp (3 Sep 2015)\nLong $100mn 6m5y ATMF UK vs $100.75mn US rates straddles, net take-in: $126K,\ntarget: +450K, stop: -$225K\nSell 3y Fannie Mae debt vs Treasuries, entry: 6bp, stop: 2bp, target: 20bp\nClosed at 11bp - Long 12m Treasury bills vs OIS, entry: 1bp, target: -10bp, stop: 7bp",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "FX:\nClosed at 6.5630 (26 May 2016): Buy USD/CNH 6m forward outright, entry: 6.5260,\nstop: 6.40\nLong a 12m USD/CNH forward outright, entry: 6.7485, target 7.00, stop: 6.67, current:\n6.7420 (26 May 2016)\nClosed at 0% - Buy EUR/USD 3m 1.10 call with a 16 Dec 1.1050 window KO, cost:\n0.55% EUR (spot: 1.0690)\nBuy 1y EUR/USD<1.00, USD/JPY<120 dual digital, cost: 7.0% USD (spot: 1.0690, 122.80)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Bank of America\nMerrill Lynch",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Liquid Insight | 22 September 2016\n\n3",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010611",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2016-09-29",
+      "2015-11-23",
+      "2016-09-19",
+      "2016-09-15",
+      "2016-09-16",
+      "2016-03-03",
+      "2015-09-03",
+      "2016-05-26",
+      "2016-12-16",
+      "2016-09-22"
+    ],
+    "people": [],
+    "organizations": [
+      "Bank of Mexico",
+      "CFTC",
+      "BofA Merrill Lynch Global Research",
+      "Bloomberg",
+      "Fannie Mae",
+      "Bank of America Merrill Lynch"
+    ],
+    "locations": [
+      "US",
+      "UK"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010611"
+    ],
+    "financial_amounts": [
+      "50bp",
+      "75bp",
+      "1.2%",
+      "70bp",
+      "1.55%",
+      "101bp",
+      "115 bp",
+      "160 bp",
+      "90 bp",
+      "$100mn",
+      "$100.75mn",
+      "$126K",
+      "+450K",
+      "-$225K",
+      "6bp",
+      "2bp",
+      "20bp",
+      "11bp",
+      "1bp",
+      "-10bp",
+      "7bp",
+      "6.5630",
+      "6.5260",
+      "6.40",
+      "6.7485",
+      "7.00",
+      "6.67",
+      "6.7420",
+      "0%",
+      "1.10",
+      "1.1050",
+      "0.55% EUR",
+      "1.0690",
+      "<1.00",
+      "<120",
+      "7.0% USD",
+      "122.80"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "financial research report",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "Bank of Mexico rate hike, and Rates and FX trade ideas for 2016",
+    "date": "2016-09-22",
+    "references": [
+      "Global Rates & Currencies 2016 Year Ahead",
+      "FX Quant Trader",
+      "Global Rates and FX Weekly",
+      "US Rates Weekly",
+      "Liquid Cross Border Flows",
+      "Global Rates & Currencies 2016 Year Ahead: The “Great Divorce”"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is clearly a financial analysis report. All data appears to be extracted correctly. The charts provide visual data from 2012/2013 to 2016 but specific data points from the charts are not extracted as text. The document identifier 'HOUSE_OVERSIGHT_010611' suggests this document was part of a collection for a government oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010611.jpg",
+  "house_oversight_id": "010611",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:44:03.664418Z",
+    "model": "gemini-2.5-pro"
+  }
+}

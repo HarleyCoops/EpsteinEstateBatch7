@@ -1,0 +1,115 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010613.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page of a financial research report. The document has a blue geometric design at the top. The main content is divided into sections with bold headings: 'Options Risk Statement' and 'Analyst Certification'. The footer contains the Bank of America Merrill Lynch logo, a document title, date, page number, and a document identifier.",
+    "layout": "The document follows a standard portrait layout with a header, a main body of text organized into sections and paragraphs, and a footer. The text is left-aligned.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "* EUR is underpricing Brexit and that shorting Euro was a cheaper way to express such a\nview via options. CHF tends to perform strongly when risks become more localized.\n\nClosed on 28 Aug 2016: Buy EUR/USD 6m 1.00/1.20 strangle for 155 usd pips (off\n1.1020 spot, DF two-way vols 12.1/12.3) (29 Feb 2016)\n*Owning low delta EURUSD strangles may be an effective and cheap double hedge in the\nscenario that either the US enters a recession or the European debt crisis resurfaces.\n\nOptions Risk Statement\nPotential Risk at Expiry & Options Limited Duration Risk\nUnlike owning or shorting a stock, employing any listed options strategy is by definition\ngoverned by a finite duration. The most severe risks associated with general options\ntrading are total loss of capital invested and delivery/assignment risk, all of which can\noccur in a short period.\n\nInvestor suitability\nThe use of standardized options and other related derivatives instruments are\nconsidered unsuitable for many investors. Investors considering such strategies are\nencouraged to become familiar with the \"Characteristics and Risks of Standardized\nOptions\" (an OCC authored white paper on options risks). U.S. investors should consult\nwith a FINRA Registered Options Principal.\n\nFor detailed information regarding the risks involved with investing in listed options:\nhttp://www.theocc.com/about/publications/character-risks.jsp.\n\nAnalyst Certification\nI, Adarsh Sinha, hereby certify that the views expressed in this research report about\nsecurities and issuers accurately reflect the research model applied in such analysis. I\nalso certify that no part of my compensation was, is, or will be, directly or indirectly,\nrelated to the specific recommendations or view expressed in this research report.\n\nBank of America\nMerrill Lynch\n\nLiquid Insight | 22 September 2016 5\n\nHOUSE_OVERSIGHT_010613",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "* EUR is underpricing Brexit and that shorting Euro was a cheaper way to express such a\nview via options. CHF tends to perform strongly when risks become more localized.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Closed on 28 Aug 2016: Buy EUR/USD 6m 1.00/1.20 strangle for 155 usd pips (off\n1.1020 spot, DF two-way vols 12.1/12.3) (29 Feb 2016)",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "*Owning low delta EURUSD strangles may be an effective and cheap double hedge in the\nscenario that either the US enters a recession or the European debt crisis resurfaces.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Options Risk Statement\nPotential Risk at Expiry & Options Limited Duration Risk\nUnlike owning or shorting a stock, employing any listed options strategy is by definition\ngoverned by a finite duration. The most severe risks associated with general options\ntrading are total loss of capital invested and delivery/assignment risk, all of which can\noccur in a short period.\n\nInvestor suitability\nThe use of standardized options and other related derivatives instruments are\nconsidered unsuitable for many investors. Investors considering such strategies are\nencouraged to become familiar with the \"Characteristics and Risks of Standardized\nOptions\" (an OCC authored white paper on options risks). U.S. investors should consult\nwith a FINRA Registered Options Principal.\n\nFor detailed information regarding the risks involved with investing in listed options:\nhttp://www.theocc.com/about/publications/character-risks.jsp.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Analyst Certification\nI, Adarsh Sinha, hereby certify that the views expressed in this research report about\nsecurities and issuers accurately reflect the research model applied in such analysis. I\nalso certify that no part of my compensation was, is, or will be, directly or indirectly,\nrelated to the specific recommendations or view expressed in this research report.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Bank of America\nMerrill Lynch",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Liquid Insight | 22 September 2016 5",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010613",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2016-08-28",
+      "2016-02-29",
+      "2016-09-22"
+    ],
+    "people": [
+      "Adarsh Sinha"
+    ],
+    "organizations": [
+      "Bank of America Merrill Lynch",
+      "OCC",
+      "FINRA"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010613",
+      "5"
+    ],
+    "financial_amounts": [
+      "155 usd pips",
+      "1.00",
+      "1.20",
+      "1.1020",
+      "12.1",
+      "12.3"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [],
+      "websites": [
+        "http://www.theocc.com/about/publications/character-risks.jsp"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "research report",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "EUR/USD options strategy and risk statement",
+    "date": "2016-09-22",
+    "references": [
+      "HOUSE_OVERSIGHT_010613"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a page from a financial analysis or trading recommendation report, likely related to foreign exchange options. The identifier 'HOUSE_OVERSIGHT_010613' suggests it is part of a collection of documents for a government oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010613.jpg",
+  "house_oversight_id": "010613",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:45:00.772719Z",
+    "model": "gemini-2.5-pro"
+  }
+}

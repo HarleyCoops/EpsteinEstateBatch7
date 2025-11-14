@@ -1,0 +1,154 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010609.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A financial research report from Bank of America Merrill Lynch titled 'Liquid Insight: Trump's effect on MXN'. The document, dated September 22, 2016, analyzes the potential impact of Donald Trump's presidential campaign on the Mexican peso. It includes key takeaways, a line chart comparing different models of the MXN exchange rate, detailed analysis, contact information for the research team, and a list of recent publications.",
+    "layout": "Single-page document with a two-column layout. The main content is on the left, including text and a chart. A narrower sidebar on the right contains contact information and a list of recent reports. A header spans the top, and a footer contains disclaimers and document numbers.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Liquid Insight\nTrump's effect on MXN\nBank of America\nMerrill Lynch\n22 September 2016\nKey takeaways\n• We provide an empirical analysis of Donald Trump's potential effects on the Mexican peso\n• Our analysis suggests the exchange rate is perhaps as much as 15% undervalued\n• We remain neutral for now given US election risks are likely to remain high in the near term\nBy Claudio Irigoyen and Ezequiel Aguirre\nChart of the day: MXN may be as much as 15% undervalued\n20\n19\n18\n17\n16\n15\n14\n13\n12\n2014\n2015\n2016\n— Model (without Trump) — Model (with Trump) — MXN\nSource: BofA Merrill Lynch Global Research, Bloomberg\nTrump's effect on MXN\nWe provide an empirical analysis of Donald Trump's effects on the Mexican peso. Our analysis suggests the exchange rate is perhaps as much as 15% undervalued. In our view, buying the Mexican peso likely would prove a profitable strategy if Hillary Clinton wins. However, we remain neutral for now given US election risks are likely to remain high in the near term.\nA model of MXN weekly returns including Trump\nWe estimate a model of MXN returns with standard financial fundamentals that also includes Donald Trump's RealClearPolitics polling average in the US presidential election. It is generally accepted now that Trump's chances in the US election have been a major driver of the Mexican peso (Chart 1).\nRates and Currencies Research\nGlobal\nGlobal Rates & Currencies Research\nMLI (UK)\nClaudio Irigoyen\nLatAm FI/FX Strategy/Economist\nMLPF&S\n+1 646 855 1734\nclaudio.irigoyen@baml.com\nEzequiel Aguirre\nLatAm FI/FX Strategist\nMLPF&S\n+1 646 855 9689\nezequiel.aguirre@baml.com\nAdarsh Sinha\nFX Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 7155\nadarsh.sinha@baml.com\nYang Chen\nRates Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 8695\nychen8@baml.com\nSee Team Page for Full List of Contributors\nRecent Liquid Insight Publications\n21 Sep 2016 Eur FRA-OIS and 3s6s basis: tighter, despite wider credit spreads\n20 Sep 2016 BoJ preview: BoJ to try, try again\n19 Sep 2016 A cautiously hawkish Fed\n16 Sep 2016 UK inflation-linked – when the “pass-through” has passed through\n15 Sep 2016 Getting unreal\n14 Sep 2016 The real rate guide to FX\n13 Sep 2016 Consumption Gumption\n12 Sep 2016 UK: Better but not good\n9 Sep 2016 The Fed's cacophony of sound\n8 Sep 2016 EEMEA: The ECB buys EM too\nUnauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com\nTrading ideas and investment strategies discussed herein may give rise to significant risk and are not suitable for all investors. Investors should have experience in FX markets and the financial resources to absorb any losses arising from applying these ideas or strategies.\nBofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.\nRefer to important disclosures on page 6 to 7. Analyst Certification on page 5.\nTimestamp: 22 September 2016 12:30AM EDT\n11668923\nHOUSE_OVERSIGHT_010609",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "Liquid Insight\nTrump's effect on MXN",
+        "type": "printed"
+      },
+      {
+        "region": "header_logo",
+        "text": "Bank of America\nMerrill Lynch",
+        "type": "printed"
+      },
+      {
+        "region": "header_date",
+        "text": "22 September 2016",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Key takeaways\n• We provide an empirical analysis of Donald Trump's potential effects on the Mexican peso\n• Our analysis suggests the exchange rate is perhaps as much as 15% undervalued\n• We remain neutral for now given US election risks are likely to remain high in the near term\n\nBy Claudio Irigoyen and Ezequiel Aguirre",
+        "type": "printed"
+      },
+      {
+        "region": "chart",
+        "text": "Chart of the day: MXN may be as much as 15% undervalued\n20\n19\n18\n17\n16\n15\n14\n13\n12\n2014\n2015\n2016\n— Model (without Trump) — Model (with Trump) — MXN\nSource: BofA Merrill Lynch Global Research, Bloomberg",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Trump's effect on MXN\nWe provide an empirical analysis of Donald Trump's effects on the Mexican peso. Our analysis suggests the exchange rate is perhaps as much as 15% undervalued. In our view, buying the Mexican peso likely would prove a profitable strategy if Hillary Clinton wins. However, we remain neutral for now given US election risks are likely to remain high in the near term.\n\nA model of MXN weekly returns including Trump\nWe estimate a model of MXN returns with standard financial fundamentals that also includes Donald Trump's RealClearPolitics polling average in the US presidential election. It is generally accepted now that Trump's chances in the US election have been a major driver of the Mexican peso (Chart 1).",
+        "type": "printed"
+      },
+      {
+        "region": "sidebar",
+        "text": "Rates and Currencies Research\nGlobal\n\nGlobal Rates & Currencies Research\nMLI (UK)\n\nClaudio Irigoyen\nLatAm FI/FX Strategy/Economist\nMLPF&S\n+1 646 855 1734\nclaudio.irigoyen@baml.com\n\nEzequiel Aguirre\nLatAm FI/FX Strategist\nMLPF&S\n+1 646 855 9689\nezequiel.aguirre@baml.com\n\nAdarsh Sinha\nFX Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 7155\nadarsh.sinha@baml.com\n\nYang Chen\nRates Strategist\nMerrill Lynch (Hong Kong)\n+852 3508 8695\nychen8@baml.com\n\nSee Team Page for Full List of Contributors",
+        "type": "printed"
+      },
+      {
+        "region": "sidebar",
+        "text": "Recent Liquid Insight Publications\n21 Sep 2016 Eur FRA-OIS and 3s6s basis: tighter, despite wider credit spreads\n20 Sep 2016 BoJ preview: BoJ to try, try again\n19 Sep 2016 A cautiously hawkish Fed\n16 Sep 2016 UK inflation-linked – when the “pass-through” has passed through\n15 Sep 2016 Getting unreal\n14 Sep 2016 The real rate guide to FX\n13 Sep 2016 Consumption Gumption\n12 Sep 2016 UK: Better but not good\n9 Sep 2016 The Fed's cacophony of sound\n8 Sep 2016 EEMEA: The ECB buys EM too",
+        "type": "printed"
+      },
+      {
+        "region": "left_margin",
+        "text": "Unauthorized redistribution of this report is prohibited. This report is intended for amanda.ens@baml.com",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Trading ideas and investment strategies discussed herein may give rise to significant risk and are not suitable for all investors. Investors should have experience in FX markets and the financial resources to absorb any losses arising from applying these ideas or strategies.\nBofA Merrill Lynch does and seeks to do business with issuers covered in its research reports. As a result, investors should be aware that the firm may have a conflict of interest that could affect the objectivity of this report. Investors should consider this report as only a single factor in making their investment decision.\nRefer to important disclosures on page 6 to 7. Analyst Certification on page 5.\nTimestamp: 22 September 2016 12:30AM EDT\n11668923",
+        "type": "printed"
+      },
+      {
+        "region": "footer_stamp",
+        "text": "HOUSE_OVERSIGHT_010609",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2016-09-22",
+      "2016-09-21",
+      "2016-09-20",
+      "2016-09-19",
+      "2016-09-16",
+      "2016-09-15",
+      "2016-09-14",
+      "2016-09-13",
+      "2016-09-12",
+      "2016-09-09",
+      "2016-09-08"
+    ],
+    "people": [
+      "Donald Trump",
+      "Claudio Irigoyen",
+      "Ezequiel Aguirre",
+      "Hillary Clinton",
+      "Adarsh Sinha",
+      "Yang Chen"
+    ],
+    "organizations": [
+      "Bank of America Merrill Lynch",
+      "BofA Merrill Lynch Global Research",
+      "Bloomberg",
+      "RealClearPolitics"
+    ],
+    "locations": [
+      "Hong Kong"
+    ],
+    "document_numbers": [
+      "11668923",
+      "HOUSE_OVERSIGHT_010609"
+    ],
+    "financial_amounts": [
+      "15%"
+    ],
+    "contact_info": {
+      "phone_numbers": [
+        "+1 646 855 1734",
+        "+1 646 855 9689",
+        "+852 3508 7155",
+        "+852 3508 8695"
+      ],
+      "email_addresses": [
+        "claudio.irigoyen@baml.com",
+        "ezequiel.aguirre@baml.com",
+        "adarsh.sinha@baml.com",
+        "ychen8@baml.com",
+        "amanda.ens@baml.com"
+      ],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010609"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "financial research report",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "Trump's effect on MXN (Mexican Peso)",
+    "date": "2016-09-22",
+    "references": [
+      "Chart 1",
+      "page 6",
+      "page 7",
+      "page 5"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document number 'HOUSE_OVERSIGHT_010609' suggests this report was collected as part of an investigation or documentation process by the U.S. House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010609.jpg",
+  "house_oversight_id": "010609",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:42:51.610169Z",
+    "model": "gemini-2.5-pro"
+  }
+}

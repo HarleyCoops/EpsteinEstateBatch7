@@ -1,0 +1,125 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010610.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single page from a financial research report titled 'Liquid Insight' by Bank of America Merrill Lynch. The document analyzes the impact of Donald Trump's 2016 presidential election polling on the Mexican peso (MXN). It includes a detailed text analysis with a regression equation, two line charts comparing MXN performance with and without the 'Trump factor', and a strategy recommendation. A document control number is stamped at the bottom right.",
+    "layout": "The page has a header with a blue graphic, followed by a main body of text in a two-column layout. Two charts, Chart 1 and Chart 2, are placed side-by-side above the main text body. The footer contains the page number, document title, date, the Bank of America Merrill Lynch logo, and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "We estimate a regression of weekly returns on the MXN spot exchange rate on five\nvariables: a basket of commodity currencies, US equities, the 10-year US bond yield, the\ntwo-year interest rate differential between MXN and USD swaps, and RealClearPolitics\npolling average for Donald Trump in the 2016 US presidential election. The estimated\nequation is\n\nRMXN = b0 + b1*Rbasket + b2*RSP500 + b3*dy10 + b4*(rMXN – rUSD) + b5*RCP + e\n\nwhere RMXN is the MXN spot return, Rbasket is the commodity currency basket spot return,\nRSP500 is the SP500 index return, dy10 is the 10-year US bond yield change, rMXN – rUSD is\nthe two-year swap rate differential (lagged one period), RCP is RealClearPolitics polling\naverage for Donald Trump, and e is an error term. The commodity currency basket\nconsists of BRL, CLP, COP, CAD, NOK and AUD with equal weights. The full data sample\nhas weekly frequency and runs from 6/20/2012 to 9/21/2016.\n\nThe model without Trump yields an R-squared coefficient of 0.50. Including Trump’s\nvariable increases the coefficient to 0.63, a significant improvement (Chart 2). We use\ndata only up to 1/27/2016 for parameter estimation of the financial variables. We use\nthe full sample to estimate the parameter on Trump’s variable due to its shorter history.\n\nChart 1: The Trump factor on the Mexican peso\n20\n19.5\n19\n18.5\n18\n17.5\n17\n16.5\n16\n15.5\n15\nAug15 Nov15 Feb16 May16 Aug16\nMXN\nTrump's polling average\n\n48\n46\n44\n42\n40\n38\n36\n34\n32\n30\n\nSource: BofA Merrill Lynch Global Research, Bloomberg\n\nChart 2: Forecasting MXN returns with and without Trump\n20\n19\n18\n17\n16\n15\n14\n13\n12\n2014 2015 2016\nModel (without Trump)\nModel (with Trump)\nMXN\n\n20\n19\n18\n17\n16\n15\n14\n13\n12\n\nSource: BofA Merrill Lynch Global Research, Bloomberg\n\nA possible 15% negative shock on MXN\nAccording to the model that does not include Trump’s polling average, we estimate that\nMXN should be trading at around 16.50, more than 15% stronger than current levels\n(spot 19.72). Chart 2 shows the possible magnitude of the Trump effect on the Mexican\npeso.\n\nThe model including Trump’s polling average appears to do a much better job at\nexplaining the recent behavior of the Mexican peso. However, it still suggests that the\ncurrency has depreciated more than justified by Trump’s increase in recent polls. Based\non Trump’s increase to 43.9% (RealClearPolitics polling average on 21 September) from\n39% (RealClearPolitics polling average on 29 June), our model suggests the Mexican\npeso should be trading at around 18.50, still almost 7% stronger than current levels.\n\nThis, however, does not necessarily mean that MXN has oversold. The almost 5% gain in\nTrump’s polling average since June could have had an outsized effect on MXN if those\ngains took place in swing states, potentially leading to crucial Electoral College votes.\n\nStrategy: neutral MXN for now\nFrom a strategy standpoint, we recommend staying neutral the Mexican peso for now.\nWe believe the Mexican peso would likely strengthen significantly if Hillary Clinton wins\nthe US election. But there is still significant uncertainty. Net speculative long USD/MXN\npositions are somewhat stretched, but could increase much more (Chart 3).\n\n2 Liquid Insight | 22 September 2016\n\nBank of America\nMerrill Lynch\n\nHOUSE_OVERSIGHT_010610",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "We estimate a regression of weekly returns on the MXN spot exchange rate on five\nvariables: a basket of commodity currencies, US equities, the 10-year US bond yield, the\ntwo-year interest rate differential between MXN and USD swaps, and RealClearPolitics\npolling average for Donald Trump in the 2016 US presidential election. The estimated\nequation is\n\nRMXN = b0 + b1*Rbasket + b2*RSP500 + b3*dy10 + b4*(rMXN – rUSD) + b5*RCP + e\n\nwhere RMXN is the MXN spot return, Rbasket is the commodity currency basket spot return,\nRSP500 is the SP500 index return, dy10 is the 10-year US bond yield change, rMXN – rUSD is\nthe two-year swap rate differential (lagged one period), RCP is RealClearPolitics polling\naverage for Donald Trump, and e is an error term. The commodity currency basket\nconsists of BRL, CLP, COP, CAD, NOK and AUD with equal weights. The full data sample\nhas weekly frequency and runs from 6/20/2012 to 9/21/2016.\n\nThe model without Trump yields an R-squared coefficient of 0.50. Including Trump’s\nvariable increases the coefficient to 0.63, a significant improvement (Chart 2). We use\ndata only up to 1/27/2016 for parameter estimation of the financial variables. We use\nthe full sample to estimate the parameter on Trump’s variable due to its shorter history.",
+        "type": "printed"
+      },
+      {
+        "region": "chart_1",
+        "text": "Chart 1: The Trump factor on the Mexican peso\n20\n19.5\n19\n18.5\n18\n17.5\n17\n16.5\n16\n15.5\n15\nAug15 Nov15 Feb16 May16 Aug16\nMXN\nTrump's polling average\n\n48\n46\n44\n42\n40\n38\n36\n34\n32\n30",
+        "type": "printed"
+      },
+      {
+        "region": "chart_2",
+        "text": "Chart 2: Forecasting MXN returns with and without Trump\n20\n19\n18\n17\n16\n15\n14\n13\n12\n2014 2015 2016\nModel (without Trump)\nModel (with Trump)\nMXN\n\n20\n19\n18\n17\n16\n15\n14\n13\n12",
+        "type": "printed"
+      },
+      {
+        "region": "chart_source",
+        "text": "Source: BofA Merrill Lynch Global Research, Bloomberg",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "A possible 15% negative shock on MXN\nAccording to the model that does not include Trump’s polling average, we estimate that\nMXN should be trading at around 16.50, more than 15% stronger than current levels\n(spot 19.72). Chart 2 shows the possible magnitude of the Trump effect on the Mexican\npeso.\n\nThe model including Trump’s polling average appears to do a much better job at\nexplaining the recent behavior of the Mexican peso. However, it still suggests that the\ncurrency has depreciated more than justified by Trump’s increase in recent polls. Based\non Trump’s increase to 43.9% (RealClearPolitics polling average on 21 September) from\n39% (RealClearPolitics polling average on 29 June), our model suggests the Mexican\npeso should be trading at around 18.50, still almost 7% stronger than current levels.\n\nThis, however, does not necessarily mean that MXN has oversold. The almost 5% gain in\nTrump’s polling average since June could have had an outsized effect on MXN if those\ngains took place in swing states, potentially leading to crucial Electoral College votes.\n\nStrategy: neutral MXN for now\nFrom a strategy standpoint, we recommend staying neutral the Mexican peso for now.\nWe believe the Mexican peso would likely strengthen significantly if Hillary Clinton wins\nthe US election. But there is still significant uncertainty. Net speculative long USD/MXN\npositions are somewhat stretched, but could increase much more (Chart 3).",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "2 Liquid Insight | 22 September 2016",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "Bank of America\nMerrill Lynch",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010610",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2012-06-20",
+      "2016-09-21",
+      "2016-01-27",
+      "2016-09-21",
+      "2016-06-29",
+      "2016-09-22"
+    ],
+    "people": [
+      "Donald Trump",
+      "Hillary Clinton"
+    ],
+    "organizations": [
+      "RealClearPolitics",
+      "BofA Merrill Lynch Global Research",
+      "Bloomberg",
+      "Bank of America Merrill Lynch"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010610"
+    ],
+    "financial_amounts": [
+      "10-year",
+      "two-year",
+      "0.50",
+      "0.63",
+      "15%",
+      "16.50",
+      "19.72",
+      "43.9%",
+      "39%",
+      "18.50",
+      "7%",
+      "5%"
+    ],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010610"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "financial research report",
+    "sender": "Bank of America Merrill Lynch",
+    "recipient": null,
+    "subject": "Analysis of the impact of Donald Trump's 2016 presidential election polling on the Mexican Peso (MXN)",
+    "date": "2016-09-22",
+    "references": [
+      "Chart 2",
+      "Chart 3"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a single page from a report titled 'Liquid Insight'. The document control number suggests it is part of a larger collection, possibly from a government investigation or oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010610.jpg",
+  "house_oversight_id": "010610",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:43:27.760107Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,116 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010608.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single, typed page of a document titled 'SERVICE LIST'. The page contains a list of names, professional titles (Esq.), law firm names, and their corresponding mailing addresses. There is a page number at the bottom center and a document identifier in the bottom right corner.",
+    "layout": "The document has a centered title at the top. The main body consists of four distinct blocks of text, each representing an individual or firm and their address. A page number is centered in the footer, and a document ID is in the bottom-right footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "SERVICE LIST\n\nChristopher E. Knight, Esq.\nJoseph L. Ackerman, Esq.\nFOWLER WHITE BURNETT P.A.\n901 Phillips Point West\n777 South Flagler Drive\nWest Palm Beach, FL 33401\n\nJack Alan Goldberger, Esq.\nAtterbury Goldberger et al.\n250 Australian Avenue South\nSuite 1400\nWest Palm Beach, FL 33401\n\nMarc S. Nurik, Esq.\nLaw Offices of Marc S. Nurik\nOne E. Broward Blvd., Suite 700\nFort Lauderdale, FL 33301\n\nGary M. Farmer, Jr.\nFarmer, Jaffe, Weissing,\nEdwards, Fistos & Lehrman, P.L.\n425 N. Andrews Ave., Suite 2\nFort Lauderdale, FL 33301\n\n43\n\nHOUSE_OVERSIGHT_010608",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "SERVICE LIST",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Christopher E. Knight, Esq.\nJoseph L. Ackerman, Esq.\nFOWLER WHITE BURNETT P.A.\n901 Phillips Point West\n777 South Flagler Drive\nWest Palm Beach, FL 33401\n\nJack Alan Goldberger, Esq.\nAtterbury Goldberger et al.\n250 Australian Avenue South\nSuite 1400\nWest Palm Beach, FL 33401\n\nMarc S. Nurik, Esq.\nLaw Offices of Marc S. Nurik\nOne E. Broward Blvd., Suite 700\nFort Lauderdale, FL 33301\n\nGary M. Farmer, Jr.\nFarmer, Jaffe, Weissing,\nEdwards, Fistos & Lehrman, P.L.\n425 N. Andrews Ave., Suite 2\nFort Lauderdale, FL 33301",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "43",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010608",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Christopher E. Knight, Esq.",
+      "Joseph L. Ackerman, Esq.",
+      "Jack Alan Goldberger, Esq.",
+      "Marc S. Nurik, Esq.",
+      "Gary M. Farmer, Jr."
+    ],
+    "organizations": [
+      "FOWLER WHITE BURNETT P.A.",
+      "Atterbury Goldberger et al.",
+      "Law Offices of Marc S. Nurik",
+      "Farmer, Jaffe, Weissing, Edwards, Fistos & Lehrman, P.L."
+    ],
+    "locations": [
+      {
+        "street_address": "901 Phillips Point West, 777 South Flagler Drive",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "zip_code": "33401"
+      },
+      {
+        "street_address": "250 Australian Avenue South, Suite 1400",
+        "city": "West Palm Beach",
+        "state": "FL",
+        "zip_code": "33401"
+      },
+      {
+        "street_address": "One E. Broward Blvd., Suite 700",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "zip_code": "33301"
+      },
+      {
+        "street_address": "425 N. Andrews Ave., Suite 2",
+        "city": "Fort Lauderdale",
+        "state": "FL",
+        "zip_code": "33301"
+      }
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010608",
+      "43"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "901 Phillips Point West, 777 South Flagler Drive, West Palm Beach, FL 33401",
+        "250 Australian Avenue South, Suite 1400, West Palm Beach, FL 33401",
+        "One E. Broward Blvd., Suite 700, Fort Lauderdale, FL 33301",
+        "425 N. Andrews Ave., Suite 2, Fort Lauderdale, FL 33301"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Service List",
+    "sender": null,
+    "recipient": null,
+    "subject": "Service List",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010608"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document appears to be a page from a legal proceeding, listing the parties or their counsel to be served with documents. The first entry lists two individuals for one address.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010608.jpg",
+  "house_oversight_id": "010608",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:42:14.413470Z",
+    "model": "gemini-2.5-pro"
+  }
+}

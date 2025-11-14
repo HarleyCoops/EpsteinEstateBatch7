@@ -1,0 +1,86 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010605.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A typed document page with black text on a white background. The page contains a series of numbered paragraphs, each describing a question asked during a deposition to a person named Epstein, and noting that he invoked the Fifth Amendment in response. A page number is visible at the bottom center, and a document identifier is at the bottom right.",
+    "layout": "Single column of text with numbered paragraphs. A page number is centered at the bottom, and a document identifier is in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "105. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Donald Trump in the presence of females under the age of 18?” Id. at 89.\n\n106. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Alan Dershowitz in the presence of females under the age of 18.” Id. at 90.\n\n107. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Mr. Mottola in the presence of females under the age of 18?” Id. at 91-92.\n\n108. In his deposition, Epstein took the Fifth rather than answer the question: “Did you ever socialize with David Copperfield in the presence of females under the age of 18?” Id. at\n\n109. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Mr. Richardson [Governor of New Mexico and formerly U.S. Representative and Ambassador to the United Nations] in the presence of females under the age of 18.” Id. at 94.\n\n110. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever sexually abused children?” Id. at 95.\n\n111. In his deposition, Epstein took the Fifth rather than answer the question: “Did you have staff members that assisted you in scheduling appointments with underage females; that is, females under the age of 18.” Id. at 97-98.\n\n112. In his deposition, Epstein took the Fifth rather than answer the question: “On how many occasions did you solicit prostitution.” Id. at 102.\n\n40\n\nHOUSE_OVERSIGHT_010605",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "105. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Donald Trump in the presence of females under the age of 18?” Id. at 89.\n\n106. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Alan Dershowitz in the presence of females under the age of 18.” Id. at 90.\n\n107. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Mr. Mottola in the presence of females under the age of 18?” Id. at 91-92.\n\n108. In his deposition, Epstein took the Fifth rather than answer the question: “Did you ever socialize with David Copperfield in the presence of females under the age of 18?” Id. at\n\n109. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever socialized with Mr. Richardson [Governor of New Mexico and formerly U.S. Representative and Ambassador to the United Nations] in the presence of females under the age of 18.” Id. at 94.\n\n110. In his deposition, Epstein took the Fifth rather than answer the question: “Have you ever sexually abused children?” Id. at 95.\n\n111. In his deposition, Epstein took the Fifth rather than answer the question: “Did you have staff members that assisted you in scheduling appointments with underage females; that is, females under the age of 18.” Id. at 97-98.\n\n112. In his deposition, Epstein took the Fifth rather than answer the question: “On how many occasions did you solicit prostitution.” Id. at 102.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "40",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010605",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Epstein",
+      "Donald Trump",
+      "Alan Dershowitz",
+      "Mr. Mottola",
+      "David Copperfield",
+      "Mr. Richardson"
+    ],
+    "organizations": [
+      "United Nations"
+    ],
+    "locations": [
+      "New Mexico"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010605"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal document",
+    "sender": null,
+    "recipient": null,
+    "subject": "Summary of Jeffrey Epstein's deposition, detailing questions to which he pleaded the Fifth Amendment.",
+    "date": null,
+    "references": [
+      "Id. at 89",
+      "Id. at 90",
+      "Id. at 91-92",
+      "Id. at 94",
+      "Id. at 95",
+      "Id. at 97-98",
+      "Id. at 102"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document appears to be a summary or excerpt from a legal filing related to a deposition of Jeffrey Epstein. The citation for paragraph 108 is incomplete, ending with 'Id. at' without a page number.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010605.jpg",
+  "house_oversight_id": "010605",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:41:14.242830Z",
+    "model": "gemini-2.5-pro"
+  }
+}
