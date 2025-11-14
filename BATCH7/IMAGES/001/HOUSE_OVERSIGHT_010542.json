@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010542.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a single page from a book or bound document. The page is laid out in a two-column format, with the left column fully visible and the right column partially cut off. The text discusses the work release conditions of an individual named Epstein. The page shows curvature towards the inner binding on the left. Headers and footers containing author name, page numbers, and a document control number are present.",
+    "layout": "The main content is in a two-column format. A header is present at the top center and top right. A page number is at the bottom center, another number at the bottom right, and a document control number is at the very bottom of the page.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\nF11\n\nfit the category we have to ensure the general population is not going to take their anger out on.”\n\nAlthough he understands that Epstein is a sex offender and has a sense of the scope of his alleged crimes, Bradshaw’s also aware that the actual conviction was for a “low-level felony.” At the request of Epstein’s attorneys—a request that is confirmed by a court order—Epstein is quickly granted “work release.”\n\nWhat it means in practice is that six days a week, for up to sixteen—sixteen!—hours each day, Epstein is allowed to leave the Stockade to be driven by a designated driver in a car earmarked especially for him to any one of three places: his lawyer Jack Goldberger’s office in downtown West Palm Beach, the Palm Beach office of a science foundation that he’s established, and his house on El Brillo Way.\n\nDespite the ankle bracelet he wears, it could be argued that as a fabulously rich prisoner with two of his own jets parked nearby, at the Palm Beach International Airport, Epstein might have posed a flight risk.\n\nInstead, every day of the week save one, he’s allowed to go to his lawyer’s, to go to his office, or simply to go home.\n\nDid the deputy in charge of Epstein go to the house on El Brillo Way?\n\nRic Bradshaw considers the question.\n\n“Yes,” he says, “he did.”\n\nDid the deputy go inside the house?\n\n“Yes, he did.”\n\nIf so, the deputy might have encountered Nadia Marcinkova, who was staying on El Brillo Way at the time. He may also have\n\nmet a suave short-haired ge[n]\nFrench accent.\n\nThat would be Jean-Luc E\nFor the duration of Jeffre\nthe Stockade, Brunel’s taken\nBrillo Way.\n\n202\n20\n\nHOUSE_OVERSIGHT_010542",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "F11",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "fit the category we have to ensure the general population is not going to take their anger out on.”\n\nAlthough he understands that Epstein is a sex offender and has a sense of the scope of his alleged crimes, Bradshaw’s also aware that the actual conviction was for a “low-level felony.” At the request of Epstein’s attorneys—a request that is confirmed by a court order—Epstein is quickly granted “work release.”\n\nWhat it means in practice is that six days a week, for up to sixteen—sixteen!—hours each day, Epstein is allowed to leave the Stockade to be driven by a designated driver in a car earmarked especially for him to any one of three places: his lawyer Jack Goldberger’s office in downtown West Palm Beach, the Palm Beach office of a science foundation that he’s established, and his house on El Brillo Way.\n\nDespite the ankle bracelet he wears, it could be argued that as a fabulously rich prisoner with two of his own jets parked nearby, at the Palm Beach International Airport, Epstein might have posed a flight risk.\n\nInstead, every day of the week save one, he’s allowed to go to his lawyer’s, to go to his office, or simply to go home.\n\nDid the deputy in charge of Epstein go to the house on El Brillo Way?\n\nRic Bradshaw considers the question.\n\n“Yes,” he says, “he did.”\n\nDid the deputy go inside the house?\n\n“Yes, he did.”\n\nIf so, the deputy might have encountered Nadia Marcinkova, who was staying on El Brillo Way at the time. He may also have",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "met a suave short-haired ge[n]\nFrench accent.\n\nThat would be Jean-Luc E\nFor the duration of Jeffre\nthe Stockade, Brunel’s taken\nBrillo Way.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "202",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "20",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010542",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "Epstein",
+      "Bradshaw",
+      "Jack Goldberger",
+      "Ric Bradshaw",
+      "Nadia Marcinkova",
+      "Jean-Luc E",
+      "Jeffre",
+      "Brunel"
+    ],
+    "organizations": [],
+    "locations": [
+      "West Palm Beach",
+      "Palm Beach",
+      "El Brillo Way",
+      "Palm Beach International Airport",
+      "the Stockade"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010542",
+      "202",
+      "20",
+      "F11"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "downtown West Palm Beach",
+        "El Brillo Way"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010542"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Page from a book or report",
+    "sender": null,
+    "recipient": null,
+    "subject": "Work release conditions for Epstein",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010542"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The document is a page from a book, likely non-fiction, authored by James Patterson. The text on the right side of the page is partially cut off, leading to incomplete sentences and names (e.g., 'Jean-Luc E', 'Jeffre'). The document control number 'HOUSE_OVERSIGHT_010542' suggests it is part of a collection of documents from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010542.jpg",
+  "house_oversight_id": "010542",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:17:02.655956Z",
+    "model": "gemini-2.5-pro"
+  }
+}

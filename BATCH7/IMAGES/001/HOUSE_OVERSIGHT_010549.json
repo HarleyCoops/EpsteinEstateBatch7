@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010549.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a two-page spread from an open book. The left page is partially visible, while the right page is fully legible. The text discusses a legal case. A document control number is visible at the bottom right.",
+    "layout": "Two-column layout corresponding to two pages of a book. The left page has a header, body text, and a page number at the bottom. The right page has a header, body text, and a page number at the bottom. There is a footer with a document identifier at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ATTERSON\n\necutors presented Epstein a\nous state felony charges (that\nprisonment, registration as a\nution for the victims) or else\ntrial.\near-long assault on the prose-\n. I use the word assault inten-\nthis case was more aggressive\nprosecutors in my office, had\nMr. Epstein hired an army of\nrofessor Alan Dershowitz, for-\ndine Law Dean Kenneth Starr,\no the President and then Kirk-\nefkowitz, and several others,\no had formerly worked in the\nin the Child Exploitation and\nJustice Department. Defense\nmeeting with me to challenge\nterms previously presented by\nmeeting with Mr. Black. The\net with defense counsel in Fall\nhe office's position: two years,\nn, or trial.\nmonths, the defense team pre-\nrgument claiming that felony\nainst Epstein were unsupported\ned a basis in law, and that the\ntime was motivated by a zeal to\nly because he is wealthy. They\nnts with legal opinions from\n\n208\n\nFILTHY RICH\n\nwell-known legal experts. One member of the defense\nteam warned me that the office's excess zeal in forcing a\ngood man to serve time in jail might be the subject of a\nbook if we continued to proceed with the matter. My\noffice systematically considered and rejected each argu-\nment, and when we did, my office's decisions were\nappealed to Washington. As to the warning, I ignored it.\nThe defense strategy was not limited to legal issues.\nDefense counsel investigated individual prosecutors and\ntheir families, looking for personal peccadilloes that may\nprovide a basis for disqualification. Disqualifying a pros-\necutor is an effective (though rarely used) strategy, as\neliminating the individuals most familiar with the facts\nand thus most qualified to take a case to trial harms like-\nlihood for success. Defense counsel tried to disqualify at\nleast two prosecutors. I carefully reviewed, and then\nrejected, these arguments.\nDespite the army of attorneys, the office held firm to\nthe terms first presented to Mr. Black in the original\nmeeting. On June 30, 2008, after yet another last minute\nappeal to Washington D.C. was rejected, Epstein pled\nguilty in state court. He was to serve 18 months impris-\nonment, register as a sexual offender for life, and provide\nrestitution to the victims.\nSome may feel that the prosecution should have been\ntougher. Evidence that has come to light since 2007 may\nencourage that view. Many victims have since spoken\nout, filing detailed statements in civil cases seeking dam-\nages. Physical evidence has since been discovered. Had\nthese additional statements and evidence been known,\n\n209\n\nHOUSE_OVERSIGHT_010549",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "ATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "ecutors presented Epstein a\nous state felony charges (that\nprisonment, registration as a\nution for the victims) or else\ntrial.\near-long assault on the prose-\n. I use the word assault inten-\nthis case was more aggressive\nprosecutors in my office, had\nMr. Epstein hired an army of\nrofessor Alan Dershowitz, for-\ndine Law Dean Kenneth Starr,\no the President and then Kirk-\nefkowitz, and several others,\no had formerly worked in the\nin the Child Exploitation and\nJustice Department. Defense\nmeeting with me to challenge\nterms previously presented by\nmeeting with Mr. Black. The\net with defense counsel in Fall\nhe office's position: two years,\nn, or trial.\nmonths, the defense team pre-\nrgument claiming that felony\nainst Epstein were unsupported\ned a basis in law, and that the\ntime was motivated by a zeal to\nly because he is wealthy. They\nnts with legal opinions from",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "208",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "well-known legal experts. One member of the defense\nteam warned me that the office's excess zeal in forcing a\ngood man to serve time in jail might be the subject of a\nbook if we continued to proceed with the matter. My\noffice systematically considered and rejected each argu-\nment, and when we did, my office's decisions were\nappealed to Washington. As to the warning, I ignored it.\nThe defense strategy was not limited to legal issues.\nDefense counsel investigated individual prosecutors and\ntheir families, looking for personal peccadilloes that may\nprovide a basis for disqualification. Disqualifying a pros-\necutor is an effective (though rarely used) strategy, as\neliminating the individuals most familiar with the facts\nand thus most qualified to take a case to trial harms like-\nlihood for success. Defense counsel tried to disqualify at\nleast two prosecutors. I carefully reviewed, and then\nrejected, these arguments.\nDespite the army of attorneys, the office held firm to\nthe terms first presented to Mr. Black in the original\nmeeting. On June 30, 2008, after yet another last minute\nappeal to Washington D.C. was rejected, Epstein pled\nguilty in state court. He was to serve 18 months impris-\nonment, register as a sexual offender for life, and provide\nrestitution to the victims.\nSome may feel that the prosecution should have been\ntougher. Evidence that has come to light since 2007 may\nencourage that view. Many victims have since spoken\nout, filing detailed statements in civil cases seeking dam-\nages. Physical evidence has since been discovered. Had\nthese additional statements and evidence been known,",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "209",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010549",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-06-30",
+      "2007"
+    ],
+    "people": [
+      "Epstein",
+      "Mr. Epstein",
+      "Alan Dershowitz",
+      "Kenneth Starr",
+      "Kirk-efkowitz",
+      "Mr. Black"
+    ],
+    "organizations": [
+      "Child Exploitation and Justice Department"
+    ],
+    "locations": [
+      "Washington",
+      "Washington D.C."
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010549",
+      "208",
+      "209"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010549"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book/Report Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Legal proceedings and defense strategy in the case against Epstein.",
+    "date": "2008-06-30",
+    "references": [
+      "HOUSE_OVERSIGHT_010549"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.99,
+    "overall": 0.98
+  },
+  "notes": "The text on the left page is cut off by the book's binding. The name 'Kirk-efkowitz' may be a single name 'Kirk Lefkowitz' split by a line break. The header 'ATTERSON' on the left page may be a chapter title or author's name.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010549.jpg",
+  "house_oversight_id": "010549",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:20:02.647260Z",
+    "model": "gemini-2.5-pro"
+  }
+}

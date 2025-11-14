@@ -378,11 +378,19 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
     """Process all text files and assemble into stories."""
     output_dir.mkdir(parents=True, exist_ok=True)
     
-    # Get API key
+    # Get API key (should already be loaded by main() via load_dotenv())
     api_key = os.environ.get("GEMINI_API_KEY")
     if not api_key:
         print("Error: GEMINI_API_KEY not set", file=sys.stderr)
+        print("Make sure .env file exists with GEMINI_API_KEY=your-key", file=sys.stderr)
         sys.exit(1)
+    
+    # Strip whitespace in case .env has extra spaces
+    api_key = api_key.strip()
+    
+    # Verify key format (should start with AIzaSy)
+    if not api_key.startswith("AIzaSy"):
+        print(f"Warning: API key format looks unusual (starts with: {api_key[:6]})", file=sys.stderr)
     
     client = genai.Client(api_key=api_key)
     
@@ -444,7 +452,10 @@ def process_text(text_dir: Path, output_dir: Path, skip_existing: bool = False) 
 
 
 if __name__ == "__main__":
-    load_dotenv()
+    # Load .env from current directory or parent directory
+    script_dir = Path(__file__).parent.absolute()
+    load_dotenv()  # Try current directory first
+    load_dotenv(dotenv_path=script_dir.parent / ".env")  # Try parent directory
     ap = argparse.ArgumentParser(description="Process text files from TEXT directory")
     ap.add_argument("--text-dir", type=Path, required=True)
     ap.add_argument("--output-dir", type=Path, required=True)

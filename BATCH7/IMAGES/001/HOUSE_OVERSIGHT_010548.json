@@ -1,0 +1,113 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010548.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A photograph of an open book or bound document, showing two pages. The left page is fully visible, while the right page is partially cut off on the right side. The text discusses a legal case involving Jeffrey Epstein.",
+    "layout": "Two-page spread from a bound document. The text is in a single column format on each visible page. There are headers at the top and footers at the bottom of the pages.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nKennedy Smith. The prosecutors presented Epstein a choice: plead to more serious state felony charges (that would result in 2 years' imprisonment, registration as a sexual offender, and restitution for the victims) or else prepare for a federal felony trial.\n\nWhat followed was a year-long assault on the prosecution and the prosecutors. I use the word assault intentionally, as the defense in this case was more aggressive than any which I, or the prosecutors in my office, had previously encountered. Mr. Epstein hired an army of legal superstars: Harvard Professor Alan Dershowitz, former Judge and then Pepperdine Law Dean Kenneth Starr, former Deputy Assistant to the President and then Kirkland & Ellis Partner Jay Lefkowitz, and several others, including prosecutors who had formerly worked in the U.S. Attorney's Office and in the Child Exploitation and Obscenity Section of the Justice Department. Defense attorneys next requested a meeting with me to challenge the prosecution and the terms previously presented by the prosecutors in their meeting with Mr. Black. The prosecution team and I met with defense counsel in Fall 2007, and I reaffirmed the office's position: two years, registration and restitution, or trial.\n\nOver the next several months, the defense team presented argument after argument claiming that felony criminal proceedings against Epstein were unsupported by the evidence and lacked a basis in law, and that the office's insistence on jail-time was motivated by a zeal to overcharge a man merely because he is wealthy. They bolstered their arguments with legal opinions from\n\n208\n\nFil\n\nwell-known legal expert\nteam warned me that the\ngood man to serve time\nbook if we continued to\noffice systematically con\nment, and when we di\nappealed to Washington.\n\nThe defense strategy\nDefense counsel investiga\ntheir families, looking for\nprovide a basis for disqual\necutor is an effective (th\neliminating the individua\nand thus most qualified to\nlihood for success. Defens\nleast two prosecutors. I\nrejected, these arguments.\n\nDespite the army of att\nthe terms first presented\nmeeting. On June 30, 2008\nappeal to Washington D.C\nguilty in state court. He w\nonment, register as a sexua\nrestitution to the victims.\n\nSome may feel that the\ntougher. Evidence that has\nencourage that view. Many\nout, filing detailed statemen\nages. Physical evidence has\nthese additional statements\n\n2\n\nHOUSE_OVERSIGHT_010548",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Fil",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Kennedy Smith. The prosecutors presented Epstein a choice: plead to more serious state felony charges (that would result in 2 years' imprisonment, registration as a sexual offender, and restitution for the victims) or else prepare for a federal felony trial.\n\nWhat followed was a year-long assault on the prosecution and the prosecutors. I use the word assault intentionally, as the defense in this case was more aggressive than any which I, or the prosecutors in my office, had previously encountered. Mr. Epstein hired an army of legal superstars: Harvard Professor Alan Dershowitz, former Judge and then Pepperdine Law Dean Kenneth Starr, former Deputy Assistant to the President and then Kirkland & Ellis Partner Jay Lefkowitz, and several others, including prosecutors who had formerly worked in the U.S. Attorney's Office and in the Child Exploitation and Obscenity Section of the Justice Department. Defense attorneys next requested a meeting with me to challenge the prosecution and the terms previously presented by the prosecutors in their meeting with Mr. Black. The prosecution team and I met with defense counsel in Fall 2007, and I reaffirmed the office's position: two years, registration and restitution, or trial.\n\nOver the next several months, the defense team presented argument after argument claiming that felony criminal proceedings against Epstein were unsupported by the evidence and lacked a basis in law, and that the office's insistence on jail-time was motivated by a zeal to overcharge a man merely because he is wealthy. They bolstered their arguments with legal opinions from",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "well-known legal expert\nteam warned me that the\ngood man to serve time i\nbook if we continued to\noffice systematically con\nment, and when we di\nappealed to Washington.\n\nThe defense strategy\nDefense counsel investiga\ntheir families, looking for\nprovide a basis for disqual\necutor is an effective (th\neliminating the individua\nand thus most qualified to\nlihood for success. Defens\nleast two prosecutors. I\nrejected, these arguments.\n\nDespite the army of att\nthe terms first presented\nmeeting. On June 30, 2008\nappeal to Washington D.C\nguilty in state court. He w\nonment, register as a sexua\nrestitution to the victims.\n\nSome may feel that the\ntougher. Evidence that has\nencourage that view. Many\nout, filing detailed statemen\nages. Physical evidence has\nthese additional statements",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "208",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "2",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010548",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2007-09-22",
+      "2008-06-30"
+    ],
+    "people": [
+      "James Patterson",
+      "Kennedy Smith",
+      "Epstein",
+      "Alan Dershowitz",
+      "Kenneth Starr",
+      "Jay Lefkowitz",
+      "Mr. Black"
+    ],
+    "organizations": [
+      "Harvard",
+      "Pepperdine Law",
+      "Kirkland & Ellis",
+      "U.S. Attorney's Office",
+      "Child Exploitation and Obscenity Section",
+      "Justice Department"
+    ],
+    "locations": [
+      "Washington D.C"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010548",
+      "208",
+      "2"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates number: HOUSE_OVERSIGHT_010548"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "report",
+    "sender": "James Patterson",
+    "recipient": null,
+    "subject": "Legal proceedings against Jeffrey Epstein, detailing the defense strategy and prosecution's response.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010548"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The document is a photograph of two pages from a book or report. The right page is partially cut off, making some sentences incomplete. The header 'Fil' on the right page is likely an incomplete word. The document appears to be a narrative account of a legal case, likely written by James Patterson.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010548.jpg",
+  "house_oversight_id": "010548",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:19:35.486584Z",
+    "model": "gemini-2.5-pro"
+  }
+}

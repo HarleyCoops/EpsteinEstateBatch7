@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010546.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A black and white scan of a two-page spread from a book or report. The left page is numbered 206 and contains the beginning of a letter from R. Alexander Acosta. The right page is partially visible and continues the text. A document identifier 'HOUSE_OVERSIGHT_010546' is visible at the bottom right.",
+    "layout": "Two-page spread. The left page is fully visible, while the right page is partially cut off at the right margin. Text is arranged in paragraphs under a chapter heading and a title.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "F1\n\nCHAPTER 55\n\nschool females to provic\nmassages. Police sought\nresulted in a term of im\nreports, however, in 200\nto concerns regarding th\nto charge Epstein only\nassault with no intent to\nwould have resulted in r\nregister as a sexual offer\nunderage victims.\n\nLocal police were dis\nney's conclusions, and re\nFederal authorities recei\nengaged in additional inv\nthe quality of the evidenc\nat trial. With a federal ca\nconsiderations. First, a\nrequires that the crime be\nan interstate nexus. Seco\ncharged by the state, the fe\nextent, to back-stop state a\nis no miscarriage of justice\nerally that which has alre\nlevel.\n\nAfter considering the q\nadditional considerations,\nthe state charge was insufi\nthe prosecutors and age\nMr. Epstein's attorney, Roy\nbest known for his suc\n\nR. Alexander Acosta's letter to the general public,\nMarch 20, 2011\n\nTo whom it may concern:\n\nI served as U. S. Attorney for the Southern District of Florida\nfrom 2005 through 2009. Over the past weeks, I have read\nmuch regarding Mr. Jeffrey Epstein. Some appears true,\nsome appears distorted. I thought it appropriate to provide\nsome background, with two caveats: (i) under Justice Depart-\nment guidelines, I cannot discuss privileged internal com-\nmunications among department attorneys and (ii) I no longer\nhave access to the original documents, and as the matter is\nnow nearly 4 years old, the precision of memory is reduced.\n\nThe Epstein matter was originally presented to the\nPalm Beach County State Attorney. Palm Beach Police\nalleged that Epstein unlawfully hired underage high-\n\n206\n\nHOUSE_OVERSIGHT_010546",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "F1",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 55",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "R. Alexander Acosta's letter to the general public,\nMarch 20, 2011",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "To whom it may concern:\n\nI served as U. S. Attorney for the Southern District of Florida\nfrom 2005 through 2009. Over the past weeks, I have read\nmuch regarding Mr. Jeffrey Epstein. Some appears true,\nsome appears distorted. I thought it appropriate to provide\nsome background, with two caveats: (i) under Justice Depart-\nment guidelines, I cannot discuss privileged internal com-\nmunications among department attorneys and (ii) I no longer\nhave access to the original documents, and as the matter is\nnow nearly 4 years old, the precision of memory is reduced.\n\nThe Epstein matter was originally presented to the\nPalm Beach County State Attorney. Palm Beach Police\nalleged that Epstein unlawfully hired underage high-",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "school females to provic\nmassages. Police sought\nresulted in a term of im\nreports, however, in 200\nto concerns regarding th\nto charge Epstein only\nassault with no intent to\nwould have resulted in r\nregister as a sexual offer\nunderage victims.\n\nLocal police were dis\nney's conclusions, and re\nFederal authorities recei\nengaged in additional inv\nthe quality of the evidenc\nat trial. With a federal ca\nconsiderations. First, a\nrequires that the crime be\nan interstate nexus. Seco\ncharged by the state, the fe\nextent, to back-stop state a\nis no miscarriage of justice\nerally that which has alre\nlevel.\n\nAfter considering the q\nadditional considerations,\nthe state charge was insufi\nthe prosecutors and age\nMr. Epstein's attorney, Roy\nbest known for his suc",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "206",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010546",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2011-03-20",
+      "2005",
+      "2009",
+      "200[unclear]"
+    ],
+    "people": [
+      "R. Alexander Acosta",
+      "Jeffrey Epstein",
+      "Roy"
+    ],
+    "organizations": [
+      "U. S. Attorney for the Southern District of Florida",
+      "Justice Department",
+      "Palm Beach County State Attorney",
+      "Palm Beach Police"
+    ],
+    "locations": [
+      "Southern District of Florida",
+      "Palm Beach County"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010546",
+      "206"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "letter",
+    "sender": "R. Alexander Acosta",
+    "recipient": "the general public",
+    "subject": "Background on the Jeffrey Epstein matter",
+    "date": "2011-03-20",
+    "references": [
+      "HOUSE_OVERSIGHT_010546"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The document is a two-page spread from a larger report or book. The text on the right-hand page is partially cut off, making some words and sentences incomplete. The document identifier 'HOUSE_OVERSIGHT_010546' suggests this is part of a collection of documents from a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010546.jpg",
+  "house_oversight_id": "010546",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:18:40.029877Z",
+    "model": "gemini-2.5-pro"
+  }
+}

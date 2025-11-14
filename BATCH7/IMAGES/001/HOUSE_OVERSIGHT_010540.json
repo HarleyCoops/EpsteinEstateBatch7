@@ -1,0 +1,101 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010540.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a printed book. The left page is numbered 200 and the right page is 201. The text discusses the incarceration of Jeffrey Epstein. A document identifier, 'HOUSE_OVERSIGHT_010540', is visible at the bottom right.",
+    "layout": "Two-page book spread. The left page has a header with the author's name, body text, and a page number at the bottom. The right page has a chapter-like title, body text, and a page number at the top right. A document identifier is in the footer of the right page.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\n\nSome wait a year before making their way to the courthouse,\ntheir date with the public defender, and an appearance before\nthe judge. Some get out much sooner, if only they can make bail.\nBut there’s no bail without money—or at least collateral—and,\nof course, being without money is often what lands people in jail\nin the first place.\n\nJeffrey Epstein could have posted bail for every single inmate\nin the Gun Club.\n\nBut that’s just one of the ways in which Epstein is unlike his\nfellow inmates. He’s an admitted pedophile now. Even a famous one.\n\nAnd, famously, pedophiles tend to fare poorly in jail.\n\nLuckily for Epstein, Ric Bradshaw, the sheriff in charge of\nlocal jails, transfers Epstein to the infirmary, where he spends\nexactly one night before being transferred seven miles up the\nroad to a much smaller, safer location: the Palm Beach County\nCentral Detention Center—or, as it’s known, the Stockade.\n\n“It’s not somewhere we’d put a serial killer,” Ric Bradshaw says.\n\nMost of the residents here are addicts who take part in drug\neducation programs, prostitutes, petty criminals, and drunks.\nIt’s a far safer place for Epstein to be, and, unlike other inmates\n(except, of course, those being held in solitary), he’ll end up with\nhis own cell, even his own wing, which he has to himself.\nEpstein’s allowed to pay for a security guard, who sits outside the\ncell and keeps watch. And he’s allowed any number of visitors.\n\nFor a convicted felon, it’s an extraordinary benefits package.\n\nBut according to Sheriff Bradshaw, who also oversees the Stock-\nade, Epstein is incredulous over the treatment he is receiving.\n\n“He was astonished that he had to go to prison at all,” Brad-\nshaw remembers.\n\n“Let’s just say he didn’t think he belonged there.”\n\n200\n\nSheriff Ric Bradshaw: June\n\nOur job,” says Ric Bradsh\nkilled him.”\n\nSheriff Bradshaw co\nWestern. Imposingly tall, with\nmustache, and slow, southern\nold-school law officer—the ki\npatrolling the streets of Tombst\nHe’s been a lawman for forty-fo\nbeen spent as the head of the co\ntalk to the media, and today, as\nhe’s clearly uncomfortable, fidget\n\nBut here in his wood-panele\nGun Club, Bradshaw remembers\n\n“We have a thousand sexua\nsays. “When he arrived here, he\n\n201\n\nHOUSE_OVERSIGHT_010540",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Some wait a year before making their way to the courthouse,\ntheir date with the public defender, and an appearance before\nthe judge. Some get out much sooner, if only they can make bail.\nBut there’s no bail without money—or at least collateral—and,\nof course, being without money is often what lands people in jail\nin the first place.\n\nJeffrey Epstein could have posted bail for every single inmate\nin the Gun Club.\n\nBut that’s just one of the ways in which Epstein is unlike his\nfellow inmates. He’s an admitted pedophile now. Even a famous one.\n\nAnd, famously, pedophiles tend to fare poorly in jail.\n\nLuckily for Epstein, Ric Bradshaw, the sheriff in charge of\nlocal jails, transfers Epstein to the infirmary, where he spends\nexactly one night before being transferred seven miles up the\nroad to a much smaller, safer location: the Palm Beach County\nCentral Detention Center—or, as it’s known, the Stockade.\n\n“It’s not somewhere we’d put a serial killer,” Ric Bradshaw says.\n\nMost of the residents here are addicts who take part in drug\neducation programs, prostitutes, petty criminals, and drunks.\nIt’s a far safer place for Epstein to be, and, unlike other inmates\n(except, of course, those being held in solitary), he’ll end up with\nhis own cell, even his own wing, which he has to himself.\nEpstein’s allowed to pay for a security guard, who sits outside the\ncell and keeps watch. And he’s allowed any number of visitors.\n\nFor a convicted felon, it’s an extraordinary benefits package.\n\nBut according to Sheriff Bradshaw, who also oversees the Stock-\nade, Epstein is incredulous over the treatment he is receiving.\n\n“He was astonished that he had to go to prison at all,” Brad-\nshaw remembers.\n\n“Let’s just say he didn’t think he belonged there.”",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "200",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Sheriff Ric Bradshaw: June",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "Our job,” says Ric Bradsh\nkilled him.”\n\nSheriff Bradshaw co\nWestern. Imposingly tall, with\nmustache, and slow, southern\nold-school law officer—the ki\npatrolling the streets of Tombst\nHe’s been a lawman for forty-fo\nbeen spent as the head of the co\ntalk to the media, and today, as\nhe’s clearly uncomfortable, fidget\n\nBut here in his wood-panele\nGun Club, Bradshaw remembers\n\n“We have a thousand sexua\nsays. “When he arrived here, he",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "201",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010540",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "June"
+    ],
+    "people": [
+      "JAMES PATTERSON",
+      "Jeffrey Epstein",
+      "Ric Bradshaw",
+      "Sheriff Bradshaw"
+    ],
+    "organizations": [],
+    "locations": [
+      "Gun Club",
+      "Palm Beach County Central Detention Center",
+      "the Stockade",
+      "Tombst[one]"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010540"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010540"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "The incarceration and special treatment of Jeffrey Epstein under Sheriff Ric Bradshaw.",
+    "date": null,
+    "references": []
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The document is a two-page excerpt from a book authored by James Patterson. Some text on the right-hand page is cut off by the edge of the page.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010540.jpg",
+  "house_oversight_id": "010540",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:16:10.437400Z",
+    "model": "gemini-2.5-pro"
+  }
+}

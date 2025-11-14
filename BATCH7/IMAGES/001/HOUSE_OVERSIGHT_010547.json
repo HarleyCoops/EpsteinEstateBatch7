@@ -1,0 +1,108 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010547.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a two-page spread from a book. The left page (206) is partially visible, while the right page (207) is fully visible. The book's binding is prominent in the center, causing some text to curve into the gutter. The document has a Bates stamp at the bottom right.",
+    "layout": "Two-column layout representing two pages of a book. Each page has a header, a main body of text, and a page number at the bottom. A document identifier is located in the footer of the overall image.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "CHAPTER 55\n\ner to the general public,\n\nr the Southern District of Florida\nOver the past weeks, I have read\ney Epstein. Some appears true,\nthought it appropriate to provide\no caveats: (i) under Justice Depart-\ndiscuss privileged internal com-\nment attorneys and (ii) I no longer\nl documents, and as the matter is\n: precision of memory is reduced.\nwas originally presented to the\nte Attorney. Palm Beach Police\nllawfully hired underage high-\n\n206\n\nFILTHY RICH\n\nschool females to provide him sexually lewd and erotic\nmassages. Police sought felony charges that would have\nresulted in a term of imprisonment. According to press\nreports, however, in 2006 the State Attorney, in part due\nto concerns regarding the quality of the evidence, agreed\nto charge Epstein only with one count of aggravated\nassault with no intent to commit a felony. That charge\nwould have resulted in no jail time, no requirement to\nregister as a sexual offender and no restitution for the\nunderage victims.\n\nLocal police were dissatisfied with the State Attor-\nney's conclusions, and requested a federal investigation.\nFederal authorities received the State's evidence and\nengaged in additional investigation. Prosecutors weighed\nthe quality of the evidence and the likelihood for success\nat trial. With a federal case, there were two additional\nconsiderations. First, a federal criminal prosecution\nrequires that the crime be more than local; it must have\nan interstate nexus. Second, as the matter was initially\ncharged by the state, the federal responsibility is, to some\nextent, to back-stop state authorities to ensure that there\nis no miscarriage of justice, and not to also prosecute fed-\nerally that which has already been charged at the state\nlevel.\n\nAfter considering the quality of the evidence and the\nadditional considerations, prosecutors concluded that\nthe state charge was insufficient. In early summer 2007,\nthe prosecutors and agents in this case met with\nMr. Epstein's attorney, Roy Black. Mr. Black is perhaps\nbest known for his successful defense of William\n\n207\n\nHOUSE_OVERSIGHT_010547",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "CHAPTER 55",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "er to the general public,\n\nr the Southern District of Florida\nOver the past weeks, I have read\ney Epstein. Some appears true,\nthought it appropriate to provide\no caveats: (i) under Justice Depart-\ndiscuss privileged internal com-\nment attorneys and (ii) I no longer\nl documents, and as the matter is\n: precision of memory is reduced.\nwas originally presented to the\nte Attorney. Palm Beach Police\nllawfully hired underage high-",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "206",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "school females to provide him sexually lewd and erotic\nmassages. Police sought felony charges that would have\nresulted in a term of imprisonment. According to press\nreports, however, in 2006 the State Attorney, in part due\nto concerns regarding the quality of the evidence, agreed\nto charge Epstein only with one count of aggravated\nassault with no intent to commit a felony. That charge\nwould have resulted in no jail time, no requirement to\nregister as a sexual offender and no restitution for the\nunderage victims.\n\nLocal police were dissatisfied with the State Attor-\nney's conclusions, and requested a federal investigation.\nFederal authorities received the State's evidence and\nengaged in additional investigation. Prosecutors weighed\nthe quality of the evidence and the likelihood for success\nat trial. With a federal case, there were two additional\nconsiderations. First, a federal criminal prosecution\nrequires that the crime be more than local; it must have\nan interstate nexus. Second, as the matter was initially\ncharged by the state, the federal responsibility is, to some\nextent, to back-stop state authorities to ensure that there\nis no miscarriage of justice, and not to also prosecute fed-\nerally that which has already been charged at the state\nlevel.\n\nAfter considering the quality of the evidence and the\nadditional considerations, prosecutors concluded that\nthe state charge was insufficient. In early summer 2007,\nthe prosecutors and agents in this case met with\nMr. Epstein's attorney, Roy Black. Mr. Black is perhaps\nbest known for his successful defense of William",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "207",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010547",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2006",
+      "early summer 2007"
+    ],
+    "people": [
+      "Epstein",
+      "Mr. Epstein",
+      "Roy Black",
+      "Mr. Black",
+      "William"
+    ],
+    "organizations": [
+      "Justice Depart[ment]",
+      "Palm Beach Police",
+      "State Attorney",
+      "Federal authorities",
+      "House Oversight"
+    ],
+    "locations": [
+      "Southern District of Florida"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010547"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010547"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Investigation of Jeffrey Epstein, state vs. federal prosecution considerations, and meeting with attorney Roy Black.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010547"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The image is a scan of pages 206 and 207 from a book, likely 'Filthy Rich' by James Patterson, based on the header. The text on the left page is cut off. The document number indicates it is part of a larger collection from the House Oversight committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010547.jpg",
+  "house_oversight_id": "010547",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:19:07.244487Z",
+    "model": "gemini-2.5-pro"
+  }
+}

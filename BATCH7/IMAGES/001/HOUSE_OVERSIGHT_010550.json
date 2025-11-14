@@ -1,0 +1,98 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010550.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a single page from a book or bound document. The page contains printed text in two columns, with a header, a page number, and a document identifier. The page is slightly curved, suggesting it was scanned from an open book. The bottom of the image shows a dark, textured surface.",
+    "layout": "The page has a header at the top, with text on the left ('JAMES PATTERSON') and right ('F.'). The main content is in a two-column format, though only the left column is fully visible. A page number ('210') is centered at the bottom. A document identifier ('HOUSE_OVERSIGHT_010550') is in the bottom right corner.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "JAMES PATTERSON\nF.\n\nthe outcome may have been different. But they were not known to us at the time.\n\nA prosecution decision must be based on admissible facts known at the time. In cases of this type, those are unusually difficult because victims are frightened and often decline to testify or if they do speak, they give contradictory statements. Our judgment in this case, based on the evidence known at the time, was that it was better to have a billionaire serve time in jail, register as a sex offender, and pay his victims restitution than risk a trial with a reduced likelihood of success. I supported that judgment then, and based on the state law as it then stood and the evidence known at the time, I would support that judgment again.\n\nEpstein's treatment, while in state custody, likewise may encourage the view that the office should have been tougher. Although the terms of confinement in a state prison are a matter appropriately left to the State of Florida, and not federal authorities, without doubt, the treatment that he received while in state custody undermined the purpose of a jail sentence.\n\nSome may also believe that the prosecution should have been tougher in retaliation for the defense's tactics. The defense, arguably, often failed to negotiate in good faith. They would obtain concessions as part of a negotiation and agree to proceed, only to change their minds, and appeal the office's position to Washington. The investigations into the family lives of individual prosecutors were, in my opinion, uncalled for, as were the accusations of bias and/or misconduct against individual prosecutors.\n\nAt times, some prosecut[ors wanted to go to] trial, and at times I felt t[hat we should have made clear] right in the first meetin[g that we would proceed irres]pective of defense tacti[cs. But a defendant's constitu]tional right to a defense [is sacrosanct, and the exercise of that] right should not be puni[shed. We could not punish coun]sel's exercise of their ri[ghts. I also spoke with the] Washington D.C. Prosec[utors office, and they shared my] frustration and anger wi[th the defense, but supported] their judgment.\n\nAfter the plea, I reca[ll two phone calls]. One was from the FBI Sp[ecial Agent in Charge] to offer congratulations. [He had been in] meetings regarding this c[ase with members] of the defense, and he cal[led to congratulate me for] holding firm against the l[awyers, Dershow]itz, Lefkowitz and Starr. [I also] received calls or commun[ications from Dershow]itz, Lefkowitz and Starr. I [had spoken with these profession]als previously, from my [days at] Kirkland & Ellis in the m[atter of making] peace. I agreed to talk an[d did so. After] Epstein pled guilty, as I t[old the prosecu]tors battle defense attorney[s, 'We could] have tried, yet I confess th[at I did not see] fully in this case.\n\nThe bottom line is this: [Epstein] served time in jail and is n[ow a registered sex offender]. He has been required to pay [millions of dollars in] restitution clearly cannot c[ompensate the victims].\n\n210\n\nHOUSE_OVERSIGHT_010550",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "JAMES PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "F.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "the outcome may have been different. But they were not known to us at the time.\n\nA prosecution decision must be based on admissible facts known at the time. In cases of this type, those are unusually difficult because victims are frightened and often decline to testify or if they do speak, they give contradictory statements. Our judgment in this case, based on the evidence known at the time, was that it was better to have a billionaire serve time in jail, register as a sex offender, and pay his victims restitution than risk a trial with a reduced likelihood of success. I supported that judgment then, and based on the state law as it then stood and the evidence known at the time, I would support that judgment again.\n\nEpstein's treatment, while in state custody, likewise may encourage the view that the office should have been tougher. Although the terms of confinement in a state prison are a matter appropriately left to the State of Florida, and not federal authorities, without doubt, the treatment that he received while in state custody undermined the purpose of a jail sentence.\n\nSome may also believe that the prosecution should have been tougher in retaliation for the defense's tactics. The defense, arguably, often failed to negotiate in good faith. They would obtain concessions as part of a negotiation and agree to proceed, only to change their minds, and appeal the office's position to Washington. The investigations into the family lives of individual prosecutors were, in my opinion, uncalled for, as were the accusations of bias and/or misconduct against individual prosecutors.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "At times, some prosecut[ors wanted to go to]\ntrial, and at times I felt t[hat we should have made clear]\nright in the first meetin[g that we would proceed irres]\npective of defense tacti[cs. But a defendant's constitu]\ntional right to a defense [is sacrosanct, and the exercise of that]\nright should not be puni[shed. We could not punish coun]\nsel's exercise of their ri[ghts. I also spoke with the]\nWashington D.C. Prosec[utors office, and they shared my]\nfrustration and anger wi[th the defense, but supported]\ntheir judgment.\n\nAfter the plea, I reca[ll two phone calls].\nOne was from the FBI Sp[ecial Agent in Charge]\nto offer congratulations. [He had been in]\nmeetings regarding this c[ase with members]\nof the defense, and he cal[led to congratulate me for]\nholding firm against the l[awyers, Dershow]\nitz, Lefkowitz and Starr. [I also]\nreceived calls or commun[ications from Dershow]\nitz, Lefkowitz and Starr. I [had spoken with these profession]\nals previously, from my [days at]\nKirkland & Ellis in the m[atter of making]\npeace. I agreed to talk an[d did so. After]\nEpstein pled guilty, as I t[old the prosecu]\ntors battle defense attorney[s, 'We could]\nhave tried, yet I confess th[at I did not see]\nfully in this case.\n\nThe bottom line is this: [Epstein]\nserved time in jail and is n[ow a registered sex offender].\nHe has been required to pay [millions of dollars in]\nrestitution clearly cannot c[ompensate the victims].",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "210",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010550",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "JAMES PATTERSON",
+      "Epstein",
+      "Dershowitz",
+      "Lefkowitz",
+      "Starr"
+    ],
+    "organizations": [
+      "FBI",
+      "Washington D.C. Prosecutors office",
+      "Kirkland & Ellis"
+    ],
+    "locations": [
+      "State of Florida",
+      "Washington"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010550",
+      "210"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "book_or_report_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Discussion of a prosecution decision, likely related to the Jeffrey Epstein case, detailing the rationale for a plea deal over a trial and interactions with the defense team.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010550"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.9,
+    "structured_data": 0.95,
+    "overall": 0.92
+  },
+  "notes": "The text in the right column is partially obscured by the page gutter, making it difficult to read. The obscured text has been transcribed with best-guess completions in brackets. The document identifier 'HOUSE_OVERSIGHT_010550' suggests this page is part of a larger collection of documents related to a House Oversight Committee investigation.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010550.jpg",
+  "house_oversight_id": "010550",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:20:29.179886Z",
+    "model": "gemini-2.5-pro"
+  }
+}

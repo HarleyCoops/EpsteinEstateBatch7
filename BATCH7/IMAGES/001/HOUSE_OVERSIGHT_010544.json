@@ -1,0 +1,109 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010544.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of a page from a book or report. The page is numbered 204 and is part of Chapter 54. The text discusses Jeffrey Epstein's time in jail and compares his treatment to that of another inmate, John Goodman. A partial view of the adjacent page is visible on the right. A document control number is stamped at the bottom right.",
+    "layout": "The image shows two pages from an open book. The left page is fully visible, containing a chapter heading, a subtitle, the main body of text, and a page number at the bottom. The right page is partially visible, showing the right-hand margin of its text. A document identifier is stamped in the bottom right corner.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "F1\n\nCHAPTER 54\n\nJeffrey Epstein: June 30, 2008–July 21, 2009\n\nAccording to Sheriff Ric Bradshaw, the treatment Jeffrey Epstein received in the Stockade was not preferential. By some measures, he isn’t wrong.\n\nIn 2010, millionaire polo mogul John Goodman killed a young man while driving drunk. He was convicted but was allowed to spend two years under house arrest while his appeal was being tried.\n\nLike Epstein, Goodman was allowed visitors. But Goodman’s visitor list was nothing like Jeffrey Epstein’s.\n\nNadia Marcinkova is said to have visited Epstein in jail more than seventy times.\n\nEpstein’s assistant Sarah Kellen also visited Epstein in the Stockade.\n\nA Russian mixed martial artist named Igor “Houdini” Zino-viev was another visitor, as was a disbarred lawyer and financial\n\n204\n\nfraudster named Arnold Pr\nhad been commuted by Bill\nleft office.\n\nSheriff Bradshaw wants\nconjugal.\n\nBut even US attorney Aco\nagreement with the governm\nment was highly irregular.\n\n“Epstein appears to have\nwhile in jail,” Acosta would\neral public. “Although the te\nare a matter appropriately lef\neral authorities, without do\nwhile in state custody underm\n\nAnd, of course, Epstein’s\nby taxpayers.\n\nHOUSE_OVERSIGHT_010544",
+    "text_regions": [
+      {
+        "region": "margin",
+        "text": "F1",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "CHAPTER 54",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "Jeffrey Epstein: June 30, 2008–July 21, 2009",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "According to Sheriff Ric Bradshaw, the treatment Jeffrey Epstein received in the Stockade was not preferential. By some measures, he isn’t wrong.\n\nIn 2010, millionaire polo mogul John Goodman killed a young man while driving drunk. He was convicted but was allowed to spend two years under house arrest while his appeal was being tried.\n\nLike Epstein, Goodman was allowed visitors. But Goodman’s visitor list was nothing like Jeffrey Epstein’s.\n\nNadia Marcinkova is said to have visited Epstein in jail more than seventy times.\n\nEpstein’s assistant Sarah Kellen also visited Epstein in the Stockade.\n\nA Russian mixed martial artist named Igor “Houdini” Zino-viev was another visitor, as was a disbarred lawyer and financial",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "fraudster named Arnold Pr\nhad been commuted by Bill\nleft office.\n\nSheriff Bradshaw wants\nconjugal.\n\nBut even US attorney Aco\nagreement with the governm\nment was highly irregular.\n\n“Epstein appears to have\nwhile in jail,” Acosta would\neral public. “Although the te\nare a matter appropriately lef\neral authorities, without do\nwhile in state custody underm\n\nAnd, of course, Epstein’s\nby taxpayers.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "204",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010544",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2008-06-30",
+      "2009-07-21",
+      "2010"
+    ],
+    "people": [
+      "Jeffrey Epstein",
+      "Ric Bradshaw",
+      "John Goodman",
+      "Nadia Marcinkova",
+      "Sarah Kellen",
+      "Igor “Houdini” Zino-viev",
+      "Arnold Pr[...]",
+      "Bill[...]",
+      "Acosta"
+    ],
+    "organizations": [],
+    "locations": [
+      "Stockade"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010544",
+      "204",
+      "F1"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010544"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_or_report_page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Treatment of Jeffrey Epstein in the Stockade, comparison with John Goodman, and list of visitors.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010544"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.96
+  },
+  "notes": "The image is a page from a larger document, likely a book or investigative report. Text on the right-hand page is partially cut off, making full extraction impossible for that section. Names like 'Arnold Pr', 'Bill', and 'Aco' are incomplete.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010544.jpg",
+  "house_oversight_id": "010544",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:17:51.944431Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010543.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned image of an open book, showing two pages side-by-side. The left page is numbered 202 and the right is 203. The text on the left page is partially cut off. The spine of the book is visible in the center, creating a shadow. The bottom of the image is a dark, textured area, possibly the book cover or an artifact of the scanning process. A document identifier is stamped at the bottom right.",
+    "layout": "Two-page spread from a book. The left page has a header 'PATTERSON' and the right has 'FILTHY RICH'. Page numbers are at the bottom of each page. A document control number is at the very bottom right of the image.",
+    "quality": "medium",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "PATTERSON\nFILTHY RICH\n\nure the general population is not\n1.”\n\nthat Epstein is a sex offender\nof his alleged crimes, Bradshaw’s\nviction was for a “low-level felony.”\nttorneys—a request that is con-\npstein is quickly granted “work\n\nis that six days a week, for up to\nch day, Epstein is allowed to leave\na designated driver in a car ear-\nany one of three places: his lawyer\nlowntown West Palm Beach, the\ne foundation that he’s established,\ny.\n\nt he wears, it could be argued that\n: with two of his own jets parked\nternational Airport, Epstein might\n\nweek save one, he’s allowed to go to\ne, or simply to go home.\ne of Epstein go to the house on El\n\nhe question.\n\nthe house?\n\nave encountered Nadia Marcinkova,\no Way at the time. He may also have\n\nmet a suave short-haired gentleman who spoke with a distinct\nFrench accent.\n\nThat would be Jean-Luc Brunel.\n\nFor the duration of Jeffrey Epstein's stay—or half stay—in\nthe Stockade, Brunel's taken up residence in the house on El\nBrillo Way.\n\n202\n203\n\nHOUSE_OVERSIGHT_010543",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "PATTERSON",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "FILTHY RICH",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "ure the general population is not\n1.”\n\nthat Epstein is a sex offender\nof his alleged crimes, Bradshaw’s\nviction was for a “low-level felony.”\nttorneys—a request that is con-\npstein is quickly granted “work\n\nis that six days a week, for up to\nch day, Epstein is allowed to leave\na designated driver in a car ear-\nany one of three places: his lawyer\nlowntown West Palm Beach, the\ne foundation that he’s established,\ny.\n\nt he wears, it could be argued that\n: with two of his own jets parked\nternational Airport, Epstein might\n\nweek save one, he’s allowed to go to\ne, or simply to go home.\ne of Epstein go to the house on El\n\nhe question.\n\nthe house?\n\nave encountered Nadia Marcinkova,\no Way at the time. He may also have",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "met a suave short-haired gentleman who spoke with a distinct\nFrench accent.\n\nThat would be Jean-Luc Brunel.\n\nFor the duration of Jeffrey Epstein's stay—or half stay—in\nthe Stockade, Brunel's taken up residence in the house on El\nBrillo Way.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "202",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "203",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010543",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "PATTERSON",
+      "Epstein",
+      "Bradshaw",
+      "Jean-Luc Brunel",
+      "Nadia Marcinkova",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [],
+    "locations": [
+      "West Palm Beach",
+      "International Airport",
+      "El Brillo Way",
+      "the Stockade"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010543",
+      "202",
+      "203"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": [
+        "El Brillo Way"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Bates stamp: HOUSE_OVERSIGHT_010543"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Book page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Jeffrey Epstein's work release conditions and associates, including Jean-Luc Brunel.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010543"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.95,
+    "structured_data": 0.98,
+    "overall": 0.96
+  },
+  "notes": "The text on the left page (202) is partially cut off along the left margin, resulting in incomplete words at the beginning of many lines. The book title appears to be 'FILTHY RICH' and the author may be 'PATTERSON', as indicated by the headers.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010543.jpg",
+  "house_oversight_id": "010543",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:17:27.533872Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,111 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010541.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a two-page spread from a printed book. The left page (200) is partially obscured by the book's gutter, while the right page (201) is fully visible. The right page begins with 'CHAPTER 53'. A document control number is visible at the bottom right of the image.",
+    "layout": "Two-page book spread. The left page shows the end of a chapter, and the right page begins a new one. Text is arranged in a single column on each page, with page numbers at the bottom. A document identifier is stamped at the very bottom of the image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "ATTERSON\n\nking their way to the courthouse,\nnder, and an appearance before\nooner, if only they can make bail.\ney—or at least collateral—and,\n' is often what lands people in jail\n\nposted bail for every single inmate\n\nays in which Epstein is unlike his\npedophile now. Even a famous one.\ntend to fare poorly in jail.\nradshaw, the sheriff in charge of\no the infirmary, where he spends\ng transferred seven miles up the\nlocation: the Palm Beach County\nr, as it's known, the Stockade.\nit a serial killer,” Ric Bradshaw says.\n: are addicts who take part in drug\nites, petty criminals, and drunks.\nin to be, and, unlike other inmates\ng held in solitary), he'll end up with\n1 wing, which he has to himself.\nsecurity guard, who sits outside the\n's allowed any number of visitors.\nan extraordinary benefits package.\nradshaw, who also oversees the Stock-\n'er the treatment he is receiving.\nhe had to go to prison at all,” Brad-\n\nhink he belonged there.”\n\n200\n\nCHAPTER 53\n\nSheriff Ric Bradshaw: June 2015\n\nOur job,” says Ric Bradshaw, “was to make sure nobody\nkilled him.”\nSheriff Bradshaw could have stepped off the set of a\nWestern. Imposingly tall, with his cowboy hat, Kurt Russell\nmustache, and slow, southern drawl, he looks exactly like an\nold-school law officer—the kind you once would have found\npatrolling the streets of Tombstone, Deadwood, or Dodge City.\nHe’s been a lawman for forty-four years, eleven of which have\nbeen spent as the head of the county’s jails. As a rule, he doesn’t\ntalk to the media, and today, as he talks about Jeffrey Epstein,\nhe’s clearly uncomfortable, fidgety, and ill disposed.\nBut here in his wood-paneled office on the first floor of the\nGun Club, Bradshaw remembers Epstein quite well.\n“We have a thousand sexual predators in the county,” he\nsays. “When he arrived here, he was one of them. He definitely\n\n201\n\nHOUSE_OVERSIGHT_010541",
+    "text_regions": [
+      {
+        "region": "body_left_page",
+        "text": "ATTERSON\n\nking their way to the courthouse,\nnder, and an appearance before\nooner, if only they can make bail.\ney—or at least collateral—and,\n' is often what lands people in jail\n\nposted bail for every single inmate\n\nays in which Epstein is unlike his\npedophile now. Even a famous one.\ntend to fare poorly in jail.\nradshaw, the sheriff in charge of\no the infirmary, where he spends\ng transferred seven miles up the\nlocation: the Palm Beach County\nr, as it's known, the Stockade.\nit a serial killer,” Ric Bradshaw says.\n: are addicts who take part in drug\nites, petty criminals, and drunks.\nin to be, and, unlike other inmates\ng held in solitary), he'll end up with\n1 wing, which he has to himself.\nsecurity guard, who sits outside the\n's allowed any number of visitors.\nan extraordinary benefits package.\nradshaw, who also oversees the Stock-\n'er the treatment he is receiving.\nhe had to go to prison at all,” Brad-\n\nhink he belonged there.”",
+        "type": "printed"
+      },
+      {
+        "region": "footer_left_page",
+        "text": "200",
+        "type": "printed"
+      },
+      {
+        "region": "header_right_page",
+        "text": "CHAPTER 53",
+        "type": "printed"
+      },
+      {
+        "region": "sub_header_right_page",
+        "text": "Sheriff Ric Bradshaw: June 2015",
+        "type": "printed"
+      },
+      {
+        "region": "body_right_page",
+        "text": "Our job,” says Ric Bradshaw, “was to make sure nobody\nkilled him.”\nSheriff Bradshaw could have stepped off the set of a\nWestern. Imposingly tall, with his cowboy hat, Kurt Russell\nmustache, and slow, southern drawl, he looks exactly like an\nold-school law officer—the kind you once would have found\npatrolling the streets of Tombstone, Deadwood, or Dodge City.\nHe’s been a lawman for forty-four years, eleven of which have\nbeen spent as the head of the county’s jails. As a rule, he doesn’t\ntalk to the media, and today, as he talks about Jeffrey Epstein,\nhe’s clearly uncomfortable, fidgety, and ill disposed.\nBut here in his wood-paneled office on the first floor of the\nGun Club, Bradshaw remembers Epstein quite well.\n“We have a thousand sexual predators in the county,” he\nsays. “When he arrived here, he was one of them. He definitely",
+        "type": "printed"
+      },
+      {
+        "region": "footer_right_page",
+        "text": "201",
+        "type": "printed"
+      },
+      {
+        "region": "document_footer",
+        "text": "HOUSE_OVERSIGHT_010541",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-06"
+    ],
+    "people": [
+      "ATTERSON",
+      "Epstein",
+      "Bradshaw",
+      "Ric Bradshaw",
+      "Kurt Russell",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [
+      "Palm Beach County",
+      "the Stockade",
+      "Tombstone",
+      "Deadwood",
+      "Dodge City",
+      "Gun Club"
+    ],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010541",
+      "200",
+      "201"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document control number: HOUSE_OVERSIGHT_010541"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "book_excerpt",
+    "sender": null,
+    "recipient": null,
+    "subject": "Interview with Sheriff Ric Bradshaw regarding Jeffrey Epstein's incarceration.",
+    "date": "2015-06",
+    "references": [
+      "HOUSE_OVERSIGHT_010541"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.98,
+    "structured_data": 0.95,
+    "overall": 0.97
+  },
+  "notes": "The document is a scan of pages 200 and 201 of a book. The text on the left page (200) is partially cut off by the book's binding. The name 'ATTERSON' at the top of the left page is likely the end of a longer name, such as 'PATTERSON'.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010541.jpg",
+  "house_oversight_id": "010541",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T00:16:38.920210Z",
+    "model": "gemini-2.5-pro"
+  }
+}

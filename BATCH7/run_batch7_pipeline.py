@@ -30,7 +30,17 @@ from batch7_process_text import process_text
 
 
 def main() -> None:
-    load_dotenv()
+    # Load .env from script directory or parent directory
+    script_dir = Path(__file__).parent.absolute()
+    # Try script directory first (where .env actually is)
+    env_path = script_dir / ".env"
+    if env_path.exists():
+        load_dotenv(dotenv_path=env_path)
+    else:
+        # Fallback to parent directory
+        load_dotenv(dotenv_path=script_dir.parent / ".env")
+        # Also try default location
+        load_dotenv()
     
     ap = argparse.ArgumentParser(
         description="BATCH7 Pipeline: Process NATIVES, IMAGES, and TEXT directories"
