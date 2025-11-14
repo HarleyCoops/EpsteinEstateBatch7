@@ -15,57 +15,53 @@ As House Oversight Committee documents are analyzed, images are processed, text 
 ```markdown
 ## House Oversight Committee Document Analysis Summary
 
-This summary is based on four JSON files containing text extractions related to House Oversight investigations. The primary focus is on information pertaining to Jeffrey Epstein and related individuals.
+**Files analyzed:**
+- HOUSE_OVERSIGHT_010566_extraction.json
+- HOUSE_OVERSIGHT_010560_extraction.json
+- HOUSE_OVERSIGHT_010486_extraction.json
+- HOUSE_OVERSIGHT_010477_extraction.json
 
 ### 1. CHARACTERS
 
-*   **Jeffrey Epstein**: Central figure. Accused of sexual abuse of minors. Pleaded guilty to state charges, later faced federal investigation.
-*   **Ghislaine Maxwell**: Associate of Epstein, allegedly involved in recruiting minors and managing Epstein's affairs.
-*   **Donald Trump**: Mentioned in connection to Epstein. Appeared in a photo with Epstein and Ingrid Seynhaeve. His phone numbers were found in Epstein's directory. Allegedly banned Epstein from Mar-a-Lago.
-*   **Bill Clinton**: Friend of Epstein. Traveled on Epstein's plane to Africa and elsewhere with Maxwell. Phone numbers and contact information were found in Epstein's directory.
-*   **Bradley J. Edwards**: Attorney representing victims of Epstein's abuse in civil suits.
-*   **Alan Dershowitz**: Lawyer and friend of Epstein, involved in his defense. Visited Epstein's home.
-*   **Other Notable Figures**: Leslie Wexner (acquired Epstein's residence), Prince Andrew, Larry Visoski (Epstein's pilot), Stephen Hawking, Scott Rothstein (involved in Ponzi scheme potentially linked to Epstein cases), Tony Randall, Charlie Crist, Adriana Mucinska Ross, various police and legal personnel involved in the investigation (Joe Recarey, Michael Reiter, etc.).
+*   **Jeffrey Epstein**: Plaintiff in a civil case, described as having a sexual preference for young children, accused of repeated sexual assault, and later a convicted sex offender.
+*   **Ghislaine Maxwell**: Involved in managing Epstein's affairs, alleged to have recruited underage girls, and faces potential deposition.
+*   **Bill Clinton**: Friend of Epstein and Maxwell, traveled on Epstein's plane, his phone numbers were in Epstein's directory.
+*   **Donald Trump**: Acquaintance of Epstein, called Epstein's mansion, allegedly banned Epstein from Mar-a-Lago, Epstein's phone directory contains 14 phone numbers for Donald Trump.
+*   **Bradley J. Edwards**: Attorney representing Epstein's victims in civil suits.
+*   **Scott Rothstein**: Ran a Ponzi scheme, allegedly using Epstein cases to lure investors.
+*   **Alan Dershowitz**: Longtime friend of Epstein, stayed at Epstein's house, assisted in attempting to persuade the Palm Beach State Attorney's Office that underage females lacked credibility.
+*   **Larry Visoski**: Epstein's personal pilot.
+*   **Nadia Marcinkova**: Epstein's live-in sex slave and co-conspirator in sex acts with minors.
+*   **Alfredo Rodriguez**: Epstein's household employee who saw underage girls, stole a journal from Epstein's computer, and faced obstruction of justice charges.
+*   **Other Notable Figures**: Larry Harrison, Dave Rogers, Louella Rabuyo, Mark Epstein, Janusz Banasiak, Bill Richardson, David Copperfield, Tommy Mattola, E.W., L.M., Jane Doe, Sarah Kellen, Jean Luc Brunel.
 
 ### 2. CONTEXT
 
-The documents include:
-
-*   **Legal documents**: Statement of Undisputed Facts from a civil case involving Jeffrey Epstein, Scott Rothstein, and Bradley J. Edwards, correspondence from attorneys, plea agreements, incident reports.
-*   **Letters**: Letter of representation to Scott Link from Allred, Maroko & Goldberg law firm; letter regarding victims rights.
-*   **Excerpts from a book**: Accounts of Epstein's activities, associations, and the investigations against him.
-*   **A letter from R. Alexander Acosta**: to the general public in response to the accusations against Jeffrey Epstein.
-
-The documents outline events and situations related to:
-
-*   Epstein's sexual abuse of minors and the legal proceedings against him.
-*   Epstein's associates and their potential involvement.
-*   Attempts to obstruct investigations and shield Epstein from prosecution.
-*   Settlements and plea deals.
-
-Relationships revealed:
-
-*   Epstein's close ties to Ghislaine Maxwell, Donald Trump, Bill Clinton and other prominent figures.
-*   The legal strategies employed by Epstein's defense team.
-*   The frustration of law enforcement officials with the handling of the case.
-
-Notable patterns/themes: Wealth and influence being used to allegedly evade justice, obstruction of justice, alleged sexual abuse of minors.
+*   **Types of Documents**: The analyzed documents consist of court documents (statements of undisputed facts, complaints), emails, and potentially a book excerpt with photos.
+*   **Events/Situations**: The documents describe legal proceedings related to Jeffrey Epstein's sexual abuse of minors. This includes criminal investigations, plea agreements, civil lawsuits, and attempts to obstruct discovery. Rothstein's Ponzi scheme, which allegedly used the Epstein cases to attract investors, is also mentioned.
+*   **Relationships/Connections**: The documents reveal a network of individuals connected to Epstein, including attorneys, assistants, alleged victims, and prominent figures like Clinton, Trump, and Maxwell. They also detail the interactions between Epstein and law enforcement officials.
+*   **Patterns/Themes**: A recurring theme is the alleged obstruction of justice and witness tampering by Epstein and his associates. There's also a focus on Edwards's efforts to seek justice for the victims despite facing numerous obstacles. Another strong theme is the power and influence Epstein wielded to minimize his legal consequences.
 
 ### 3. SETTINGS
 
-*   **Dates:** Mentions dates spanning from the late 1960s to 2019, with a concentration on events between 2002 and 2010.
-*   **Locations:** West Palm Beach (Epstein's mansion, the Stockade), New York City (Epstein's townhouse, social events), Little Saint James island (Epstein's private island), Palm Beach, Europe.
-*   **Organizations/Institutions:** Palm Beach Police Department, FBI, U.S. Attorney's Office, various courts, Epstein's private foundations and companies.
+*   **Dates**: Documents span from 2002-2019, with particular focus on events between 2005 and 2010 related to the criminal investigation, plea agreement, and subsequent civil suits.
+*   **Locations**: Palm Beach County (Florida), New York City, Little Saint James island (US Virgin Islands), New Mexico, Paris (France), Teterboro Airport (New Jersey), Mar-a-Lago.
+*   **Organizations/Institutions**: U.S. Attorney's Office, FBI, Palm Beach Police Department, Rothstein, Rosenfeldt and Adler PA, New York Academy of Art, Victoria's Secret, Harvard University.
+*   **Timeline**:
+    *   2002-2005: Alleged sexual abuse of children by Epstein.
+    *   2005: FBI and U.S. Attorney's Office begin criminal investigation.
+    *   2007: Epstein signs a non-prosecution agreement.
+    *   2008: Edwards files civil suits against Epstein.
+    *   2009: Edwards learns of Rothstein's Ponzi scheme.
+    *   2010: Settlements of civil claims against Epstein.
 
 ### 4. KEY FINDINGS
 
-*   The documents detail the accusations of sexual abuse of minors against Epstein, including specific incidents and victims.
-*   The documents suggest Epstein's legal team employed aggressive tactics, including investigating prosecutors and attempting to discredit victims.
-*   The documents suggest a Non-Prosecution Agreement with the U.S. Attorney's Office may have been irregular.
-*   **Donald Trump** is mentioned as having socialized with Jeffrey Epstein and his phone numbers were in Epstein's contact directory. There were claims that he had banned Jeffrey Epstein from Mar-a-Lago because of an incident involving an underage girl.
-*   **Bill Clinton** flew on Epstein’s plane on numerous occasions between 2002 and 2005.
-*   Ghislaine Maxwell's alleged involvement in managing Epstein's affairs and possibly recruiting underage girls is noted.
-*   Alfredo Rodriguez's possession of "The Holy Grail" journal allegedly containing names of abused girls and acquaintances of Epstein is detailed.
+*   **Epstein's Abuse and Cover-Up**: The documents provide extensive evidence of Epstein's sexual abuse of minors and his attempts to avoid prosecution through a plea agreement and alleged obstruction of justice.
+*   **Trump and Clinton Connections**: The mention of Donald Trump and Bill Clinton raises significant questions about their relationships with Epstein and Maxwell, and their potential knowledge of Epstein's activities. The presence of their contact information in Epstein's records, as well as documented travels, warrants further investigation.
+*   **Plea Deal Controversy**: The circumstances surrounding Epstein's plea deal are highly questionable, with allegations that victims' rights were violated and that Epstein received unusually lenient treatment.
+*    **Witness Intimidation:** Evidence suggests that witnesses were subject to intimidation.
+
 ```
 
 ---
