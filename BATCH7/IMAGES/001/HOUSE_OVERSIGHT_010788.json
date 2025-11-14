@@ -1,0 +1,129 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010788.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in a 2x2 grid. The pages are numbered 197, 199, 198, and 200. The text is a question-and-answer format typical of a deposition or hearing, with line numbers on the left margin of each page.",
+    "layout": "Four pages are displayed on a single sheet. Top-left is page 197, top-right is 199, bottom-left is 198, and bottom-right is 200. A footer is present at the very bottom of the sheet.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "197\n1\tBY MR. SCAROLA:\n2\tQ. -- that's a young woman.\n3\t\tMR. SCOTT: Objection. You're cutting the\n4\twitness off. You're not letting him finish.\n5\t\tA. This looks like a picture out of a Playboy\n6\tor Penthouse magazine. It does not look to me like\n7\ta person who is under the age of 16 or 17 or 18.\n8\tBut I don't think you can tell anything from the\n9\tpicture. I think you can tell much more from\n10\tmeeting somebody and being with them and having a\n11\tconversation with them.\n12\t\tMR. SCAROLA: Let's mark this photograph,\n13\tif we could, as Exhibit Number 4.\n14\t\t(Thereupon, marked as Plaintiff\n15\tExhibit 4.)\n16\tBY MR. SCAROLA:\n17\tQ. Does Exhibit Number 4 help you at all to\n18\trecognize this young woman?\n19\t\tA. I've never -- I have no -- no recollection\n20\tof this young woman at all.\n21\t\tQ. All right. Would you describe for us,\n22\tplease, the Tatiana that you flew with Jeffrey\n23\tEpstein on November 17, 2005?\n24\t\tA. First, I want to emphasize that that's\n25\tthree years later than any of the issues involved in\n\n199\n1\tphotographs. The photographs identify the woman as\n2\tTatiana Kovylina, correct?\n3\t\tA. Yes, but --\n4\t\tMR. SCOTT: Mr. Dershowitz, take your\n5\ttime --\n6\t\tTHE WITNESS: Yeah.\n7\t\tMR. SCOTT: -- review the exhibits. Don't\n8\tbe rushed by Mr. Scarola.\n9\t\tA. Yes, it's a different -- different\n10\tspelling of the name. The Tatiana on the manifest\n11\tis spelled T-A-I-N-N-A.\n12\t\tThe Tatiana in the photograph is\n13\tT-A-T-I-N -- I-N-A. I have no idea whether --\n14\tBY MR. SCAROLA:\n15\t\tQ. The last name --\n16\t\tA. -- they are the same person.\n17\t\tQ. -- is the same, Kovylina, right?\n18\t\tA. There's no last name.\n19\t\tQ. Well, read down a little bit further, if\n20\tyou would, Mr. Dershowitz.\n21\t\tA. You mean as to a different flight?\n22\t\tQ. Yes, sir. Identifying the return flight\n23\tfor the same Tatiana.\n24\t\tA. I have no idea that it's a return flight.\n25\tI have nothing on the record that suggests that it's\n\n198\n1\tthis case. I have no recollection of flying with\n2\tthis woman. I saw the name Tatiana on a manifest.\n3\t\tAnd my recollection of Tatiana -- I have\n4\tno recollection of flying with her, but my\n5\trecollection of Tatiana is that she was a serious,\n6\tmid 20s woman friend of Jeffrey Epstein, who I may\n7\thave met on one or two or three occasions when he\n8\twas with her in -- perhaps at Harvard University\n9\twhere he was meeting with academics and scholars, or\n10\tperhaps -- I think that's probably the context\n11\twhere -- where she might have been.\n12\t\tQ. But you never flew with her?\n13\t\tA. I have no recollection of flying with her.\n14\t\tQ. Okay. Well, let me see if this helps to\n15\trefresh your recollection, Mr. Dershowitz.\n16\t\tMR. SCAROLA: Let's mark this as Exhibit\n17\tNumber 5, please.\n18\t\tTHE WITNESS: Uh-huh, yes.\n19\t\t(Thereupon, marked as Plaintiff\n20\tExhibit 5.)\n21\tBY MR. SCAROLA:\n22\t\tQ. Do you see that the name of the woman in\n23\tthe photographs I have handed you is Tatiana\n24\tKovylina, K-O-V-Y-L-I-N-A, a Victoria Secrets model?\n25\t\tThe photographs, sir, look at the\n\n200\n1\ta return flight. And it has different people on it.\n2\tSo I have no reason to believe it's a return flight.\n3\t\tQ. Is the last -- the question that I asked\n4\tyou, Mr. Dershowitz, is: Is the last name spelled\n5\texactly the same as the last name is spelled in the\n6\ttwo photographs I have shown you?\n7\t\tA. Let me look. So, on the 20th of\n8\tNovember --\n9\t\tQ. Is the last name --\n10\t\tMR. SCOTT: Whoa, whoa --\n11\tBY MR. SCAROLA:\n12\t\tQ. -- spelled the same way on both the flight\n13\tlog and the two photographs I have shown you?\n14\t\tA. On -- you mean on a flight log that I was\n15\tnot on the flight? Is that right? You're talking\n16\tabout a flight log that I was not on the flight,\n17\tright?\n18\t\tQ. That flight log shows you on multiple\n19\tflights, does it not?\n20\t\tA. It shows me not on that flight. It shows\n21\tme on a number of flights, but not on that flight.\n22\t\tMR. SCOTT: What's the date of the\n23\tflights?\n24\t\tTHE WITNESS: The date of that flight\n25\tis -- looks like November 20th, 2005, more\n\n6 (Pages 197 to 200)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010788",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "197",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tBY MR. SCAROLA:\n2\tQ. -- that's a young woman.\n3\t\tMR. SCOTT: Objection. You're cutting the\n4\twitness off. You're not letting him finish.\n5\t\tA. This looks like a picture out of a Playboy\n6\tor Penthouse magazine. It does not look to me like\n7\ta person who is under the age of 16 or 17 or 18.\n8\tBut I don't think you can tell anything from the\n9\tpicture. I think you can tell much more from\n10\tmeeting somebody and being with them and having a\n11\tconversation with them.\n12\t\tMR. SCAROLA: Let's mark this photograph,\n13\tif we could, as Exhibit Number 4.\n14\t\t(Thereupon, marked as Plaintiff\n15\tExhibit 4.)\n16\tBY MR. SCAROLA:\n17\tQ. Does Exhibit Number 4 help you at all to\n18\trecognize this young woman?\n19\t\tA. I've never -- I have no -- no recollection\n20\tof this young woman at all.\n21\t\tQ. All right. Would you describe for us,\n22\tplease, the Tatiana that you flew with Jeffrey\n23\tEpstein on November 17, 2005?\n24\t\tA. First, I want to emphasize that that's\n25\tthree years later than any of the issues involved in",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "199",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tphotographs. The photographs identify the woman as\n2\tTatiana Kovylina, correct?\n3\t\tA. Yes, but --\n4\t\tMR. SCOTT: Mr. Dershowitz, take your\n5\ttime --\n6\t\tTHE WITNESS: Yeah.\n7\t\tMR. SCOTT: -- review the exhibits. Don't\n8\tbe rushed by Mr. Scarola.\n9\t\tA. Yes, it's a different -- different\n10\tspelling of the name. The Tatiana on the manifest\n11\tis spelled T-A-I-N-N-A.\n12\t\tThe Tatiana in the photograph is\n13\tT-A-T-I-N -- I-N-A. I have no idea whether --\n14\tBY MR. SCAROLA:\n15\t\tQ. The last name --\n16\t\tA. -- they are the same person.\n17\t\tQ. -- is the same, Kovylina, right?\n18\t\tA. There's no last name.\n19\t\tQ. Well, read down a little bit further, if\n20\tyou would, Mr. Dershowitz.\n21\t\tA. You mean as to a different flight?\n22\t\tQ. Yes, sir. Identifying the return flight\n23\tfor the same Tatiana.\n24\t\tA. I have no idea that it's a return flight.\n25\tI have nothing on the record that suggests that it's",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "198",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\tthis case. I have no recollection of flying with\n2\tthis woman. I saw the name Tatiana on a manifest.\n3\t\tAnd my recollection of Tatiana -- I have\n4\tno recollection of flying with her, but my\n5\trecollection of Tatiana is that she was a serious,\n6\tmid 20s woman friend of Jeffrey Epstein, who I may\n7\thave met on one or two or three occasions when he\n8\twas with her in -- perhaps at Harvard University\n9\twhere he was meeting with academics and scholars, or\n10\tperhaps -- I think that's probably the context\n11\twhere -- where she might have been.\n12\t\tQ. But you never flew with her?\n13\t\tA. I have no recollection of flying with her.\n14\t\tQ. Okay. Well, let me see if this helps to\n15\trefresh your recollection, Mr. Dershowitz.\n16\t\tMR. SCAROLA: Let's mark this as Exhibit\n17\tNumber 5, please.\n18\t\tTHE WITNESS: Uh-huh, yes.\n19\t\t(Thereupon, marked as Plaintiff\n20\tExhibit 5.)\n21\tBY MR. SCAROLA:\n22\t\tQ. Do you see that the name of the woman in\n23\tthe photographs I have handed you is Tatiana\n24\tKovylina, K-O-V-Y-L-I-N-A, a Victoria Secrets model?\n25\t\tThe photographs, sir, look at the",
+        "type": "printed"
+      },
+      {
+        "region": "header",
+        "text": "200",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "1\ta return flight. And it has different people on it.\n2\tSo I have no reason to believe it's a return flight.\n3\t\tQ. Is the last -- the question that I asked\n4\tyou, Mr. Dershowitz, is: Is the last name spelled\n5\texactly the same as the last name is spelled in the\n6\ttwo photographs I have shown you?\n7\t\tA. Let me look. So, on the 20th of\n8\tNovember --\n9\t\tQ. Is the last name --\n10\t\tMR. SCOTT: Whoa, whoa --\n11\tBY MR. SCAROLA:\n12\t\tQ. -- spelled the same way on both the flight\n13\tlog and the two photographs I have shown you?\n14\t\tA. On -- you mean on a flight log that I was\n15\tnot on the flight? Is that right? You're talking\n16\tabout a flight log that I was not on the flight,\n17\tright?\n18\t\tQ. That flight log shows you on multiple\n19\tflights, does it not?\n20\t\tA. It shows me not on that flight. It shows\n21\tme on a number of flights, but not on that flight.\n22\t\tMR. SCOTT: What's the date of the\n23\tflights?\n24\t\tTHE WITNESS: The date of that flight\n25\tis -- looks like November 20th, 2005, more",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "6 (Pages 197 to 200)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010788",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2005-11-17",
+      "2005-11-20"
+    ],
+    "people": [
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Jeffrey Epstein",
+      "Tatiana",
+      "Mr. Dershowitz",
+      "Tatiana Kovylina"
+    ],
+    "organizations": [
+      "Playboy",
+      "Penthouse",
+      "Harvard University",
+      "Victoria Secrets",
+      "phippsreporting.com",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010788",
+      "Exhibit Number 4",
+      "Plaintiff Exhibit 4",
+      "Exhibit Number 5",
+      "Plaintiff Exhibit 5",
+      "197",
+      "198",
+      "199",
+      "200"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Questioning of a witness, Mr. Dershowitz, regarding his association with Tatiana Kovylina and Jeffrey Epstein, and flights taken in November 2005.",
+    "date": null,
+    "references": [
+      "Exhibit Number 4",
+      "Exhibit 5"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a deposition or hearing. The speakers are identified as MR. SCAROLA (questioner), MR. SCOTT (likely another attorney), and THE WITNESS (identified as Mr. Dershowitz). The spelling of the name Tatiana is discussed, with variations T-A-I-N-N-A and T-A-T-I-N-I-N-A being mentioned.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010788.jpg",
+  "house_oversight_id": "010788",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:29:34.707720Z",
+    "model": "gemini-2.5-pro"
+  }
+}

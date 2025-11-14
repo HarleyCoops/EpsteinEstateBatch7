@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010790.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned black and white document showing four pages of what appears to be a legal transcript or deposition. The pages are arranged in a 2x2 grid on a single sheet. The pages are numbered 205, 207, 206, and 208. The text is formatted with line numbers on the left margin of each page. A footer at the bottom of the sheet contains contact information, a page range, and a document identifier.",
+    "layout": "The image displays four distinct pages of a document arranged in a two-by-two grid. Page 205 is top-left, 207 is top-right, 206 is bottom-left, and 208 is bottom-right. A footer is present at the very bottom of the entire image.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "205\n1   the source of that honest belief was? Identify any\n2   source that attributed to Virginia Roberts the\n3   statement that Bill Clinton was with her at an orgy\n4   on Jeffrey's island.\n5        A. We can provide you about, I think, 20\n6   newspaper articles and blogs which certainly raise\n7   the implication that Bill Clinton had improperly\n8   participated in sexual activities on the island\n9   either as an observer or as a participant. The\n10  issue was raised on Sean Hannity's program. The\n11  headlines in various British media had suggested\n12  that.\n13       It's my belief that Virginia Roberts\n14  intended to convey that impression when she was\n15  trying to sell her story to various media, which she\n16  successfully sold her story to in Britain, that she\n17  wanted to keep that open as a possibility.\n18       And then when I firmly declared, based on\n19  my research, that Bill Clinton had almost certainly\n20  never been on that island, she then made a firm\n21  statement that she -- which was a -- which was a\n22  perjurious statement, a firm perjurious statement\n23  saying that although Bill Clinton had been with her\n24  on the island and had had dinner with her, the\n25  perjurious statement was that Bill Clinton had been\n\n207\n1   Clinton on orgy island, things of that kind. I\n2   would be happy to provide them for you. I don't\n3   have them on the top of my head.\n4        Q. There's a big difference between saying\n5   that Bill Clinton was on Jeffrey's island and saying\n6   that Bill Clinton was at an orgy on Jeffrey's\n7   island, isn't there?\n8        MR. SCOTT: Objection --\n9        BY MR. SCAROLA:\n10       Q. Do you recognize a distinction between\n11  those statements?\n12       MR. SCOTT: Form.\n13       A. I don't think that distinction was clearly\n14  drawn by the media.\n15       BY MR. SCAROLA:\n16       Q. I'm asking whether you recognize the\n17  distinction?\n18       A. Oh, I -- I certainly recognize a\n19  distinction.\n20       Q. Oh, so --\n21       A. Let me finish. I certainly recognize a\n22  distinction between Bill Clinton being on the\n23  island, which I believe she perjuriously put in her\n24  affidavit, and Bill Clinton participating actively\n25  in an orgy. I also think it's a continuum.\n\n206\n1   on the island with her.\n2        The lie was that she described in great\n3   detail a dinner with Bill Clinton and two underaged\n4   Russian women who were offered to Bill Clinton for\n5   sex but that Bill Clinton turned down.\n6        So she then put in her affidavit that\n7   although -- perjuriously, although she had seen Bill\n8   Clinton on that island, she then stated that she had\n9   not had sex with Bill Clinton. To my knowledge,\n10  that was -- to my knowledge at least, that was the\n11  first time she stated that -- that she not had sex\n12  with Bill Clinton. She had certainly implied, or at\n13  least some of the media had inferred from her\n14  statements that she may very well have observed Bill\n15  Clinton in a sexually compromising position.\n16       So, when I made that statement to Don\n17  Lemon, I had a firm belief, based on reading\n18  newspaper accounts and blogs, that it was true.\n19       Q. Can you identify a single newspaper that\n20  attributed to Virginia Roberts the statement that\n21  Bill Clinton was with her at an orgy on Jeffrey's\n22  island?\n23       A. I think there -- I don't have them in my\n24  head right now. But I do recall reading headlines\n25  that talked about things like, sex slave places\n\n208\n1   And there is the possibility, which I\n2   don't personally believe to be true, that he was on\n3   the island. There was the possibility, which I\n4   don't believe to be true, that he was on the island\n5   when orgies were taking place. There was the\n6   possibility that he was on the island and observed\n7   an orgy, and there was the possibility that he was\n8   on the island and participated in an orgy.\n9        Newspapers picked up those stories. I'll\n10  give you an example of a newspaper that actually\n11  said that the she had placed or that I was on the\n12  island and -- that I participated in an orgy along\n13  with Stephen Hawkings [sic.], the famous physicist\n14  from Cambridge University, that was a newspaper\n15  published in the Virgin Islands, which falsely\n16  claimed that I was at an orgy with Stephen Hawkings.\n17       So, many newspapers were suggesting,\n18  implying, and I inferred from reading those\n19  newspapers that that's what she had said to the\n20  media.\n21       If I was wrong about that based on\n22  subsequent information, I apologize. But I\n23  certainly, at the time I said it, believed it and\n24  made the statement in good faith in the belief that\n25  it was an honest statement.\n\n8 (Pages 205 to 208)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010790",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "205\n1   the source of that honest belief was? Identify any\n2   source that attributed to Virginia Roberts the\n3   statement that Bill Clinton was with her at an orgy\n4   on Jeffrey's island.\n5        A. We can provide you about, I think, 20\n6   newspaper articles and blogs which certainly raise\n7   the implication that Bill Clinton had improperly\n8   participated in sexual activities on the island\n9   either as an observer or as a participant. The\n10  issue was raised on Sean Hannity's program. The\n11  headlines in various British media had suggested\n12  that.\n13       It's my belief that Virginia Roberts\n14  intended to convey that impression when she was\n15  trying to sell her story to various media, which she\n16  successfully sold her story to in Britain, that she\n17  wanted to keep that open as a possibility.\n18       And then when I firmly declared, based on\n19  my research, that Bill Clinton had almost certainly\n20  never been on that island, she then made a firm\n21  statement that she -- which was a -- which was a\n22  perjurious statement, a firm perjurious statement\n23  saying that although Bill Clinton had been with her\n24  on the island and had had dinner with her, the\n25  perjurious statement was that Bill Clinton had been",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "207\n1   Clinton on orgy island, things of that kind. I\n2   would be happy to provide them for you. I don't\n3   have them on the top of my head.\n4        Q. There's a big difference between saying\n5   that Bill Clinton was on Jeffrey's island and saying\n6   that Bill Clinton was at an orgy on Jeffrey's\n7   island, isn't there?\n8        MR. SCOTT: Objection --\n9        BY MR. SCAROLA:\n10       Q. Do you recognize a distinction between\n11  those statements?\n12       MR. SCOTT: Form.\n13       A. I don't think that distinction was clearly\n14  drawn by the media.\n15       BY MR. SCAROLA:\n16       Q. I'm asking whether you recognize the\n17  distinction?\n18       A. Oh, I -- I certainly recognize a\n19  distinction.\n20       Q. Oh, so --\n21       A. Let me finish. I certainly recognize a\n22  distinction between Bill Clinton being on the\n23  island, which I believe she perjuriously put in her\n24  affidavit, and Bill Clinton participating actively\n25  in an orgy. I also think it's a continuum.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "206\n1   on the island with her.\n2        The lie was that she described in great\n3   detail a dinner with Bill Clinton and two underaged\n4   Russian women who were offered to Bill Clinton for\n5   sex but that Bill Clinton turned down.\n6        So she then put in her affidavit that\n7   although -- perjuriously, although she had seen Bill\n8   Clinton on that island, she then stated that she had\n9   not had sex with Bill Clinton. To my knowledge,\n10  that was -- to my knowledge at least, that was the\n11  first time she stated that -- that she not had sex\n12  with Bill Clinton. She had certainly implied, or at\n13  least some of the media had inferred from her\n14  statements that she may very well have observed Bill\n15  Clinton in a sexually compromising position.\n16       So, when I made that statement to Don\n17  Lemon, I had a firm belief, based on reading\n18  newspaper accounts and blogs, that it was true.\n19       Q. Can you identify a single newspaper that\n20  attributed to Virginia Roberts the statement that\n21  Bill Clinton was with her at an orgy on Jeffrey's\n22  island?\n23       A. I think there -- I don't have them in my\n24  head right now. But I do recall reading headlines\n25  that talked about things like, sex slave places",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "208\n1   And there is the possibility, which I\n2   don't personally believe to be true, that he was on\n3   the island. There was the possibility, which I\n4   don't believe to be true, that he was on the island\n5   when orgies were taking place. There was the\n6   possibility that he was on the island and observed\n7   an orgy, and there was the possibility that he was\n8   on the island and participated in an orgy.\n9        Newspapers picked up those stories. I'll\n10  give you an example of a newspaper that actually\n11  said that the she had placed or that I was on the\n12  island and -- that I participated in an orgy along\n13  with Stephen Hawkings [sic.], the famous physicist\n14  from Cambridge University, that was a newspaper\n15  published in the Virgin Islands, which falsely\n16  claimed that I was at an orgy with Stephen Hawkings.\n17       So, many newspapers were suggesting,\n18  implying, and I inferred from reading those\n19  newspapers that that's what she had said to the\n20  media.\n21       If I was wrong about that based on\n22  subsequent information, I apologize. But I\n23  certainly, at the time I said it, believed it and\n24  made the statement in good faith in the belief that\n25  it was an honest statement.",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "8 (Pages 205 to 208)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010790",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Virginia Roberts",
+      "Bill Clinton",
+      "Jeffrey",
+      "Sean Hannity",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "Don Lemon",
+      "Stephen Hawkings"
+    ],
+    "organizations": [
+      "Cambridge University",
+      "House Oversight"
+    ],
+    "locations": [
+      "Jeffrey's island",
+      "Britain",
+      "Virgin Islands"
+    ],
+    "document_numbers": [
+      "205",
+      "206",
+      "207",
+      "208",
+      "HOUSE_OVERSIGHT_010790"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888)811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Testimony regarding Virginia Roberts's statements about Bill Clinton's presence on Jeffrey's island and alleged participation in orgies.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010790"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document appears to be a transcript of a deposition or legal proceeding. The name 'Jeffrey' is mentioned but the last name is not provided, though it is likely a reference to Jeffrey Epstein. The name 'Hawkings' is followed by '[sic.]', indicating a potential misspelling of 'Hawking' in the original transcript.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010790.jpg",
+  "house_oversight_id": "010790",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:30:53.191789Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,78 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010781.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A high-quality scan of a typed document, which appears to be a transcript from a legal deposition or hearing. The page is numbered 95 at the top right and has a document identifier 'HOUSE_OVERSIGHT_010781' at the bottom right. The main content consists of dialogue between several individuals, identified by name, with line numbers on the left and timestamps on the right.",
+    "layout": "The document has a standard transcript format. A page number is in the header. The body is a two-column layout with line numbers on the far left and timestamps on the far right, framing the central text which contains speaker identifications and their dialogue. A document identifier is in the footer.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "95\n\n1 MS. McCAWLEY: I have a standing objection 11:39:47\n\n2 and, I'm objecting again. I'm not going to --\n\n3 THE WITNESS: No, no, no. Does she have 11:39:49\n\n4 standing in this deposition?\n\n5 MR. SCOTT: Let's take a break for a 11:39:51\n\n6 minute, okay?\n\n7 THE WITNESS: I'm not sure she has 11:39:54\n\n8 standing.\n\n9 MR. SCAROLA: Are we finished with the 11:39:57\n\n10 speech?\n\n11 MR. SCOTT: No. If he -- 11:39:58\n\n12 MR. SCAROLA: I'd like him to finish the 11:39:59\n\n13 speech so that we can get to my question and\n\n14 then we can take a break.\n\n15 A. So the question -- the answer to your 11:40:02\n\n16 question is --\n\n17 MR. SIMPSON: Wait a minute. Wait a 11:40:04\n\n18 minute. Wait a minute. Please don't disclose\n\n19 something that she has a right to raise that\n\n20 objection if she wants to.\n\n21 MR. SCOTT: Exactly. 11:40:13\n\n22 THE WITNESS: Okay. 11:40:14\n\n23 MR. SCOTT: Ask your question. 11:40:17\n\n24 MR. SWEDER: Maybe you want to read back 11:40:20\n\n25 the last couple of sentences.\n\nHOUSE_OVERSIGHT_010781",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "95",
+        "type": "typed"
+      },
+      {
+        "region": "body",
+        "text": "1 MS. McCAWLEY: I have a standing objection 11:39:47\n\n2 and, I'm objecting again. I'm not going to --\n\n3 THE WITNESS: No, no, no. Does she have 11:39:49\n\n4 standing in this deposition?\n\n5 MR. SCOTT: Let's take a break for a 11:39:51\n\n6 minute, okay?\n\n7 THE WITNESS: I'm not sure she has 11:39:54\n\n8 standing.\n\n9 MR. SCAROLA: Are we finished with the 11:39:57\n\n10 speech?\n\n11 MR. SCOTT: No. If he -- 11:39:58\n\n12 MR. SCAROLA: I'd like him to finish the 11:39:59\n\n13 speech so that we can get to my question and\n\n14 then we can take a break.\n\n15 A. So the question -- the answer to your 11:40:02\n\n16 question is --\n\n17 MR. SIMPSON: Wait a minute. Wait a 11:40:04\n\n18 minute. Wait a minute. Please don't disclose\n\n19 something that she has a right to raise that\n\n20 objection if she wants to.\n\n21 MR. SCOTT: Exactly. 11:40:13\n\n22 THE WITNESS: Okay. 11:40:14\n\n23 MR. SCOTT: Ask your question. 11:40:17\n\n24 MR. SWEDER: Maybe you want to read back 11:40:20\n\n25 the last couple of sentences.",
+        "type": "typed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010781",
+        "type": "typed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "MS. McCAWLEY",
+      "MR. SCOTT",
+      "MR. SCAROLA",
+      "MR. SIMPSON",
+      "MR. SWEDER"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010781",
+      "95"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Transcript of a deposition or hearing",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010781"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 0.98,
+    "overall": 0.99
+  },
+  "notes": "The document is a single page from a larger transcript, as indicated by the page number 95. The timestamps suggest the dialogue is happening in real-time. The document identifier in the footer implies it is part of a collection from the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010781.jpg",
+  "house_oversight_id": "010781",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:26:09.766900Z",
+    "model": "gemini-2.5-pro"
+  }
+}

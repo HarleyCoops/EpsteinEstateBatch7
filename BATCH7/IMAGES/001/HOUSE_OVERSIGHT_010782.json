@@ -1,0 +1,68 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010782.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A document page that serves as a cover or divider for 'Exhibit 2'. The page is white with large, bold, black text centered on the page. A document identifier is located in the bottom right corner.",
+    "layout": "The layout consists of a large, centered title and a footer in the bottom right corner.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "Exhibit 2\n\nHOUSE_OVERSIGHT_010782",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "Exhibit 2",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010782",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010782"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [],
+      "email_addresses": [],
+      "addresses": []
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document production number: HOUSE_OVERSIGHT_010782"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Exhibit cover page",
+    "sender": null,
+    "recipient": null,
+    "subject": "Exhibit 2",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010782"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The image is a simple exhibit divider page, likely part of a larger set of documents produced for or by the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010782.jpg",
+  "house_oversight_id": "010782",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:26:26.701962Z",
+    "model": "gemini-2.5-pro"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010783.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A cover page for a legal deposition transcript. The document is from a court case in the Circuit Court of the Seventeenth Judicial Circuit in Broward County, Florida. It specifies the case name, case number, the deponent, the date, and the court reporting service.",
+    "layout": "Centered text with standard legal document formatting. A header with a page number in the top right, a main body with case details, and a footer with contact information and a document identifier in the bottom right.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "180\n\nIN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL\nCIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA\n\nCASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,,\n\nPlaintiffs,\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.\n________________________________/\n\nCONTINUED VIDEOTAPE DEPOSITION OF\n\nALAN M. DERSHOWITZ\n\nVOLUME 2\nPages 180 through 333\n\nFriday, October 16, 2015\n9:18 a.m. - 12:26 p.m.\n\nCole Scott & Kissane\n110 Southeast 6th Street\nFort Lauderdale, Florida\n\nStenographically Reported By:\nKimberly Fontalvo, RPR, CLR\nRealtime Systems Administrator\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010783",
+    "text_regions": [
+      {
+        "region": "header",
+        "text": "180",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "IN THE CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL\nCIRCUIT IN AND FOR BROWARD COUNTY, FLORIDA\n\nCASE NO.: CACE 15-000072\n\nBRADLEY J. EDWARDS and PAUL G.\nCASSELL,,\n\nPlaintiffs,\nvs.\n\nALAN M. DERSHOWITZ,\n\nDefendant.\n________________________________/\n\nCONTINUED VIDEOTAPE DEPOSITION OF\n\nALAN M. DERSHOWITZ\n\nVOLUME 2\nPages 180 through 333\n\nFriday, October 16, 2015\n9:18 a.m. - 12:26 p.m.\n\nCole Scott & Kissane\n110 Southeast 6th Street\nFort Lauderdale, Florida\n\nStenographically Reported By:\nKimberly Fontalvo, RPR, CLR\nRealtime Systems Administrator",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "stamp",
+        "text": "HOUSE_OVERSIGHT_010783",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-10-16"
+    ],
+    "people": [
+      "BRADLEY J. EDWARDS",
+      "PAUL G. CASSELL",
+      "ALAN M. DERSHOWITZ",
+      "Kimberly Fontalvo"
+    ],
+    "organizations": [
+      "CIRCUIT COURT OF THE SEVENTEENTH JUDICIAL CIRCUIT",
+      "Cole Scott & Kissane",
+      "Phipps Reporting"
+    ],
+    "locations": [
+      "BROWARD COUNTY, FLORIDA",
+      "Fort Lauderdale, Florida"
+    ],
+    "document_numbers": [
+      "CACE 15-000072",
+      "180",
+      "HOUSE_OVERSIGHT_010783"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "110 Southeast 6th Street Fort Lauderdale, Florida"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "HOUSE_OVERSIGHT_010783"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "Deposition Transcript Cover Page",
+    "sender": null,
+    "recipient": null,
+    "subject": "CONTINUED VIDEOTAPE DEPOSITION OF ALAN M. DERSHOWITZ, VOLUME 2",
+    "date": "2015-10-16",
+    "references": [
+      "CACE 15-000072"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 1.0,
+    "structured_data": 1.0,
+    "overall": 1.0
+  },
+  "notes": "The document is a cover page for Volume 2 of a deposition, covering pages 180 through 333. The identifier 'HOUSE_OVERSIGHT_010783' appears to be a Bates number added during document production for the House Oversight Committee.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010783.jpg",
+  "house_oversight_id": "010783",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:26:49.741710Z",
+    "model": "gemini-2.5-pro"
+  }
+}

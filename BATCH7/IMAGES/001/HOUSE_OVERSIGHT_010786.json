@@ -1,0 +1,95 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010786.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document showing four pages of a legal transcript, arranged in a two-by-two grid. The pages are numbered 189, 191, 190, and 192. The text is a question-and-answer style deposition or testimony, with line numbers along the left margin of each page.",
+    "layout": "The image is a composite of four distinct pages. Page 189 is in the top-left quadrant, page 191 is in the top-right, page 190 is in the bottom-left, and page 192 is in the bottom-right. Each page is a single column of text with line numbers. There are headers with page numbers and footers with contact information and a document identifier.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "189\n1 airplane flights with Jeffrey Epstein. They have me\n2 on a number of flights, none -- let me emphasize,\n3 none within the relevant time period, none within\n4 the relevant time period. That is, there are no\n5 manifests that have me on the Epstein airplane\n6 during the time that Virginia Roberts claims to\n7 have -- falsely claims to have had sex with me.\n8 So, yes, not only recall making that\n9 statement, but I repeat it here today. And it is\n10 absolutely true. And it just confirms what I know,\n11 and that is that Virginia Roberts made up the entire\n12 story.\n13 BY MR. SCAROLA:\n14 Q. Your statement --\n15 MR. SCOTT: What page are you reading\n16 from?\n17 MR. SCAROLA: Page 5.\n18 Q. Your statement was that you were never on\n19 a private airplane with this woman, which I assume\n20 was a reference to Virginia Roberts, correct?\n21 A. It is, yes.\n22 Q. Or any other underage girl?\n23 A. That's right.\n24 Q. All right. How many times --\n25 A. Well, let me be very clear. I have no\n\n191\n1 to the transcription, the official transcription of\n2 that testimony, was that, quote:\n3 \"Let me emphasize that the manifests that\n4 do exculpate me do not show me flying with Virginia\n5 Roberts, they do not show me flying with any young\n6 women.\"\n7 That was the testimony you gave under\n8 oath. Do you stand by that testimony today?\n9 A. The manifests that I saw corroborate my\n10 own memory -- my own memory is as clear as could\n11 be -- that I never saw any inappropriately aged,\n12 underaged women on any airplane to my knowledge that\n13 were visible to me at any time that I flew. That is\n14 my testimony, yes.\n15 Q. Well, that's not a response to the\n16 question that I asked. Is it your testimony today\n17 that you never flew on a private airplane with,\n18 quote, \"any young women\"?\n19 MR. SCOTT: Objection, form.\n20 A. By young women, I obviously meant in that\n21 context underage women. And underage women in the\n22 context of sexuality. And, yes, I -- I stand by\n23 that statement.\n24 BY MR. SCAROLA:\n25 Q. All right. So your -- your clarification\n\n190\n1 idea who was in the front cabin of the airplane with\n2 the pilots. Obviously what I intended to say and\n3 what I say here now is I never saw an underaged\n4 person on an airplane.\n5 Now, when I -- when I flew with Jeffrey\n6 Epstein to the launch, my recollection is that there\n7 may have been a couple on the plane with their child\n8 who was going to see the launch. But that was\n9 certainly not the context in which I made the\n10 statement.\n11 I never saw any underage, young person who\n12 would be the subject or object of any improper\n13 sexual activities. Had I seen Jeffrey Epstein ever\n14 in the presence of an underage woman in a context\n15 that suggested sexuality, I would have, A, left the\n16 scene; B, reported it; and, C, never had any further\n17 contact with Jeffrey Epstein.\n18 Q. You have also made the statement that you\n19 were never on a private airplane with any underage\n20 women or any young women, correct?\n21 A. The context was underage women in a sexual\n22 context. If it was a -- you know, a four-year-old\n23 child being carried by her mother, that would not be\n24 included in what I intended to say.\n25 Q. Your sworn testimony yesterday, according\n\n192\n1 of your earlier testimony is that you never saw any\n2 young women in a sexual context?\n3 A. That's not clarification. I think that's\n4 what I initially said. That's what I initially\n5 intended. And that's the way any reasonable -- any\n6 reasonable person would interpret what my original\n7 testimony was. So I don't believe my original\n8 testimony required any clarification.\n9 Q. So what you meant to convey by the\n10 statement that you made when you said you never flew\n11 with any underage girl or any young women was you\n12 never flew with any underage girl or young women in\n13 a sexual context?\n14 MR. SCOTT: Objection, form.\n15 BY MR. SCAROLA:\n16 Q. Is that correct?\n17 A. Let me simply repeat the fact and that is,\n18 to my knowledge, I never flew on an airplane or was\n19 ever in the presence on an airplane with any\n20 underage woman who would be somebody who might be in\n21 a sexual context. I say that only to eliminate the\n22 possibility that some four-year-old was on the lap\n23 of a mother or somebody was on the airplane with\n24 family members.\n25 But, no, I do not recall -- and I'm very\n\n4 (Pages 189 to 192)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010786",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "189\n1 airplane flights with Jeffrey Epstein. They have me\n2 on a number of flights, none -- let me emphasize,\n3 none within the relevant time period, none within\n4 the relevant time period. That is, there are no\n5 manifests that have me on the Epstein airplane\n6 during the time that Virginia Roberts claims to\n7 have -- falsely claims to have had sex with me.\n8 So, yes, not only recall making that\n9 statement, but I repeat it here today. And it is\n10 absolutely true. And it just confirms what I know,\n11 and that is that Virginia Roberts made up the entire\n12 story.\n13 BY MR. SCAROLA:\n14 Q. Your statement --\n15 MR. SCOTT: What page are you reading\n16 from?\n17 MR. SCAROLA: Page 5.\n18 Q. Your statement was that you were never on\n19 a private airplane with this woman, which I assume\n20 was a reference to Virginia Roberts, correct?\n21 A. It is, yes.\n22 Q. Or any other underage girl?\n23 A. That's right.\n24 Q. All right. How many times --\n25 A. Well, let me be very clear. I have no",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "191\n1 to the transcription, the official transcription of\n2 that testimony, was that, quote:\n3 \"Let me emphasize that the manifests that\n4 do exculpate me do not show me flying with Virginia\n5 Roberts, they do not show me flying with any young\n6 women.\"\n7 That was the testimony you gave under\n8 oath. Do you stand by that testimony today?\n9 A. The manifests that I saw corroborate my\n10 own memory -- my own memory is as clear as could\n11 be -- that I never saw any inappropriately aged,\n12 underaged women on any airplane to my knowledge that\n13 were visible to me at any time that I flew. That is\n14 my testimony, yes.\n15 Q. Well, that's not a response to the\n16 question that I asked. Is it your testimony today\n17 that you never flew on a private airplane with,\n18 quote, \"any young women\"?\n19 MR. SCOTT: Objection, form.\n20 A. By young women, I obviously meant in that\n21 context underage women. And underage women in the\n22 context of sexuality. And, yes, I -- I stand by\n23 that statement.\n24 BY MR. SCAROLA:\n25 Q. All right. So your -- your clarification",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "190\n1 idea who was in the front cabin of the airplane with\n2 the pilots. Obviously what I intended to say and\n3 what I say here now is I never saw an underaged\n4 person on an airplane.\n5 Now, when I -- when I flew with Jeffrey\n6 Epstein to the launch, my recollection is that there\n7 may have been a couple on the plane with their child\n8 who was going to see the launch. But that was\n9 certainly not the context in which I made the\n10 statement.\n11 I never saw any underage, young person who\n12 would be the subject or object of any improper\n13 sexual activities. Had I seen Jeffrey Epstein ever\n14 in the presence of an underage woman in a context\n15 that suggested sexuality, I would have, A, left the\n16 scene; B, reported it; and, C, never had any further\n17 contact with Jeffrey Epstein.\n18 Q. You have also made the statement that you\n19 were never on a private airplane with any underage\n20 women or any young women, correct?\n21 A. The context was underage women in a sexual\n22 context. If it was a -- you know, a four-year-old\n23 child being carried by her mother, that would not be\n24 included in what I intended to say.\n25 Q. Your sworn testimony yesterday, according",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "192\n1 of your earlier testimony is that you never saw any\n2 young women in a sexual context?\n3 A. That's not clarification. I think that's\n4 what I initially said. That's what I initially\n5 intended. And that's the way any reasonable -- any\n6 reasonable person would interpret what my original\n7 testimony was. So I don't believe my original\n8 testimony required any clarification.\n9 Q. So what you meant to convey by the\n10 statement that you made when you said you never flew\n11 with any underage girl or any young women was you\n12 never flew with any underage girl or young women in\n13 a sexual context?\n14 MR. SCOTT: Objection, form.\n15 BY MR. SCAROLA:\n16 Q. Is that correct?\n17 A. Let me simply repeat the fact and that is,\n18 to my knowledge, I never flew on an airplane or was\n19 ever in the presence on an airplane with any\n20 underage woman who would be somebody who might be in\n21 a sexual context. I say that only to eliminate the\n22 possibility that some four-year-old was on the lap\n23 of a mother or somebody was on the airplane with\n24 family members.\n25 But, no, I do not recall -- and I'm very",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "4 (Pages 189 to 192)\nwww.phippsreporting.com\n(888) 811-3408\nHOUSE_OVERSIGHT_010786",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Jeffrey Epstein",
+      "Virginia Roberts",
+      "MR. SCAROLA",
+      "MR. SCOTT"
+    ],
+    "organizations": [
+      "Phipps Reporting",
+      "HOUSE_OVERSIGHT"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010786",
+      "189",
+      "190",
+      "191",
+      "192"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "Legal Transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Testimony regarding flights with Jeffrey Epstein and the presence of underage women.",
+    "date": null,
+    "references": [
+      "Page 5"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages from a legal transcript, numbered 189, 190, 191, and 192. The subject matter involves a witness clarifying their testimony about being on an airplane with Jeffrey Epstein and underage women.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010786.jpg",
+  "house_oversight_id": "010786",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:28:09.049489Z",
+    "model": "gemini-2.5-pro"
+  }
+}

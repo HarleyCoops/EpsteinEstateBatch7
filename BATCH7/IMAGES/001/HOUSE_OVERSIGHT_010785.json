@@ -1,0 +1,112 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010785.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document containing four pages of a legal transcript, arranged in a two-by-two grid on a single sheet. The pages are numbered 185, 187, 186, and 188. The text is a question-and-answer dialogue from a deposition or interview.",
+    "layout": "The image is a composite of four document pages. Each individual page has a two-column format with line numbers on the left and the transcript text on the right. The overall page has a header for each transcript page, a central footer with contact information and page range, and a bottom-right footer with a document control number.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "185\n1 A. Truth has many, many meanings and is a\n2 continuum. The Supreme Court has held that\n3 rhetorical hyperbole cannot be the basis, for\n4 example, of perjury prosecutions or generally of a\n5 defamation prosecution.\n6 So it depends on the context. You might\n7 just look at the dictionary and probably get a\n8 variety of definitions for it.\n9 BY MR. SCAROLA:\n10 Q. Well, what I'm concerned about,\n11 Mr. Dershowitz, is not a dictionary definition. I\n12 want to know what your understanding of rhetorical\n13 hyperbole is.\n14 And do you agree that pursuant to your\n15 understanding of rhetorical hyperbole, it is an\n16 exaggeration beyond the facts?\n17 MR. SCOTT: Objection, argumentative and\n18 compound, three questions.\n19 A. No --\n20 MR. SCOTT: You can answer.\n21 A. -- I would not agree with that definition.\n22 BY MR. SCAROLA:\n23 Q. Okay. Then define it for us, if you\n24 would, please.\n25 A. I think I have already.\n\n187\n1 transcript of the interview? We'd like to see\n2 it.\n3 MR. SCAROLA: That's exactly what I gave\n4 you, the photocopy.\n5 MR. SCOTT: We're doing it right now.\n6 Maybe we can move on and come back then.\n7 MR. SCAROLA: No, I would like to proceed.\n8 MR. SCOTT: Then let's stop until I get a\n9 copy of it. Because he -- I want --\n10 MR. SCAROLA: I don't think that's\n11 necessary because your client has told us that\n12 he has a superb memory and one of the things I\n13 would like to know is what he's able to recall.\n14 If he needs to refresh his memory, the\n15 transcripts will be here in just a moment, but\n16 I don't want to delay going forward.\n17 MR. SCOTT: Do you need the transcript to\n18 refresh your memory?\n19 THE WITNESS: Well, I have no memory of\n20 what specifically I said on a particular day in\n21 a particular interview.\n22 MR. SCOTT: Since you have a copy in front\n23 of him, why don't you just show him your copy\n24 then? Read the -- ask your question and let\n25 him read it.\n\n186\n1 Q. I'm sorry, I missed the definition. Could\n2 you tell us what rhetorical hyperbole is?\n3 MR. SCOTT: Objection, repetitious. He's\n4 done it.\n5 A. Why don't we just read back my answer.\n6 BY MR. SCAROLA:\n7 Q. Because I didn't understand it, so I would\n8 like you to try to give us a direct response to that\n9 question if you're able to.\n10 A. I will repeat exactly what I said. A\n11 rhetorical means verbal and hyperbole means some\n12 exaggeration of the facts for political or other\n13 reasons, but generally it is truthful in a literal\n14 sense but perhaps -- it all depends on context.\n15 And if you tell me the context in which I\n16 used it, I will be happy to describe what I meant in\n17 that context. But I don't think you can really\n18 answer a question about what two words put together\n19 mean without understanding the context.\n20 Q. Okay. Well, we're going to talk about\n21 some context.\n22 Do you recall having been interviewed on\n23 CNN Tonight on January 5, 2015?\n24 A. I have no current recollection of --\n25 MR. SCOTT: Do you have a copy of the\n\n188\n1 BY MR. SCAROLA:\n2 Q. Do you recall having been interviewed on\n3 CNN Tonight by Don Lemon?\n4 A. Yes, I do.\n5 Q. Do you recall having been interviewed on\n6 CNN Tonight by Don Lemon in early January of 2015,\n7 where you spoke about matters that have become the\n8 subject of this litigation?\n9 A. Yes, I do.\n10 Q. Did you make the following statement\n11 during the course of that interview: \"As to the\n12 airplanes, there are manifests that will prove\n13 beyond any doubt that I was never on a private\n14 airplane with this woman or any other underage\n15 girl\"?\n16 MR. SCOTT: You need to see the\n17 transcript.\n18 THE WITNESS: No. No.\n19 A. That is a truthful statement. I would\n20 repeat it right now. I've reviewed the manifests.\n21 First, I know I was never on the airplane\n22 with any underage woman. I know that for a fact. I\n23 have absolutely no doubt in my mind about that. And\n24 the records that I have reviewed confirm that.\n25 They have Virginia Roberts on a number of\n\n3 (Pages 185 to 188)\n\nwww.phippsreporting.com\n(888)811-3408\n\nHOUSE_OVERSIGHT_010785",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "185\n1 A. Truth has many, many meanings and is a\n2 continuum. The Supreme Court has held that\n3 rhetorical hyperbole cannot be the basis, for\n4 example, of perjury prosecutions or generally of a\n5 defamation prosecution.\n6 So it depends on the context. You might\n7 just look at the dictionary and probably get a\n8 variety of definitions for it.\n9 BY MR. SCAROLA:\n10 Q. Well, what I'm concerned about,\n11 Mr. Dershowitz, is not a dictionary definition. I\n12 want to know what your understanding of rhetorical\n13 hyperbole is.\n14 And do you agree that pursuant to your\n15 understanding of rhetorical hyperbole, it is an\n16 exaggeration beyond the facts?\n17 MR. SCOTT: Objection, argumentative and\n18 compound, three questions.\n19 A. No --\n20 MR. SCOTT: You can answer.\n21 A. -- I would not agree with that definition.\n22 BY MR. SCAROLA:\n23 Q. Okay. Then define it for us, if you\n24 would, please.\n25 A. I think I have already.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "187\n1 transcript of the interview? We'd like to see\n2 it.\n3 MR. SCAROLA: That's exactly what I gave\n4 you, the photocopy.\n5 MR. SCOTT: We're doing it right now.\n6 Maybe we can move on and come back then.\n7 MR. SCAROLA: No, I would like to proceed.\n8 MR. SCOTT: Then let's stop until I get a\n9 copy of it. Because he -- I want --\n10 MR. SCAROLA: I don't think that's\n11 necessary because your client has told us that\n12 he has a superb memory and one of the things I\n13 would like to know is what he's able to recall.\n14 If he needs to refresh his memory, the\n15 transcripts will be here in just a moment, but\n16 I don't want to delay going forward.\n17 MR. SCOTT: Do you need the transcript to\n18 refresh your memory?\n19 THE WITNESS: Well, I have no memory of\n20 what specifically I said on a particular day in\n21 a particular interview.\n22 MR. SCOTT: Since you have a copy in front\n23 of him, why don't you just show him your copy\n24 then? Read the -- ask your question and let\n25 him read it.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "186\n1 Q. I'm sorry, I missed the definition. Could\n2 you tell us what rhetorical hyperbole is?\n3 MR. SCOTT: Objection, repetitious. He's\n4 done it.\n5 A. Why don't we just read back my answer.\n6 BY MR. SCAROLA:\n7 Q. Because I didn't understand it, so I would\n8 like you to try to give us a direct response to that\n9 question if you're able to.\n10 A. I will repeat exactly what I said. A\n11 rhetorical means verbal and hyperbole means some\n12 exaggeration of the facts for political or other\n13 reasons, but generally it is truthful in a literal\n14 sense but perhaps -- it all depends on context.\n15 And if you tell me the context in which I\n16 used it, I will be happy to describe what I meant in\n17 that context. But I don't think you can really\n18 answer a question about what two words put together\n19 mean without understanding the context.\n20 Q. Okay. Well, we're going to talk about\n21 some context.\n22 Do you recall having been interviewed on\n23 CNN Tonight on January 5, 2015?\n24 A. I have no current recollection of --\n25 MR. SCOTT: Do you have a copy of the",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "188\n1 BY MR. SCAROLA:\n2 Q. Do you recall having been interviewed on\n3 CNN Tonight by Don Lemon?\n4 A. Yes, I do.\n5 Q. Do you recall having been interviewed on\n6 CNN Tonight by Don Lemon in early January of 2015,\n7 where you spoke about matters that have become the\n8 subject of this litigation?\n9 A. Yes, I do.\n10 Q. Did you make the following statement\n11 during the course of that interview: \"As to the\n12 airplanes, there are manifests that will prove\n13 beyond any doubt that I was never on a private\n14 airplane with this woman or any other underage\n15 girl\"?\n16 MR. SCOTT: You need to see the\n17 transcript.\n18 THE WITNESS: No. No.\n19 A. That is a truthful statement. I would\n20 repeat it right now. I've reviewed the manifests.\n21 First, I know I was never on the airplane\n22 with any underage woman. I know that for a fact. I\n23 have absolutely no doubt in my mind about that. And\n24 the records that I have reviewed confirm that.\n25 They have Virginia Roberts on a number of",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "3 (Pages 185 to 188)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888)811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010785",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "2015-01-05"
+    ],
+    "people": [
+      "Mr. Scarola",
+      "Mr. Dershowitz",
+      "Mr. Scott",
+      "Don Lemon",
+      "Virginia Roberts"
+    ],
+    "organizations": [
+      "Supreme Court",
+      "CNN",
+      "Phipps Reporting",
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "HOUSE_OVERSIGHT_010785",
+      "185",
+      "186",
+      "187",
+      "188"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888)811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": [
+      "Document control number: HOUSE_OVERSIGHT_010785"
+    ]
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or interview discussing rhetorical hyperbole and a CNN interview from January 5, 2015.",
+    "date": null,
+    "references": [
+      "HOUSE_OVERSIGHT_010785"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a compilation of four pages from a larger transcript, specifically pages 185 through 188. The witness appears to be Mr. Dershowitz, based on the question on page 185, line 11.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010785.jpg",
+  "house_oversight_id": "010785",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:27:36.997767Z",
+    "model": "gemini-2.5-pro"
+  }
+}

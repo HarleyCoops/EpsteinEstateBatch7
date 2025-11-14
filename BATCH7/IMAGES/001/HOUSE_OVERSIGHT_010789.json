@@ -1,0 +1,118 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010789.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A single image displaying four pages of a legal deposition transcript, arranged in a two-by-two grid. The pages are numbered 201, 203, 202, and 204 from top-left, top-right, bottom-left, to bottom-right respectively. The text is typed and includes line numbers. A footer with contact information is at the bottom center, and a document identifier is at the bottom right.",
+    "layout": "Four-page spread on a single sheet, arranged in a 2x2 grid. Each page has a header with the page number and a body with numbered lines of text.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "201\n1      than three years after Virginia Roberts left\n2      for --\n3      BY MR. SCAROLA:\n4          Q. Mr. Dershowitz --\n5          MR. SCOTT: You're cutting the witness\n6      off.\n7          MR. SCAROLA: He's not answering my\n8      question, Tom.\n9          MR. SCOTT: Well --\n10         MR. SCAROLA: I want to know whether the\n11     last name is spelled the same or it isn't\n12     spelled the same on the flight log marked as an\n13     exhibit and on the photographs. That's a very\n14     direct question. It calls for a very direct\n15     yes or no response.\n16         And this witness has demonstrated a clear\n17     refusal to respond directly to direct\n18     questions, which will result, when we resume\n19     this deposition, in our requesting that the\n20     Court appoint a special master so that this\n21     deposition doesn't take two weeks to complete.\n22         MR. SCOTT: You know, Mr. Scarola, that's\n23     a nice speech and I appreciate it.\n24         MR. SCAROLA: Thank you.\n25         MR. SCOTT: I don't agree with your\n\n203\n1      BY MR. SCAROLA:\n2          Q. Is the last name on the photograph spelled\n3      exactly the same way as the last name on the flight\n4      log?\n5          A. If you're talking about a flight log that\n6      I was not on that flight, the answer is yes.\n7          Q. All right. Thank you very much, sir.\n8          Now, that flight log also shows you flying\n9      repeatedly in the company of a woman named Tatiana,\n10     correct?\n11         A. I've only seen one reference to Tatiana on\n12     November 17. If you want to show me any other\n13     references, I'd be happy to look at them.\n14         Q. All right, sir. Thank you.\n15         Let's go back to the --\n16         MR. SCOTT: Are we done with this exhibit?\n17         MR. SCAROLA: We are done with the\n18     exhibit.\n19         MR. SCOTT: Okay. Then let's collect the\n20     exhibits so that we don't have a big -- then\n21     we'll turn them over to the court reporter to\n22     keep safekeeping.\n23         There you go, young lady, don't lose\n24     those, don't get them wet. And we'll proceed.\n25\n\n202\n1      characterization. And if you recall, months\n2      ago I suggested a special master for this\n3      deposition, for your client's depositions and\n4      for Virginia Roberts' and your response to me\n5      was: I'll consider it, I won't pay for it. If\n6      your client wants to pay for it -- so basically\n7      you blew me off.\n8          So, I appreciate you finally come around.\n9      And your clients --\n10         MR. SCAROLA: Your client's misconduct has\n11     clearly convinced me, having now considered it,\n12     that it is absolutely necessary.\n13         MR. SCOTT: Okay. Now --\n14     BY MR. SCAROLA:\n15         Q. So now could I get an answer to my\n16     question --\n17         MR. SCOTT: Now that we have --\n18     BY MR. SCAROLA:\n19         Q. -- whether the last name on the flight log\n20     is spelled exactly the same way as the last name in\n21     the photographs?\n22         MR. SCOTT: Now that all the lawyers'\n23     speeches are done, read the question back and\n24     the witness will answer it.\n25         MR. SCAROLA: I will repeat the question.\n\n204\n1      BY MR. SCAROLA:\n2          Q. Did you state during the same interview,\n3      the CNN Don Lemon interview: \"She has said that\n4      Bill Clinton was with her at an orgy on Jeffrey's\n5      island\"?\n6          A. I did state that, yes.\n7          Q. Was that statement intended as fact,\n8      opinion, or was it intended as rhetorical hyperbole?\n9          MR. SCOTT: Do you understand the\n10     question?\n11         THE WITNESS: Yes, I do.\n12         A. It was a statement based on what I\n13     believed were the facts at the time I said them.\n14         Various newspapers and blogs had placed\n15     Bill Clinton on, quote, \"orgy island\" on -- in the\n16     presence of Jeffrey Epstein when there were orgies.\n17     And at the time I made that statement, I had a\n18     belief that she had accused Bill Clinton of\n19     participating or being -- as being a part of or an\n20     observer or -- or a witness or a participant in\n21     orgies on what was called Jeffrey Epstein's orgy\n22     island. That was my state of belief, honest belief\n23     at the time I made that statement.\n24     BY MR. SCAROLA:\n25         Q. Yes, sir. And what I want to know is what\n\n7 (Pages 201 to 204)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010789",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "201\n1      than three years after Virginia Roberts left\n2      for --\n3      BY MR. SCAROLA:\n4          Q. Mr. Dershowitz --\n5          MR. SCOTT: You're cutting the witness\n6      off.\n7          MR. SCAROLA: He's not answering my\n8      question, Tom.\n9          MR. SCOTT: Well --\n10         MR. SCAROLA: I want to know whether the\n11     last name is spelled the same or it isn't\n12     spelled the same on the flight log marked as an\n13     exhibit and on the photographs. That's a very\n14     direct question. It calls for a very direct\n15     yes or no response.\n16         And this witness has demonstrated a clear\n17     refusal to respond directly to direct\n18     questions, which will result, when we resume\n19     this deposition, in our requesting that the\n20     Court appoint a special master so that this\n21     deposition doesn't take two weeks to complete.\n22         MR. SCOTT: You know, Mr. Scarola, that's\n23     a nice speech and I appreciate it.\n24         MR. SCAROLA: Thank you.\n25         MR. SCOTT: I don't agree with your",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "203\n1      BY MR. SCAROLA:\n2          Q. Is the last name on the photograph spelled\n3      exactly the same way as the last name on the flight\n4      log?\n5          A. If you're talking about a flight log that\n6      I was not on that flight, the answer is yes.\n7          Q. All right. Thank you very much, sir.\n8          Now, that flight log also shows you flying\n9      repeatedly in the company of a woman named Tatiana,\n10     correct?\n11         A. I've only seen one reference to Tatiana on\n12     November 17. If you want to show me any other\n13     references, I'd be happy to look at them.\n14         Q. All right, sir. Thank you.\n15         Let's go back to the --\n16         MR. SCOTT: Are we done with this exhibit?\n17         MR. SCAROLA: We are done with the\n18     exhibit.\n19         MR. SCOTT: Okay. Then let's collect the\n20     exhibits so that we don't have a big -- then\n21     we'll turn them over to the court reporter to\n22     keep safekeeping.\n23         There you go, young lady, don't lose\n24     those, don't get them wet. And we'll proceed.\n25",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "202\n1      characterization. And if you recall, months\n2      ago I suggested a special master for this\n3      deposition, for your client's depositions and\n4      for Virginia Roberts' and your response to me\n5      was: I'll consider it, I won't pay for it. If\n6      your client wants to pay for it -- so basically\n7      you blew me off.\n8          So, I appreciate you finally come around.\n9      And your clients --\n10         MR. SCAROLA: Your client's misconduct has\n11     clearly convinced me, having now considered it,\n12     that it is absolutely necessary.\n13         MR. SCOTT: Okay. Now --\n14     BY MR. SCAROLA:\n15         Q. So now could I get an answer to my\n16     question --\n17         MR. SCOTT: Now that we have --\n18     BY MR. SCAROLA:\n19         Q. -- whether the last name on the flight log\n20     is spelled exactly the same way as the last name in\n21     the photographs?\n22         MR. SCOTT: Now that all the lawyers'\n23     speeches are done, read the question back and\n24     the witness will answer it.\n25         MR. SCAROLA: I will repeat the question.",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "204\n1      BY MR. SCAROLA:\n2          Q. Did you state during the same interview,\n3      the CNN Don Lemon interview: \"She has said that\n4      Bill Clinton was with her at an orgy on Jeffrey's\n5      island\"?\n6          A. I did state that, yes.\n7          Q. Was that statement intended as fact,\n8      opinion, or was it intended as rhetorical hyperbole?\n9          MR. SCOTT: Do you understand the\n10     question?\n11         THE WITNESS: Yes, I do.\n12         A. It was a statement based on what I\n13     believed were the facts at the time I said them.\n14         Various newspapers and blogs had placed\n15     Bill Clinton on, quote, \"orgy island\" on -- in the\n16     presence of Jeffrey Epstein when there were orgies.\n17     And at the time I made that statement, I had a\n18     belief that she had accused Bill Clinton of\n19     participating or being -- as being a part of or an\n20     observer or -- or a witness or a participant in\n21     orgies on what was called Jeffrey Epstein's orgy\n22     island. That was my state of belief, honest belief\n23     at the time I made that statement.\n24     BY MR. SCAROLA:\n25         Q. Yes, sir. And what I want to know is what",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "7 (Pages 201 to 204)",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "www.phippsreporting.com\n(888) 811-3408",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "HOUSE_OVERSIGHT_010789",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [
+      "November 17"
+    ],
+    "people": [
+      "Virginia Roberts",
+      "MR. SCAROLA",
+      "Mr. Dershowitz",
+      "MR. SCOTT",
+      "Tom",
+      "Tatiana",
+      "Don Lemon",
+      "Bill Clinton",
+      "Jeffrey Epstein"
+    ],
+    "organizations": [
+      "CNN",
+      "phippsreporting.com"
+    ],
+    "locations": [
+      "Jeffrey's island",
+      "orgy island"
+    ],
+    "document_numbers": [
+      "201",
+      "202",
+      "203",
+      "204",
+      "HOUSE_OVERSIGHT_010789"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "legal deposition transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition concerning a flight log, photographs, and statements made by the witness regarding Jeffrey Epstein and Bill Clinton.",
+    "date": null,
+    "references": [
+      "flight log",
+      "photographs",
+      "exhibit",
+      "CNN Don Lemon interview"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a composite of four pages (201-204) from a deposition transcript. The witness is identified as Mr. Dershowitz in the questioning on page 201.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010789.jpg",
+  "house_oversight_id": "010789",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:30:13.431469Z",
+    "model": "gemini-2.5-pro"
+  }
+}

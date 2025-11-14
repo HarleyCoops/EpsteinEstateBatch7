@@ -1,0 +1,5 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010784.jpg",
+  "error": "Failed to parse LLM response as JSON",
+  "raw_response": "{\n  \"file_name\": \"HOUSE_OVERSIGHT_010784.jpg\",\n  \"image_analysis\": {\n    \"type\": \"document\",\n    \"description\": \"A single image displaying four pages of a legal deposition transcript, arranged in a 2x2 grid. The pages are numbered 181, 183, 182, and 184. Page 181 and 182 list the appearances of legal counsel. Page 183 contains the index for the deposition volume. Page 184 shows the beginning of the deposition testimony. A footer with contact information for a reporting service is at the bottom center, and a document identifier 'HOUSE_OVERSIGHT_010784' is at the bottom right.\",\n    \"layout\": \"Four-up layout, with two pages on top (181 and 183) and two pages on the bottom (182 and 184). Each page has a header with the page number and a body with numbered lines of text.\",\n    \"quality\": \"high\",\n    \"orientation\": \"portrait\"\n  },\n  \"text_extraction\": {\n    \"full_text\": \"181\\n1 APPEARANCES:\\n2\\n3 On behalf of Plaintiffs:\\n4 SEARCY, DENNEY, SCAROLA\\nBARNHART & SHIPLEY, P.A.\\n5 2139 Palm Beac"
+}

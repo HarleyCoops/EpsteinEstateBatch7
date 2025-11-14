@@ -1,0 +1,103 @@
+{
+  "file_name": "HOUSE_OVERSIGHT_010787.jpg",
+  "image_analysis": {
+    "type": "document",
+    "description": "A scanned document containing four pages of a legal deposition or hearing transcript, arranged in a two-by-two grid. The pages are numbered 193, 194, 195, and 196. The text is formatted with line numbers and includes dialogue between speakers identified by their last names (e.g., MR. SCOTT, MR. SCAROLA) and an unidentified witness (A.). The document has a footer with contact information for a reporting service and a document identifier in the bottom right corner.",
+    "layout": "The document displays four pages on a single sheet. Page 193 is in the top-left quadrant, page 194 is in the bottom-left, page 195 is in the top-right, and page 196 is in the bottom-right. Each page is a single column with numbered lines. A footer spans the bottom of the entire sheet.",
+    "quality": "high",
+    "orientation": "portrait"
+  },
+  "text_extraction": {
+    "full_text": "193\n1      firm about this -- being on an airplane with anybody\n2      who I believed could be the subject of Jeffrey\n3      Epstein or anyone else's improper sexual activities.\n4           MR. SCAROLA: All right. Let's mark the\n5      transcript that we've been referring to as\n6      Exhibit Number 1, please. That's the\n7      transcript of the television interviews that\n8      we'll be discussing.\n9           (Thereupon, marked as Plaintiff Exhibit\n10     1.)\n11          MR. SCOTT: This is actually 2, right? We\n12     had one yesterday, an article from the British\n13     newspaper?\n14          MR. SCAROLA: No. It was not marked as an\n15     exhibit. This is the first exhibit that's been\n16     marked.\n17          MR. SCOTT: No, I know that, but I thought\n18     we were going to mark that one. Maybe I was --\n19     I asked for that. Okay.\n20          It was an answer and counterclaim about\n21     the allegation shown to the witness.\n22          MR. SCAROLA: And Exhibit Number 2 will be\n23     the transcript from yesterday's proceedings\n24     that I have just referenced.\n25          (Thereupon, marked as Plaintiff\n\n195\n1      A. I don't remember that I flew with her or\n2      not. I may have. But I don't recall necessarily.\n3      But I did meet -- I remember meeting a woman named\n4      Tatiana. This does not look like Tatiana, like the\n5      woman I met.\n6           Q. Okay. So that's a -- that's a different\n7      Tatiana?\n8           A. No, I don't know.\n9           MR. SCOTT: Objection, form,\n10     argumentative.\n11          A. I have no idea. I do not recognize this\n12     woman. She's not familiar to me at all.\n13          I can tell you this: Without any doubt, I\n14     never met anybody dressed like this on any airplane\n15     or in the presence of Jeffrey Epstein or in any\n16     context --\n17          BY MR. SCAROLA:\n18          Q. Did she have --\n19          A. -- related to this case.\n20          Q. -- more clothes on or less clothes on when\n21     you met her?\n22          MR. SCOTT: Objection, form. He said he\n23     never met her. Misrepresent --\n24          BY MR. SCAROLA:\n25          Q. When you met the woman that you're\n\n194\n1      Exhibit 2.)\n2           MR. SCOTT: You don't have a copy of that,\n3      do you, of the transcript?\n4           MR. SCAROLA: No. Got sent to you. I\n5      assume you have it.\n6      BY MR. SCAROLA:\n7           Q. I'm going to hand you what we'll now mark\n8      as Exhibit Number 3.\n9           (Thereupon, marked as Plaintiff\n10     Exhibit 3.)\n11          MR. SCOTT: There's no question.\n12          MR. SWEDER: Yes.\n13     BY MR. SCAROLA:\n14          Q. Do you recognize that young woman,\n15     Mr. Dershowitz?\n16          A. No.\n17          Q. Never saw her?\n18          A. Not that I know of.\n19          Q. Never flew on an private airplane with\n20     her?\n21          A. Not that I know of.\n22          Q. Do you recognize the name Tatiana?\n23          A. I do recall that Jeffrey Epstein had a\n24     friend named Tatiana.\n25          Q. That you flew with?\n\n196\n1      referencing, did she have more clothes on or less\n2      clothes on than that woman?\n3           A. Every woman that I met in the presence of\n4      Jeffrey Epstein was properly dressed, usually in\n5      suits and dresses and -- and appropriately covered\n6      up. I never met any women in the context of Jeffrey\n7      Epstein who were dressed anything like this.\n8           Q. Would you agree that that is a young woman\n9      in that photograph?\n10          A. I have no idea what her age is.\n11          Q. So you don't know whether she was underage\n12     or overage or a young woman or not a young woman?\n13          A. I don't --\n14          MR. SCOTT: Objection, form.\n15          A. -- know this woman, so I have no idea how\n16     old a woman in a picture is. She could be -- she\n17     could be 30. She could be 25. I have no idea.\n18     BY MR. SCAROLA:\n19          Q. Or she could be 15 or 16?\n20          A. I don't think so.\n21          Q. But you don't know?\n22          A. This doesn't -- well, I don't know how old\n23     you are. This does not strike me --\n24          Q. Old enough to know that --\n25          MR. SCOTT: You're cutting --\n\n5 (Pages 193 to 196)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010787",
+    "text_regions": [
+      {
+        "region": "body",
+        "text": "193\n1      firm about this -- being on an airplane with anybody\n2      who I believed could be the subject of Jeffrey\n3      Epstein or anyone else's improper sexual activities.\n4           MR. SCAROLA: All right. Let's mark the\n5      transcript that we've been referring to as\n6      Exhibit Number 1, please. That's the\n7      transcript of the television interviews that\n8      we'll be discussing.\n9           (Thereupon, marked as Plaintiff Exhibit\n10     1.)\n11          MR. SCOTT: This is actually 2, right? We\n12     had one yesterday, an article from the British\n13     newspaper?\n14          MR. SCAROLA: No. It was not marked as an\n15     exhibit. This is the first exhibit that's been\n16     marked.\n17          MR. SCOTT: No, I know that, but I thought\n18     we were going to mark that one. Maybe I was --\n19     I asked for that. Okay.\n20          It was an answer and counterclaim about\n21     the allegation shown to the witness.\n22          MR. SCAROLA: And Exhibit Number 2 will be\n23     the transcript from yesterday's proceedings\n24     that I have just referenced.\n25          (Thereupon, marked as Plaintiff",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "195\n1      A. I don't remember that I flew with her or\n2      not. I may have. But I don't recall necessarily.\n3      But I did meet -- I remember meeting a woman named\n4      Tatiana. This does not look like Tatiana, like the\n5      woman I met.\n6           Q. Okay. So that's a -- that's a different\n7      Tatiana?\n8           A. No, I don't know.\n9           MR. SCOTT: Objection, form,\n10     argumentative.\n11          A. I have no idea. I do not recognize this\n12     woman. She's not familiar to me at all.\n13          I can tell you this: Without any doubt, I\n14     never met anybody dressed like this on any airplane\n15     or in the presence of Jeffrey Epstein or in any\n16     context --\n17          BY MR. SCAROLA:\n18          Q. Did she have --\n19          A. -- related to this case.\n20          Q. -- more clothes on or less clothes on when\n21     you met her?\n22          MR. SCOTT: Objection, form. He said he\n23     never met her. Misrepresent --\n24          BY MR. SCAROLA:\n25          Q. When you met the woman that you're",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "194\n1      Exhibit 2.)\n2           MR. SCOTT: You don't have a copy of that,\n3      do you, of the transcript?\n4           MR. SCAROLA: No. Got sent to you. I\n5      assume you have it.\n6      BY MR. SCAROLA:\n7           Q. I'm going to hand you what we'll now mark\n8      as Exhibit Number 3.\n9           (Thereupon, marked as Plaintiff\n10     Exhibit 3.)\n11          MR. SCOTT: There's no question.\n12          MR. SWEDER: Yes.\n13     BY MR. SCAROLA:\n14          Q. Do you recognize that young woman,\n15     Mr. Dershowitz?\n16          A. No.\n17          Q. Never saw her?\n18          A. Not that I know of.\n19          Q. Never flew on an private airplane with\n20     her?\n21          A. Not that I know of.\n22          Q. Do you recognize the name Tatiana?\n23          A. I do recall that Jeffrey Epstein had a\n24     friend named Tatiana.\n25          Q. That you flew with?",
+        "type": "printed"
+      },
+      {
+        "region": "body",
+        "text": "196\n1      referencing, did she have more clothes on or less\n2      clothes on than that woman?\n3           A. Every woman that I met in the presence of\n4      Jeffrey Epstein was properly dressed, usually in\n5      suits and dresses and -- and appropriately covered\n6      up. I never met any women in the context of Jeffrey\n7      Epstein who were dressed anything like this.\n8           Q. Would you agree that that is a young woman\n9      in that photograph?\n10          A. I have no idea what her age is.\n11          Q. So you don't know whether she was underage\n12     or overage or a young woman or not a young woman?\n13          A. I don't --\n14          MR. SCOTT: Objection, form.\n15          A. -- know this woman, so I have no idea how\n16     old a woman in a picture is. She could be -- she\n17     could be 30. She could be 25. I have no idea.\n18     BY MR. SCAROLA:\n19          Q. Or she could be 15 or 16?\n20          A. I don't think so.\n21          Q. But you don't know?\n22          A. This doesn't -- well, I don't know how old\n23     you are. This does not strike me --\n24          Q. Old enough to know that --\n25          MR. SCOTT: You're cutting --",
+        "type": "printed"
+      },
+      {
+        "region": "footer",
+        "text": "5 (Pages 193 to 196)\n\nwww.phippsreporting.com\n(888) 811-3408\n\nHOUSE_OVERSIGHT_010787",
+        "type": "printed"
+      }
+    ]
+  },
+  "structured_data": {
+    "dates": [],
+    "people": [
+      "Jeffrey Epstein",
+      "MR. SCAROLA",
+      "MR. SCOTT",
+      "Tatiana",
+      "MR. SWEDER",
+      "Mr. Dershowitz"
+    ],
+    "organizations": [
+      "House Oversight"
+    ],
+    "locations": [],
+    "document_numbers": [
+      "193",
+      "194",
+      "195",
+      "196",
+      "5",
+      "HOUSE_OVERSIGHT_010787",
+      "Exhibit Number 1",
+      "Exhibit 2",
+      "Exhibit Number 3"
+    ],
+    "financial_amounts": [],
+    "contact_info": {
+      "phone_numbers": [
+        "(888) 811-3408"
+      ],
+      "email_addresses": [],
+      "addresses": [
+        "www.phippsreporting.com"
+      ]
+    },
+    "signatures": [],
+    "stamps_or_markings": []
+  },
+  "document_metadata": {
+    "document_type": "transcript",
+    "sender": null,
+    "recipient": null,
+    "subject": "Deposition or hearing testimony concerning Jeffrey Epstein, a woman named Tatiana, and an unidentified photograph.",
+    "date": null,
+    "references": [
+      "Exhibit Number 1",
+      "Exhibit 2",
+      "Exhibit Number 3",
+      "HOUSE_OVERSIGHT_010787"
+    ]
+  },
+  "confidence": {
+    "text_extraction": 0.99,
+    "structured_data": 0.98,
+    "overall": 0.98
+  },
+  "notes": "The document is a transcript of a legal proceeding. The speakers are identified as MR. SCAROLA, MR. SCOTT, MR. SWEDER, and an anonymous witness 'A' who is identified as Mr. Dershowitz in a question on page 194. The questioning revolves around Jeffrey Epstein and a woman named Tatiana.",
+  "file_path": "IMAGES\\001\\HOUSE_OVERSIGHT_010787.jpg",
+  "house_oversight_id": "010787",
+  "processing_metadata": {
+    "processed_at": "2025-11-14T02:28:49.549235Z",
+    "model": "gemini-2.5-pro"
+  }
+}
